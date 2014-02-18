@@ -1,0 +1,1257 @@
+"3fd66200f964a52011ed1ee3","Kirala","Food::Sushi Restaurant",37.85931142293676,-122.26681888103485
+"3fd66200f964a520f5ec1ee3","Jakarta Indonesian Cuisine","Food::Indonesian Restaurant",37.869043737568354,-122.29250525844122
+"408c5100f964a520c9f21ee3","Games of Berkeley","Shop & Service::Toy / Game Store",37.87033461707875,-122.26778970499262
+"408c5100f964a520cbf21ee3","Berkeley Ironworks Climbing & Fitness Club","Shop & Service::Gym / Fitness Center::Gym",37.85109201589417,-122.29256616801393
+"408ef400f964a520d9f21ee3","Wilde","College & University::College Residence Hall",37.867474,-122.251113
+"40b52f80f964a52066001fe3","Juan's Place","Food::Mexican Restaurant",37.85757455,-122.29109191666667
+"40bd1880f964a520b8001fe3","Thalassa","Arts & Entertainment::Pool Hall",37.866410455384134,-122.26720815860673
+"40bd1880f964a520b9001fe3","Beckett's Irish Pub & Restaurant","Nightlife Spot::Pub",37.86818811061234,-122.26770401000977
+"40bd1880f964a520c2001fe3","Albatross Pub","Nightlife Spot::Pub",37.870793281320786,-122.29302022009216
+"40de0e00f964a5208e011fe3","Chez Panisse","Food::New American Restaurant",37.87956036881457,-122.26893063439172
+"40ff0380f964a520430b1fe3","Saul's Restaurant & Deli","Food::Deli / Bodega",37.880719,-122.26905264
+"412bd680f964a520ab0c1fe3","Berkeley Espresso","Food::Sandwich Place",37.87381701817958,-122.26858171067855
+"42756d80f964a5207e211fe3","Acme Bar","Nightlife Spot::Bar",37.86771879742792,-122.29145317849466
+"43334580f964a5200f281fe3","Tuk Tuk Thai Cafe","Food::Thai Restaurant",37.86449386303605,-122.26773985828395
+"43334580f964a52010281fe3","Shattuck Cinemas","Arts & Entertainment::Movie Theater",37.86880215490246,-122.2680151462555
+"43a47bc4f964a5204b2c1fe3","Berkeley Bowl","Shop & Service::Food & Drink Shop::Grocery Store",37.857178,-122.267337
+"43ebbf8bf964a5203b2f1fe3","Gregoire Berkeley","Food::French Restaurant",37.87849778,-122.26860401112786
+"43fcca3ff964a520ef2f1fe3","Pacific Film Archives (PFA)","Arts & Entertainment::Movie Theater",37.868945,-122.257707
+"43fd0397f964a520f12f1fe3","Nefeli Cafe","Food::Café",37.87542,-122.26031406666667
+"441692f2f964a52005311fe3","Venus Restaurant","Food::American Restaurant",37.867092,-122.267584
+"44169375f964a52006311fe3","Zellerbach Hall","College & University::College Theater",37.86915418008226,-122.26038998279752
+"44a13b90f964a520cf341fe3","Brewed Awakening","Food::Coffee Shop",37.875726,-122.260226
+"44ed5170f964a520d6371fe3","Cesar - Berkeley","Food::Tapas Restaurant",37.879691,-122.26912558078766
+"44f9caacf964a5206f381fe3","Steamworks","Shop & Service::Spa / Massage",37.86582814355235,-122.2992826184961
+"45058f86f964a5200a391fe3","Ethiopia Restaurant","Food::Ethiopian Restaurant",37.85685360431671,-122.25945868
+"45215c72f964a520ca3a1fe3","Berkeley Repertory Theatre","Arts & Entertainment::Performing Arts Venue::Theater",37.871086121232295,-122.26965617051668
+"45320a62f964a520763b1fe3","Caffe Mediterraneum","Food::Café",37.86558151245117,-122.258375
+"455827ccf964a5203e3d1fe3","University of California, Berkeley","College & University::University",37.870644257069564,-122.25968956947327
+"45781a67f964a520b63e1fe3","Berkeley Marina","Outdoors & Recreation::Harbor / Marina",37.86580811128722,-122.31473922729492
+"45846f64f964a5209b3f1fe3","REI","Shop & Service::Sporting Goods Shop",37.879151252567006,-122.29614315987024
+"459e283ef964a520a9401fe3","Le Bateau Ivre","Food::Coffee Shop",37.86245184282237,-122.25862741470337
+"459e2aeaf964a520af401fe3","Starbucks","Food::Coffee Shop",37.86873819766468,-122.26790047537284
+"45b8bbb8f964a520d2411fe3","Lanesplitter Pizza & Pub","Food::Pizza Place",37.86865109,-122.291673
+"45bcb887f964a52002421fe3","Vik’s Chaat Corner","Food::Indian Restaurant",37.86137703288877,-122.298219531786
+"45bcbc2bf964a52005421fe3","Rick & Ann's Restaurant","Food::Breakfast Spot",37.8585194145956,-122.244063019753
+"45fa9688f964a52057441fe3","Picante","Food::Mexican Restaurant",37.87826,-122.301143
+"463390c7f964a52006461fe3","Brennan's Restaurant & Bar","Nightlife Spot::Sports Bar",37.86701,-122.3004
+"4646efb9f964a52093461fe3","Thai Temple","Food::Thai Restaurant",37.856588758064895,-122.27073615788407
+"464792f1f964a5209b461fe3","House of Curries","Food::Indian Restaurant",37.85644761615744,-122.25312268979606
+"464793ebf964a5209c461fe3","Caffe Strada","Food::Coffee Shop",37.86914985574429,-122.25479554044828
+"4647948bf964a5209d461fe3","La Méditerranée","Food::Mediterranean Restaurant",37.85750715625203,-122.25324153900146
+"465047e1f964a520ce461fe3","Fosters Freeze - Berkeley","Food::Ice Cream Shop",37.86955642,-122.2897356748581
+"46521c11f964a520e7461fe3","Yogurt Park","Food::Ice Cream Shop",37.86772896,-122.259752
+"468f7ad8f964a52098481fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.880318,-122.268351
+"468f7bc3f964a5209a481fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.87020848,-122.300934
+"469fc92ef964a5201a491fe3","Berkeley Community Theater","Arts & Entertainment::Performing Arts Venue::Indie Theater",37.869041,-122.270944
+"46aa8f98f964a52062491fe3","The Cheese Board Collective","Food::Bakery",37.87996663781769,-122.26936817203574
+"46aa9130f964a52064491fe3","Rivoli","Food::New American Restaurant",37.891077,-122.286318
+"46aa926df964a52065491fe3","Casa Latina Bakery","Food::Mexican Restaurant",37.87149762487192,-122.29279873151587
+"46aa9cc0f964a52069491fe3","Shattuck Down Low","Nightlife Spot::Lounge",37.86778724603745,-122.26800570712736
+"46ab33abf964a5206b491fe3","Sconehenge","Food::Coffee Shop",37.858711,-122.26676205
+"46abf225f964a5206f491fe3","Thai Noodle","Food::Thai Restaurant",37.873186,-122.26851745
+"46bf8ce9f964a520e5491fe3","Nation's Giant Hamburgers & Great Pies","Food::Burger Joint",37.87108598397212,-122.27492862043195
+"46bf8d95f964a520e6491fe3","Venezia","Food::Italian Restaurant",37.87141941930365,-122.27546581968427
+"46c2f502f964a520f9491fe3","Berkeley City College","College & University::Community College",37.870158,-122.26951801268874
+"46c6f86bf964a520114a1fe3","Cancun Taqueria","Food::Taco Place",37.86954436235414,-122.26684261353921
+"47231962f964a520d04b1fe3","Walter A. Haas School of Business","College & University::University",37.87181724985071,-122.25386381149292
+"47a102daf964a520784d1fe3","Missouri Lounge","Nightlife Spot::Bar",37.85903189155283,-122.28938698768616
+"4813c23ff964a520484f1fe3","North Berkeley BART Station","Travel & Transport::Train Station::Train",37.87422422078831,-122.28313030541598
+"4813c27cf964a520494f1fe3","Downtown Berkeley BART Station","Travel & Transport::Subway",37.870191015950546,-122.26809986176693
+"4813c2d1f964a5204a4f1fe3","Ashby BART Station","Travel & Transport::Subway",37.85333672389216,-122.27001802808098
+"48175d3df964a520664f1fe3","Ben & Jerry's","Food::Ice Cream Shop",37.87024619751356,-122.26620197296143
+"4842f59ef964a5204c501fe3","Orchard Hardware Supply","Shop & Service::Hardware Store",37.85241383448017,-122.28854052389912
+"49c2d976f964a52030561fe3","Triple Rock Brewery & Alehouse","Food::Brewery",37.873483,-122.26863148
+"49c3ef9ef964a52088561fe3","Tacubaya","Food::Taco Place",37.870076,-122.30128298333334
+"49c6e8aff964a5208a571fe3","Sack's Coffeehouse","Food::Coffee Shop",37.862050106979076,-122.25353259602495
+"49c7c44ef964a520bd571fe3","Meal Ticket","Food::Diner",37.88107824,-122.29580698333334
+"49cc5e4af964a52070591fe3","Starry Plough Pub","Arts & Entertainment::Music Venue::Rock Club",37.853025,-122.266059
+"49ccfcc9f964a520a8591fe3","Love at First Bite Bakery","Food::Cupcake Shop",37.87995663,-122.268654
+"49cd18abf964a520b7591fe3","Pyramid Brewery & Alehouse","Food::Brewery",37.87994958946737,-122.30004116865365
+"49cfc5bef964a520c45a1fe3","Fellini Coffee Bar","Food::Coffee Shop",37.87031292915344,-122.28394368
+"49d3e441f964a520215c1fe3","Trumer Pils Brauerei","Food::Brewery",37.87681752678015,-122.30300333817608
+"49dad0cef964a520b35e1fe3","Yali's Stanley Hall Cafe","Food::Café",37.873768,-122.256537
+"49dcd103f964a520a55f1fe3","Bette's Oceanview Diner","Food::Diner",37.86982238448328,-122.30052840969257
+"49dcd440f964a520ab5f1fe3","Oscar's","Food::Burger Joint",37.87402623115054,-122.26877001885622
+"49dcd64cf964a520af5f1fe3","Saigon Express","Food::Vietnamese Restaurant",37.871159,-122.267672
+"49e2c616f964a5205e621fe3","Berkeley YMCA","Shop & Service::Gym / Fitness Center::Gym",37.86924329605835,-122.26967832421374
+"49e2c674f964a52060621fe3","Bongo Burger - Downtown","Food::Burger Joint",37.8704669,-122.26648
+"49e4d4a4f964a52056631fe3","Starbucks","Food::Coffee Shop",37.891463,-122.280041
+"49e53198f964a520a7631fe3","Breads of India","Food::Indian Restaurant",37.86234091,-122.28123227
+"49e8cfb6f964a5208b651fe3","Urban Ore Salvage","Shop & Service::Hardware Store",37.85052267605451,-122.29054505900856
+"49ecbfc6f964a5207d671fe3","Café Fanny","Food::Coffee Shop",37.875065,-122.29373228985764
+"49ee31e5f964a52038681fe3","900 Grayson","Food::Breakfast Spot",37.855219,-122.292338
+"49f212a5f964a520de691fe3","Hana Japan Steak & Seafood","Food::Japanese Restaurant",37.864254528372726,-122.31338965706195
+"49f3d5cdf964a520e66a1fe3","Viceroy Indian Cuisine","Food::Indian Restaurant",37.872051,-122.268368
+"49f902d3f964a5204c6d1fe3","Starbucks","Food::Coffee Shop",37.870416,-122.266097
+"49fa254ef964a520cb6d1fe3","East Bay Vivarium","Shop & Service::Pet Store",37.869600406467114,-122.29907221676265
+"49faa77ff964a5200b6e1fe3","Bacheeso's Garden Bistro","Food::Breakfast Spot",37.86108613014111,-122.289393
+"49fe545bf964a520946f1fe3","Le Régal","Food::Vietnamese Restaurant",37.87040472711405,-122.26726908266271
+"49fe6217f964a5209d6f1fe3","Tara's Organic Ice Cream","Food::Ice Cream Shop",37.85161467,-122.252472
+"4a062deaf964a520c9721fe3","Fertile Grounds Cafe","Food::Café",37.87484,-122.26858893333333
+"4a07cd9ff964a5209a731fe3","Berkeley Rose Garden","Outdoors & Recreation::Garden",37.88525240170636,-122.26328372955322
+"4a090c6af964a5202f741fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.87051721701939,-122.26890563964842
+"4a0cebeff964a5206b751fe3","Tully's Coffee","Food::Coffee Shop",37.870054,-122.26805
+"4a0dc428f964a52094751fe3","Donkey and Goat Winery","Food::Winery",37.877991877966984,-122.30220051534747
+"4a0e39d1f964a520d5751fe3","Indus Village Pakistani Restaurant","Food::Indian Restaurant",37.86993184,-122.29266
+"4a0f1b29f964a52025761fe3","Cafe Zeste","Food::Coffee Shop",37.8684116761362,-122.28676299015379
+"4a0f1c17f964a52028761fe3","Lawrence Hall of Science","Arts & Entertainment::Museum",37.87929093491064,-122.24676132202148
+"4a0f2588f964a5202f761fe3","La Note","Food::Breakfast Spot",37.866266,-122.267418
+"4a1034d8f964a52094761fe3","Peter Thomas","Shop & Service::Salon / Barbershop",37.876471,-122.26906819
+"4a104b74f964a520a0761fe3","Great China","Food::Chinese Restaurant",37.868759,-122.266912
+"4a134a20f964a520cf771fe3","Central Library","Professional & Other Places::Library",37.868338268739414,-122.2687146341326
+"4a18b558f964a520df791fe3","Oriental Restaurant","Food::Vietnamese Restaurant",37.87517309188843,-122.26888391666667
+"4a18f9eff964a520ff791fe3","Ajanta Restaurant","Food::Indian Restaurant",37.89135721666667,-122.27756
+"4a1b1758f964a520cd7a1fe3","Amoeba Music","Shop & Service::Record Shop",37.865951,-122.258527
+"4a1b8f9ff964a520007b1fe3","Star Grocery","Shop & Service::Food & Drink Shop::Gourmet Shop",37.854732,-122.248238
+"4a1c3a27f964a520267b1fe3","Sushi California","Food::Sushi Restaurant",37.871074,-122.272892
+"4a21f2bdf964a5204f7d1fe3","Julia Morgan Center For The Arts","Arts & Entertainment::Performing Arts Venue::Theater",37.862220485432154,-122.25390926522492
+"4a28cf44f964a52053951fe3","The Xocolate Bar","Food::Dessert Shop",37.89127089,-122.28263
+"4a28cfd6f964a52054951fe3","Kirin - Cuisine of Northern China","Food::Chinese Restaurant",37.891469,-122.280764
+"4a29ac70f964a520bd951fe3","Moe's Books","College & University::College Bookstore",37.86543275406058,-122.25852335496175
+"4a29bc71f964a520ca951fe3","Shakespeare & Co. Books","Shop & Service::Bookstore",37.86525378333333,-122.258439
+"4a2a999ef964a52028961fe3","Downtown Berkeley Farmers' Market (Saturday)","Shop & Service::Food & Drink Shop::Farmers Market",37.86977829577727,-122.27173859789566
+"4a2b2909f964a520af961fe3","Herbivore","Food::Vegetarian / Vegan Restaurant",37.864724,-122.267372
+"4a2b2d09f964a520b1961fe3","Vanessa's Bistro","Food::Vietnamese Restaurant",37.891285,-122.28219
+"4a2b7ce1f964a520d2961fe3","Homemade Cafe","Food::Café",37.86221845361431,-122.2813028408819
+"4a2c3c29f964a52039971fe3","Sea Salt","Food::Seafood Restaurant",37.860613,-122.289558
+"4a2c3e6df964a5203b971fe3","Cafe Rouge","Food::French Restaurant",37.87020385062571,-122.30123698711395
+"4a2c53e1f964a5204d971fe3","Berkeley Bowl West","Shop & Service::Food & Drink Shop::Grocery Store",37.85343161834265,-122.29009653371708
+"4a2ec174f964a5204a981fe3","Crepes A Go Go!","Food::Mediterranean Restaurant",37.87235826283463,-122.26755154828513
+"4a2ed4e4f964a52067981fe3","Comic Relief","Shop & Service::Bookstore",37.8714,-122.26838529109955
+"4a305bb8f964a52057991fe3","Beta Lounge","Nightlife Spot::Bar",37.867082,-122.266366
+"4a30790df964a52073991fe3","Bangkok Thai Cusine","Food::Thai Restaurant",37.87031705011901,-122.2835124076682
+"4a330764f964a520f59a1fe3","Golden Bear Gym","Shop & Service::Gym / Fitness Center::Gym",37.86545661021026,-122.24726021289825
+"4a34155cf964a520b19b1fe3","Live Oak Park","Outdoors & Recreation::Playground",37.884288113347814,-122.26941801798242
+"4a34504df964a5200f9c1fe3","Plátano Salvadoran Cuisine","Food::Latin American Restaurant",37.87191304506087,-122.26969493948347
+"4a346a4bf964a520399c1fe3","Half Price Books","Shop & Service::Bookstore",37.87115588,-122.268309
+"4a357b76f964a5200a9d1fe3","Ici Ice Cream","Food::Ice Cream Shop",37.85735515,-122.253176
+"4a3c07b8f964a52008a11fe3","Willard park","Outdoors & Recreation::Park",37.86092929587995,-122.25706100463867
+"4a3d58c2f964a52022a21fe3","Far Leaves Tea","Food::Tea Room",37.85830341084382,-122.28889346122742
+"4a3d5f80f964a52030a21fe3","Andronico's","Shop & Service::Food & Drink Shop::Grocery Store",37.869409,-122.2838291
+"4a3dafb5f964a5209aa21fe3","Indian Rock Park","Outdoors & Recreation::Park",37.892210436996606,-122.27305117082473
+"4a4026d5f964a5205ca41fe3","GameStop - Downtown Berkeley","Shop & Service::Video Game Store",37.869253,-122.26797
+"4a412f07f964a520eea41fe3","Aurora Theatre Company","Arts & Entertainment::Performing Arts Venue::Theater",37.87106701238556,-122.26903586512849
+"4a41bca8f964a52090a51fe3","Crepevine","Food::French Restaurant",37.878264,-122.269153
+"4a47c27ff964a5200daa1fe3","Miyuki Japanese Restaurant","Food::Japanese Restaurant",37.891317813410716,-122.2827315885589
+"4a480beff964a5207baa1fe3","People's Park","Outdoors & Recreation::Park",37.86571664387714,-122.25718290769034
+"4a4847aaf964a520acaa1fe3","Steve's Korean BBQ","Food::Korean Restaurant",37.868239,-122.258051
+"4a4a60a6f964a520bbab1fe3","Blondie's Pizza","Food::Pizza Place",37.868027187814164,-122.2591906785965
+"4a4d3cd3f964a520bfad1fe3","People's Coffee & Tea","Food::Coffee Shop",37.87191614665128,-122.26783401315853
+"4a4ebb83f964a520fcae1fe3","Taqueria la Familia","Food::Mexican Restaurant",37.855701,-122.266383
+"4a4ed4daf964a52024af1fe3","Bobby G's Pizzeria","Food::Pizza Place",37.872125,-122.268995
+"4a52b042f964a520eab11fe3","Skates On The Bay","Nightlife Spot::Bar",37.86358268144868,-122.31804545392347
+"4a53e9cef964a520d6b21fe3","Berkeley Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",37.859472364767825,-122.27298259735107
+"4a562743f964a52091b41fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",37.85561874336427,-122.26015180955156
+"4a569ad0f964a52083b51fe3","Yogurtland","Food::Dessert Shop",37.86872774362564,-122.25884467363358
+"4a57857af964a5204db61fe3","US Post Office","Professional & Other Places::Post Office",37.869205995854834,-122.270101
+"4a57eb0cf964a52011b71fe3","Guerilla Cafe","Food::Coffee Shop",37.87792413523421,-122.26916324956548
+"4a591817f964a520acb81fe3","Rasputin Music","Shop & Service::Record Shop",37.866736,-122.25871
+"4a591ed6f964a520b6b81fe3","Smart Alec's","Food::Burger Joint",37.86783812,-122.259
+"4a59300df964a520ebb81fe3","Stonemountain & Daughter Fabrics","Shop & Service::Arts & Crafts Store",37.863510847091675,-122.267569
+"4a5aab32f964a520bcba1fe3","Zabu Zabu","Food::Japanese Restaurant",37.870827,-122.271904
+"4a5b4bfef964a520f7ba1fe3","Photolab and photolaboratory.com","Shop & Service::Photography Lab",37.863919,-122.297467
+"4a5bea11f964a520febb1fe3","CU Sushi","Food::Sushi Restaurant",37.870466,-122.266494
+"4a5cf4fbf964a520ecbc1fe3","Holy Land Restaurant","Food::Middle Eastern Restaurant",37.856844,-122.252983
+"4a6004d4f964a520aac01fe3","Hotel Durant","Travel & Transport::Hotel",37.867953,-122.25639196
+"4a60dda5f964a52058c11fe3","Bear Basics","Shop & Service::Clothing Store::Accessories Store",37.86773958,-122.259058
+"4a60e25cf964a52066c11fe3","Sproul Plaza","College & University::College Quad",37.86950196342949,-122.25940002848051
+"4a617ffef964a52077c21fe3","Extreme Pizza  - Shattuck","Food::Pizza Place",37.86631,-122.267845
+"4a62191bf964a52017c31fe3","Mokka","Food::Coffee Shop",37.854502125,-122.259852
+"4a62327af964a52057c31fe3","Fat Apple's Restaurant & Bakery","Food::Breakfast Spot",37.881514,-122.27419188
+"4a628c44f964a5204bc41fe3","Bongo Burger","Food::Burger Joint",37.875569,-122.260182
+"4a6291cdf964a52055c41fe3","Soda Hall","College & University::College Academic Building::College Engineering Building",37.87539539764788,-122.25869178771973
+"4a637e0bf964a5202dc51fe3","Yali's Oxford Street Cafe","Food::Café",37.873523772785425,-122.2662878036499
+"4a64a1cff964a52063c61fe3","Beanery Inc.","Food::Coffee Shop",37.85789091031461,-122.2530008254783
+"4a664e06f964a52060c81fe3","Monterey Market","Shop & Service::Food & Drink Shop::Grocery Store",37.88121,-122.28219
+"4a678e20f964a520acc91fe3","Khana Peena","Food::Indian Restaurant",37.89152355,-122.277617
+"4a6801c3f964a52051ca1fe3","Chaat Cafe - Berkeley","Food::Indian Restaurant",37.87145821577099,-122.27283517892332
+"4a68c693f964a520fcca1fe3","Sutardja Dai Hall - CITRIS Building","College & University::College Academic Building::College Technology Building",37.874815283714625,-122.2583994269371
+"4a68c8ebf964a52003cb1fe3","Elmwood Laundry","Shop & Service::Laundry Service",37.85880318326838,-122.25276410579681
+"4a68c9ddf964a52007cb1fe3","Nabolom Bakery","Food::Bakery",37.858435,-122.252834
+"4a68d691f964a5201bcb1fe3","House of Curries (Durant)","Food::Indian Restaurant",37.867955,-122.257918
+"4a68deb9f964a52028cb1fe3","Recreational Sports Facility (RSF)","College & University::College Gym",37.8686826907337,-122.262618027927
+"4a6a08cff964a5206ecc1fe3","Jasmine Thai","Food::Thai Restaurant",37.875752,-122.260224
+"4a6a67a4f964a5205dcd1fe3","American Apparel","Shop & Service::Clothing Store",37.86852424001949,-122.25913818257669
+"4a6a83d4f964a520a8cd1fe3","Popeyes Louisiana Kitchen","Food::Fried Chicken Joint",37.87191152572632,-122.292922
+"4a6a86cdf964a520b0cd1fe3","Jupiter","Food::Brewery",37.869824410613234,-122.26751277853815
+"4a6a929ef964a520bfcd1fe3","César Chávez Park","Outdoors & Recreation::Park",37.87265146078976,-122.31950283050537
+"4a6b86b1f964a520fdce1fe3","Panache on College","Shop & Service::Cosmetics Shop",37.85779733,-122.25327035
+"4a6b9305f964a52032cf1fe3","Berkeley Art Museum","Arts & Entertainment::Museum::Art Museum",37.86881485921303,-122.25583791732788
+"4a6bce66f964a520f9cf1fe3","Angeline's Louisiana Kitchen","Food::Southern / Soul Food Restaurant",37.86830516912749,-122.26778970499262
+"4a6bce89f964a520facf1fe3","La Val's","Food::Pizza Place",37.875542,-122.260375
+"4a6bced7f964a520fbcf1fe3","Seven Palms","Food::Sandwich Place",37.87589904,-122.260246
+"4a6bd4d8f964a52009d01fe3","Andronico's","Shop & Service::Food & Drink Shop::Grocery Store",37.878841,-122.269726395607
+"4a6bdc0cf964a5201fd01fe3","David Brower Center","Professional & Other Places::Event Space",37.86951873878786,-122.26660445471437
+"4a6bdf7cf964a52025d01fe3","La Cascada Taqueria","Food::Mexican Restaurant",37.87042000537052,-122.26628321638627
+"4a6bdfcff964a52029d01fe3","Top Dog","Food::Hot Dog Joint",37.87041458735507,-122.26633306377654
+"4a6c98d4f964a520f5d01fe3","Ashby Flea Market","Shop & Service::Flea Market",37.85387264636812,-122.27019339637096
+"4a6cbf97f964a52080d11fe3","Yogurt Harmony","Food::Dessert Shop",37.868416,-122.267772
+"4a6d314af964a520aad21fe3","Mint Leaf Indian Bistro","Food::Indian Restaurant",37.879767,-122.269027
+"4a6dfb5df964a52082d31fe3","Turkish Kitchen","Food::Middle Eastern Restaurant",37.87253,-122.268421
+"4a6e18e6f964a520e5d31fe3","Raleigh's","Food::Brewery",37.86632383910609,-122.25881692174272
+"4a6e267ef964a52009d41fe3","Industrial Tattoo","Shop & Service::Tattoo Parlor",37.864933590444174,-122.25906193256378
+"4a6e58d3f964a5208dd41fe3","MLK Middle School Athletic Field","Outdoors & Recreation::Athletic & Sport",37.88364151938293,-122.2771327815477
+"4a6f5f67f964a52004d61fe3","Flame","Food::Burger Joint",37.856437,-122.252914
+"4a6fcb73f964a520fbd61fe3","Black and White Liquor","Shop & Service::Smoke Shop",37.85437303,-122.26926731
+"4a70a89bf964a52020d81fe3","Hillside Club","Professional & Other Places::Event Space",37.878868,-122.26501168333333
+"4a71e359f964a520c8d91fe3","Lotus House","Food::Chinese Restaurant",37.867964,-122.25825686
+"4a71e3bff964a520c9d91fe3","Tom Bates / Gilman Sports Complex","Outdoors & Recreation::Other Great Outdoors",37.877373419103854,-122.30865060994411
+"4a720635f964a52029da1fe3","Mo Joe Cafe","Food::Coffee Shop",37.861494324012426,-122.28077674678737
+"4a723d09f964a520b2da1fe3","French Hotel Cafe","Food::Café",37.879321896979675,-122.26925740318185
+"4a724fdcf964a520d6da1fe3","Royal Grounds Coffee House","Food::Café",37.865742,-122.267411
+"4a725feaf964a520f7da1fe3","Taste of the Himalayas","Food::Indian Restaurant",37.876483,-122.26901
+"4a726ca5f964a5200cdb1fe3","Kip's Bar","Nightlife Spot::Bar",37.867942491463474,-122.25972175598145
+"4a7274bff964a52019db1fe3","Roxie Food Center","Shop & Service::Food & Drink Shop::Liquor Store",37.86451769029377,-122.26263321632864
+"4a73336df964a520cedb1fe3","Maxwell Field","Outdoors & Recreation::Field",37.87231269606527,-122.25282311439514
+"4a7333bbf964a520d0db1fe3","Underhill Parking and Field","Professional & Other Places::Parking",37.86696000668059,-122.25487232208252
+"4a736522f964a52058dc1fe3","The Juice Bar Collective","Food::Juice Bar",37.88030608276689,-122.26857063371654
+"4a736a94f964a52064dc1fe3","Builders Booksource","Shop & Service::Bookstore",37.86944917293606,-122.30039552599457
+"4a736d25f964a5206adc1fe3","Gecko Gecko Thai California Eatery","Food::Thai Restaurant",37.870887744444445,-122.270548
+"4a73885af964a520b7dc1fe3","The Stuffed Inn","Food::Sandwich Place",37.87558096666667,-122.260218
+"4a738ae5f964a520c3dc1fe3","Edwards Stadium","College & University::College Stadium::College Track",37.868999,-122.264968
+"4a73a7baf964a52015dd1fe3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.88097932220235,-122.26993862980885
+"4a7414a6f964a520b8dd1fe3","Top Dog","Food::Hot Dog Joint",37.86796310705031,-122.25739893132352
+"4a74b515f964a5204fdf1fe3","Café Leila","Food::Coffee Shop",37.87253837115219,-122.29365146000183
+"4a74bd33f964a52070df1fe3","Young's Backpacking & Mountaineering","Shop & Service::Sporting Goods Shop",37.864884,-122.258685
+"4a74dc88f964a520cadf1fe3","Gordo Taqueria","Food::Burrito Place",37.85634028890539,-122.25285530090332
+"4a74e12bf964a520d7df1fe3","Local 123","Food::Coffee Shop",37.868468,-122.291749
+"4a74fe93f964a52039e01fe3","Norikonoko Japanese Restaurant","Food::Japanese Restaurant",37.86384880542755,-122.258709
+"4a75d345f964a5205de11fe3","Gioia Pizzeria","Food::Pizza Place",37.881733,-122.281639
+"4a75f931f964a520d0e11fe3","Pegasus Fine Books","Shop & Service::Bookstore",37.891543,-122.278565
+"4a7645a6f964a520bde21fe3","Almare Gelato Italiano","Food::Ice Cream Shop",37.869831322623526,-122.26805001520341
+"4a787cecf964a520bfe51fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.891443371772766,-122.27931554
+"4a789eb2f964a5200fe61fe3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.881478,-122.269005
+"4a7a0abef964a52046e81fe3","Hida Tool","Shop & Service::Hardware Store",37.879646,-122.295413
+"4a7b92eaf964a52075eb1fe3","Chipotle Mexican Grill","Food::Mexican Restaurant",37.86834621852128,-122.25908833182108
+"4a7c813af964a520d5ec1fe3","Tandor Kitchen","Food::Indian Restaurant",37.863155,-122.258862
+"4a7cbce6f964a52069ed1fe3","Oak Barrel Winecraft","Shop & Service::Hobby Shop",37.877374,-122.294601
+"4a7cbfc6f964a52079ed1fe3","Hotel Shattuck Plaza","Nightlife Spot::Bar",37.869258446168885,-122.26844878705859
+"4a7cc07ef964a5207bed1fe3","Bear's Lair Brew Pub","Nightlife Spot::Sports Bar",37.868939,-122.25982367992401
+"4a7ccb73f964a520a9ed1fe3","Chevron Station","Shop & Service::Gas Station / Garage",37.87009,-122.281588
+"4a7f7445f964a52019f41fe3","Andronico's","Shop & Service::Food & Drink Shop::Grocery Store",37.86204,-122.25851476192474
+"4a7f7f83f964a5203af41fe3","Imperial Tea Court","Food::Tea Room",37.87981775,-122.268853
+"4a7fd611f964a5208bf41fe3","Mario's La Fiesta","Food::Mexican Restaurant",37.86580689244807,-122.25806361668063
+"4a85bea4f964a52022ff1fe3","Brazil Fresh Squeeze Cafe","Food::Brazilian Restaurant",37.872485518455505,-122.26685285
+"4a8602d3f964a520170020e3","Berkeley High School","Professional & Other Places::School::High School",37.86836786971059,-122.27102969101922
+"4a86e531f964a520830120e3","Cafe Milano","Food::Coffee Shop",37.868596,-122.25864058
+"4a86fd9bf964a520fc0120e3","University Veterinary Hospital","Professional & Other Places::Medical Center::Veterinarian",37.867782,-122.298268
+"4a876707f964a5203a0420e3","Thai Basil","Food::Thai Restaurant",37.86824739787042,-122.25809901952744
+"4a88968bf964a520070720e3","Sur La Table","Shop & Service::Miscellaneous Shop",37.86995073333333,-122.300961
+"4a88b0dbf964a520650720e3","Arinell Pizza","Food::Pizza Place",37.87092,-122.267743
+"4a89846af964a520390820e3","Original Pollo's","Food::American Restaurant",37.87105925304027,-122.26807951927185
+"4a8a198ff964a520e00920e3","John's $1 Scoop Ice Cream","Food::Ice Cream Shop",37.869067252981075,-122.26778970499262
+"4a8aec73f964a520e60a20e3","Chester's Bay View Cafe","Food::Breakfast Spot",37.880004,-122.268473
+"4a8c48c6f964a5208d0d20e3","O Chamé","Food::Sushi Restaurant",37.869502245129446,-122.30063914598055
+"4a8cba30f964a520030f20e3","UC Berkeley School of Journalism","Professional & Other Places::Office",37.8749423163534,-122.259904146194
+"4a8cbab3f964a520040f20e3","Crepes a Go Go","Food::French Restaurant",37.867975628571436,-122.259006
+"4a8efbd3f964a520741320e3","Uncommon Café","Food::Coffee Shop",37.854756,-122.291825
+"4a8f6df3f964a520431520e3","7-Eleven","Shop & Service::Gas Station / Garage",37.8707036313449,-122.28160188268122
+"4a8fcb62f964a5209d1520e3","Grove Park","Outdoors & Recreation::Park",37.85659229993249,-122.27203845977783
+"4a906cd0f964a520c61720e3","Anchalee Thai Cuisine","Food::Thai Restaurant",37.860976,-122.28991
+"4a908c97f964a520771820e3","Crate & Barrel Outlet","Shop & Service::Furniture / Home Store",37.870494,-122.300682
+"4a92035ef964a520961c20e3","Joshu-Ya","Food::Sushi Restaurant",37.865154,-122.25895984
+"4a920851f964a520a71c20e3","Shen Hua","Food::Chinese Restaurant",37.857983,-122.253292
+"4a92c1caf964a520941d20e3","Ohlone Dog Park","Outdoors & Recreation::Dog Run",37.87317654303429,-122.27476358413696
+"4a92ec1bf964a520291e20e3","Jimmy Bean's","Food::Breakfast Spot",37.879411,-122.301395
+"4a9313bbf964a520b61e20e3","Crossroads Trading Co.","Shop & Service::Thrift / Vintage Store",37.867055,-122.267836
+"4a932254f964a520e61e20e3","Staples","Shop & Service::Paper / Office Supplies Store",37.866407,-122.26795983
+"4a936acdf964a520bd1f20e3","King Tsin","Food::Dim Sum Restaurant",37.89135422,-122.282526633333
+"4a956ec6f964a520332320e3","Berkeley Dog and Cat Hospital","Professional & Other Places::Medical Center::Hospital",37.864829,-122.266304
+"4a96cad5f964a520fc2620e3","Cory Hall","College & University::College Academic Building::College Technology Building",37.875385384571786,-122.25783097727697
+"4a97182af964a520652820e3","Bread Workshop","Food::Sandwich Place",37.870059967041016,-122.28446960449219
+"4a9757fbf964a5206f2920e3","Café Gratitude","Food::Vegetarian / Vegan Restaurant",37.876025,-122.26902820000001
+"4a98352bf964a520fb2a20e3","Gomnaru","Food::Korean Restaurant",37.875458,-122.259791
+"4a98906bf964a520b82c20e3","Manpuku Sushi","Food::Sushi Restaurant",37.85664,-122.25296288000001
+"4a98ccfbf964a5203d2d20e3","Bancroft Clothing Co","Shop & Service::Clothing Store",37.868571,-122.258356
+"4a997080f964a520552e20e3","Berkeley Hair Studio","Shop & Service::Salon / Barbershop",37.863859,-122.258658
+"4a998cb9f964a520022f20e3","Upper Playground - Berkeley","Shop & Service::Clothing Store::Boutique",37.864979383333335,-122.25859248333333
+"4a99d29bf964a520ac3020e3","Jamba Juice - Bancroft","Food::Juice Bar",37.86879366666667,-122.258909
+"4a9ac750f964a520a43220e3","Cafe M","Food::Breakfast Spot",37.87043224334247,-122.29983076842302
+"4a9b21fef964a520853420e3","Buffalo Exchange","Shop & Service::Clothing Store",37.863784,-122.258445
+"4a9b29c8f964a5209f3420e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.86944844186029,-122.26815524681018
+"4a9b4535f964a520df3420e3","Filippo's","Food::Italian Restaurant",37.85772,-122.25325
+"4a9e9149f964a520763a20e3","Thousand Oaks Elementary School","Professional & Other Places::School::Elementary School",37.8925870937699,-122.2805829219915
+"4a9ece4cf964a5203b3b20e3","La Farine Boulangerie Patisserie","Food::Bakery",37.891278045853404,-122.27937566245679
+"4aa0424bf964a520e83e20e3","Urban Outfitters","Shop & Service::Clothing Store",37.868891085030576,-122.2570475935936
+"4aa05602f964a5202c3f20e3","Mike's Bikes of Berkeley","Shop & Service::Bike Shop",37.872549831535984,-122.26688861846924
+"4aa056e8f964a520323f20e3","McDonald's","Food::Fast Food Restaurant",37.87222151575108,-122.26863155699327
+"4aa05980f964a520473f20e3","Berkeley Ace Hardware","Shop & Service::Hardware Store",37.87248,-122.267144
+"4aa075adf964a520b93f20e3","Meridian Restaurant","Nightlife Spot::Sports Bar",37.872013449668884,-122.269509
+"4aa1830df964a520d14020e3","Barney's Gourmet Hamburgers - North Berkeley","Food::Burger Joint",37.8782788921707,-122.26950109450834
+"4aa29755f964a520ed4120e3","OCSC Sailing","Outdoors & Recreation::Harbor / Marina",37.868607462377646,-122.31843296644374
+"4aa2af87f964a520114220e3","Dream Fluff Donuts","Food::Donut Shop",37.857096,-122.253395
+"4aa43d87f964a520fd4520e3","Ohmega Too","Shop & Service::Furniture / Home Store",37.8659099782995,-122.29104341822377
+"4aa4464cf964a520324620e3","Ohmega Salvage","Shop & Service::Thrift / Vintage Store",37.86246,-122.289919
+"4aa46d48f964a520c44620e3","Indian Rock Park","Outdoors & Recreation::Park",37.892210436996606,-122.27305117082473
+"4aa72a82f964a520144c20e3","Berkeley Krav Maga","College & University::College Gym",37.87931459230021,-122.29683528835174
+"4aa75f91f964a520cb4c20e3","John Hinkel Park","Outdoors & Recreation::Park",37.89509177442118,-122.27348869153862
+"4aa86776f964a520245120e3","Emilia's Pizzeria","Food::Pizza Place",37.85550827764878,-122.26659891613069
+"4aa94ef0f964a520025320e3","Hummingbird Cafe","Food::Sandwich Place",37.875602,-122.260227
+"4aaaa6d0f964a520cc5620e3","Crixa Cakes","Food::Bakery",37.858677,-122.267888
+"4aab5d62f964a520845920e3","Au Coquelet Cafe","Food::Tea Room",37.87175,-122.270605
+"4aad37cbf964a520115f20e3","Berkeley Natural Grocery Company","Shop & Service::Food & Drink Shop::Grocery Store",37.88042000800841,-122.28852391157177
+"4aad4bbdf964a5208d5f20e3","Bowzer's Pizza","Food::Pizza Place",37.868814,-122.267899
+"4aad51c7f964a520ab5f20e3","Caffe Trieste - Berkeley","Food::Coffee Shop",37.860983,-122.289723
+"4aada8c5f964a5202e6120e3","Jayakarta Restaurant","Food::Asian Restaurant",37.871957,-122.270004
+"4aadb4daf964a520516120e3","Freight & Salvage Coffeehouse","Arts & Entertainment::Concert Hall",37.87107577862738,-122.26961740153578
+"4aae8181f964a520466220e3","Moffitt Library","College & University::College Library",37.87257100430876,-122.26077318191528
+"4aafe73df964a520166520e3","Gilman Grill","Food::American Restaurant",37.87872928,-122.303722
+"4ab275d8f964a520426b20e3","Performance Bicycle","Shop & Service::Bike Shop",37.87138108504091,-122.2734546661377
+"4ab2a9aaf964a520cc6b20e3","Grainger","Shop & Service::Hardware Store",37.851099816279984,-122.29160268522718
+"4ab2ce30f964a520796c20e3","Hearst Gym","Shop & Service::Gym / Fitness Center::Gym",37.869491482579456,-122.25681732823715
+"4ab40f90f964a520ad6f20e3","Vintage Berkeley","Shop & Service::Food & Drink Shop::Wine Shop",37.857444229891925,-122.25299528618783
+"4ab537d6f964a520537320e3","Tokyo Fish Market","Shop & Service::Food & Drink Shop::Fish Market",37.881469,-122.29643478
+"4ab55105f964a520e97320e3","Evans Diamond","College & University::College Stadium::College Baseball Diamond",37.869560174933945,-122.26324081420898
+"4ab592bdf964a520727520e3","Sabuy Sabuy II","Food::Thai Restaurant",37.881119,-122.295859
+"4ab67943f964a520487720e3","7th Heaven Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.854300141334534,-122.293482
+"4ab6d225f964a520327920e3","La Pena Community Center","Arts & Entertainment::Performing Arts Venue::Theater",37.852866,-122.265945
+"4ab84063f964a520ba7c20e3","Cyprus Restaurant","Food::Middle Eastern Restaurant",37.871292,-122.268171
+"4aba9ab6f964a520128220e3","La Burrita","Food::Burrito Place",37.875523,-122.260351
+"4abab3b1f964a5208a8220e3","San Pablo Park","Outdoors & Recreation::Park",37.855249379217085,-122.28425445739603
+"4abc34baf964a520c28620e3","Wells Fargo Bank","Shop & Service::Bank",37.8702138333621,-122.26832140176711
+"4abc3960f964a520d38620e3","The Bone Room","Shop & Service::Gift Shop",37.891098,-122.285274
+"4abcf789f964a520da8720e3","UA Berkeley 7","Arts & Entertainment::Movie Theater",37.86792383798781,-122.26822170882406
+"4abd198df964a5206f8820e3","Bancroft Library","College & University::College Library",37.87220059104076,-122.25855104997562
+"4abd263af964a520c58820e3","Flavah Island Cafe","Food::Caribbean Restaurant",37.868203,-122.29181942
+"4abe8164f964a520198e20e3","Hot Topic @ Telegraph Avenue","Shop & Service::Clothing Store",37.868213,-122.25915
+"4abfb2c8f964a520b49120e3","Unit 5 - Clark Kerr Campus","College & University::College Residence Hall",37.86428351616802,-122.24843502044678
+"4abfd903f964a520979220e3","King Dong","Food::Chinese Restaurant",37.865156,-122.267404
+"4ac00d93f964a5209c9320e3","Berkeley Free Clinic","Professional & Other Places::Medical Center",37.86756982636374,-122.26208209991455
+"4ac109bef964a520869520e3","Masse's Pastries","Food::Dessert Shop",37.880777,-122.269089
+"4ac14eb2f964a520b29620e3","virginia dry cleaner","Shop & Service::Laundry Service",37.877635,-122.269161
+"4ac15953f964a520db9620e3","Hub Berkeley","Professional & Other Places::Office::Coworking Space",37.8694852,-122.266679
+"4ac23cf9f964a520579820e3","Strawberry Creek Park","Outdoors & Recreation::Park",37.86826433707825,-122.28647947311401
+"4ac3af9cf964a5205f9c20e3","Aki Japanese Restaurant","Food::Sushi Restaurant",37.875333,-122.259791
+"4ac50713f964a52009a020e3","Looking Glass Photo","Shop & Service::Camera Store",37.858711,-122.259545
+"4ac51cb2f964a52064b020e3","Anthropologie","Shop & Service::Furniture / Home Store",37.868885,-122.299578
+"4ac56952f964a520ecb120e3","Looney's Smokehouse","Food::BBQ Joint",37.867779,-122.266133
+"4ac61c5df964a520dab220e3","Blakes on Telegraph","Nightlife Spot::Bar",37.8675,-122.258943
+"4ac6c80ff964a5203db620e3","Zachary's Chicago Pizza","Food::Pizza Place",37.89158590226556,-122.2785726611442
+"4ac6d7aff964a5206fb620e3","Alumni House","College & University::College Administrative Building",37.86967027775357,-122.26135790348053
+"4ac7accbf964a52004b920e3","Biryani House","Food::Indian Restaurant",37.872029542922974,-122.26784
+"4ac7b413f964a52038b920e3","Espresso Roma Cafe","Food::Café",37.88157,-122.28224
+"4ac7cefbf964a520e1b920e3","Taqueria Monte Cristo","Food::Mexican Restaurant",37.870088,-122.283281
+"4ac7d65af964a52009ba20e3","Top Dog - Northside","Food::Hot Dog Joint",37.875237,-122.25979685783386
+"4ac92e8ff964a5200bbf20e3","Ryno's","Food::Dessert Shop",37.867353,-122.25900292396545
+"4ac9523cf964a520a4bf20e3","Corso Trattoria","Food::Italian Restaurant",37.875072,-122.268876
+"4aca21ebf964a5208ac020e3","Rainbow Ranch Cafe","Food::Sandwich Place",37.87075,-122.272976
+"4aca41f0f964a52017c120e3","Chipotle Mexican Grill","Food::Mexican Restaurant",37.87954631,-122.29614108333334
+"4aca9f14f964a5209ac220e3","the Dailey Method - Ashby","Shop & Service::Gym / Fitness Center::Gym",37.857114440905434,-122.25397019688226
+"4acec610f964a520dad120e3","Pie in the Sky","Food::Pizza Place",37.870377,-122.267559
+"4acecb82f964a520e7d120e3","Gelateria Naia","Food::Ice Cream Shop",37.870926,-122.268293
+"4acf6a50f964a52089d320e3","Noah's Bagels","Food::Bagel Shop",37.867913,-122.259055
+"4acfad39f964a52045d520e3","Phở Hòa","Food::Vietnamese Restaurant",37.868084,-122.267827
+"4acfd78cf964a5205fd620e3","Long Life Vegi House","Food::Chinese Restaurant",37.87215358,-122.267675
+"4ad0dab6f964a52071da20e3","Sweet Adeline Bakeshop","Food::Bakery",37.847658433333336,-122.2721804
+"4ad0de87f964a52096da20e3","Joi Nail Spa","Shop & Service::Spa / Massage",37.891173,-122.284571
+"4ad159adf964a52028de20e3","First Congregational Church of Berkeley","Professional & Other Places::Spiritual Center::Church",37.86707314078348,-122.26149775834305
+"4ad22619f964a520a9df20e3","The North Face Outlet","Shop & Service::Sporting Goods Shop",37.87949441666667,-122.302677
+"4ad22e9ff964a520e7df20e3","Blick Art Materials","Shop & Service::Arts & Crafts Store",37.868196580223525,-122.29815244674683
+"4ad2415ff964a52073e020e3","Paper Source","Shop & Service::Arts & Crafts Store",37.86883653333334,-122.299791
+"4ad36b19f964a5204de420e3","Sandwich Zone","Food::Sandwich Place",37.870790094579455,-122.26776201237956
+"4ad3b94ef964a520ebe520e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.86745592019123,-122.26792262943506
+"4ad53936f964a520720221e3","Tai San","Food::Chinese Restaurant",37.85902119826073,-122.25923234505144
+"4ad53f28f964a520830221e3","T-Rex Barbecue","Food::Restaurant",37.88006191232218,-122.29707891650418
+"4ad629e3f964a520760521e3","May Flower Chinese Restaurant","Food::Chinese Restaurant",37.872152664499666,-122.2671472345159
+"4ad62aa6f964a520790521e3","Tapioca Express","Food::Café",37.870773,-122.268214
+"4ad676e6f964a520510721e3","Funky Door Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.86301337539293,-122.26697553916343
+"4ad6b781f964a5202b0821e3","Yogurtland","Food::Dessert Shop",37.868764041957526,-122.26811707019806
+"4ad7669cf964a520120a21e3","Moccacino Cafe","Food::Café",37.86883234977722,-122.25793795
+"4ad889c8f964a5201f1221e3","Weatherford BMW of Berkeley","Shop & Service::Car Dealership",37.85006938416353,-122.29351758956908
+"4ad8dd3ff964a5206e1521e3","Pegasus Books & CDs","Shop & Service::Bookstore",37.866568083333334,-122.267434
+"4ad9e142f964a5208c1b21e3","Manhattan Bagels","Food::Bagel Shop",37.870423,-122.300645
+"4ada4026f964a520892021e3","Cloyne Court Co-Op","College & University::College Residence Hall",37.875997,-122.258031
+"4ada4d2bf964a5201b2121e3","Mr. Mopps'","Shop & Service::Toy / Game Store",37.881373,-122.27406
+"4adabbfff964a5201e2421e3","Wiki Wiki Hawaiian BBQ","Food::Restaurant",37.865579,-122.26749645876268
+"4adbdf10f964a520ee2a21e3","Ashkenaz","Arts & Entertainment::Music Venue",37.88013517856598,-122.295441
+"4adc851af964a520d62c21e3","The 924 Gilman Street Project","Arts & Entertainment::Music Venue::Rock Club",37.87961580547948,-122.29929922914151
+"4adcb6ccf964a520042f21e3","International House Cafe","Food::Café",37.86961,-122.252094
+"4ade13eaf964a520ec7221e3","Toust","Food::Korean Restaurant",37.868071,-122.259762
+"4ade63e7f964a5208d7521e3","Riva Cucina","Food::Italian Restaurant",37.852987,-122.29346930980682
+"4adf54aaf964a520807921e3","Tilden Park Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.88809759811117,-122.24407111581516
+"4ae0b430f964a520c88121e3","Tomate Cafe","Food::Breakfast Spot",37.86359537181698,-122.29731700711332
+"4ae2327ff964a520b28b21e3","Books Inc - Berkeley","Shop & Service::Bookstore",37.870662083758596,-122.30091044939803
+"4ae343d0f964a520909221e3","Holistic Hound","Shop & Service::Pet Store",37.879686048539504,-122.26827709380393
+"4ae347caf964a520cf9221e3","Benjamin Ide Wheeler Hall","College & University::College Academic Building",37.87124557700147,-122.25916922092438
+"4ae34c1df964a520fd9221e3","Citibank","Shop & Service::Bank",37.872115666666666,-122.26853740282365
+"4ae35173f964a520539321e3","Ludwig's Fountain","College & University::College Quad",37.86955890451583,-122.25949376821518
+"4ae35d29f964a520099421e3","Naan N Curry","Food::Indian Restaurant",37.86743223667145,-122.25908875465393
+"4ae3a374f964a5208f9721e3","University Press Books","College & University::College Bookstore",37.86836720442988,-122.26081647774552
+"4ae3c443f964a520c19821e3","Your Place Thai Cuisine","Food::Thai Restaurant",37.869835,-122.28752673333334
+"4ae65c61f964a520a5a621e3","FIVE Restaurant","Food::Restaurant",37.8693966050418,-122.26864817242631
+"4ae79babf964a520caac21e3","Restoration Hardware","Shop & Service::Furniture / Home Store",37.870865,-122.300846
+"4ae8ecdef964a52068b321e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",37.852203,-122.251381
+"4aea2651f964a520c8b921e3","South Hall","College & University::College Academic Building",37.87135144267859,-122.25852817296982
+"4aea4877f964a520bcba21e3","Hertz Concert Hall","Arts & Entertainment::Concert Hall",37.870909,-122.255776
+"4aea650cf964a52061bb21e3","Kitchen on Fire","Food::Restaurant",37.879833,-122.26902902126312
+"4aeb817df964a520cdc221e3","Ark Toy Company","Shop & Service::Toy / Game Store",37.86980578869034,-122.30071663856506
+"4aecee11f964a52042cc21e3","Bancroft Hotel","Travel & Transport::Hotel",37.86917904851857,-122.2549045085907
+"4aed2155f964a52031cd21e3","Berkeley City Club","Travel & Transport::Hotel",37.867549001401606,-122.2627162981453
+"4aede0e3f964a520d3cf21e3","Ann's Kitchen and Restaurant","Food::Breakfast Spot",37.86517381668091,-122.25856
+"4aee49f3f964a5205fd321e3","Razan's organic kitchen","Food::Burrito Place",37.86866068840027,-122.26682424545288
+"4aef673ef964a5202bd821e3","DoubleTree by Hilton Hotel Berkeley Marina","Travel & Transport::Hotel",37.86843520482367,-122.31449688054884
+"4aef7bccf964a520c8d821e3","Takara Sake USA Inc.","Arts & Entertainment::Museum",37.86604681160285,-122.29962590464002
+"4af12ac4f964a520cfe021e3","Espresso Roma Cafe - College Ave","Food::Café",37.856859,-122.25318301666667
+"4af1a18cf964a520b1e121e3","Dara Thai Lao Cuisine","Food::Thai Restaurant",37.878515,-122.268883
+"4af24b7ef964a5203ae721e3","Sufficient Grounds","Food::Café",37.867596,-122.25994308333334
+"4af28b37f964a520dde721e3","Unit 1","College & University::College Residence Hall",37.86779003778685,-122.25526928901672
+"4af355c3f964a520b4ec21e3","Peet's Coffee & Tea","Food::Coffee Shop",37.865111,-122.25842745
+"4af357a4f964a520bfec21e3","Peet's Coffee & Tea","Food::Coffee Shop",37.868519491924765,-122.2676401647966
+"4af3a4e7f964a52008ef21e3","Thai Noodle II","Food::Thai Restaurant",37.8664093256028,-122.258815
+"4af49ac7f964a52044f421e3","Giovanni","Food::Italian Restaurant",37.86524575688757,-122.26788385982314
+"4af4eb62f964a52073f721e3","La Quinta Inn Berkeley","Travel & Transport::Hotel::Motel",37.86797314154891,-122.29606564119953
+"4af593eef964a520f7f921e3","Berkeley Bagels","Food::Bagel Shop",37.88161938333333,-122.2904327
+"4af5f262f964a5203eff21e3","Tomatina","Food::Pizza Place",37.870468497276306,-122.266818
+"4af62308f964a520990122e3","Berkeley Hat Company","Shop & Service::Clothing Store::Accessories Store",37.86481976509094,-122.25863670000001
+"4af62c09f964a520e80122e3","King Pin Donuts","Food::Donut Shop",37.868049,-122.258063
+"4af62cbcf964a520ee0122e3","Fat Slice Pizza","Food::Pizza Place",37.867379258254914,-122.25879907608032
+"4af70717f964a520f90422e3","Thousand Oaks School Park","Outdoors & Recreation::Park",37.89243826791661,-122.2814468240754
+"4af73795f964a520400722e3","Berkeley Thai House","Food::Thai Restaurant",37.867116534271965,-122.25832948966325
+"4af773bff964a520580922e3","a'cuppa tea","Food::Café",37.85626487561677,-122.25308391480094
+"4af778fbf964a520770922e3","Summer Kitchen Bake Shop","Food::American Restaurant",37.857405,-122.253161
+"4af85e7bf964a5209a0c22e3","Meyer Sound","Professional & Other Places::Office",37.854643429594375,-122.28823596415216
+"4af8ac57f964a5201a0f22e3","Magnani Poultry","Food::Deli / Bodega",37.881637084885305,-122.28180124341375
+"4af9dbf4f964a520d21422e3","Sushi Ko","Nightlife Spot::Sake Bar",37.871474,-122.267737
+"4afb0a4df964a5208c1a22e3","Peet's Coffee & Tea","Food::Café",37.858701123156955,-122.24410435433313
+"4afcdd1ef964a520502622e3","Blockbuster Video - Berkeley","Shop & Service::Video Store",37.86591410636902,-122.26792
+"4afdb55ff964a5200d2a22e3","Smokehouse","Food::Burger Joint",37.85319160702913,-122.25998564185552
+"4afe1303f964a520b52d22e3","Soop","Food::Soup Place",37.879804,-122.269127
+"4afe1319f964a520b62d22e3","Berkeley City Hall","Professional & Other Places::Government Building::City Hall",37.8695728791138,-122.270713448524
+"4afeee53f964a520ce3122e3","Acme Bread Company","Food::Bakery",37.875076,-122.29373943333333
+"4afeffedf964a520c03222e3","Berkeley Recycling Center","Professional & Other Places::Building",37.87897720940847,-122.30567198835934
+"4aff397cf964a5201a3622e3","Subway","Food::Sandwich Place",37.86868605,-122.25927803333333
+"4aff4b3ef964a520023722e3","Teance - Fine Teas","Shop & Service::Food & Drink Shop",37.870194,-122.301188
+"4aff64f8f964a520263822e3","Pet Food Express","Shop & Service::Pet Store",37.86944024973594,-122.29190723532803
+"4aff7457f964a520be3822e3","Happy Donuts","Food::Donut Shop",37.88043,-122.296369
+"4aff7c2df964a520013922e3","Tako Sushi","Food::Sushi Restaurant",37.867260652237356,-122.25877260982757
+"4b00656cf964a520b53d22e3","Sunny Side Cafe","Food::Breakfast Spot",37.870191,-122.266008
+"4b0070d4f964a520413e22e3","Berkeley Touchless Car Wash","Shop & Service::Automotive Shop",37.86850148557906,-122.26644337177277
+"4b00947ff964a520a53f22e3","Good Vibrations Berkeley Store","Shop & Service::Gift Shop",37.8608201239874,-122.28957048312418
+"4b01baf7f964a520ec4422e3","Gypsy's Trattoria Italiana","Food::Italian Restaurant",37.868035,-122.25810124
+"4b01d4b2f964a520c44522e3","bay king pastries","Food::Donut Shop",37.86545276641846,-122.25870788097382
+"4b01dcd6f964a520124622e3","Rialto Cinemas Elmwood","Arts & Entertainment::Movie Theater",37.8566306596394,-122.25326117180633
+"4b0220a7f964a520e84722e3","Cafe Tibet","Food::Chinese Restaurant",37.871965,-122.27020123333334
+"4b0356d0f964a520b74e22e3","Epicurious Garden","Outdoors & Recreation::Garden",37.87984012,-122.269056
+"4b035723f964a520ba4e22e3","Kirala 2","Food::Sushi Restaurant",37.879819,-122.26903
+"4b04248ff964a520915122e3","UC Berkeley Parking & Transportation","College & University::College Administrative Building",37.868697280879154,-122.26689799923614
+"4b044bc3f964a520025322e3","Peking Express","Food::Chinese Restaurant",37.87016709,-122.26933834
+"4b04760ef964a520575422e3","Dwinelle Hall","College & University::College Academic Building",37.87052145169127,-122.2605049610138
+"4b04be35f964a520715622e3","Office Depot - North Berkeley","Shop & Service::Paper / Office Supplies Store",37.880567,-122.29741411
+"4b05940ff964a52065df22e3","UC Berkeley Career Center","College & University::Student Center",37.8678549,-122.266742
+"4b05a847f964a5205fe022e3","Adagia Restaurant","Food::Italian Restaurant",37.86905200594202,-122.25431978702545
+"4b05bbabf964a520e9e122e3","Kermit Lynch Wine Merchant","Shop & Service::Food & Drink Shop::Wine Shop",37.875063,-122.29379
+"4b05dec6f964a520d7e422e3","Boalt Hall School of Law","College & University::Law School",37.869658281297006,-122.25332764310743
+"4b05f9d5f964a520c7e622e3","Kyoto","Food::Sushi Restaurant",37.891111,-122.284459
+"4b061859f964a52091e822e3","La Bedaine","Food::Bakery",37.891119,-122.284981
+"4b061e83f964a520dce822e3","Andronico's","Shop & Service::Food & Drink Shop::Grocery Store",37.89105286666666,-122.278652
+"4b06e19af964a52016f222e3","Arlene's Cleaners","Shop & Service::Laundry Service",37.85637,-122.25307911
+"4b06fa7cf964a520adf422e3","lululemon athletica","Shop & Service::Clothing Store::Boutique",37.857179,-122.25317
+"4b06ff90f964a52010f522e3","Cactus Taqueria","Food::Mexican Restaurant",37.89152768,-122.27779408
+"4b07637bf964a52002fd22e3","Mrs. Dalloway's Bookstore","Shop & Service::Bookstore",37.858254,-122.253171
+"4b0848f7f964a520270823e3","Berkeley Honda","Professional & Other Places::Building",37.861896,-122.267649
+"4b0887eaf964a520cf0d23e3","Ashby Lumber","Shop & Service::Hardware Store",37.850636,-122.291664
+"4b08b481f964a5201a1123e3","Cafe Valparaiso","Food::Latin American Restaurant",37.85294723510742,-122.2662353515625
+"4b0978d7f964a520cb1723e3","Noah's Bagels","Food::Bagel Shop",37.851464,-122.252597
+"4b098d1cf964a520441923e3","The Spanish Table","Shop & Service::Food & Drink Shop::Gourmet Shop",37.870964,-122.292966
+"4b09efb7f964a520152023e3","Yoga to the People","Shop & Service::Gym / Fitness Center::Yoga Studio",37.87149615,-122.268267
+"4b0c4709f964a520503a23e3","Westside Bakery Cafe","Food::Café",37.85892226666667,-122.2913401
+"4b0c99c3f964a520f53f23e3","Lucky House Thai","Food::Thai Restaurant",37.872179,-122.26730167865753
+"4b0d6962f964a520bc4723e3","Everett & Jones Barbeque","Food::BBQ Joint",37.869621,-122.292235
+"4b0d94caf964a520864b23e3","Ledger's Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.870168,-122.28440880775452
+"4b0ec4fcf964a520c35a23e3","Bel Forno","Food::Café",37.88179565591683,-122.26957309411172
+"4b1197a1f964a5201b8023e3","Berkeley Tennis Club","Outdoors & Recreation::Other Great Outdoors",37.85836127779014,-122.24332878621735
+"4b11b16af964a5206a8223e3","Jitensha Studio","Shop & Service::Bike Shop",37.86804,-122.264142
+"4b11b3def964a520ad8223e3","RedBird","Shop & Service::Gift Shop",37.858456,-122.244054
+"4b11dbe7f964a520198623e3","Shattuck Market","Shop & Service::Miscellaneous Shop",37.86475542905635,-122.26669307201372
+"4b1438a7f964a5207b9f23e3","Jeremy's","Shop & Service::Clothing Store",37.85690188407898,-122.252981
+"4b154feff964a52086af23e3","Haas Pavilion","College & University::College Stadium::College Basketball Court",37.86939078565936,-122.26219475269318
+"4b158a54f964a5206bae23e3","Berkeley Faculty Club","College & University::University",37.87178480664646,-122.25594214809097
+"4b15b627f964a5200eb323e3","East Bay Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",37.85581917828581,-122.25584798271055
+"4b16d250f964a520f0bd23e3","Bank of America","Shop & Service::Bank",37.86792343477113,-122.25888222455978
+"4b173e49f964a52027c423e3","Frozen Creations","Food::Ice Cream Shop",37.866132,-122.267847
+"4b183738f964a520f6ce23e3","Pharmaca Integrative Pharmacy","Shop & Service::Drugstore / Pharmacy",37.891215,-122.281121
+"4b183bbff964a52047cf23e3","Quiznos - Berkeley","Food::Sandwich Place",37.870441,-122.266651
+"4b19a28ef964a520e7e023e3","Berkeley Amtrak (BKY)","Travel & Transport::Train Station",37.86707858312535,-122.30096340179443
+"4b19a88af964a52062e123e3","Greener Printer","Professional & Other Places::Office",37.85518066,-122.292601
+"4b1b13c3f964a520b1f723e3","Cal Sailing Club","Outdoors & Recreation::Harbor / Marina",37.863128,-122.31373071670532
+"4b1bfc64f964a520250024e3","The Wright Institute","College & University::College Academic Building",37.86848475004644,-122.25297866831464
+"4b1c4076f964a5200c0524e3","Zee Zee Copy","Shop & Service::Paper / Office Supplies Store",37.86797740178494,-122.25973085088518
+"4b1c8691f964a5202c0824e3","1st Presbyterian Church of Berkeley","Professional & Other Places::Spiritual Center::Church",37.86642206290771,-122.26051737757112
+"4b1d6cc9f964a520591024e3","Haviland Hall","College & University::College Academic Building",37.87383456403104,-122.26096048864129
+"4b1f478ef964a5203c2524e3","Stupid Fun Club","Professional & Other Places::Office::Tech Startup",37.857563,-122.293093
+"4b20612df964a520853124e3","Bhava Communications","Professional & Other Places::Office",37.860644,-122.296737
+"4b2174e7f964a5201e3c24e3","Le Petit Cheval","Food::Vietnamese Restaurant",37.8686821161612,-122.25676193730155
+"4b241284f964a5206a6024e3","The Gardener","Shop & Service::Gift Shop",37.869301,-122.300562
+"4b2441f7f964a520d56424e3","Barney's Gourmet Hamburgers","Food::Burger Joint",37.89118428333333,-122.28483558
+"4b26a2b2f964a520bb7e24e3","Sproul Hall","College & University::College Administrative Building",37.86945007194977,-122.25878834724426
+"4b270903f964a520408424e3","Lalime's","Food::New American Restaurant",37.88122,-122.288656
+"4b2823caf964a520a68f24e3","Vino","Shop & Service::Food & Drink Shop::Wine Shop",37.870018,-122.301319
+"4b284a2af964a520159224e3","Viva! Taqueria","Food::Mexican Restaurant",37.85882,-122.2449803352356
+"4b293cbdf964a520749b24e3","Alta Bates Summitt Medical Center-Herrick Campus","Professional & Other Places::Medical Center::Hospital",37.86411228483241,-122.26867032633301
+"4b2950ebf964a520cf9c24e3","Latimer Hall","College & University::College Academic Building::College Science Building",37.872879387677706,-122.25579259127146
+"4b2bc38ff964a52079ba24e3","Free Speech Movement Cafe","Food::Café",37.87235927630728,-122.26084023714066
+"4b2be032f964a520cfbc24e3","Hearst Memorial Mining Building","College & University::College Academic Building::College Engineering Building",37.8746924852889,-122.25740432739258
+"4b2be61cf964a52041bd24e3","Lawrence Berkeley National Lab","College & University::College Academic Building::College Science Building",37.87766964992148,-122.2518264894635
+"4b2bf6fcf964a520a2be24e3","Green Papaya Thai Vegetarian Cuisine","Food::Thai Restaurant",37.871786,-122.268406
+"4b2c41d6f964a520bcc424e3","Lilly's Restaurant","Food::Chinese Restaurant",37.881745451885806,-122.2816018826812
+"4b2d269ef964a5208acf24e3","Claremont Branch Library","Professional & Other Places::Library",37.856594,-122.254226
+"4b2d4e97f964a520c1d324e3","Virginia Bakery","Food::Dessert Shop",37.876697,-122.269043
+"4b2d572df964a5209bd424e3","Cal Student Store","College & University::College Bookstore",37.86906047545395,-122.25963592529297
+"4b2d57f2f964a520b4d424e3","Kala Art Institute Gallery","Arts & Entertainment::Art Gallery",37.853126,-122.28713
+"4b2d688af964a52009d624e3","Any Mountain","Shop & Service::Sporting Goods Shop",37.85904686,-122.26664402
+"4b2d9239f964a5200ad924e3","Mi Tierra Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.86782592,-122.2920071
+"4b312db6f964a520e50125e3","Cha-Am","Food::Thai Restaurant",37.878661,-122.268924
+"4b319dc8f964a520c00925e3","Gather","Food::Restaurant",37.8695659745884,-122.2660759946502
+"4b32da4af964a520111525e3","Black Oak Books","Shop & Service::Bookstore",37.858719,-122.288937
+"4b33d41df964a5200f2025e3","Bows & Arrows","Shop & Service::Clothing Store::Shoe Store",37.86487877368927,-122.258591
+"4b33ef16f964a520452225e3","The Pasta Shop","Shop & Service::Food & Drink Shop::Grocery Store",37.870127,-122.30116
+"4b340ad0f964a5204a2425e3","Noah's Bagels","Food::Bagel Shop",37.891452,-122.27779445
+"4b342081f964a5204d2525e3","Amanda's Feel Good Fresh Food Restaurant","Food::Burger Joint",37.87061795,-122.268199
+"4b37e3cef964a520154825e3","CB2","Shop & Service::Furniture / Home Store",37.870839,-122.301107
+"4b38173df964a5207c4b25e3","Alborz","Food::Middle Eastern Restaurant",37.870474,-122.266772
+"4b3f9a59f964a5201aaa25e3","Twig & Fig","Shop & Service::Paper / Office Supplies Store",37.880184,-122.26876
+"4b3fa785f964a52060ab25e3","Broom Bush Cafe","Food::American Restaurant",37.85680844736466,-122.2880532278852
+"4b3fbe4cf964a520b6ad25e3","Habitot Children's Museum","Arts & Entertainment::General Entertainment",37.868621,-122.268074
+"4b400237f964a5201db425e3","Cioccolata Di Vino","Food::Italian Restaurant",37.874376,-122.268595
+"4b401000f964a52017b525e3","Sun Hong Kong Restaurant","Food::Chinese Restaurant",37.86787,-122.259557
+"4b402a1cf964a52074b625e3","Ichiban Sushi","Food::Sushi Restaurant",37.871765,-122.267741
+"4b406ec0f964a5202eb825e3","76","Shop & Service::Gas Station / Garage",37.89134392,-122.27889009
+"4b4102c9f964a52054bf25e3","Alta Bates Summit Medical Center: Alta Bates Campus","Professional & Other Places::Medical Center::Hospital",37.85541618059928,-122.25756510305126
+"4b41101df964a52054c025e3","Design Within Reach","Shop & Service::Furniture / Home Store",37.870377,-122.30093
+"4b411f05f964a52080c125e3","Bistro Liaison","Food::French Restaurant",37.873966,-122.268542
+"4b41252ff964a5200bc225e3","Kiehl's","Shop & Service::Cosmetics Shop",37.8691166639328,-122.300427
+"4b412574f964a52011c225e3","George","Shop & Service::Pet Store",37.86952,-122.300993
+"4b413b36f964a520bfc325e3","Evarize","Shop & Service::Clothing Store::Women's Store",37.857883,-122.290396
+"4b452211f964a520c70526e3","Mechanics Bank","Shop & Service::Bank",37.891481,-122.27958
+"4b455789f964a520ee0a26e3","Thai Delight Cuisine","Food::Thai Restaurant",37.876372,-122.268882
+"4b461369f964a5208d1526e3","Berkeley Coworking","Professional & Other Places::Office::Coworking Space",37.855722,-122.266846
+"4b46ba3cf964a520742726e3","Udupi Palace","Food::Indian Restaurant",37.871646,-122.272872
+"4b46bcccf964a520952726e3","Digs Bistro","Food::American Restaurant",37.862149030011345,-122.28117942810059
+"4b479d00f964a520683726e3","Center Street Parking Garage","Shop & Service::Gas Station / Garage",37.8709491783985,-122.26958417096945
+"4b47c128f964a5204a3d26e3","d'yar mediterranean cuisine berkeley","Food::Middle Eastern Restaurant",37.867938,-122.258638143539
+"4b47f171f964a520ad4426e3","Trattoria la Siciliana","Food::Italian Restaurant",37.85636671666666,-122.2529
+"4b48e695f964a520805c26e3","Jazz School","Professional & Other Places::Building",37.871067,-122.268874
+"4b4908a2f964a520f86226e3","Poulet","Food::Bakery",37.87667,-122.268856
+"4b4915fef964a5204d6526e3","Landmark California Theatre","Arts & Entertainment::Movie Theater",37.86879311604542,-122.26711400317896
+"4b494ca6f964a520d46c26e3","Racha Cafe","Food::Thai Restaurant",37.86462655281988,-122.25864350795746
+"4b4969c1f964a520616f26e3","Casa Vino","Nightlife Spot::Wine Bar",37.85047988908862,-122.27882740704446
+"4b4a4df1f964a520218326e3","Mars Vintage","Shop & Service::Thrift / Vintage Store",37.86692612766132,-122.25894927978516
+"4b4a8fa6f964a520a18a26e3","Rocky's Hamburger & Cheesesteaks","Food::Burger Joint",37.855796813964844,-122.26643925
+"4b4bd098f964a52099a826e3","La Burrita","Food::Burrito Place",37.86795987256694,-122.25755956399786
+"4b4cff04f964a5201ec726e3","E-Z Stop Deli","Shop & Service::Food & Drink Shop::Grocery Store",37.86872,-122.26794185
+"4b4e153ef964a520ece026e3","Visit Berkeley CVB & Visitor Information Center","Travel & Transport::General Travel",37.871020599576326,-122.2691964802631
+"4b4e1dedf964a520cde126e3","Desi Dog","Food::Hot Dog Joint",37.868842,-122.259035
+"4b4e5287f964a52064e926e3","Round Table Pizza","Food::Pizza Place",37.87209500352653,-122.2701601659844
+"4b4ed36ef964a52000f626e3","Bear's Ramen House","Food::Korean Restaurant",37.868196580223525,-122.25816071033478
+"4b4f8d45f964a5201c0b27e3","Nature's Express","Food::Vegetarian / Vegan Restaurant",37.891436,-122.279315
+"4b4f950df964a520570c27e3","Edward Tolman Hall","College & University::College Academic Building",37.87409542795693,-122.26390600204468
+"4b4faec1f964a520b91027e3","Unit 4 - Bowles Hall","College & University::College Residence Hall",37.87335439262348,-122.25302696228027
+"4b52262ef964a520916b27e3","Inspiration Point","Outdoors & Recreation::Hiking Trail",37.90544897130586,-122.24424838779147
+"4b52303bf964a520626e27e3","East Bay Nursery","Shop & Service::Flower Shop",37.86417,-122.290847
+"4b524350f964a520897327e3","Party Sushi","Food::Sushi Restaurant",37.875266,-122.268876
+"4b524e74f964a520357627e3","Marmot Mountain Works","Shop & Service::Sporting Goods Shop",37.853741,-122.269083
+"4b53a398f964a520c5a527e3","Cha-Ya Vegetarian Japanese Restaurant","Food::Vegetarian / Vegan Restaurant",37.876806,-122.269077
+"4b53db3bf964a52058ad27e3","Genki Sushi","Food::Sushi Restaurant",37.87493,-122.294228
+"4b53f100f964a52024af27e3","King Yen Restaurant","Food::Chinese Restaurant",37.856266,-122.25282281
+"4b54e2f9f964a52066d127e3","Discount Fabric","Shop & Service::Arts & Crafts Store",37.851800322532654,-122.28681
+"4b55155ef964a52096da27e3","Ashby Marketplace","Shop & Service::Food & Drink Shop::Grocery Store",37.85697458314066,-122.2534605855853
+"4b551fc2f964a52000dc27e3","Finfine","Food::Ethiopian Restaurant",37.863929,-122.258968
+"4b562260f964a520ec0128e3","Evans Hall","College & University::College Academic Building",37.87359152474118,-122.25785493850708
+"4b56235af964a5201f0228e3","Cesar Chavez Student Center","College & University::Student Center",37.86978038040867,-122.2602367401123
+"4b5623c2f964a520330228e3","Valley Life Sciences Building (VLSB)","College & University::College Academic Building::College Science Building",37.87139802352831,-122.26238250732422
+"4b56554cf964a520ce0b28e3","Wurster Hall / College of Environmental Design","College & University::College Academic Building",37.870817878117236,-122.25488305091858
+"4b567cdcf964a5209f1228e3","San Francisco Soup Company","Food::Soup Place",37.86894818125201,-122.25878922679793
+"4b568053f964a520151328e3","Ned's Berkeley Bookstore","Shop & Service::Bookstore",37.868552303015676,-122.26005971431732
+"4b57abeff964a520f33a28e3","Free Range Studios","Professional & Other Places::Office::Tech Startup",37.858692,-122.2677
+"4b57c0e1f964a5205c3f28e3","Coffee Lab","Food::Coffee Shop",37.87306359075282,-122.2559920003175
+"4b57e9a3f964a520044628e3","Lot 68 Bar & Café","Nightlife Spot::Bar",37.868622,-122.268227
+"4b58ac2ef964a520f66428e3","Marin Circle Fountain (4 Bears Fountain)","Outdoors & Recreation::Sculpture Garden",37.89016770840032,-122.27236032485962
+"4b58c7baf964a520d16a28e3","Zebra Tattoo & Body Piercing","Shop & Service::Tattoo Parlor",37.86567541,-122.258433
+"4b58c813f964a520e56a28e3","Out of the Closet","Shop & Service::Thrift / Vintage Store",37.87046,-122.279664
+"4b58f86bf964a5201e7628e3","Musical Offering","Food::Café",37.8682812762822,-122.26053714752197
+"4b5908a5f964a520647928e3","Allston Way Parking Garage","Professional & Other Places::Parking",37.8693581,-122.269237
+"4b591fabf964a520cf7d28e3","1/1R Southbound","Travel & Transport::Bus Station::Bus Line",37.867442781012606,-122.26138472557068
+"4b5a5488f964a520bcbd28e3","Vintage Berkeley","Shop & Service::Food & Drink Shop::Wine Shop",37.88043469620575,-122.26852632585704
+"4b5b331cf964a5209aea28e3","Wells Fargo","Shop & Service::Bank",37.891342,-122.279995
+"4b5b9a28f964a520380a29e3","The Wooden Duck","Shop & Service::Furniture / Home Store",37.868766,-122.303859
+"4b5cd196f964a520914529e3","Elmwood Stationers","Shop & Service::Paper / Office Supplies Store",37.857547,-122.25310206413269
+"4b5ce96df964a5207f4a29e3","International House","College & University::College Residence Hall",37.86957711383998,-122.25163221359253
+"4b5cfffcf964a5205a4e29e3","Newman Hall","Professional & Other Places::Spiritual Center::Church",37.865748,-122.253822
+"4b5dfd37f964a520cd7729e3","Dorothy Bolte Park","Outdoors & Recreation::Playground",37.901228816666666,-122.26989
+"4b5e16a3f964a520fc7c29e3","Barrows Hall","College & University::College Academic Building::College History Building",37.87009374860341,-122.25804805755615
+"4b5e6515f964a520ef8c29e3","Tully's Coffee - UC Berkeley","Food::Café",37.8686637878418,-122.25935363769531
+"4b5f243ff964a520aba829e3","Planet juice","Food::Juice Bar",37.869151,-122.267943
+"4b5f3e2cf964a52090af29e3","University Relations - UC Berkeley","College & University::College Administrative Building",37.87092,-122.268474
+"4b5f5095f964a52088b329e3","Celia's Mexican Restaurant","Food::Mexican Restaurant",37.87555872,-122.26009726524353
+"4b5f6e22f964a520d4b929e3","US Post Office","Professional & Other Places::Post Office",37.867828,-122.291617
+"4b60ef83f964a52043022ae3","Hair Solano","Shop & Service::Cosmetics Shop",37.8915560245514,-122.27998648
+"4b61097af964a52031072ae3","Nanayiro Restaurant","Food::Japanese Restaurant",37.865825,-122.26731802
+"4b623c26f964a520c93d2ae3","India Palace Restaurant","Food::Indian Restaurant",37.8722333908081,-122.266963720322
+"4b634b44f964a52052702ae3","Oasis Grill","Food::Middle Eastern Restaurant",37.87041514,-122.267464
+"4b635bd6f964a52055742ae3","Alpha Sigma Phi","College & University::Fraternity House",37.86613318766268,-122.25182095011203
+"4b639c6df964a520e4862ae3","Berkeley Yacht Club","Outdoors & Recreation::Harbor / Marina",37.866099521317516,-122.31738114345045
+"4b645674f964a5209fab2ae3","US Post Office","Professional & Other Places::Post Office",37.855966,-122.252801656723
+"4b649f46f964a52002c32ae3","Witter Rugby Field","College & University::College Stadium::College Cricket Pitch",37.8714812666667,-122.2490351
+"4b64bd80f964a52074cc2ae3","Domino's Pizza","Food::Pizza Place",37.85006645370592,-122.27064754394843
+"4b64c6faf964a52058cf2ae3","at&t Mobility","Shop & Service::Electronics Store",37.8697168596662,-122.268208265305
+"4b65de04f964a520e1042be3","Cheese Steak Shop","Food::Sandwich Place",37.868794948449256,-122.29299253404535
+"4b661286f964a5201f122be3","Wildcat Peak","Outdoors & Recreation::Scenic Lookout",37.919257,-122.262189
+"4b67347df964a52052412be3","Bongo Burger","Food::Burger Joint",37.865158,-122.25819146666667
+"4b686380f964a5207b752be3","California Ski Company","Shop & Service::Sporting Goods Shop",37.879427,-122.300763
+"4b688c67f964a5203b7f2be3","North Reading Room","College & University::College Library",37.872575238862574,-122.25968956947327
+"4b68b373f964a520f4872be3","Subway","Food::Sandwich Place",37.862632751464844,-122.258922457695
+"4b68fa64f964a520a6952be3","7-Eleven","Shop & Service::Convenience Store",37.85866250074298,-122.25308391480094
+"4b693edaf964a520cd9c2be3","Sweetheart Cafe","Food::Café",37.868027,-122.25796426
+"4b69bcedf964a520f4b02be3","Pacific School of Religion","College & University::General College & University",37.87651620732689,-122.26341972159751
+"4b69d321f964a52085b62be3","MAC - Modern Accessories For Computers","Shop & Service::Electronics Store",37.87178319,-122.268296
+"4b69da02f964a52030b82be3","Sonoma Coffee Cafe","Food::Coffee Shop",37.86699899475562,-122.26596197708956
+"4b6a23b3f964a520c1c92be3","T C Garden Restaurant","Food::Chinese Restaurant",37.875412,-122.259875
+"4b6b4cc6f964a52029ff2be3","Wells Fargo- Elmwood","Shop & Service::Bank",37.857273,-122.25305
+"4b6b89f8f964a520b30e2ce3","Grocery Outlet","Shop & Service::Food & Drink Shop::Grocery Store",37.867095,-122.2989693
+"4b6c4e26f964a520342f2ce3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.86962130435922,-122.28707862915702
+"4b6c70e0f964a5205c3a2ce3","The Den (Peet's)","Food::Coffee Shop",37.86696000668059,-122.25635290145874
+"4b6c93acf964a52054442ce3","Henry's Gastropub","Nightlife Spot::Sports Bar",37.868065055009964,-122.25665115534409
+"4b6cf31ff964a520b15f2ce3","Anzu","Food::Japanese Restaurant",37.8651504677839,-122.267324468138
+"4b6de38af964a52003992ce3","Cafe Durant","Food::Café",37.868052,-122.258291
+"4b6e02f9f964a5204ea32ce3","Verizon Wireless","Shop & Service::Electronics Store",37.8689847157964,-122.267883859823
+"4b6fa933f964a52050f92ce3","Chase","Shop & Service::Bank",37.86991589114293,-122.26825654506683
+"4b6fb914f964a520f0fa2ce3","Tao to Wellness","Professional & Other Places::Office",37.8691282315143,-122.298731803894
+"4b703770f964a520150c2de3","ashby flowers","Shop & Service::Flower Shop",37.8559877057928,-122.26002441434109
+"4b70be8ff964a520a12c2de3","Hargrove Music Library","College & University::College Library",37.87051721701939,-122.25558042526245
+"4b70fb78f964a52082362de3","Sigma Pi Fraternity","College & University::Fraternity House",37.86661445034205,-122.25084048037347
+"4b71a2d9f964a520ad522de3","Terrorist TeaHouse","Food::Tea Room",37.865657,-122.268959
+"4b71c0d1f964a520705a2de3","Mandarin Garden","Food::Chinese Restaurant",37.871641,-122.26759615
+"4b71d658f964a520495f2de3","Sunrise Deli","Food::Middle Eastern Restaurant",37.868639,-122.260174
+"4b71da87f964a5203f602de3","Keter Salon","Shop & Service::Salon / Barbershop",37.869592,-122.300314
+"4b71e0abf964a520be612de3","Octoberfeast Bakery","Food::Bakery",37.87174764,-122.271539683333
+"4b7234e2f964a520e7732de3","People's Park Basketball Court","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.8651958911731,-122.25424715852246
+"4b72f84cf964a52002932de3","University Hall","College & University::College Administrative Building",37.871923114706355,-122.26632535457611
+"4b7318f9f964a520419b2de3","MAC Cosmetics","Shop & Service::Cosmetics Shop",37.869052,-122.30039291
+"4b731deaf964a520699c2de3","Kabana Restaurant","Food::Indian Restaurant",37.86903094452527,-122.2928651781372
+"4b7322fbf964a520899d2de3","ICSI","Professional & Other Places::Office",37.870110687386784,-122.2717809677124
+"4b7337c7f964a52087a22de3","Morrison Hall","College & University::College Academic Building::College Arts Building",37.87093009638157,-122.25599080324173
+"4b7340d1f964a5206ba42de3","Fourth & U Apartments","Professional & Other Places::Building",37.86676362573451,-122.29984184212975
+"4b7485dcf964a520b8e12de3","Memorial Glade","College & University::College Quad",37.87311410275647,-122.25965330568634
+"4b7492f5f964a52011e52de3","Priya Salon","Shop & Service::Cosmetics Shop",37.86861005,-122.29554404
+"4b74c2a1f964a52093f02de3","Toyo","Food::Sushi Restaurant",37.8809666633606,-122.268983
+"4b74eb26f964a52011f82de3","Gamma Phi Beta","College & University::Sorority House",37.8675204333333,-122.25253880024
+"4b74ee33f964a5207af82de3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.852612616980885,-122.28656363872163
+"4b759d1df964a52043172ee3","UC Berkeley Office of Public Affairs","College & University::College Administrative Building",37.867549,-122.264846
+"4b75ce21f964a5200a262ee3","Ashby Nails","Shop & Service::Salon / Barbershop",37.854491,-122.270041
+"4b75da18f964a52072292ee3","A.G. Ferrari - Elmwood","Food::Italian Restaurant",37.858281,-122.253116
+"4b772691f964a52091822ee3","Benefit Cosmetics","Shop & Service::Cosmetics Shop",37.869094,-122.30018556118011
+"4b77350ef964a520dc872ee3","Berkeley Performing Arts","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.859222,-122.291624
+"4b77408cf964a520e78b2ee3","Chocolatier Blue Patisserie","Food::Dessert Shop",37.869742,-122.300471
+"4b784af7f964a520dec22ee3","Jiffy Lube","Shop & Service::Automotive Shop",37.868333,-122.29498744010925
+"4b788be7f964a520e0d52ee3","Baubles & Beads","Shop & Service::Arts & Crafts Store",37.876857,-122.268993
+"4b788c47f964a520f5d52ee3","Narcissus Beauty Supply & Salon","Shop & Service::Salon / Barbershop",37.867238,-122.258742783333
+"4b797d06f964a52038fc2ee3","Rose Garden Inn","Travel & Transport::Hotel::Bed & Breakfast",37.859921,-122.259646
+"4b79d9d9f964a52016162fe3","Country Cheese Co","Shop & Service::Food & Drink Shop::Cheese Shop",37.868125,-122.291587
+"4b7adc4ff964a520b3412fe3","Qualcomm Cybercafe (QC2/Peet's)","College & University::College Cafeteria",37.87467554755892,-122.25860595703125
+"4b7ae975f964a5209b452fe3","Thomas J. Long Business & Economics Library","College & University::College Library",37.87151659283114,-122.25350707769394
+"4b7b0de9f964a520c14e2fe3","Bayer HealthCare LLC","Professional & Other Places::Building",37.8591188333989,-122.295318136829
+"4b7bf2e5f964a52054752fe3","Kaiser Regional Lab","Professional & Other Places::Medical Center::Hospital",37.8708409870771,-122.304127279937
+"4b7c8deef964a520bb9a2fe3","UC Hair Salon","Shop & Service::Salon / Barbershop",37.868607,-122.260284
+"4b7ca0b9f964a520769e2fe3","Subway","Food::Sandwich Place",37.8711479836315,-122.267811859078
+"4b7d8167f964a520ffc22fe3","Medical Building","Professional & Other Places::Medical Center::Doctor's Office",37.85607307558501,-122.25634650436761
+"4b7da1ddf964a5201acb2fe3","C.V. Starr East Asian Library","College & University::College Library",37.87358305575012,-122.2601455450058
+"4b7df7fff964a520b4dc2fe3","T-Shirt Orgy","Shop & Service::Clothing Store",37.867789,-122.25901302
+"4b7e3574f964a52020e62fe3","Chevron Station","Shop & Service::Gas Station / Garage",37.88008207387597,-122.2952295433701
+"4b7ed404f964a5207f0230e3","Bing Wong Wash Center","Shop & Service::Laundry Service",37.86293746,-122.25928589
+"4b7ee1b0f964a5207f0630e3","Campbell Hall","College & University::College Administrative Building",37.873115,-122.257018
+"4b804283f964a520d66130e3","Berkeley-East Bay Humane Society","Professional & Other Places::Office",37.857375,-122.29080841666666
+"4b8051a2f964a5208e6730e3","Indus Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.869995,-122.29259112
+"4b806184f964a5201d6d30e3","Sweet Dreams","Shop & Service::Candy Store",37.85837827297048,-122.2530396005036
+"4b809776f964a520667f30e3","Temari","Food::Sushi Restaurant",37.865849,-122.290881
+"4b80d77af964a520a08e30e3","Crossroads Dining Hall","College & University::College Cafeteria",37.86701506005367,-122.25622415542603
+"4b81b4d5f964a520eeb830e3","KPFA 94.1 FM","Arts & Entertainment::General Entertainment",37.872067380422166,-122.27303455607863
+"4b81d2d4f964a520f5bf30e3","Durant Square - "Asian Ghetto"","Shop & Service::Food & Drink Shop::Food Court",37.86805683151392,-122.25808024406433
+"4b82e670f964a520f5eb30e3","Goldman School of Public Policy","College & University::College Academic Building::College Technology Building",37.87551,-122.258194633333
+"4b82e80ff964a5205aec30e3","Cheese 'N' Stuff","Food::Sandwich Place",37.8676856833333,-122.259297
+"4b82e8d3f964a52089ec30e3","Monkey Island Park","Outdoors & Recreation::Park",37.86082765045781,-122.24705100059509
+"4b82fe17f964a5206af130e3","Wat Mongkolratanaram","Food::Thai Restaurant",37.8566084,-122.2707586
+"4b830e8af964a52005f530e3","Church Divinity School of the Pacific","College & University::General College & University",37.87653095667628,-122.26113773255356
+"4b833b01f964a5206efe30e3","Delta Chi Fraternity","College & University::Fraternity House",37.86771242439031,-122.25331656456012
+"4b835993f964a520780331e3","Emergency Pet Hospital","Professional & Other Places::Medical Center::Emergency Room",37.868828,-122.293073866667
+"4b844373f964a520232b31e3","Cultured Pickle Shop","Shop & Service::Food & Drink Shop::Gourmet Shop",37.862920494999365,-122.2972450262878
+"4b847479f964a5208f3631e3","North Branch Library","Professional & Other Places::Library",37.88538,-122.275369
+"4b859735f964a5203a6731e3","Ashby Stage","Arts & Entertainment::Performing Arts Venue::Theater",37.854381,-122.27091193199158
+"4b86c3abf964a5209c9b31e3","Milanese Caffe","Food::Café",37.864926,-122.258782
+"4b87572df964a52031bc31e3","Raleigh's","Food::Brewery",37.86632383910609,-122.25881692174272
+"4b881d4cf964a520cee031e3","Extra Space Storage","Professional & Other Places::Building",37.87277135,-122.30477464784502
+"4b886af3f964a5206bf631e3","Pimentel Hall","College & University::College Auditorium",37.87341367572446,-122.2560203075409
+"4b887332f964a520c1f831e3","Law Library","College & University::College Library",37.8696342671621,-122.253593527897
+"4b89a621f964a520084932e3","Scrapbook Territory","Shop & Service::Arts & Crafts Store",37.8716076,-122.30096632
+"4b8abbd5f964a520477d32e3","Elmwood Cafe","Food::Coffee Shop",37.85839848689184,-122.25329440746205
+"4b8af86cf964a520ef8b32e3","Convert","Shop & Service::Clothing Store",37.869694,-122.300426959991
+"4b8c1d13f964a520b9be32e3","Crowden Music Center","Arts & Entertainment::Music Venue",37.8790333666667,-122.283299
+"4b8dd0ddf964a520d90e33e3","Hearst Field Annex","College & University::College Classroom",37.86897895,-122.25778
+"4b8e625cf964a520262033e3","Unit 1 - Mary C. Freeborn Hall","College & University::College Residence Hall",37.868014483367766,-122.25459337234497
+"4b8eb213f964a5209d3133e3","Athineon","Food::Greek Restaurant",37.87183,-122.272076
+"4b8ee8b7f964a5200f3e33e3","Faculty Glade","Outdoors & Recreation::Field",37.8713556773025,-122.2565621137619
+"4b8f3214f964a520434d33e3","Ebenezer Missionary Baptist Church","Professional & Other Places::Spiritual Center::Church",37.851782633333336,-122.27120526666667
+"4b8f4d1df964a520da5033e3","Punjabi by Nature","Food::Indian Restaurant",37.870232462883,-122.266040733333
+"4b902477f964a520327833e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.87981033722831,-122.29635910444047
+"4b903031f964a5201d7b33e3","The Daily Californian","Professional & Other Places::Office",37.868645468225,-122.260204553604
+"4b9042e9f964a520aa7f33e3","Philz Coffee","Food::Coffee Shop",37.87802708471963,-122.26916324956548
+"4b9047dff964a520208133e3","76","Shop & Service::Gas Station / Garage",37.85130261146145,-122.29077762693309
+"4b915276f964a5200ab333e3","Tang Center","Professional & Other Places::Medical Center::Doctor's Office",37.86779858887006,-122.26446654002824
+"4b916b67f964a52004bb33e3","Brazil Cafe","Food::Brazilian Restaurant",37.87255238953099,-122.26822724732335
+"4b917af0f964a520adbf33e3","Bare Escentuals Boutique","Shop & Service::Cosmetics Shop",37.87033088,-122.30049
+"4b918281f964a520d0c133e3","Eshleman Hall","College & University::College Administrative Building",37.86875505,-122.260016
+"4b919fb9f964a520c5ca33e3","Juice Appeal","Food::Juice Bar",37.870409,-122.2678
+"4b9294cbf964a5207b0634e3","The Coffee Spot","Food::Café",37.869560623205,-122.259874863248
+"4b92be08f964a520681734e3","AAA - Berkeley Branch","Travel & Transport::General Travel",37.8713877432524,-122.275997478131
+"4b92ee4cf964a520092834e3","adidas Originals Berkeley","Shop & Service::Clothing Store",37.868289745882706,-122.25896000862122
+"4b92fbb4f964a520692c34e3","Flight 001","Shop & Service::Miscellaneous Shop",37.870287,-122.30091908333333
+"4b92fdaff964a5200d2d34e3","Transports","Shop & Service::Sporting Goods Shop",37.89117343,-122.28581651666667
+"4b9419c4f964a520226834e3","Sacred Rose","Shop & Service::Tattoo Parlor",37.87102522,-122.276897
+"4b943b6df964a520297034e3","Cooperative Center Federal Credit Union","Professional & Other Places::Building",37.855366703376376,-122.26821063182464
+"4b9566caf964a520a5a034e3","Golden Bear Cafe","College & University::College Cafeteria",37.86981849282787,-122.25972712039948
+"4b969794f964a5200cd734e3","Patelco Credit Union","Shop & Service::Bank",37.8716164827347,-122.26778654
+"4b96bf97f964a5200ae234e3","Quickly 快可立","Food::Café",37.868109,-122.25809097290039
+"4b972151f964a5204ff934e3","Berkeley Pier","Travel & Transport::Ferry::Pier",37.86277582997673,-122.31787204742432
+"4b978deef964a5208f0835e3","Unit 2","College & University::College Residence Hall",37.86618338324469,-122.25463490361051
+"4b980dabf964a520202935e3","Cafe Rio","Food::Coffee Shop",37.870298,-122.266542
+"4b9833f4f964a520d93335e3","Berkeley Horticultural Nursery","Shop & Service::Flower Shop",37.8811829606547,-122.281208697919
+"4b9952fcf964a520107335e3","Wells Fargo","Shop & Service::Bank",37.86911540483831,-122.29251079567656
+"4b9973c3f964a520237c35e3","Hopkins street bakery","Food::Bakery",37.8812666833333,-122.28182877
+"4b9a2b2ff964a52061a235e3","Bear Market","Shop & Service::Food & Drink Shop::Grocery Store",37.867257,-122.260092
+"4b9aaecef964a52099cc35e3","NeuroFocus Inc","Professional & Other Places::Office",37.88085585,-122.30316
+"4b9abf80f964a5202ad235e3","Cal Gyros Mediterranean Cuisine","Food::Greek Restaurant",37.868183875806345,-122.25819289684296
+"4b9b2f72f964a52099f835e3","eVe Restaurant","Food::New American Restaurant",37.871694,-122.27149795
+"4b9bcddcf964a520292736e3","Valero","Shop & Service::Gas Station / Garage",37.86818325519562,-122.29766428470612
+"4b9bdfeff964a5201b3036e3","Wells Fargo - University Office & ATMs","Shop & Service::Bank",37.868638,-122.259999
+"4b9be636f964a520443336e3","Zaentz Media Center","Arts & Entertainment::General Entertainment",37.85848,-122.29042
+"4b9c083af964a520f04236e3","Bank Of America","Shop & Service::Bank",37.87054,-122.26748975000001
+"4b9d6f54f964a52087ac36e3","Sea Breeze Market & Deli","Food::Deli / Bodega",37.86598451,-122.305597
+"4b9e979ef964a52030f236e3","BurgerMeister","Food::Burger Joint",37.868645,-122.267811
+"4b9e9983f964a520c2f236e3","Morrison Library","College & University::College Library",37.8725337982178,-122.259666
+"4b9eb82ff964a52057fc36e3","Ohlone Park","Outdoors & Recreation::Park",37.87294102810913,-122.27999590759843
+"4b9ee902f964a520f60937e3","Chaat & Curries","Food::Indian Restaurant",37.86864495,-122.29218184948
+"4b9fd8a8f964a5201d4437e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.868395,-122.259162
+"4b9fdabbf964a520e34437e3","Sather Gate","College & University::College Quad",37.87021232000523,-122.25947767496109
+"4ba106c4f964a520579037e3","Campanile (Sather Tower)","Outdoors & Recreation::Scenic Lookout",37.87206920795739,-122.25783079862595
+"4ba29210f964a5204f0538e3","I.B.'s Hoagies","Food::Sandwich Place",37.86793402182304,-122.25839674472809
+"4ba2a61cf964a520930c38e3","DOLLAR TREE","Shop & Service::Miscellaneous Shop",37.86504824084072,-122.26777308942565
+"4ba306fef964a520852838e3","Goorin Bros. Hat Shop - Elmwood","Shop & Service::Clothing Store::Accessories Store",37.858043,-122.253735
+"4ba30d68f964a520c12938e3","The Original","Food::Diner",37.86853514228387,-122.26798355308239
+"4ba31102f964a520572a38e3","Impact Theatre","Arts & Entertainment::Performing Arts Venue::Indie Theater",37.87545756243452,-122.2604509107517
+"4ba3cfe5f964a5203a6238e3","Jest Jewels","Shop & Service::Clothing Store::Accessories Store",37.870257,-122.30068
+"4ba3d678f964a520026538e3","gioia pizza","Food::Pizza Place",37.88120651245117,-122.27996063232422
+"4ba3ed8ff964a520726e38e3","Artbeat Salon & Gallery","Shop & Service::Salon / Barbershop",37.891305941204834,-122.27774750175865
+"4ba468bef964a520859b38e3","Pets Referral Center","Professional & Other Places::Medical Center::Veterinarian",37.86877735,-122.293101
+"4ba50f16f964a52014d738e3","Cafe Espresso Experience","Food::Café",37.868662,-122.260291
+"4ba52297f964a52012e238e3","Stiles Hall","College & University::Student Center",37.8683320938707,-122.261261343956
+"4ba52875f964a52068e538e3","Blue Camp - at UCB Golden Bear Recreation Center","Outdoors & Recreation::Other Great Outdoors",37.8651212229352,-122.24733398097324
+"4ba566bbf964a5207d0339e3","James Kenney Recreation Center","Outdoors & Recreation::Park",37.87201300565589,-122.29734469203326
+"4ba59f56f964a520671739e3","Zellerback hall","College & University::College Auditorium",37.86880610308797,-122.26001887541544
+"4ba692dbf964a520825f39e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.891212648812,-122.28133052997272
+"4ba6ac9ef964a520f06739e3","Model Shoe Renew","Shop & Service::Clothing Store::Shoe Store",37.8729084849959,-122.268853095888
+"4ba6ba8df964a520d46b39e3","Skates On The Bay","Food::American Restaurant",37.8635515661799,-122.318156171931
+"4baae089f964a520a68b3ae3","Berkeley Vacuum Center","Shop & Service::Furniture / Home Store",37.873056,-122.268183
+"4baba456f964a52010bc3ae3","Taqueria Talavera","Food::Mexican Restaurant",37.89118444929497,-122.28545058635673
+"4bac15cff964a52044e33ae3","The Big C","College & University::University",37.87457605,-122.249609
+"4bad6e58f964a520b24f3be3","Lococo's Restaurant & Pizzaria","Food::Italian Restaurant",37.87944793701172,-122.26979064941406
+"4bae8203f964a520d4ba3be3","Eastshore State Park","Outdoors & Recreation::Park",37.8686539377837,-122.30740070343018
+"4baea143f964a520a8c83be3","Dwinelle Annex","College & University::College Academic Building::College Arts Building",37.870343595263215,-122.26119965314865
+"4baecb73f964a520a2d83be3","Bangkok Jam Thai","Food::Thai Restaurant",37.8914,-122.277569174767
+"4bafaa32f964a52053153ce3","Castle In The Sky","Shop & Service::Arts & Crafts Store",37.869962,-122.300594
+"4bafdd51f964a52027273ce3","Cedar Rose Park","Outdoors & Recreation::Park",37.87675779770598,-122.28821935177724
+"4bafdf1cf964a520c2273ce3","Cragmont Park","Outdoors & Recreation::Park",37.89219554724434,-122.26388454437256
+"4bafe022f964a5201d283ce3","Adventure Playground","Outdoors & Recreation::Playground",37.863071055713725,-122.31466849915458
+"4bafe42bf964a52063293ce3","Codornices Park","Outdoors & Recreation::Park",37.88544188468329,-122.26197409828794
+"4bafe67bf964a5200e2a3ce3","Glendale La Loma Park","Outdoors & Recreation::Park",37.88502839527749,-122.2553716153942
+"4bafe7eff964a520842a3ce3","Grotto Rock Park","Outdoors & Recreation::Park",37.89326737255719,-122.26867032633301
+"4bafe8d3f964a520ca2a3ce3","Halcyon Commons","Outdoors & Recreation::Park",37.8545569040986,-122.2603733660767
+"4bafe929f964a520df2a3ce3","Harrison Park","Outdoors & Recreation::Park",37.881073946675414,-122.30395564428032
+"4bafec09f964a520b82b3ce3","Le Conte School Park","Outdoors & Recreation::Park",37.85771541936746,-122.26153099143154
+"4baff250f964a5208b2d3ce3","Virgina-McGee Totland Park","Outdoors & Recreation::Park",37.875189,-122.278384
+"4baff35bf964a520d02d3ce3","Amadeo Pietro (A.P.) Giannini Hall","College & University::College Academic Building",37.87326713861957,-122.26231196602808
+"4baff421f964a520002e3ce3","Hearst Museum of Anthropology","Arts & Entertainment::Museum",37.869598,-122.254938
+"4baff4edf964a520332e3ce3","Barker Hall","College & University::College Academic Building::College Science Building",37.8738413595394,-122.265413403511
+"4baff607f964a520862e3ce3","Earl F Cheit Hall","College & University::College Academic Building",37.871769,-122.254331
+"4baff778f964a520f22e3ce3","Durant Hall","College & University::College Administrative Building",37.8712540462612,-122.260156273842
+"4baff7f1f964a520112f3ce3","Etcheverry Hall","College & University::College Academic Building::College Engineering Building",37.87546666824346,-122.25923234505144
+"4baff8a7f964a5204a2f3ce3","Moses Hall","College & University::College Academic Building",37.871117,-122.257944
+"4baffaa9f964a520c92f3ce3","LeConte Hall","College & University::College Classroom",37.872525674464214,-122.2575817202098
+"4baffacdf964a520d22f3ce3","Lower Sproul Plaza","College & University::College Quad",37.86921292650199,-122.26017236709595
+"4baffe72f964a520ab303ce3","Jack in the Box","Food::Fast Food Restaurant",37.866801,-122.29102606666666
+"4bb00037f964a52011313ce3","Lake Anza","Outdoors & Recreation::Lake",37.895988598965644,-122.2514820098877
+"4bb04a73f964a520e23f3ce3","Cheese Board Pizza Collective","Food::Pizza Place",37.87993818215996,-122.26932940294999
+"4bb10f04f964a520ae763ce3","Library of Chemistry","College & University::College Library",37.8725159550869,-122.255902290344
+"4bb1153ff964a520e3783ce3","Alta Bates Summit Medical Center: Alta Bates Campus","Professional & Other Places::Medical Center::Hospital",37.85541618059928,-122.25756510305126
+"4bb13547f964a52085833ce3","Niroga Yoga Center","Shop & Service::Gym / Fitness Center::Yoga Studio",37.87130058066904,-122.27479570473467
+"4bb22911f964a520bfbe3ce3","Berkeley Patients Group","Professional & Other Places::Medical Center",37.85583202949736,-122.28756039214488
+"4bb23ebd35f0c9b68b03bb83","Gardner Main Stacks","College & University::College Library",37.872774262617725,-122.25943744182587
+"4bb23faf14cfd13a5eae14ab","Peace Wall","Outdoors & Recreation::Sculpture Garden",37.86932365447141,-122.27240319380604
+"4bb26b49eb3e952153ffc90a","La Palmita","Food::Mexican Restaurant",37.8795694,-122.29530113333334
+"4bb2a55335f0c9b6b79abb83","Kresge Engineering Library","College & University::College Library",37.873784,-122.25824
+"4bb2b9f24019a5939a4437b8","Little Ceasars","Food::Pizza Place",37.869257,-122.29158654
+"4bb3df200cbcef3bf563582a","Martin Luther King Jr. Student Union","College & University::Student Center",37.868905585085926,-122.25944282557668
+"4bb40c190cbcef3b50ad582a","The Beat","Shop & Service::Gym / Fitness Center",37.85921,-122.291257
+"4bb4f9f3310276b08d9fcf90","Café Intermezzo","Food::Sandwich Place",37.866237,-122.25873
+"4bb5071a310276b028b3cf90","Care Plus CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",37.855213832534695,-122.25944282557668
+"4bb52ca3ef159c74346574f7","Doe Library","College & University::College Library",37.87241432564619,-122.25955545902252
+"4bb53038ef159c74af6b74f7","Physics-Astronomy Library","College & University::College Library",37.872808,-122.25719
+"4bb557522f70c9b63d248430","UA Berkeley 7","Arts & Entertainment::Movie Theater",37.86792383798781,-122.26822170882406
+"4bb559bd941ad13aaf2a1ee3","Fondue Fred's","Food::Restaurant",37.86404,-122.25894927978516
+"4bb621d9ef159c74db7475f7","Cafe Zeb","Food::Café",37.86963128532555,-122.25341627144441
+"4bb671c41344b7135c859d04","Aurora Theatre Company","Arts & Entertainment::Performing Arts Venue::Theater",37.8710347333333,-122.268859
+"4bb76e1146d4a593ad72c7c0","TED x Berkeley","Arts & Entertainment::General Entertainment",37.869411,-122.26004
+"4bb8cd08b35776b07e3dc901","Solemates","Shop & Service::Spa / Massage",37.88061117020589,-122.26906355741036
+"4bba0910b35776b05d6cca01","Maoz Vegetarian","Food::Vegetarian / Vegan Restaurant",37.86714313235487,-122.25875045386309
+"4bba2317b35776b0b991ca01","Dana Medical-Dental Building","Professional & Other Places::Medical Center::Dentist's Office",37.86369,-122.26074277
+"4bba94261261d13a75dbea98","Plearn Thai Restaurant","Food::Thai Restaurant",37.8717505931854,-122.272365689278
+"4bbb63ab935e9521ff1d2990","New Amsterdam Coffeeshop","Food::Café",37.871707,-122.27162539958954
+"4bbbec25afe1b7133ae92f4b","UC Berkeley Extension","College & University::University",37.87182012178896,-122.27137860671223
+"4bbdff184e069c7462699fe3","Arthur Andersen Auditorium","College & University::College Auditorium",37.872099,-122.253953
+"4bbe2fac061fb7130adfedce","Utrecht Art Supplies","Shop & Service::Arts & Crafts Store",37.871725,-122.272757
+"4bbe3e15061fb713abf6edce","Julie's Healthy Cafe","Food::Middle Eastern Restaurant",37.868776,-122.25754715
+"4bbfdbe2f8219c74e5d0b010","Lush Gelato","Food::Ice Cream Shop",37.87980526,-122.26892463333333
+"4bbfec6d74a9a5933c6dcff6","oaks theater","Arts & Entertainment::Movie Theater::Indie Movie Theater",37.891452,-122.278466
+"4bc0ed9d920eb713b7df192c","KALX Berkeley 90.7 FM","College & University::College Academic Building::College Communications Building",37.870143,-122.25802985
+"4bc14cddf8219c744549b310","Shotgun Players","Arts & Entertainment::Performing Arts Venue::Theater",37.854408533333334,-122.27098
+"4bc223be2a89ef3bd64cf388","Adeline Asylum For The Hopelessly Insane","Professional & Other Places::Medical Center::Hospital",37.847017494262005,-122.27234781097195
+"4bc2329b920eb71334d71b2c","7-Eleven","Shop & Service::Food & Drink Shop::Liquor Store",37.86308922796034,-122.258380651474
+"4bc26113920eb7130f2f1c2c","Soleil Tanning Salons","Shop & Service::Tanning Salon",37.869631,-122.266166
+"4bc2b0262a89ef3bb025f488","McDonald's","Food::Fast Food Restaurant",37.88235268704017,-122.29677438122631
+"4bc3c13db492d13a9c43a960","Brennan's Restaurant & Bar","Nightlife Spot::Sports Bar",37.86701,-122.3004
+"4bc3dd9bdce4eee1bfc8719d","Super 8 Berkeley","Travel & Transport::Hotel",37.8709983825684,-122.278900146484
+"4bc4eee3702076b0053e04c9","The Bear's Lair Food Court","Shop & Service::Food & Drink Shop::Food Court",37.86913670101738,-122.25985050201416
+"4bc5047c0191c9b68e00ebb1","Publishers Group West","Professional & Other Places::Office",37.871588050397406,-122.3017132819811
+"4bc524360a30d13a3aba599c","Quince Cafe & Grill","Food::Café",37.865332,-122.29108506
+"4bc64027d35d9c749b6de23a","Willard Swimming Pool","Outdoors & Recreation::Pool",37.861098704605304,-122.25850939750671
+"4bc6403cf360ef3b346adb2d","Flacos Tacos","Food::Mexican Restaurant",37.854139,-122.26906657218933
+"4bc648fcb387d13a79a4c1e8","Advanced Light Source","College & University::College Lab",37.8761914589671,-122.248628139496
+"4bc8d328af07a593e2c0812d","Meredith W. Morgan Eye Center","College & University::Medical School",37.8712159345846,-122.255135178566
+"4bc8de3e68f976b046295c83","Country Cheese","Shop & Service::Food & Drink Shop::Cheese Shop",37.881589,-122.28175185
+"4bc91bc2b6c49c745cf38d91","Julia Morgan Center For The Arts","Arts & Entertainment::Performing Arts Venue::Theater",37.862220485432154,-122.25390926522492
+"4bc9e8ea0687ef3b5dbbdacc","Bcnm Commons","College & University::College Academic Building",37.872559,-122.261236
+"4bc9f110cc8cd13a787fbccf","Fielding field","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.882183,-122.304333
+"4bca1c5a68f976b0b4ab5e83","Pauley Ballroom","College & University::General College & University",37.869311,-122.259595
+"4bca405d3740b713f1716065","Golden Bear Recreation Center","Shop & Service::Gym / Fitness Center::Track",37.864903521988495,-122.24731922149658
+"4bca4083b6c49c743c299091","Velo Sport Bicycles","Shop & Service::Bike Shop",37.8709673881531,-122.279726
+"4bcb7c1a511f95216599b1c7","Vault Cafe & Restaurant","Food::Breakfast Spot",37.84952511479444,-122.27137306837682
+"4bcbaf3a937ca593b423aa92","Spenger's Fresh Fish Grotto","Food::Seafood Restaurant",37.8679387,-122.299782
+"4bcd1023fb84c9b6ba9e213e","Multicultural Community Center","College & University::Student Center",37.8690138931263,-122.259555459023
+"4bcdecd768f976b054176583","Delta Delta Delta","College & University::Sorority House",37.86930196746872,-122.25125593475263
+"4bcf645c77b29c74f1ff8882","Hub Berkeley","Professional & Other Places::Office::Coworking Space",37.8694852,-122.266679
+"4bcfaa48caff952156b5cdf0","Walgreens","Shop & Service::Drugstore / Pharmacy",37.858029778453925,-122.26702538622976
+"4bcfdacf9854d13a20e6f64d","F AC Transit","Travel & Transport::Bus Station::Bus Line",37.8695682606277,-122.267894936857
+"4bd0e53141b9ef3b0f19fbe5","San Pablo Park","Outdoors & Recreation::Park",37.855249379217085,-122.28425445739603
+"4bd0f341b221c9b6edd5d4d0","52 Bus AC Transit","Travel & Transport::Bus Station::Bus Line",37.87129715211766,-122.26799463010545
+"4bd137d39854d13a4f53f94d","Big Al's Smoke Shop","Shop & Service::Smoke Shop",37.867185,-122.25891
+"4bd248f5caff95211c95d2f0","Shattuck Theater","Arts & Entertainment::Movie Theater",37.868741154670715,-122.26884663105011
+"4bd25b3377b29c74c2b18e82","Berkeley Community Acupuncture Clinic","Professional & Other Places::Medical Center",37.854967,-122.279583
+"4bd3a1a7462cb71342fdde07","Vintage European Posters","Arts & Entertainment::Art Gallery",37.86474995,-122.29883645000001
+"4bd49d454e32d13ae282bf80","Levine-Fricke Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.871228638479,-122.24764108657837
+"4bd4b03c6798ef3bdd30628d","Wine.com Retail Outlet","Shop & Service::Food & Drink Shop::Wine Shop",37.864237,-122.29899924
+"4bd4b96229eb9c74963d92e1","The Solar Car Wash","Shop & Service::Automotive Shop",37.86907,-122.289794683456
+"4bd4bf656f649521880c6eec","Bombay Spice House","Shop & Service::Food & Drink Shop",37.86866857048997,-122.2936846830511
+"4bd4c0af29eb9c74c84d92e1","Eucalyptus Grove","Outdoors & Recreation::Other Great Outdoors",37.87096609088299,-122.26394891738892
+"4bd5266b637ba5939a13f670","Alcatraz Market","Outdoors & Recreation::Ski Area::Ski Chalet",37.84836641233971,-122.27595871145869
+"4bd641256f6495219cab70ec","Expresso Roma","Food::Café",37.857009,-122.253142416667
+"4bd6725229eb9c74093295e1","Chevron Station","Shop & Service::Gas Station / Garage",37.85639323246997,-122.26004362106323
+"4bd9d04c0ef39c74549c1d2d","Monterey Fish Market","Shop & Service::Food & Drink Shop::Fish Market",37.881619145888585,-122.28172925208122
+"4bda3c353904a59325d1459e","Durham Studio Theater (Dwinelle)","College & University::College Theater",37.870491808983054,-122.26069808006287
+"4bda5da763c5c9b69fec2368","North Beach Pizza","Food::Pizza Place",37.87051412458545,-122.2799737560485
+"4bda73362a3a0f475035abb6","Sigma Epsilon Omega","College & University::Fraternity House",37.867518,-122.25382
+"4bdb2ea6c79cc9283c8681e9","The Lounge","Shop & Service::Cosmetics Shop",37.87034782994507,-122.30021238327026
+"4bdb7dedc79cc928f42483e9","Mignonne","Shop & Service::Antique Shop",37.86142342,-122.28928998
+"4bdb8ad8c79cc928a96e83e9","Elixir","Shop & Service::Salon / Barbershop",37.88201876904392,-122.2815520424397
+"4bdcddabf1499c744f7f38f3","Chinese Express","Food::Chinese Restaurant",37.8667482625546,-122.25929260253906
+"4bdddf1de75c0f47e5f1c503","Ohlone Park","Outdoors & Recreation::Park",37.87294102810913,-122.27999590759843
+"4bddebb8587b2d7f939d5509","Brushstrokes Studio, Inc.","Arts & Entertainment::General Entertainment",37.876176,-122.30195
+"4bddffe30ee3a593b7892fb0","Aquatic Park","Outdoors & Recreation::Park",37.85935377608427,-122.30044841766357
+"4be035f50e6cc928d6226be5","Campanile Court","College & University::College Residence Hall",37.86902107842152,-122.29070010434815
+"4be063b04f15c9286314cb0b","Cal 1 Card Office","Professional & Other Places::Office",37.86967027775357,-122.25992292165756
+"4be0a745cb81c9b61395668b","510 Skateboarding","Shop & Service::Board Shop",37.86491494,-122.258736
+"4be0ac14652b0f47513e7311","The Oaks","Arts & Entertainment::Movie Theater::Indie Movie Theater",37.891417,-122.2783645
+"4be32e77d27a20a16e75915b","Pasta Bene","Food::Italian Restaurant",37.86407258783911,-122.258451347892
+"4be34d44b02ec9b6dc2c4fc0","Berkeley Recycle Center","Professional & Other Places::Building",37.88201023,-122.307989
+"4be36954b02ec9b652924fc0","KC's Bar-B-Que","Food::BBQ Joint",37.8589681666667,-122.288626
+"4be4694fcf200f4797ec113c","Bank of America","Shop & Service::Bank",37.8593641519547,-122.289874
+"4be481d6d4f7c9b68d3f2420","RebellionLab HQ","Professional & Other Places::Office::Tech Startup",37.890767,-122.277787
+"4be4c7612468c928a854ff42","Lo Coco's","Food::Italian Restaurant",37.881696,-122.26983496666666
+"4be5de2d2457a5933a23ac15","Berkeley Unitarian Fellowship","Professional & Other Places::Spiritual Center::Church",37.87779,-122.27278
+"4be62590910020a1780fd414","Everest Cafe","Food::Indian Restaurant",37.89124,-122.283474
+"4be629bbbcef2d7f72eb04e5","Revival Bar + Kitchen","Food::American Restaurant",37.87110195809924,-122.26833801724855
+"4be752da910020a1fc55d514","Aveda Experience Center","Shop & Service::Cosmetics Shop",37.8691197620101,-122.30049133300781
+"4be77e634485d13aa3f193ee","Washington Elementary School","Professional & Other Places::School",37.86650231978183,-122.27346100040747
+"4be88459aecb76b0b0b25a80","Campus Veterinary Clinic","Professional & Other Places::Medical Center",37.8738145,-122.273086
+"4beb11d161aca59358918400","Mitama Japanese Cuisine","Food::Japanese Restaurant",37.8513979911804,-122.252506613731
+"4beb4571b3352d7f395156d2","Spun Sugar","Food::Cupcake Shop",37.8708032833333,-122.279501
+"4bec5dc016e99c74986208e2","T-Mobile","Shop & Service::Electronics Store",37.86849420398634,-122.26792262943506
+"4bedbde0a40fc928d66e820c","Bagel Street Cafe","Food::Bagel Shop",37.87044655602551,-122.26654906886483
+"4bef022ef2712d7fe029fbd8","Yalis Cafe","Food::Coffee Shop",37.8732934999496,-122.265967515706
+"4bef3ca85e4aa59324c758bb","Hs Lordships Restaurant & Lounge","Food::American Restaurant",37.859421541069665,-122.31585502624512
+"4bf0ab0e17880f47169d2937","Fellini Ristorante","Food::Italian Restaurant",37.870452880859375,-122.28397369384766
+"4bf2d9b4e5eba59357e11d90","AC Transit 72R","Travel & Transport::Bus Station::Bus Line",37.880314766666665,-122.29579562
+"4bf3542cd2fbef3bbe9ea4c5","Brazilian Room","Outdoors & Recreation::Other Great Outdoors",37.893582818512975,-122.24552252146012
+"4bf422c46ba2b713a03f8977","Berkeley Ballet Theater","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.862161,-122.253876
+"4bf44c70cad2c92808c29b99","Cal Athletic Ticket Office","College & University::College Administrative Building",37.86877251150257,-122.2658908367157
+"4bf469dce5eba593dda31f90","ASUC Auxiliary","College & University::College Administrative Building",37.8688955215312,-122.26014073171322
+"4bf47bb0cad2c928f0039c99","North Gate Hall","College & University::University",37.874980426102375,-122.25977540016174
+"4bf47c90e5eba5936ec01f90","5th String","Shop & Service::Music Store",37.85366178333334,-122.26925
+"4bf486e3706e20a18a7fa998","Downtown Berkeley","Outdoors & Recreation::Other Great Outdoors",37.870110687386784,-122.26834774017334
+"4bf489d6ff90c9b6b96a5528","Berkeley Rep. School of Theatre","College & University::College Academic Building::College Arts Building",37.87101503333333,-122.269201
+"4bf56ae86a31d13abada962e","Northside Cafe","Food::Café",37.875141333713806,-122.26027965545654
+"4bf592cb004ed13a24da40a0","Fourth Street Shops","Shop & Service::Miscellaneous Shop",37.869880217168664,-122.30066129322428
+"4bf5b57babdaef3b881ba184","Shawl-Anderson Dance Center","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.8512847058382,-122.252147771356
+"4bf8093c4a67c9280e9824cf","Berkeley Firetrail","Outdoors & Recreation::Hiking Trail",37.86892846989459,-122.26044537184825
+"4bf837f65ec320a1d15e88d3","Orchard Hardware Supply","Shop & Service::Hardware Store",37.85241383448017,-122.28854052389912
+"4bf8599e4a67c928814525cf","Keneuoe Vivere Design Studio","Shop & Service::Clothing Store::Women's Store",37.857419,-122.253338
+"4bf8836b5317a5936202007f","Raleigh's","Food::Brewery",37.86632383910609,-122.25881692174272
+"4bf97efc8d30d13a41520218","Slow","Food::New American Restaurant",37.87160575389862,-122.271464
+"4bf9b860508c0f471f973f31","Cafe Valparaiso","Food::South American Restaurant",37.852915,-122.266082
+"4bfadef0bc8695214a017b6b","Chi Phi Fraternity","College & University::Fraternity House",37.8682105,-122.253363
+"4bfc73a5e9d8c928cd99b2c7","New Pieces","Shop & Service::Arts & Crafts Store",37.8784212,-122.30388271666666
+"4bfc9149f61dc9b63ce29dde","Little Saigon","Food::Vietnamese Restaurant",37.87113904953,-122.276984
+"4bfd7a16e529c928b8fcba8c","Boiler House Restaurant","Food::American Restaurant",37.87576675415039,-122.31497955322266
+"4bfdd69c8992a59305cbacb0","Berkeley Marina","Outdoors & Recreation::Harbor / Marina",37.86580811128722,-122.31473922729492
+"4bfeeca1369476b088128d1f","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",37.871743,-122.273021
+"4c00203edaf9c9b63151fbef","Waterside Café","Food::Café",37.864297,-122.301691
+"4c0082bd34ccc928bec5e1cd","Greek Theater","College & University::College Theater",37.87370694,-122.25432786
+"4c0529599a7920a16d34d279","Berkeley Orthodontics","Professional & Other Places::Medical Center::Dentist's Office",37.89087,-122.281484
+"4c058eda5753c928cea839f1","Berkeley Marine Center","Outdoors & Recreation::Harbor / Marina",37.86924312646081,-122.31856029167695
+"4c066a85191f20a18d76e414","Lawrence Berkeley National Lab","College & University::College Academic Building::College Science Building",37.87766964992148,-122.2518264894635
+"4c06b98a88ba952163e4e78f","Caltopia","College & University::College Gym",37.868489,-122.261953
+"4c06c1b78a81c9b679382690","Sarber's Camera","Shop & Service::Hobby Shop",37.891197,-122.281112
+"4c06e91d8b4520a1562a8697","Sway","Shop & Service::Clothing Store::Boutique",37.86396682262421,-122.25845577
+"4c08a20e5214ef3bcc385e69","Beehive Market","Shop & Service::Flea Market",37.87363386968189,-122.29409694671631
+"4c095aae6071a593acc6dd32","Pi Alpha Phi","College & University::Fraternity House",37.86457225984411,-122.25059171793107
+"4c096e0b6071a593b7e8dd32","North Gate Hall Courtyard","College & University::College Quad",37.874882402106955,-122.25964776674141
+"4c0aac89009a0f473ad7e9bf","Elmwood Village Shoes","Shop & Service::Clothing Store::Shoe Store",37.858093989022535,-122.2530396005036
+"4c0b1854340720a149b48793","Blessed Garden","Food::Asian Restaurant",37.8775582333333,-122.295126
+"4c0dda7f9cceef3bb6476ce2","City of Berkeley: Animal Care Services","Professional & Other Places::Building",37.86657556,-122.301837801933
+"4c0e5e03d64c0f47b907285d","Berkeley Arts Magnet","College & University::General College & University",37.8764993,-122.27091
+"4c0e606ac700c9b6debca3dd","RSSP","College & University::College Administrative Building",37.8670955226019,-122.255762815475
+"4c0f0f212466a5938f2b7a21","Frausto's","Food::Mexican Restaurant",37.863756,-122.267390525
+"4c0f358c98102d7f96f4e406","Acacia Fraternity","College & University::Fraternity House",37.867968678474426,-122.25240468978882
+"4c11cce7d917c928ef6eb662","Chevron Station","Shop & Service::Gas Station / Garage",37.85540715358995,-122.26683707496792
+"4c12a007b7b9c9289a23a837","Bike/Pedestrian Bridge","Outdoors & Recreation::Hiking Trail",37.864334336513494,-122.30351686477661
+"4c12e9a51b5cef3b9cd7edc4","Chen's Garden","Food::Chinese Restaurant",37.8486669,-122.27076563
+"4c1315a2b7b9c9288617a937","Subterranean Arthouse","Arts & Entertainment::Art Gallery",37.867812,-122.2662102
+"4c1437c27f7f2d7f9b97e068","Edoko Sushi","Food::Sushi Restaurant",37.871029,-122.276916
+"4c166f955e88c92875202466","Trilogy Interactive LLC","Professional & Other Places::Office::Coworking Space",37.87085982820556,-122.26864263394893
+"4c168943daf42d7f02524466","Urbann Turbann","Food::Indian Restaurant",37.875264,-122.260255
+"4c193b0f98f4a5939fc3fff5","Dale Oxley Hair Studio","Shop & Service::Salon / Barbershop",37.86742120818407,-122.26264429390794
+"4c1ee7168b3aa593c7d29c5f","Gilman Field","Outdoors & Recreation::Athletic & Sport::Soccer Field",37.87552067155625,-122.30764851796219
+"4c210bfa132f0f47c5aaa796","Lewis Hall","College & University::College Academic Building::College Science Building",37.873002927545,-122.255135178566
+"4c21165c3389c9b6b63d4ffb","Paper Plus Party Outlet","Shop & Service::Gift Shop",37.873928,-122.2936323
+"4c22828f34faef3b7fa8586d","Pancho's","Food::Mexican Restaurant",37.86814392,-122.258037733333
+"4c2293c99085d13abc9486cc","Hermosa","Shop & Service::Cosmetics Shop",37.862034,-122.253498
+"4c22d6019a67a5936b3add87","Acupuncture & Integrative Medicine College","College & University::Medical School",37.8627544641495,-122.267724
+"4c23c127c11dc9b6375b2424","Vinnie's Cheesesteaks","Food::Sandwich Place",37.875358,-122.260233
+"4c2435af905a0f472f825f60","Unit 3","College & University::College Residence Hall",37.8671294015433,-122.260472774506
+"4c268df65c5ca5935f6a46fe","Papa John's Pizza","Food::Pizza Place",37.86895,-122.267951
+"4c2944e0ce3fc928ac8d6e88","Firestone","Shop & Service::Automotive Shop",37.871715,-122.270820057143
+"4c2a31c19a559c7460e50ce2","CeX Berkeley","Shop & Service::Electronics Store",37.868011,-122.259424
+"4c2a921457a9c9b69fbcf467","Sumo Grub","Food::Sandwich Place",37.867798,-122.270224
+"4c2b9d0477cfe21ec7c7b4f1","Church's Chicken","Food::Fried Chicken Joint",37.88196508,-122.29661
+"4c2bc4d28ef52d7f7eea31ba","Dr. Robert Eppley (Orthopedist)","Professional & Other Places::Medical Center",37.855879,-122.256412
+"4c2e0741e116e21e70898f60","Hot Cups Cafe","Food::Café",37.87130271,-122.267558433333
+"4c2e734316adc9289eebbb9c","Bavarian Professionals","Shop & Service::Automotive Shop",37.8806575566965,-122.300563
+"4c302f3616adc928b1e4be9c","Berkeley Marina","Outdoors & Recreation::Harbor / Marina",37.86580811128722,-122.31473922729492
+"4c32384409a99c7448850b2a","Ippuku","Food::Japanese Restaurant",37.870387016670634,-122.2671970815019
+"4c32a47eed37a5934a3f6c03","Positive Motion Personal Training Studio","Shop & Service::Gym / Fitness Center::Gym",37.876169,-122.273696
+"4c37d17fae2da5938babffc5","SF Presbytery","College & University::General College & University",37.8662842512131,-122.26887345314
+"4c391fe1dfb0e21e31fbafa8","Bike Station","Shop & Service::Bike Shop",37.86894497517869,-122.26797801457045
+"4c3a594b0a71c9b6a12444c9","Ineffable Music","Arts & Entertainment::Music Venue",37.864042,-122.258946383333
+"4c3bdd9a5418897cc2260803","Laconda da Eva","Food::New American Restaurant",37.859135,-122.259664
+"4c3c84edb36ac928de2c0486","Peet's Coffee & Tea","Food::Café",37.86599661885834,-122.26827155530725
+"4c3fa995d7fad13ac4e604da","Double Rainbow Cafe","Food::Asian Restaurant",37.868811,-122.258191
+"4c40b646d691c9b6c0a08b0a","Cinnaholic","Food::Bakery",37.87030430235355,-122.26605059492334
+"4c40dec3520fa5933ec1c8ac","Amplify Barber Shop","Shop & Service::Salon / Barbershop",37.867888,-122.258726
+"4c420241e26920a19f5e5fe7","Delta Upsilon Fraternity","College & University::Fraternity House",37.867228,-122.250447
+"4c421d213735be9ad18319a4","Saturn Cafe","Food::Vegetarian / Vegan Restaurant",37.869698884579634,-122.26600074740092
+"4c4495cb56a7ef3b9e58ce21","Berkeley Playhouse","Arts & Entertainment::Performing Arts Venue::Theater",37.8622,-122.253897
+"4c47f2c176d72d7f34d93e4d","Albatross Pub","Nightlife Spot::Pub",37.870793281320786,-122.29302022009216
+"4c48e033a3ace21e68f6d23a","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",37.869704,-122.290649483333
+"4c4a2e33c668e21ea0273df8","Sigma Chi Fraternity - University of California (Berkeley)","College & University::Fraternity House",37.86782380926389,-122.25397573612213
+"4c4b556bbad7a593faa9b6ab","Laura","Nightlife Spot::Wine Bar",37.8619155,-122.257203
+"4c4c793046240f479f1ed9f4","The Way Christian Center","Professional & Other Places::Spiritual Center::Church",37.870087,-122.286428
+"4c4ca1d8f5afa593ea2149d6","South Berkeley Senior Center","Professional & Other Places::Event Space",37.85398,-122.272967
+"4c5453a01b46c9b60e6467ce","Berkeley Kite Festival","Arts & Entertainment::General Entertainment",37.870738,-122.315918
+"4c55ee0306901b8db2b6494e","Labels","Shop & Service::Clothing Store::Accessories Store",37.85701,-122.25370136
+"4c563674d12a20a1cb2664bd","The C","Nightlife Spot::Beer Garden",37.863266,-122.26223845
+"4c57765ed12a20a133ef66bd","Firehouse Art Collective","Arts & Entertainment::Art Gallery",37.8496462016805,-122.271035229372
+"4c577eb830d82d7f331fda62","1945 Berkeley Way","Residence::Residential Building (Apartment / Condo)",37.872743450336415,-122.27110168958917
+"4c57bdcbb7a31b8dde0151da","Phi Kappa Psi Cal Gamma Chapter","College & University::Fraternity House",37.867719,-122.251137
+"4c5870e612f0d13a676f09ad","franciscan School of Theology","College & University::College Academic Building",37.877361,-122.260666
+"4c58a631f346c928fcc04aca","BCA Buddhist Bookstore & Education Center","Shop & Service::Bookstore",37.866665,-122.266043
+"4c5a3f2b67ac0f471870064c","Da Red Door Brothel","Travel & Transport::Hotel::Bed & Breakfast",37.861890683333336,-122.25719698333333
+"4c5afdab04f9be9a8f26f360","Berkeley Orthodontics/Orthopedic Medical Group","Professional & Other Places::Medical Center::Doctor's Office",37.86141276666667,-122.25600985
+"4c5b066cd3aee21ec22b6c55","Stanley Hall","College & University::College Academic Building::College Science Building",37.87380976457966,-122.25651267773539
+"4c5c627e7f661b8dd469481c","Sutter East Bay Medical Foundation","Professional & Other Places::Medical Center",37.8584843873978,-122.259593
+"4c5ceb157735c9b649e38d72","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.87051721701939,-122.26890563964842
+"4c5f723e3986e21ecb49924f","Chris Thai Cuisine","Food::Thai Restaurant",37.86618338,-122.267857
+"4c62f4c7eb82d13a66a906d6","Cafe W","Food::American Restaurant",37.853505,-122.290042
+"4c676a11aebea593bc5c76d0","Paisan","Food::Italian Restaurant",37.8605,-122.28955935
+"4c68398f73851b8d0e02ba39","Bangkok Noodles & Thai BBQ","Food::Thai Restaurant",37.872681,-122.268581
+"4c685c227963be9af74ecdbc","Juniper Tree Supplies","Shop & Service::Arts & Crafts Store",37.860315,-122.289497
+"4c687141607ad13a4fb8a82b","Black Repertory Theater","Arts & Entertainment::Performing Arts Venue::Theater",37.8505825996399,-122.27034
+"4c6c665346353704935706bc","The Berkeley Faculty Club Bar","Food::Snack Place",37.87179946899414,-122.255859375
+"4c6d65d1a437224b39ec2cb1","Dr. Sandor Hites, Dentist","Professional & Other Places::Medical Center::Dentist's Office",37.86618408,-122.26352187
+"4c70b0aed7fab1f74f815fc9","76 Gasoline","Shop & Service::Gas Station / Garage",37.868307,-122.29706253333333
+"4c7186c48efc37045fa8107d","Unit 4 - Stern Hall","College & University::College Residence Hall",37.87488554806138,-122.25546578119523
+"4c71acc18efc37047726117d","Leggoe My Eggo","Nightlife Spot::Speakeasy",37.854853,-122.254526
+"4c73dabd57b6a143fb27c9cc","Foothill Dining Hall","College & University::College Cafeteria",37.87530435817223,-122.2561463713646
+"4c74afecff1fb60cd252f4a7","The Mermaid Grotto","Outdoors & Recreation::Beach::Surf Spot",37.86333401666667,-122.2623608
+"4c752d72c219224b64b3a128","PINC Solutions","Professional & Other Places::Office::Tech Startup",37.882097,-122.270033
+"4c75bac15db9bfb7d96a4513","The Cheese Steak Shop","Food::American Restaurant",37.868812561035156,-122.29301452636719
+"4c76987066be6dcb908fc30f","Kroeber Hall","College & University::College Academic Building::College Science Building",37.87013291953406,-122.25525721907616
+"4c769fc68d70b713d9afe0ad","California Memorial Stadium","College & University::College Stadium::College Football Field",37.87068660370429,-122.2507095336914
+"4c7703d8b4b4b60c287e260e","Pane Italiano Qualita","Food::Bakery",37.87117562376934,-122.2681884778223
+"4c772728923ba143e97366e6","Zut!","Food::Mediterranean Restaurant",37.869690355610736,-122.30065575641379
+"4c781828df08a1cdbf3bd65d","Fantasy Playground","Outdoors & Recreation::Playground",37.85877655,-122.290947
+"4c78572e794e224b55f56128","Hotel Shattuck Plaza","Nightlife Spot::Bar",37.869258446168885,-122.26844878705859
+"4c79526d794e224b48076528","Spieker Aquatics Complex","Outdoors & Recreation::Pool",37.8686793464538,-122.26168513298035
+"4c7ae5b6a86837041b2e154d","Mel's diner","Food::American Restaurant",37.86105728149414,-122.27459716796875
+"4c7b270581bca09384ca0215","Casa De Cultura","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.870285,-122.29218
+"4c7b32cbdf08a1cdd430e05d","Alpha Gamma Omega Fraternity","College & University::Fraternity House",37.86678704,-122.25352146
+"4c7bddfc97028cfa221de2fe","Sawyer Hall","College & University::College Administrative Building",37.8980396796187,-122.259697617235
+"4c7bfcb297028cfafb82e2fe","Giesy Hall","College & University::College Academic Building",37.8970255568409,-122.25921572815
+"4c7c5e1df56a370449ee0746","Cafe 3","College & University::College Cafeteria",37.8672522125752,-122.260467410088
+"4c7d62a25af8b60c02708f10","Bread Workshop","Food::Café",37.870110687386806,-122.2842264175415
+"4c7d6cadd461a143601d7df5","Stanley Hall","College & University::College Academic Building::College Science Building",37.87380976457966,-122.25651267773539
+"4c7ea9bc2042b1f7d1a1c0ad","Unit 3 - Norton Hall","College & University::College Residence Hall",37.867482,-122.260827
+"4c7ebdd52042b1f7dfdec0ad","Kroeber Hall","College & University::College Academic Building::College Science Building",37.87013291953406,-122.25525721907616
+"4c8008fcd92ea0938e293472","Crepes A Go Go!","Food::French Restaurant",37.876808166503906,-122.27391052246094
+"4c804000d92ea09397583672","Comcast Berkeley","Professional & Other Places::Building",37.871684,-122.272178
+"4c805b84d34ca143c0ef1880","Travelodge","Travel & Transport::Hotel::Motel",37.871023,-122.274253
+"4c81233a74d7b60ccba473d8","Creepy Playground","Outdoors & Recreation::Playground",37.863972187042236,-122.257881
+"4c8125702f1c236a4edd2c43","Lost Woods","Outdoors & Recreation::Park",37.86536767593709,-122.25774765014648
+"4c8178722f1c236a7c493043","Unit 3 Laundry Room","College & University::General College & University",37.86697,-122.260537
+"4c81e8eb74d7b60c8baf7bd8","Beta Theta Pi","College & University::Fraternity House",37.86745929095336,-122.25284018593763
+"4c82c63fe602b1f7d90ea07a","R Kassman Pianos","Shop & Service::Music Store",37.87949292,-122.30140247
+"4c82d418d34ca143d24e3080","Hearst Tennis Courts","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.86957587793976,-122.25595876550238
+"4c85951374d7b60c91479dd8","The Rooftop Terrace","Outdoors & Recreation::Scenic Lookout",37.86312605,-122.2622849
+"4c87f5586f14a093505aac10","Maru- Hair Salon","Shop & Service::Salon / Barbershop",37.88160023582227,-122.2697447852772
+"4c8a97d52e3337043710c541","Mars Vintage","Shop & Service::Thrift / Vintage Store",37.86692612766132,-122.25894927978516
+"4c8d74388018a1cdd7acf5d2","Addies Pizza Pie","Food::Pizza Place",37.84876948938969,-122.27170536799125
+"4c8eb6ea1992a1cdc61fe0fb","Unit 3 - Ida Sproul Hall","College & University::College Residence Hall",37.866907,-122.260876
+"4c8f073814fdb713218937c4","Jesuit School of Theology","College & University::University",37.877648,-122.258663166667
+"4c914e3cae96a093cd5da246","William Stout Books","Shop & Service::Bookstore",37.891155,-122.28446
+"4c925d8051d9b1f784628846","Halloween City","Shop & Service::Miscellaneous Shop",37.869483,-122.267881
+"4c96bf0482b56dcb0b73e4aa","Mount Everest Restaurant","Food::Indian Restaurant",37.86331073820503,-122.25883907769337
+"4c9947e1eaa5a1432a7ac2e4","Bechtel Engineering Center","College & University::College Academic Building::College Engineering Building",37.874017833553054,-122.25837380176254
+"4c9a5091db10b60c5ca5916d","Presbytery of San Francisco","Professional & Other Places::Spiritual Center::Church",37.86619477011099,-122.26878109579746
+"4c9b7c4f775abfb7dae15267","Li Ka Shing Center for Biomedical and Health Sciences","College & University::College Academic Building::College Science Building",37.87301563113128,-122.2652792930603
+"4ca391037f84224b2502c658","Ochame","Food::Japanese Restaurant",37.8695430604444,-122.300511799239
+"4ca39492d7c33704f32ca262","GTU Library","College & University::College Library",37.875717,-122.26189948
+"4ca6209444a8224b303c0040","Bette's Diner","Food::Diner",37.875389099121094,-122.28389739990234
+"4cacb5ce14c33704f0b9f23b","Genetics & Plants Biology Bldg","College & University::College Academic Building::College Science Building",37.8734094412188,-122.264742851257
+"4cb11d90aef16dcb5516b754","Pacific Hornblower","Outdoors & Recreation::Harbor / Marina",37.8680100697206,-122.314231147966
+"4cb1f47e1168a0937a413723","New Church Berkeley","Professional & Other Places::Spiritual Center::Church",37.865295,-122.256122
+"4cb2760b9b34199cb746b963","ACME Laboratories","Professional & Other Places::Office::Tech Startup",37.8818689666667,-122.29562995
+"4cb60e5056fca1cdad7f5318","Taste Wine Bar","Food::Winery",37.8687061331111,-122.264638239424
+"4cb7389d9c7ba35dd7879706","Tully's Coffee","Food::Coffee Shop",37.86892072838278,-122.25934088230133
+"4cb7482d9c7ba35deffe9706","Wesley House","Professional & Other Places::Building",37.868255,-122.26159
+"4cb86fcebac9370478c2dc7c","Bechtel Engineering Center","College & University::College Academic Building::College Engineering Building",37.874017833553054,-122.25837380176254
+"4cb9f4b94352a1cd74f08ff5","School Of The Madeleine","Professional & Other Places::School",37.884459,-122.271624
+"4cbb80487148f04d49bee2ab","Spice Of Life","Arts & Entertainment::General Entertainment",37.8782687422263,-122.269213095608
+"4cc2f12fd43ba143141c5cf8","Unit 2 - Katherine A. Towle Hall","College & University::College Residence Hall",37.865985695050426,-122.25456289391502
+"4cc3c793b3de9c74ed8fb2c9","Unit 4 - Foothill La Loma Complex","College & University::College Residence Hall",37.87601361622715,-122.25638508796692
+"4cc9ef5833d3721ed1d6268b","Nina's Cafe","Food::Café",37.85653,-122.29297135
+"4ccc3d3e97d0224ba3965eb8",">Play Conference","Arts & Entertainment::General Entertainment",37.871845,-122.253904
+"4ccc60fe2dc4370420fac608","City Of Berkeley","Professional & Other Places::Building",37.8688759704155,-122.272829640664
+"4cceed2edd919eb01079139e","Voting at CARKELEY ADULT SCHOOL","Professional & Other Places::Voting Booth",37.873425,-122.293433
+"4cd0220106b546887814d994","Polling Place - Precinct 209510","Professional & Other Places::Spiritual Center::Church",37.88183112255821,-122.28591020640712
+"4cd333ca793d224b1cba4710","Fix That Mac","Shop & Service::Electronics Store",37.8700089,-122.26605765
+"4cd4c0c0122ba14376cb27a1","Rudramandir Sacred Space Yoga Studio","Shop & Service::Gym / Fitness Center::Yoga Studio",37.86331386016748,-122.29591614074621
+"4cd8397151fc8cfaa660e85d","Dominican School of Philosophy and Theology","College & University::General College & University",37.8811517,-122.26458145000001
+"4cdd8c9594c3b60c47a75fea","BADcamp","Professional & Other Places::Event Space",37.869912685680646,-122.25945944244253
+"4cddc62b41ed224b6494d43c","Alpha Tau Omega - Gamma Iota","College & University::Fraternity House",37.868487,-122.250384
+"4cde55b5f8cdb1f795908a12","BADcamp Coder Lounge","Professional & Other Places::Event Space",37.869155,-122.268382
+"4ce08d55aba88cfa243d50d7","Bay Grille","Food::American Restaurant",37.868263,-122.31427
+"4ce3addedc1960fce6bb574a","Groove Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.8691529637457,-122.26611705825
+"4ce5c3d6fe90a35d3c2b320e","Unit 2 - Ruby L. Cunningham Hall","College & University::College Residence Hall",37.866523,-122.25534
+"4ce86f76b9975481299ffc44","Traffic","Outdoors & Recreation::Other Great Outdoors",37.877434,-122.307221
+"4cf2f1f8e3b9a09301544753","40 Acres","Shop & Service::Drugstore / Pharmacy",37.87079036235809,-122.29300796985626
+"4cf6dcc50a71224bcf5b2093","The Joint","Professional & Other Places::Medical Center",37.8619181053093,-122.259110487715
+"4d0bc199109d6dcb7041918d","Aaron Brothers Art and Framing","Shop & Service::Miscellaneous Shop",37.8647095828076,-122.267623549206
+"4d0c0c26e9cd2c0fd2263a42","Unit 2 - Griffiths Hall","College & University::College Residence Hall",37.865875870338215,-122.25430905818939
+"4d0c0e500efa8eecea1b5e58","Unit 1 - Thomas M. Putnam Hall","College & University::College Residence Hall",37.8677011063298,-122.254663109779
+"4d0c13580efa8eec89205e58","Spens-Black Hall","College & University::College Residence Hall",37.867413,-122.260084
+"4d0d9c6e3bbaa1430d373eda","CREAM (Cookies Rule Everything Around Me)","Food::Ice Cream Shop",37.86699812055864,-122.2587239742279
+"4d30f13f63f3b1f7c9749764","Gordo Taqueria","Food::Mexican Restaurant",37.86666356473386,-122.25897073745728
+"4d328f2c12412c0f18338fd9","Cafe Yesterday","Food::Coffee Shop",37.869235,-122.290769
+"4d353032329e5481c3d7c81d","Saigon Eats","Food::Vietnamese Restaurant",37.8691282315142,-122.259855866432
+"4d3b8330457cb60cc045e7a4","La Mission","Food::Burrito Place",37.86980867385864,-122.287912
+"4d3c64efa2e4b1f70bd5e825","New Spirit Community Church","Professional & Other Places::Spiritual Center::Church",37.87610374199254,-122.26290461668997
+"4d4327b8714a224b4406ebe8","Chan-Shun Auditorium","College & University::College Classroom",37.8716436311581,-122.261470556259
+"4d432f0ce4c8f04d5479cf6f","Sportivo","Food::Italian Restaurant",37.870469,-122.26699476666667
+"4d44dea44e5d3704731bf193","Cancún","Food::Mexican Restaurant",37.8696003468382,-122.266837074968
+"4d45cc6414aa8cfab237763d","Amphora Nueva","Shop & Service::Food & Drink Shop::Gourmet Shop",37.858494,-122.243927
+"4d46223a14aa8cfaa3fe793d","Sushi 29","Food::Sushi Restaurant",37.89129247,-122.283381
+"4d47331014aa8cfa476a853d","Le Conte Hall","College & University::College Classroom",37.8725981712341,-122.257789
+"4d4b2dcab4a160fc001460da","Gaumenkitzel","Food::German Restaurant",37.86735646,-122.291387
+"4d4e15488975a35d8efc0aa8","Lutheran Church of the Cross","Professional & Other Places::Spiritual Center::Church",37.8706772666667,-122.27627438252
+"4d4f25d723a76dcb19b267dc","Tutti Frutti Frozen Yogurt","Food::Ice Cream Shop",37.8673369097193,-122.259029746056
+"4d50b0917ee1a35d0d678834","ModCom MMA","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.876995,-122.294838
+"4d51dd103626a09393c328bd","Berkeley City College Library","College & University::General College & University",37.870202,-122.269608
+"4d615ea55c39b1f7c8030f4a","Covenant Worship Center","Professional & Other Places::Spiritual Center::Church",37.85836488,-122.28914439
+"4d61e1ab1939a35d298f32ee","Core Power Yoga Berkeley","Shop & Service::Gym / Fitness Center::Yoga Studio",37.868221,-122.298308
+"4d656a0289238cfa6d749936","Education Psychology Library","Professional & Other Places::Library",37.8742898666667,-122.26333395
+"4d6ad91d055a88bfa85a51cf","Zellerbach Playhouse","College & University::College Theater",37.86907260174914,-122.26131497617115
+"4d6fe88d3a6cf04d879d6679","Remedy Coffee","Food::Coffee Shop",37.868355,-122.256043
+"4d72b1e227ddb60cf928d21b","Bacheesos","Food::Mediterranean Restaurant",37.86154946,-122.259193
+"4d742f52fe1b721e9e89aa1f","Daiso Japan","Shop & Service::Gift Shop",37.867519008249594,-122.25877225399017
+"4d78202bece5a1cdefcf90a4","Grainger","Shop & Service::Hardware Store",37.851099816279984,-122.29160268522718
+"4d79885b0ceba1cdf87db358","Gabe Catalfo Fields","Outdoors & Recreation::Athletic & Sport::Soccer Field",37.8814485328299,-122.3035071756094
+"4d79af1f7418a1433addbf5b","Pepe's Pizza","Food::Pizza Place",37.86779003778685,-122.25808024406433
+"4d7a6f5ea1236dcbe44edf5e","The Lightroom","Arts & Entertainment::Art Gallery",37.8636237161708,-122.297322544098
+"4d804ab91013236aa8eb8535","Escapist Comics","Shop & Service::Bookstore",37.8544413,-122.248495
+"4d83cd42d5fab60ce038d49b","Berkeley Law Center For Research & Administration","College & University::College Administrative Building",37.858382787013724,-122.25959237727626
+"4d87b5447139b1f73b7693d4","Bay Trail","Outdoors & Recreation::Hiking Trail",37.86428351616802,-122.30358123779297
+"4d92733714228cfa7aef4c7b","Shorebird Park","Outdoors & Recreation::Harbor / Marina",37.86289961942528,-122.31538265101536
+"4d92a3c5922c6ea89c0c5579","Tilden View Point","Outdoors & Recreation::Scenic Lookout",37.88053258,-122.24767483
+"4d95a638942ba093bbf63e8c","Action House!","Nightlife Spot::Beer Garden",37.8519747666667,-122.2812105
+"4d9cb7c47509b1f76dd830a0","Parrot Cellular Berkeley","Shop & Service::Mobile Phone Shop",37.8705993,-122.268313
+"4da489d49935a09363b1df6f","Xinet Inc.","Professional & Other Places::Office",37.859103,-122.29169
+"4dad42cb8154b108febaf7a5","QARC","College & University::Student Center",37.8682683823181,-122.259924713635
+"4daf24a54b22907678767886","Congregation Netivot Shalom","Professional & Other Places::Spiritual Center::Synagogue",37.8699047322959,-122.285672090243
+"4db0e2d31e729fcc564834cd","Tilden Park - Curran Trail","Outdoors & Recreation::Hiking Trail",37.90191188018672,-122.24769959292607
+"4db358d9f7b121c29f357049","Premier Cru Fine Wines","Shop & Service::Food & Drink Shop::Wine Shop",37.868698523342,-122.292261619801
+"4db37260fa8c350240cf06b2","Cali Nails Spa","Shop & Service::Cosmetics Shop",37.859362,-122.2591
+"4db5e51bf7b121c29f680e83","Fantastic Comics","Shop & Service::Bookstore",37.87139304,-122.26851
+"4db6328681543d71da689195","Scenic lookout","Outdoors & Recreation::Scenic Lookout",37.85033472639797,-122.29931583978434
+"4db86057432dfca99755d68c","JCC East Bay - Berkeley","Professional & Other Places::Building",37.881503,-122.268642
+"4dc02da2b5924d4e44284976","Bec's Bar & Bistro","Nightlife Spot::Bar",37.868195,-122.26771356
+"4dc186d7fa764d03ea00952a","Saddler Family Dental Clinic","Professional & Other Places::Medical Center::Dentist's Office",37.847694,-122.27727
+"4dc73cfffa76d685ce0e12ce","Revere Glass","::Arts & Entertainment",37.85996558159591,-122.29305898054552
+"4de6d83152b1886171c0ef9e","Off the Grid: North Berkeley","Food::Food Truck",37.881535009586955,-122.26951718330383
+"4df3ee1ee4cda09e6da50593","Brazilian Room","Outdoors & Recreation::Other Great Outdoors",37.893582818512975,-122.24552252146012
+"4dfb9eadb0fb73bb4d7a90e3","Phil's Sliders","Food::Burger Joint",37.87138108504091,-122.26846575737
+"4dffd3e8d1648b616748bf30","Unit 1 - Barbara Christian Hall","College & University::College Residence Hall",37.868158466965376,-122.25515127182007
+"4e00ba6c62e12fb08938267c","Mulholland","::Shop & Service",37.87115883204828,-122.301186
+"4e011b44d1647696f1226db3","Casa Bernal Taqueria","Food::Taco Place",37.87060801,-122.268275
+"4e0214d2e4cd338f2d4a11f4","The Pho Bar","Food::Vietnamese Restaurant",37.875597,-122.260489
+"4e04d508ae60a77b247fbfe8","Webster Orthopedics","Professional & Other Places::Medical Center::Doctor's Office",37.85426,-122.257699
+"4e0627bafa767637fd22bede","Cafe Intermezzo","Food::Café",37.866245,-122.258717
+"4e08d5c3b0fbba5eee248cc8","Berkeley Acupuncture Project","Shop & Service::Spa / Massage",37.87146422414986,-122.27320070342283
+"4e0a9f6f1f6e56a68104c6d0","My Home","Residence::Residential Building (Apartment / Condo)",37.84914231,-122.27407283
+"4e0e10e418a8bf9784c923f4","Wrap And Roll","Food::Deli / Bodega",37.868515,-122.29604611666667
+"4e0fc993483bc2b5f48f6687","Kiraku","Food::Japanese Restaurant",37.863708,-122.258622
+"4e0fd04045ddc2c6d185cd97","The Troctor Femple","Professional & Other Places::Spiritual Center::Temple",37.86483908333334,-122.26716168333333
+"4e13ce9eb0fb5dfdd076ff44","Bebop","Food::Korean Restaurant",37.85669,-122.253027
+"4e21ae26d4c0d32590f1325b","72/72M/72R Stop","Travel & Transport::Bus Station::Bus Line",37.868698,-122.291973
+"4e21f13d22717a5245d07480","The SmitHanSio House","Residence::Residential Building (Apartment / Condo)",37.87424457302174,-122.2751501462253
+"4e2310aa18a88345f05ccfd2","Uncle Dougies","Food::American Restaurant",37.867775,-122.256637
+"4e27e563152078c77b073211","Unit 1","College & University::College Residence Hall",37.86779003778685,-122.25526928901672
+"4e28d51862e17c3301a2ad95","Parrot AT&T","Shop & Service::Mobile Phone Shop",37.870709,-122.2682047
+"4e299ef5636585a51e9c7db6","Artistic Picture Framing","Shop & Service::Furniture / Home Store",37.8726006461804,-122.26834774017334
+"4e2b8336b0fbc2edac2368fc","Donkey And Goat","Food::Winery",37.8779296875,-122.30201721191406
+"4e2c6344a809f1b16419bdf4","Berkeley Mount Zion Missionary Baptist Chutch","Professional & Other Places::Spiritual Center::Church",37.87824828108634,-122.2987787610173
+"4e3b737b18a83d5b28296284","Zaika","Food::Indian Restaurant",37.872011,-122.269501
+"4e3c894b18a83d5b28383d6a","PSR Quad","College & University::College Quad",37.876351,-122.26326
+"4e3ce5a5cc3f6517531c69d9","Walgreens","Shop & Service::Drugstore / Pharmacy",37.87817310616433,-122.26877689361572
+"4e3e0294aeb73139a182039b","Birdland @ Cafe Yesterday","Arts & Entertainment::Performing Arts Venue",37.86933,-122.290893
+"4e3f65b462e19d610988a6ba","Eva's: After Hours","Nightlife Spot::Nightclub",37.8951043326182,-122.258728297894
+"4e406f0052b17005f5bfad2d","The Local Butcher Shop","::Food",37.878348,-122.269602
+"4e418b5b922ef0e3a86f6f38","ASUC Auxiliary- Foursquare Treasure Hunt","College & University::General College & University",37.8686200595433,-122.263605594635
+"4e418bd9922ef0e3a86f6fbb","Bank of America- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263648509979
+"4e418c31922ef0e3a86f7041","Berkeley Apartments- Foursquare Treasure Hunt","College & University::General College & University",37.8686878160086,-122.263584136963
+"4e418c72922ef0e3a86f7088","Berkeley City Club- Foursquare Treasure Hunt","College & University::General College & University",37.8686539377837,-122.26362705230713
+"4e418cab922ef0e3a86f70bd","Berkeley Rep- Foursquare Treasure Hunt","College & University::General College & University",37.8686878160086,-122.263691425323
+"4e418ce6922ef0e3a86f710b","Berkeley Summer Sessions- Foursquare Treasure Hunt","College & University::General College & University",37.8686878160086,-122.263627052307
+"4e418d28922ef0e3a86f714c","Cal Alumni Association- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263627052307
+"4e418d68922ef0e3a86f71a7","Cal Athletics- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263669967651
+"4e418dbc922ef0e3a86f7234","Cal Dining- Foursquare Treasure Hunt","College & University::General College & University",37.8686539377837,-122.263669967651
+"4e418df8922ef0e3a86f725f","Cal Student Store- Foursquare Treasure Hunt","College & University::General College & University",37.8686200595433,-122.263648509979
+"4e418e77922ef0e3a86f72b8","Cal Rec Sports- Foursquare Treasure Hunt","College & University::General College & University",37.8686539377837,-122.263712882996
+"4e418ed4922ef0e3a86f72fe","Dell- Foursquare Treasure Hunt","College & University::General College & University",37.8686878160086,-122.263691425323
+"4e418f27922ef0e3a86f736a","Double Tree by Hilton- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263734340668
+"4e418f6a922ef0e3a86f738b","Extreme Pizza- Foursquare Treasure Hunt","College & University::General College & University",37.8686031204172,-122.263669967651
+"4e418fa2922ef0e3a86f73ac","Four Points Sheraton- Foursquare Treasure Hunt","College & University::General College & University",37.8686539377837,-122.263691425323
+"4e418fde922ef0e3a86f73d2","Greener Printer- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263648509979
+"4e41901f922ef0e3a86f7408","Heavenly/Tahoe Ski Resort- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263734340668
+"4e419058922ef0e3a86f743e","Hilton Garden Inn- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263691425323
+"4e4190d4922ef0e3a86f7477","Hotel Shattuck- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263627052307
+"4e419108922ef0e3a86f74cb","IKEA- Foursquare Treasure Hunt","College & University::General College & University",37.86862005954327,-122.26364850997925
+"4e41917f922ef0e3a86f7559","Kaplan Test Prep- Foursquare Treasure Hunt","College & University::General College & University",37.8687047551152,-122.263648509979
+"4e4191b3922ef0e3a86f7598","Liveshare- Foursquare Treasure Hunt","College & University::General College & University",37.8687216942178,-122.263627052307
+"4e419223922ef0e3a86f75fc","mtvU- Foursquare Treasure Hunt","College & University::General College & University",37.86867087689808,-122.26364850997925
+"4e419259922ef0e3a86f7646","Naked Juice- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263691425323
+"4e419295922ef0e3a86f768b","Pentel- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263648509979
+"4e4192c5922ef0e3a86f76c3","Pepsi- Foursquare Treasure Hunt","College & University::General College & University",37.8686708768981,-122.263648509979
+"4e41935d922ef0e3a86f77d5","USE Credit Union- Foursquare Treasure Hunt","College & University::General College & University",37.8686200595433,-122.263605594635
+"4e4193a4922ef0e3a86f7809","Xfinity- Foursquare Treasure Hunt","College & University::General College & University",37.8686200595433,-122.263691425323
+"4e41aa6bb0fb09b60865d87c","BAM Theater","Arts & Entertainment::General Entertainment",37.874535,-122.270617
+"4e439e5fd22de4060eeb3173","Kevin's Mom's House","Travel & Transport::Rest Area",37.853841,-122.240321
+"4e442f24fa76eeb2dac07271","Avalon Walk","Outdoors & Recreation::Hiking Trail",37.85993597678245,-122.24827570618879
+"4e45aab2887781a619a0489b","Airport Home Appliance","Shop & Service::Furniture / Home Store",37.86337196566981,-122.26757924095287
+"4e45cd3362e148603b6a7521","Rohai Dojo","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.8711980345669,-122.29247203502322
+"4e46d35cb61c03d0cd117cbd","Telegraph Ave Street Faire","Shop & Service::Miscellaneous Shop",37.8678759385449,-122.258977552281
+"4e472cf91f6e29f10db1333b","Center Street Summer Cinema","Arts & Entertainment::Movie Theater",37.870678,-122.2669954
+"4e493ec8b61c03d0cd2fe9b7","Apple Store","Shop & Service::Electronics Store",37.869323,-122.300408
+"4e4c7406d22d10a6c5cc832f","Kirala Japanese Restaurant","Food::Japanese Restaurant",37.859354,-122.266777
+"4e4ec05818383eb2af177dc4","CBS Outdoor Studios","::Arts & Entertainment",37.871563,-122.305257
+"4e4ed864d4c0b6da5d75ac59","Bellissima Day Spa","Shop & Service::Spa / Massage",37.85545967774059,-122.26659337754677
+"4e4ee879922e36d08cab8423","Wells Fargo- Foursquare Treasure Hunt","College & University::General College & University",37.8686369986654,-122.263584136963
+"4e502d312271a1bdc3e9b811","Mint Leaf Vietnamese Restaurant","Food::Vietnamese Restaurant",37.853542696865304,-122.29177951812744
+"4e52a7137d8b864c451d38ba","Manhattan Roast & Grill","Food::American Restaurant",37.867965,-122.258285256831
+"4e53d0ec7d8b8e9188e22c15","Z Gallerie - BBO Office","Professional & Other Places::Office",37.871691,-122.300228
+"4e542d731495ac3f023159f4","Redux","Professional & Other Places::Office::Tech Startup",37.871906,-122.269324
+"4e5559831495b62c8a0b385f","Origen","::Food",37.85894403,-122.259439
+"4e5c7e72aeb7a6ca53e19757","The Furry Tarantula","Arts & Entertainment::Racetrack",37.85557556152344,-122.2810287475586
+"4e5ee93e62e1624313ddb563","GTU Commons","College & University::College Quad",37.876024,-122.262367
+"4e600b201520355eb671d598","Clark Kerr Dining Commons","College & University::College Cafeteria",37.863893892355,-122.248542308807
+"4e61abdd45ddda35293eeb4e","Clark Kerr Track","Outdoors & Recreation::Scenic Lookout",37.8657135503975,-122.247295203874
+"4e66a523b0fbcbb043c989ea","Presbytery of San Francisco","Professional & Other Places::Spiritual Center::Church",37.86619477011099,-122.26878109579746
+"4e6ab024e4cdb37551b18cbc","Troy","Food::Greek Restaurant",37.8565064665,-122.25280141084
+"4e6abb84227162c38e929e0f","Hippie Gypsy","Food::Café",37.875309,-122.268705
+"4e6bdff962e15039f7bf8a50","The Launching Pad","Professional & Other Places::Spiritual Center",37.8585600408741,-122.2533221038339
+"4e7149651838677342e99a64","Annie's Homegrown","Professional & Other Places::Building",37.8735182313579,-122.301165141771
+"4e7247d6e4cd7aa6d731df0a","Over 60 Clinic","Professional & Other Places::Medical Center::Doctor's Office",37.847899,-122.278524
+"4e727d38d4c06f120a57bf86","Shattuck - Berkeley","::Travel & Transport",37.86572181868404,-122.26786724427086
+"4e74e4cdb993a71aa38472d7","Spice of Life Festival 2011","Arts & Entertainment::Performing Arts Venue",37.880961,-122.269331133333
+"4e7b825e62e12bdbfdfebb1c","The Do Better Lounge","Nightlife Spot::Lounge",37.85436,-122.286589
+"4e83cb262c5b59297504ed83","Fresco burrito","Food::Burrito Place",37.8717237710953,-122.272939682007
+"4e84eed7d22d8f46fefce82b","Halloween City","Shop & Service::Department Store",37.8693474666667,-122.268144
+"4e8d5e0fdab404822e0c4258","SAE Cal Beta","College & University::Fraternity House",37.868937,-122.25378
+"4e8f9e0d775bfdaabc01c990","בית חב״ד Chabad Jewish Student Center","Professional & Other Places::Spiritual Center::Synagogue",37.86519510174992,-122.25617479161549
+"4e901d6dc2ee0d7f4f68c84d","#OccupyBerkeley","Outdoors & Recreation::Other Great Outdoors",37.870754358269195,-122.26757526397705
+"4e9382170cd61c757e4048bd","Hana Japan Steak & Seafood","Food::Japanese Restaurant",37.8644020969196,-122.312915325165
+"4e97528ef9f4c8f4a5e12788","Berkeley Apartments - Fine Arts","Residence::Residential Building (Apartment / Condo)",37.864893358000735,-122.26768255233765
+"4e987258b63418b7e669ad2c","César Chávez Memorial Sundial","Arts & Entertainment::Historic Site",37.873099,-122.321439
+"4e9b437e8231878c15ca7519","The Fountain at The Circle 100th Anniversary Celebration","Outdoors & Recreation::Sculpture Garden",37.890285055780964,-122.27244750005256
+"4e9c7e14775b2c05aea1776e","Tivoli Cafe","Food::Café",37.868853,-122.25784759439405
+"4eb4a3c36c2590eb87b97b65","Radiolab: In The Dark Bay Area Science Fest","Arts & Entertainment::Concert Hall",37.8694366108987,-122.260689083329
+"4eb7094d775b544c27fcb064","TheTrap","Nightlife Spot::Lounge",37.865496,-122.274399
+"4ebdbccfb6341cd41dcafe6f","Peet's Coffee & Tea","Food::Coffee Shop",37.85115,-122.252668
+"4ecc088c30f8ecd410916180","LSI - Language School International","College & University::General College & University",37.8700800292486,-122.270176781179
+"4ed0381861af476c0862d79f","The Magnes","Arts & Entertainment::Art Gallery",37.8695306004913,-122.266731842059
+"4ed18aaef790d07039e851c1","Berkeley Bart station","Travel & Transport::Light Rail",37.8534629,-122.2711948
+"4ee410b3d3e34ebcef89c197","innerstellar yoga and pilates","Shop & Service::Gym / Fitness Center::Yoga Studio",37.85844188386501,-122.26791709091994
+"4eeb80380e61df3826b18f1b","H2 Fitness and Personal Training","Shop & Service::Gym / Fitness Center::Gym",37.86771976301192,-122.30057824103645
+"4ef177989911c04e5dcfb00f","Chamber Of Farts","Nightlife Spot::Strip Club",37.8513886426094,-122.285206931548
+"4ef63fbf8231c11155913431","Casa de Chocolates","Food::Dessert Shop",37.8568911092307,-122.25386495127
+"4f0a0696e4b0ca3a5de6cc99","Pappy's Bar And Grill","Nightlife Spot::Sports Bar",37.86758155541368,-122.25884461668034
+"4f0b4985e4b0cc066f1a6c44","Babette","Food::Café",37.8684138969189,-122.25607508731
+"4f1535260039f9a1c452beae","The Toaster Oven","Food::Sandwich Place",37.86845490289808,-122.25902706384659
+"4f1dce70e4b0ce22e7f53736","UC Berkeley Visitor Center","College & University::College Administrative Building",37.8690327008248,-122.258861233639
+"4f246a1ce4b0b2f98f7389f8","Fiveten Burger","Food::Food Truck",37.8509,-122.290406
+"4f287d6ee4b0b50175083c51","Dojo Dog","Food::Food Truck",37.868747,-122.259164
+"4f29f1a8e4b0f10bf4d418a2","Free House","Nightlife Spot::Beer Garden",37.8690793561804,-122.254319168431
+"4f2d71b7e4b067066d2239ff","Alchemy Collective Cafe","Food::Café",37.8509407609032,-122.27070292766685
+"4f2ec21ee4b09d49e998f30a","Strawberry Creek Quaker Meeting","Professional & Other Places::Spiritual Center",37.85953536609611,-122.27107953618821
+"4f43a051e4b09d14bcabac7c","Berkeley CrossFit","Shop & Service::Gym / Fitness Center::Gym",37.866891506306956,-122.29152516324397
+"4f4bf078e4b001f6290717d2","Brasa Pollo Local","Food::Peruvian Restaurant",37.871695,-122.271529
+"4f5bdb76e4b06784f8000c41","Suya African Caribbean Grill","Food::African Restaurant",37.8702831691966,-122.266089365202
+"4f60ed7ae4b0533a6f70bd79","Sockshop Telegraph","Shop & Service::Clothing Store",37.86504581700605,-122.25849565994068
+"4f616061e4b01b3ebdc914c5","Yoga To The People - Hot Studio","Shop & Service::Gym / Fitness Center::Yoga Studio",37.86737229168245,-122.26862048003645
+"4f9b1389e4b05e5ed6d99d69","Congregation Beth Israel","Professional & Other Places::Spiritual Center::Synagogue",37.866057796645634,-122.27815731325995
+"4fb16c62e4b0ffee0d040f5d","Spoon Korean Bistro","Food::Korean Restaurant",37.85168431614026,-122.28981412793296
+"4fe0be48245fb5dd44a3539b","DoubleTree by Hilton Hotel","Travel & Transport::Hotel",37.86519892325938,-122.26599520878588
+"4ff31adbe4b0a148f8ef47c3","Bartavelle","Food::Coffee Shop",37.875085,-122.293668
+"5009c15ee4b03215e5ad609e","Sottovoce","Shop & Service::Gift Shop",37.89144,-122.27884
+"501829d8e4b0c41323553b88","G Sports Physical Therapy","Professional & Other Places::Medical Center::Doctor's Office",37.870906537264304,-122.26916324956548
+"50395280e4b01bb8068f01a2","U Cafe","Food::Bakery",37.868005334057855,-122.25695026636512
+"5040d15be4b0b5223d547e52","Peet's Coffee & Tea","Food::Coffee Shop",37.86998343671805,-122.26817740081943
+"506749fde4b01301ec2bba19","Red Buffalo Cheesesteaks & Buffalo Wings","Food::Wings Joint",37.86616888407042,-122.26781739759846
+"5088a46be4b0b15cd5d36013","Padi Restaurant","Food::Indonesian Restaurant",37.856825,-122.252944
+"50d28133e4b09485075084c3","Crabyard","Food::Seafood Restaurant",37.871329334778636,-122.26770108860552

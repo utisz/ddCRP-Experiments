@@ -1,0 +1,1061 @@
+"40870b00f964a5209bf21ee3","Googleplex","Professional & Other Places::Office",37.42194653277123,-122.08385467529297
+"40c8f600f964a520fe001fe3","Shoreline Amphitheatre","Arts & Entertainment::Music Venue",37.42695150816766,-122.08105090069728
+"412a8500f964a520920c1fe3","King of Clubs","Nightlife Spot::Gay Bar",37.406417,-122.064734
+"412bd680f964a520ad0c1fe3","Molly Magees","Nightlife Spot::Bar",37.393214,-122.078907
+"4144e300f964a520a31c1fe3","Uncle Frank's","Food::BBQ Joint",37.41451433208157,-122.0937609747962
+"42ab7b00f964a52027251fe3","Amber India","Food::Indian Restaurant",37.397588,-122.104191
+"42d1b680f964a5200c261fe3","Cascal","Food::Tapas Restaurant",37.39124034698776,-122.0807647705078
+"43027e00f964a5200f271fe3","Fiesta del Mar Too","Food::Mexican Restaurant",37.393471,-122.078347
+"43616a00f964a5203b291fe3","Chaat Paradise","Food::Indian Restaurant",37.37850846234196,-122.07109808921814
+"43a05afcf964a520222c1fe3","Intuit Inc.","Professional & Other Places::Office",37.42768922899132,-122.09709405899048
+"43a2e548f964a5203a2c1fe3","BevMo!","Shop & Service::Food & Drink Shop::Liquor Store",37.40469023367412,-122.10924983024597
+"43b6bc58f964a520ce2c1fe3","Fresh Choice","Food::Salad Place",37.40031871005082,-122.11100124034093
+"43bacfe1f964a520ea2c1fe3","Krung Thai Restaurant","Food::Thai Restaurant",37.402167498420816,-122.11038708686829
+"43d6abd9f964a520502e1fe3","Maru Ichi Japanese Noodle House","Food::Ramen /  Noodle House",37.39184555851246,-122.08039999008179
+"44251d90f964a520a4311fe3","Mountain View Center for the Performing Arts","Arts & Entertainment::Concert Hall",37.38995471615175,-122.08178880257744
+"442d178bf964a520d4311fe3","Tapioca Express","Food::Café",37.393713,-122.078427
+"44734b40f964a520aa331fe3","Ramen House Ryowa","Food::Ramen /  Noodle House",37.3940162,-122.07969603
+"44a58de4f964a520ef341fe3","Amber Cafe","Food::Indian Restaurant",37.385101318359375,-122.08203756666667
+"44b28a68f964a5203d351fe3","Starbucks","Food::Coffee Shop",37.411407775855054,-122.09425470141221
+"44b54f45f964a5205f351fe3","Taqueria La Bamba","Food::Taco Place",37.41468658915963,-122.09216147661209
+"44c2142ef964a520bd351fe3","La Monique's Nail Salon","Shop & Service::Nail Salon",37.38823361666667,-122.08282377
+"44c67279f964a520dc351fe3","BookBuyers","Shop & Service::Bookstore",37.392324,-122.079823
+"44f6de17f964a52043381fe3","Books Inc.","Shop & Service::Bookstore",37.39245955,-122.079714
+"44fc846ff964a52089381fe3","Gelato Classico","Food::Dessert Shop",37.39324988614936,-122.07925200462341
+"450150b7f964a520c1381fe3","Tapatio's Grill","Food::Burrito Place",37.41070568561554,-122.093457
+"450a852cf964a52046391fe3","Microsoft SVC","Professional & Other Places::Office",37.41188297187805,-122.07143068313599
+"450af486f964a5204b391fe3","Dana Street Roasting Company","Food::Coffee Shop",37.39240292,-122.07907
+"450af4f4f964a5204c391fe3","Red Rock Coffee","Food::Coffee Shop",37.393803003654625,-122.07888155105633
+"450fede0f964a5207f391fe3","Best Bite Restaurant","Food::Mediterranean Restaurant",37.389141554892745,-122.09032457474011
+"45451fbef964a520713c1fe3","The Office Bar","Nightlife Spot::Dive Bar",37.37717775150312,-122.06248519158518
+"45486961f964a520823c1fe3","Mountain View Caltrain Station","Travel & Transport::Train Station",37.39416407012379,-122.07572221755981
+"4551d82cf964a520ed3c1fe3","REI","Shop & Service::Sporting Goods Shop",37.422896618343714,-122.09664563778969
+"455fa0a5f964a520943d1fe3","The Sports Page","Nightlife Spot::Sports Bar",37.41607098,-122.07860549
+"4564c18bf964a520c43d1fe3","Starbucks","Food::Coffee Shop",37.390846,-122.094734
+"4566fc19f964a520d13d1fe3","Jamba Juice","Food::Juice Bar",37.390980166666665,-122.09494292736053
+"45808b21f964a5205a3f1fe3","Mervyn's Lounge","Nightlife Spot::Dive Bar",37.393463,-122.079596
+"4596ba31f964a52070401fe3","La Fiesta Restaurant","Food::Mexican Restaurant",37.391611183987,-122.07288926014697
+"45a01c29f964a520ca401fe3","Kapp's Pizza Bar and Grill","Food::Pizza Place",37.39386573625279,-122.07876920700073
+"45addfdcf964a52077411fe3","Yakko Sushi","Food::Sushi Restaurant",37.393144,-122.081632
+"45b8f33bf964a520d6411fe3","New York Pizza","Food::Pizza Place",37.379557,-122.074953
+"45b9e505f964a520d8411fe3","Crossings Cafe","Food::Coffee Shop",37.39150771470487,-122.15584743459168
+"45b9e53df964a520d9411fe3","Caltrain San Antonio Station","Travel & Transport::Train Station::Train",37.406164630829345,-122.10578441619873
+"45d5e524f964a520cd421fe3","Neto Caffè & Bakery","Food::Mediterranean Restaurant",37.39454247965092,-122.07829898174205
+"461ce817f964a5206f451fe3","Clocktower Coffee Roasting Co.","Food::Coffee Shop",37.39710046443337,-122.06162452697754
+"462b9290f964a520e0451fe3","Amarin Thai Cuisine","Food::Thai Restaurant",37.39426789,-122.07884821577335
+"462d478ff964a520e9451fe3","St. Stephen's Green","Nightlife Spot::Pub",37.39348439077878,-122.0791034814007
+"4655cdf1f964a52001471fe3","Rasputin Music","Shop & Service::Record Shop",37.40268739337724,-122.11380422115326
+"46596303f964a52016471fe3","Costco","Shop & Service::Food & Drink Shop::Grocery Store",37.42083884039676,-122.09522724151611
+"4667cf1af964a5208a471fe3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",37.401974,-122.110446
+"46ae7ba1f964a52086491fe3","Century Cinema 16","Arts & Entertainment::Movie Theater::Multiplex",37.41471641431128,-122.0807272195816
+"46b8f26bf964a520c7491fe3","Tied House Brewery & Cafe","Food::Brewery",37.394688282477915,-122.08077013492584
+"46d36dfdf964a520574a1fe3","In-N-Out Burger","Food::Burger Joint",37.420888,-122.09329
+"46d36eb9f964a520584a1fe3","In-N-Out Burger","Food::Burger Joint",37.38044374583181,-122.07400023937225
+"4740b317f964a520724c1fe3","Starbucks","Food::Coffee Shop",37.387594,-122.082833
+"478dffa7f964a520454d1fe3","Fiesta del Mar","Food::Mexican Restaurant",37.408670187190474,-122.07773923873901
+"47af15d7f964a5209d4d1fe3","Performance Bicycle","Shop & Service::Bike Shop",37.3965935,-122.103293
+"482f75ebf964a520dd4f1fe3","Amici's East Coast Pizzeria","Food::Pizza Place",37.387113,-122.083119
+"4842f75ef964a52055501fe3","Orchard Supply Hardware","Shop & Service::Hardware Store",37.4212470332916,-122.09981867832693
+"48508c41f964a5209f501fe3","Walmart","Shop & Service::Department Store",37.40098280627522,-122.10917472839355
+"48750fc1f964a5200f511fe3","Sushi Tomi","Food::Sushi Restaurant",37.39187529,-122.07802083
+"48caa2bdf964a520e9511fe3","Pizza My Heart","Food::Pizza Place",37.390936,-122.094846367836
+"49b05a79f964a520b6521fe3","Raptr, Inc.","Professional & Other Places::Office",37.40392745612825,-122.07720816135406
+"49be990ff964a520c1541fe3","LinkedIn","Professional & Other Places::Office",37.42335242641889,-122.0710551738739
+"49cb20a1f964a520ff581fe3","Baskin-Robbins","Food::Ice Cream Shop",37.37559691755115,-122.06379175186157
+"49d287dff964a520b55b1fe3","Momoya Sushi","Food::Sushi Restaurant",37.40268739337724,-122.07930564880371
+"49d85e70f964a520bd5d1fe3","Therapy","Shop & Service::Clothing Store::Boutique",37.393237,-122.079486
+"49dbd89cf964a5201b5f1fe3","Shana Thai Restaurant","Food::Thai Restaurant",37.39776376909154,-122.07610183503613
+"49dd0d33f964a520e45f1fe3","Taqueria La Bamba","Food::Mexican Restaurant",37.39445387903289,-122.07873970270157
+"49e3a16af964a520a4621fe3","Target","Shop & Service::Department Store",37.40122094697431,-122.10624213647667
+"49e3a1c4f964a520a5621fe3","Cuesta Park","Outdoors & Recreation::Playground",37.37245931377563,-122.08106517791748
+"49e8d060f964a5208d651fe3","Googleplex - 41","Professional & Other Places::Office",37.42242368751381,-122.08554983139038
+"49e8d08bf964a5208f651fe3","Googleplex - 42","Professional & Other Places::Office",37.42170795425973,-122.0856249332428
+"49e8d0b4f964a52090651fe3","Googleplex - 43","Professional & Other Places::Office",37.42159718540671,-122.08413362503052
+"49e8d0ddf964a52092651fe3","Googleplex - 44","Professional & Other Places::Office",37.4204311,-122.083844
+"49e8d105f964a52093651fe3","Googleplex - 45","Professional & Other Places::Office",37.420054925122976,-122.08213806152344
+"49e8d12af964a52094651fe3","Googleplex - 46","Professional & Other Places::Office",37.41894481779007,-122.08223819900665
+"49e8d14df964a52095651fe3","Googleplex - 47","Professional & Other Places::Office",37.419216,-122.081322
+"49edeb10f964a52002681fe3","Duarte Design","Professional & Other Places::Office",37.38905466913563,-122.06449949706443
+"49ee3071f964a52032681fe3","Clarke's Charcoal Broiler","Food::Burger Joint",37.384799934351285,-122.08252115135846
+"49ee30c8f964a52033681fe3","zpizza","Food::Pizza Place",37.39452516461004,-122.07867626508353
+"49ee3169f964a52036681fe3","Taqueria Los Charros","Food::Taco Place",37.392934333333336,-122.08038
+"49ee3196f964a52037681fe3","Specialty's Cafe & Bakery","Food::Bakery",37.402659153829646,-122.05092024699968
+"49efa487f964a520d8681fe3","Googleplex - 1350","Professional & Other Places::Office",37.42109721338497,-122.07740015437702
+"49efa507f964a520da681fe3","Googleplex - 1250","Professional & Other Places::Office",37.42106879212354,-122.07464814280858
+"49efa542f964a520db681fe3","Googleplex - 1055","Professional & Other Places::Office",37.4188653506487,-122.08003003568302
+"49efa576f964a520dc681fe3","Googleplex - CL2","Professional & Other Places::Office",37.42581480683665,-122.07196712493896
+"49efa5ebf964a520de681fe3","Googleplex - CL4","Professional & Other Places::Office",37.4267539680003,-122.07144662217549
+"49efa600f964a520df681fe3","Googleplex - CL5","Professional & Other Places::Office",37.426854264918745,-122.07196712493896
+"49efa821f964a520e0681fe3","Googleplex - PLY1","Professional & Other Places::Office",37.417325866666665,-122.08142492069823
+"49efa838f964a520e1681fe3","Googleplex - PLY2","Professional & Other Places::Office",37.417405296922766,-122.08227703564766
+"49efa859f964a520e2681fe3","Googleplex - 1667","Professional & Other Places::Office",37.4162677,-122.0843862
+"49efa872f964a520e3681fe3","Googleplex - 1600","Professional & Other Places::Office",37.41739422259832,-122.08406350609785
+"49efa88ff964a520e4681fe3","Googleplex - 900","Professional & Other Places::Office",37.418194467076816,-122.08567796183482
+"49efa8acf964a520e6681fe3","Googleplex - 1098","Professional & Other Places::Office",37.420236231008616,-122.08603857581056
+"49efa8cdf964a520e7681fe3","Googleplex - 1900","Professional & Other Places::Office",37.422610794266156,-122.08791374914449
+"49efa8e3f964a520e8681fe3","Googleplex - 1950","Professional & Other Places::Office",37.42204766584219,-122.08783607988717
+"49efa8fff964a520e9681fe3","Googleplex - 1965","Professional & Other Places::Office",37.4218701571471,-122.08991093949969
+"49efa912f964a520ea681fe3","Googleplex - 1945","Professional & Other Places::Office",37.42242368751381,-122.09029197692871
+"49efa988f964a520ed681fe3","Googleplex - GWC2","Professional & Other Places::Office",37.42400904298363,-122.0926015405244
+"49efa9c1f964a520ef681fe3","Googleplex - GWC4","Professional & Other Places::Office",37.42408592754504,-122.09408827696163
+"49efa9dcf964a520f1681fe3","Googleplex - 2375","Professional & Other Places::Office",37.42465275000001,-122.09403157
+"49f0dff6f964a52068691fe3","Fu Lam Mum","Food::Chinese Restaurant",37.39424,-122.07859516666667
+"49f689f6f964a5204e6c1fe3","Shoreline Billiards","Arts & Entertainment::Pool Hall",37.41397444,-122.079058
+"49f6da32f964a5205e6c1fe3","Hunan Chili","Food::Chinese Restaurant",37.395052086482124,-122.07844323729225
+"49f92297f964a520646d1fe3","Vaso Azzurro","Food::Italian Restaurant",37.39491283893585,-122.07839369773865
+"4a033103f964a52098711fe3","Linden Lab Mountain View","Professional & Other Places::Office::Tech Startup",37.385857701301575,-122.0840733
+"4a04bdf7f964a52025721fe3","Pizzeria Venti","Food::Italian Restaurant",37.41591367130528,-122.07767486572266
+"4a04be4bf964a52026721fe3","Pear Avenue Theatre","Arts & Entertainment::Performing Arts Venue::Theater",37.416474805823704,-122.07367715432764
+"4a0546a2f964a5205e721fe3","King of Krung Siam","Food::Thai Restaurant",37.393953,-122.078868
+"4a06fa21f964a52013731fe3","The Posh Bagel","Food::Bagel Shop",37.390567,-122.081116
+"4a07959bf964a52086731fe3","New Mongolian BBQ","Food::Chinese Restaurant",37.392408677319445,-122.08000468388377
+"4a088fdef964a520e9731fe3","Best Buy","Shop & Service::Electronics Store",37.423133023542476,-122.09709405899048
+"4a0891d8f964a520eb731fe3","Lee's Comics","Shop & Service::Bookstore",37.42010605028225,-122.09608554840088
+"4a0a3e7cf964a52096741fe3","Hong Kong Bakery","Food::Bakery",37.393709436303844,-122.07907019187797
+"4a0a3fa2f964a52097741fe3","Chili's Grill & Bar","Food::American Restaurant",37.40105179271982,-122.11101788019681
+"4a0df9d2f964a520b5751fe3","Rose Market","Food::Middle Eastern Restaurant",37.38474142250642,-122.0848013874763
+"4a17176ff964a52035791fe3","Office Depot","Shop & Service::Paper / Office Supplies Store",37.39209042,-122.09634366666667
+"4a1f9946f964a520397c1fe3","Chipotle Mexican Grill","Food::Mexican Restaurant",37.42179316095823,-122.09658980369568
+"4a20216ef964a5204d7c1fe3","Shoreline Dog Park","Outdoors & Recreation::Dog Run",37.42828562619893,-122.0775032043457
+"4a2060fbf964a520787c1fe3","Lozano Brushless Car Wash","Shop & Service::Car Wash",37.40367833,-122.11643974
+"4a23425ef964a520c97d1fe3","Phở Hóa","Food::Vietnamese Restaurant",37.39362706733228,-122.07928657359295
+"4a25980bf964a520707e1fe3","Verde Tea Cafe","Food::Café",37.39407036666667,-122.07943494
+"4a288cb0f964a5202e951fe3","99 Ranch Market 大華超級市場","Shop & Service::Food & Drink Shop::Grocery Store",37.377613270266785,-122.07666635513306
+"4a2b0748f964a5208a961fe3","Pasta Q","Food::Italian Restaurant",37.394384655845585,-122.07881497186447
+"4a2c7b1af964a52069971fe3","Milk Pail Market","Shop & Service::Food & Drink Shop::Grocery Store",37.40518454346782,-122.11011350154877
+"4a2dc519f964a520ef971fe3","SETI Institute","Professional & Other Places::Office",37.402483,-122.057294
+"4a2de833f964a52007981fe3","Cold Stone Creamery","Food::Ice Cream Shop",37.402538455217126,-122.11416831344171
+"4a31a5a0f964a5200c9a1fe3","Happi House","Food::Japanese Restaurant",37.38325706447515,-122.07826495170593
+"4a31d3a9f964a5202d9a1fe3","ViVe Sol","Food::Mexican Restaurant",37.395331801902884,-122.09966335682898
+"4a336482f964a5202a9b1fe3","Loopt","Professional & Other Places::Office::Tech Startup",37.38481,-122.081455
+"4a350196f964a5207c9c1fe3","Ribbit","Professional & Other Places::Office::Tech Startup",37.385759124344766,-122.08385467529297
+"4a36f8edf964a520159e1fe3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.405456,-122.10901108333333
+"4a37e6d0f964a5208c9e1fe3","Appcelerator, Inc.","Professional & Other Places::Office::Tech Startup",37.38933517740147,-122.05040216445923
+"4a37e9bdf964a520919e1fe3","Ooyala","Professional & Other Places::Office::Tech Startup",37.38662965006311,-122.08416337003689
+"4a37ec1af964a520949e1fe3","Laser Quest","Arts & Entertainment::General Entertainment",37.41400486816977,-122.07913398742676
+"4a3aa081f964a52006a01fe3","Bangkok Spoon","Food::Thai Restaurant",37.39352,-122.077953
+"4a3bd40ff964a520cfa01fe3","Nob Hill Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.378308110758,-122.07597970962524
+"4a41a02ff964a5207ba51fe3","Baskin-Robbins","Food::Ice Cream Shop",37.387938,-122.088755
+"4a42978cf964a52002a61fe3","Sushi 85","Food::Sushi Restaurant",37.37719977317687,-122.07688093185425
+"4a430839f964a52075a61fe3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.37712462048438,-122.06386690928406
+"4a44062cf964a5200ca71fe3","The Kitchen Table","Food::Middle Eastern Restaurant",37.39447360479002,-122.078627
+"4a442dc7f964a52046a71fe3","Y Combinator","Professional & Other Places::Office::Tech Startup",37.38676503970469,-122.0679759979248
+"4a4920b4f964a52002ab1fe3","Savory","Food::Vietnamese Restaurant",37.386568516666664,-122.083286
+"4a4990bff964a52073ab1fe3","Satsuma Sushi","Food::Sushi Restaurant",37.375861401001906,-122.06368379108117
+"4a4a7a5cf964a520dcab1fe3","Casa Lupe","Food::Mexican Restaurant",37.39064365478561,-122.08070039749146
+"4a4acaaff964a52030ac1fe3","The Cantankerous Fish","Food::Seafood Restaurant",37.390984622339836,-122.08083987236023
+"4a4bb7bbf964a5209fac1fe3","Daiso Japan","Shop & Service::Department Store",37.402477,-122.10993
+"4a4c294cf964a52017ad1fe3","Sono Sushi","Food::Sushi Restaurant",37.391732,-122.080133
+"4a4cf060f964a5205bad1fe3","McDonald's","Food::Fast Food Restaurant",37.3914718055791,-122.09659571158363
+"4a53a297f964a52089b21fe3","Taco Bell","Food::Mexican Restaurant",37.38692116,-122.085584
+"4a54f751f964a5207cb31fe3","Dittmer's Gourmet Meats & Wurst-Haus","Food::Deli / Bodega",37.40488726666667,-122.111954
+"4a578d6bf964a5205eb61fe3","Goldilocks","Food::Asian Restaurant",37.41993564700914,-122.09590228967491
+"4a579d17f964a52078b61fe3","Rengstorff Park","Outdoors & Recreation::Park",37.40089617546719,-122.09684534238376
+"4a57b41af964a520a2b61fe3","Los Charros Restaurant","Food::Mexican Restaurant",37.381276,-122.07556534
+"4a58eca7f964a52032b81fe3","Vpaul'a Salon","Shop & Service::Salon / Barbershop",37.38754,-122.082538
+"4a590a49f964a5207fb81fe3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",37.4231053318716,-122.09753394126892
+"4a59cd5ff964a52085b91fe3","Hotel Avante","Travel & Transport::Hotel",37.376284842483116,-122.06089813672142
+"4a5cd877f964a520b5bc1fe3","Erik's DeliCafe","Food::Sandwich Place",37.37667117563899,-122.07641959190369
+"4a5d34e5f964a5205fbd1fe3","Roger's Deli & Donuts","Food::Sandwich Place",37.39709451666667,-122.06003497
+"4a5e3250f964a52022be1fe3","Googleplex - Patio","Professional & Other Places::Building",37.42199765663907,-122.08413362503052
+"4a5e47c4f964a5204bbe1fe3","Cafe Baklava Mediterranean Grill","Food::Middle Eastern Restaurant",37.39198394136759,-122.07994681256804
+"4a5e4bebf964a52054be1fe3","Sunny Bowl","Food::Korean Restaurant",37.41612298577482,-122.07937534545371
+"4a5e9531f964a520d4be1fe3","Shabuway","Food::Japanese Restaurant",37.39416718482971,-122.078956
+"4a5ea524f964a520f6be1fe3","Gelayo Gusto","Food::Ice Cream Shop",37.38650892,-122.085061
+"4a5f5853f964a5206bbf1fe3","Starbucks","Food::Coffee Shop",37.37307637356331,-122.08779169742941
+"4a6005bbf964a520acc01fe3","Phô Tâ Chaû","Food::Vietnamese Restaurant",37.3939304904203,-122.07963611237452
+"4a60dd17f964a52055c11fe3","La Costeña","Food::Burrito Place",37.41483800182564,-122.09264592101201
+"4a611dc8f964a520eac11fe3","Queen House","Food::Chinese Restaurant",37.39293833,-122.07937002182007
+"4a61202bf964a520f1c11fe3","Tea Era","Food::Tea Room",37.3929508926128,-122.07939753840755
+"4a61a625f964a52080c21fe3","Tech and Beer House","Nightlife Spot::Speakeasy",37.397692,-122.078699
+"4a62122ff964a520f7c21fe3","US Post Office","Professional & Other Places::Post Office",37.393227578111066,-122.07790505214692
+"4a6356a1f964a520cbc41fe3","Mountain View Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",37.3935008186205,-122.07459265798657
+"4a64a3fcf964a52066c61fe3","Ustream","Professional & Other Places::Office::Tech Startup",37.392968,-122.079631
+"4a651feff964a52059c71fe3","Gold's Gym","Shop & Service::Gym / Fitness Center::Gym",37.41445393080161,-122.07890929237422
+"4a65de1af964a520a9c71fe3","East West Bookstore","Shop & Service::Bookstore",37.392293095149554,-122.08021312631122
+"4a664a44f964a52054c81fe3","Willow Park","Professional & Other Places::Building",37.40036914542633,-122.07196712493896
+"4a666993f964a52084c81fe3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.40312205688368,-122.07897305488586
+"4a67c5c0f964a52009ca1fe3","Subway","Food::Sandwich Place",37.399757,-122.110192
+"4a692655f964a520aecb1fe3","Godavari","Food::Indian Restaurant",37.393714,-122.079235
+"4a693c9af964a520d1cb1fe3","Xanh Restaurant","Food::Vietnamese Restaurant",37.39489934481892,-122.07856529953106
+"4a6b974bf964a52044cf1fe3","Togo's","Food::Sandwich Place",37.39290118217468,-122.09671734
+"4a6fc863f964a520f9d61fe3","Teneros","Professional & Other Places::Office::Tech Startup",37.388452,-122.061297297478
+"4a70a1a5f964a52000d81fe3","El Calderon Restaurant","Food::Latin American Restaurant",37.38502621650696,-122.075355
+"4a70b452f964a5203fd81fe3","Bump Technologies","Professional & Other Places::Office",37.39278320052115,-122.07284688949585
+"4a7126c0f964a52029d91fe3","Burger King","Food::Fast Food Restaurant",37.3792331338149,-122.07139313220978
+"4a74137cf964a520b7dd1fe3","Nijiya Market","Shop & Service::Food & Drink Shop::Grocery Store",37.37882390843198,-122.07133948802948
+"4a747b6af964a52044de1fe3","House of Bagels","Food::Bagel Shop",37.3727726537471,-122.08748370409012
+"4a74840cf964a52063de1fe3","Hacker Dojo","Professional & Other Places::Office::Coworking Space",37.3870649,-122.06390621428571
+"4a748c83f964a5208fde1fe3","The Car Doctor","Shop & Service::Automotive Shop",37.41412431342502,-122.09525879017153
+"4a74b001f964a52034df1fe3","Subway","Food::Sandwich Place",37.41415373682473,-122.09325615087309
+"4a74bca6f964a5206cdf1fe3","Mediterranean Grill House","Food::Mediterranean Restaurant",37.387707002273075,-122.08293725641686
+"4a7677a7f964a5200ee31fe3","Chevys Fresh Mex","Food::Mexican Restaurant",37.396439892288136,-122.1026623249054
+"4a774e06f964a5201be41fe3","Sushi Tei","Food::Sushi Restaurant",37.38494575023651,-122.0845821377637
+"4a777f00f964a520aee41fe3","San Veron Park","Outdoors & Recreation::Park",37.40432376051511,-122.07479953765869
+"4a77b401f964a52004e51fe3","El Camino YMCA","Shop & Service::Gym / Fitness Center::Gym",37.37063466862071,-122.07943439483643
+"4a77e52df964a5202ce51fe3","McDonald's","Food::Fast Food Restaurant",37.41927057265743,-122.09365002468515
+"4a78949df964a520f1e51fe3","Googleplex - Big Table Cafe","Professional & Other Places::Office::Cafeteria",37.422700606282554,-122.08759903907776
+"4a78f1cdf964a520ace61fe3","Kappo Nami Nami","Food::Japanese Restaurant",37.39334784061089,-122.07954734072717
+"4a79ec5bf964a52004e81fe3","Cafe Yulong","Food::Chinese Restaurant",37.39225208759308,-122.07921981811523
+"4a7a67c8f964a52049e91fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.40263876125092,-122.10943153575376
+"4a7af7e6f964a520b6e91fe3","Kevin's Auto Repair","Shop & Service::Automotive Shop",37.41912231402945,-122.09144209384291
+"4a7b9130f964a5206deb1fe3","KFC","Food::Fried Chicken Joint",37.385447,-122.0827978849411
+"4a7baa18f964a520a2eb1fe3","Gyros House","Food::Mediterranean Restaurant",37.39366724031988,-122.07926992886097
+"4a7bc44ff964a520c5eb1fe3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.37953578865124,-122.07269668579102
+"4a7c7869f964a520b5ec1fe3","JulieQ's Hair Salon","Shop & Service::Salon / Barbershop",37.39318549633026,-122.08151042461395
+"4a7dfb08f964a52079f01fe3","Pet Club","Shop & Service::Pet Store",37.42027646722787,-122.09604263305664
+"4a7dfc70f964a52083f01fe3","Blockbuster Video","Shop & Service::Video Store",37.391155,-122.095065
+"4a7e1177f964a520d9f01fe3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.391775198442296,-122.08142817446634
+"4a7e152bf964a520e5f01fe3","US Post Office - Blossom Valley","Professional & Other Places::Post Office",37.37183128220877,-122.08814675658255
+"4a7f1319f964a520adf21fe3","Hobee's Restaurant","Food::Breakfast Spot",37.40389762668098,-122.09797382354736
+"4a7f26eff964a5200ef31fe3","PetSmart","Shop & Service::Pet Store",37.42265919634103,-122.09605872631073
+"4a7f389df964a52050f31fe3","Dairy Queen","Food::Ice Cream Shop",37.40321,-122.10664113333333
+"4a7f3d81f964a52067f31fe3","Goodwill Mountain View","Shop & Service::Thrift / Vintage Store",37.37541145,-122.06132366
+"4a7f6343f964a520e0f31fe3","Taco Bell","Food::Mexican Restaurant",37.40828,-122.077757
+"4a8231ebf964a520d9f81fe3","Fred's Place","Nightlife Spot::Dive Bar",37.415501,-122.100927
+"4a8241c3f964a5200bf91fe3","California Billiard Club","Arts & Entertainment::Pool Hall",37.37466572659456,-122.06013789593523
+"4a83cd51f964a520a4fb1fe3","Mountain View City Hall","Professional & Other Places::Government Building::City Hall",37.39011486681691,-122.08177770634575
+"4a86399df964a520d30020e3","Caffe Romanza","Food::Café",37.39232789,-122.079677
+"4a872404f964a520d20220e3","Cost Plus World Market","Shop & Service::Miscellaneous Shop",37.39383344907696,-122.09664563778969
+"4a87982cf964a520c40420e3","Wine Press Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.396157032002414,-122.10209300330771
+"4a883b2ef964a5207f0520e3","Country Gourmet","Food::American Restaurant",37.3960016,-122.10158354
+"4a884848f964a520b90520e3","Ristorante Bella Vita","Food::Italian Restaurant",37.39249348640442,-122.079938
+"4a88c4a2f964a5208f0720e3","Fro-Yo Shoppe","Food::Dessert Shop",37.372877,-122.087645
+"4a8a4a86f964a520190a20e3","Togo's Sandwiches","Food::Sandwich Place",37.41398782506553,-122.07875847816467
+"4a8a5624f964a5201b0a20e3","Lucky Express","Food::Chinese Restaurant",37.40225879758965,-122.10758446902439
+"4a8b399af964a520d80b20e3","The Little Gym","Shop & Service::Gym / Fitness Center::Gym",37.394197990882496,-122.09711161460292
+"4a8b45b9f964a520fe0b20e3","Chase","Shop & Service::Bank",37.39995248333334,-122.11040186
+"4a8b6161f964a5204f0c20e3","Meebo HQ","Professional & Other Places::Office::Tech Startup",37.39372551666666,-122.078889
+"4a8ba04ef964a520b00c20e3","Donut Field","Food::Donut Shop",37.394163,-122.09688909
+"4a8c3b10f964a5205f0d20e3","Eye-Fi HQ","Professional & Other Places::Office::Tech Startup",37.39219082872924,-122.0728837115761
+"4a8e0a84f964a520d71120e3","Petco","Shop & Service::Pet Store",37.39303891903346,-122.09737300872803
+"4a8e1a4ff964a520051220e3","La Salsa","Food::Mexican Restaurant",37.40214,-122.11353256666666
+"4a8e3638f964a520341220e3","7-Eleven","Shop & Service::Convenience Store",37.39655069834471,-122.06042289733887
+"4a8f5a59f964a520091520e3","El Camino Hospital","Professional & Other Places::Medical Center::Hospital",37.36903167270556,-122.08024978637695
+"4a8f7cdef964a520631520e3","Zen Lounge","Nightlife Spot::Nightclub",37.39312234351082,-122.07911457790597
+"4a95b71ff964a5203f2420e3","Luu Noodle","Food::Asian Restaurant",37.40285784995478,-122.1084451675415
+"4a95fbaff964a520b82520e3","KFC / Long John Silver's","Food::Fast Food Restaurant",37.42136712649613,-122.10050582885742
+"4a961cdaf964a5200d2620e3","Mini of Mountain View","Shop & Service::Automotive Shop",37.380493,-122.072561
+"4a97796bf964a5209a2920e3","Shoreline Golf Links","Outdoors & Recreation::Athletic & Sport::Golf Course",37.430429571720545,-122.08565577016637
+"4a9835a2f964a520fe2a20e3","Supercuts","Shop & Service::Salon / Barbershop",37.42199242115021,-122.096452
+"4a985492f964a520882b20e3","Playdom HQ","Professional & Other Places::Office::Tech Startup",37.392300416666664,-122.0715964
+"4a9898fcf964a520e32c20e3","Tsunami Sushi","Food::Sushi Restaurant",37.393644,-122.078964
+"4a999634f964a520442f20e3","Artisan Wine Depot","Food::Winery",37.391846,-122.07351113910833
+"4a9ab929f964a520553220e3","Bajis' Down The Street Cafe","Food::Diner",37.41458539,-122.09805088
+"4a9b2c7bf964a520a53420e3","Sura Sushi","Food::Sushi Restaurant",37.395009,-122.09944903850555
+"4a9b4081f964a520d63420e3","RadioShack","Shop & Service::Electronics Store",37.40194786392831,-122.10807813259012
+"4a9b45f8f964a520e23420e3","El Super Mercado","Shop & Service::Food & Drink Shop::Grocery Store",37.39779,-122.071936
+"4a9be710f964a520623520e3","Palo Alto Medical Foundation","Professional & Other Places::Medical Center::Doctor's Office",37.37635813101025,-122.0650432976502
+"4a9bf6f1f964a520963520e3","Plaxo","Professional & Other Places::Office::Tech Startup",37.387481,-122.05485
+"4a9c7483f964a5203c3720e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.4019714715172,-122.11380958557129
+"4a9dd905f964a520a63920e3","Pearl Cafe","Food::Café",37.40298737298977,-122.10673580616825
+"4a9e98ebf964a520903a20e3","Googleplex - 1550","Professional & Other Places::Office",37.41729791022126,-122.08175551387895
+"4a9f5345f964a5201a3d20e3","Temptations","Food::Indian Restaurant",37.3928376,-122.07980361666667
+"4a9ff3d7f964a520b33d20e3","The UPS Store","Shop & Service::Paper / Office Supplies Store",37.387831,-122.082709
+"4aa08665f964a520f83f20e3","Ginseng Korean BBQ + Tofu","Food::Korean Restaurant",37.390496,-122.08087742328644
+"4aa5b925f964a5204d4920e3","Kirin Chinese Seafood Restaurant","Food::Chinese Restaurant",37.39031760311133,-122.0809257030487
+"4aa5c882f964a520704920e3","Chef Xiu","Food::Chinese Restaurant",37.3861543,-122.08532858
+"4aa68140f964a520024a20e3","Starbucks","Food::Coffee Shop",37.41579863320815,-122.07753002643585
+"4aa72966f964a5200e4c20e3","Massage Envy","Shop & Service::Spa / Massage",37.378901720496444,-122.07555254140723
+"4aa7fa85f964a520714e20e3","Taqueria Margaritas","Food::Mexican Restaurant",37.38167345523834,-122.07501411437988
+"4aa88657f964a5208d5120e3","Cheryl Burke Dance","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.41369316904582,-122.08046279485154
+"4aaa7482f964a520045620e3","Donut Basket","Food::Donut Shop",37.414094067612645,-122.09315629531287
+"4aaaa5b0f964a520c85620e3","Plaza Deli Cafe","Food::Deli / Bodega",37.42965459075488,-122.09982977271113
+"4aab0aa8f964a520b05820e3","Garden Fresh Vegetarian Restaurant","Food::Vegetarian / Vegan Restaurant",37.38758340156686,-122.08874702453613
+"4aac5ee6f964a520a95d20e3","Spica Coffee & Tea","Food::Coffee Shop",37.387858,-122.082839
+"4aac7ecbf964a520245e20e3","Sweet Corner","Food::Ice Cream Shop",37.388222740556365,-122.08263427019119
+"4aad339bf964a520f95e20e3","Eagle Park","Outdoors & Recreation::Park",37.38922009849331,-122.08630084991455
+"4aae6fa8f964a520166220e3","SmugMug","Professional & Other Places::Office::Tech Startup",37.3904135008098,-122.0671820640564
+"4aaea048f964a520a96220e3","Googleplex - Slice Cafe","Food::Vegetarian / Vegan Restaurant",37.42218085021227,-122.08468079566956
+"4aaea898f964a520cd6220e3","Hong Kong Bistro","Food::Chinese Restaurant",37.394376,-122.0785332
+"4aaeb8e5f964a5200c6320e3","Googleplex - Pi","Professional & Other Places::Office::Coworking Space",37.42319223333333,-122.092395
+"4aafeb83f964a5202f6520e3","The Lunch Box","Professional & Other Places::Office::Cafeteria",37.42647938006118,-122.07196712493896
+"4ab0117bf964a520bf6520e3","Evernote","Professional & Other Places::Office::Tech Startup",37.392399621116994,-122.07311511039734
+"4ab16dccf964a520746920e3","Tellme","Professional & Other Places::Office",37.39720099564785,-122.08399693008738
+"4ab3dfebf964a520da6e20e3","Falafel & Kebab","Food::Mediterranean Restaurant",37.416301606446055,-122.07959172655993
+"4ab534eef964a520417320e3","California BMW/Triumph","Shop & Service::Motorcycle Shop",37.41541564464569,-122.099784
+"4ab55c03f964a5202e7420e3","Sweet Onion Deli & Gelato","Food::American Restaurant",37.422065,-122.096374
+"4ab5ed4bf964a5203a7620e3","Avalon Mountain View","Residence::Residential Building (Apartment / Condo)",37.39828094333057,-122.08754759358685
+"4ab6a188f964a520437820e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.406509788977985,-122.0778089761734
+"4ab6d10bf964a5202c7920e3","Mountain View Buddhist Temple","Professional & Other Places::Spiritual Center::Temple",37.40200556318945,-122.07745492458344
+"4ab7cf73f964a520e37a20e3","Mint.com","Professional & Other Places::Office::Tech Startup",37.392337,-122.078522
+"4ab80014f964a520cd7b20e3","Googleplex - No Name Cafe","Food::Café",37.421776119626294,-122.08429455757141
+"4ab88c2df964a520087d20e3","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.375611,-122.063137
+"4abac71bf964a520e08220e3","ToToRo Korean Tofu","Food::Korean Restaurant",37.39392746666667,-122.079469
+"4abb02c0f964a520868320e3","Little Caesars","Food::Pizza Place",37.402625,-122.11405098438263
+"4abb98d1f964a5200f8420e3","Peet's Coffee & Tea","Food::Coffee Shop",37.38506009046897,-122.08454132080078
+"4abbabb9f964a5204f8420e3","Caffino","Food::Coffee Shop",37.39367394956586,-122.0981052517891
+"4abd2857f964a520c98820e3","Computer History Museum","Arts & Entertainment::Museum::Science Museum",37.41452468098636,-122.07739323377609
+"4abd683bf964a5201d8a20e3","Sakoon Indian Restaurant","Food::Indian Restaurant",37.39171067359131,-122.08004113209353
+"4abd6e5bf964a520418a20e3","Community School of Music & Art","Professional & Other Places::School::Music School",37.40746051458584,-122.1108015618703
+"4abdc01ff964a5206c8b20e3","Park Place Apartments","Residence::Residential Building (Apartment / Condo)",37.38831650981638,-122.0845627784729
+"4abe7587f964a520c08d20e3","Mountain View Fire Station 4","Professional & Other Places::Government Building::Fire Station",37.393833,-122.060099
+"4ac10c50f964a520949520e3","Googleplex - Andale","Food::Mexican Restaurant",37.42172956466675,-122.085076
+"4ac17dadf964a520579720e3","Valero","Shop & Service::Gas Station / Garage",37.39979492332269,-122.07298358580802
+"4ac24884f964a5208f9820e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.390136521189696,-122.09473178341992
+"4ac29f7df964a520089a20e3","Chef Liu","Food::Chinese Restaurant",37.393394,-122.079469
+"4ac2b4eff964a520729a20e3","Mountain View Public Library","Professional & Other Places::Library",37.3904049765749,-122.08357572555542
+"4ac3c3aff964a520ba9c20e3","Googleplex - Cafe 150","Professional & Other Places::Office::Cafeteria",37.42120523276497,-122.07712233066559
+"4ac408fcf964a520f39d20e3","Essence Salon","Shop & Service::Salon / Barbershop",37.392792,-122.080096
+"4ac4d6a4f964a520269f20e3","BMW of Mountain View","Shop & Service::Automotive Shop",37.38036018515717,-122.07145771946381
+"4ac500bbf964a520e69f20e3","Ristorante Don Giovanni","Food::Italian Restaurant",37.3931412061941,-122.07913398742676
+"4ac503cef964a520f59f20e3","Justia, Inc.","Professional & Other Places::Office",37.415915,-122.077017
+"4ac50c34f964a5202ca020e3","7-Eleven","Shop & Service::Convenience Store",37.41571843333333,-122.077297
+"4ac55f06f964a520bcb120e3","TrialPay HQ","Professional & Other Places::Office::Tech Startup",37.392828,-122.080471
+"4ac5607bf964a520c5b120e3","GameStop","Shop & Service::Video Game Store",37.40257,-122.10809
+"4ac6b08af964a520d4b520e3","Fun House Theatrical Costumes","Shop & Service::Miscellaneous Shop",37.401539399696986,-122.05477721506242
+"4ac79d52f964a5207ab820e3","The Better Bagel","Food::Bagel Shop",37.379403643732076,-122.07502752542496
+"4ac79d94f964a5207db820e3","Una Mas","Food::Mexican Restaurant",37.37961678058338,-122.07451522350311
+"4ac91e2bf964a520b2be20e3","Clyde's Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.38265604617609,-122.07849025726318
+"4ac936fcf964a5202dbf20e3","Jo-Ann Fabric & Craft","Shop & Service::Arts & Crafts Store",37.404214369138366,-122.10887686437412
+"4aca1035f964a5205cc020e3","Hertz Rent a Car","Travel & Transport::Rental Car Location",37.392510683333334,-122.09613261666667
+"4aca42d3f964a5201ac120e3","Lakeside Café","Food::Breakfast Spot",37.432649,-122.08821
+"4aca76a2f964a52005c220e3","Bento Teriyaki","Food::Japanese Restaurant",37.39668,-122.06134667
+"4acb9521f964a52067c420e3","Googleplex - Crave Cafe","Professional & Other Places::Office::Cafeteria",37.42365064289002,-122.09170818328857
+"4acbcd45f964a520bac720e3","Michaels at Shoreline Restaurant","Food::American Restaurant",37.43029630177328,-122.08604335784912
+"4acd4f99f964a520cccb20e3","Dancy Sushi","Food::Sushi Restaurant",37.40544103333333,-122.110702
+"4ace01acf964a520dbcd20e3","Mountain View Physical Therapy","Shop & Service::Gym / Fitness Center",37.384307,-122.080453
+"4ace11f4f964a52031ce20e3","Googleplex - Tetsuwan Atom Cafe","Food::Café",37.42007989631025,-122.08342548431605
+"4acf9d30f964a520f5d420e3","Googleplex - Pure Ingredient Cafe","Food::New American Restaurant",37.42618,-122.07208979601951
+"4acfaeb3f964a5204dd520e3","Chalateco","Food::Mexican Restaurant",37.37556338310242,-122.061546
+"4acfc429f964a520d9d520e3","San Antonio Cleaners","Shop & Service::Laundry Service",37.40619915240729,-122.11003057764856
+"4acfcafff964a5200bd620e3","Mountain View High School","Professional & Other Places::School::High School",37.3595413415428,-122.06740158500988
+"4acffd14f964a52035d720e3","Chase Bank","Shop & Service::Bank",37.385145338851515,-122.08341479301453
+"4ad00e4af964a52075d720e3","Kohl's","Shop & Service::Department Store",37.403047301514604,-122.10785626160337
+"4ad38ae6f964a520d4e420e3","Googleplex - Pintxo Cafe","Food::Tapas Restaurant",37.41947114467621,-122.081494
+"4ad39442f964a52007e520e3","Carl's Jr. / Green Burrito","Food::Fast Food Restaurant",37.397207255371775,-122.06044310272931
+"4ad3bcfbf964a5200fe620e3","Starbucks","Food::Coffee Shop",37.421469374988106,-122.09634304046631
+"4ad51ca5f964a520f00121e3","OfficeMax","Shop & Service::Paper / Office Supplies Store",37.41952662976634,-122.09569931030273
+"4ad54432f964a520950221e3","Ross Dress For Less","Shop & Service::Department Store",37.40485216310364,-122.1110200881958
+"4ad5471ef964a520a10221e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",37.40154362,-122.112376
+"4ad5485af964a520a80221e3","Burger King #1946","Food::Fast Food Restaurant",37.40166127681732,-122.112001
+"4ad64222f964a520210621e3","Hon Sushi","Food::Sushi Restaurant",37.41627,-122.07934856414795
+"4ad790f6f964a5203f0c21e3","The Country Deli and Cafe","Food::Deli / Bodega",37.41734609006245,-122.0784154958552
+"4ad79a9bf964a520ae0c21e3","Cooper Park","Outdoors & Recreation::Park",37.36741397778957,-122.07243427639524
+"4ad7c475f964a520810e21e3","Sears","Shop & Service::Department Store",37.4029601237152,-122.11089134216309
+"4ad8fde0f964a520db1621e3","Mozilla HQ","Professional & Other Places::Office::Tech Startup",37.38807010872821,-122.08305931359776
+"4ada7704f964a520ce2221e3","Passage to India","Food::Indian Restaurant",37.3944105,-122.09969103333333
+"4adae504f964a520452421e3","Whisman VTA Station","Travel & Transport::Light Rail",37.39194784730152,-122.0586633682251
+"4adbce17f964a520bb2a21e3","Seascapes Fish & Pets","Shop & Service::Pet Store",37.39272246724627,-122.07983538508415
+"4ade8cf5f964a520537621e3","Googleplex - The Hub","Food::Café",37.41885397,-122.0824711
+"4adf1532f964a520717721e3","Western Ballet","Nightlife Spot::Nightclub",37.417923362810015,-122.09348914682226
+"4adf2a2df964a520f37721e3","Comfort Inn","Travel & Transport::Hotel",37.389376759529114,-122.09188520908356
+"4adf9974f964a520f87b21e3","Holiday Inn Express & Suites","Travel & Transport::Hotel",37.381351692019685,-122.07582414150238
+"4adfd1bef964a520997d21e3","Pho Ngon","Food::Vietnamese Restaurant",37.39985,-122.110088
+"4ae094abf964a520908021e3","ShareThis","Professional & Other Places::Office::Tech Startup",37.419920580129435,-122.08743663711302
+"4ae0bc16f964a5200c8221e3","Masa's Sushi","Food::Sushi Restaurant",37.40548283228285,-122.11149215698242
+"4ae0d525f964a520f18221e3","Fenwick & West LLP","Professional & Other Places::Office",37.391246977369406,-122.08118405629504
+"4ae1ca01f964a520688721e3","Mi Pueblo","Shop & Service::Food & Drink Shop::Grocery Store",37.402918,-122.097999
+"4ae246d6f964a520b98c21e3","International Camera Technicians","Shop & Service::Miscellaneous Shop",37.393518,-122.077919
+"4ae2936ff964a520188f21e3","Doggieville","Shop & Service::Pet Service",37.408459637374406,-122.076643
+"4ae36e25f964a520049521e3","Tina's Kusina","Food::Asian Restaurant",37.392278,-122.07844
+"4ae3c471f964a520c39821e3","Le Petit Bistro","Food::French Restaurant",37.3888885974884,-122.09066676
+"4ae3eb45f964a520999921e3","Valero","Shop & Service::Gas Station / Garage",37.3808572250364,-122.07456886768341
+"4ae492dff964a520cf9b21e3","Abundant Life Christian Fellowship","Professional & Other Places::Spiritual Center::Church",37.419686555644496,-122.09808239318977
+"4ae5f84ef964a520a4a321e3","Googleplex - The Alley","Professional & Other Places::Office::Cafeteria",37.42647938006118,-122.07093715667725
+"4ae5fb66f964a520c5a321e3","Googleplex - Charlie's Cafe","Professional & Other Places::Office::Cafeteria",37.422329960929346,-122.08387613296509
+"4ae63a25f964a520c9a521e3","Bank of America","Shop & Service::Bank",37.390371,-122.081457
+"4ae66103f964a520caa621e3","Googleplex - Cafe Moma","Professional & Other Places::Office::Cafeteria",37.42005918555424,-122.0823472738266
+"4ae71ef4f964a5209fa821e3","Krispy Kreme Doughnuts","Food::Donut Shop",37.41921987591349,-122.09415435791016
+"4aebd3eaf964a520e8c421e3","Rotten Robbie","Shop & Service::Gas Station / Garage",37.39755538987812,-122.05996032067875
+"4aecc3a4f964a52004cb21e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",37.39323793128553,-122.09774955579768
+"4aed32abf964a52051cd21e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.38844207275872,-122.08871817746463
+"4aedd044f964a52026cf21e3","Regal Bagel Cafe","Food::Bagel Shop",37.4026068,-122.07945585250854
+"4aee2a3cf964a520a0d221e3","Pioneer Park","Outdoors & Recreation::Park",37.389458780476424,-122.08346843719482
+"4aefbca3f964a52014da21e3","Hampton Inn & Suites","Travel & Transport::Hotel",37.39875550267307,-122.07574673644228
+"4af09d5ef964a520a9dd21e3","Googleplex - Bridge","Professional & Other Places::Building",37.42207434237541,-122.0865261554718
+"4af3361af964a520c0eb21e3","Airship Ventures","Travel & Transport::Airport::Airport Terminal",37.411209747241,-122.05827713012695
+"4af34dbcf964a52074ec21e3","Hong Kong Restaurant","Food::Chinese Restaurant",37.402861729976046,-122.11538852700457
+"4af46fa9f964a52070f221e3","Pacific Ballet Academy","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.39959389275788,-122.08284293941024
+"4af734cef964a520280722e3","Gold Star Gymnastics","Shop & Service::Gym / Fitness Center",37.386784651146485,-122.06492676918245
+"4af9b2f6f964a520751322e3","Googleplex - B40 Gym","Shop & Service::Gym / Fitness Center::Gym",37.42237682423624,-122.08475321531296
+"4afafbc0f964a520171a22e3","Sufi Coffee Shop","Food::Coffee Shop",37.38576434,-122.08474516868591
+"4afb1de0f964a520451b22e3","Googleplex - Jia","Food::Asian Restaurant",37.419334908755566,-122.08112955093384
+"4afb7df4f964a520541e22e3","Sally Beauty Supply","Shop & Service::Cosmetics Shop",37.40218698978424,-122.107836
+"4afc6a36f964a5206c2222e3","Rincon Sabroso","Food::Burrito Place",37.404369,-122.09749433333333
+"4afc76a1f964a520f72222e3","Jack in the Box","Food::Fast Food Restaurant",37.4022513628006,-122.078946
+"4afc76a1f964a520f82222e3","Symantec HQ","Professional & Other Places::Office",37.39803804070773,-122.05361545085907
+"4afe12dcf964a520b32d22e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.404727,-122.107966
+"4aff5dd2f964a520d33722e3","Marshalls","Shop & Service::Department Store",37.37912292253283,-122.07529731311833
+"4b0097eaf964a520c73f22e3","The Off Ramp","Shop & Service::Bike Shop",37.397916816666665,-122.105871
+"4b00989ef964a520d13f22e3","Cafe Grain D'or","Food::Bakery",37.379076,-122.07212269306183
+"4b009a12f964a520df3f22e3","Sports Authority","Shop & Service::Sporting Goods Shop",37.402108,-122.11186
+"4b019989f964a520c44322e3","Simply Hired","Professional & Other Places::Office::Tech Startup",37.42113777299596,-122.09892867751634
+"4b01f184f964a520ba4622e3","Fenwick & West LLP","Professional & Other Places::Office",37.391246977369406,-122.08118405629504
+"4b02053bf964a520424722e3","GARfield","Outdoors & Recreation::Athletic & Sport",37.42416186836296,-122.08763122558594
+"4b020c0bf964a5206a4722e3","Papa John's Pizza","Food::Pizza Place",37.384428,-122.08146750926971
+"4b030591f964a520fa4b22e3","Chamber of Commerce Mountain View","Professional & Other Places::Office::Tech Startup",37.38915190350141,-122.08303928375244
+"4b0305e0f964a520fe4b22e3","YIPEE Silicon Valley","Professional & Other Places::Office",37.38942468309679,-122.08282470703125
+"4b033044f964a520594d22e3","Pupuseria Salvadorena","Food::Latin American Restaurant",37.394034,-122.096847
+"4b049844f964a520755522e3","Tiny Prints","Professional & Other Places::Office::Tech Startup",37.395803332328796,-122.056144
+"4b05802ef964a520d55822e3","Kaiser Permanente","Professional & Other Places::Medical Center::Doctor's Office",37.38935264578113,-122.08133940428581
+"4b061620f964a52076e822e3","Moo Moo Fresh","Food::Café",37.377192,-122.07654106666666
+"4b071262f964a520a9f622e3","Express7 - Chinese Fast Food","Food::Chinese Restaurant",37.39671085692402,-122.06140866039553
+"4b0758f6f964a5206efc22e3","Mario's Italiano","Food::Italian Restaurant",37.40594027881628,-122.06514317909449
+"4b088590f964a5209c0d23e3","Sylvan Park","Outdoors & Recreation::Playground",37.381657,-122.063364
+"4b08f239f964a520811323e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.404155,-122.097684
+"4b08fb11f964a520b01323e3","America's Best Value Inn","Travel & Transport::Hotel",37.38718054339071,-122.08597200101303
+"4b09fa6cf964a520b02023e3","Thaiphoon","Food::Asian Restaurant",37.393974,-122.0788033
+"4b0b5372f964a520703023e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.40362,-122.09747095
+"4b0c19d2f964a520e13623e3","The Wonder Years Preschool","Professional & Other Places::School::Nursery School",37.400919,-122.078517
+"4b0c9f4ef964a520464023e3","Chez TJ","Food::French Restaurant",37.394539,-122.080416
+"4b0d80bbf964a520ba4923e3","Googleplex - Health & Wellness Center","Professional & Other Places::Office",37.42218511052257,-122.08784580230713
+"4b0d9015f964a520224b23e3","Mountain View Optometry","Professional & Other Places::Medical Center::Optical Shop",37.39014615,-122.080908
+"4b104905f964a520026d23e3","O'Reilly Auto Parts","Shop & Service::Automotive Shop",37.3930961232744,-122.09692300518198
+"4b11b8c5f964a5201f8323e3","Le Boulanger","Food::Bakery",37.38816902000001,-122.082713
+"4b1433def964a520179f23e3","Le's Alterations","Shop & Service::Laundry Service",37.384888933333336,-122.08443242607872
+"4b146993f964a520c6a223e3","Alta View Animal Hospital","Professional & Other Places::Medical Center::Veterinarian",37.399891,-122.109926
+"4b146f95f964a5201da323e3","GISSV German International School of Silicon Valley","Professional & Other Places::School::Elementary School",37.400177,-122.066869
+"4b157d81f964a5209ead23e3","Southwest Grill","Food::Burrito Place",37.397508638359064,-122.06125328387907
+"4b15896bf964a5205aae23e3","HSBC Bank","Shop & Service::Bank",37.377305,-122.076547
+"4b169ebff964a52005bb23e3","Valero","Shop & Service::Gas Station / Garage",37.4112899748742,-122.09301205934118
+"4b171f38f964a520a7c223e3","Googleplex - Google Store","Shop & Service::Gift Shop",37.42269234819805,-122.08815230437258
+"4b194492f964a5202bda23e3","Los Altos Taqueria","Food::Mexican Restaurant",37.414143242198016,-122.09345586171733
+"4b199ac3f964a52051e023e3","Quiznos","Food::Sandwich Place",37.415819,-122.07755266
+"4b19e728f964a520f5e523e3","Jennifer's Taqueria","Food::Mexican Restaurant",37.39443835900092,-122.096674
+"4b1aa82ef964a52093ee23e3","City of Mountain View Recycling & Buy Back","Professional & Other Places::Building",37.408406,-122.071516513824
+"4b1ad8c8f964a52018f323e3","Bay Area Gun Vault","Shop & Service::Miscellaneous Shop",37.383254,-122.079322
+"4b1af3d6f964a5205af523e3","Hotel Zico","Travel & Transport::Hotel",37.379692065093664,-122.06857793508962
+"4b1c251df964a520090324e3","Summer Winds Nursery","Shop & Service::Flower Shop",37.380531,-122.070338
+"4b1c358df964a520520424e3","St. Athanasius Church","Professional & Other Places::Spiritual Center::Church",37.405402847659914,-122.09689526847474
+"4b1c365af964a520620424e3","Candace Kuo Optometry","Professional & Other Places::Medical Center::Optical Shop",37.391586899757385,-122.080124
+"4b216cbcf964a520a73b24e3","Subway","Food::Sandwich Place",37.394262093850784,-122.07751929759979
+"4b21ad53f964a520fb3f24e3","Lucky Chinese","Food::Chinese Restaurant",37.378741,-122.075194
+"4b21b44cf964a520714024e3","New Mountain View Market","Shop & Service::Food & Drink Shop::Grocery Store",37.392109,-122.08021556
+"4b21bf6df964a520fa4024e3","Zucca","Food::Mediterranean Restaurant",37.39411191102149,-122.078889
+"4b22b86ef964a5206e4c24e3","Onsite Haircuts - Googleplex","Shop & Service::Salon / Barbershop",37.42195505341829,-122.08575367927551
+"4b22bd29f964a520b24c24e3","Jiffy Lube","Shop & Service::Automotive Shop",37.38743015,-122.087962
+"4b23f534f964a520cf5d24e3","Mercy-Bush Park","Outdoors & Recreation::Park",37.388508,-122.077738
+"4b255004f964a520cb6f24e3","Stop n' Save","Shop & Service::Food & Drink Shop::Grocery Store",37.41426838232951,-122.09307308227571
+"4b25723cf964a520157224e3","Diddams Party Headquarters","Shop & Service::Miscellaneous Shop",37.394362,-122.097505
+"4b258134f964a520007324e3","Bank of America","Shop & Service::Bank",37.40548283228285,-122.11185693740845
+"4b259206f964a520f97324e3","Carter's","Shop & Service::Clothing Store",37.4022236333333,-122.10949998
+"4b271436f964a5209d8424e3","Residence Inn by Marriott","Travel & Transport::Hotel",37.39257108723908,-122.09526988502293
+"4b27f0dcf964a520ae8c24e3","Samovar Conference Hall","Professional & Other Places::Building",37.419627383333335,-122.0966137
+"4b292742f964a520db9924e3","Smiles Dental","Professional & Other Places::Medical Center::Dentist's Office",37.38273565020202,-122.07705615674834
+"4b2941c5f964a520d39b24e3","Los Portales","Food::Mexican Restaurant",37.399598,-122.0744776725769
+"4b29521cf964a520d99c24e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.37236552468611,-122.08824276924133
+"4b299f5ef964a520d4a124e3","Subway","Food::Sandwich Place",37.383816,-122.080673
+"4b2ac718f964a5206faf24e3","The UPS Store","Shop & Service::Paper / Office Supplies Store",37.402111887931824,-122.10767764344715
+"4b2bbab8f964a520e0b924e3","C & C Body Shop","Shop & Service::Automotive Shop",37.396563,-122.076736
+"4b2bf809f964a520b7be24e3","Girls' Middle School","Professional & Other Places::School::Middle School",37.405298,-122.097023
+"4b2bf996f964a520dabe24e3","Weidlinger Associates Inc.","Professional & Other Places::Office",37.383475,-122.080066
+"4b2c4487f964a520efc424e3","Tony & Alba's","Food::Italian Restaurant",37.39345169067383,-122.09552764892578
+"4b2c4d65f964a5208dc524e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",37.379316,-122.07499945
+"4b2d6188f964a5206fd524e3","Bailey Plaza Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.402432866666665,-122.079303
+"4b2e7854f964a520b6e024e3","True Value Hardware","Shop & Service::Hardware Store",37.387787990636696,-122.08896160125732
+"4b2edd47f964a5209ee724e3","Evelyn VTA Station","Travel & Transport::Light Rail",37.39061808215654,-122.06643104553223
+"4b2fe7bbf964a52053f224e3","Shoreline Grill","Food::American Restaurant",37.419822856726036,-122.09586900531164
+"4b310fd4f964a52066ff24e3","Harv's Car Wash","Shop & Service::Car Wash",37.387212766666664,-122.08764455
+"4b3115a0f964a520d2ff24e3","Overtime Fitness","Shop & Service::Gym / Fitness Center::Gym",37.416862644920286,-122.07747228277373
+"4b3147d1f964a520d30325e3","JAJAH HQ","Professional & Other Places::Office::Tech Startup",37.3927491046536,-122.07280397415161
+"4b31638ff964a520ff0525e3","Clocktower Coffee Roasting Co.","Food::Coffee Shop",37.400819063186646,-122.05766558647156
+"4b317fd5f964a520010825e3","Hangen Szechuan Restaurant","Food::Chinese Restaurant",37.39464,-122.078625
+"4b32f0d1f964a520381625e3","7-Eleven","Shop & Service::Convenience Store",37.406647503902285,-122.11181104369176
+"4b32f299f964a520481625e3","Lettuce Sandwich Shop","Food::Sandwich Place",37.40267289,-122.11400258333333
+"4b33bb96f964a520051e25e3","Bagel Street Cafe","Food::Bagel Shop",37.38956107252228,-122.09537744522095
+"4b36aec6f964a5208b3a25e3","ARCO","Shop & Service::Gas Station / Garage",37.40589191215527,-122.0784044265747
+"4b36c165f964a520e13b25e3","One Stop Grocer","Shop & Service::Convenience Store",37.399465,-122.075253
+"4b39097ff964a520c65425e3","Quova","Professional & Other Places::Event Space",37.39099,-122.079811
+"4b390bdbf964a520005525e3","Smart & Final","Shop & Service::Food & Drink Shop::Grocery Store",37.37879406899379,-122.07173109054565
+"4b3a3fa9f964a520f16225e3","Barron Park Plumbing Supply","Shop & Service::Hardware Store",37.40512701620262,-122.11082696914673
+"4b3aa7d6f964a520086c25e3","Kosmix HQ","Professional & Other Places::Office::Tech Startup",37.39030480384827,-122.081679
+"4b3ac2edf964a5200b6e25e3","T-Mobile","Shop & Service::Mobile Phone Shop",37.40276198788988,-122.10814469379743
+"4b3bf539f964a520387f25e3","CyberSource","Professional & Other Places::Office",37.420055866241455,-122.07487054
+"4b3bfb97f964a520c57f25e3","Hilton Garden Inn","Travel & Transport::Hotel",37.3765139307209,-122.06166947047721
+"4b3d1ccef964a520398e25e3","Round Table Pizza","Food::Pizza Place",37.378557,-122.071208
+"4b3d5ac9f964a520f79225e3","Taqueria Tres Hermanos","Food::Mexican Restaurant",37.3980671167374,-122.075325250626
+"4b3dbd10f964a5209d9625e3","Quality Inn & Suites","Travel & Transport::Hotel",37.40664133854055,-122.0643163799279
+"4b3f8e88f964a52004a925e3","Gorgeous Nails","Shop & Service::Nail Salon",37.386767,-122.083186
+"4b3fbab9f964a52065ad25e3","Subway","Food::Sandwich Place",37.397009,-122.061433
+"4b3fcc7ef964a5200faf25e3","Verizon Wireless","Shop & Service::Miscellaneous Shop",37.41987171881793,-122.09591338446042
+"4b3ff5a4f964a520fcb225e3","Bean Scene Cafe","Food::Coffee Shop",37.39003166043152,-122.08173332140761
+"4b401246f964a5203fb525e3","GNC","Shop & Service::Miscellaneous Shop",37.40198,-122.110112
+"4b403daaf964a52017b725e3","Bert's Alibi","Nightlife Spot::Dive Bar",37.38765159798552,-122.08969116210938
+"4b40d8f7f964a5201cbc25e3","St. Joseph Catholic Church","Professional & Other Places::Spiritual Center::Church",37.38837025145414,-122.08171667705115
+"4b42aeb8f964a520b2d825e3","Citibank","Shop & Service::Bank",37.403074,-122.11289
+"4b43c58af964a52048e925e3","Harrell Remodeling","Professional & Other Places::Office",37.41462,-122.09017
+"4b451351f964a520a10326e3","Jack in the Box","Food::Fast Food Restaurant",37.38306525064778,-122.0777177810669
+"4b456046f964a520980b26e3","7-Eleven","Shop & Service::Convenience Store",37.41408677301464,-122.08961136329299
+"4b4566d2f964a520130c26e3","Chevron Station","Shop & Service::Gas Station / Garage",37.38007289141004,-122.07351744174957
+"4b4659c6f964a520671e26e3","Middlefield VTA Station","Travel & Transport::Light Rail",37.39574948163007,-122.05211877822876
+"4b467869f964a5200c2226e3","Technology Credit Union","Shop & Service::Bank",37.40201718385347,-122.05082590218207
+"4b4678b4f964a520102226e3","Googleplex - CL5 Gym","Shop & Service::Gym / Fitness Center::Gym",37.42735857044231,-122.0719404504087
+"4b47e414f964a520004326e3","Polyvore","Professional & Other Places::Office::Tech Startup",37.393793880933416,-122.07640699696168
+"4b47f299f964a520ce4426e3","Baracuda Sushi","Food::Sushi Restaurant",37.394819,-122.07873165
+"4b48df91f964a5201c5b26e3","China Wok","Food::Chinese Restaurant",37.40612121666667,-122.11174964904785
+"4b492509f964a520ac6726e3","Home Consignment Center","Shop & Service::Furniture / Home Store",37.37902852140257,-122.07216024398804
+"4b495956f964a5200e6e26e3","Historic Adobe Building","Arts & Entertainment::Historic Site",37.395866,-122.07722423333334
+"4b4a683ff964a520ac8626e3","Yoga is Youthfulness","Shop & Service::Gym / Fitness Center::Yoga Studio",37.38878514582507,-122.08261546864499
+"4b4be380f964a52092aa26e3","Stanford Blood Center","Professional & Other Places::Medical Center::Hospital",37.366865868507055,-122.0836615562439
+"4b4bee0af964a52077ab26e3","Full Force Fitness","Shop & Service::Gym / Fitness Center::Gym",37.41455237583029,-122.08953827619553
+"4b4bef4bf964a52098ab26e3","Cypress Point Lakes","Professional & Other Places::Building",37.39730322433633,-122.07454827010854
+"4b4bfa2ff964a52079ac26e3","Round Table Pizza","Food::Pizza Place",37.4026406477715,-122.07940863488277
+"4b4cf530f964a52082c526e3","Conceptus","Professional & Other Places::Office::Tech Startup",37.38768569617156,-122.06231117248535
+"4b4e7076f964a520c9ed26e3","Easy Foods Company","Shop & Service::Food & Drink Shop",37.39258391656243,-122.0796915946172
+"4b4e70abf964a520d3ed26e3","Rhythm New Media","Professional & Other Places::Office::Tech Startup",37.38643025802625,-122.08430206979965
+"4b4e7842f964a520e8ee26e3","Michaels","Shop & Service::Arts & Crafts Store",37.42109,-122.0974943797708
+"4b4ea681f964a52065f326e3","Wells Fargo Bank","Shop & Service::Bank",37.388868467401664,-122.08227753639221
+"4b51fb78f964a5202f5f27e3","Whisman Sports Center","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.41035755547939,-122.08488464355469
+"4b563de3f964a520070728e3","Sizzler","Food::Steakhouse",37.394482,-122.0981240272522
+"4b58f4ecf964a520597528e3","O'Reilly Auto Parts","Shop & Service::Automotive Shop",37.406611,-122.111487
+"4b5a05baf964a52058a828e3","America's Tire Company","Shop & Service::Automotive Shop",37.38092952,-122.073416
+"4b5c7e55f964a520a43229e3","U-Haul","Travel & Transport::Rental Car Location",37.3812451261351,-122.07383930683136
+"4b5e256cf964a520338029e3","Nokia Siemens Networks","Professional & Other Places::Office",37.38892177195449,-122.05147521485843
+"4b5e46d5f964a5205d8729e3","Fatty Zone","Shop & Service::Miscellaneous Shop",37.3889559666667,-122.089734077454
+"4b5e47aef964a520808729e3","elance","Professional & Other Places::Office::Tech Startup",37.398102,-122.049243
+"4b5f4736f964a5208eb129e3","El Paso Cafe","Food::Mexican Restaurant",37.38890469074249,-122.090789
+"4b5f5343f964a52020b429e3","Firestone","Shop & Service::Automotive Shop",37.4045258760452,-122.111943
+"4b606e4ff964a5208ce529e3","VN Grocery & Liquor","Food::Snack Place",37.39129401695363,-122.07044786157883
+"4b6071ddf964a5205be629e3","Leadership Mountain View","Professional & Other Places::School",37.38924277,-122.08282228
+"4b60a41ef964a520d7f129e3","NASA Ames Research Center N243","Professional & Other Places::Government Building",37.4046388363834,-122.059533029029
+"4b61db1df964a52056272ae3","Paragon Studios/NCsoft","Professional & Other Places::Office",37.41874463580976,-122.0947650681327
+"4b621a17f964a52083352ae3","Shoreline Dental","Professional & Other Places::Medical Center::Dentist's Office",37.415897,-122.077356
+"4b624d7df964a52039412ae3","Passage To India Bakery","Food::Bakery",37.387669,-122.087137
+"4b624d87f964a5203b412ae3","Phở Garden","Food::Vietnamese Restaurant",37.393335,-122.079491
+"4b634163f964a520e16d2ae3","L&L Hawaiian Barbecue","Food::BBQ Joint",37.422103,-122.09634840488434
+"4b637031f964a520e3792ae3","Assemblymember Paul Fong","Professional & Other Places::Office",37.3931479454041,-122.080121040344
+"4b63aecdf964a520d68b2ae3","Peacock Indian Cuisine","Food::Indian Restaurant",37.37504191666667,-122.06033383333333
+"4b63b97ef964a5204e8e2ae3","Pizza Hut","Food::Pizza Place",37.393987,-122.098614516667
+"4b666565f964a52025202be3","Melrose Apartments","Residence::Residential Building (Apartment / Condo)",37.398249,-122.104567
+"4b666789f964a52071202be3","Heatherstone Apartments","Residence::Residential Building (Apartment / Condo)",37.369001794239615,-122.06388355637812
+"4b6795d3f964a52054562be3","Masonic Lodge","Professional & Other Places::Event Space",37.389274,-122.084089
+"4b684984f964a520a66f2be3","Avid Technology","Professional & Other Places::Office",37.38735899128491,-122.05337873309863
+"4b6857b9f964a520c5722be3","Google Bus","Travel & Transport::Bus Station::Bus Line",37.42152425006816,-122.083087053847
+"4b68787bf964a520a57a2be3","KMVT Community Television","Arts & Entertainment::General Entertainment",37.409508,-122.083644
+"4b688ed2f964a520e67f2be3","The Danceplex","Shop & Service::Gym / Fitness Center::Yoga Studio",37.425802,-122.07153638999998
+"4b689296f964a5209b802be3","Eastwick Communications","Professional & Other Places::Office",37.427713,-122.099207639694
+"4b69b947f964a5201bb02be3","NASA Ames Research Center N201","Professional & Other Places::Government Building",37.41223236455796,-122.06231117248535
+"4b6a0a26f964a5207ec32be3","Bank of the West","Shop & Service::Bank",37.389909,-122.081183
+"4b6a1ff1f964a520fcc82be3","Rengstorff Park","Outdoors & Recreation::Park",37.40089617546719,-122.09684534238376
+"4b6b5b80f964a52031032ce3","Bayshore-NASA VTA Station","Travel & Transport::Light Rail",37.40449421337018,-122.04965114593506
+"4b6c6708f964a5201a372ce3","Enterprise Rent-A-Car","Travel & Transport::Rental Car Location",37.38895496,-122.09111216
+"4b6e34e1f964a520a4b12ce3","Shanghai Family Restaurant","Food::Chinese Restaurant",37.4040851258666,-122.098145484924
+"4b6f1938f964a520cddc2ce3","Landels Elementary","Professional & Other Places::School",37.3886995723556,-122.070963889034
+"4b6f716df964a520c0f02ce3","Maldonado's Pizzeria","Food::Pizza Place",37.39642049456871,-122.1010723365442
+"4b70c379f964a5209f2d2de3","National Bartenders School","College & University::Trade School",37.3890114630026,-122.089922034899
+"4b70e34ef964a52026332de3","Hotel Lodge","Travel & Transport::Hotel",37.38130498283,-122.07418761792647
+"4b7323f6f964a520c69d2de3","Fraternal Order of Eagles‎ #2356","Nightlife Spot::Bar",37.39406372432293,-122.07860413748736
+"4b735f32f964a52036ab2de3","Shenandoah Square Apartments","Residence::Residential Building (Apartment / Condo)",37.4015282783666,-122.07226753234863
+"4b742ad3f964a520e0ca2de3","Mountain View Police & Fire Administration","Professional & Other Places::Government Building::Police Station",37.395400457091,-122.081200700733
+"4b7448edf964a5208bd22de3","Park Place Apartments","Residence::Residential Building (Apartment / Condo)",37.38831650981638,-122.0845627784729
+"4b75d1b2f964a520ee262ee3","Wells Fargo","Shop & Service::Bank",37.401777,-122.113954
+"4b76486bf964a5208b462ee3","Francesca's","Nightlife Spot::Bar",37.4142730236053,-122.093612551689
+"4b775f04f964a520dd952ee3","76","Shop & Service::Gas Station / Garage",37.390470443781986,-122.09609090087372
+"4b787e32f964a52012d22ee3","Kohl's","Shop & Service::Department Store",37.403047301514604,-122.10785626160337
+"4b789dbaf964a52054da2ee3","Bushido Izakaya","Food::Japanese Restaurant",37.394425,-122.078693
+"4b7afb5ef964a520f5492fe3","Korean BBQ Truck","Food::Korean Restaurant",37.427136,-122.07220191
+"4b7b4da0f964a520615d2fe3","Googleplex - B43 Ice Cream","Food::Ice Cream Shop",37.4216909129084,-122.084262371063
+"4b803d9ff964a520e95f30e3","Googleplex - Volleyball Court","Outdoors & Recreation::Athletic & Sport::Volleyball Court",37.421963574064385,-122.08502411842346
+"4b8063c2f964a520e96d30e3","Teens in Tech Labs HQ","Professional & Other Places::Office::Tech Startup",37.389499,-122.0504164
+"4b81f2acf964a52003c530e3","Coast Gasoline","Shop & Service::Gas Station / Garage",37.37995702911101,-122.07301
+"4b8204fcf964a520edc730e3","Bodrum Cafe","Food::Mediterranean Restaurant",37.391361,-122.08028057
+"4b82f26ff964a520c9ee30e3","Charleston Park","Outdoors & Recreation::Park",37.421836,-122.081784
+"4b833555f964a52077fd30e3","7-Eleven","Shop & Service::Convenience Store",37.39642710696339,-122.10101544857025
+"4b85d10ff964a520937431e3","Huff Elementary","Professional & Other Places::School::Elementary School",37.373970083618325,-122.07570789746308
+"4b8bed79f964a520e5b232e3","AOL - 401 Ellis St","Professional & Other Places::Office",37.397935,-122.052465
+"4b8d4469f964a520dbf032e3","Dr. Leonard Fu, DMD","Professional & Other Places::Medical Center::Dentist's Office",37.36702230312256,-122.08370288555209
+"4b8ef7a7f964a520c64133e3","Home Instead Senior Care","Professional & Other Places::Office",37.40666485,-122.07792005078241
+"4b91af9bf964a520e2cf33e3","Capri Nail Spa","Shop & Service::Spa / Massage",37.4221533536911,-122.096391
+"4b92f6eaf964a520e32a34e3","Mountain View Hair & Nails","Shop & Service::Salon / Barbershop",37.394471992052495,-122.07795515656471
+"4b930320f964a520af2e34e3","Stevens Creek Trail","Outdoors & Recreation::Hiking Trail",37.39627794468001,-122.06900596618652
+"4b955fb4f964a5202c9f34e3","Social Security Administration","Professional & Other Places::Government Building",37.377555,-122.064223
+"4b957ffaf964a52009a634e3","Helming's Auto Repair","Shop & Service::Automotive Shop",37.417808237859965,-122.09948029906315
+"4b9599d0f964a52084ab34e3","Site for Sore Eyes","Professional & Other Places::Medical Center::Optical Shop",37.3879551887512,-122.082706689835
+"4b95b281f964a520e0af34e3","Mobile Monday Silicon Valley","Professional & Other Places::Office",37.404201733623395,-122.05529331695739
+"4b96913cf964a5204bd534e3","AT&T","Shop & Service::Mobile Phone Shop",37.37900102,-122.075391
+"4b97dcc9f964a520e81a35e3","American Express - B2B Payments","Professional & Other Places::Office",37.393371,-122.066483
+"4b97e960f964a520cb1e35e3","Microsoft SVC 1","Professional & Other Places::Office",37.41203308105469,-122.07139587402344
+"4b98054bf964a520932635e3","Hanabi Sushi","Food::Sushi Restaurant",37.41938061,-122.095076
+"4b982b6df964a520183135e3","Fanfare Software","Professional & Other Places::Office::Tech Startup",37.410074,-122.077168
+"4b9ac658f964a5206bd435e3","Microsoft SVC 3","Professional & Other Places::Office",37.41213484705476,-122.06980421099202
+"4b9bb2fbf964a520601b36e3","Mountain View High School Track","Arts & Entertainment::Stadium::Track Stadium",37.35746862390723,-122.06836223602295
+"4b9bf153f964a520bd3836e3","Functional Core Fitness","Shop & Service::Gym / Fitness Center::Gym",37.397056885162876,-122.10429517000215
+"4b9bf6d7f964a520443b36e3","Precision Auto Tune","Shop & Service::Automotive Shop",37.38637956215523,-122.08714260190806
+"4b9d5fdff964a520dfa736e3","Ayala's Taqueria","Food::Mexican Restaurant",37.377169,-122.06275518
+"4b9e63e7f964a52071df36e3","Microsoft SVC 4","Professional & Other Places::Office",37.41073252104888,-122.07037925720215
+"4b9ea110f964a52023f536e3","Krillion Foosball","Nightlife Spot::Speakeasy",37.391667,-122.07755
+"4b9eaf88f964a52086f936e3","Axcient","Professional & Other Places::Office::Tech Startup",37.43157764,-122.099157
+"4b9ef86df964a5208d0d37e3","Solano Apartments","Residence::Residential Building (Apartment / Condo)",37.373706170148836,-122.06040980748432
+"4b9fdc7df964a520744537e3","BBQ Kalbi Truck","Food::Food Truck",37.415709159010426,-122.07887649536133
+"4ba12a79f964a520209e37e3","Las Muchachas","Food::Mexican Restaurant",37.414641,-122.0994679
+"4ba13115f964a520a2a037e3","Shanghai Family Restaurent","Food::Asian Restaurant",37.403834,-122.098231
+"4ba169dcf964a520c5b437e3","Swetka's Tennis Shop","Shop & Service::Sporting Goods Shop",37.3904348113928,-122.094548642635
+"4ba29252f964a520680538e3","ASA Servers","Professional & Other Places::Office",37.40333512630908,-122.05340623855591
+"4ba298eef964a520bc0738e3","Cognition Cyclery","Shop & Service::Bike Shop",37.38617257424064,-122.08346843719482
+"4ba796c3f964a52019a039e3","County Inn Mountain View","Travel & Transport::Hotel::Motel",37.405679,-122.066403
+"4ba7adadf964a52002a939e3","Red Hat, Inc. - Mountain View Office","Professional & Other Places::Office",37.39055841265474,-122.0814836025238
+"4ba813f0f964a52012cb39e3","Stevenson Park","Outdoors & Recreation::Field",37.404151272029566,-122.08456282487323
+"4ba8d8ecf964a520cef339e3","Concentric Medical","Professional & Other Places::Office",37.38840272039336,-122.0620357133649
+"4ba9154bf964a520e8093ae3","Relish Café","Professional & Other Places::Office::Cafeteria",37.39767579671941,-122.05385684967041
+"4ba95576f964a520a51f3ae3","Krillion Dog Run","Outdoors & Recreation::Dog Run",37.391665,-122.077696
+"4baa8a47f964a520eb723ae3","Crittendon Volleyball Court","Outdoors & Recreation::Athletic & Sport::Volleyball Court",37.42618969502191,-122.07232117652893
+"4babc285f964a5201cc73ae3","D2M | Design to Matter Inc.","Professional & Other Places::Office",37.39231015935038,-122.07347185850766
+"4bacc9eaf964a5205b0c3be3","Urgent Care, Mountain View Center, Palo Alto Medical Foundation","Professional & Other Places::Medical Center::Doctor's Office",37.37604497812518,-122.06423869377674
+"4bacf526f964a520121e3be3","Franciscan Glass Company","Shop & Service::Furniture / Home Store",37.408,-122.109346
+"4bad0043f964a5201b233be3","Mountain View Surplus","Shop & Service::Thrift / Vintage Store",37.388135,-122.08935726
+"4bad43edf964a520b93f3be3","Googleplex - 2000","Professional & Other Places::Office",37.42273042824272,-122.0885968208313
+"4bae60e2f964a5207caa3be3","Castro Park","Outdoors & Recreation::Park",37.393833168977025,-122.09337819643278
+"4bae8d10f964a520b9bf3be3","Fabulous Nails & Hair","Shop & Service::Nail Salon",37.399542,-122.07505166530609
+"4baf001df964a52035e63be3","Monte Carlo","Nightlife Spot::Nightclub",37.39351272583008,-122.079638242722
+"4bb1063ff964a520ce733ce3","Intuit Cafe","Food::American Restaurant",37.4312462419991,-122.097517848015
+"4bb15b15f964a520698e3ce3","Intuit Inc. - Building 5","Professional & Other Places::Office",37.42861364263794,-122.0969009399414
+"4bb24b2414cfd13adfbd14ab","Dr. Nipa Sheth, D.D.S.","Professional & Other Places::Medical Center::Dentist's Office",37.381584,-122.074981
+"4bb25e10a32876b0618100fe","La Original Bakery","Food::Bakery",37.394309,-122.096436
+"4bb28179eb3e9521ca20ca0a","Minton's Lumber & Supply","Shop & Service::Miscellaneous Shop",37.39323,-122.073813
+"4bb2867542959c7433f8202c","Vaporware Labs","Professional & Other Places::Office",37.403062,-122.052592
+"4bb28e2d42959c743205212c","The Nerdatorium Mountain View","Professional & Other Places::Office::Tech Startup",37.393575,-122.076921
+"4bb4d582a70595210fc41bce","Microsoft SVC 5","Professional & Other Places::Office",37.41116227063217,-122.07237324184443
+"4bb4e218bc82a59353003f72","Intuit Inc. - Building 7","Professional & Other Places::Office",37.4305628296247,-122.096163016833
+"4bb54dabf562ef3bfed52e97","Hair by Heinz","Shop & Service::Salon / Barbershop",37.39199682377461,-122.0779549869635
+"4bb762ca941ad13afb9320e3","Googleplex - CL3","Professional & Other Places::Office",37.42617206494595,-122.07124132213649
+"4bb7c8a253649c74574546fb","El Monte Fish & Chips","Food::Seafood Restaurant",37.3904733333333,-122.09407975
+"4bb7ddb453649c74926846fb","Larry's Autoworks","Shop & Service::Automotive Shop",37.419466,-122.099269
+"4bba1be498c7ef3b48b43202","Bayside Business Plaza","Professional & Other Places::Office",37.4295160137319,-122.09975211199794
+"4bba36321261d13a4f5eea98","Wheel Works","Shop & Service::Automotive Shop",37.402073746487424,-122.10636377334595
+"4bbb8ee7ed7776b0049a3e51","Intuit bldg 6","Professional & Other Places::Office",37.429927,-122.09630924
+"4bbbb206afe1b713528a2f4b","Camaro Cleaners","Shop & Service::Laundry Service",37.40218698978424,-122.11386
+"4bbc11662d9ea593de48a0ce","Domino's Pizza","Food::Pizza Place",37.39043701,-122.093938
+"4bbcd257593fef3bbdab0256","Intuit Inc. - Building 1","Professional & Other Places::Office",37.427087936677175,-122.09650695382712
+"4bbd04388ec3d13a828f1b28","Microsoft SVC - Cosmic Cafe","Food::Café",37.41169074631267,-122.07114699496134
+"4bbe3410061fb713c7e6edce","Googleplex - Slide","Professional & Other Places::Office",37.42261191666667,-122.08834225999999
+"4bbe6840ba9776b0b9abfdc8","TheFind, Inc.","Professional & Other Places::Office",37.39163565926891,-122.07301132863391
+"4bbe898f4e7bd13a58349b7f","RadioShack","Shop & Service::Electronics Store",37.37724998744069,-122.07617951269862
+"4bbeda21ba9776b0034ffec8","Birch Creek Apartments","Residence::Residential Building (Apartment / Condo)",37.39708030452489,-122.09850398575094
+"4bbf704585fbb7139a327267","Googleplex - 2025 Garcia","Professional & Other Places::Office",37.4238210517688,-122.0916223526
+"4bc0cfdc920eb713079f192c","Natural Healing Center","Professional & Other Places::Medical Center::Doctor's Office",37.38753384,-122.08254353333334
+"4bc2066c4cdfc9b6fa639521","New Community Baptist Church (NCBC)","Professional & Other Places::Spiritual Center::Church",37.407692,-122.08020150661469
+"4bc24fef74a9a5937227d3f6","Hotel Crestview","Travel & Transport::Hotel",37.37436584128456,-122.05915012988906
+"4bc287ba74a9a5937b83d3f6","Fast Pizza Delivery","Food::Pizza Place",37.3978847265244,-122.07513583
+"4bc3b0d94cdfc9b6a6c19721","Action Day Primary Plus","Professional & Other Places::School::Nursery School",37.36954513478235,-122.07317778544028
+"4bc3db33dce4eee1dbc7719d","Super 8 Motel","Travel & Transport::Hotel::Motel",37.38996,-122.093514
+"4bc472044cdfc9b6a6999821","Peet's Coffee & Tea","Food::Coffee Shop",37.37795429707914,-122.07622110843658
+"4bc5113b6c26b713cde0eaf3","Microsoft Research Bldg 6","Professional & Other Places::Office",37.415815701382414,-122.07572454274158
+"4bc51e575935c9b6c896a5d2","Shoreline Park & Lake","Outdoors & Recreation::Harbor / Marina",37.43231544281039,-122.08716988563536
+"4bc56c516c26b7138652ebf3","7-Eleven","Shop & Service::Convenience Store",37.39642710696339,-122.10101544857025
+"4bc6436eb387d13ad798c1e8","Microsoft SVC Company Store","Shop & Service::Electronics Store",37.411772188492925,-122.07130193710327
+"4bc6510abf29c9b64babf92a","Microsoft Svc 2","Professional & Other Places::Office",37.4102902128958,-122.072284464255
+"4bc7521eaf07a5938cf27e2d","NASA Exploration Center - Ames Visitors Center","Arts & Entertainment::Museum::Science Museum",37.40875966979644,-122.06436574459076
+"4bc774a992b376b0c2c04f3a","Peet's Coffee & Tea","Food::Coffee Shop",37.40271613001234,-122.05085920036232
+"4bc8a41e0050b713c4cfba3b","Sushi 88 & Ramen","Food::Sushi Restaurant",37.40299627410778,-122.10661377566757
+"4bc8a5b292b376b005dd513a","Under The Radar 2010","Arts & Entertainment::General Entertainment",37.41181438,-122.07117
+"4bc91628511f95212e29adc7","Unix Surplus","Professional & Other Places::Office",37.4134886666667,-122.074950716667
+"4bc9bdcf511f9521ab20aec7","Shoreline Parking Lot","Professional & Other Places::Parking",37.42799594814864,-122.0762586593628
+"4bc9e10a511f9521826aaec7","Eco Lube","Shop & Service::Automotive Shop",37.38449261666667,-122.08088696666667
+"4bca19e068f976b011a55e83","Sylvan Apartments","Residence::Residential Building (Apartment / Condo)",37.379862664149194,-122.0632842593852
+"4bca87ab68f976b095b45f83","BookBuyers","Shop & Service::Bookstore",37.392324,-122.079823
+"4bcb426bb6c49c74d7c99191","Xceed Financial CU","Shop & Service::Bank",37.40007978087155,-122.10873819608474
+"4bcb99d768f976b0217b6183","Shoreline Park & Lake","Outdoors & Recreation::Harbor / Marina",37.43231544281039,-122.08716988563536
+"4bccb4c9e5b5eee14e80697b","Best Western Inn","Travel & Transport::Hotel",37.39772163218136,-122.1053158063694
+"4bccb4cce5b5eee15480697b","Homestead Studio Suites","Arts & Entertainment::Arcade",37.3800132135157,-122.068426609039
+"4bccb4cde5b5eee15580697b","Oakwood Hotel Mountain View","Travel & Transport::Hotel",37.3995807543218,-122.07223534584045
+"4bccbd3cfb84c9b6fbf0203e","Intuit Inc. - Building 4","Professional & Other Places::Office",37.42836876207826,-122.09601323747872
+"4bcdd7ae68f976b08fe66483","Googleplex - 40","Professional & Other Places::Office",37.4224236875138,-122.084133625031
+"4bcde08d8920b713d174a0dc","YouTube","Professional & Other Places::Office",37.42429114404585,-122.09500915571411
+"4bce2356c564ef3bb3bbedf0","Eclecdish","Food::Restaurant",37.416211,-122.076645
+"4bce697eb6c49c74ca3c9791","Alcatel-Lucent","Professional & Other Places::Office",37.3903264138334,-122.049205378423
+"4bd0b49e046076b0a4867071","Symantec Executive Briefing Center","Professional & Other Places::Office",37.397764,-122.053669
+"4bd1c3ef77b29c74d5288d82","Travelzoo Inc.","Professional & Other Places::Office",37.3866627438438,-122.084476947784
+"4bd3501b046076b055c37571","Poolside at Americana","Outdoors & Recreation::Pool",37.37471874276407,-122.064950466156
+"4bd350aa462cb713b222de07","Mountain View VTA Light Rail Station","Travel & Transport::Light Rail",37.394776,-122.07692363333334
+"4bd36138a8b3a59361db695f","Savvy Cellar Wine Bar & Wine Shop","Shop & Service::Food & Drink Shop::Wine Shop",37.394868,-122.077939
+"4bd4e54c6798ef3b1ca7628d","Central Seventh Day Adventist Church","Professional & Other Places::Spiritual Center::Church",37.37992482687549,-122.09526433759737
+"4bd63b474e32d13af365c280","Googleplex - CL5 Gym","Shop & Service::Gym / Fitness Center::Gym",37.42705093575738,-122.07195709626505
+"4bd7331509ecb713ea59467c","Googleplex - Plymouth Cafe","Food::American Restaurant",37.4174104,-122.0818804
+"4bd784bde914a593dd8151fa","HMR","Food::Restaurant",37.37727146,-122.06424908
+"4bd8509909ecb7139d80487c","Magnolia Park","Outdoors & Recreation::Playground",37.38991056929251,-122.05907642841339
+"4bd8b47d11dcc928696af733","Melchor Pavilion","Professional & Other Places::Medical Center::Doctor's Office",37.3700143009069,-122.08212168900013
+"4bd8d5a52e6f0f47efd80808","Blossom Valley Cleaners","Shop & Service::Laundry Service",37.371852,-122.087791
+"4bdafec6c79cc9286a9080e9","Hair & Now","Shop & Service::Salon / Barbershop",37.3928850983306,-122.07888155105633
+"4bdb3a0163c5c9b614ef2668","Downtown Smog Center","Shop & Service::Automotive Shop",37.391976,-122.079082
+"4bdb7406c79cc92802eb82e9","Valley Radiology","Professional & Other Places::Medical Center",37.36703713494762,-122.08059040299466
+"4bdc62923904a59343ee4d9e","Creekside Park","Outdoors & Recreation::Playground",37.396388750976016,-122.06746637821198
+"4bdd2d52645e0f47ba0c6b19","Americana","Residence::Residential Building (Apartment / Condo)",37.37440209251511,-122.06438851701854
+"4bddfc62ffdec928993fe7a1","Finnish School of Silicon Valley","College & University::General College & University",37.404209,-122.055593
+"4bde58f989ca76b0ab935d5e","NASA Ames Research Center N239","Professional & Other Places::Office",37.414567288434306,-122.05813765525818
+"4bdf0937ea279c74f278e22b","Avalon Dog Park","Outdoors & Recreation::Dog Run",37.3887342078225,-122.0697033405304
+"4bdf39aa6198c9b6966416ff","Sportvision","Professional & Other Places::Office",37.413637,-122.07403402
+"4bdf8fdbffdec9284194eca1","Highway Community","Professional & Other Places::Spiritual Center::Church",37.3662256,-122.08816006
+"4be201c59296c9b6cbee9390","Transvideo Studios","Professional & Other Places::Office",37.394812,-122.080967
+"4be205d8edbb0f471d8ba715","Sole Di Paradiso","Shop & Service::Tanning Salon",37.390464646198836,-122.09445476531981
+"4be43b2e910020a19a65d114","Samovar European Food & Catering","Shop & Service::Food & Drink Shop::Grocery Store",37.419428,-122.09667
+"4be43cea910020a17b68d114","RWW Mobile Summit","College & University::College Auditorium",37.413474,-122.078086
+"4be46f4e2468c92869c5fe42","Googleplex - 2081","Professional & Other Places::Office",37.424344,-122.075929
+"4be4988d2457a5931476aa15","Saint Francis High School","Professional & Other Places::School::High School",37.36993549376299,-122.08554983139038
+"4be4a5b2910020a1c009d214","Pool & Cabana @ Park Place","Outdoors & Recreation::Pool",37.38880242087871,-122.0846294005362
+"4be5b0aa2468c928ab610043","Aesthetics & Essentials Dental","Professional & Other Places::Medical Center::Dentist's Office",37.397006,-122.061494
+"4be5c4d2d4f7c9b635e52520","Lam's Hair & Nail","Shop & Service::Salon / Barbershop",37.3991789,-122.108727
+"4be6225f910020a1f90ad414","Mountain View Downtown Parking Structure","Professional & Other Places::Parking",37.3944973871191,-122.07919225341128
+"4be725bcd4f7c9b6fd862720","Shoreline Golf Links","Outdoors & Recreation::Athletic & Sport::Golf Course",37.430419111347106,-122.08538392185902
+"4be7aa1f947820a1a70db4db","Village Lake Apartments","Residence::Residential Building (Apartment / Condo)",37.403700037190625,-122.07777744084456
+"4be9e3c362c0c928cd39e0d4","Fit From the Core","Shop & Service::Gym / Fitness Center::Gym",37.419473,-122.09704
+"4beb284b62c0c92864c8e1d4","NASA Exploration Center - Ames Visitors Center","Arts & Entertainment::Museum::Science Museum",37.40875966979644,-122.06436574459076
+"4beb6d07b3352d7f8b8c56d2","Moffett Field Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.41977702369239,-122.03999235321972
+"4bec50c1976ac928fad4600b","Sam's Chowdermobile","Food::Food Truck",37.388023376464844,-122.06068420410156
+"4bedbb8a946c0f470bd8a263","Pool #3","Outdoors & Recreation::Pool",37.389652,-122.070239
+"4bef280e5e4aa5931ca758bb","Mountain View Art and Wine Festival","Arts & Entertainment::General Entertainment",37.39116847515106,-122.08089336
+"4bef2c5bea570f4790058fd2","Downtown Mountain View","Outdoors & Recreation::Other Great Outdoors",37.3925530531142,-122.07975625991821
+"4bef439d96edc9b6388e4af2","India Fresh","Shop & Service::Food & Drink Shop::Grocery Store",37.375089,-122.060402
+"4bf034cff831c92824b901f2","Googleplex - GWC6 (formerly 2350 Bayshore)","Professional & Other Places::Office",37.42420447032813,-122.09501266479492
+"4bf2c1bcaf659c742109d847","Googleplex - The Stock Market","Professional & Other Places::Office::Cafeteria",37.421905968637475,-122.090421326685
+"4bf2ff3cc440c9b6d96e0104","GooglePlex - 1300","Professional & Other Places::Office",37.42111423279208,-122.07616841589308
+"4bf3349a706e20a12405a898","Founder Showcase","Professional & Other Places::Event Space",37.41153463,-122.07113027572632
+"4bf4602ce5eba59360961f90","El Camino Hospital Women's Center","Professional & Other Places::Medical Center::Doctor's Office",37.36960497637368,-122.08113967111397
+"4bf470e594af2d7f139e3a72","Sunfire Offices","Professional & Other Places::Office::Coworking Space",37.390414,-122.081338
+"4bf5da305efe2d7fa0366634","NASA Ames Research Center N269","Professional & Other Places::Building",37.419458462352,-122.065272331238
+"4bf6476e5e800f473616e7d4","Wells Fargo Bank","Shop & Service::Bank",37.402521,-122.051157
+"4bf6f185b182c9b68ace745a","Google B44","Professional & Other Places::Office::Cafeteria",37.420445,-122.08370539
+"4bf727d45ec320a11f8d86d3","St. Joseph Catholic School","Professional & Other Places::School::Elementary School",37.384755671764005,-122.08781388866056
+"4bf72d205efe2d7f29986834","Fairtex MuayThai Fitness","Shop & Service::Gym / Fitness Center",37.41474672231193,-122.09189145024956
+"4bf8a0045ec320a1572a89d3","Xanh","Food::Asian Restaurant",37.39493179321289,-122.07862854003906
+"4bfb58758f32ef3bc71405aa","Starbucks","Food::Coffee Shop",37.403018,-122.079146
+"4bfc33dee05e0f473356cfa8","Meyer Appliance","Shop & Service::Furniture / Home Store",37.39299764,-122.07963
+"4bfc71fee05e0f4752becfa8","La Chapala Mexican Restaurant","Food::Mexican Restaurant",37.402568366666664,-122.07938483333334
+"4bfc822fe297ef3be248a4d7","Social CRM World","Arts & Entertainment::Arcade",37.419587,-122.096625316667
+"4bfd688555539c7448a9bcf3","Khuu Dermatology and Dentistry","Professional & Other Places::Medical Center::Dentist's Office",37.386379,-122.0833155
+"4bfda59ef61dc9b62a589fde","Intuit Inc. - Building 9","Professional & Other Places::Building",37.432216,-122.09613245
+"4bfde07ee529c928e7a8bb8c","T-Mobile","Professional & Other Places::Office::Coworking Space",37.41947967,-122.087555008
+"4bfe8c27b68d0f470d56ea57","Googleplex - CL5","Professional & Other Places::Office",37.426854264918745,-122.07196712493896
+"4c002e4e37850f47a0e0973f","PG&E Trail Summit","Outdoors & Recreation::Hiking Trail",37.330602,-122.132555
+"4c0182c7b0702d7fd6676378","Country Pet Wash","Shop & Service::Pet Store",37.371893,-122.088216
+"4c019e7ff8492d7f2c2c5ffa","Chase Bank","Shop & Service::Bank",37.385145338851515,-122.08341479301453
+"4c02ef96f56c2d7fe0341c66","429 Fairmont Ave","Nightlife Spot::Lounge",37.3842054605484,-122.0796275138855
+"4c031a220d0e0f479c30029a","Shoreline Park & Lake","Outdoors & Recreation::Harbor / Marina",37.43231544281039,-122.08716988563536
+"4c04117e39d476b0ebf930a7","Pool #1","Outdoors & Recreation::Pool",37.391312,-122.071262
+"4c04362ff423a5931653d116","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",37.40216,-122.107979
+"4c0557e0f423a593a3dbd216","Beau-coup","Professional & Other Places::Office::Coworking Space",37.39713481841624,-122.05916122843384
+"4c06a9bb2e80a593807774f9","eHealth, Inc.","Professional & Other Places::Office",37.39699243064357,-122.05752418083466
+"4c06f5cf2e80a59360f974f9","Intuit Inc. Bldg 3","Professional & Other Places::Office",37.4269775864055,-122.09608535349
+"4c070073a0129c749f6ed2c9","Clearwell Systems","Professional & Other Places::Office::Tech Startup",37.398118,-122.04933306666666
+"4c07c542221620a1ad4af775","El Camino & Castro VTA Bus Stop","Travel & Transport::Bus Station",37.385960539545394,-122.08385268192441
+"4c07f32e6071a593ca7bdb32","A+ Smog Check","Shop & Service::Automotive Shop",37.3922356,-122.0719894
+"4c09405c340720a11a758493","Sterling Custom Upholstery","Shop & Service::Furniture / Home Store",37.38754710481729,-122.08836866796256
+"4c0bbce4ffb8c9b6d9a26d61","Maplewood Apartments","Residence::Residential Building (Apartment / Condo)",37.395808696746826,-122.093408
+"4c0bf7b5009a0f4748e8ebbf","BFD 2010","Arts & Entertainment::Concert Hall",37.4264,-122.08023758333333
+"4c0d8dab336220a165f2ca77","Googleplex - GWC1","Professional & Other Places::Office",37.423907,-122.0916044
+"4c0ec653b60ed13a0e4d30f2","NASA Ames Research Center N262","Professional & Other Places::Government Building",37.41979929880289,-122.06316947937012
+"4c0eea9a7189c928335cd9b6","McDonalds @ Walmart","Food::Fast Food Restaurant",37.4009454406283,-122.10913
+"4c100c48ce640f47894d3952","Palo Alto Medical Foundation - Business Office","Professional & Other Places::Office",37.3979556436898,-122.106336433109
+"4c10331d3ce120a1d9c1071c","Dentist","Professional & Other Places::Medical Center::Dentist's Office",37.382664,-122.075361
+"4c1139fa3ce120a1795e091c","Googleplex - Nourish Cafe","Food::Café",37.42202408282357,-122.08750321101094
+"4c157f57a1010f4733334e18","Slater School Park","Outdoors & Recreation::Park",37.393799,-122.061587
+"4c1653de7f7f2d7f89c8e368","Google Ventures","Professional & Other Places::Office",37.42013892222222,-122.079942
+"4c16ce68955976b0922ba5f6","Alphagraphics","Professional & Other Places::Office",37.3905896,-122.08111066
+"4c184c03838020a1b913e461","Shiva's Indian Restaurant & Bar","Food::Indian Restaurant",37.3914577122526,-122.08058774471283
+"4c1af579eac020a1a13444c2","Shezan Pakistani & Northern Indian Cuisine","Food::Indian Restaurant",37.393670941212434,-122.0793032183224
+"4c1bbab33855c9b6a681cc71","Outright.com","Professional & Other Places::Office::Tech Startup",37.39388408768898,-122.07870955472713
+"4c1d2a78b4e62d7fde4bdc93","Top Hair & Nails","Shop & Service::Salon / Barbershop",37.39696,-122.061723
+"4c1e6afb920076b0b253c3e9","Ricky's Pure Water","Shop & Service::Food & Drink Shop::Liquor Store",37.396896762387044,-122.06166392133308
+"4c24a58bc11dc9b6bfbb2524","Googleplex - GWC3 (formerly Pi)","Professional & Other Places::Office",37.42317,-122.092525
+"4c24e8b6f7ced13a569e236d","Shell Gas Station","Shop & Service::Gas Station / Garage",37.37313721202988,-122.08740335014872
+"4c28d13ffe6e2d7f81d3533c","Googleplex - Evolution Cafe","Food::Café",37.42432566001852,-122.09433236606827
+"4c2a6cdaae6820a1ca491643","RockMelt HQ","Professional & Other Places::Office",37.391436,-122.080708
+"4c2a88f8ae6820a1f57d1643","The Garden of Earthly Delights","Outdoors & Recreation::Garden",37.391418,-122.07537
+"4c2bda27d1a10f47fda3f864","AllStar Kung Fu","College & University::College Gym",37.398993,-122.10858553333334
+"4c2ce65e76a7ef3b7ba0deb8","ShareThis","Professional & Other Places::Office::Tech Startup",37.419920580129435,-122.08743663711302
+"4c2ce93177cfe21e93c7b6f1","Mountain View Tea Village & Gallery","Food::Tea Room",37.39291506,-122.07938525
+"4c2f640c3896e21ef8cce390","Klein Park","Outdoors & Recreation::Playground",37.40093166806307,-122.10400342941284
+"4c2fa020a0ced13a25e6106e","Central Park Pool","Outdoors & Recreation::Pool",37.392271,-122.06337
+"4c2fe885213c2d7f23c3315d","Model Shoe Repair","Shop & Service::Clothing Store::Shoe Store",37.3918146,-122.07779
+"4c337242213c2d7f68f5365d","Corel","Professional & Other Places::Office",37.3898352873339,-122.052568493256
+"4c33a908ac0ab71321ce1c1e","Omnicell HDQ","Professional & Other Places::Office",37.395169872710234,-122.05158233642578
+"4c35fd70ed37a593cb5c7103","Sammydee's Pants","Nightlife Spot::Nightclub",37.42978937806525,-122.07718670368195
+"4c3603d252dfef3bfea0ee70","San Jose M.E.P.S.","Professional & Other Places::Government Building",37.41001667606025,-122.0676326751709
+"4c37410c93db0f4762641f92","Silicon Valley Community Foundation","Professional & Other Places::Office",37.3991085804081,-122.10773423236668
+"4c37c6b2dfb0e21e1b7bada8","Coupons.com Incorporated","Professional & Other Places::Office::Coworking Space",37.39774670378642,-122.05054841695008
+"4c3a22f22c8020a188e18d00","Stevens Creek Trail","Outdoors & Recreation::Hiking Trail",37.39627794468001,-122.06900596618652
+"4c40df15ce54e21e3d380a1a","Beauty Nails","Shop & Service::Nail Salon",37.406047,-122.11005449295
+"4c413e586c1a95216082b96a","Addepar","Professional & Other Places::Office::Tech Startup",37.408363388872786,-122.07902669906615
+"4c4205af520fa593408ccaac","Obon Festival in Mountain View","Arts & Entertainment::General Entertainment",37.40212,-122.077650066667
+"4c460aa0f88dc9289e8dae75","Beau-coup","Professional & Other Places::Office::Coworking Space",37.39713481841624,-122.05916122843384
+"4c47039a31e41b8d42664b35","MedImmune","Professional & Other Places::Office",37.387178287555024,-122.04830076048268
+"4c479ca819fde21ed1fa0876","NorCal Crossfit Mountain View","Shop & Service::Gym / Fitness Center::Gym",37.41982182787343,-122.1006119239302
+"4c48b0e4c047be9a85b13479","Audience","Professional & Other Places::Office",37.397412,-122.047485
+"4c4b35a99e6dbe9a8711bc0b","Yoga Belly","Shop & Service::Gym / Fitness Center::Yoga Studio",37.390483,-122.080326
+"4c4dbd2892b6a5935e49c56e","Regus","Professional & Other Places::Office",37.38699512167965,-122.08420220598836
+"4c554d08fd2ea5932d067e2b","SpeakerPad","Professional & Other Places::Office::Tech Startup",37.398411,-122.099614
+"4c57087e12f0d13a143006ad","500 Startups","Professional & Other Places::Office::Tech Startup",37.39065168421099,-122.08132275986887
+"4c5714e66418a593018d7e0e","PayNearMe","Professional & Other Places::Office::Tech Startup",37.39354660881662,-122.07675099664866
+"4c5af729f346c928015350ca","Advanced Health Care Products","Shop & Service::Spa / Massage",37.4142938,-122.09633015
+"4c5b06415c57c9b6f0bb1e4a","NASA Ames Building 20 (SingularityU)","College & University::College Administrative Building",37.41052848220891,-122.0563921063795
+"4c5b17d22091a593950361d0","NASA Ames Conference Center Building 3","Food::Café",37.4125391470308,-122.055530548096
+"4c5b2e0294fd0f47554fc545","NASA Ames B583c (Marshmallow)","College & University::College Academic Building",37.408005,-122.055557
+"4c5cc0857735c9b6dc5d8d72","Monster Booth at Best Buy Lounge","Arts & Entertainment::Concert Hall",37.42645561695099,-122.07991811666666
+"4c5ef62f7f661b8da2724f1c","Crittenden Middle School","Professional & Other Places::School::Middle School",37.41098817831561,-122.08539962768555
+"4c6072c63986e21e4b3e944f","Squire Barber Shop","Shop & Service::Salon / Barbershop",37.40237626214396,-122.07963611237452
+"4c63073686b6be9ac2898d34","Googleplex - Steam Cafe","::Food",37.41813516660122,-122.08567796183482
+"4c663b399cb82d7f6c3990d2","GTUG Google Campout","Professional & Other Places::Event Space",37.426127660000006,-122.071537
+"4c6874d7f984a593401d4af4","Cuesta Tennis Center","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.37191217429015,-122.08243793015515
+"4c69700bd0bdc9b69deba50b","Shoreline Aquatic Center","Outdoors & Recreation::Harbor / Marina",37.43281383000174,-122.08817303180695
+"4c6c661a23c1a1cde47f19cf","Cancer Support Community","Professional & Other Places::Medical Center",37.401081,-122.05615
+"4c6ccbb923c1a1cd2cb01acf","Park Place South Apartments","Residence::Residential Building (Apartment / Condo)",37.387435416342505,-122.08402467009668
+"4c6d64c110faa14375b5ed68","DMV","Professional & Other Places::Government Building",37.4004732,-122.107802
+"4c6d85cb06ed6dcb0c20a422","Sams Chowder Mobile","Food::Seafood Restaurant",37.38852310180664,-122.06220245361328
+"4c6f053fb5a5236a30f44b52","Intuit Inc. - Building 11","Professional & Other Places::Office",37.43089845803192,-122.09781612335794
+"4c715695b5a5236ac8b65252","Rock The Bells SF","Arts & Entertainment::Music Venue",37.42646995879843,-122.08056821028488
+"4c71c24713228cfad8892965","Avalon at Creekside","Residence::Residential Building (Apartment / Condo)",37.39132117226965,-122.07145771946381
+"4c729b339e706dcb1c344b62","The Car Clinic","Shop & Service::Automotive Shop",37.39146846,-122.07111259999999
+"4c72c7353c26ef3be54be0d5","Family Auto Care","Shop & Service::Automotive Shop",37.391731,-122.07353498
+"4c75aeb466be6dcb8e3ac10f","Camino Inn and Suites","Travel & Transport::Hotel",37.3953466112367,-122.098981049038
+"4c75d82e1b30a093efb6f009","Barracuda Japanese Cuisine","Food::Sushi Restaurant",37.394771626561536,-122.07851536499541
+"4c771b6ea5676dcb9bde1721","Gemello Park","Outdoors & Recreation::Park",37.392791724485605,-122.10123538970947
+"4c78345ba86837046c7e0c4d","Maternity @  The Women's Hospital","Professional & Other Places::Medical Center::Hospital",37.3698532926416,-122.08103980439012
+"4c7834e33badb1f776054b54","Caltrain 154","Travel & Transport::Train Station::Train",37.405335,-122.103695
+"4c7b235f97028cfa4a75e0fe","Mediteranean Grill","Food::Mediterranean Restaurant",37.392222,-122.079895
+"4c7d333f8da18cfa7f9c9ece","VeriSign (Symantec Business)","Professional & Other Places::Office",37.39539744,-122.055409855756
+"4c7fc324e4b06dcb54fb47d7","Dinan","Shop & Service::Automotive Shop",37.41502404212952,-122.095423
+"4c8455d051ada1cdc6962e10","Shoreline Vista Slope","Outdoors & Recreation::Hiking Trail",37.425555270871705,-122.08409679408774
+"4c8574062f1c236a5e195543","Ant's Eye View","Professional & Other Places::Office",37.419016,-122.088406
+"4c87b059d8086dcb1c38a452","NASA Ames Research Center N258","Professional & Other Places::Government Building",37.420927,-122.0648
+"4c88484bed0aa143a17da8f3","Oh My Sushi","Food::Sushi Restaurant",37.405429240351296,-122.11070172249671
+"4c893b09bbec6dcb3f83da58","Sam's ChowderMobile","Food::Food Truck",37.39645296165962,-122.05274105072021
+"4c898e17a92fa0935cec89bf","CrossFit Mountain View","Shop & Service::Gym / Fitness Center::Gym",37.41380674184341,-122.07527697086334
+"4c8a830a2e333704cb58c441","Papa D's","Food::Southern / Soul Food Restaurant",37.414318,-122.09355890750885
+"4c8a8b639ef0224bc1de5b7b","Ortega Building","Professional & Other Places::Office",37.39791995332081,-122.10619221469705
+"4c8be2b255fba093da5d5aab","Mountain Bay Plaza","Professional & Other Places::Office",37.39052005366424,-122.08138436079025
+"4c8d3c58c37a6dcb5761fe7a","Kingdom Hall of Jehovah's Witnesses","Professional & Other Places::Spiritual Center",37.3882278084132,-122.06742378041235
+"4c938e5a38dd8cfa30a1c062","Wipro Technologies","Professional & Other Places::Office",37.40105525201599,-122.05387830734253
+"4ca26334f832a1cd348a94e5","Pacific Office Designs Inc","Professional & Other Places::Office",37.397148,-122.047297
+"4ca284d3b0ff8cfabb93af5e","Caltrain 264","Travel & Transport::Train Station::Train",37.39414118333333,-122.07533945
+"4ca40f4cf832a1cd1b3da3e5","Wako Diagnostics - RDC","Professional & Other Places::Office",37.411436726354424,-122.07579112383007
+"4ca4a1641ee76dcb9f5103de","Core Performance","Shop & Service::Gym / Fitness Center::Gym",37.42160385842758,-122.08821333004427
+"4ca4d20ef832a1cd5666a9e5","Clearwell Systems (500)","Professional & Other Places::Office",37.398964,-122.050035
+"4ca537de7334236af4a11458","Google Building 50","Professional & Other Places::Office::Coworking Space",37.416032552719116,-122.07863343875874
+"4caccb5351399eb01ac9ce03","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.405456,-122.10901108333333
+"4cb09cfdef1b370483483c00","U.S. Bank","Shop & Service::Bank",37.378110379719324,-122.07610183503613
+"4cb5f1bc9c7ba35da8378e06","Googleplex - Crittenden Campus","Professional & Other Places::Office",37.42585082386836,-122.07168521362485
+"4cb6761964998cfaf4d015a2","SETI Institute","College & University::College Lab",37.390179872429236,-122.0511921816043
+"4cbdeef7bac93704073f017d","Palo Alto Medical Foundation Laboratory","Professional & Other Places::Medical Center::Doctor's Office",37.37637,-122.064957
+"4cc20cabbe40a35d2fe36e4c","Sousa's Wine and Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.39933358134883,-122.07517504692078
+"4cc3f19342d1b60c53b91a13","Gay Melrose","College & University::Fraternity House",37.40629175,-122.062685
+"4cc49db6dba3ef3b4c980705","Theatre "You"","Arts & Entertainment::Performing Arts Venue::Theater",37.40907624421625,-122.07488672721996
+"4cc6ef50be40a35d56f58c4c","Microsoft VC Summit","Professional & Other Places::Convention Center",37.411807,-122.072236
+"4cc8779ed54fa1cdd7dd3129","Googleplex - Go Cafe","Food::Sandwich Place",37.42173351627946,-122.0849061012268
+"4ccba9f82dc437048fa7c108","The Shadows Apartments","Residence::Residential Building (Apartment / Condo)",37.40581544469686,-122.07907019187797
+"4cccb97c72106dcb5a2a9e99","Bamboo Garden","Food::Chinese Restaurant",37.40401694439883,-122.09802210330963
+"4cd1acb97f56a14331e1d5a6","House Of Siam On Wheels","Food::Food Truck",37.400494,-122.062636
+"4cd5edcfa42b236a153ef308","Super Mercado Marlene","Shop & Service::Flea Market",37.406343,-122.064762
+"4cde0463ffcf3704cacc0f82","Googleplex GWC2 Gym","Shop & Service::Gym / Fitness Center::Gym",37.4242743,-122.092476
+"4cde5a43c4f6a35d0864c96c","Day Worker Center","Professional & Other Places::Building",37.400557327033916,-122.09163626042015
+"4ce1fa62eae02c0f5715b826","Yoogl","Food::Dessert Shop",37.393067687311486,-122.07952156662941
+"4ce3fbbfb8df54815748b19b","Intuit Partner Platform CloudJam","Professional & Other Places::Office",37.43222966,-122.09592097
+"4cf41ff36c29236a618774a2","Dr Michael J Fong, DDS, Inc","Professional & Other Places::Medical Center::Dentist's Office",37.36793225040379,-122.08207175610187
+"4cf48a44a41a60fca1912ec0","San Antonio Shopping Center","Shop & Service::Miscellaneous Shop",37.40200556318945,-122.10960388183594
+"4cf6ff1adc40a35d1e454b54","Fabmo","Shop & Service::Arts & Crafts Store",37.414278390592415,-122.09827100059113
+"4cf831d16cee236a628de503","MEDIA PREDICTS at Computer History Museum","Professional & Other Places::Event Space",37.41461,-122.077262
+"4cf985ce20fe3704aa0547f8","Scratch","Food::American Restaurant",37.391059208785585,-122.08043485879898
+"4cfead95fabc2d43fc52dfd2","Googleplex - Long Life","Food::Asian Restaurant",37.42253874316765,-122.08845188461291
+"4cffceffba1da1cdd44a8528","MyLife NorCal Office","Professional & Other Places::Office::Tech Startup",37.39971078383843,-122.10850523295836
+"4cffe9a0f7b38cfa9f19ccc3","Shalala","Food::Ramen /  Noodle House",37.392284,-122.078441
+"4d0b2758f608721e12333a0f","Moffett Field","Travel & Transport::Airport",37.40928378005658,-122.05235481262207
+"4d138cc9ffa1224bc668a1ad","PAMF Mountain View Center Orthopedics","Professional & Other Places::Medical Center::Doctor's Office",37.3763130913193,-122.064242362976
+"4d19b25125cda14319fe88d6","City of Mountain View","Outdoors & Recreation::Other Great Outdoors",37.385997817346336,-122.08396196365356
+"4d1bedd34ff98cfa130fb73e","California Street Market","Shop & Service::Food & Drink Shop::Grocery Store",37.39474067642857,-122.08955033840859
+"4d21065cd7b0b1f7dcc8199f","Shoreline Kite Flying Area","Outdoors & Recreation::Park",37.42981919720193,-122.07634449005127
+"4d2326945c4ca1cdb87cb73d","Googleplex - GWC5","Professional & Other Places::Office",37.42495077247748,-122.0943379135416
+"4d24b44bfdfb236aa33b7b67","TheFind, Inc.","Professional & Other Places::Office",37.39163565926891,-122.07301132863391
+"4d272f83342d6dcb8502ebca","Symantec - Building O","Professional & Other Places::Office",37.39806420391936,-122.05240755448611
+"4d274f068292236a46820ebb","Googleplex - B1900 Gym","Shop & Service::Gym / Fitness Center",37.4227796484885,-122.087209175987
+"4d30950910e9b1f72e93bcf1","Dylan's House Of Products","Professional & Other Places::Office::Tech Startup",37.422553,-122.08827406
+"4d3282d8c6cba35dd062227a","Napoletana Pizzeria","Food::Italian Restaurant",37.394137,-122.096904
+"4d386fa73ffba143c0775c56","Meriwest Credit Union","Shop & Service::Bank",37.411354780197144,-122.09380030632019
+"4d405936add56a317346939f","Googleplex - 1875","Professional & Other Places::Office",37.421007001370384,-122.08839640685311
+"4d40959c255d8cfafa366705","Taqueria La Bamba","Food::Mexican Restaurant",37.410570604328676,-122.09338188171387
+"4d41d5c85d01224b42fa5950","Ephesus","Food::Mediterranean Restaurant",37.394001,-122.078714
+"4d4a2eadb73fb1f7c36aaf32","Microsoft Conference Center","Professional & Other Places::Event Space",37.41147067467213,-122.07129126001954
+"4d51c0e64015b1f73e6a73cf","Ocha Tea Café & Restaurant","Food::Tea Room",37.37710385857772,-122.07658857107162
+"4d5b281a22ad2d43ee96e595","Microsoft Research Silicon Valley","Professional & Other Places::Office::Tech Startup",37.41206051348729,-122.07128571136698
+"4d5d8877524fa35d9a905535","Tasty Labs","Professional & Other Places::Office::Tech Startup",37.394439,-122.079733
+"4d66dae1c2ccb60c647e74ac","Kaiser Pharmacy","Shop & Service::Drugstore / Pharmacy",37.38946912361089,-122.0810786414603
+"4d6c36bd53f8b60c25bded56","Googleplex - Bowling Alley","Arts & Entertainment::Bowling Alley",37.42579776642,-122.071409225464
+"4d7a57d67ea26ea87d7bc28f","Googleplex - Cocina Latina","Food::Latin American Restaurant",37.42609012414325,-122.07141887894964
+"4d7bbaedf260a0939cd72cba","J&M Motorsports","Shop & Service::Bike Shop",37.41403828333333,-122.08892
+"4d857b7561676dcb45d98be4","Armed Forces Reserve Center","Professional & Other Places::Government Building::Monument / Landmark",37.41438383658444,-122.06632510254423
+"4d8ce8e95091a1cd349b6b01","Eat on Monday","Food::Food Truck",37.40129,-122.080423
+"4d90b00aca75b60c9aa12da9","Nimbula","Professional & Other Places::Office::Tech Startup",37.396670018259705,-122.08388042197066
+"4d93c47fd07eb1f738adffbb","El Camino Hospital Labor & Delivery","Professional & Other Places::Medical Center::Hospital",37.37140335,-122.09376702
+"4d9533baaf3d236af43fedc6","BloomReach, Inc.","Professional & Other Places::Office::Tech Startup",37.38939058570166,-122.06707477569581
+"4d97e847daec224b3d4b3d3e","Frankie, Johnnie & Luigi Too!","Food::Italian Restaurant",37.386402081811674,-122.08577782428668
+"4d9a73ba9298b1f7a2484238","Googleplex - Tech Stop @ CL3","Professional & Other Places::Building",37.425785064697266,-122.07135009765625
+"4d9b3f6a335ab60c114bf6f9","Creative Commons","Professional & Other Places::Building",37.390649,-122.081324
+"4d9df5187509b1f73a5c4da0","Galileo conf room","Professional & Other Places::Event Space",37.411434,-122.071107
+"4da2390c2939b1f76a130657","Googleplex - 48","Professional & Other Places::Office",37.418299606815815,-122.08158016204834
+"4da8a90a5da3ef8bf163b7b6","Sumo Logic","Professional & Other Places::Office::Tech Startup",37.3885436489411,-122.082138333294
+"4dac8a228154abafc2d9ee9c","Googleplex - Cafe Beta","Professional & Other Places::Office::Cafeteria",37.424477138690484,-122.09489265943706
+"4daddd0aa86e29d01a387cb9","Joy Sushi","Food::Sushi Restaurant",37.39676044907523,-122.06140866039553
+"4dae1ad95da3cca6f0a290d5","Google Victoria Deli","Food::Deli / Bodega",37.42005416304806,-122.08623275206979
+"4db3ab7490a0843f2963e5a2","Ansh Market","Shop & Service::Convenience Store",37.38962926714196,-122.09142923355103
+"4db99d554df0ded98bd61671","Violin Memory","Professional & Other Places::Office::Tech Startup",37.402662576963884,-122.04789562240194
+"4dc42d2418387d1bd51c61fe","Altos Oaks Medical Group","Professional & Other Places::Medical Center::Doctor's Office",37.3695896086476,-122.08145591513282
+"4dc44a1f45dd264552532a82","Googleplex - Cloud","Food::Vegetarian / Vegan Restaurant",37.423059569978214,-122.08748656754028
+"4dc7f9bdd164eb9ca02b1cb6","The Hotel Aria","Travel & Transport::Hotel",37.404453,-122.11691563519867
+"4dc9f6e5b3adcc457c88d59a","Chipotle Mexican Grill","Food::Mexican Restaurant",37.3906010337323,-122.09445476531982
+"4dcf09e2d22deadedd628c95","Shoreline Scow Schooner Playground","Outdoors & Recreation::Playground",37.434118,-122.090016
+"4dd16e82ae603b786d76968b","IMVU HQ","Professional & Other Places::Office::Tech Startup",37.391912259874,-122.0704534102742
+"4dd2bd9db0fb0becaf9faa75","The Chicken Coup","Outdoors & Recreation::Farm",37.37621,-122.07558
+"4dd832582271c5d36d4f5385","A La Carte & Art","Arts & Entertainment::General Entertainment",37.39140230548023,-122.08039999008177
+"4de02644b0fbe2cfa5ff09ff","Raymond's Corner","Professional & Other Places::Event Space",37.388254236308285,-122.08248786288482
+"4de9a9067d8b6c7a532b3c32","Stevens Creek Trail, Sleeper Trailhead","Outdoors & Recreation::Hiking Trail",37.370511826097264,-122.06480469160594
+"4dec052352b11677f064e84a","Shoreline Amphitheatre","Arts & Entertainment::Music Venue",37.42695150816766,-122.08105090069728
+"4dec236152b11677f06817ba","Main Stage at Shoreline","Arts & Entertainment::Music Venue",37.42691908304141,-122.08097322652311
+"4ded321652b13dda25dbaac4","Googleplex - GWC5 Gym","Shop & Service::Gym / Fitness Center::Gym",37.42484194119168,-122.0946319292201
+"4ded5b4e1f6e0f9053e11772","Caltrain Northbound San Antonio Rd.","Travel & Transport::Train Station",37.4077087201908,-122.107684311276
+"4ded5cb58877aa0c3c9d8d3e","Google Android Camp","Outdoors & Recreation::Sculpture Garden",37.42049266696933,-122.08369733753433
+"4dede387d4c0194252f0c769","Mountain View Police-Da Basement","Professional & Other Places::Government Building",37.39550709842998,-122.08135050056235
+"4df02414d4c04d0392c4c0fe","Morocco's Restaurant","Food::Moroccan Restaurant",37.38658389068919,-122.08328068256378
+"4df1959de4cda09e6d9b3dcb","Antojitos Mexicanos Taco Truck","Food::Food Truck",37.4008935,-122.10428063333333
+"4df80e0d45dd816eb5a60113","NewME Accelerator - Summer 2011","Professional & Other Places::Office",37.404789,-122.066786
+"4df8ea90922e3504424d4990","Styles For Less","Shop & Service::Clothing Store::Women's Store",37.37962956877518,-122.07435965538025
+"4dfbc734d22df89d59215b3a","Nichole's Fine International Cuisine","::Food",37.392578625083196,-122.07992792129517
+"4dfd101eaeb7594e862261a1","Capezio Dance Theatre Shop","Shop & Service::Clothing Store",37.390954,-122.096006
+"4dfe52f3fa7628b893ebe2e2","The Rock Church","Professional & Other Places::Spiritual Center::Church",37.39718082934506,-122.0905378277707
+"4e0179d7d1647696f123a17e","Lytro","Professional & Other Places::Office::Tech Startup",37.392668,-122.072838
+"4e039b0bae60ed89a7ffae5f","Vendavo Inc","Professional & Other Places::Office",37.39617474791456,-122.05685825611239
+"4e060bc014959022c88d8530","Berlin Wall Memorial","Arts & Entertainment::Historic Site",37.43000306834459,-122.0993360715145
+"4e0cf20ba8099e1525fa74a0","BMW Group Technology Office USA","Professional & Other Places::Office",37.42573812493115,-122.09780216217041
+"4e126acb1495c8d31bcfbc6c","Nichole's","::Food",37.39251469514433,-122.07994669675827
+"4e15e8d3e4cded56112c9c25","MobileIron Global HQ","Professional & Other Places::Office::Tech Startup",37.3958947303688,-122.056286667472
+"4e167a66aeb7e76b4f1ed6fe","Steak Out","Food::Burger Joint",37.39136038,-122.080306
+"4e1b0a1e7d8bb17ec63a24e6","Five Stars","Professional & Other Places::Office::Tech Startup",37.418662,-122.094493
+"4e1e4715d16488cf82f5f02c","Walmart Labs","Professional & Other Places::Office",37.390568,-122.081648
+"4e24bab8e4cd2325afb960be","Bikram Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.39371321166782,-122.09689526847474
+"4e28cbe08877f9158a794765","Moveable Feast","Food::Food Truck",37.39131546020508,-122.0799331665039
+"4e2dd0d852b111a1e3739b9d","Dash Navigation, Inc.","Professional & Other Places::Office",37.3876174997839,-122.060959339142
+"4e30868c45dd01b9139a1adb","500startups","Professional & Other Places::Office::Tech Startup",37.3829609340423,-122.07687306079154
+"4e318b0118380c94acabff5b","Luminate","Professional & Other Places::Office::Tech Startup",37.39352178713468,-122.07696738298971
+"4e31c4302fb6ede816e383c5","Redbox","Shop & Service::Video Store",37.4141081110511,-122.08970567441
+"4e322377a8097f47f49b6ef7","iBethel Bible Study","Professional & Other Places::Spiritual Center::Church",37.381343166754476,-122.06218242645264
+"4e35c3ced4c063434831b902","Premier Smog","Shop & Service::Automotive Shop",37.379846,-122.072754
+"4e35e6da483bf3839a34475d","Crittenden Hill","Outdoors & Recreation::Field",37.42670083251283,-122.07235659605186
+"4e39865b45dd9ef03f1779d2","Palo Alto Medical Foundation Internal Medicine","Professional & Other Places::Medical Center::Doctor's Office",37.37636402932089,-122.0643163799279
+"4e39c6a218380f8ec5549bd8","Room 77 HQ","Professional & Other Places::Office",37.3945526161619,-122.08003558388842
+"4e3c169f483b04e17a83124d","Hangar 3","Professional & Other Places::Government Building::Monument / Landmark",37.40360579212646,-122.04789562240194
+"4e3c5a45aeb73139a16a6fc4","Cuesta Dog Training Area","Outdoors & Recreation::Dog Run",37.371542378696155,-122.08148920392327
+"4e3e01c8b61cb577be801281","The Wine Cellar","Nightlife Spot::Wine Bar",37.400063,-122.110287
+"4e3e14a9fa76455375c1c816","Googleplex - 1808","Professional & Other Places::Office",37.419205916060385,-122.07858749265064
+"4e400e3118a83d5b286662a1","63rd RSC","Professional & Other Places::Building",37.41439222461052,-122.0666413897365
+"4e4309f67d8b2eefb3b2b037","7th Psyop Group","Professional & Other Places::Government Building",37.41471521099111,-122.06619192871399
+"4e4338ae2271bdbcf665f2d9","500 Startups","Professional & Other Places::Office::Coworking Space",37.38459396362305,-122.068115234375
+"4e454734887781a6199a09be","ID Card Office","Professional & Other Places::Government Building",37.414483,-122.066687
+"4e470874d4c065cb6ba86924","Comedy Jam","Arts & Entertainment::Comedy Club",37.426956,-122.08161963
+"4e470d6ea809fb2fa3f48d12","WiLD 94.9 Comedy Jam","Arts & Entertainment::Comedy Club",37.4269639357508,-122.080779
+"4e4981c718a83cda37d0ab78","Orthosport Physical Therapy","Shop & Service::Gym / Fitness Center::Gym",37.37764240364993,-122.0642553408138
+"4e4ab6c318387418d6f22eac","Shoreline Dog Park","Outdoors & Recreation::Dog Run",37.42828562619893,-122.0775032043457
+"4e4ac690aeb7de71b39b209f","Citrus Lane","Professional & Other Places::Office",37.38648251664604,-122.0638891054089
+"4e4d490bd4c083e96494f160","Mozart Foundation Automotive Museum","Arts & Entertainment::Museum",37.414695,-122.077129
+"4e57dcc2d22d61e8f3404fd9","Stan","::Arts & Entertainment",37.4221359841952,-122.08465159241477
+"4e57e964d16491e0ae503e9c","Platinum Cleaners","Shop & Service::Laundry Service",37.39718735218048,-122.10470080375671
+"4e62a20fb61cd78088a640f0","Identity Festival","Arts & Entertainment::Music Venue",37.426408,-122.07986
+"4e657431b993678bb7eb369d","De Anza Garden Apartments","Residence::Residential Building (Apartment / Condo)",37.410363173167745,-122.09052118476612
+"4e6675ef18a8bf05712fd452","Buda Thai","Food::Thai Restaurant",37.40076576568915,-122.05800142437596
+"4e68d4a062e1a02a612fed2d","Googleplex - 1842","Professional & Other Places::Office",37.420619551513504,-122.0797304321702
+"4e6b18c3b3ad3d700beed9ee","Mountain View Art & Wine Festival","Arts & Entertainment::General Entertainment",37.38964631578721,-122.0815372467041
+"4e6be93db0fba3f50e165829","Hangar Four","Professional & Other Places::Parking",37.411004130040325,-122.0392874691794
+"4e6c069d2271d308c7c80327","Shoreline Park & Lake","Outdoors & Recreation::Harbor / Marina",37.43231544281039,-122.08716988563536
+"4e6e3b0852b1d151b7eea7ba","Cisco Techzone","Professional & Other Places::Convention Center",37.4144649656189,-122.077385
+"4e73e308814ddff25eb17d51","Grant Road Dental","Professional & Other Places::Medical Center::Dentist's Office",37.379885900376905,-122.07291734201135
+"4e76751188775d593e6b3f87","Old HP Bldg","Professional & Other Places::Building",37.40841819859049,-122.10463353421244
+"4e775ef945ddd4324094d619","Caltrain #227 @Mtn View","Travel & Transport::Train Station::Train",37.393886,-122.07508789
+"4e7b3656ae60e8217bbf1269","Googleplex","Professional & Other Places::Office::Tech Startup",37.420622,-122.072827
+"4e7b71e8aeb70c2b1bf5842a","BlueJeans Networks","Professional & Other Places::Office",37.39874933650375,-122.04764032913786
+"4e87b5576da13d8917617559","Mountain View Caltrain Station","Travel & Transport::Train Station::Train",37.394925505881,-122.076911899354
+"4e88ba00d5fbd32cf28137fc","Eagle Park Pool","Outdoors & Recreation::Pool",37.389271244696516,-122.08578586578369
+"4e9204cf02d5dcbe5ffe7535","Aaron's Green","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.37144715063583,-122.06494341611408
+"4e961de7e5fa60039e990e6f","Dell KACE 2","Professional & Other Places::Office",37.418728458414044,-122.0884463368382
+"4e9757f761af3652a0400356","Villa Rouge","Shop & Service::Design Studio",37.393592,-122.077976
+"4e9a71bae5fa3f633d308f89","Rock Med - Main Med","Professional & Other Places::Medical Center",37.42597556,-122.08034001
+"4e9ecfc69a52cd825d08c20a","Googleplex 1210","Professional & Other Places::Building",37.42110822310775,-122.07060877362927
+"4ea50f7d8b81a02f8aad2673","Gym","Shop & Service::Gym / Fitness Center::Gym",37.37506114386198,-122.06537623544067
+"4ea74b4b61af33313cc5ac73","RIM","Professional & Other Places::Building",37.38755815594727,-122.06105351374575
+"4eb12cac7ee59218bcab6f54","City of Mountain View","Outdoors & Recreation::Other Great Outdoors",37.385997817346336,-122.08396196365356
+"4eb404d6775b544c26a9bee1","Symantec - Building P","Professional & Other Places::Office",37.3964264526937,-122.05489375441411
+"4eb81556f790d87d03d602c0","Google","Professional & Other Places::Office::Coworking Space",37.4233189131245,-122.077666474373
+"4eb81cb94901cef9d9a9783a","Symantec Building J","Professional & Other Places::Office",37.39501574244698,-122.05486045746923
+"4ebc1f6b8b81c444e96b609c","Googleplex HRH","Professional & Other Places::Building",37.42859082349917,-122.09887565151566
+"4ec14fd593ad36d7a9b9d36f","Fresh & Easy Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",37.411231985784106,-122.09424360645677
+"4ec1849a775b98876ef19544","Tommy Thai","Food::Thai Restaurant",37.38944599396088,-122.09096252918243
+"4ec404479adf8da74eec88ef","Symantec - Building K","Professional & Other Places::Office",37.39493786881451,-122.05431105640636
+"4ec5766f2c5b6307e6d9ad67","Grant & Cuesta 51 Bus Stop","Travel & Transport::Bus Station::Bus Line",37.37355126077034,-122.07788285888773
+"4ed3d9352c5bc3505afcb162","Carl C. Riccaboni, DDS","Professional & Other Places::Medical Center::Dentist's Office",37.368032,-122.082098
+"4ed718f002d57802e570b2fb","Khan Academy","Professional & Other Places::Office::Tech Startup",37.39396429673948,-122.07782737571989
+"4ed9054b77c8274efb6db6ed","Googleplex - Cafe Blaze","Food::Café",37.420301408037965,-122.07272835147712
+"4ed98a679a5286d91e572836","191 Restaurant & Bar","Food::American Restaurant",37.39385614693012,-122.07880407571793
+"4ede818df790c0454a81111f","Googleplex - 1225","Professional & Other Places::Office",37.42027235886932,-122.07288926014697
+"4ee26dd2775b247303a6c1c3","International Halal Market","Shop & Service::Food & Drink Shop::Grocery Store",37.404869079589844,-122.1108627319336
+"4ee453234901416369c11ea3","Googleplex 1685","Professional & Other Places::Building",37.416412353515625,-122.08502197265625
+"4eea80f40aaf9592fe822179","Mountain View Fire Station 5","Professional & Other Places::Government Building::Fire Station",37.4254530415884,-122.077228155699
+"4eefc50d0aaf9ae2826b315e","lark technologies","Professional & Other Places::Office::Tech Startup",37.40117031275449,-122.11132049560547
+"4ef76cec02d5abdcbb6c117f","Mountain View Fire Station 2","Professional & Other Places::Government Building::Fire Station",37.37352045274108,-122.0779549869635
+"4efb76d57ee5bf7995e741f3","Box net","Professional & Other Places::Office::Coworking Space",37.3959876538116,-122.093356006341
+"4f0329add3e364d5ff7fd6c9","Googleplex - Yoshka's Café","Professional & Other Places::Office::Cafeteria",37.42199740794771,-122.08425768589487
+"4f05ecd26da1a1d64a810cc8","google","Arts & Entertainment::Historic Site",37.3931770793615,-122.081955245917
+"4f0ce162e4b03684a3d4e732","Rasputin Music","Shop & Service::Record Shop",37.39330742253248,-122.097909450531
+"4f0f322ee4b09cff0193a97e","Cafe Roma","Food::Café",37.40911612524124,-122.0781158878828
+"4f13c6f9e4b0fd2950c3414b","108 Bryant St Apartment","Residence::Residential Building (Apartment / Condo)",37.39543530695645,-122.07985804117499
+"4f203d67e4b0a6dc502c9c11","Baydin HQ","Professional & Other Places::Office::Tech Startup",37.392351,-122.078313
+"4f232833e4b0b653a23d6089","Palo Alto Medical Foundation-X-Ray","Professional & Other Places::Medical Center",37.376448123969,-122.06610314607
+"4f26cc89e4b047657c049a15","AgilOne","Professional & Other Places::Office::Tech Startup",37.41003871282576,-122.07726144578703
+"4f274ffae4b03421b7cc80cf","Saint Francis HS Lacrosse","Outdoors & Recreation::Other Great Outdoors",37.36848761744654,-122.08234916080126
+"4f29f9fae4b05b4a404a5568","The Menu - Artisan Cuisine Of India","Food::Indian Restaurant",37.40392319477936,-122.11688876152039
+"4f2cbd64e4b0d337d3373e53","City of Mountain View","Outdoors & Recreation::Other Great Outdoors",37.385997817346336,-122.08396196365356
+"4f35bccce4b0d408a2a0a834","Googleplex - 2171","Professional & Other Places::Office",37.42115724107875,-122.09143099859944
+"4f3923cbe4b017ad7cc9a311","Zynga Silicon Valley","Professional & Other Places::Office",37.39386709651873,-122.05222441697579
+"4f3998f0e4b089d43b2f0050","Women 2.0 PITCH Conference & Competition #w2pitch","Professional & Other Places::Event Space",37.4145094932344,-122.077200413951
+"4f39a087e4b0eebd6ba03818","Googleplex - Root Cafe","Food::Café",37.421233910348136,-122.07132455192881
+"4f39ae32121d9057b050d929","Googleplex - The Garage","Professional & Other Places::Office::Coworking Space",37.41925395973696,-122.07979917526245
+"4f3c48aee4b0b4a7ccfc3bc9","NetBase","Professional & Other Places::Office::Tech Startup",37.4198655998855,-122.08954479069
+"4f3dc2f8e4b090fd166abd46","The Rusty Pelican Ultralounge","Nightlife Spot::Lounge",37.393329436003405,-122.06323431781988
+"4f401f1ce4b0daed42660ce3","Popset HQ","Professional & Other Places::Animal Shelter",37.388101790189864,-122.07678983525446
+"4f412cd2e4b005b5356b1e31","St. Stephans Lutheran Church","Professional & Other Places::Spiritual Center::Church",37.385612928610755,-122.06236311126486
+"4f469a86121d3195bed66fe8","The BUILD Gala","Professional & Other Places::Event Space",37.4154475527819,-122.077857255936
+"4f47e86ee4b0db1b34673260","Stevens Creek Trail Head","Outdoors & Recreation::Hiking Trail",37.42482683756947,-122.07129126001954
+"4f538a7ae4b0336535316703","mountainview, CA","Travel & Transport::General Travel",37.4042734362939,-122.0601989373626
+"4f543dd0e4b03be364f0147d","Latham Court Apartments","Residence::Residential Building (Apartment / Condo)",37.39581033676026,-122.09679541626979
+"4f57ad99e4b0d4675f893434","Lytro","Professional & Other Places::Office::Tech Startup",37.4102577955804,-122.08071801098762
+"4f63b5e6e4b0e78cffe73e40","Elastic HQ","Professional & Other Places::Office::Tech Startup",37.41916388827924,-122.088346476845
+"4f6509e1e4b0dc772098dc8b","Picture Framing","Shop & Service::Arts & Crafts Store",37.392668,-122.079534
+"4f6681f6e4b05c1d5b433fad","The Hovel","Arts & Entertainment::Comedy Club",37.3991539143431,-122.100306830155
+"4f68e3fae4b0c33988bb7368","Red Robot Labs","Professional & Other Places::Office",37.39201101398605,-122.07113589764123
+"4f6a3592e4b045b34c0c7159","B'Zu Cafe","Food::Mediterranean Restaurant",37.394125565891095,-122.07899251628527
+"4f6a3c9ae4b0917c41d33f3f","Deutsche Telekom","Professional & Other Places::Office",37.3867275162284,-122.04993794694796
+"4f71fc80e4b0e8c48288442a","Y Combinator Demo Day","Arts & Entertainment::General Entertainment",37.4144935752513,-122.077078350177
+"4f810fb8e4b00d7482620c22","Occupy Sylvan","Professional & Other Places::Event Space",37.379931,-122.063291
+"4f845e09e4b0e8bef1f56745","Googleplex - 1200 (Engineering Education Center)","Professional & Other Places::Office",37.42063099238838,-122.07049779982691
+"4f8c7932e4b057e28347694a","Googleplex - 1245","Professional & Other Places::Office",37.420123,-122.074252
+"4f8f1ee7e4b084124b26c766","Togo's","Food::Sandwich Place",37.39405480337711,-122.09872587591322
+"4f9b0279e4b0b04583db177e","LinkedIn Building 2","Professional & Other Places::Office",37.423080208573964,-122.07212910329797
+"4fa0151ae4b01729ffb03e29","Microsoft SVC 1 - Mercury Room","Professional & Other Places::Office::Conference Room",37.411695320829715,-122.07140223301073
+"4fa15225e4b033a85a1ccc70","The Startup Conference 2012","Professional & Other Places::Event Space",37.38990255512854,-122.08177215822947
+"4fa430e1e4b09d4d44a65d84","Sweet Tomatoes","Food::Salad Place",37.379480301103285,-122.07423200595201
+"4fa591ace4b0f902078c5d19","Mountain View Art & Wine Festival","Arts & Entertainment::General Entertainment",37.39245928915322,-122.07969188690186
+"4fa943b0e4b0d8648985081f","LinkedIn Building 4","Professional & Other Places::Office",37.423961670922615,-122.07108041102367
+"4faad229e4b04b8d2fc9ea16","LinkedIn Building 3","Professional & Other Places::Office",37.4229227659018,-122.0725286024517
+"4faf1461e4b097c37e8a0870","Crestview Pool","Outdoors & Recreation::Pool",37.37319776343922,-122.05973835120012
+"4fb464a4e4b059afc665791b","The Workshop Burgers Bar & Grill","Food::Burger Joint",37.39474423471028,-122.07854865468843
+"4fbfd2ebe4b0557038663ff8","Sanguchon Food Truck","Food::Food Truck",37.423322,-122.071699
+"4fc66d2fe4b0e5e073518ca3","Fairchild Apartments","Residence::Residential Building (Apartment / Condo)",37.405803512197295,-122.06024888032314
+"4fd2bf1ae4b0ba0231d027ed","Delphi Solutions","Professional & Other Places::Office::Tech Startup",37.409303013887246,-122.07748337944588
+"4fd61922e4b0b3abb467a7b1","Google - Quad Campus","Professional & Other Places::Office",37.39945176443772,-122.05705803395745
+"4fd774d2e4b01ce018c6a37f","Google, Inc. The Quad-6","Professional & Other Places::Office",37.398593571088824,-122.05744094046747
+"4fd94b05e4b05b8592b4d53d","Agave","Food::Mexican Restaurant",37.39401279403274,-122.07897587150815
+"4fe127fee4b0f60bf1c5e781","International Camera Technicians","Shop & Service::Photography Lab",37.41451276478421,-122.09842632408674
+"4fe52155e4b0ef8f176fe05d","VTA 32 Stop Middlefield at Whisman","Travel & Transport::Bus Station::Bus Line",37.39831417451856,-122.06405557620054
+"4fe923eee4b06579e2d1056c","Jane's Beer Store","Shop & Service::Food & Drink Shop::Liquor Store",37.393562,-122.078155
+"4fea7690e4b021413d2247ef","Google -QD3 Gym","Shop & Service::Gym / Fitness Center::Gym",37.39989472400211,-122.0555097460552
+"4ff35985e4b0f331611b8c27","Swipp","Professional & Other Places::Office::Tech Startup",37.42094961037157,-122.09845662117003
+"4ffcc90be4b060e40e1ac120","Scott's Seafood","Food::Seafood Restaurant",37.390946806632044,-122.08090664861521
+"5009c2bbe4b0ddfaa64f47fb","Googleplex - 1295","Professional & Other Places::Building",37.420235388409644,-122.074908921092
+"500a08cfe4b0bab9bba5a24d","Erik's DeliCafe","Food::Sandwich Place",37.42190981581599,-122.09636826968695
+"501acdfbe4b0981c98c5a8dc","Niji Sushi","Food::Japanese Restaurant",37.392258,-122.079117
+"50269a95e4b0727083f082b1","Crepevine","Food::Restaurant",37.39252835455399,-122.080135451537
+"5036b1efe4b0dc3d889404a7","Sprouts Farmers Market","Shop & Service::Food & Drink Shop::Grocery Store",37.402833,-122.113776
+"50379c31e4b0be420ec1826a","Google - QD3","Professional & Other Places::Office",37.3999360842933,-122.05529331695739
+"504f5380e4b0a5a9ea57302f","Wildfire (by Google) HQ - FC2","Professional & Other Places::Office",37.403994626448,-122.05526002013487
+"504f6203e4b09745bfa90af1","Google - FRC1","Professional & Other Places::Building",37.40433675637496,-122.05605914106073
+"5066402ee4b0058e9c61a5ed","Dollar Tree","Shop & Service::Miscellaneous Shop",37.397274,-122.062132
+"5073103de4b0db7c170ea438","San Antonio Caltrain Station","Travel & Transport::Train Station",37.40757656704711,-122.10756782864023
+"5097f4fd4b9033ce215754ab","Voting at 1200 Cuernavaca Circulo","Professional & Other Places::Voting Booth",37.371791,-122.064744
+"5097f4fd4b9033ce215754b1","Voting at 2225 Showers Dr","Professional & Other Places::Voting Booth",37.407102,-122.107458
+"50b6642f45b08a1a141cbddc","Social Innovation Summit 2012","Professional & Other Places::Convention Center::Meeting Room",37.41176366668728,-122.07150578498842
+"50bd1504e4b0994b53a74dec","BizSpark Lab","Professional & Other Places::Building",37.41257062150282,-122.07256189398147
+"50c541cee4b0fb7144bfe604","Cali Camel Cabana","Travel & Transport::Embassy / Consulate",37.398544,-122.086942

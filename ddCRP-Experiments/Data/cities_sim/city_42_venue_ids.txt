@@ -1,0 +1,543 @@
+"412bd680f964a520a90c1fe3","Sharp's Roaster","Food::BBQ Joint",47.43729296666667,-122.29611596
+"45591001f964a520503d1fe3","13 Coins","Food::Breakfast Spot",47.441222,-122.29546202
+"45f555cef964a5200e441fe3","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"47e38bf7f964a5204a4e1fe3","DoubleTree by Hilton Hotel Seattle Airport","Travel & Transport::Hotel",47.43540303796205,-122.29388236999512
+"49c40e41f964a52092561fe3","Sports Page Pub","Nightlife Spot::Bar",47.44553933317861,-122.30103172774776
+"49e7612df964a52092641fe3","Seattle Tap Room","Travel & Transport::Airport",47.44271779725319,-122.30270147323607
+"49fe22e8f964a520726f1fe3","Dave's Diner and Brew","Food::Diner",47.43441,-122.29689605
+"4a51ea78f964a52031b11fe3","Starbucks","Food::Coffee Shop",47.44567824404402,-122.30379581451416
+"4a575b1cf964a52009b61fe3","Thrifty","Travel & Transport::Rental Car Location",47.43328138,-122.2950231
+"4a57bad2f964a520afb61fe3","Hudson News","Shop & Service::Bookstore",47.44844479010212,-122.30244654605295
+"4a6b4579f964a5204ece1fe3","Pancake Chef","Food::Breakfast Spot",47.46657227,-122.289261
+"4a707abcf964a52090d71fe3","Alaska Airlines' McGee Building","Professional & Other Places::Office",47.4199283913171,-122.298302650452
+"4a7633e8f964a52095e21fe3","Alaska Airlines Board Room","Travel & Transport::Airport::Airport Lounge",47.444643025627336,-122.30232602381382
+"4a7784f9f964a520bce41fe3","Anthony's Fish Bar","Food::Seafood Restaurant",47.443994873164996,-122.30332374572754
+"4a79b165f964a5205ce71fe3","Alaska Airlines Flight Training Center","Professional & Other Places::Office",47.43211307886171,-122.29856859755103
+"4a942600f964a520862020e3","Bigfoot Food and Spirits","Food::American Restaurant",47.44851518254827,-122.30233669281006
+"4a9b49c8f964a520ea3420e3","Pilot House Provisioners","Food::American Restaurant",47.443388,-122.301502
+"4aa83516f964a520135020e3","Vintage Washington","Nightlife Spot::Wine Bar",47.44405465461539,-122.30165691221973
+"4aac4bfdf964a5205a5d20e3","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",47.438538059325126,-122.30203628540039
+"4aac651ff964a520d05d20e3","Aqua Terra","Food::American Restaurant",47.444031,-122.290993
+"4aafa2aef964a520606420e3","Massage Bar","Shop & Service::Spa / Massage",47.44496376076694,-122.30354026679467
+"4aba8b7ff964a520d38120e3","Alaska Airlines Corporate Headquarters","Professional & Other Places::Office",47.42922000816517,-122.29482926530932
+"4ac16e42f964a520259720e3","Marriott Hotel Seattle Airport","Travel & Transport::Hotel",47.44435982941338,-122.29088261797152
+"4ac4455ef964a5208d9e20e3","valley ridge park","Outdoors & Recreation::Field",47.435054816554775,-122.27480484134057
+"4ac59601f964a52058b220e3","Best Western Airport Executel","Travel & Transport::Hotel",47.415992,-122.29798158
+"4aca5bd2f964a52096c120e3","SeaTac, Cell Phone Lot","Professional & Other Places::Parking",47.45426114666886,-122.3016768693924
+"4acd122ff964a520b8ca20e3","Hertz Rental Car","Travel & Transport::Rental Car Location",47.46070350112957,-122.29386186930455
+"4acd37fff964a52073cb20e3","Alaska Lodge","Food::Brewery",47.444388892799665,-122.30315291277611
+"4ace4801f964a52097cf20e3","MVP Airport Parking","Professional & Other Places::Parking",47.43350098,-122.2957608
+"4aceb605f964a520bbd120e3","Wendy's","Food::Fast Food Restaurant",47.44355950985984,-122.30340957641602
+"4ad0e9bbf964a5200bdb20e3","Grandview Dog Park","Outdoors & Recreation::Dog Run",47.397665645505164,-122.28628609010771
+"4ad0fce1f964a520c2db20e3","Bull Pen","Nightlife Spot::Karaoke Bar",47.42237503651355,-122.29675513788432
+"4ad34b50f964a520aae320e3","Rodeway Inn","Travel & Transport::Hotel::Motel",47.44749982398502,-122.29413028438914
+"4ad750f1f964a520700921e3","The Great American Bagel Bakery","Food::Bagel Shop",47.446095103286,-122.300479
+"4adcf15ff964a520c26221e3","Alaska Airlines Gold Coast Center","Professional & Other Places::Office",47.41461794136098,-122.29864627424887
+"4add1b3bf964a520186421e3","Gregory's Bar & Grill","Nightlife Spot::Sports Bar",47.43968,-122.29545698
+"4adfb2faf964a520d07c21e3","Starbucks","Food::Coffee Shop",47.44386998743422,-122.30164402352243
+"4ae201bdf964a520b68921e3","Chili's Too","Food::American Restaurant",47.44596847495784,-122.29971885681152
+"4ae2b5ecf964a5205a8f21e3","Horizon Air General Office","Professional & Other Places::Office",47.42736195949009,-122.2968251442719
+"4ae2be9ef964a520678f21e3","Comfort Inn & Suites","Travel & Transport::Hotel",47.42910643534214,-122.29632602201671
+"4ae38d96f964a520909621e3","Red Lion Hotel","Travel & Transport::Hotel",47.439361697148215,-122.29530930519104
+"4ae8f451f964a520a9b321e3","WolfgangPuck Gourmet Express","Food::New American Restaurant",47.44518484781539,-122.30358123779297
+"4ae97c85f964a520ecb421e3","Masterpark Lot B","Professional & Other Places::Parking",47.450496414051344,-122.2953164008923
+"4af5e928f964a520b3fe21e3","Advantage Rent A Car","Arts & Entertainment::Arcade",47.425149,-122.296747
+"4af9e0b5f964a520f51422e3","Jack in the Box","Food::Fast Food Restaurant",47.43489912629987,-122.29624606637394
+"4afb8bd3f964a520931e22e3","North SeaTac Park","Outdoors & Recreation::Park",47.48577297525534,-122.30958938598633
+"4afdb185f964a520e72922e3","Ivar's Fish Bar","Food::Seafood Restaurant",47.44337085130866,-122.3032808303833
+"4aff116df964a520c23322e3","Bigfoot's Bar","Nightlife Spot::Bar",47.44643,-122.301077014286
+"4b02babaf964a520894922e3","Doug Fox Airport Parking","Professional & Other Places::Parking",47.451569617899,-122.29916095733643
+"4b038318f964a520a74f22e3","Waji's","Food::Japanese Restaurant",47.44588791052484,-122.30386008348347
+"4b08bac3f964a520831123e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",47.45560017258199,-122.28174951896551
+"4b0ad17ef964a520602823e3","Seattle's Best Coffee - SeaTac Airport Main Terminal","Food::Coffee Shop",47.44286292107723,-122.30173587799072
+"4b0adc27f964a520092923e3","Borders Books & Music - SeaTac Airport","Shop & Service::Bookstore",47.44321121662152,-122.30332374572754
+"4b0afd1ff964a5202f2b23e3","Manchu Wok","Food::Chinese Restaurant",47.44165073879208,-122.30005151542645
+"4b0e9f3bf964a520085923e3","MasterPark Lot C","Professional & Other Places::Parking",47.457717597366724,-122.29311525821686
+"4b16cb52f964a52087bd23e3","Qdoba Mexican Grill","Food::Mexican Restaurant",47.44344341236996,-122.30319499969482
+"4b1763b0f964a5202fc523e3","National Rent-A-Car SEA-TAC","Travel & Transport::Rental Car Location",47.44416971640174,-122.30048743730076
+"4b17d13bf964a5207dc823e3","United Club","Travel & Transport::Airport::Airport Lounge",47.44164386851262,-122.30396747589111
+"4b182529f964a520b5cd23e3","Mountain Room Bar","Nightlife Spot::Bar",47.43981659679158,-122.29835336449895
+"4b1835fff964a520dfce23e3","British Airways Lounge","Travel & Transport::Travel Lounge",47.438848,-122.302362
+"4b187fbdf964a52089d323e3","Cedarbrook Lodge","Travel & Transport::Hotel::Resort",47.4366891543624,-122.28798879646772
+"4b18955cf964a52054d423e3","Valley Ridge Playfield","Outdoors & Recreation::Other Great Outdoors",47.43585915606201,-122.27497286527596
+"4b1951aaf964a5202ddb23e3","Concourse D Terminal","Travel & Transport::Airport::Airport Terminal",47.44582335970109,-122.30053424835205
+"4b1978d9f964a520f3dd23e3","Best of India","Food::Indian Restaurant",47.45927,-122.291295
+"4b19a773f964a5204ee123e3","Alaska Airlines Maintenance Hangar","Professional & Other Places::Office::Coworking Space",47.4355712168426,-122.30243854209425
+"4b1bd85af964a5200dfe23e3","Dish D'lish","Food::American Restaurant",47.44316042366492,-122.30324864387512
+"4b1d5613f964a520f60e24e3","Avis Car Rental","Travel & Transport::Rental Car Location",47.46108816486993,-122.29336518096206
+"4b2252faf964a520934524e3","Seattle's Best Coffee","Food::Coffee Shop",47.444061279296875,-122.30106353759766
+"4b23e9dff964a520bb5c24e3","Great American Bagel Bakery","Food::Bagel Shop",47.44838113909383,-122.30199944486341
+"4b25476cf964a5203d6f24e3","Freshens","Food::Ice Cream Shop",47.44573629035488,-122.30370998382568
+"4b2c2fedf964a5205dc324e3","Pallino Pastaria","Food::Italian Restaurant",47.443472436766456,-122.30353832244873
+"4b2db0bef964a5207bda24e3","SeaTac / Airport LINK Station","Travel & Transport::Train Station",47.44533722067402,-122.29702860116959
+"4b2f273bf964a520cfe924e3","Denny's","Food::American Restaurant",47.44865414285469,-122.29604736047587
+"4b2ff6dff964a5207ff324e3","Fireworks Gallery","Shop & Service::Gift Shop",47.44365418411193,-122.3033952756536
+"4b377508f964a520304125e3","Body Shop","Shop & Service::Cosmetics Shop",47.443720899999995,-122.303439
+"4b41a554f964a5200bc825e3","Hilton Seattle Airport & Conference Center","Travel & Transport::Hotel",47.44450569484904,-122.29568481445312
+"4b420bc1f964a520e9cb25e3","Bigfoot Food And Spirits","Food::American Restaurant",47.44514846801758,-122.3015365600586
+"4b477ee3f964a520ff3326e3","Dilettante Chocolates & Mocha Café","Food::Café",47.44376267985063,-122.30345785617828
+"4b4e6cd5f964a52045ed26e3","Vino Volo","Nightlife Spot::Wine Bar",47.44357402202807,-122.30343103408813
+"4b4e8396f964a5202ef026e3","YMCA","Shop & Service::Gym / Fitness Center::Gym",47.43357312227532,-122.28806743447832
+"4b51dc89f964a5206e5827e3","WallyPark Premier Airport Parking (SEA)","Travel & Transport::General Travel",47.43502566168443,-122.29572772979736
+"4b5a7032f964a52021c528e3","Casa del Agave","Food::Mexican Restaurant",47.441881,-122.30340062
+"4b5c5be7f964a5205f2c29e3","Great American Bagel","Food::Bagel Shop",47.44145959509752,-122.29989469194851
+"4b5c6181f964a520512d29e3","Gate B9","Travel & Transport::Airport::Airport Gate",47.44145520309157,-122.30407476425171
+"4b5f183cf964a520c3a529e3","Gate C9","Travel & Transport::Airport::Airport Gate",47.44573629035488,-122.30366706848145
+"4b60d754f964a520ecfc29e3","Fireworks Gallery","Shop & Service::Gift Shop",47.44365418411193,-122.3033952756536
+"4b644686f964a520d6a72ae3","Gate B12","Travel & Transport::Airport::Airport Gate",47.44090371567374,-122.3036241531372
+"4b65fa89f964a5203e0c2be3","butter LONDON","Shop & Service::Salon / Barbershop",47.44454632817908,-122.3038387298584
+"4b66f360f964a520dd312be3","Gate S9","Travel & Transport::Airport::Airport Gate",47.43893718058522,-122.30287313461304
+"4b673f15f964a520a2432be3","IHOP","Food::Breakfast Spot",47.41880279841991,-122.29663577547527
+"4b6ca9bcf964a5205f4a2ce3","Fox Rent A Car","Travel & Transport::Rental Car Location",47.412342,-122.2973370552063
+"4b703283f964a5202b0b2de3","Budget Car Rental","Travel & Transport::Rental Car Location",47.44332782397496,-122.29964616423581
+"4b70e28af964a52008332de3","MasterPark Lot A","Travel & Transport::General Travel",47.43945574600647,-122.29548815660664
+"4b71dd59f964a520f1602de3","Seattle's Best Coffee","Food::Coffee Shop",47.44611585883864,-122.30011397335193
+"4b72f0ecf964a52005912de3","Gate D6","Travel & Transport::Airport::Airport Gate",47.44602652094846,-122.30031967163086
+"4b72f223f964a5205c912de3","Masterpark Garage","Travel & Transport::General Travel",47.45202315597455,-122.29509993210685
+"4b73312cf964a520eca02de3","Extra Car","Travel & Transport::General Travel",47.45743190877201,-122.2924009242436
+"4b7455fbf964a5200ad62de3","SeaTac City Hall","Professional & Other Places::Government Building::City Hall",47.433733853169194,-122.27281093597412
+"4b746b19f964a5205adb2de3","Anthony's at Seatac Airport","Food::Seafood Restaurant",47.44547653198242,-122.29895782470703
+"4b76046ef964a520de362ee3","Holiday Inn","Travel & Transport::Hotel",47.447134058056925,-122.29540817242732
+"4b775841f964a520bf932ee3","Bob's Burger","Food::Burger Joint",47.420981,-122.29617
+"4b7aabc2f964a52077362fe3","Hampton Inn","Travel & Transport::Hotel",47.427976573758414,-122.29664772748947
+"4b7ac149f964a520073b2fe3","Fairfield Inn Seattle Sea-Tac Airport","Travel & Transport::Hotel",47.425828,-122.29692661
+"4b7b9b8ef964a52091682fe3","US Post Office - Riverton Heights","Professional & Other Places::Post Office",47.4658019627224,-122.291135787964
+"4b7d35fbf964a520e6b22fe3","Tully's Coffee","Food::Coffee Shop",47.4399845665884,-122.298367055704
+"4b7d3950f964a52099b32fe3","La Pisa Cafe Terminal A SeaTac","Shop & Service::Food & Drink Shop::Food Court",47.4401166304098,-122.2985641304251
+"4b7f77eaf964a5203d3030e3","Life is Good","Shop & Service::Clothing Store",47.443861,-122.303471
+"4b7f7a60f964a520c73030e3","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4b800fe8f964a520ba4e30e3","On a plane waiting to leave","Travel & Transport::Airport::Plane",47.448011,-122.3024
+"4b806023f964a520a26c30e3","Gate B10","Travel & Transport::Airport::Airport Gate",47.44104884450207,-122.30360805988312
+"4b8079e8f964a520f27530e3","Gate B6","Travel & Transport::Airport::Airport Gate",47.441658381209315,-122.30358123779297
+"4b80831df964a520eb7830e3","Delta Baggage Service","Travel & Transport::Airport",47.442787,-122.300867
+"4b847f93f964a520df3831e3","Shell Gas Station","Shop & Service::Gas Station / Garage",47.41710681666667,-122.288242
+"4b8716a3f964a520eaaf31e3","La Quinta Inn & Suites Seattle Sea-Tac Airport","Travel & Transport::Hotel",47.43513488769531,-122.29701232910156
+"4b875bf4f964a520f2bc31e3","employee parking","Professional & Other Places::Parking",47.46870867323052,-122.30440574186463
+"4b89fc68f964a5203e5a32e3","Cascade's Lounge","Food::Gastropub",47.438741248708595,-122.30177879333496
+"4b8aefeef964a5202d8a32e3","Goldstreak Alaska Airlines Air Cargo","Travel & Transport::Airport::Airport Terminal",47.45671081542969,-122.30144500732422
+"4b8bc0cbf964a520aaa932e3","Gate A4","Travel & Transport::Airport::Airport Gate",47.44149874132572,-122.3007595539093
+"4b8be686f964a52059b132e3","Gate D9","Travel & Transport::Airport::Airport Gate",47.44653442063391,-122.29951500892639
+"4b8bf662f964a520f8b432e3","Dollar Rent A Car","Travel & Transport::Rental Car Location",47.46054130476544,-122.29469449878108
+"4b8c32a4f964a520a8c332e3","Gate N7","Travel & Transport::Airport::Airport Gate",47.44782591488635,-122.30188608169556
+"4b8c7201f964a52035d132e3","Masae's Teriyaki","Food::Japanese Restaurant",47.4322395324707,-122.29586029052734
+"4b8e7db1f964a520292533e3","7-Eleven","Shop & Service::Convenience Store",47.43246853351593,-122.295679
+"4b906a13f964a5201b8933e3","Southwest Gates (SEA)","Travel & Transport::Airport::Airport Gate",47.440860176947176,-122.30649948120117
+"4b908f68f964a5200e9033e3","Maki of Japan","Food::Japanese Restaurant",47.444732666015625,-122.30355834960938
+"4b9267ecf964a5203df733e3","Concourse A Terminal","Travel & Transport::Airport::Airport Terminal",47.439960368531146,-122.29804515838623
+"4b9271eef964a5200cfa33e3","Gate D8","Travel & Transport::Airport::Airport Gate",47.44631674994066,-122.2998046875
+"4b9330f5f964a520593a34e3","Gate S2","Travel & Transport::Airport::Airport Gate",47.43823327377864,-122.30134963989258
+"4b940ff3f964a5202e6534e3","Concourse B Terminal","Travel & Transport::Airport::Airport Terminal",47.44184704590177,-122.30375289916992
+"4b95df75f964a52051b634e3","Gate C2J","Travel & Transport::Airport::Airport Gate",47.444154505474096,-122.303946018219
+"4b97d594f964a520da1835e3","Alaska Airlines Flight 668","Travel & Transport::Airport::Plane",47.448304775483,-122.302186489105
+"4b990678f964a520955c35e3","Gate B8","Travel & Transport::Airport::Airport Gate",47.44143343396098,-122.30355978012085
+"4b9929eef964a5200b6635e3","Gate C16","Travel & Transport::Airport::Airport Gate",47.446302238529064,-122.30433225631714
+"4b9980f2f964a520b97f35e3","7-Eleven","Shop & Service::Gas Station / Garage",47.42241561412811,-122.296103
+"4b99a79ff964a5200c8a35e3","Spencer's for Steaks and Chops","Food::Steakhouse",47.444522981717824,-122.29517703231674
+"4b9a592bf964a52000ae35e3","Park N Jet","Travel & Transport::General Travel",47.439107839267,-122.323920957128
+"4b9a7a63f964a520eab835e3","Africa Lounge","Food::American Restaurant",47.44160033039858,-122.3001480102539
+"4ba0e555f964a520678537e3","Gate A7","Travel & Transport::Airport::Airport Gate",47.44060166501608,-122.29911401867867
+"4ba18d62f964a52006c037e3","BA48 SEA-LHR","Travel & Transport::Airport::Plane",47.4391273698627,-122.302680439281
+"4ba1b18bf964a52047c837e3","Gate C2G","Travel & Transport::Airport::Airport Gate",47.44435767316692,-122.30381727218628
+"4ba1c45ef964a5207bcb37e3","Sleep Inn","Travel & Transport::Hotel::Motel",47.418439,-122.296392917633
+"4ba25949f964a520c8ef37e3","Pacific Marketplace - SEA","Shop & Service::Food & Drink Shop::Food Court",47.44354980589136,-122.30336522459976
+"4ba279b3f964a52058fc37e3","Delta Flight 1961","Travel & Transport::Airport::Plane",47.438757,-122.30144619941711
+"4ba46c15f964a5205d9c38e3","Jetblue flight 498 SEA to BOS","Travel & Transport::Airport::Plane",47.43954352570072,-122.29863687720031
+"4ba4c66ff964a520b1b338e3","Gate C15","Travel & Transport::Airport::Airport Gate",47.4461571241931,-122.30353832244873
+"4ba5c9b2f964a5204c2239e3","SeaTac / Airport LINK Station","Travel & Transport::Train Station",47.44533722067402,-122.29702860116959
+"4ba6e1eff964a5204f7539e3","Gate A10","Travel & Transport::Airport::Airport Gate",47.43948143196977,-122.29799151420593
+"4ba6e3bff964a520b27539e3","Hudson Booksellers SEA-TAC Term A A6","Shop & Service::Bookstore",47.44080212525568,-122.29916095733641
+"4ba6eeecf964a520707839e3","Virgin America Flight 759","Travel & Transport::Airport::Plane",47.4415509196034,-122.299887733805
+"4ba8fd95f964a5202c013ae3","Alamo Car Rental","Travel & Transport::Rental Car Location",47.44384975246362,-122.2994613647461
+"4ba95f9ff964a520e3223ae3","Virgin America","Travel & Transport::Airport::Airport Terminal",47.442224373256884,-122.300705909729
+"4baa369ff964a520da533ae3","Ajax Airport Parking","Professional & Other Places::Parking",47.464719414711,-122.291661
+"4bab752af964a520d8aa3ae3","Virgin America Flight 753","Travel & Transport::Airport::Plane",47.444836565338214,-122.30186462402344
+"4bad8918f964a520a1593be3","The Coast Gateway Hotel","Travel & Transport::Hotel",47.437613010406494,-122.296276
+"4badf7f5f964a5208f763be3","Gate C14","Travel & Transport::Airport::Airport Gate",47.44588140585185,-122.30443954467773
+"4bae6db6f964a5202cb13be3","Gate D3","Travel & Transport::Airport::Airport Gate",47.445662,-122.301173
+"4bafeeabf964a520802c3ce3","Maxi's","Nightlife Spot::Hotel Bar",47.435606239452085,-122.29362487792969
+"4bb0c4cff964a520385b3ce3","Hotel Royal","Travel & Transport::Hotel",47.438931,-122.302702
+"4bb0ccdcf964a5201d5e3ce3","Gate A6","Travel & Transport::Airport::Airport Gate",47.440918228574574,-122.29956328868866
+"4bb202bef964a520b1b13ce3","Gate A9","Travel & Transport::Airport::Airport Gate",47.43990594414146,-122.29816317558289
+"4bb21329f964a520ccb63ce3","Triangle Of Awesome","Arts & Entertainment::General Entertainment",47.44630813598633,-122.30085754394531
+"4bb3ec57bd4b9c74422432f5","British Airways Lounge Seattle Airport","Travel & Transport::Airport",47.438764,-122.302461
+"4bb51c642ea195212101aa2f","Gate B11","Travel & Transport::Airport::Airport Gate",47.441041588070156,-122.30403184890747
+"4bb736f01344b71309749e04","Masterpark Lot G","Travel & Transport::General Travel",47.4522274817829,-122.295100379855
+"4bb7507fef159c74540277f7","Gate A14","Travel & Transport::Airport::Airport Gate",47.43843283594313,-122.29761064052582
+"4bb8d8703db7b71375af219a","US Customs and  Border Protection (CBP) Passenger Inspection Area","Travel & Transport::Airport",47.43968262130185,-122.30169004799802
+"4bba239f1261d13ab846ea98","Denny's","Food::Breakfast Spot",47.43572235423695,-122.29624271392822
+"4bbac42f935e9521d6892890","Masterpark Shuttle","Travel & Transport::Bus Station::Bus Line",47.44750496689846,-122.2980401978124
+"4bbb5a9a3db7b713e437249a","Gate C2L","Travel & Transport::Airport::Airport Gate",47.444628,-122.30350243333334
+"4bbb7fbae436ef3b5e685564","Customs & Border Protection","Travel & Transport::Airport",47.43893399296869,-122.30248844155365
+"4bbcc58b8a4fb7134e233c9d","Gate N15","Travel & Transport::Airport::Airport Gate",47.44811613395019,-122.30285167694092
+"4bbe4710a55c76b045be6ee0","Go Shuttle Express","Travel & Transport::Taxi",47.44492658,-122.2983502
+"4bbe5aba82a2ef3b85382bd2","Starbucks","Food::Coffee Shop",47.448232082295725,-122.30217303643708
+"4bbeab3830c99c7431355411","Bigfoot Food and Spirits","Food::American Restaurant",47.44851518254827,-122.30233669281006
+"4bbf6edc006dc9b6fd96fc3f","Galliano's Cucina","Food::Italian Restaurant",47.45516384,-122.2812913
+"4bbfd87babf495214e75be93","Sunnydale Tavern","Food::Brewery",47.473899841308594,-122.315185546875
+"4bbfd9e0abf495216478be93","Gate C20","Travel & Transport::Airport::Airport Gate",47.4463598362508,-122.30390271249581
+"4bbffb2174a9a5939a88cff6","Shell Gas Station","Shop & Service::Gas Station / Garage",47.43480905,-122.29763564
+"4bc27309461576b0f47f7d32","City of SeaTac","Outdoors & Recreation::Other Great Outdoors",47.44521387125105,-122.29652166366577
+"4bc27c1e74a9a593ba73d3f6","BigFoot Java","Food::Coffee Shop",47.41671,-122.28864788
+"4bc2871babf4952167bac293","Gate C18","Travel & Transport::Airport::Airport Gate",47.446389306938485,-122.30413913726807
+"4bc3252b4cdfc9b60fe69621","Gate A8","Travel & Transport::Airport::Airport Gate",47.44043204421676,-122.29886054992676
+"4bc340fe920eb713fe241d2c","Gate D7","Travel & Transport::Airport::Airport Gate",47.44622968141114,-122.29967594146729
+"4bc34d5adce4eee1e989719d","Seatac Skyway Inn","Travel & Transport::Hotel",47.42136695220374,-122.29699203584181
+"4bc369eef8219c74d20db610","Sea-Tac SoundTransit Light Rail","Travel & Transport::Train Station",47.44542896747589,-122.29689215
+"4bc38c35dce4eee119a7719d","Quality Inn Sea-Tac Airport","Travel & Transport::Hotel::Motel",47.431412,-122.296651
+"4bc3c804abf49521f051c493","FedEx SeaTac Airport Facility","Professional & Other Places::Building",47.46358108520508,-122.30323791503906
+"4bc42ea5dce4eee136ff719d","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",47.42639974900996,-122.29662200595385
+"4bc42ec3dce4eee142ff719d","Motel 6","Travel & Transport::Hotel::Motel",47.4160810666667,-122.288785
+"4bc4c9e14cdfc9b6222a9921","Taqueria El Rinconsito","Food::Mexican Restaurant",47.4660605192184,-122.28930915
+"4bc6369904e8b713f5a2352d","Gate C17","Travel & Transport::Airport::Airport Gate",47.446331261348234,-122.3036241531372
+"4bc65d3ab387d13aa6d1c1e8","Sea Tac Disc Golf Course","Outdoors & Recreation::Other Great Outdoors",47.48197392218507,-122.30825308671074
+"4bc7815a0050b713e8d2b83b","SeaTacPark.com","Travel & Transport::General Travel",47.42210448336971,-122.2986349635713
+"4bc893c12f94d13a8cdd137f","Maki of Japan - Japanese Eatery","Travel & Transport::Airport::Airport Food Court",47.437745,-122.29571
+"4bc8983d0050b7131bb0ba3b","Charlie Checkpoint","Travel & Transport::Airport",47.44435501098633,-122.30107116699219
+"4bc8fbbeb6c49c741f9a8d91","Enterprise Rent A Car","Travel & Transport::Rental Car Location",47.43191063404083,-122.29650763333333
+"4bc9ac4b511f9521c205aec7","Burger King","Travel & Transport::Airport::Airport Food Court",47.448435373070836,-122.30233669281006
+"4bc9de6f511f95210164aec7","Gate D5","Travel & Transport::Airport::Airport Gate",47.445765313486305,-122.30057716369629
+"4bcb68b6cc8cd13ad058bfcf","Silver Dollar Casino","Arts & Entertainment::Casino",47.43013363270313,-122.29476431904374
+"4bcbf19cb6c49c74a0179391","Gate S6","Travel & Transport::Airport::Airport Gate",47.438944437307384,-122.30117797851562
+"4bcc89c20687ef3bdc65dfcc","Angle Lake Park","Outdoors & Recreation::Lake",47.42790638299925,-122.29386667110512
+"4bcc8d3f3740b713d1346465","Starbucks C Concourse","Food::Café",47.44281005859375,-122.3038330078125
+"4bccd478511f9521ceb9b3c7","Chevron Station","Shop & Service::Gas Station / Garage",47.42300681455865,-122.29691948044766
+"4bcd459c68f976b0111e6483","Radisson Hotel Seattle Airport","Travel & Transport::Hotel",47.440406646402934,-122.29508936405182
+"4bce4a25c564ef3b1219eef0","Gate C20","Travel & Transport::Airport::Airport Gate",47.4463598362508,-122.30390271249581
+"4bcf3b400ffdce72094cb2c0","Super 8 Motel","Travel & Transport::Hotel::Motel",47.4314702397305,-122.294420185241
+"4bcfc04741b9ef3bbf21f9e5","Seatac Airport - Baggage Claim","Travel & Transport::Airport",47.443627,-122.300821
+"4bd054ae046076b070b76f71","Starbucks","Food::Coffee Shop",47.44164386851262,-122.3003625869751
+"4bd0f22e9854d13af8daf84d","Gate S10","Travel & Transport::Airport::Airport Gate",47.438886383502094,-122.30250835418701
+"4bd1034120cd996005a22e9e","Red Roof Inn","Travel & Transport::Hotel",47.45126404431885,-122.29492263969769
+"4bd1b0fe5e0cce727ad7a184","Seatac Inn","Travel & Transport::Hotel::Motel",47.4490253102552,-122.295857088559
+"4bd24aeacaff9521839ad2f0","Gate C11","Travel & Transport::Airport::Airport Gate",47.44596121920453,-122.30360269546509
+"4bd2526aa8b3a59320c0675f","Sports Page Pub","Nightlife Spot::Bar",47.44553933317861,-122.30103172774776
+"4bd27375462cb713ee85dc07","Gate C2E","Travel & Transport::Airport::Airport Gate",47.44447376863911,-122.30360269546509
+"4bd3c718046076b07cf47671","Gate C9","Travel & Transport::Airport::Airport Gate",47.44573629035488,-122.30366706848145
+"4bd4091f77b29c740f119282","76 Station","Shop & Service::Gas Station / Garage",47.45091217494577,-122.2955005637986
+"4bd5acb2637ba59339c2f670","Seatac Airport - Gate S8","Travel & Transport::Airport::Airport Gate",47.43911859833895,-122.30203628540039
+"4bd749ab304fce726c5133ab","Clarion Hotel","Travel & Transport::Hotel",47.4462570152281,-122.29429833350677
+"4bd8975e2ecdce72c8d8d0f2","Motel 6 Seattle Sea-Tac Airport South","Travel & Transport::Hotel::Motel",47.455390783333335,-122.293048
+"4bd92a6ee914a59321df55fa","AA Baggage Claim","Travel & Transport::Airport",47.4420308710158,-122.300011195211
+"4bd9b2ff2e6f0f474e8b0b08","Alaska Flight 460 to Los Angeles","Travel & Transport::Airport::Plane",47.44527876377106,-122.30202555656433
+"4bdb30e32a3a0f471cdaadb6","Gate S3","Travel & Transport::Airport::Airport Gate",47.438668681161715,-122.3016607761383
+"4bdbcc6b2a3a0f4799d1b0b6","On A Boeing 737","Travel & Transport::Airport::Plane",47.44114844,-122.30377783333333
+"4bdc0cea63c5c9b645462a68","SeaTac Airport InterTerminal Train","Travel & Transport::Airport::Airport Tram",47.4466940452365,-122.30261564254761
+"4bdc255f3904a5931af94c9e","Starbucks","Food::Coffee Shop",47.446739196777344,-122.30032348632812
+"4bdc2887c79cc928cd6085e9","American Airlines Check-in","Travel & Transport::Airport::Airport Terminal",47.44274897618252,-122.30071863454327
+"4bdc40113904a59354584d9e","Gate N6","Travel & Transport::Airport::Airport Gate",47.44798553556963,-122.30156421661377
+"4bdde47e0ee3a593ab122fb0","United Airlines Flight 356","Travel & Transport::Airport::Plane",47.44916049508339,-122.30216010679536
+"4bdef71ac3392d7fe7b39bd5","Prince Of Peace Lutheran Church","Professional & Other Places::Spiritual Center::Church",47.43184638333334,-122.324333
+"4be06f15cb81c9b6f4d8658b","76","Shop & Service::Gas Station / Garage",47.434051716666666,-122.275999
+"4be07105652b0f4723747211","Delta Flight Attendant's Lounge","Professional & Other Places::Office::Coworking Space",47.442735,-122.300546
+"4be15d5bd816c928d9d0efd9","TSA Checkpoint C","Travel & Transport::Airport::Airport Terminal",47.44437988150484,-122.30211958830364
+"4be367b4f07b0f47ed0ff843","Gate C10","Travel & Transport::Airport::Airport Gate",47.44541827919072,-122.30407432885744
+"4be39bb81dd22d7f473b97bd","SEATAC Taxiing","Travel & Transport::Airport::Plane",47.448707266666666,-122.3022965
+"4be479e59026ef3bd5a40a38","Taco Bell","Food::Fast Food Restaurant",47.43419587612152,-122.295303940773
+"4be5b30ed4f7c9b659c62520","Kathy's Dish D'Lish","Food::Café",47.443295,-122.301547
+"4be5ce8d910020a1d486d314","Gate S8","Travel & Transport::Airport::Airport Gate",47.439151253468204,-122.30175197124481
+"4be7720f9a54a593d0f30811","Baggage Claim 3","Travel & Transport::Airport",47.442516274999996,-122.300148
+"4bed46eb9868a593ea1c5d46","Concourse S Terminal","Travel & Transport::Airport::Airport Terminal",47.438741248708595,-122.30235815048218
+"4bedb007e24d20a1f1d47114","Delta Flight 295","Travel & Transport::Airport::Plane",47.439204876371015,-122.30216912811129
+"4bee3dd83686c9b64357246e","Gate S4","Travel & Transport::Airport::Airport Gate",47.43869882160866,-122.30123267182815
+"4bee96913686c9b62fa7246e","Gate A7","Travel & Transport::Airport::Airport Gate",47.44067150871568,-122.2992467880249
+"4beefeb3c80dc928c85327e3","Gate S11","Travel & Transport::Airport::Airport Gate",47.438842843106066,-122.30332374572754
+"4bef3540d1b7d13a777ecdec","Seattle-Tacoma  Airport‎ - DUP DO NOT USE","Travel & Transport::Airport",47.44364658280913,-122.30323791503906
+"4bef422396edc9b61e8c4af2","BA First Class Lounge","Travel & Transport::Airport::Airport Terminal",47.43904800452471,-122.3024845530511
+"4bf0840c17880f471e6e2937","Gate B7","Travel & Transport::Airport::Airport Gate",47.441932678222656,-122.3041000366211
+"4bf24feb52bda593867db2b7","Baggage Claim 5","Travel & Transport::Airport::Airport Terminal",47.44234047343708,-122.30102777481079
+"4bf2cc2bcad2c9288f129a99","Sea-Tac Airport - Baggage Claim","Travel & Transport::Airport",47.443457924570204,-122.29926824569702
+"4bf3e5c1e5eba59304fb1e90","Alaska Airlines Flight AS322 SEA-SJC","Travel & Transport::Airport::Plane",47.446340918540955,-122.30204701423645
+"4bf737a25ec320a18ab286d3","Smoking Area","Professional & Other Places::Building",47.44486900982844,-122.30004734683061
+"4bf81faeb182c9b6dbe7765a","Gate A3","Travel & Transport::Airport::Airport Gate",47.44189058381162,-122.30129599571228
+"4bf822dc5ec320a10f3488d3","Southwest Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.44351230049663,-122.30163574200992
+"4bf82918508c0f4793473e31","Terminal Direct Floor 4","Travel & Transport::Airport",47.443343943397444,-122.30089831337004
+"4bf830cb92d19521992f5a1f","Gate S5","Travel & Transport::Airport::Airport Gate",47.43877027569933,-122.30233669281006
+"4bf98e6fb182c9b6c326795a","Gate A2","Travel & Transport::Airport::Airport Gate",47.442209860716346,-122.3017680644989
+"4bfa8a9c4a67c9288c5e28cf","Alaska Airlines Flight 676 To Denver","Travel & Transport::Airport::Plane",47.448772,-122.301859
+"4bfa8ec3508c0f47522f4031","Gate B5","Travel & Transport::Airport::Airport Gate",47.442195348171815,-122.30396747589111
+"4bfc133de9d8c928ef00b2c7","Gate A9","Travel & Transport::Airport::Airport Gate",47.44005107572216,-122.29830265045166
+"4bfc2ffcda7120a1e0af49fd","Delta Flight 296","Travel & Transport::Airport::Plane",47.439265,-122.302527
+"4bfc8fe7b5cd2d7f5cd031fb","Sea-Tac Airport-DUP DO NOT USE","Travel & Transport::Airport",47.444179,-122.303734
+"4bffe1e7369476b064708e1f","Gate C2C","Travel & Transport::Airport::Airport Gate",47.44570726720745,-122.30405330657959
+"4c03e7c5187ec928d542b67b","Virgin America Flight 753","Travel & Transport::Airport::Plane",47.444836565338214,-122.30186462402344
+"4c05ebce517d0f47634af515","Baggage Claim 10","Travel & Transport::Airport::Airport Terminal",47.44355950985986,-122.3012638092041
+"4c06bbd43cbed13a0bd40bc0","Copperleaf Restaurant","Food::American Restaurant",47.437128,-122.28779245714286
+"4c08c884bbc676b0ad0f47d5","Baggage Claim 2","Travel & Transport::Airport::Airport Terminal",47.44217425072812,-122.30007985527052
+"4c09006abbc676b0f65f47d5","Alaska Flight 494 Seattle To San Diego","Travel & Transport::Airport::Plane",47.445425,-122.295389
+"4c094725340720a121828493","76","Shop & Service::Gas Station / Garage",47.43418740519946,-122.29592169892913
+"4c0948756071a59390a4dd32","Cafe Del Mar","Food::Café",47.44279479980469,-122.3008804321289
+"4c094bd1a1b32d7f066e97f0","Southwest Flight 3162","Travel & Transport::Airport::Plane",47.444401208999004,-122.30248689651489
+"4c096545340720a14fb88493","King County Metro Bus Stop, International Boulevard & 204th St.","Travel & Transport::Bus Station::Bus Line",47.41569,-122.29713
+"4c0969fbbbc676b0452948d5","Gate D10","Travel & Transport::Airport::Airport Gate",47.4460563659668,-122.29911804199219
+"4c0acddba1b32d7f5f059af0","Seatac S Gate Security","Travel & Transport::Airport",47.44245383855516,-122.30130011823825
+"4c0ace89340720a134238793","Seatac S Gate Train","Travel & Transport::Airport::Airport Tram",47.44207488161713,-122.3005537309103
+"4c0c0f826071a5933e39e232","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c1018bdce640f4712643952","Sbarro pizza","Food::Pizza Place",47.44892883300781,-122.28291320800781
+"4c103f35f1b6a593fbad7b27","Des moines creek trail","Outdoors & Recreation::Hiking Trail",47.42231369018555,-122.30578064918518
+"4c1082f63ce120a13642081c","Delta Flight 1660","Travel & Transport::Airport::Plane",47.43897346418601,-122.30100631713867
+"4c11625917002d7f6d1de609","Gate D4","Travel & Transport::Airport::Airport Gate",47.4457255012719,-122.30099576446
+"4c128e35a9c220a1bc33549d","Alaska Airlines Company Store","Shop & Service::Gift Shop",47.41461181640625,-122.29829406738281
+"4c13a39fa5eb76b06138c0b7","Talking Water Fountain","Arts & Entertainment::Water Park",47.441294,-122.303726
+"4c15751082a3c9b61dedfef8","Waji's C Concourse","Food::Chinese Restaurant",47.442264556884766,-122.30379486083984
+"4c16723fdaf42d7f132c4466","Baggage Claim 15","Travel & Transport::Airport::Airport Terminal",47.444023897257225,-122.30100631713867
+"4c16747c1b5cef3b9080eec4","Gate S10","Travel & Transport::Airport::Airport Gate",47.438886383502094,-122.30250835418701
+"4c1a8bb0eac020a1c86f43c2","Virgin America Flight 755","Travel & Transport::Airport::Plane",47.4412915411213,-122.2998675072408
+"4c1c7325b9f876b0b0027c46","Gate B3","Travel & Transport::Airport::Airport Gate",47.44252913568343,-122.30357587337494
+"4c1cf15fb9f876b007b17c46","Baggage Claim 7","Travel & Transport::Airport::Airport Gate",47.442862,-122.300931
+"4c1d1ab6b9f876b016097d46","Delta Flight 183","Travel & Transport::Airport::Plane",47.4441254814539,-122.302830219269
+"4c1e5fd2b306c928ddef66b7","Gate C2H","Travel & Transport::Airport::Airport Gate",47.4459684749578,-122.304224967957
+"4c1ef04163750f476786ba67","Shell Gas Station","Shop & Service::Gas Station / Garage",47.450460383333336,-122.29583101021277
+"4c244fe2f7ced13a05b4226d","Sunset Station Apartments","Residence::Residential Building (Apartment / Condo)",47.44562904092082,-122.29046524278655
+"4c2a439bb1ddc9b65cd352fb","Customs & Border Protection","Travel & Transport::Airport",47.43893399296869,-122.30248844155365
+"4c2a8d2c8ef52d7fad1530ba","Virgin America","Travel & Transport::Airport::Airport Terminal",47.442224373256884,-122.300705909729
+"4c2ab19b57a9c9b616f6f467","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c2ae9d92219c928a5d8a348","Virgin America BSO","Professional & Other Places::Office",47.468791007995605,-122.30435371398926
+"4c2b934e2219c92800d2a448","Seatac Employee Parking Shuttle Shelter 3","Professional & Other Places::Parking",47.468680600488455,-122.30447212122061
+"4c2c8b0bd1a10f47a791f964","United Club","Travel & Transport::Airport::Airport Lounge",47.448442628482894,-122.3022723197937
+"4c2d9e6c3a4d0f472b31e486","Subway","Food::Sandwich Place",47.45941254,-122.291467
+"4c2e2f31987f20a10db64aaa","FAA Control Tower","Travel & Transport::Airport::Airport Terminal",47.45533481782134,-122.30149984359741
+"4c2f9750213c2d7f1b26315d","United Airlines Flight UA 875","Travel & Transport::Airport::Plane",47.44831880910103,-122.30303262189075
+"4c33b6aa66e40f470e77c88b","United Club","Travel & Transport::Airport::Airport Lounge",47.44164386851262,-122.30396747589111
+"4c34e1feed37a59342a66f03","The Runway Grill South Satellite","Food::Burger Joint",47.438884,-122.301698
+"4c35e92b66e40f47d1ddcb8b","Continental Airlines Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.44332731462385,-122.3029375076294
+"4c3bfae74bc9a5933122d271","SeaTac Taxiway","Travel & Transport::Airport",47.445586,-122.296469
+"4c3c0b9786ce328f8e47ab2d","Baggage Claim 9","Travel & Transport::Airport::Airport Terminal",47.443385363528925,-122.30197191238403
+"4c3faf79520fa593dc05c7ac","30,000 Feet","Outdoors & Recreation::Other Great Outdoors",47.44648649884196,-122.3027495495523
+"4c40782e3735be9a0ddb16a4","SWA - Southwest Airlines","Travel & Transport::Airport::Plane",47.44151294231415,-122.303559
+"4c41f622520fa593266ecaac","Baggage Claim 13","Travel & Transport::Airport::Airport Terminal",47.443986,-122.301086
+"4c4216c16c1a952148bcb96a","Alaska Airlines Flight 2, SEA-DCA","Travel & Transport::Airport::Plane",47.44597,-122.304568
+"4c432b62d7fad13ad11f0ada","Gate C2F","Travel & Transport::Airport::Airport Gate",47.444497,-122.303582
+"4c433d33cc410f4747e8ad61","Gate S1","Travel & Transport::Airport::Airport Gate",47.43847893979662,-122.30212138280459
+"4c44e6ebdcd61b8d7a077c56","Starbucks","Food::Coffee Shop",47.443659610284264,-122.30347499888353
+"4c45adcbf799e21e8a80afa2","Gate A13","Travel & Transport::Airport::Airport Gate",47.43844223022461,-122.29780578613281
+"4c4888941ddec92854e2a032","Rent A Wreck","Travel & Transport::General Travel",47.42228150367737,-122.29716252
+"4c493fbafbafc92876b0aada","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c49e4d0b5eec9b67a105ea5","Bodyshop Payphone Hallway","Travel & Transport::Airport::Airport Food Court",47.442235,-122.302607
+"4c4b36005609c9b62e48d390","The Flight Deck","Shop & Service::Food & Drink Shop::Food Court",47.44208642,-122.30280176666666
+"4c4b41fd9c8d2d7f2b2bb96a","TSA Checkpoint C","Travel & Transport::Airport::Airport Terminal",47.44437988150484,-122.30211958830364
+"4c4ccebd4237be9aae4aee12","Delta Flight 2237","Travel & Transport::Airport::Plane",47.43904217607662,-122.30191331283456
+"4c51072e991c20a1de8e1d87","Seatac Airport Security Line","Travel & Transport::Airport",47.41483690794698,-122.30204978602127
+"4c51176ed2a7c9b67cdd9e10","United Flight 262","Travel & Transport::Airport::Plane",47.448918,-122.302578
+"4c522ee8250dd13aa1cb6d7e","Gate A5","Travel & Transport::Airport::Airport Gate",47.441259280592035,-122.30040550231934
+"4c53467772cf0f4765a696d2","Delta Flight 2768","Travel & Transport::Airport::Plane",47.447029,-122.301042
+"4c556c9da724e21e058c0cf8","Gate S16","Travel & Transport::Airport::Airport Gate",47.43853683833342,-122.30253618913581
+"4c566cf412f0d13a16ee04ad","EVA Airways Flight BR25","Travel & Transport::Airport::Plane",47.43912337208324,-122.3027045836561
+"4c58c16004f9be9a10d9ed60","British Airways Flight BA048","Travel & Transport::Airport::Plane",47.43909926026164,-122.30292869480594
+"4c5b7322857ca5939ba9c7cb","Happy Teriyaki","Food::Asian Restaurant",47.44768524169922,-122.29562377929688
+"4c5d83d86ebe2d7f2bf8d22e","Alaska Airlines Flight 742","Travel & Transport::Airport::Plane",47.4465669983935,-122.299984859944
+"4c6089a21e5cd13a49f3a1ed","Gate A10","Travel & Transport::Airport::Airport Gate",47.43948143196977,-122.29799151420593
+"4c614f851e5cd13a98a9a3ed","Alaska Airlines Flight 220","Travel & Transport::Airport::Plane",47.4464088151978,-122.301138372974
+"4c62b62958810f47f0cb071e","Gate B15","Travel & Transport::Airport::Airport Gate",47.44091796875,-122.3040542602539
+"4c64388158810f47d19d0b1e","Delta Flight 183","Travel & Transport::Airport::Plane",47.44412548145392,-122.3028302192688
+"4c65ba16aebea593293a71d0","Gate A8","Travel & Transport::Airport::Airport Gate",47.44043204421676,-122.29886054992676
+"4c676e239cb82d7febe693d2","Doubletree by Hilton - Gym","Shop & Service::Gym / Fitness Center::Gym",47.43664525451259,-122.29337843955616
+"4c693d568e7c0f47030cdf0f","On a plane","Travel & Transport::Airport::Plane",47.447768,-122.30118
+"4c6acd083bad2d7f5a5bb3ee","Gate A1","Travel & Transport::Airport::Airport Gate",47.442500110766495,-122.30220794677734
+"4c6c2523a437224b398a29b1","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c6c7d11463537042bad06bc","Flight 2573","Travel & Transport::Airport::Plane",47.444356083869934,-122.303858
+"4c6d64f423c1a1cd88201ccf","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c6e1826e6b7b1f7efd8ab8e","Sea-tac Runway","Travel & Transport::Airport::Plane",47.444333,-122.30637483
+"4c6f09bbb5a5236a2e054c52","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.44364658280913,-122.30259418487549
+"4c6f7e1bd274b60c4bedd60d","Courtesy Vehicle Island 3","Travel & Transport::Airport::Airport Terminal",47.442906458146375,-122.30035185813904
+"4c729b697121a1cd4ce662d1","Gate A10","Travel & Transport::Airport::Airport Gate",47.43948143196977,-122.29799151420593
+"4c75d54bff1fb60ce08af7a7","DoubleTree by Hilton Hotel Seattle Airport","Travel & Transport::Hotel",47.43540303796205,-122.29388236999512
+"4c76a79cff1fb60c4591f9a7","Seattle To Dallas/Fort Worth Flight","Travel & Transport::Airport::Airport Terminal",47.4401252731763,-122.298857825184
+"4c76e74859a3236abc21c018","IcelandAir Flight 680","Travel & Transport::Airport::Plane",47.43854522705078,-122.3039321899414
+"4c780a2197028cfade6dd6fe","Gate C2K","Travel & Transport::Airport::Airport Gate",47.444851,-122.303789
+"4c78101d97028cfa5e83d6fe","Horizon Flight 2460","Travel & Transport::Airport::Plane",47.44436,-122.30361328
+"4c7c7a8aaa3ba0932408ab74","SeaTac Airport  InterTerminal Train","Travel & Transport::Light Rail",47.4466667175293,-122.30203247070312
+"4c7d63209221236af3167f3d","B-Exit From The Airport","Travel & Transport::Airport::Airport Terminal",47.4421669411502,-122.29859465293877
+"4c856075d4e23704d95d8288","Motel 6","Travel & Transport::Hotel::Motel",47.43322987106534,-122.2744022314899
+"4c85be1047cc224b1ffca39f","30,000 Feet","Outdoors & Recreation::Other Great Outdoors",47.44648649884196,-122.3027495495523
+"4c8913bbed0aa1434ca3aef3","Virgin America To LA","Travel & Transport::Airport::Plane",47.44320599318773,-122.2976019003401
+"4c8a4f9f9ef0224bcf93597b","Gate A11","Travel & Transport::Airport::Airport Gate",47.43906054472581,-122.29800224304199
+"4c9933c7b8e9224bdd43433d","Asiana Airlines (OZ) Check-In Area","Travel & Transport::Airport::Airport Terminal",47.442108154296875,-122.29842376708984
+"4c9ab88978fc236a454c3897","76 Station","Shop & Service::Gas Station / Garage",47.422956,-122.295833
+"4c9c30790e9bb1f74fd4d15f","RainFurrest","Arts & Entertainment::Zoo",47.44451539295604,-122.29303706728822
+"4c9cb4f654c8a1cd05817c4b","Virgin America Flight 780","Travel & Transport::Airport::Plane",47.4408531227958,-122.300399843576
+"4c9efc67031337044b836ed5","Concourse C Terminal","Travel & Transport::Airport::Airport Terminal",47.44609907834662,-122.30379581451416
+"4ca0eba346978cfa9bd4b77f","Gate C2B","Travel & Transport::Airport::Airport Gate",47.444141,-122.303484
+"4ca51d12f47ea14384505421","7-Eleven","Shop & Service::Gas Station / Garage",47.4453711291568,-122.29195398171
+"4cacd1f014c33704a89ef33b","Angle Lake","Outdoors & Recreation::Lake",47.43172691185868,-122.28569407582101
+"4cb0114fc5e6a1cd494dd2f6","KCM RapidRide A-Line","Travel & Transport::Bus Station::Bus Line",47.4340956376834,-122.295710540582
+"4cb2fe0feb65b1f7fc2a80cd","Delta Airlines Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.439360692977154,-122.30078633910402
+"4cb77ea3f50e224b3f87dffb","Seattle Body Scanner","Travel & Transport::Airport::Airport Terminal",47.44375346235538,-122.30187842458169
+"4cbbfc744352a1cda6c49bf5","Hilton Seattle Airport & Conference Center","Travel & Transport::Hotel",47.44450569484904,-122.29568481445312
+"4cbe16b11c6c6dcb63dc655e","Gate C9","Travel & Transport::Airport::Airport Gate",47.44573629035488,-122.30366706848145
+"4cca0667c010f04d1798eccc","Sea-tac Int'l-terminal Arrivals","Travel & Transport::Airport::Airport Terminal",47.45408630371094,-122.30066680908203
+"4ccf6c272fd9b60cca7d7beb","Virgin America Flight 796","Travel & Transport::Airport::Plane",47.440547137243016,-122.30061008278255
+"4ccf70089d87224b08634f3b","I'm On A Tram","Travel & Transport::Light Rail",47.44562911987305,-122.29935455322266
+"4cd31d7f08f48cfab3559e85","FlightSafety SEA Seattle-Tacoma Airport","College & University::Trade School",47.430806,-122.315897
+"4cd561eddfb4a1cdf8a6585c","Hudson News - SeaTac Food Court","Shop & Service::Bookstore",47.44376982134056,-122.30348593166049
+"4cd963dba99d370498c40ace","N Gate Security","Travel & Transport::Airport::Airport Terminal",47.44501676015985,-122.3013035926775
+"4cdb50764006a143e8ded7b2","Quiznos","Food::Sandwich Place",47.44181848670221,-122.30366891161555
+"4cde998bc4f6a35deacbca6c","Gate N10","Travel & Transport::Airport::Airport Gate",47.44834999768193,-122.30294950002462
+"4ce0df50aba88cfac3fd51d7","Jetblue flight 498 SEA to BOS","Travel & Transport::Airport::Plane",47.43954352570072,-122.29863687720031
+"4ce46cd8e860a14392cb8ca1","Mocha Mojo","Food::Coffee Shop",47.462,-122.323311
+"4ce560a67785a1cd917119b9","Alaska Airlines Flight 220","Travel & Transport::Airport::Plane",47.44640881519784,-122.30113837297402
+"4ce8b32a8ef78cfa35979c9b","The Tram SEA","Travel & Transport::Subway",47.444517707793594,-122.30058604910148
+"4ceab2950f196dcb2a6653ae","Seattle's Best Coffee","Food::Café",47.4388530051725,-122.301944
+"4ceabd61595cb1f7c599d514","Gym At The Hilton Airport","Shop & Service::Gym / Fitness Center::Gym",47.44455576700094,-122.29484839177084
+"4cf115d6cc61a35d09a3129e","Gate A9","Travel & Transport::Airport::Airport Gate",47.44005107572216,-122.29830265045166
+"4cf460ad8333224b40bc1a8e","Flying Through A Cloud","Outdoors & Recreation::Other Great Outdoors",47.44653023529375,-122.30185594861115
+"4d0793ed54d0236a4df3fed5","Gate C2D","Travel & Transport::Airport::Airport Gate",47.444337,-122.30349
+"4d0c29dd7d28721eb056f120","Ivars Fish Bar","Food::Seafood Restaurant",47.44832229614258,-122.30830383300781
+"4d103c7d6331a093bfa35594","Baggage Claim 4","Travel & Transport::Airport",47.442444,-122.300207
+"4d127fe81f95236acb5b3e06","Alaska Airlines Flight 14","Travel & Transport::Airport::Plane",47.44779689289189,-122.30145692825317
+"4d1a81ffdd3637047e0a5c1a","Ivar's Fish Bar","Food::Seafood Restaurant",47.44707107543945,-122.30357360839844
+"4d264f0dfb8e5941f16d4a54","Fox Rent A Car","Travel & Transport::Rental Car Location",47.412342,-122.2973370552063
+"4d3d03a48edf3704e307b6a5","Downtown Airporter","Travel & Transport::General Travel",47.4436538388817,-122.30097413063
+"4d42197eb0c35481b8b8dcf1","Bagwell Of The Seatac Airport","Travel & Transport::Airport",47.441857471402294,-122.29935378531879
+"4d53116f8fd16ea8a5b216db","Fitness Center Marriott SeaTac","Shop & Service::Gym / Fitness Center",47.444109,-122.291234
+"4d561fa5611aa35ded983d39","Jet Blue Flight 82","Travel & Transport::Airport::Plane",47.43940211666666,-122.29833736666667
+"4d5db843868ba35d5e2b73fa","Baggage Claim 14","Travel & Transport::Airport",47.444110969437844,-122.30096340179443
+"4d63176d57616dcb4603a4f3","Seattle Taproom","Nightlife Spot::Pub",47.44788360595703,-122.3015365600586
+"4d63b50879deb1f76b381d11","Gate B14","Travel & Transport::Airport::Airport Gate",47.44084566403031,-122.30390310287476
+"4d6ec8341425a1433f88141f","The Rock Locker","Nightlife Spot::Strip Club",47.4407491,-122.29551885000001
+"4d702b868781b60c404d4835","Gate N8","Travel & Transport::Airport::Airport Gate",47.447691726153934,-122.30193335553274
+"4d77de4f7484b60ce01d43d9","Pilot House","Food::Sandwich Place",47.443412,-122.301319
+"4d83cf615ad3a09320c5c2fd","All Star Grocery","Shop & Service::Smoke Shop",47.4225628625702,-122.296818821644
+"4d86e63761676dcb399aa9e4","Pool At The Holiday Inn","Travel & Transport::Hotel::Hotel Pool",47.44682374378126,-122.29602212492875
+"4d87a11f40a7a35d77ee4bbe","Subway","Food::Sandwich Place",47.436767578125,-122.2958755493164
+"4d8bc5b1ace98cfab7335d9a","Alaska Airlines Flight 865","Travel & Transport::Airport::Plane",47.44630813598633,-122.30491638183594
+"4d8d6ef66174a0933080b1e3","Wally's Shuttle","Travel & Transport::General Travel",47.43693324811564,-122.2961038109357
+"4d9476f81646a35dda8b36a3","Gate N11","Travel & Transport::Airport::Airport Gate",47.448543,-122.303388
+"4d94f18e9079b1f78aadd609","Gate N16","Travel & Transport::Airport::Airport Gate",47.44891669117435,-122.30236576885073
+"4d94f59a577cba7adf0c7579","Gate N3","Travel & Transport::Airport::Airport Gate",47.448056276399335,-122.30122223496437
+"4d97d9f8647d8cfa1021e13d","Gate N1","Travel & Transport::Airport::Airport Gate",47.4482612428816,-122.3018217086792
+"4d9b3f79335ab60c934cf6f9","Sea-Tac Airport Parking Garage","Professional & Other Places::Parking",47.44341438795746,-122.29999780654906
+"4d9ba89c9186370491b227f9","Bank Of America","Shop & Service::Bank",47.4538178938462,-122.301612271289
+"4d9e6536640b54815592ca2d","Gate N9","Travel & Transport::Airport::Airport Gate",47.44794200270403,-122.30220794677734
+"4da066f2a77d816e6b2b1709","Gate N14","Travel & Transport::Airport::Airport Gate",47.44852243794931,-122.3023796081543
+"4da4a1020f578cfab59dd318","Mango Thai Cuisine & Bar","Food::Thai Restaurant",47.436205836948744,-122.2959321937557
+"4da4c8127aee5481b54e05ff","Seattle-Tacoma Children's Play Area","Travel & Transport::Airport",47.44318771362305,-122.30152130126953
+"4da84fe24b22e9f40e0185ce","Starbucks","Food::Coffee Shop",47.443681,-122.303464
+"4dab52eef7b145b370244c4a","Maki Of Japan","Food::Japanese Restaurant",47.44369,-122.303433
+"4dabaeb36e81162ae7f2d8c2","TCsGotIT.com","Shop & Service::Mall",47.41620635986328,-122.28455352783203
+"4dafab88a86e9639ef525e41","Slowest Line For TSA Checkpoint","Travel & Transport::Airport",47.44364929199219,-122.30187225341797
+"4db57fa2f7b121c29f5f5d0e","TSA Checkpoint A","Travel & Transport::Airport::Airport Terminal",47.44222856151724,-122.30101294683551
+"4dbb039c43a1d8504b6439e4","Bremerton Kitsap Airporter","Travel & Transport::Bus Station",47.4411085867978,-122.29917578396
+"4dbb14616a23e294ba0bb34e","Hudson News","Shop & Service::Gift Shop",47.44185354457052,-122.3002880362799
+"4dbb172fa86e0e98a1c1731b","Baggage Claim 16","Travel & Transport::Airport::Airport Terminal",47.44437639801546,-122.30064518399993
+"4dbde973a86e0e98a206a211","Waji's at Sea-Tac","Food::Asian Restaurant",47.445762634277344,-122.3038101196289
+"4dbe55466e810768bf8b3fee","SEATAC Airport USO","Travel & Transport::General Travel",47.44170379638672,-122.30378723144531
+"4dc2169f7d8b686fa4762bf8","Delta Air Lines Reservations Office","Professional & Other Places::Office",47.4424351469353,-122.295049315934
+"4dc5fa2918387d1bd54d2289","Pizza Time","Food::Pizza Place",47.422332763671875,-122.29596710205078
+"4dc7444dd164eb9ca01cc42c","Johnson Pit #30, Earthworks Park","Outdoors & Recreation::Park",47.40788857162453,-122.28447749109881
+"4dc7f612fa76d685ce1cea88","Concourse N Terminal","Travel & Transport::Airport::Airport Terminal",47.44837732973848,-122.30233669281006
+"4dc8ba50fa761aaccadef6ac","Juarez, Mexico","Travel & Transport::Hotel::Resort",47.4388909518478,-122.301386653275
+"4dd0d6aed4c065592fb836ea","Gate D14","Travel & Transport::Airport::Airport Gate",47.4410285949707,-122.30322265625
+"4dd1889fd16465f3f93e7d7b","Alaska Oversize Baggage Claim","::Travel & Transport",47.44409407,-122.30103514
+"4dd3f347d1643acaa1eca103","Gate N13","Travel & Transport::Airport::Airport Gate",47.4488881,-122.302708
+"4dd40d4b813042bf1751b385","Crypticon Seattle Horror Convention","Arts & Entertainment::General Entertainment",47.444718,-122.293158173561
+"4dd919712271c5d36d635cfa","SeaTac Terminal Train A to S/B","Travel & Transport::Airport::Airport Tram",47.4420393085401,-122.301147225429
+"4dde49bd7d8bb03c06afbf1c","United Airlines - Check-in Area","Travel & Transport::Airport::Airport Terminal",47.44445925671908,-122.30107069015503
+"4ddf1cffd22d728b20c10728","Bellair Airporter Shuttle Door 00","Travel & Transport::Bus Station::Bus Line",47.44137349,-122.29934668
+"4de04fd422713271e2b1ae95","Dollar Car Rental","::Travel & Transport",47.44487975694927,-122.3003578323593
+"4de6e3262271df8061a8f83e","Hilton Parking Structure","Professional & Other Places::Parking",47.444610595703125,-122.29315185546875
+"4dfa6252fa7667368a6eaa49","Hudson News","::Shop & Service",47.43891541041273,-122.30177879333496
+"4dfaae4962e19b42f1e20758","Alaska Airlines Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.444576165399575,-122.30129986271832
+"4dffc127aeb7fa1f7b0560c8","The Apartment","Residence::Residential Building (Apartment / Condo)",47.442930383333334,-122.28576996666666
+"4e01243ea8091704343803ee","Port of Seattle Conference Center","Professional & Other Places::Convention Center",47.4420051574707,-122.30032348632812
+"4e0d178514956c6284ed81b7","Alaska Airlines Flight 302","Travel & Transport::Airport::Plane",47.446285247802734,-122.30331420898438
+"4e130ecf45dde6c62de187a6","Gate N12","Travel & Transport::Airport::Airport Gate",47.448775360564525,-122.30345026300874
+"4e1f807fb61c8ce9c7cd9441","next to a hot chick","Travel & Transport::Airport::Airport Gate",47.440975189208984,-122.29949188232422
+"4e20488ea80968cf3e32fc00","Delta Flight 2314","Travel & Transport::Airport::Plane",47.4440384092973,-122.303130626678
+"4e23df0ad22d0a3f5a104cf0","Shuttle Express Van 919","Travel & Transport::Taxi",47.445799,-122.296377
+"4e261b17ae609b2f94e44b6d","Flyin High in da Sky!","Travel & Transport::Airport::Plane",47.4444465637207,-122.30313873291016
+"4e28950c62846e3862e93306","Seattle-Tacoma Int'l Airport (SEA/KSEA) Runway 16L/34R","Travel & Transport::Airport::Airport Gate",47.44805809026552,-122.30804443359375
+"4e29cb9cd164223a696fa8f8","Security Checkpoint 3","Travel & Transport::Airport::Airport Gate",47.44348394702818,-122.30235779616531
+"4e2a1465a809f1b1640148e8","Virgin America From Seattle To LA","Travel & Transport::Airport::Plane",47.4412841796875,-122.30087280273438
+"4e2a671452b1b8f1985670af","Fire Pit Regroup","Professional & Other Places::Office::Coworking Space",47.4444465637207,-122.2940902709961
+"4e31c4302fb6ede816e38cff","Redbox","Shop & Service::Video Store",47.4214546357563,-122.294327588055
+"4e38726fae60f589a5d17814","Seattle Seahawks 12th Man Club","Nightlife Spot::Sports Bar",47.4482307434082,-122.3020248413086
+"4e388feeaeb72d0659600e58","Alaska Airlines Flight 618","Travel & Transport::Airport::Plane",47.446055543919734,-122.30388164520264
+"4e3a89b7d4c05163b450a8ae","Security Checkpoint 2","Travel & Transport::Airport::Airport Terminal",47.4423464732261,-122.301006746029
+"4e3c66b652b1a04aff0a259d","Delta Flight 40","Travel & Transport::Airport::Plane",47.44335174560547,-122.2934341430664
+"4e3c9e7b18a83d5b28399c1b","I'm On A Plane!!","Travel & Transport::Airport::Plane",47.44001770019531,-122.3025894165039
+"4e3dadadd164b52911b0a6b2","JetBlue Flight 295 SeaTac To Long Beach","Travel & Transport::Airport::Plane",47.440014,-122.301338
+"4e4149021f6e54050be7ac1c","gogo Inflight Internet","Travel & Transport::Airport::Plane",47.439396,-122.302112
+"4e414c0ab0fb1399f6eaaafe","Seattle Taproom","Travel & Transport::Airport::Airport Food Court",47.442834285894655,-122.30196160693268
+"4e49a9ebae6014a2fdc93577","Swissport SeaTac Airport","Travel & Transport::Airport::Airport Terminal",47.4636141748192,-122.300463555456
+"4e4c423c18a822288dd0428f","The Ram At Kent Station","Food::Brewery",47.442649841308594,-122.30032348632812
+"4e4dfd8281dcf21a878d92f8","United Airlines - Global Services","Professional & Other Places::Office",47.448731030301,-122.300700545311
+"4e4f4e3b18a8af30fd83d337","In The Sky","Travel & Transport::General Travel",47.4600577739536,-122.306327805866
+"4e51284c7d8bd425e4a748c8","AeroParking","Travel & Transport::General Travel",47.416126188724874,-122.29897085345767
+"4e518f88ae6051db8dea7055","I'm on ze plane","::Travel & Transport",47.446891,-122.302192
+"4e52f3191495a46b65b1c2ec","YoPop","Food::Dessert Shop",47.43693161010742,-122.27091979980469
+"4e55c4bffa76a1a4315bb5ba","Up in the air","Outdoors & Recreation::Other Great Outdoors",47.44449327345368,-122.30228893491906
+"4e588be662e1de72f6e5921d","Bustani Restaurant","Food::African Restaurant",47.45626449584961,-122.29316711425781
+"4e59c3f0d4c0ba8c11a37d5c","Alaska Airlines Flight 536","Travel & Transport::Airport::Plane",47.446380615234375,-122.30152130126953
+"4e656673d164ddd5e70811e7","JetBlue Flight 293 Seattle > Long Beach","Travel & Transport::Airport::Plane",47.43958282470703,-122.29843139648438
+"4e660d5e1838ad3d1057b96f","Hudson News","Shop & Service::Convenience Store",47.44158009,-122.30351698
+"4e664f2b483bd9a975f65421","On A Plane","Travel & Transport::Airport::Plane",47.45317077636719,-122.3099136352539
+"4e66c522aeb7e985aa776014","E-Z Rent-A-Car","Travel & Transport::Rental Car Location",47.436567652402,-122.296106347798
+"4e750d22b61c22c638026de5","In The Air!","Travel & Transport::Airport::Plane",47.440934,-122.30311
+"4e763fc3aeb780be0a95c0c6","Courtesy Vehicle Island 1","Travel & Transport::Airport::Airport Terminal",47.44433590523738,-122.30055570602417
+"4e7790bb1838f9188ac3b046","Lufthansa Check-In","Travel & Transport::Airport",47.441532135009766,-122.3001480102539
+"4e790029227113208a7deeeb","RainFurrest","Professional & Other Places::Convention Center",47.44446337223053,-122.295064
+"4e7b8b0f52b1ac55f1d68a6b","Room 366","Nightlife Spot::Gay Bar",47.44448471069336,-122.29407501220703
+"4e7b9153483b4d5abfcde54a","Phenique's Liquor Den","Nightlife Spot::Cocktail Bar",47.4442138671875,-122.29367065429688
+"4e7d4f27f790851893adf660","Seatac Liquor & Wine","::Shop & Service",47.4357536556179,-122.29613463718263
+"4e8136fd9adf504a0e0b944b","Alaska Airlines Flight 478 SEA to LAX","Travel & Transport::Airport::Plane",47.44537353515625,-122.3065185546875
+"4e846e6bf5b97d6e8dee3e14","Alaska Airlines Flight 232","Travel & Transport::Airport::Plane",47.4460700553994,-122.303881645203
+"4e8a770830f82dd42bb1fb95","#ZomBcon11","Professional & Other Places::Event Space",47.4444591,-122.29475268
+"4e90d9469a52db7dba714e28","SeaTacPark","Professional & Other Places::Parking",47.42207912635743,-122.29861398291716
+"4ea1b0256da1455cac08a94b","Starbucks","Food::Coffee Shop",47.441504141777735,-122.30374341694817
+"4ea2070c2c5b5cb4f3d31a28","Baggage Claim 33","Travel & Transport::Airport",47.438742,-122.302611
+"4ebd2164991139f612baf437","Sea-Tac Alaska Airline","Travel & Transport::Airport::Airport Terminal",47.444150430480896,-122.3011239566764
+"4ebd2951b803c81b9262bdfd","On the plane","Travel & Transport::General Travel",47.44883000894947,-122.30261848871599
+"4ec1da840aaf6450bb9c5f14","Public Transit 1","Travel & Transport::Bus Station",47.4414670485549,-122.29924794716
+"4ec5107a02d54e7047212066","Light Rail - Northbound","Travel & Transport::Light Rail",47.44545777044011,-122.29689710389938
+"4ed5a7a80e61cbb938ef805e","Alaska Air Customer Service Concourse D","Travel & Transport::General Travel",47.4385067843305,-122.31937937202
+"4ed9098002d5244e2ecb0159","Delta Air Lines Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.44305336744102,-122.30099192834992
+"4edcd995775bcc53fd6d27d4","Starbucks @ C Exit","Food::Coffee Shop",47.442569732666016,-122.30187225341797
+"4ee548f09a52c1dadb17f933","Sea-Tac Airport Central Food Court Lounge","Travel & Transport::Airport::Airport Lounge",47.443671841068,-122.30339858192683
+"4ee681a229c220f973a671f7","Starbucks on A Concourse","Food::Café",47.4443995992455,-122.300897824304
+"4eecbe78722ea77616c3b0a8","Dungeness Bay Seafood House","Food::Seafood Restaurant",47.43879941485,-122.30186326614738
+"4ef28d31b634355dedd929f9","First Class ... Baby! :-)","Travel & Transport::Airport::Plane",47.449214,-122.302744
+"4ef3a839d3e32dc399010039","The Break Room","Professional & Other Places::Office::Cafeteria",47.440734731998,-122.303682407251
+"4ef5d53629c26831881c195f","American Airlines Flight 2224 To DFW","Travel & Transport::Airport::Plane",47.4372406005859,-122.301361083984
+"4ef8889b7ee5bf79948108fc","SEA to DFW","Travel & Transport::Airport::Plane",47.4553402,-122.3244621
+"4f01f378490182a1a98e8743","Alaska Airlines Flight 606","Travel & Transport::Airport::Plane",47.4465698906912,-122.302665217902
+"4f0da38fe4b0254b4cf166f0","The Citizen Hotel","Travel & Transport::Hotel",47.446550443792,-122.303017517884
+"4f1984cee4b0338aee4bd04b","Sitting On The Tarmac","Travel & Transport::Airport::Plane",47.446661,-122.303967
+"4f19a9fbe4b0674e00f95e1d","Wolfgang Puck","Nightlife Spot::Bar",47.44534634018729,-122.30375888727333
+"4f19b3a8e4b08fa23fee539e","Alaska Airlines Gate N","Travel & Transport::Airport::Airport Gate",47.4467547327946,-122.30292305402
+"4f1fb1a8e4b0bf9c51dc65c7","Delta Sucks","Travel & Transport::Airport",47.4461228230101,-122.300338313864
+"4f289ad2e4b018a0a058ab44","BA48 SEA-LHR","Travel & Transport::Airport",47.439029693603516,-122.30268096923828
+"4f308d76e4b0224b4b037253","Baggage claim 15","Travel & Transport::Airport::Airport Terminal",47.4444356495446,-122.300834971668
+"4f30f570e4b0bae09544cd09","Talking Fountain","Travel & Transport::Airport::Airport Food Court",47.446108949494,-122.303788216291
+"4f3479efe4b0aa1d1aa1aa60","On The Plane","Travel & Transport::Airport::Plane",47.446393,-122.300009
+"4f39619fe4b0d408a67a734e","I'm On A Plane","Travel & Transport::Airport::Plane",47.440728,-122.303459
+"4f3d14cae4b075aab234a240","SeaTac Rental Car Facility","Travel & Transport::Rental Car Location",47.46097029613595,-122.29376742416001
+"4f3d541be4b08f6e58be9336","Virgin America Ticket Counter","Travel & Transport::Airport::Airport Terminal",47.44322192174455,-122.3010895124341
+"4f50e934e4b062d9da66d679","On the Plane (SEATAC)","Travel & Transport::Airport",47.4395192545969,-122.30227597079
+"4f5bd6cce4b0c83982eee709","Pat Ryan Field","Outdoors & Recreation::Athletic & Sport",47.476657,-122.308221
+"4f6201c7e4b0deb11bc37c87","Delta 2214","Travel & Transport::Airport",47.4384364917982,-122.301419351041
+"4f6c0df9e4b0e0075942c996","SEATAC Exir Door 20 - Curbside","Travel & Transport::Airport",47.4442673237695,-122.300888084214
+"4f6fbef3e4b02781d5fb13d3","double tree hotel pool","Travel & Transport::Hotel::Hotel Pool",47.4362670119873,-122.293941572652
+"4f73618fe4b00da52b549d9a","Alaska Airlines Flight 38","Travel & Transport::Airport::Plane",47.4462547302246,-122.304023742676
+"4f738bc1e4b060af1b34e691","Link LRV 149","Travel & Transport::Light Rail",47.462028503418,-122.294639587402
+"4f789b6ae4b0cd7a3d111d69","Norwescon","Arts & Entertainment::General Entertainment",47.4353449802493,-122.293796539307
+"4f80bd97e4b00d748212c41e","Norwescon Party Wing","Nightlife Spot::Other Nightlife",47.4370322258791,-122.292130338075
+"4f91656ae4b07256ee63e7e1","United Airlines Flight 992","Travel & Transport::Airport::Plane",47.4449544337038,-122.300935667967
+"4f9446b8e4b02d4703caf58f","sunset park","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.48003311182204,-122.31253342335498
+"4f98959ae4b0f8d4541b9e5e","alaska Airlines Flight 678","Travel & Transport::Airport::Plane",47.443755,-122.300541
+"4f99efb9e4b066b3d2d109b5","Alaska Airlines, System Operations Control (SOC)","Professional & Other Places::Office::Coworking Space",47.43174886134033,-122.29933841297604
+"4f9ab1dcd4f2465542bc683c","Casa Del Agave Bar & Casual Dine Restaurant","Nightlife Spot::Pub",47.442013390536,-122.303505015339
+"4f9ab1dcd4f2465542bc6845","Seattle Seahawks 12 Club","Nightlife Spot::Sports Bar",47.44842636047804,-122.30224643307817
+"4fa3c8afe4b0bbcd48a8f52c","ASIG","Professional & Other Places::Office::Coworking Space",47.4392494095326,-122.315475523437
+"4fb57148e4b0ba724f743508","Enterprise Rent-A-Car","Travel & Transport::Rental Car Location",47.461351335659714,-122.29292426816451
+"4fb70041e4b06c5b8f4c87a8","TSA Pre Check","Travel & Transport::Airport",47.44462104824555,-122.30146396280465
+"4fbec7dce4b0b0419aafec60","back yard","Outdoors & Recreation::Garden",47.45861622961501,-122.31982975589231
+"4fc36b4de4b074b879e4e884","Secret Squirrel HQ","College & University::College Lab",47.4444137073463,-122.300167520297
+"4fd2f600e4b0b916ea04f277","Link Light Rail to International District / Chinatown Station","Travel & Transport::Light Rail",47.44532163725,-122.296790806691
+"4fd53497e4b0a071e1fc6e82","SeaTac N Gate Train","Travel & Transport::Light Rail",47.442851,-122.300996
+"4fdf9dc1e4b0ae10129dbb2a","Hampton Inn And Suites","Travel & Transport::Hotel::Hotel Pool",47.43299862989967,-122.29731589333468
+"4fe7dbdde4b0972a1dc05afc","seatac airport arrival pickup point","Travel & Transport::General Travel",47.44369894429244,-122.3010316628764
+"501590b2e4b02c1e0cc527a5","Ken's Baggage & Frozen Fish Storage","Shop & Service::Storage Facility",47.44394035853308,-122.30136569723476
+"5063514fe4b0857a7f338eb5","RainFurrest 2012","Professional & Other Places::Convention Center",47.44455453202145,-122.29504340758324
+"50928d7ce4b0b512e26d916b","Beecher's Handmade Cheese & Caffe Vita","Food::Café",47.44465655837243,-122.30357319232581
+"50b95633e4b097fc6c924b14","THE SKY","Outdoors & Recreation::Scenic Lookout",47.43925514221155,-122.3009362969029
+"50c36d59e4b0300631a4a7d3","The Coffee Bean and Tea Leaf","Food::Coffee Shop",47.44012586826046,-122.29845272786665

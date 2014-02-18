@@ -1,0 +1,900 @@
+Topic 0
+---------------
+Professional & Other Places::Office --- 0.1314566821535927
+Outdoors & Recreation::Park --- 0.0440010931948616
+Food::Italian Restaurant --- 0.0330691445750202
+Outdoors & Recreation::Playground --- 0.027603170265099505
+Professional & Other Places::Office::Coworking Space --- 0.027603170265099505
+Nightlife Spot::Lounge --- 0.027603170265099505
+Food::Breakfast Spot --- 0.022137195955178813
+Shop & Service::Salon / Barbershop --- 0.022137195955178813
+Travel & Transport::Hotel --- 0.022137195955178813
+Shop & Service::Paper / Office Supplies Store --- 0.022137195955178813
+Outdoors & Recreation::Dog Run --- 0.022137195955178813
+Professional & Other Places::Office::Tech Startup --- 0.022137195955178813
+Food::Sandwich Place --- 0.022137195955178813
+Food::Coffee Shop --- 0.022137195955178813
+Professional & Other Places::Building --- 0.016671221645258118
+
+Topic 1
+---------------
+Travel & Transport::Hotel --- 0.03694631557460665
+Professional & Other Places::Office --- 0.03694631557460665
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.03694631557460665
+Shop & Service::Electronics Store --- 0.032863849765257844
+Shop & Service::Cosmetics Shop --- 0.032863849765257844
+Residence::Residential Building (Apartment / Condo) --- 0.032863849765257844
+Food::American Restaurant --- 0.028781383955909044
+Food::Thai Restaurant --- 0.024698918146560243
+Nightlife Spot::Bar --- 0.024698918146560243
+Food::Coffee Shop --- 0.024698918146560243
+Arts & Entertainment::General Entertainment --- 0.024698918146560243
+Shop & Service::Furniture / Home Store --- 0.024698918146560243
+Outdoors & Recreation::Other Great Outdoors --- 0.024698918146560243
+Food::Pizza Place --- 0.024698918146560243
+Shop & Service::Salon / Barbershop --- 0.020616452337211443
+
+Topic 2
+---------------
+Food::Italian Restaurant --- 0.06310552500654559
+Food::Burger Joint --- 0.05786855197695675
+Food::Ice Cream Shop --- 0.04739460591777906
+Food::Café --- 0.03692065985860136
+Arts & Entertainment::Performing Arts Venue::Dance Studio --- 0.031683686829012514
+Food::Coffee Shop --- 0.031683686829012514
+College & University::University --- 0.02644671379942367
+College & University::General College & University --- 0.02644671379942367
+Food::American Restaurant --- 0.02644671379942367
+Food::Pizza Place --- 0.02644671379942367
+Food::Middle Eastern Restaurant --- 0.021209740769834826
+Nightlife Spot::Bar --- 0.021209740769834826
+Shop & Service::Food & Drink Shop::Farmers Market --- 0.021209740769834826
+Nightlife Spot::Speakeasy --- 0.021209740769834826
+Food::Thai Restaurant --- 0.015972767740245978
+
+Topic 3
+---------------
+Professional & Other Places::Office --- 0.09123976962715878
+Food::American Restaurant --- 0.060927553804182445
+Food::Mexican Restaurant --- 0.04274022431039663
+Food::Café --- 0.04274022431039663
+Food::Breakfast Spot --- 0.03667778114580137
+Professional & Other Places::Medical Center --- 0.03667778114580137
+Food::Bakery --- 0.030615337981206102
+Shop & Service::Automotive Shop --- 0.024552894816610833
+Shop & Service::Thrift / Vintage Store --- 0.024552894816610833
+Arts & Entertainment::Performing Arts Venue::Theater --- 0.024552894816610833
+Food::Burger Joint --- 0.024552894816610833
+Food::Italian Restaurant --- 0.018490451652015565
+Food::Burrito Place --- 0.018490451652015565
+Professional & Other Places::Building --- 0.018490451652015565
+Food::Sandwich Place --- 0.018490451652015565
+
+Topic 4
+---------------
+Professional & Other Places::Building --- 0.05671010919337766
+Shop & Service::Gas Station / Garage --- 0.049665375132088505
+Outdoors & Recreation::Park --- 0.049665375132088505
+Food::Donut Shop --- 0.03557590700951021
+Shop & Service::Automotive Shop --- 0.03557590700951021
+Food::Seafood Restaurant --- 0.03557590700951021
+Food::Coffee Shop --- 0.03557590700951021
+Food::Fast Food Restaurant --- 0.028531172948221058
+Food::Greek Restaurant --- 0.028531172948221058
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.028531172948221058
+Shop & Service::Salon / Barbershop --- 0.021486438886931906
+Travel & Transport::Airport::Airport Terminal --- 0.021486438886931906
+Travel & Transport::Airport::Plane --- 0.021486438886931906
+Food::Thai Restaurant --- 0.021486438886931906
+Professional & Other Places::Office --- 0.021486438886931906
+
+Topic 5
+---------------
+Professional & Other Places::Medical Center::Hospital --- 0.10654747523556296
+College & University::College Academic Building --- 0.06305870983329236
+Travel & Transport::Bus Station::Bus Line --- 0.0388982846098087
+Outdoors & Recreation::Other Great Outdoors --- 0.0388982846098087
+Food::Sandwich Place --- 0.03406619956511196
+College & University::General College & University --- 0.02923411452041523
+Professional & Other Places::Medical Center::Doctor's Office --- 0.02923411452041523
+Food::Coffee Shop --- 0.024402029475718498
+Arts & Entertainment::General Entertainment --- 0.024402029475718498
+Outdoors & Recreation::Park --- 0.019569944431021766
+Professional & Other Places::Building --- 0.019569944431021766
+Professional & Other Places::Office::Tech Startup --- 0.019569944431021766
+College & University::College Administrative Building --- 0.019569944431021766
+Professional & Other Places::School::High School --- 0.019569944431021766
+Nightlife Spot::Lounge --- 0.019569944431021766
+
+Topic 6
+---------------
+Food::Chinese Restaurant --- 0.05965172286031846
+Shop & Service::Furniture / Home Store --- 0.05965172286031846
+Travel & Transport::General Travel --- 0.05224157095220436
+Professional & Other Places::Office --- 0.044831419044090264
+Food::Italian Restaurant --- 0.03742126713597617
+College & University::College Academic Building --- 0.03742126713597617
+Nightlife Spot::Bar --- 0.03742126713597617
+Food::Seafood Restaurant --- 0.03742126713597617
+College & University::College Library --- 0.03742126713597617
+Food::Taco Place --- 0.030011115227862078
+Food::American Restaurant --- 0.030011115227862078
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.030011115227862078
+Food::Pizza Place --- 0.030011115227862078
+Food::Food Truck --- 0.022600963319747983
+Food::Deli / Bodega --- 0.022600963319747983
+
+Topic 7
+---------------
+Professional & Other Places::Spiritual Center::Church --- 0.06702234078025981
+Outdoors & Recreation::Playground --- 0.047015671890630016
+Food::Mexican Restaurant --- 0.04034678226075342
+Nightlife Spot::Gay Bar --- 0.04034678226075342
+Travel & Transport::Light Rail --- 0.03367789263087682
+Residence::Residential Building (Apartment / Condo) --- 0.03367789263087682
+Food::New American Restaurant --- 0.02700900300100022
+Food::Coffee Shop --- 0.02700900300100022
+Professional & Other Places::School --- 0.02700900300100022
+Shop & Service::Salon / Barbershop --- 0.020340113371123625
+Food::Asian Restaurant --- 0.020340113371123625
+Travel & Transport::Hotel --- 0.020340113371123625
+Professional & Other Places::Medical Center --- 0.020340113371123625
+Food::American Restaurant --- 0.020340113371123625
+Professional & Other Places::Medical Center::Dentist's Office --- 0.020340113371123625
+
+Topic 8
+---------------
+Arts & Entertainment::Art Gallery --- 0.1370096645821502
+Shop & Service::Automotive Shop --- 0.06878908470722063
+Food::Pizza Place --- 0.04604889141557745
+Food::Fast Food Restaurant --- 0.034678794769755855
+Shop & Service::Bank --- 0.034678794769755855
+Outdoors & Recreation::Athletic & Sport::Skating Rink --- 0.034678794769755855
+Professional & Other Places::Spiritual Center::Church --- 0.02330869812393426
+Food::Burrito Place --- 0.02330869812393426
+Shop & Service::Gym / Fitness Center::Yoga Studio --- 0.02330869812393426
+Nightlife Spot::Dive Bar --- 0.02330869812393426
+Arts & Entertainment::Arcade --- 0.02330869812393426
+Arts & Entertainment::General Entertainment --- 0.02330869812393426
+Food::Vietnamese Restaurant --- 0.02330869812393426
+Shop & Service::Clothing Store::Women's Store --- 0.02330869812393426
+Shop & Service::Clothing Store::Lingerie Store --- 0.02330869812393426
+
+Topic 9
+---------------
+Nightlife Spot::Bar --- 0.0702341137123738
+Shop & Service::Bank --- 0.04793756967669958
+Food::Sandwich Place --- 0.04475234910017469
+Shop & Service::Clothing Store --- 0.0415671285236498
+Shop & Service::Automotive Shop --- 0.03838190794712491
+Food::American Restaurant --- 0.032011466794075134
+Food::Pizza Place --- 0.032011466794075134
+Food::Chinese Restaurant --- 0.025641025641025356
+Professional & Other Places::Building --- 0.025641025641025356
+Food::Café --- 0.025641025641025356
+Food::Ice Cream Shop --- 0.025641025641025356
+Shop & Service::Sporting Goods Shop --- 0.022455805064500466
+Arts & Entertainment::Arcade --- 0.022455805064500466
+Professional & Other Places::Medical Center::Doctor's Office --- 0.022455805064500466
+Shop & Service::Salon / Barbershop --- 0.019270584487975577
+
+Topic 10
+---------------
+Food::American Restaurant --- 0.06870229007633533
+Professional & Other Places::Building --- 0.05817320347459812
+Shop & Service::Hardware Store --- 0.03711503027112368
+Arts & Entertainment::Performing Arts Venue::Theater --- 0.031850486970255075
+Food::Pizza Place --- 0.031850486970255075
+Shop & Service::Sporting Goods Shop --- 0.026585943669386467
+Shop & Service::Salon / Barbershop --- 0.02132140036851786
+Travel & Transport::Hotel --- 0.02132140036851786
+Professional & Other Places::Parking --- 0.02132140036851786
+Shop & Service::Gym / Fitness Center::Yoga Studio --- 0.02132140036851786
+Nightlife Spot::Sports Bar --- 0.02132140036851786
+Nightlife Spot::Bar --- 0.02132140036851786
+Shop & Service::Department Store --- 0.02132140036851786
+Food::Mexican Restaurant --- 0.01605685706764925
+Professional & Other Places::Office --- 0.01605685706764925
+
+Topic 11
+---------------
+Professional & Other Places::Spiritual Center::Church --- 0.05554275178612517
+Shop & Service::Salon / Barbershop --- 0.05093339479142599
+Food::Italian Restaurant --- 0.03249596681262925
+Professional & Other Places::Post Office --- 0.03249596681262925
+Nightlife Spot::Bar --- 0.03249596681262925
+Travel & Transport::General Travel --- 0.03249596681262925
+Shop & Service::Furniture / Home Store --- 0.03249596681262925
+Food::Diner --- 0.027886609817930064
+Shop & Service::Music Store --- 0.023277252823230878
+Professional & Other Places::Office --- 0.023277252823230878
+Food::Fried Chicken Joint --- 0.023277252823230878
+Shop & Service::Department Store --- 0.023277252823230878
+Outdoors & Recreation::Other Great Outdoors --- 0.023277252823230878
+Professional & Other Places::Building --- 0.018667895828531695
+Food::Coffee Shop --- 0.018667895828531695
+
+Topic 12
+---------------
+Food::Mexican Restaurant --- 0.07947511760336638
+Professional & Other Places::Medical Center::Hospital --- 0.0547165139886105
+College & University::College Gym --- 0.04481307254270815
+Food::Burger Joint --- 0.03490963109680579
+Professional & Other Places::Medical Center --- 0.029957910373854615
+Professional & Other Places::Office --- 0.029957910373854615
+Food::Café --- 0.029957910373854615
+College & University::College Academic Building::College Technology Building --- 0.029957910373854615
+College & University::College Administrative Building --- 0.02500618965090344
+Shop & Service::Clothing Store::Boutique --- 0.02500618965090344
+Shop & Service::Automotive Shop --- 0.020054468927952263
+Professional & Other Places::Building --- 0.020054468927952263
+Shop & Service::Clothing Store --- 0.020054468927952263
+Nightlife Spot::Bar --- 0.020054468927952263
+Shop & Service::Clothing Store::Women's Store --- 0.020054468927952263
+
+Topic 13
+---------------
+Shop & Service::Department Store --- 0.04215763288819018
+Food::Café --- 0.03692065985860133
+Shop & Service::Electronics Store --- 0.03692065985860133
+Food::Fast Food Restaurant --- 0.03168368682901249
+Travel & Transport::Bus Station --- 0.03168368682901249
+Food::Pizza Place --- 0.03168368682901249
+College & University::College Lab --- 0.02644671379942365
+Nightlife Spot::Bar --- 0.02644671379942365
+College & University::College Residence Hall --- 0.02644671379942365
+Professional & Other Places::Medical Center --- 0.021209740769834808
+Food::Coffee Shop --- 0.021209740769834808
+Shop & Service::Gift Shop --- 0.021209740769834808
+Food::Bagel Shop --- 0.021209740769834808
+Nightlife Spot::Cocktail Bar --- 0.021209740769834808
+Professional & Other Places::Medical Center::Doctor's Office --- 0.021209740769834808
+
+Topic 14
+---------------
+Food::Chinese Restaurant --- 0.042698749705118715
+Professional & Other Places::Building --- 0.03798065581505035
+Professional & Other Places::Office --- 0.03798065581505035
+Food::Sushi Restaurant --- 0.03798065581505035
+Travel & Transport::Bus Station::Bus Line --- 0.033262561924981976
+Professional & Other Places::Spiritual Center::Church --- 0.033262561924981976
+Travel & Transport::Hotel --- 0.033262561924981976
+Nightlife Spot::Dive Bar --- 0.033262561924981976
+Travel & Transport::Rental Car Location --- 0.033262561924981976
+Food::Dessert Shop --- 0.028544468034913614
+Professional & Other Places::Government Building --- 0.023826374144845248
+Food::American Restaurant --- 0.023826374144845248
+Shop & Service::Music Store --- 0.019108280254776882
+Professional & Other Places::Parking --- 0.019108280254776882
+College & University::College Residence Hall --- 0.019108280254776882
+
+Topic 15
+---------------
+Food::Coffee Shop --- 0.07127047366091249
+Shop & Service::Drugstore / Pharmacy --- 0.05356352368304603
+Food::Dessert Shop --- 0.03585657370517957
+Shop & Service::Gym / Fitness Center --- 0.03585657370517957
+Food::Mediterranean Restaurant --- 0.03585657370517957
+Travel & Transport::Bus Station::Bus Line --- 0.027003098716246347
+Shop & Service::Gas Station / Garage --- 0.027003098716246347
+Professional & Other Places::Spiritual Center::Church --- 0.027003098716246347
+Professional & Other Places::Building --- 0.027003098716246347
+Nightlife Spot::Sports Bar --- 0.027003098716246347
+Nightlife Spot::Cocktail Bar --- 0.027003098716246347
+Arts & Entertainment::Concert Hall --- 0.018149623727313116
+Food::Chinese Restaurant --- 0.018149623727313116
+Food::Café --- 0.018149623727313116
+Shop & Service::Gym / Fitness Center::Yoga Studio --- 0.018149623727313116
+
+Topic 17
+---------------
+Professional & Other Places::Office --- 0.06087395807021899
+Shop & Service::Bank --- 0.045718615812073184
+Outdoors & Recreation::Lake --- 0.045718615812073184
+Food::Burrito Place --- 0.04066683505935791
+Nightlife Spot::Bar --- 0.04066683505935791
+Food::Coffee Shop --- 0.04066683505935791
+Food::Fast Food Restaurant --- 0.03561505430664264
+Food::Bakery --- 0.03561505430664264
+Food::Sandwich Place --- 0.025511492801212107
+Shop & Service::Drugstore / Pharmacy --- 0.025511492801212107
+Outdoors & Recreation::Playground --- 0.020459712048496836
+Professional & Other Places::Spiritual Center::Church --- 0.020459712048496836
+Food::Chinese Restaurant --- 0.020459712048496836
+Arts & Entertainment::General Entertainment --- 0.020459712048496836
+Outdoors & Recreation::Other Great Outdoors --- 0.020459712048496836
+
+Topic 16
+---------------
+Shop & Service::Cosmetics Shop --- 0.05332891685988713
+Professional & Other Places::Parking --- 0.04007949652202697
+Food::American Restaurant --- 0.04007949652202697
+Food::Sushi Restaurant --- 0.04007949652202697
+Travel & Transport::Airport::Airport Gate --- 0.04007949652202697
+Arts & Entertainment::General Entertainment --- 0.03345478635309689
+Travel & Transport::Hotel --- 0.02683007618416681
+Professional & Other Places::Building --- 0.02683007618416681
+Outdoors & Recreation::Plaza --- 0.02683007618416681
+Arts & Entertainment::Art Gallery --- 0.02683007618416681
+Nightlife Spot::Pub --- 0.02683007618416681
+Outdoors & Recreation::Athletic & Sport::Basketball Court --- 0.020205366015236734
+Shop & Service::Miscellaneous Shop --- 0.020205366015236734
+Food::Bakery --- 0.020205366015236734
+Food::Restaurant --- 0.020205366015236734
+
+Topic 19
+---------------
+Food::Thai Restaurant --- 0.05699934483511613
+Food::American Restaurant --- 0.043896047171871046
+Shop & Service::Bank --- 0.03952828128412268
+Shop & Service::Pet Store --- 0.03952828128412268
+Shop & Service::Gym / Fitness Center::Gym --- 0.03079274950862595
+Food::Coffee Shop --- 0.03079274950862595
+Food::Indian Restaurant --- 0.02642498362087759
+Nightlife Spot::Nightclub --- 0.02642498362087759
+Food::Chinese Restaurant --- 0.022057217733129228
+Professional & Other Places::Office --- 0.022057217733129228
+Food::Café --- 0.022057217733129228
+Professional & Other Places::Medical Center::Doctor's Office --- 0.022057217733129228
+Travel & Transport::Bus Station::Bus Line --- 0.017689451845380864
+Shop & Service::Miscellaneous Shop --- 0.017689451845380864
+Shop & Service::Sporting Goods Shop --- 0.017689451845380864
+
+Topic 18
+---------------
+Outdoors & Recreation::Other Great Outdoors --- 0.04394270453993644
+Professional & Other Places::Spiritual Center::Church --- 0.03423160961398363
+Food::Café --- 0.029376062151007232
+Shop & Service::Clothing Store --- 0.029376062151007232
+Nightlife Spot::Bar --- 0.029376062151007232
+College & University::Sorority House --- 0.029376062151007232
+Food::Southern / Soul Food Restaurant --- 0.02452051468803083
+Food::American Restaurant --- 0.02452051468803083
+Arts & Entertainment::General Entertainment --- 0.02452051468803083
+Professional & Other Places::Event Space --- 0.02452051468803083
+Nightlife Spot::Lounge --- 0.02452051468803083
+College & University::Student Center --- 0.02452051468803083
+Food::Pizza Place --- 0.02452051468803083
+Food::Vegetarian / Vegan Restaurant --- 0.01966496722505443
+Food::Coffee Shop --- 0.01966496722505443
+
+Topic 21
+---------------
+Outdoors & Recreation::Athletic & Sport::Baseball Field --- 0.048637461193514725
+Arts & Entertainment::Stadium::Football Stadium --- 0.04173853052776795
+Shop & Service::Gas Station / Garage --- 0.03483959986202118
+Shop & Service::Bookstore --- 0.03483959986202118
+Nightlife Spot::Sports Bar --- 0.03483959986202118
+Food::Donut Shop --- 0.027940669196274415
+Food::Breakfast Spot --- 0.027940669196274415
+Shop & Service::Arts & Crafts Store --- 0.027940669196274415
+Food::Brewery --- 0.027940669196274415
+Arts & Entertainment::General Entertainment --- 0.027940669196274415
+Outdoors & Recreation::Other Great Outdoors --- 0.027940669196274415
+Professional & Other Places::Medical Center::Doctor's Office --- 0.027940669196274415
+Shop & Service::Antique Shop --- 0.021041738530527643
+Food::Steakhouse --- 0.021041738530527643
+Shop & Service::Tattoo Parlor --- 0.021041738530527643
+
+Topic 20
+---------------
+Food::Café --- 0.05806984914238419
+Food::Coffee Shop --- 0.05393676379417179
+Food::Chinese Restaurant --- 0.04567059309774699
+Shop & Service::Gas Station / Garage --- 0.037404422401322204
+Food::Mexican Restaurant --- 0.0291382517048974
+Food::Food Truck --- 0.0291382517048974
+Outdoors & Recreation::City --- 0.025005166356685003
+Shop & Service::Pet Store --- 0.025005166356685003
+Travel & Transport::Subway --- 0.025005166356685003
+Food::Hot Dog Joint --- 0.02087208100847261
+Food::Fast Food Restaurant --- 0.02087208100847261
+Professional & Other Places::Library --- 0.02087208100847261
+Food::Japanese Restaurant --- 0.02087208100847261
+Outdoors & Recreation::Playground --- 0.01673899566026021
+Professional & Other Places::Spiritual Center::Church --- 0.01673899566026021
+
+Topic 23
+---------------
+Travel & Transport::Airport::Airport Gate --- 0.230360699269749
+Travel & Transport::Airport::Airport Terminal --- 0.07545917238327034
+Travel & Transport::Airport --- 0.0444788670059746
+Food::Restaurant --- 0.035627351183890106
+Shop & Service::Salon / Barbershop --- 0.022350077450763353
+Shop & Service::Miscellaneous Shop --- 0.022350077450763353
+Professional & Other Places::Office --- 0.022350077450763353
+Shop & Service::Clothing Store::Boutique --- 0.022350077450763353
+Food::Mexican Restaurant --- 0.017924319539721106
+Food::American Restaurant --- 0.017924319539721106
+Food::Korean Restaurant --- 0.017924319539721106
+Shop & Service::Cosmetics Shop --- 0.017924319539721106
+Shop & Service::Mall --- 0.017924319539721106
+Food::Japanese Restaurant --- 0.017924319539721106
+Food::Fast Food Restaurant --- 0.013498561628678856
+
+Topic 22
+---------------
+Nightlife Spot::Bar --- 0.06370311569755827
+Food::Coffee Shop --- 0.059734074221074886
+Professional & Other Places::Building --- 0.043857908315141365
+Food::American Restaurant --- 0.039888866838657985
+Food::Italian Restaurant --- 0.0359198253621746
+Food::Fast Food Restaurant --- 0.0359198253621746
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.03195078388569122
+Food::Pizza Place --- 0.03195078388569122
+Food::Café --- 0.027981742409207835
+Food::New American Restaurant --- 0.024012700932724455
+Travel & Transport::Light Rail --- 0.024012700932724455
+Arts & Entertainment::Art Gallery --- 0.024012700932724455
+Shop & Service::Clothing Store --- 0.020043659456241075
+Travel & Transport::General Travel --- 0.020043659456241075
+Shop & Service::Cosmetics Shop --- 0.020043659456241075
+
+Topic 25
+---------------
+Food::Pizza Place --- 0.054780537597821984
+Food::Indian Restaurant --- 0.04797550187138447
+Professional & Other Places::Spiritual Center::Church --- 0.04797550187138447
+Outdoors & Recreation::Park --- 0.04797550187138447
+Food::Sandwich Place --- 0.04797550187138447
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.03436543041850944
+Outdoors & Recreation::Playground --- 0.027560394692071926
+Shop & Service::Bank --- 0.027560394692071926
+Professional & Other Places::Medical Center::Hospital --- 0.027560394692071926
+Shop & Service::Gym / Fitness Center::Gym --- 0.027560394692071926
+Food::Sushi Restaurant --- 0.027560394692071926
+College & University::College Academic Building --- 0.020755358965634414
+College & University::General College & University --- 0.020755358965634414
+Shop & Service::Clothing Store::Shoe Store --- 0.020755358965634414
+Travel & Transport::General Travel --- 0.020755358965634414
+
+Topic 24
+---------------
+Food::Chinese Restaurant --- 0.05879482800683016
+Shop & Service::Gym / Fitness Center::Gym --- 0.05391558916808906
+Nightlife Spot::Bar --- 0.04903635032934797
+Professional & Other Places::Building --- 0.04415711149060688
+Food::Mexican Restaurant --- 0.0343986338131247
+Food::Café --- 0.0343986338131247
+Shop & Service::Cosmetics Shop --- 0.0343986338131247
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.0343986338131247
+Food::Ice Cream Shop --- 0.029519394974383602
+Food::Vietnamese Restaurant --- 0.029519394974383602
+Food::Italian Restaurant --- 0.02464015613564251
+Professional & Other Places::Post Office --- 0.02464015613564251
+Food::American Restaurant --- 0.02464015613564251
+Outdoors & Recreation::Cemetery --- 0.02464015613564251
+Professional & Other Places::Parking --- 0.01976091729690142
+
+Topic 27
+---------------
+Professional & Other Places::Spiritual Center::Church --- 0.07018015595590135
+Nightlife Spot::Bar --- 0.05942457649905823
+Arts & Entertainment::General Entertainment --- 0.04329120731379355
+Arts & Entertainment::Stadium::Baseball Stadium --- 0.04329120731379355
+Outdoors & Recreation::Playground --- 0.03253562785695043
+College & University::College Administrative Building --- 0.03253562785695043
+Travel & Transport::Bus Station::Bus Line --- 0.02715783812852887
+Outdoors & Recreation::Scenic Lookout --- 0.02715783812852887
+Nightlife Spot::Beer Garden --- 0.016402258671685755
+Travel & Transport::Bus Station --- 0.016402258671685755
+Professional & Other Places::Parking --- 0.016402258671685755
+::Professional & Other Places --- 0.016402258671685755
+Arts & Entertainment::Stadium --- 0.016402258671685755
+Food::American Restaurant --- 0.016402258671685755
+Food::Sandwich Place --- 0.016402258671685755
+
+Topic 26
+---------------
+Professional & Other Places::Office --- 0.08410170438669921
+Food::American Restaurant --- 0.05057278569432744
+Shop & Service::Hardware Store --- 0.04498463257893214
+Food::Breakfast Spot --- 0.03939647946353684
+Shop & Service::Gas Station / Garage --- 0.03939647946353684
+Professional & Other Places::Building --- 0.03939647946353684
+Professional & Other Places::Library --- 0.03380832634814154
+Professional & Other Places::Medical Center::Doctor's Office --- 0.03380832634814154
+Food::Mexican Restaurant --- 0.02263202011735095
+Residence::Residential Building (Apartment / Condo) --- 0.02263202011735095
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.02263202011735095
+Food::Pizza Place --- 0.02263202011735095
+Professional & Other Places::Government Building::Courthouse --- 0.01704386700195565
+Shop & Service::Gym / Fitness Center --- 0.01704386700195565
+Nightlife Spot::Bar --- 0.01704386700195565
+
+Topic 29
+---------------
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.08232880225698803
+Professional & Other Places::Medical Center::Hospital --- 0.051551679917927085
+Shop & Service::Automotive Shop --- 0.03616311874839661
+Food::Vietnamese Restaurant --- 0.03616311874839661
+Food::Fast Food Restaurant --- 0.03103359835855312
+Food::Chinese Restaurant --- 0.03103359835855312
+Shop & Service::Miscellaneous Shop --- 0.025904077968709627
+Food::Thai Restaurant --- 0.025904077968709627
+Food::Bakery --- 0.025904077968709627
+Food::Bagel Shop --- 0.025904077968709627
+Shop & Service::Salon / Barbershop --- 0.020774557578866138
+Outdoors & Recreation::Scenic Lookout --- 0.020774557578866138
+Food::Mexican Restaurant --- 0.020774557578866138
+Shop & Service::Laundry Service --- 0.020774557578866138
+Travel & Transport::General Travel --- 0.020774557578866138
+
+Topic 28
+---------------
+Food::Thai Restaurant --- 0.05128859402908854
+Shop & Service::Gas Station / Garage --- 0.046185251339627
+Food::Mexican Restaurant --- 0.046185251339627
+Shop & Service::Drugstore / Pharmacy --- 0.035978565960703895
+Food::Restaurant --- 0.030875223271242352
+Food::Coffee Shop --- 0.030875223271242352
+Arts & Entertainment::Art Gallery --- 0.030875223271242352
+Food::Asian Restaurant --- 0.025771880581780805
+Nightlife Spot::Dive Bar --- 0.025771880581780805
+Shop & Service::Electronics Store --- 0.025771880581780805
+Food::American Restaurant --- 0.025771880581780805
+Travel & Transport::Ferry::Boat or Ferry --- 0.025771880581780805
+Travel & Transport::Hotel --- 0.02066853789231926
+Food::Bakery --- 0.02066853789231926
+Professional & Other Places::Event Space --- 0.02066853789231926
+
+Topic 31
+---------------
+Shop & Service::Miscellaneous Shop --- 0.06528093536862589
+Outdoors & Recreation::Park --- 0.0457940889899316
+Shop & Service::Department Store --- 0.0457940889899316
+Food::Italian Restaurant --- 0.03280285807080206
+Food::Fast Food Restaurant --- 0.03280285807080206
+Food::Mexican Restaurant --- 0.03280285807080206
+Professional & Other Places::Building --- 0.03280285807080206
+Food::Asian Restaurant --- 0.0263072426112373
+Shop & Service::Automotive Shop --- 0.0263072426112373
+Food::Sandwich Place --- 0.0263072426112373
+Shop & Service::Bike Shop --- 0.0263072426112373
+Travel & Transport::Bus Station --- 0.019811627151672534
+Food::American Restaurant --- 0.019811627151672534
+Arts & Entertainment::General Entertainment --- 0.019811627151672534
+Shop & Service::Toy / Game Store --- 0.019811627151672534
+
+Topic 30
+---------------
+Shop & Service::Bank --- 0.04305964161540479
+Nightlife Spot::Bar --- 0.04305964161540479
+Professional & Other Places::Office::Coworking Space --- 0.04305964161540479
+Professional & Other Places::Office --- 0.037710617812248916
+Food::Sandwich Place --- 0.03236159400909304
+Food::Dessert Shop --- 0.027012570205937166
+Professional & Other Places::School --- 0.027012570205937166
+Professional & Other Places::Government Building::Courthouse --- 0.021663546402781293
+Travel & Transport::Bus Station::Bus Line --- 0.021663546402781293
+Arts & Entertainment::General Entertainment --- 0.021663546402781293
+Food::Bagel Shop --- 0.021663546402781293
+Travel & Transport::Ferry::Boat or Ferry --- 0.021663546402781293
+Food::Deli / Bodega --- 0.021663546402781293
+Professional & Other Places::Government Building --- 0.016314522599625417
+Shop & Service::Gas Station / Garage --- 0.016314522599625417
+
+Topic 34
+---------------
+Outdoors & Recreation::Park --- 0.09783089862771227
+Shop & Service::Gas Station / Garage --- 0.062416998671979314
+Nightlife Spot::Bar --- 0.05356352368304608
+Food::Italian Restaurant --- 0.04471004869411284
+Food::French Restaurant --- 0.035856573705179605
+Shop & Service::Electronics Store --- 0.035856573705179605
+College & University::College Administrative Building --- 0.035856573705179605
+Outdoors & Recreation::Hiking Trail --- 0.035856573705179605
+Professional & Other Places::Building --- 0.027003098716246367
+Professional & Other Places::Medical Center --- 0.027003098716246367
+Outdoors & Recreation::Beach --- 0.027003098716246367
+Professional & Other Places::Government Building --- 0.018149623727313133
+Professional & Other Places::Spiritual Center::Church --- 0.018149623727313133
+Outdoors & Recreation::Scenic Lookout --- 0.018149623727313133
+Food::Thai Restaurant --- 0.018149623727313133
+
+Topic 35
+---------------
+Outdoors & Recreation::Harbor / Marina --- 0.07831178336179487
+Food::American Restaurant --- 0.04415711149060708
+Professional & Other Places::Office --- 0.03927787265186597
+Outdoors & Recreation::Other Great Outdoors --- 0.03927787265186597
+Food::Deli / Bodega --- 0.03927787265186597
+Food::Pizza Place --- 0.03439863381312485
+Outdoors & Recreation::Park --- 0.024640156135642622
+Professional & Other Places::Building --- 0.024640156135642622
+Food::Japanese Restaurant --- 0.024640156135642622
+Shop & Service::Miscellaneous Shop --- 0.01976091729690151
+Shop & Service::Spa / Massage --- 0.01976091729690151
+Nightlife Spot::Sports Bar --- 0.01976091729690151
+Food::BBQ Joint --- 0.01976091729690151
+Shop & Service::Drugstore / Pharmacy --- 0.01976091729690151
+Arts & Entertainment::Art Gallery --- 0.01976091729690151
+
+Topic 32
+---------------
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.06341079165025651
+Food::Indian Restaurant --- 0.05553367467506937
+Shop & Service::Gas Station / Garage --- 0.04765655769988222
+Food::Mexican Restaurant --- 0.04765655769988222
+Food::Pizza Place --- 0.04765655769988222
+Food::Fast Food Restaurant --- 0.039779440724695074
+Shop & Service::Arts & Crafts Store --- 0.039779440724695074
+Shop & Service::Bank --- 0.03190232374950793
+Food::Vietnamese Restaurant --- 0.03190232374950793
+Professional & Other Places::Government Building --- 0.02402520677432079
+Food::Café --- 0.02402520677432079
+Food::Sandwich Place --- 0.02402520677432079
+College & University::College Bookstore --- 0.02402520677432079
+Outdoors & Recreation::Playground --- 0.016148089799133642
+Food::Asian Restaurant --- 0.016148089799133642
+
+Topic 33
+---------------
+Nightlife Spot::Dive Bar --- 0.04575163398692773
+Food::Mexican Restaurant --- 0.04006820119352055
+Shop & Service::Clothing Store --- 0.03438476840011338
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.03438476840011338
+Shop & Service::Miscellaneous Shop --- 0.02870133560670621
+Professional & Other Places::Building --- 0.02870133560670621
+Nightlife Spot::Nightclub --- 0.02870133560670621
+Shop & Service::Drugstore / Pharmacy --- 0.02870133560670621
+Outdoors & Recreation::Park --- 0.02301790281329904
+Food::Chinese Restaurant --- 0.02301790281329904
+Food::Bakery --- 0.02301790281329904
+Travel & Transport::Light Rail --- 0.02301790281329904
+Shop & Service::Salon / Barbershop --- 0.01733447001989187
+Food::Fast Food Restaurant --- 0.01733447001989187
+Professional & Other Places::Spiritual Center::Church --- 0.01733447001989187
+
+Topic 38
+---------------
+Shop & Service::Gas Station / Garage --- 0.04571861581207343
+Professional & Other Places::Office --- 0.040666835059358135
+Food::American Restaurant --- 0.040666835059358135
+Travel & Transport::Bus Station --- 0.035615054306642836
+Food::Ethiopian Restaurant --- 0.035615054306642836
+Shop & Service::Cosmetics Shop --- 0.03056327355392754
+Outdoors & Recreation::Other Great Outdoors --- 0.03056327355392754
+Nightlife Spot::Gay Bar --- 0.025511492801212246
+Food::Sandwich Place --- 0.025511492801212246
+Food::Sushi Restaurant --- 0.025511492801212246
+Professional & Other Places::Medical Center::Doctor's Office --- 0.025511492801212246
+Arts & Entertainment::Bowling Alley --- 0.020459712048496947
+Shop & Service::Department Store --- 0.020459712048496947
+Residence::Residential Building (Apartment / Condo) --- 0.020459712048496947
+Shop & Service::Gym / Fitness Center::Yoga Studio --- 0.015407931295781652
+
+Topic 39
+---------------
+Professional & Other Places::Office --- 0.08027006751687847
+Food::Coffee Shop --- 0.050262565641409886
+Food::American Restaurant --- 0.04526131532883179
+Professional & Other Places::Building --- 0.04026006501625369
+Travel & Transport::Bus Station::Bus Line --- 0.03525881470367559
+Food::Café --- 0.03525881470367559
+Shop & Service::Gym / Fitness Center::Gym --- 0.03525881470367559
+Professional & Other Places::Parking --- 0.030257564391097492
+Outdoors & Recreation::Garden --- 0.030257564391097492
+Travel & Transport::Hotel --- 0.020255063765941297
+Food::Food Truck --- 0.020255063765941297
+Travel & Transport::General Travel --- 0.020255063765941297
+Shop & Service::Department Store --- 0.020255063765941297
+Shop & Service::Food & Drink Shop::Liquor Store --- 0.020255063765941297
+Outdoors & Recreation::Other Great Outdoors --- 0.020255063765941297
+
+Topic 36
+---------------
+Food::Italian Restaurant --- 0.06848536516055634
+Food::Coffee Shop --- 0.057118499573742015
+Shop & Service::Salon / Barbershop --- 0.045751633986927685
+Food::Breakfast Spot --- 0.04006820119352051
+Nightlife Spot::Bar --- 0.03438476840011335
+Food::Burger Joint --- 0.03438476840011335
+Nightlife Spot::Lounge --- 0.03438476840011335
+Outdoors & Recreation::Park --- 0.028701335606706183
+Arts & Entertainment::Art Gallery --- 0.028701335606706183
+Shop & Service::Bookstore --- 0.023017902813299018
+Food::Thai Restaurant --- 0.023017902813299018
+Food::Mediterranean Restaurant --- 0.023017902813299018
+Shop & Service::Gym / Fitness Center::Yoga Studio --- 0.023017902813299018
+Arts & Entertainment::Music Venue::Rock Club --- 0.023017902813299018
+Shop & Service::Food & Drink Shop::Liquor Store --- 0.023017902813299018
+
+Topic 37
+---------------
+College & University::General College & University --- 0.1827618748033956
+Outdoors & Recreation::Scenic Lookout --- 0.06322743000943634
+Arts & Entertainment::Zoo --- 0.05693614344133322
+Shop & Service::Automotive Shop --- 0.03177099716892075
+Food::Pizza Place --- 0.03177099716892075
+Professional & Other Places::Office::Tech Startup --- 0.025479710600817627
+Outdoors & Recreation::Pool --- 0.025479710600817627
+Nightlife Spot::Beer Garden --- 0.019188424032714507
+Travel & Transport::Hotel --- 0.019188424032714507
+Food::Mediterranean Restaurant --- 0.019188424032714507
+Shop & Service::Clothing Store --- 0.019188424032714507
+Food::Korean Restaurant --- 0.019188424032714507
+Food::Sushi Restaurant --- 0.019188424032714507
+Food::Greek Restaurant --- 0.019188424032714507
+Professional & Other Places::School --- 0.019188424032714507
+
+Topic 42
+---------------
+Outdoors & Recreation::Plaza --- 0.04893214382265421
+Professional & Other Places::Spiritual Center::Church --- 0.038118410381183666
+Shop & Service::Miscellaneous Shop --- 0.03271154366044839
+Arts & Entertainment::Performing Arts Venue::Theater --- 0.03271154366044839
+Food::Asian Restaurant --- 0.027304676939713123
+Shop & Service::Electronics Store --- 0.027304676939713123
+Food::Food Truck --- 0.027304676939713123
+Food::American Restaurant --- 0.027304676939713123
+Arts & Entertainment::Performing Arts Venue --- 0.027304676939713123
+College & University::College Academic Building --- 0.02189781021897785
+Shop & Service::Bank --- 0.02189781021897785
+Shop & Service::Gym / Fitness Center --- 0.02189781021897785
+Food::Coffee Shop --- 0.02189781021897785
+Outdoors & Recreation::Other Great Outdoors --- 0.02189781021897785
+College & University::Student Center --- 0.02189781021897785
+
+Topic 43
+---------------
+Professional & Other Places::Office --- 0.04809763101220331
+Professional & Other Places::Medical Center::Doctor's Office --- 0.038525963149078274
+Food::Pizza Place --- 0.03374012921751575
+Outdoors & Recreation::Scenic Lookout --- 0.02895429528595323
+Arts & Entertainment::Stadium::Hockey Arena --- 0.02895429528595323
+Travel & Transport::Bus Station --- 0.024168461354390713
+Food::Steakhouse --- 0.024168461354390713
+Shop & Service::Food & Drink Shop::Liquor Store --- 0.024168461354390713
+Professional & Other Places::School --- 0.024168461354390713
+Shop & Service::Gift Shop --- 0.024168461354390713
+Travel & Transport::Bus Station::Bus Line --- 0.019382627422828196
+Shop & Service::Salon / Barbershop --- 0.019382627422828196
+Outdoors & Recreation::Park --- 0.019382627422828196
+Food::Thai Restaurant --- 0.019382627422828196
+Professional & Other Places::Parking --- 0.019382627422828196
+
+Topic 40
+---------------
+Food::Café --- 0.04498463257893225
+Food::Sandwich Place --- 0.04498463257893225
+Food::Coffee Shop --- 0.039396479463536936
+Food::Pizza Place --- 0.033808326348141626
+Professional & Other Places::Office --- 0.028220173232746316
+Nightlife Spot::Nightclub --- 0.028220173232746316
+Food::Vietnamese Restaurant --- 0.028220173232746316
+Shop & Service::Video Game Store --- 0.028220173232746316
+Food::Japanese Restaurant --- 0.028220173232746316
+Professional & Other Places::Building --- 0.022632020117351007
+Nightlife Spot::Bar --- 0.022632020117351007
+Professional & Other Places::Medical Center::Dentist's Office --- 0.022632020117351007
+Shop & Service::Gym / Fitness Center::Gym --- 0.022632020117351007
+Shop & Service::Clothing Store::Boutique --- 0.022632020117351007
+Food::Fast Food Restaurant --- 0.017043867001955697
+
+Topic 41
+---------------
+Shop & Service::Automotive Shop --- 0.09132247063281555
+Professional & Other Places::Office --- 0.06100795755968176
+Shop & Service::Food & Drink Shop::Grocery Store --- 0.06100795755968176
+Professional & Other Places::Building --- 0.04585070102311486
+Arts & Entertainment::Movie Theater::Indie Movie Theater --- 0.023114816218264514
+Arts & Entertainment::Stadium::Basketball Stadium --- 0.023114816218264514
+Food::BBQ Joint --- 0.023114816218264514
+Food::Sandwich Place --- 0.023114816218264514
+Shop & Service::Flea Market --- 0.023114816218264514
+Shop & Service::Salon / Barbershop --- 0.015536187949981066
+Food::Fast Food Restaurant --- 0.015536187949981066
+Professional & Other Places::Spiritual Center::Church --- 0.015536187949981066
+Arts & Entertainment::Stadium::Football Stadium --- 0.015536187949981066
+Shop & Service::Bookstore --- 0.015536187949981066
+Shop & Service::Miscellaneous Shop --- 0.015536187949981066
+
+Topic 46
+---------------
+Shop & Service::Gas Station / Garage --- 0.06794182107989552
+Shop & Service::Salon / Barbershop --- 0.040047818290495606
+Professional & Other Places::Building --- 0.03606296074915276
+Nightlife Spot::Bar --- 0.03606296074915276
+Food::American Restaurant --- 0.03606296074915276
+Food::Café --- 0.03207810320780991
+Food::Vietnamese Restaurant --- 0.02809324566646706
+Professional & Other Places::Office --- 0.024108388125124215
+Shop & Service::Cosmetics Shop --- 0.024108388125124215
+Outdoors & Recreation::Other Great Outdoors --- 0.024108388125124215
+Nightlife Spot::Pub --- 0.024108388125124215
+Outdoors & Recreation::Park --- 0.02012353058378137
+Food::Mexican Restaurant --- 0.02012353058378137
+College & University::College Academic Building::College Science Building --- 0.02012353058378137
+Shop & Service::Food & Drink Shop --- 0.02012353058378137
+
+Topic 47
+---------------
+Nightlife Spot::Bar --- 0.06515274398486025
+Food::Fast Food Restaurant --- 0.04893214382265438
+Food::Coffee Shop --- 0.04352527710191909
+Food::Sandwich Place --- 0.032711543660448504
+Food::Italian Restaurant --- 0.027304676939713213
+Food::Asian Restaurant --- 0.027304676939713213
+Nightlife Spot::Sports Bar --- 0.027304676939713213
+Shop & Service::Drugstore / Pharmacy --- 0.027304676939713213
+Shop & Service::Miscellaneous Shop --- 0.021897810218977923
+Shop & Service::Hardware Store --- 0.021897810218977923
+Food::Bakery --- 0.021897810218977923
+Shop & Service::Gas Station / Garage --- 0.016490943498242636
+Shop & Service::Bank --- 0.016490943498242636
+Shop & Service::Gym / Fitness Center --- 0.016490943498242636
+Professional & Other Places::Medical Center --- 0.016490943498242636
+
+Topic 44
+---------------
+College & University::College Residence Hall --- 0.10463948584052932
+College & University::College Academic Building --- 0.06447077726451038
+College & University::Fraternity House --- 0.060453906406908495
+College & University::College Quad --- 0.048403293834102815
+College & University::College Academic Building::College Engineering Building --- 0.040369552118899026
+College & University::College Cafeteria --- 0.03233581040369524
+College & University::College Administrative Building --- 0.03233581040369524
+Food::Café --- 0.028318939546093345
+College & University::University --- 0.02430206868849145
+College & University::College Academic Building::College Science Building --- 0.02430206868849145
+College & University::College Library --- 0.02430206868849145
+Food::Pizza Place --- 0.02430206868849145
+College & University::College Academic Building::College Arts Building --- 0.02028519783088956
+College & University::College Classroom --- 0.02028519783088956
+Shop & Service::Bank --- 0.016268326973287665
+
+Topic 45
+---------------
+Shop & Service::Bank --- 0.04642215952808356
+Shop & Service::Gas Station / Garage --- 0.03616311874839658
+Travel & Transport::Hotel --- 0.031033598358553096
+Professional & Other Places::Building --- 0.031033598358553096
+Food::American Restaurant --- 0.031033598358553096
+Food::Pizza Place --- 0.031033598358553096
+Professional & Other Places::Parking --- 0.02590407796870961
+Outdoors & Recreation::Dog Run --- 0.02590407796870961
+Nightlife Spot::Bar --- 0.02590407796870961
+Shop & Service::Gym / Fitness Center::Gym --- 0.02590407796870961
+Outdoors & Recreation::Playground --- 0.02077455757886612
+Outdoors & Recreation::Park --- 0.02077455757886612
+Shop & Service::Gym / Fitness Center --- 0.02077455757886612
+Food::Restaurant --- 0.02077455757886612
+Food::Vietnamese Restaurant --- 0.02077455757886612
+
+Topic 49
+---------------
+Professional & Other Places::Office --- 0.0656695489600366
+Nightlife Spot::Bar --- 0.05632157046038726
+Food::American Restaurant --- 0.037625613461088586
+Food::Sushi Restaurant --- 0.037625613461088586
+Food::Hot Dog Joint --- 0.032951624211263915
+Arts & Entertainment::Movie Theater --- 0.032951624211263915
+Shop & Service::Clothing Store --- 0.028277634961439244
+Food::Italian Restaurant --- 0.023603645711614576
+Professional & Other Places::Parking --- 0.023603645711614576
+Food::Sandwich Place --- 0.023603645711614576
+College & University::College Library --- 0.023603645711614576
+Travel & Transport::Hotel --- 0.018929656461789908
+Food::Southern / Soul Food Restaurant --- 0.018929656461789908
+Food::Coffee Shop --- 0.018929656461789908
+Shop & Service::Clothing Store::Boutique --- 0.018929656461789908
+
+Topic 48
+---------------
+Nightlife Spot::Bar --- 0.05118650715826581
+Food::Coffee Shop --- 0.047264169444988735
+College & University::Fraternity House --- 0.03941949401843459
+Food::Ice Cream Shop --- 0.03941949401843459
+Shop & Service::Automotive Shop --- 0.03549715630515751
+Food::Korean Restaurant --- 0.03549715630515751
+College & University::College Residence Hall --- 0.03157481859188044
+Food::Pizza Place --- 0.03157481859188044
+Food::Sandwich Place --- 0.027652480878603364
+Shop & Service::Bank --- 0.023730143165326293
+Food::Indian Restaurant --- 0.01980780545204922
+Food::Breakfast Spot --- 0.01980780545204922
+Travel & Transport::Bus Station::Bus Line --- 0.01980780545204922
+Food::Italian Restaurant --- 0.01980780545204922
+Shop & Service::Miscellaneous Shop --- 0.01980780545204922
+

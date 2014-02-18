@@ -1,0 +1,578 @@
+"41326e00f964a52026171fe3","Joe Senser's Grill & Bar","Nightlife Spot::Sports Bar",44.85709327868965,-93.33291560411453
+"41326e00f964a520b0171fe3","AMF Southtown Lanes","Arts & Entertainment::Bowling Alley",44.859218973872146,-93.30251276493073
+"41326e00f964a520b4171fe3","Sports Page","Nightlife Spot::Sports Bar",44.839955918222834,-93.28924655914307
+"43713c00f964a520042a1fe3","Poor Richard's Commonhouse","Nightlife Spot::Bar",44.85275792,-93.349377
+"43be447cf964a520102d1fe3","White Castle","Food::Burger Joint",44.82933,-93.289033
+"4412be02f964a520d6301fe3","Mall of America","Shop & Service::Mall",44.854712760838005,-93.24203968048096
+"441db232f964a52072311fe3","Fuddruckers","Food::Burger Joint",44.86159762754053,-93.32821584542725
+"44435faaf964a5204c321fe3","Tiger Sushi","Food::Sushi Restaurant",44.854703871413875,-93.24351624669966
+"4444dadef964a52057321fe3","Bubba Gump Shrimp Co.","Food::Seafood Restaurant",44.853769653067594,-93.24098825454712
+"4444db31f964a52058321fe3","Tucci Benucch","Food::Italian Restaurant",44.85477360597022,-93.24324131011963
+"4444db6ef964a52059321fe3","Napa Valley Grille","Food::American Restaurant",44.854750789053185,-93.24345588684082
+"4444dbb2f964a5205a321fe3","Twin City Grill","Food::American Restaurant",44.855584,-93.241818
+"4444dd99f964a5205b321fe3","Famous Dave's Bar-B-Que","Food::BBQ Joint",44.85325245837812,-93.2420825958252
+"4444ddd5f964a5205c321fe3","Hooters","Food::American Restaurant",44.853784864605814,-93.24058055877684
+"4444de8ff964a5205e321fe3","Kokomo's Island Cafe","Food::Café",44.85297864754445,-93.24216842651367
+"4444debef964a5205f321fe3","Rainforest Cafe","Food::American Restaurant",44.85393935547543,-93.24056568013059
+"4444dee9f964a52060321fe3","Ruby Tuesday","Food::American Restaurant",44.85561611333955,-93.24181265324209
+"4444df1af964a52061321fe3","Tony Roma's","Food::BBQ Joint",44.853779160279466,-93.24327886104584
+"4444df72f964a52062321fe3","IHOP","Food::Breakfast Spot",44.85145745254028,-93.2404088973999
+"44756d24f964a520b7331fe3","Applebee's","Food::American Restaurant",44.82974947342048,-93.28779612040351
+"4484604af964a52020341fe3","T.G.I. Friday's","Food::American Restaurant",44.86250041523434,-93.3512806892395
+"44b37282f964a5204b351fe3","Chevys Fresh Mex","Food::Mexican Restaurant",44.85176169475548,-93.2389497756958
+"44c50aa7f964a520d0351fe3","IKEA","Shop & Service::Furniture / Home Store",44.85827209295,-93.24472188949585
+"44d5c1aaf964a52057361fe3","Hyland Lake Park Reserve","Outdoors & Recreation::Park",44.82425170405672,-93.3731460571289
+"44dc661df964a520a4361fe3","Famous Dave's Bar-B-Que","Food::BBQ Joint",44.82488882448941,-93.34762637239216
+"44e30b41f964a52031371fe3","Outback Steakhouse","Food::Steakhouse",44.861466178040175,-93.25611591339111
+"44f05254f964a520f6371fe3","Perkins Restaurant & Bakery","Food::Breakfast Spot",44.859542266666665,-93.33036643
+"450905a1f964a52036391fe3","REI","Shop & Service::Sporting Goods Shop",44.86070569766204,-93.29010486602783
+"450c2e89f964a5204f391fe3","TGI Friday's","Food::American Restaurant",44.85127639770508,-93.2415542602539
+"4513bee6f964a520bf391fe3","Olive Garden","Food::Italian Restaurant",44.8573035,-93.34004759788513
+"453bc1fef964a520043c1fe3","Davanni's Pizza and Hot Hoagies","Food::Pizza Place",44.84767506245564,-93.28816958744095
+"4544d551f964a5206e3c1fe3","Cold Stone Creamery","Food::Ice Cream Shop",44.825222,-93.287046
+"4544d73ff964a5206f3c1fe3","Hyland Ski and Snowboard Area","Outdoors & Recreation::Ski Area",44.843606158663064,-93.36370758540656
+"45462f71f964a5207a3c1fe3","Mandarin Kitchen","Food::Dim Sum Restaurant",44.84450928386387,-93.28907378257769
+"45823908f964a520703f1fe3","Motorwerks BMW","Shop & Service::Automotive Shop",44.859943619816455,-93.29646030533623
+"4587ab25f964a520cd3f1fe3","Walser Collision & Glass - Bloomington","Shop & Service::Automotive Shop",44.840526560536354,-93.28468072993968
+"459d0982f964a520a0401fe3","Chili's Grill & Bar","Food::American Restaurant",44.86159256410932,-93.34917422132688
+"45a6ac27f964a5200d411fe3","Sawatdee","Food::Thai Restaurant",44.850032329559326,-93.28794497
+"45af4134f964a52085411fe3","1st Wok","Food::Chinese Restaurant",44.86150539,-93.2701311
+"45b71ecdf964a520c0411fe3","Ciao Bella","Food::Italian Restaurant",44.86157859794569,-93.32441432544012
+"45c21f0df964a52033421fe3","Tandoor Restaurant","Food::Indian Restaurant",44.85751032829285,-93.30531
+"45cec796f964a5209e421fe3","Woolleys Steakhouse","Food::Steakhouse",44.86032872105113,-93.22202684894472
+"45efb910f964a520b6431fe3","Kincaid's","Nightlife Spot::Lounge",44.853123679271526,-93.35517424416992
+"46271c8cf964a520c2451fe3","Sid's Discount Liquors","Shop & Service::Food & Drink Shop::Liquor Store",44.851931,-93.288729
+"47a62941f964a5208a4d1fe3","Red Lobster","Food::Seafood Restaurant",44.858248,-93.30442239999999
+"483eb677f964a5201f501fe3","Joke Joint Comedy Club","Arts & Entertainment::Comedy Club",44.860588,-93.239568
+"4888615ef964a52049511fe3","David Fong's","Food::Chinese Restaurant",44.83376851163464,-93.28827769685124
+"48da1003f964a52007521fe3","Cantina #1","Food::Mexican Restaurant",44.85446937966616,-93.24049472808838
+"49cbe5e3f964a5202a591fe3","Zeke's Place","Food::Burger Joint",44.808558271709835,-93.38531820630273
+"49cd1742f964a520b5591fe3","Sheraton Hotel","Travel & Transport::Hotel",44.861823600347876,-93.35285782814026
+"49d7dc71f964a5206d5d1fe3","Shantytown Bar and Grill","Nightlife Spot::Dive Bar",44.8494662914546,-93.28250400523319
+"49e0421ff964a5204c611fe3","Umbria - Bloomington","Food::Pizza Place",44.825141855181705,-93.28689686276381
+"49e2a8cbf964a52049621fe3","Marriott","Travel & Transport::Hotel",44.860888213868904,-93.24414253234863
+"4a105af1f964a520a9761fe3","Kimson","Food::Vietnamese Restaurant",44.846237,-93.289045
+"4a19cdb2f964a520557a1fe3","SONIC Drive In","Food::Burger Joint",44.85809314,-93.306076
+"4a1c3c38f964a520287b1fe3","Bloomington Ice Garden","Outdoors & Recreation::Athletic & Sport::Skating Rink",44.82717374232801,-93.32465171813965
+"4a3e39c4f964a520c9a21fe3","Water Park Of America","Arts & Entertainment::Water Park",44.86025700952737,-93.25107336044312
+"4a3f8d41f964a520c4a31fe3","Walser Automotive Group","Shop & Service::Car Dealership",44.85707612256411,-93.33495406084752
+"4a42dc34f964a52050a61fe3","Nickelodeon Universe","Arts & Entertainment::Theme Park",44.85462149301912,-93.24203968048096
+"4a46bc50f964a5205ca91fe3","Oak City","Food::American Restaurant",44.85780057014182,-93.34569096565247
+"4a496f1ff964a52054ab1fe3","SEA LIFE Minnesota Aquarium","Arts & Entertainment::Aquarium",44.85471276083798,-93.23955059051514
+"4a4ed5f2f964a52025af1fe3","Sofitel Minneapolis","Travel & Transport::Hotel::Motel",44.86045217672134,-93.3544508973602
+"4a5f4a80f964a5205bbf1fe3","Hilton Minneapolis/St. Paul Airport Mall of America","Travel & Transport::Hotel",44.86049276135611,-93.21882247924805
+"4a60bfaff964a52023c11fe3","Bella Cucina","Food::Pizza Place",44.83429327096178,-93.39623048660852
+"4a65f259f964a520bec71fe3","Microsoft (Bloomington)","Professional & Other Places::Office",44.852731869513114,-93.35304359998177
+"4a6b8aadf964a5200fcf1fe3","Tea Garden","Food::Tea Room",44.855544,-93.243169
+"4a72034ef964a52020da1fe3","The Nerdery","Professional & Other Places::Office::Tech Startup",44.830921041402455,-93.30049068034498
+"4a745daaf964a520eddd1fe3","Hilton Minneapolis/St. Paul Airport Mall of America","Travel & Transport::Hotel",44.86049276135611,-93.21882247924805
+"4a74b905f964a5205fdf1fe3","Subway - Bloomington","Food::Sandwich Place",44.8106803894043,-93.33206939697266
+"4a7860b0f964a52080e51fe3","Southtown Shopping Center","Shop & Service::Mall",44.860438208018685,-93.30624191056324
+"4a7c3adff964a52005ec1fe3","Radisson Hotel","Travel & Transport::Hotel",44.86040248646675,-93.25090080824836
+"4a7c590ef964a52052ec1fe3","American Red Cross Donation Center - Bloomington","Nightlife Spot::Wine Bar",44.82539735050215,-93.28641038599915
+"4a81b8f1f964a5205df71fe3","Taco Bell","Food::Taco Place",44.83623253704811,-93.2893047481399
+"4a820fc6f964a5206ef81fe3","Culver's","Food::Fast Food Restaurant",44.86049276135611,-93.27787399291992
+"4a82f981f964a520b3f91fe3","Four51 Corporate Offices","Professional & Other Places::Office",44.852507081390364,-93.35312604904175
+"4a85f3e0f964a520c9ff1fe3","Party City","Shop & Service::Miscellaneous Shop",44.85967838874789,-93.3070382878634
+"4a860d58f964a5203a0020e3","Hancock Fabrics","Shop & Service::Hobby Shop",44.85967412741131,-93.30752005324238
+"4a89a49df964a5209c0820e3","Festival Foods - W 98th","Shop & Service::Food & Drink Shop::Grocery Store",44.82543367073962,-93.28566839538384
+"4a8b6879f964a520640c20e3","Rainbow Foods","Shop & Service::Food & Drink Shop::Grocery Store",44.860146554635755,-93.31319835852926
+"4a8c25c1f964a520100d20e3","Embassy Suites","Travel & Transport::Hotel",44.8594280680136,-93.31593990325928
+"4a8c4ce4f964a5209a0d20e3","Chipotle Mexican Grill","Food::Mexican Restaurant",44.811070253260006,-93.32872867584229
+"4a8d7136f964a520a60f20e3","Starbucks","Food::Coffee Shop",44.82702916579243,-93.28904807567596
+"4a8f2c09f964a520391420e3","Johnny Rockets","Food::Diner",44.85441710048055,-93.24254906963678
+"4a9048f2f964a5200d1720e3","Verizon Wireless","Shop & Service::Electronics Store",44.86097947175535,-93.30765724182129
+"4a908738f964a5205c1820e3","Lunds","Shop & Service::Food & Drink Shop::Grocery Store",44.82416038797408,-93.34902763366699
+"4a92c9e4f964a520b11d20e3","Subway","Food::Sandwich Place",44.82773603851086,-93.28794845529887
+"4a92dc65f964a520f11d20e3","Weber Shandwick","Professional & Other Places::Office",44.852461445751196,-93.35168838500977
+"4a92ebb4f964a520281e20e3","TCF Bank","Professional & Other Places::Building",44.8607177471567,-93.30988470492277
+"4a932d90f964a5201b1f20e3","McDonald's","Food::Fast Food Restaurant",44.81077655286403,-93.33098971429317
+"4a949399f964a5200b2220e3","American Eagle Outfitters","Shop & Service::Clothing Store",44.85538189032913,-93.24070314017219
+"4a9575f6f964a520492320e3","Caribou Coffee","Food::Coffee Shop",44.85923033708227,-93.30934166908264
+"4a9880c4f964a520672c20e3","Sawa Japan","Food::Japanese Restaurant",44.86100256443024,-93.31311821937561
+"4a9ac819f964a520a83220e3","Salad Fusion","Food::Salad Place",44.856007,-93.242134
+"4a9ade42f964a520423320e3","Dwan Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",44.80361059175712,-93.32199096679688
+"4a9afe50f964a520ec3320e3","Express","Shop & Service::Clothing Store",44.85465191564147,-93.2438850402832
+"4a9c5d31f964a520f03620e3","Magic Pan","Food::Dessert Shop",44.85453102271304,-93.24348187967388
+"4a9d344cf964a520ee3720e3","Schwan's Consumer Brands","Professional & Other Places::Office",44.853614273590026,-93.35687685748321
+"4a9d44c8f964a520153820e3","Cub Foods","Shop & Service::Food & Drink Shop::Grocery Store",44.81212061790213,-93.33079934120178
+"4a9ed180f964a5204c3b20e3","Dairy Queen","Food::Fast Food Restaurant",44.86330777,-93.35206334
+"4aa00f46f964a5201a3e20e3","American Girl Boutique & Bistro","Shop & Service::Toy / Game Store",44.854814124228156,-93.24089951233127
+"4aa42c1ef964a520aa4520e3","Arden B.","Shop & Service::Clothing Store::Women's Store",44.853603128033576,-93.24279454423542
+"4aa5372df964a5209f4720e3","Nestlé Toll House Café by Chip","Food::Dessert Shop",44.85459616092709,-93.24328549713323
+"4aa7218df964a520fc4b20e3","Holiday Inn","Travel & Transport::Hotel",44.83266518640507,-93.29635709276366
+"4aa96b08f964a520915320e3","Valley View Playfields","Outdoors & Recreation::Athletic & Sport::Baseball Field",44.83968204417852,-93.27315330505371
+"4aaa51a4f964a520b15520e3","Caribou Coffee","Food::Coffee Shop",44.852443047517085,-93.35151825311789
+"4aaab108f964a520fb5620e3","Westwood Sports","Shop & Service::Sporting Goods Shop",44.829862117767334,-93.28670382499695
+"4aaaf096f964a520255820e3","Bloomington Chop House - Hilton","Food::American Restaurant",44.85640211677214,-93.33039459803838
+"4aac2ff7f964a520c35c20e3","Eddie Bauer","Shop & Service::Sporting Goods Shop",44.854873,-93.243375
+"4aac41c5f964a520295d20e3","Clarks Shoes","Shop & Service::Clothing Store::Shoe Store",44.853999,-93.240658
+"4aae86faf964a520596220e3","Zantigo","Food::Mexican Restaurant",44.8277871,-93.28796776
+"4ab56fbff964a5209d7420e3","Nordstrom Rack","Shop & Service::Clothing Store",44.85431916269762,-93.24360461916268
+"4ab67469f964a5202d7720e3","Noodles & Company","Food::Ramen /  Noodle House",44.853663172187716,-93.24236154556274
+"4ab67ae9f964a520537720e3","The LEGO® Store","Shop & Service::Toy / Game Store",44.85446937966616,-93.24259757995605
+"4ab795fcf964a520297a20e3","Apple Store","Shop & Service::Electronics Store",44.8535871142958,-93.24246883392334
+"4ab958b9f964a520087f20e3","T.J. Maxx","Shop & Service::Clothing Store",44.85968518027177,-93.30623699469412
+"4aba4e6bf964a520cf8020e3","The UPS Store","Shop & Service::Paper / Office Supplies Store",44.8607969558378,-93.30788254737854
+"4aba79a6f964a520778120e3","Jimmy John's","Food::Sandwich Place",44.852522293262055,-93.34683895111084
+"4abab209f964a5207e8220e3","Grand Szechuan","Food::Asian Restaurant",44.81082668771225,-93.33237648010254
+"4abb7d4df964a520d58320e3","Courtyard by Marriott","Travel & Transport::Hotel",44.861367850227964,-93.25398949635121
+"4abcfbaef964a520f28720e3","Vixen Nails & Spa","Shop & Service::Cosmetics Shop",44.85275241,-93.34702216
+"4ac0dfe5f964a520d09420e3","Healthy Express","Food::Juice Bar",44.853855278738585,-93.24212194677564
+"4ac2a925f964a520379a20e3","Rick Bronson's House of Comedy","Arts & Entertainment::Comedy Club",44.85486567020416,-93.24048936367035
+"4ac534def964a520fab020e3","Theatres at Mall of America","Arts & Entertainment::Movie Theater::Multiplex",44.85345781564904,-93.24209332466125
+"4ac68686f964a520d9b420e3","Bloomington Central LRT Station","Travel & Transport::Light Rail",44.85644498299525,-93.22632593473648
+"4aca8d7ef964a52055c220e3","Best Buy Mobile","Shop & Service::Electronics Store",44.85497895781689,-93.24205577373505
+"4acb3d18f964a52053c320e3","Embassy Suites - Minneapolis Airport","Travel & Transport::Hotel",44.85994520723896,-93.2219660282135
+"4acb97d5f964a52075c420e3","Wells Fargo","Shop & Service::Bank",44.82676656,-93.28926578
+"4accb885f964a52048c920e3","Columbia Sportswear Company","Shop & Service::Sporting Goods Shop",44.854156079354425,-93.24352115627676
+"4accbadff964a52050c920e3","Macy's","Shop & Service::Department Store",44.85370880687463,-93.24431419372559
+"4acd4516f964a520a2cb20e3","#WolfgangPuck Express","Food::American Restaurant",44.855521,-93.243493
+"4acfadf9f964a52048d520e3","Mall of America LRT Station","Travel & Transport::Light Rail",44.85401303719664,-93.23886394500732
+"4ad25a4af964a52013e120e3","Nick and Willy's Pizza","Food::Pizza Place",44.81119418438236,-93.32850601232498
+"4ad4eee7f964a520befc20e3","SuperAmerica","Shop & Service::Gas Station / Garage",44.83559711898249,-93.39603349268313
+"4ad4fc43f964a5201b0121e3","Crowne Plaza","Travel & Transport::Hotel",44.856233869857554,-93.35160255432129
+"4ad77ddbf964a520630b21e3","Lids","Shop & Service::Clothing Store::Accessories Store",44.85466228041102,-93.24070804946655
+"4ad8a7b1f964a520531321e3","Perkins Restaurant & Bakery","Food::Diner",44.82507354229141,-93.34954261779785
+"4ada0cf2f964a520cc1d21e3","Banana Republic","Shop & Service::Clothing Store",44.85449980236892,-93.24440002441406
+"4ada17d3f964a5204b1e21e3","Sephora","Shop & Service::Cosmetics Shop",44.85385870950699,-93.2434720605281
+"4adca86ff964a520682e21e3","Nike Mall of America","Shop & Service::Sporting Goods Shop",44.85532120926737,-93.2433432340622
+"4adcaa5bf964a520822e21e3","Barnes & Noble","Shop & Service::Bookstore",44.85479179292691,-93.24030548896818
+"4adcbd57f964a520472f21e3","Wells Fargo Plaza","Shop & Service::Bank",44.860036466620116,-93.31997394561768
+"4adccfaff964a520163021e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",44.855173246979305,-93.2436733534111
+"4ade06faf964a5207f6721e3","Bruegger's","Food::Bagel Shop",44.810461337462016,-93.32872867584229
+"4ade2058f964a520487321e3","T-Mobile","Shop & Service::Mall",44.85560563351574,-93.24252943172218
+"4adf453af964a520f47821e3","Kabobs","Food::Indian Restaurant",44.86120104789734,-93.26894041666667
+"4ae04cbff964a5208f7e21e3","U.S. Bank","Shop & Service::Bank",44.858335066651335,-93.28934406153545
+"4ae0ea70f964a520ab8321e3","GameStop","Shop & Service::Video Game Store",44.85566161739094,-93.24216122228512
+"4ae19eb6f964a520728621e3","Caribou Coffee","Food::Coffee Shop",44.81030323982828,-93.32917979630166
+"4ae1b355f964a520cd8621e3","28th Avenue LRT Station","Travel & Transport::Train Station",44.85588477562834,-93.23145490590002
+"4ae494c4f964a520e79b21e3","The Afternoon","Shop & Service::Gift Shop",44.85391503274788,-93.24058040797368
+"4ae49670f964a520f99b21e3","Sears","Shop & Service::Electronics Store",44.85539,-93.240449
+"4ae499f0f964a520309c21e3","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",44.855499283173664,-93.24091914959061
+"4ae4a1bdf964a520809c21e3","Ragstock","Shop & Service::Clothing Store",44.85346542145982,-93.24457168579102
+"4ae61062f964a52071a421e3","Arby's","Shop & Service::Mall",44.855579010583874,-93.24156227419694
+"4ae6137ef964a52087a421e3","Street Corner","Shop & Service::Smoke Shop",44.85470703581029,-93.24020239474007
+"4ae8940df964a52094b021e3","Taco Bell","Shop & Service::Mall",44.855519,-93.24193
+"4ae9f414f964a520f4b721e3","Hunan Chinese Restaurant","Food::Chinese Restaurant",44.85778618049982,-93.30541113566704
+"4aea3098f964a52009ba21e3","Teavana","Food::Tea Room",44.85526036471374,-93.24465751647949
+"4aeb1d1bf964a5208bbe21e3","Bloomingdale's","Shop & Service::Department Store",44.85355669111092,-93.24010848999023
+"4aeb6e8ff964a520f8c121e3","Old Navy","Shop & Service::Clothing Store",44.854134728875444,-93.24045181274414
+"4aeb6f74f964a52008c221e3","MAC","Shop & Service::Cosmetics Shop",44.855551819371136,-93.2442575984271
+"4aed0b83f964a520eacc21e3","Life Time Fitness","Shop & Service::Gym / Fitness Center",44.826226,-93.293028
+"4aef289df964a52024d621e3","Crowne Plaza Hotel & Suites Airport","Travel & Transport::Hotel",44.85793746425811,-93.2219123840332
+"4af1a51bf964a520cae121e3","Minnesota Valley Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",44.79306180089743,-93.36282170272321
+"4af4d537f964a520aef621e3","Holiday Stationstores","Shop & Service::Gas Station / Garage",44.84160372794008,-93.30945699441536
+"4af5c771f964a520b9fc21e3","MN Valley NWR - Bloomington Visitor Center","Outdoors & Recreation::Other Great Outdoors",44.858302513643714,-93.21779251098633
+"4af5e41ff964a52062fe21e3","The Green Mill Restaurant And Bar","Food::Pizza Place",44.832698630431885,-93.29673553992475
+"4af626bdf964a520b80122e3","AT&T","Shop & Service::Mobile Phone Shop",44.85538425306016,-93.24054113373529
+"4af62ac8f964a520dc0122e3","Urban Outfitters","Shop & Service::Clothing Store",44.85481411283384,-93.24358498082374
+"4af6ff6af964a520a40422e3","Home Depot","Shop & Service::Hardware Store",44.86030263898891,-93.28469753265381
+"4af7272cf964a520770622e3","Saltwater Empire","Food::Seafood Restaurant",44.837331599254355,-93.28767327002626
+"4af757faf964a520990822e3","Tbs Mart","Shop & Service::Food & Drink Shop::Grocery Store",44.860849080396704,-93.26882184481764
+"4af7608ff964a520de0822e3","Toys "R" Us","Shop & Service::Toy / Game Store",44.86123730453292,-93.30332688657498
+"4af87ef6f964a520cd0d22e3","Game Room at The Nerdery","Arts & Entertainment::Arcade",44.83048629760742,-93.30067443847656
+"4af8c869f964a520e50f22e3","Target","Shop & Service::Department Store",44.85983113280913,-93.31140160560608
+"4af999eff964a520851222e3","Interstate Detroit Diesel","Shop & Service::Automotive Shop",44.858119989240215,-93.23577404022217
+"4afc9fd1f964a520832422e3","Pro Image America","Shop & Service::Clothing Store",44.85557979790317,-93.2410204410553
+"4afcd047f964a5200b2622e3","Applebee's","Food::American Restaurant",44.86041152574535,-93.30723492622259
+"4afd9e9ef964a5202d2922e3","Aspen Medical Group Bloomington","Professional & Other Places::Medical Center",44.858842403368065,-93.24866666425217
+"4afdb810f964a520252a22e3","Chipotle Mexican Grill","Food::Mexican Restaurant",44.853891345260685,-93.24161052703857
+"4aff5cf8f964a520c63722e3","Arby's","Food::Fast Food Restaurant",44.83591656388185,-93.28917697982207
+"4b006e51f964a520243e22e3","A&W","Shop & Service::Mall",44.85556464986051,-93.24141499300518
+"4b009ef8f964a5200d4022e3","Walgreens","Shop & Service::Drugstore / Pharmacy",44.85967142822765,-93.30967426300049
+"4b03052ef964a520f74b22e3","TRIA Orthopedic Center","Professional & Other Places::Medical Center",44.85790142169707,-93.3280486313825
+"4b030f4cf964a520554c22e3","Discland","Shop & Service::Record Shop",44.82695636084733,-93.2905382209471
+"4b031ef2f964a520d34c22e3","Williams Sonoma","Shop & Service::Furniture / Home Store",44.855483,-93.24342521
+"4b04908df964a520385522e3","Bloomington Civic Theater","Arts & Entertainment::Performing Arts Venue::Theater",44.825666520365694,-93.30286974000127
+"4b06eab5f964a520f9f222e3","Great Steak & Potato","Food::Fast Food Restaurant",44.853206634521484,-93.24192810058594
+"4b070084f964a5201ef522e3","Lupient Chevrolet","Shop & Service::Automotive Shop",44.859130877334266,-93.29987627252171
+"4b0c7018f964a520473d23e3","Cub Foods","Shop & Service::Food & Drink Shop::Grocery Store",44.85066641525909,-93.28787326812744
+"4b0da675f964a520214d23e3","Holiday Station Store","Shop & Service::Convenience Store",44.85486487354805,-93.24440002441406
+"4b0ff930f964a520ee6623e3","PUMA","Shop & Service::Sporting Goods Shop",44.85558944597678,-93.24329531624151
+"4b11af90f964a5203d8223e3","Wendy's FourCrown","Food::Fast Food Restaurant",44.858292,-93.30531299114227
+"4b12b881f964a520cf8c23e3","Church of St. Edward","Professional & Other Places::Spiritual Center::Church",44.8323008813242,-93.35715243048688
+"4b12d39df964a520f18e23e3","Wendys","Food::Burger Joint",44.82969996852731,-93.28896760940552
+"4b1558cdf964a52055ab23e3","Market Pointe","Professional & Other Places::Office",44.86143715322553,-93.33514589217134
+"4b159112f964a520f1ae23e3","Hollywood Cycles","Shop & Service::Bike Shop",44.82685999333907,-93.28962996761722
+"4b15e8b4f964a5208ab523e3","Quality Bicycle Products","Professional & Other Places::Office",44.814509273481555,-93.3666606426341
+"4b1a7cf7f964a5200beb23e3","Denny's 5th Avenue Bakery","Food::Bakery",44.86018488,-93.270155
+"4b1aa657f964a5205cee23e3","Infiniti of Bloomington","Shop & Service::Automotive Shop",44.85744579226914,-93.29896696306267
+"4b1ac01ef964a520fbf023e3","Charlotte Russe","Shop & Service::Clothing Store::Women's Store",44.85400229262763,-93.2404429482775
+"4b1af072f964a52016f523e3","Ann Taylor","Shop & Service::Clothing Store::Women's Store",44.855453766490285,-93.24163100557173
+"4b1af52ef964a5206ef523e3","J.Crew","Shop & Service::Clothing Store",44.85373922997915,-93.24066638946533
+"4b1b1208f964a52090f723e3","Michaels","Shop & Service::Arts & Crafts Store",44.86043652636486,-93.33288823245502
+"4b1c0a8ef964a520260124e3","St. Michael's Lutheran Church","Professional & Other Places::Spiritual Center::Church",44.83671249490373,-93.349131918097
+"4b1d59f8f964a5203f0f24e3","Wally's Famous Roast Beef Sandwiches","Food::American Restaurant",44.855849869095955,-93.31010593595745
+"4b1ea1c2f964a5200b1d24e3","Gyropolis","Food::Greek Restaurant",44.840381941926424,-93.30993175506592
+"4b1fc937f964a520082924e3","Northwestern Health Sciences University","College & University::University",44.851161158325056,-93.3109859537187
+"4b22beeaf964a520ce4c24e3","Kim's Hallmark","Shop & Service::Mall",44.85313076483497,-93.24238300323486
+"4b22c498f964a520304d24e3","American Apparel","Shop & Service::Clothing Store",44.855575,-93.242842
+"4b22c636f964a5204b4d24e3","Godiva Chocolatier","Shop & Service::Candy Store",44.85424120888342,-93.24053764343262
+"4b22c814f964a520704d24e3","H&M","Shop & Service::Clothing Store",44.85443895694738,-93.2433271408081
+"4b22f6baf964a520365124e3","Starbucks","Food::Coffee Shop",44.85480402851224,-93.24414253234863
+"4b23d448f964a520a25a24e3","M1 Volleyball","Shop & Service::Gym / Fitness Center::Gym",44.832361936569214,-93.30163651666666
+"4b243dc9f964a520826424e3","f.y.e.","Shop & Service::Record Shop",44.854834451038165,-93.24225425720215
+"4b2569acf964a5207f7124e3","Mastercuts","Shop & Service::Salon / Barbershop",44.855005,-93.240601
+"4b281f14f964a520598f24e3","Discount Tire Co.","Shop & Service::Automotive Shop",44.85063314437866,-93.28817363
+"4b283c03f964a520519124e3","Gap","Shop & Service::Mall",44.853617231261175,-93.24096333345297
+"4b284f33f964a520579224e3","Club Monaco","Shop & Service::Clothing Store::Women's Store",44.85549606768527,-93.24343769353341
+"4b2acb49f964a520cfaf24e3","Hilton Minneapolis/St. Paul Airport Mall of America","Travel & Transport::Hotel",44.86049276135611,-93.21882247924805
+"4b2c28dcf964a520e4c224e3","Alpaca Connection","Shop & Service::Clothing Store::Boutique",44.854794,-93.2406293
+"4b2d4bb2f964a52067d324e3","Brookstone","Shop & Service::Electronics Store",44.85472797212707,-93.24227571487427
+"4b30d7dff964a5200efc24e3","Bobby & Steve's Auto World","Shop & Service::Automotive Shop",44.8598235278391,-93.32928657531738
+"4b30f1b1f964a52020fd24e3","Walser Buick GMC","Shop & Service::Automotive Shop",44.85763325466883,-93.34104537963867
+"4b3119cdf964a5203a0025e3","McDonald's","Food::Fast Food Restaurant",44.859762688042736,-93.30812931060791
+"4b314f73f964a520720425e3","American Boulevard LRT Station","Travel & Transport::Light Rail",44.85916949665911,-93.22317838668823
+"4b339c24f964a520701b25e3","Masonic Home","Professional & Other Places::Building",44.795974652212266,-93.34678013814968
+"4b37b9a9f964a520134525e3","Qdoba Mexican Grill","Food::Mexican Restaurant",44.85559881172764,-93.24205175042152
+"4b3861b2f964a520d64d25e3","Ramada","Travel & Transport::Hotel::Motel",44.86090182566229,-93.23963783496876
+"4b390f28f964a520495525e3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",44.85556458683911,-93.24246883392334
+"4b391d3af964a5207d5625e3","Caribou Coffee (3)","Food::Coffee Shop",44.85388946533203,-93.24435424804688
+"4b3b9e44f964a520217725e3","Surabhi Indian Cuisine","Food::Indian Restaurant",44.82528997035217,-93.28672978939119
+"4b3baaaef964a5205d7825e3","Nordstrom Cafe","Food::American Restaurant",44.8563346862793,-93.2441635131836
+"4b3cc765f964a5202e8725e3","Luther Bloomington Acura Subaru","Shop & Service::Car Dealership",44.86029107933739,-93.2875848179453
+"4b3cdd19f964a5207c8825e3","A.C.E.S","Arts & Entertainment::Arcade",44.854286843112305,-93.24036598205566
+"4b3f7f95f964a520eaa725e3","Caribou Coffee","Food::Coffee Shop",44.82429122924805,-93.34931945800781
+"4b3fbb8ef964a5207cad25e3","True Religion Jeans","Shop & Service::Clothing Store",44.85389483359081,-93.24087987507984
+"4b3fc3d1f964a5203fae25e3","Starbucks","Food::Coffee Shop",44.861040310265956,-93.30731391906738
+"4b429773f964a52033d725e3","Sam's Club #4787","Shop & Service::Food & Drink Shop::Grocery Store",44.860249404613576,-93.28201532363892
+"4b4297e4f964a5203bd725e3","Walmart Supercenter","Shop & Service::Department Store",44.860761979602636,-93.26555672644474
+"4b42f1d3f964a52024db25e3","Quality Inn & Suites","Travel & Transport::Hotel",44.860803048860106,-93.26187169117797
+"4b43a84df964a5206de525e3","Origins","Shop & Service::Cosmetics Shop",44.85395219126081,-93.24452877044678
+"4b455400f964a520ad0a26e3","Aldo","Shop & Service::Clothing Store::Shoe Store",44.85545305,-93.2432
+"4b47d195f964a5202b4026e3","McDonald's","Food::Fast Food Restaurant",44.85450508086108,-93.24228395845574
+"4b48bce7f964a520d15426e3","Metropark","Shop & Service::Clothing Store",44.855229942412805,-93.24285507202148
+"4b4a0934f964a520967826e3","Bloomington City Hall","Professional & Other Places::Government Building::City Hall",44.82551391249802,-93.30284516234912
+"4b4a11f8f964a5209f7926e3","Abercrombie & Fitch","Shop & Service::Clothing Store",44.855442,-93.243301
+"4b4a66e1f964a520888626e3","La Mixteca","Food::Mexican Restaurant",44.8610858,-93.268829
+"4b4b1527f964a520fc9126e3","BP","Shop & Service::Gas Station / Garage",44.861466178040175,-93.26748847961426
+"4b4ba94af964a5202ca326e3","Villa Pizza","Food::Pizza Place",44.854923248291016,-93.24201965332031
+"4b4e61fef964a520a6eb26e3","limited","Shop & Service::Mall",44.853833,-93.24075758457184
+"4b4f551ff964a520aa0127e3","Capers Cafe","Food::Café",44.851924896240234,-93.23774719238281
+"4b4f7b2af964a520530827e3","smart Center Bloomington","Shop & Service::Automotive Shop",44.857580065727234,-93.30127894878387
+"4b4fae73f964a520a11027e3","Sinful Wine & Spirits","Shop & Service::Food & Drink Shop::Wine Shop",44.859913883333334,-93.304476
+"4b4fe63cf964a520021927e3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",44.81021776934277,-93.33203315734863
+"4b507ca5f964a520e42427e3","August Ash, Inc.","Professional & Other Places::Office",44.85577754137056,-93.23504447937012
+"4b50f773f964a520003b27e3","Disney Store","Shop & Service::Toy / Game Store",44.85348239871015,-93.24131753971669
+"4b52009ff964a520846027e3","Walgreens","Shop & Service::Drugstore / Pharmacy",44.8097953,-93.33067125
+"4b521ee2f964a5208c6927e3","Thomas Jefferson Senior High School","Professional & Other Places::School::High School",44.817548960899636,-93.33259312119503
+"4b539349f964a52004a327e3","Subway","Food::Sandwich Place",44.85466731086396,-93.24030548896818
+"4b539db8f964a520b8a427e3","Holiday Station Store","Shop & Service::Gas Station / Garage",44.8591532,-93.27805638313293
+"4b53ab39f964a5201ea727e3","Sanrio - Mall of America","Shop & Service::Gift Shop",44.85562183333333,-93.242532
+"4b53c1c5f964a52071aa27e3","evergreen community church","Professional & Other Places::Spiritual Center::Church",44.84563135939151,-93.23817001010568
+"4b54a818f964a52030c527e3","Swatch","Shop & Service::Miscellaneous Shop",44.854752,-93.240535
+"4b54b109f964a52050c727e3","CRAVE Restaurant MOA","Food::Sushi Restaurant",44.85386092223654,-93.24328422546387
+"4b54d928f964a52087cf27e3","RadioShack","Shop & Service::Electronics Store",44.854530225055576,-93.24053764343262
+"4b54f987f964a52020d627e3","Haskell's","Shop & Service::Food & Drink Shop::Wine Shop",44.824150482424834,-93.34906303591629
+"4b55d835f964a5208bf227e3","Orange Julius","Food::Dessert Shop",44.85548400878906,-93.2433090209961
+"4b5753eef964a520a13128e3","Herberger's","Shop & Service::Department Store",44.860431922266926,-93.30349445343018
+"4b5865c8f964a520f25528e3","Fairview Clinics – Bloomington","Professional & Other Places::Medical Center::Doctor's Office",44.826838016415856,-93.28749636602393
+"4b59e9b7f964a52073a028e3","Walgreens","Shop & Service::Drugstore / Pharmacy",44.860249404613604,-93.26723098754883
+"4b5a45f3f964a52039b928e3","Games by James","Shop & Service::Toy / Game Store",44.854707,-93.24051764999999
+"4b5b056bf964a52049df28e3","McDonald's","Food::Fast Food Restaurant",44.83047298333334,-93.288014
+"4b5b3e7ff964a520e1ed28e3","The Buckle","Shop & Service::Clothing Store",44.855297968626964,-93.24071786805673
+"4b5b4553f964a5202af028e3","American Eagle Outfitters","Shop & Service::Clothing Store",44.85538189032913,-93.24070314017219
+"4b5ca607f964a520013c29e3","Nordstrom","Shop & Service::Clothing Store",44.85592965126803,-93.24431419372559
+"4b5dada1f964a520666629e3","Axiom Marketing Communications","Professional & Other Places::Office",44.85781578061526,-93.34550857543945
+"4b606de1f964a5206ee529e3","Express Scripts, Inc.","Professional & Other Places::Office",44.861196,-93.367212
+"4b61dc0af964a52098272ae3","Liquor Time","Shop & Service::Food & Drink Shop::Liquor Store",44.85221564769745,-93.34695408
+"4b6332d7f964a520066a2ae3","Freshëns Yogurt","Food::Ice Cream Shop",44.85462188720703,-93.23959350585938
+"4b636001f964a5206c752ae3","Le Gourmet Chef","Shop & Service::Miscellaneous Shop",44.853446,-93.242587
+"4b636babf964a52086782ae3","Super America","Shop & Service::Gas Station / Garage",44.826673368414156,-93.29580171455402
+"4b636c23f964a520b0782ae3","Holiday Stationstores","Shop & Service::Gas Station / Garage",44.851063,-93.28785088
+"4b64972ef964a5202fc02ae3","Paradise Pen Company","Shop & Service::Miscellaneous Shop",44.85381444836952,-93.24181265324209
+"4b64e82bf964a52004d92ae3","Air Traffic","Shop & Service::Hobby Shop",44.8557085,-93.242628
+"4b65bc3bf964a5207ffc2ae3","Chez Daniel","Food::French Restaurant",44.85950469970703,-93.31597137451172
+"4b65d078f964a5206c012be3","Goodwill","Shop & Service::Thrift / Vintage Store",44.85960748384716,-93.28739317231738
+"4b68a5a3f964a520b7842be3","Wings Financial","Shop & Service::Bank",44.85662206739374,-93.22242435125403
+"4b698916f964a52054a62be3","Country Inn & Suites By Carlson, Bloomington at MOA, MN","Professional & Other Places::Building",44.851142968373075,-93.24137080873426
+"4b6b227bf964a52013f52be3","Subway","Food::Sandwich Place",44.80912780761719,-93.38485717773438
+"4b6b3289f964a520f6f82be3","Hyatt Place Minneapolis Airport-South","Travel & Transport::Hotel",44.86080189209175,-93.22682162994644
+"4b6c218ef964a52055252ce3","Bobby and Steve's Auto World","Shop & Service::Gas Station / Garage",44.80816444901444,-93.35107541932629
+"4b6c6366f964a520f6352ce3","Little Tokyo","Food::Japanese Restaurant",44.85331344604492,-93.24217224121094
+"4b6c6738f964a52028372ce3","SuperAmerica","Shop & Service::Gas Station / Garage",44.83559711898249,-93.39603349268313
+"4b6cb49cf964a520be4d2ce3","Burberry","Shop & Service::Clothing Store",44.85382930141846,-93.24049204098172
+"4b6d01e1f964a520b7622ce3","Knights of Columbus (Marian Council 3827)","Professional & Other Places::Spiritual Center",44.85974534,-93.29437483333334
+"4b6e2105f964a5208eac2ce3","MagiQuest","Shop & Service::Mall",44.8549561409812,-93.24203968048096
+"4b6f1a3cf964a52023dd2ce3","Forever 21","Shop & Service::Clothing Store::Women's Store",44.85478,-93.240556
+"4b6f34a3f964a5202fe42ce3","Levi's","Shop & Service::Clothing Store",44.853869,-93.24312
+"4b70b24ff964a520332a2de3","Caribou Coffee","Food::Coffee Shop",44.85541247597732,-93.2435417175293
+"4b70b294f964a520442a2de3","Caribou Coffee","Food::Coffee Shop",44.85541247597732,-93.2435417175293
+"4b70cc32f964a520142f2de3","Normandale Community College","College & University::Community College",44.82922103796372,-93.33117661179291
+"4b71aa67f964a520aa542de3","Walgreens","Shop & Service::Drugstore / Pharmacy",44.82592521320991,-93.28930697877172
+"4b739590f964a520f3b42de3","International Village Apartments","Residence::Residential Building (Apartment / Condo)",44.82977684615145,-93.28123542327887
+"4b75d669f964a5205a282ee3","John F. Kennedy Senior High School","Professional & Other Places::School::High School",44.82756942362369,-93.27662944793701
+"4b761672f964a520d73b2ee3","Champs Sports","Shop & Service::Mall",44.85434768869456,-93.24431419372559
+"4b76d714f964a52029632ee3","Bakers Square Bloomington‎","Food::American Restaurant",44.82596969604492,-93.28720092773438
+"4b780b6af964a52053b32ee3","Comfort Inn","Travel & Transport::Hotel",44.861207615838666,-93.25509667396545
+"4b7889e1f964a5203ed52ee3","Cold Stone Creamery","Food::Ice Cream Shop",44.85426089644222,-93.2421563128447
+"4b78a2e4f964a52056db2ee3","Osaka Japanese Steakhouse","Food::Japanese Restaurant",44.86108997119097,-93.31317377570606
+"4b78c2bdf964a52039e12ee3","Cambria Suites","Travel & Transport::Hotel",44.86131080727042,-93.23172977507498
+"4b798368f964a520fafd2ee3","Moose Mountain Adventure Golf","Arts & Entertainment::General Entertainment",44.855504,-93.242035
+"4b79af56f964a520f40a2fe3","Starbucks","Food::Coffee Shop",44.854560647726146,-93.2403016090393
+"4b7b1cdbf964a52025522fe3","Walser Automotive Group","Shop & Service::Car Dealership",44.85707612256411,-93.33495406084752
+"4b7da86bf964a520c0cc2fe3","Verizon Wireless","Shop & Service::Electronics Store",44.85492571851956,-93.2444429397583
+"4b7ef053f964a520cf0a30e3","Rybicki Cheese","Shop & Service::Food & Drink Shop::Cheese Shop",44.85447857276299,-93.24357025207473
+"4b7f1a55f964a520a41630e3","Claire's Boutique","Shop & Service::Jewelry Store",44.85539002038204,-93.2406589565452
+"4b803c26f964a5204f5f30e3","New York & Company","Shop & Service::Clothing Store::Women's Store",44.8540504921064,-93.24173410281526
+"4b8053e9f964a520686830e3","Build-A-Bear Workshop","Shop & Service::Toy / Game Store",44.854823690709615,-93.24047731316529
+"4b814c64f964a5202f9e30e3","Cedar Valley Church","Professional & Other Places::Spiritual Center::Church",44.84582868166238,-93.25405597686768
+"4b8173cdf964a520f9a630e3","ghostly gangplank","Arts & Entertainment::Theme Park",44.85472106933594,-93.24266052246094
+"4b8175e7f964a52093a730e3","pepsi orange streak","Arts & Entertainment::Theme Park",44.851806640625,-93.24031829833984
+"4b82ce63f964a5202fe630e3","Subway","Food::Sandwich Place",44.86027908325195,-93.26841735839844
+"4b83149bf964a52062f630e3","Bath & Body Works","Shop & Service::Cosmetics Shop",44.85554085228572,-93.2418372002764
+"4b842b05f964a5201f2531e3","Fossil","Shop & Service::Clothing Store::Accessories Store",44.853968542396906,-93.24055095229194
+"4b845a9cf964a520673031e3","Saturn of Bloomington","Shop & Service::Automotive Shop",44.85846,-93.30130915
+"4b846d48f964a520b83431e3","Long John Silvers","Shop & Service::Food & Drink Shop::Food Court",44.85441504039535,-93.24232323409548
+"4b84799af964a520b63731e3","Seven Hills Classical Academy","Professional & Other Places::School",44.8455548355349,-93.2543992996216
+"4b84b6aef964a520034231e3","La Quinta Inn Minneapolis Airport Bloomington","Travel & Transport::Hotel",44.860576,-93.276393
+"4b858bb4f964a5209f6431e3","bloomington lake clinic","Professional & Other Places::Medical Center::Doctor's Office",44.85949516296387,-93.318411
+"4b86d070f964a520279f31e3","Jimmy John's","Food::Sandwich Place",44.85950387662586,-93.30913252686047
+"4b87f1f2f964a52052d431e3","Taste Of Scandinavia","Food::Bakery",44.82543182373047,-93.28588104248047
+"4b892545f964a520301f32e3","Super 8","Travel & Transport::Hotel::Motel",44.86102079991299,-93.27514414908843
+"4b898289f964a5205b3d32e3","Russell Sorenson Landing","Outdoors & Recreation::River",44.80196629171961,-93.28898906707764
+"4b8af1fcf964a520998a32e3","Savers","Shop & Service::Thrift / Vintage Store",44.85767522396205,-93.30402981918405
+"4b8da6b0f964a5207a0633e3","GUESS Mall of America","Shop & Service::Clothing Store",44.85415825,-93.24321636666667
+"4b8dba7ff964a520e20a33e3","BEC-TV Offices & Studio","Arts & Entertainment::General Entertainment",44.84300267916424,-93.26956450939178
+"4b8eee45f964a5206b3f33e3","Kindcaids","Food::Steakhouse",44.85314178466797,-93.35528564453125
+"4b8ff0bef964a520e76a33e3","Park Nicollet Clinic","Shop & Service::Drugstore / Pharmacy",44.825022443555234,-93.35176427361112
+"4b8fff5ff964a5200d6f33e3","Lolamax","Shop & Service::Salon / Barbershop",44.860842,-93.307585
+"4b91357bf964a52032aa33e3","Bebe","Shop & Service::Clothing Store::Women's Store",44.85552775949332,-93.24332477357821
+"4b92d1c5f964a520ba1e34e3","Tropicana","Food::Juice Bar",44.85546875,-93.24405670166016
+"4b92f106f964a520d92834e3","Da Afghan","Food::Middle Eastern Restaurant",44.858787536621094,-93.2919692993164
+"4b93e061f964a520d55634e3","@Cinnabon","Food::Bakery",44.85539022908966,-93.24056077085055
+"4b93e70af964a520a15834e3","T-Mobile","Shop & Service::Mall",44.85560563351574,-93.24252943172218
+"4b9424cbf964a520f86a34e3","Yoga Pioneers","Shop & Service::Gym / Fitness Center::Yoga Studio",44.85761253015672,-93.30514568393058
+"4b946245f964a520307734e3","Bloomington Center for the Arts","Arts & Entertainment::Performing Arts Venue::Theater",44.825712741707086,-93.30203533172607
+"4b96bf63f964a520fbe134e3","Subway","Food::Sandwich Place",44.8605842590332,-93.30797576904297
+"4b96ef17f964a520d8ee34e3","dELiA*s","Shop & Service::Clothing Store::Women's Store",44.855579,-93.242258
+"4b99a507f964a520718935e3","Steve Madden","Shop & Service::Clothing Store::Shoe Store",44.85514211128256,-93.24341805526159
+"4b9ae375f964a520d2df35e3","Heritage 1981","Shop & Service::Clothing Store",44.85562412744855,-93.24243615173562
+"4b9bce9ef964a5208b2736e3","Golden Wok","Food::Chinese Restaurant",44.82509994506836,-93.28767395019531
+"4b9d90edf964a52002b436e3","Fairfield Inn","Travel & Transport::Hotel",44.85811418550384,-93.23702130837852
+"4b9e53f0f964a52048da36e3","Harrison Park","Outdoors & Recreation::Park",44.820690269651,-93.3019495010376
+"4b9f256ef964a5208f1537e3","Erik's Bike and Board Shop","Shop & Service::Bike Shop",44.86134344,-93.269711
+"4b9f88d8f964a520982937e3","Homewood Suites","Travel & Transport::Hotel",44.85135762345089,-93.23899964482484
+"4b9fdf22f964a520424637e3","Godiva Chocolatier","Food::Dessert Shop",44.854957580566406,-93.24341583251953
+"4ba13573f964a52040a237e3","Von Hanson's Meats","Shop & Service::Food & Drink Shop::Butcher",44.80811695161974,-93.35119485855103
+"4ba249d7f964a52011ea37e3","Northland Plaza","Professional & Other Places::Office",44.856592964020884,-93.32817650089498
+"4ba2f5f2f964a5200e2538e3","Lucky's 13 Pub","Nightlife Spot::Bar",44.86065511668896,-93.3014000180424
+"4ba3899ef964a520774538e3","Park 'N Fly","Travel & Transport::General Travel",44.85958132457072,-93.21987744813721
+"4ba3fba8f964a5203e7438e3","Journeys","Shop & Service::Clothing Store::Shoe Store",44.855534164698874,-93.24195384979248
+"4ba5027af964a520eccf38e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",44.855173246979305,-93.2436733534111
+"4ba934f9f964a52043143ae3","South Import Auto Repair","Shop & Service::Automotive Shop",44.85256347,-93.282467
+"4baa1805f964a520364a3ae3","Berry Plastics","Professional & Other Places::Office",44.83402723333333,-93.297408925
+"4baa6f34f964a520c7693ae3","CarSoup","Professional & Other Places::Office::Coworking Space",44.85918470677094,-93.25521469116211
+"4baa8947f964a52094723ae3","LoveSac","Shop & Service::Furniture / Home Store",44.854764,-93.243434
+"4baaacfaf964a520f27e3ae3","Countryside Park","Outdoors & Recreation::Playground",44.81748910596969,-93.3855594716423
+"4bab9189f964a520a2b43ae3","Bruegger's","Food::Bagel Shop",44.86099468138903,-93.30825805664062
+"4babcdc4f964a520f4ca3ae3","L-1 Identity Solutions","Professional & Other Places::Office::Coworking Space",44.80684931182455,-93.3553169464953
+"4babd3a7f964a520dacc3ae3","Holiday Stationstores","Shop & Service::Gas Station / Garage",44.82662158381154,-93.27910890082099
+"4bace838f964a5201f183be3","Golf Galaxy","Shop & Service::Sporting Goods Shop",44.860488054775736,-93.29503500806655
+"4bae6d63f964a520feb03be3","Richardson Nature Center","Arts & Entertainment::Zoo",44.843500948083054,-93.37284564971924
+"4bae8170f964a52096ba3be3","Navigators","Nightlife Spot::Bar",44.85754199147864,-93.34512233734131
+"4bae824bf964a520fdba3be3","Hockey Giant","Shop & Service::Sporting Goods Shop",44.86030041,-93.29038582
+"4baeb2cdf964a520f8cf3be3","L'Occitane en Provence","Shop & Service::Cosmetics Shop",44.855524309176744,-93.24345242224246
+"4baebc45f964a52071d33be3","Gilly Hicks","Shop & Service::Clothing Store::Lingerie Store",44.85510001307331,-93.24343278396472
+"4baebea5f964a5203bd43be3","Microtel Inn & Suites","Travel & Transport::Hotel",44.86131330399853,-93.26265752477552
+"4bafca21f964a520ee203ce3","Vans Store","Shop & Service::Clothing Store::Shoe Store",44.855555,-93.24123226
+"4bafcf26f964a5208d223ce3","Hot Topic","Shop & Service::Clothing Store",44.85556072,-93.24170514
+"4bb13c25f964a520ea853ce3","Gym in the Hilton Bloomington","Shop & Service::Gym / Fitness Center::Gym",44.856277,-93.330453
+"4bb27d85a32876b0e7ac00fe","Rodney Lough Jr. Wilderness Collections Gallery","Arts & Entertainment::Art Gallery",44.85507583618164,-93.24312591552734
+"4bb638c52ea195216753ab2f","Justice","Shop & Service::Clothing Store::Kids Store",44.853921768268776,-93.24426269531249
+"4bb8cfb598c7ef3b1a6f3102","Holiday","Shop & Service::Gas Station / Garage",44.80717259165595,-93.35184300042845
+"4bbbb65d51b89c745696862a","BMO Harris Bank","Professional & Other Places::Building",44.83513962662457,-93.39587589810806
+"4bbce8c38ec3d13a4a681b28","South Import Motors","Professional & Other Places::Building",44.85241949558258,-93.28235864639282
+"4bbcf675593fef3bcbdf0256","Home Depot","Shop & Service::Hardware Store",44.86030263898891,-93.28469753265381
+"4bbd23d0078095219348da91","Papyrus","Shop & Service::Arts & Crafts Store",44.85422889735912,-93.24354570416958
+"4bbe72eb4e7bd13a99089b7f","Bare Escentuals","Shop & Service::Cosmetics Shop",44.855518953622756,-93.24330568313599
+"4bbf6c7630c99c74552c5511","98 Pounds Buffet","Food::Chinese Restaurant",44.82707111821111,-93.2907102216126
+"4bc1ff842a89ef3b8702f388","Sponge Bob Square Pants Rock Bottom Plunge","Arts & Entertainment::Theme Park",44.855023772225394,-93.24282891077766
+"4bc20e61f8219c74252fb410","Best Buy Mobile","Shop & Service::Electronics Store",44.85497895781689,-93.24205577373505
+"4bc353fbf8219c7477e9b510","98 pounds buffet","Food::Chinese Restaurant",44.80879592895508,-93.29083251953125
+"4bc3a15ddce4eee1a6af719d","Hampton Inn Minneapolis / Bloomington (Airport Area)","Travel & Transport::Hotel",44.856646109191196,-93.33206192538874
+"4bc3afdfdce4eee1cab5719d","Hampton Inn & Suites","Travel & Transport::Hotel",44.8601605852392,-93.23141073064129
+"4bc45b1cb492d13ac4dda960","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",44.85934462349241,-93.25235919468841
+"4bc4e19b2a89ef3b9cf8f688","Normandale Lake Office Park","Professional & Other Places::Office",44.85356934842598,-93.35620761517542
+"4bc4e2064cdfc9b67b4e9921","Robert Half International","Professional & Other Places::Office",44.85341172963181,-93.35542028291994
+"4bc5047be58e9521ff58c9e1","For Love 21","Shop & Service::Jewelry Store",44.8546466951752,-93.24043803900979
+"4bc5f57f42419521c250031d","Subway - 28th Ave Station","Food::Sandwich Place",44.855506896972656,-93.23176574707031
+"4bc7302b0050b713c128b83b","Nails & Co.","Shop & Service::Cosmetics Shop",44.859665,-93.307405
+"4bc868db92b376b0264d513a","US Bank Mortgage","Professional & Other Places::Office",44.86056554203667,-93.25215786602563
+"4bc8904815a7ef3bfd507bda","HealthPartners Corporate Building","Professional & Other Places::Building",44.856073943216714,-93.22677745888174
+"4bc898b22f94d13acbeb137f","Betsey Johnson","Shop & Service::Clothing Store::Women's Store",44.85396740275078,-93.24167490005493
+"4bc8cf9b3740b713ab6d5d65","McDonald's","Food::Fast Food Restaurant",44.8579312381023,-93.27916785865864
+"4bc8ee093740b7135fbc5d65","North Food Court","Shop & Service::Food & Drink Shop::Food Court",44.855138675413606,-93.2420825958252
+"4bc8f01768f976b0695a5c83","See's Candies","Food::Dessert Shop",44.85539627075195,-93.24321746826172
+"4bca073d68f976b0b56f5e83","Wet Seal","Shop & Service::Clothing Store::Women's Store",44.855549129184425,-93.24118425336431
+"4bcb59360687ef3b7a88ddcc","CONvergence Science Fiction Convention","Arts & Entertainment::General Entertainment",44.861292497712796,-93.35199553399507
+"4bcbcc840687ef3b2175decc","Bush Lake Beach","Outdoors & Recreation::Beach",44.83772684998701,-93.37707281112671
+"4bcbcdd60687ef3be276decc","Mt. Normandale Lake Park","Outdoors & Recreation::Lake",44.853130764835,-93.36233139038086
+"4bce2cbeef10952151a78386","Hyland Disc Golf Course","Outdoors & Recreation::Other Great Outdoors",44.8435829808719,-93.36382570430027
+"4bcf35b3aeedef3b4465c598","Timber Lodge Steakhouse","Food::Steakhouse",44.85970687866211,-93.30686950683594
+"4bcf743f41b9ef3b0e76f8e5","Mall Of America East Parking","Professional & Other Places::Parking",44.85475524142738,-93.23967710848078
+"4bcf7fa30ffdce72488db2c0","Park Plaza Hotel Bloomington","Travel & Transport::Hotel",44.8597938,-93.3374165
+"4bcf829077b29c74c3408982","Great Clips","Shop & Service::Salon / Barbershop",44.80890248372481,-93.38526964187622
+"4bd09f091f89ce7260be67ea","Le Bourget Aero Suites","Nightlife Spot::Hotel Bar",44.85925980513224,-93.33416706837367
+"4bd1087420cd9960afa72e9e","Embassy Suites","Travel & Transport::Hotel",44.8594280680136,-93.31593990325928
+"4bd1de8877b29c74b7718d82","Bloomington Public Schools, District Office","College & University::College Administrative Building",44.81307887742544,-93.29552648520523
+"4bd22306462cb71301b4db07","Glitz Gowns","Shop & Service::Clothing Store::Women's Store",44.855496137001026,-93.24344515800476
+"4bd22f3fcaff9521c64bd2f0","Colette Bar & Bistro @ Sofitel Minneapolis","Food::American Restaurant",44.860633198420054,-93.35444105598022
+"4bd2629b462cb7130561dc07","Anime Detour Convention","Arts & Entertainment::General Entertainment",44.86240768432617,-93.3526382446289
+"4bd26827462cb713186edc07","Denny's","Food::Breakfast Spot",44.8612266278048,-93.26206505298615
+"4bd3459241b9ef3b40bcffe5","Cedar Cliff Apartments","Professional & Other Places::Building",44.83371595792263,-93.24879923697975
+"4bd34a7a41b9ef3b61caffe5","Nickeloden Universe","Arts & Entertainment::Theme Park",44.854923248291016,-93.24201965332031
+"4bd4a8236f649521d0d76dec","Rotunda","Shop & Service::Mall",44.854667866735376,-93.24042822047585
+"4bd85fd05cf276b0660f9d00","Spencers","Shop & Service::Toy / Game Store",44.855512508524605,-93.2411400693021
+"4bd98a792e6f0f47f3e80a08","Luther Bloomington Kia","Shop & Service::Automotive Shop",44.858287303298866,-93.30079078674315
+"4bd996460f7cd13a386e7c9f","ReconRobotics","Professional & Other Places::Office::Tech Startup",44.860660068519934,-93.3844542503357
+"4bda15f43904a593e80b459e","Express Men","Shop & Service::Clothing Store::Men's Store",44.85399463659987,-93.24350642754698
+"4bdb079763c5c9b6fbf42568","RadioShack","Shop & Service::Electronics Store",44.825126,-93.287172
+"4bdb68352a3a0f478becaeb6","Pandora","Shop & Service::Jewelry Store",44.85571669729907,-93.24203968048096
+"4bdc688fafe8c9b609474f85","Nativity of Mary Church and School","Professional & Other Places::Spiritual Center::Church",44.82336897586546,-93.28976154327393
+"4bde1d766198c9b66b1113ff","Kohl's","Shop & Service::Department Store",44.860431922266926,-93.30602645874023
+"4bdf1ce1e75c0f4735eec903","Penncrest Building","Professional & Other Places::Office",44.84176490274675,-93.30945207822427
+"4bdf64466198c9b6da1b17ff","Gene C. Kelly Youth Playfields","Outdoors & Recreation::Athletic & Sport::Baseball Field",44.81761569207587,-93.274827003479
+"4be1e50a0f299c744ed67ebf","Valley View Middle School","Professional & Other Places::School",44.84264133641281,-93.2692801952362
+"4be41a3f2457a59374bca915","National American University","College & University::University",44.86149659704637,-93.22877883911133
+"4be42ae7d4f7c9b695bd2320","Denny's","Food::Breakfast Spot",44.85684230221507,-93.33250522613525
+"4be439092468c928c870fe42","MN Multi Housing Association","Professional & Other Places::Office",44.85586328282356,-93.29930119376992
+"4be5746dcf200f47a031133c","Susan G. Komen Minnesota Affiliate Office At Mall Of America","Professional & Other Places::Office::Coworking Space",44.857363,-93.237811
+"4be89cd3ee96c928ca56febf","Thomas E. Burnett, Jr. Post Office","Professional & Other Places::Post Office",44.80749284022684,-93.36097616492253
+"4beaededca97d13aaa976c77","Tommy Bahama","Shop & Service::Clothing Store",44.855046919367645,-93.24348678924751
+"4beb26fa6295c9b6535c8708","Homfurniture","Shop & Service::Furniture / Home Store",44.80928073177767,-93.36613400113907
+"4beb29bf415e20a179fae5bb","Cedar Liquor","Shop & Service::Food & Drink Shop::Liquor Store",44.837104082107544,-93.248963
+"4bec6a82fd60a59386f73af1","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",44.85954974824921,-93.30478191375732
+"4bedef9d946c0f47b234a363","Lucky Brand Jeans","Shop & Service::Clothing Store",44.854658829334035,-93.24134135257584
+"4bef13f5f97d9521e4f19438","Scoops Ice Cream","Food::Ice Cream Shop",44.80807876586914,-93.3855972290039
+"4bf005d3d4e4d13a85c115a7","Transfiguration Lutheran Church","Professional & Other Places::Spiritual Center::Church",44.8043669,-93.33076235
+"4bf2a247a32e20a1376bd557","EatonGolden","Professional & Other Places::Event Space",44.86163098468695,-93.37478738445775
+"4bf569ae6a31d13a8dd8962e","Burger King","Food::Burger Joint",44.80759048461914,-93.38346862792969
+"4bf5a4e9bb5176b044d05ab2","Katun","Professional & Other Places::Office",44.8051096102404,-93.37607223117003
+"4bf6a1adbb5176b0cf065bb2","Katun - In a Cubicle","Professional & Other Places::Office",44.804678400371806,-93.37605253978029
+"4bf6e2dfb182c9b655b1745a","Team Choice","Shop & Service::Sporting Goods Shop",44.855672,-93.242241
+"4bf9eb07508c0f4748c73f31","International Village Hot Tub","Outdoors & Recreation::Pool",44.82944126370408,-93.28139573335648
+"4bfb1c1165fbc9b63507916c","Bush Lake Beach","Outdoors & Recreation::Beach",44.83772684998701,-93.37707281112671
+"4bfc230ab5cd2d7f192431fb","Crocs","Shop & Service::Clothing Store::Shoe Store",44.85542842384438,-93.24268162576683
+"4bfd2313f7c82d7f5db08d04","AT&T Regional Office","Professional & Other Places::Office",44.860929405082345,-93.3293322596502
+"4bfd32d3ee20ef3b964e3c5e","Le Petit Marche","Food::French Restaurant",44.8603401184082,-93.35452270507812
+"4bfd354df61dc9b691a39ede","Riverview Office Tower","Professional & Other Places::Office",44.857938262672015,-93.22137907434517
+"4bfe8927bf6576b00bd0aeb8","Best Buy Rotunda","Arts & Entertainment::General Entertainment",44.85477066040039,-93.24166107177734
+"4bfe91e5f61dc9b6489da0de","Pac Sun","Shop & Service::Clothing Store",44.85451713869221,-93.2404576760836
+"4c03ef489a7920a1d288d079","H&M","Shop & Service::Clothing Store",44.85443895694738,-93.2433271408081
+"4c04057c9a7920a18caed079","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",44.855173246979305,-93.2436733534111
+"4c04557f187ec92885f6b67b","Minnesot-ah!","Shop & Service::Mall",44.85451113981572,-93.24049204098172
+"4c05850fd3842d7f834dbe41","Bloomington Department of Motor Vehicle","Professional & Other Places::Government Building",44.82313835249681,-93.3039020125063
+"4c05c8715753c928020d3af1","VIP Theatre","Arts & Entertainment::Movie Theater::Multiplex",44.853842157715505,-93.24059022653822
+"4c06a7b50e0a2d7fc12dec0c","Caribou Coffee (Nickelodeon Universe)","Food::Coffee Shop",44.854915618896484,-93.24183654785156
+"4c06c0a992a4ef3bdb1bb0f1","Batter Up","Shop & Service::Sporting Goods Shop",44.855252336256854,-93.24086514714644
+"4c06eb81cf8c76b0e2483b65","Thomas E. Burnett, Jr. Post Office","Professional & Other Places::Post Office",44.80749284022684,-93.36097616492253
+"4c080326a1b32d7f715895f0","Brick House Room","Professional & Other Places::Office::Conference Room",44.83072,-93.300407
+"4c0a57277e3fc928625ff382","Kent Hrbek Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",44.839839660066936,-93.27657869382645
+"4c0abfe9a1b32d7facea99f0","QVC @the Mall","Shop & Service::Mall",44.854731,-93.240542
+"4c0b28e4009a0f4727c9eabf","Timber Lodge Steakhouse","Food::Steakhouse",44.85975263367494,-93.30696454868178
+"4c0e6562f319b71397804b9a","Parma 8200","Food::Italian Restaurant",44.854215243931606,-93.35571061022505
+"4c0e96ebc6cf76b068fb8051","Seaside Nails","Shop & Service::Salon / Barbershop",44.849928751674824,-93.28813027498722
+"4c0fb41d2466a59304087b21","Ghost Blasters","Arts & Entertainment::Theme Park",44.85507583618164,-93.24224853515625
+"4c0fd51ae7d29521edaed7b0","metroConnections Conference Services Office","Professional & Other Places::Office",44.85620344807093,-93.30074787139893
+"4c12b88b77cea5931395cd60","Kentucky Fried Chicken","Food::Fast Food Restaurant",44.833518981933594,-93.28893280029297
+"4c154db977cea593d903d260","Zumiez","Shop & Service::Clothing Store",44.85567782319437,-93.24153772730081
+"4c17c4034ff90f4777680d49","Danger Room at The Nerdery","Professional & Other Places::Office::Conference Room",44.83040392398834,-93.300748
+"4c1800d11436a59325b38c75","Normandale Lake Bandshell","Arts & Entertainment::Music Venue",44.85213088989258,-93.35906219482422
+"4c1a32cc98f4a593542e01f6","National Homebrewers Convention 2010","Nightlife Spot::Beer Garden",44.86027982426265,-93.3552074432373
+"4c1f997b920076b0fefdc4e9","South Food Court","Shop & Service::Food & Drink Shop::Food Court",44.854501794606726,-93.242279049003
+"4c200461920076b0e9adc5e9","Normandale Village Mall","Shop & Service::Mall",44.82457802503528,-93.34876290753897
+"4c2241089085d13ae50486cc","Butterfly Bay","Arts & Entertainment::Theme Park",44.854923248291016,-93.24201965332031
+"4c233f7a7e85c928b932bd21","AT&T","Shop & Service::Mobile Phone Shop",44.85538425306016,-93.24054113373529
+"4c234cf29085d13aaa9a87cc","Perkins Restaurant & Bakery","Food::Breakfast Spot",44.85160827636719,-93.28873443603516
+"4c23f933f7ced13ade23226d","Valley West Hardware","Shop & Service::Hardware Store",44.812069,-93.33181321620941
+"4c274c17136d20a1ebb3e661","Starbucks @ Sheraton","Food::Coffee Shop",44.86251449584961,-93.35297393798828
+"4c27cb7f9fb5d13a17a79857","Sprint Store","Shop & Service::Miscellaneous Shop",44.854628965929436,-93.24348678924751
+"4c292a5ae19720a1cf19f958","Normandale Room, Sheraton Hotel","Nightlife Spot::Lounge",44.861645,-93.352805
+"4c2a38a2c758e21e8d4e3a3f","The Afternoon","Shop & Service::Gift Shop",44.85391503274788,-93.24058040797368
+"4c2b6d3957a9c9b61fdbf567","Dr. Brimacomb / Dr. Krengal, DD","Professional & Other Places::Medical Center",44.84228403623347,-93.3092652633283
+"4c2cc3a2d1a10f47e1f1f964","Parking","Professional & Other Places::Parking",44.856785321091195,-93.24288291539288
+"4c2e3aaa8a349521ac5fcc9f","Doc Popcorn","Food::Snack Place",44.85528179999999,-93.240605
+"4c360c75298e9c7495a307e3","Richfield Bloomington Credit Union (RBCU)","Shop & Service::Bank",44.80968496049592,-93.33168983459473
+"4c3750cd18e72d7fcd4516f5","Flexo Impressions","Professional & Other Places::Office::Coworking Space",44.82677757740021,-93.30590307712555
+"4c38756193db0f47ea8d2192","Bloomington Farmers Market","Shop & Service::Miscellaneous Shop",44.82587195129756,-93.30103136559347
+"4c3937801e06d13a9653793e","Famous Daves - Normandale Village","Food::BBQ Joint",44.82499313354492,-93.39403533935547
+"4c3cb713933b0f476674e421","River City Mortgage And Financial Llc","Professional & Other Places::Office::Coworking Space",44.8585616,-93.34849011666667
+"4c3fce63d691c9b629618a0a","Sleepy Eye Cafe","Food::Snack Place",44.86058807373047,-93.25098419189453
+"4c45c29d8c1f20a1ca363e99","Best Buy IT Lab","Professional & Other Places::Office::Conference Room",44.86188461125023,-93.30470818327542
+"4c46034509ba952140383f00","Marbles The Brain Store","Shop & Service::Toy / Game Store",44.85570076525907,-93.24250488434002
+"4c473b9a972c0f4739212321","8300 Normandale Center","Professional & Other Places::Office::Coworking Space",44.85282116671435,-93.35277297047897
+"4c475c5e1262ef3b43b2cc41","Crabtree & Evelyn - Mall of America","Shop & Service::Cosmetics Shop",44.8555478480109,-93.24338368830487
+"4c49a96a6f1420a1a9d2ea55","28th Avenue LRT Station","Travel & Transport::Train Station",44.85588477562834,-93.23145490590002
+"4c4a35476e2095211cbfbeeb","Martel's Restaurant & Lounge @ Crowne Plaza","Nightlife Spot::Hotel Bar",44.857990700770976,-93.2219660282135
+"4c4ca9fe13d120a1b407b400","Great Clips","Shop & Service::Salon / Barbershop",44.82508400821477,-93.28734403253348
+"4c4f9fb9885c1b8daa2ce037","Sheraton - Plaza Club","Travel & Transport::Hotel",44.862196229752925,-93.35316896438599
+"4c50c24ebd0995216c04565e","Williams Sonoma","Shop & Service::Furniture / Home Store",44.855483,-93.24342521
+"4c50d1249426c9280e0aad72","Sheraton - Plaza Tower 7th Floor","Travel & Transport::Hotel",44.862283683243426,-93.352991938591
+"4c50ffcb991c20a109921087","Village Park of Bloomington","Residence::Residential Building (Apartment / Condo)",44.847981371156806,-93.24634194374084
+"4c51d8fab6dabe9a957b6812","Pilgrim Dry Cleaners","Shop & Service::Laundry Service",44.86065261666667,-93.2674659
+"4c52dd32250dd13aec31587f","Freeziac","Food::Dessert Shop",44.855506,-93.2416744
+"4c530b151b46c9b6d29051cc","U.S. Citizenship and Immigration Services","Professional & Other Places::Government Building",44.860056562036085,-93.22964866126043
+"4c5330d1fd2ea5936b860b28","77kids by American Eagle","Shop & Service::Clothing Store::Kids Store",44.85364398633727,-93.24123334681364
+"4c54ccb2f5f3d13a8684b1fa","Hyatt Place Minneapolis Airport-South","Travel & Transport::Hotel",44.86080189209175,-93.22682162994644
+"4c59d1fe6407d13aac26b328","Minnesota Eye Consultants","Professional & Other Places::Medical Center",44.82579194900606,-93.2930101741988
+"4c5f315dde6920a13c419364","Embassy Suites - Minneapolis Airport","Travel & Transport::Hotel",44.85994520723896,-93.2219660282135
+"4c60921f13791b8d6eef4faf","Custom College Shop","Shop & Service::Mall",44.85542115250835,-93.24062459152962
+"4c61db13eb82d13aa41004d6","Cadillac Ranch","Food::Steakhouse",44.85434768869456,-93.24324131011963
+"4c6ae0cc2d9976b07b0a063a","Feldmann Nissan","Shop & Service::Automotive Shop",44.85698,-93.343237
+"4c6b23e6e503c9288f8747b3","St Lukes Church","Professional & Other Places::Spiritual Center::Church",44.82412994924771,-93.30079078674316
+"4c6eeb03d274b60c4a00d50d","Mall of America","Shop & Service::Mall",44.854712760838005,-93.24203968048096
+"4c6f50a6df6b8cfad711b54d","Poor Richard's Commonhouse","Nightlife Spot::Bar",44.852759746947726,-93.34925492223074
+"4c702a169c6d6dcbc8c0d17a","Consumer Whore Centraal","Shop & Service::Mall",44.8557178,-93.243244
+"4c73afea1b11199c8c426113","Hilton Garden Inn","Travel & Transport::Hotel",44.856385978549646,-93.34894180297852
+"4c75742ed8948cfa34c067da","Hugo Boss","Shop & Service::Clothing Store::Men's Store",44.853895389499925,-93.24067859370781
+"4c764e5cb474a1cde684bbbf","Mc Donalds","Food::Fast Food Restaurant",44.85819625854492,-93.2793960571289
+"4c76afac411c9c7448b112e2","The Corner Bar","Nightlife Spot::Bar",44.860324,-93.222025
+"4c77f4b13badb1f78b174a54","Starbucks W276","Food::Coffee Shop",44.0367546081543,-93.03759002685547
+"4c77f74a81bca0934c72f814","Zumiez","Shop & Service::Clothing Store",44.85567782319437,-93.24153772730081
+"4c7acb71566db60c612e490e","Jamba Juice","Food::Korean Restaurant",44.79928207397461,-93.30684661865234
+"4c7b5bef794e224bd52d6b28","La Quinta Inn & Suites Minneapolis Bloomington W","Travel & Transport::Hotel",44.855762,-93.347332
+"4c7bc8832dc19521a0bdb677","Applewood Pointe Bloomington - Southtown","Professional & Other Places::Building",44.856725179485885,-93.31132650375366
+"4c8020ab309aef3b3a12b381","L-1 Identity Solutions","Professional & Other Places::Office::Coworking Space",44.80684931182455,-93.3553169464953
+"4c845f4174d7b60cdbdf92d8","Purple Sandpiper","Food::Gastropub",44.851315,-93.28704286666667
+"4c86d3fa9683b7132ff01a59","Zales Jewelers","Shop & Service::Jewelry Store",44.854606281701884,-93.24049472808838
+"4c8962e4e51e6dcb77c85fde","Nail Trix","Shop & Service::Cosmetics Shop",44.85501020597896,-93.24063931939048
+"4c8e18eeb3bcb60c81645627","T-Mobile","Shop & Service::Electronics Store",44.85937258505,-93.30910302991633
+"4c8ef45bdaa93704252351b1","GameStop","Shop & Service::Gaming Cafe",44.86022637786091,-93.30706286761524
+"4c8f892858668cfa8ce6daec","Res Direct","Professional & Other Places::Office",44.85878,-93.226926
+"4c93ef2703413704f0446def","The Art of Shaving","Shop & Service::Salon / Barbershop",44.854784062829644,-93.24349660839626
+"4c98e3a97b9d37041b0ee285","Rasmussen College - Twin Cities Office","College & University::College Administrative Building",44.85257778188507,-93.35277297047897
+"4c993bbaa004a1cde2033e6e","Calvary United Pentecostal Church","Professional & Other Places::Spiritual Center::Church",44.84409,-93.27884495258331
+"4c9a3b79c0679eb096a34dd4","Lululemon Athletica","Shop & Service::Clothing Store",44.85391708668757,-93.24324622071984
+"4c9a88a6775abfb7504b4c67","Microsoft Store","Shop & Service::Electronics Store",44.85334372836671,-93.24255466461182
+"4c9a8b8d80958cfab1e043d4","Equalizer Shirts","Shop & Service::Clothing Store::Men's Store",44.85391266242775,-93.24332968313604
+"4c9aaa189c66370441e35afd","Sofitel Minneapolis","Travel & Transport::Hotel::Motel",44.86045217672134,-93.3544508973602
+"4ca1e5bb8afca09337d61e16","The Hartford","Professional & Other Places::Building",44.85723050621204,-93.35213822711398
+"4cacbbefa6e08cfa12f7ad94","82nd Street Big Dig","Professional & Other Places::Building",44.855229942412805,-93.3092451095581
+"4cad0c5776d3a0938a12376b","Callister's Christmas","Shop & Service::Arts & Crafts Store",44.8556946983252,-93.24258343600633
+"4cb6fde9f6616dcba02be308","Joe Senser's Grill & Bar","Nightlife Spot::Sports Bar",44.85709327868965,-93.33291560411453
+"4cb734bff6616dcb9228e508","Paciugo Gelato","Food::Dessert Shop",44.854740142822266,-93.24174499511719
+"4cb9e7caf50e224b0966f0fb","Big Time Rush","Arts & Entertainment::Concert Hall",44.851287,-93.238724
+"4cbd0511dd41a35ddb0ef7a0","AMC Movie Theatre","Arts & Entertainment::Movie Theater",44.81822967529297,-93.29693603515625
+"4cc4b15480624688250f382f","Calendar Club","Shop & Service::Toy / Game Store",44.854977,-93.24288
+"4cc72d991e596dcb7327e367","Katun - Lunchroom","Professional & Other Places::Office::Cafeteria",44.805249124149064,-93.37578670678766
+"4cd02c2b9d87224bb481533b","Kenyon City Hall","Professional & Other Places::Government Building::City Hall",44.856094,-93.300365
+"4cd5a6bb76ab721eec7c6e6a","Microsoft Store Grand Opening","Shop & Service::Electronics Store",44.854374299999996,-93.24080898333334
+"4cd757b3a42b236afa67fa08","The Nerdery","Professional & Other Places::Office::Tech Startup",44.830921041402455,-93.30049068034498
+"4cd9ba82847da1cd3c3b019a","Katun - Picnic Table","Travel & Transport::Rest Area",44.804586,-93.374768
+"4d06b12b37036dcbfe7a1dfb","Hilton Minneapolis/Bloomington","Travel & Transport::Hotel",44.85641238733769,-93.33042902605521
+"4d3e2608457cb60ce94ffea4","Pepsi Orange Streak","Arts & Entertainment::Theme Park",44.854875,-93.24252
+"4d457c9cbf61a1cd29aa13ac","MN Valley Unitarian Universalist","Professional & Other Places::Spiritual Center::Church",44.810088,-93.321486
+"4d556f7f143ca093535baffc","Jimmy John's","Food::Sandwich Place",44.81180847272483,-93.32913061467715
+"4d5db7c2f7d7224b71fc2081","Mall Of America West Parking Ramp","Professional & Other Places::Parking",44.85456527910025,-93.24457181712329
+"4d6a235482cba09382b6e3d8","Best Western Plus","Travel & Transport::Hotel",44.851299856926914,-93.2456715984741
+"4db42b8aa86e8d27077f239b","Sky Deck Sports Grille And Lanes","Food::American Restaurant",44.85490501864824,-93.24021712247361
+"4e1d0a5ca809ef911eb8a03f","DoubleTree by Hilton Hotel Bloomington - Minneapolis South","Travel & Transport::Hotel",44.86164399719013,-93.35278773204988
+"4e20bf831f6effe84f6a2277","Paul Bunyan's Log Chute","Arts & Entertainment::Theme Park",44.85471456578976,-93.24134135257584
+"4e65888cb3ad9b56d0c1ea07","Ignite Dealer Summit 2011","Professional & Other Places::Event Space",44.85987091064453,-93.21804809570312
+"4eb6c9a9823131626fd2a649","Mall Of America East Parking","Professional & Other Places::Parking",44.85475524142738,-93.23967710848078
+"4eea927b4901d2619edc5b2e","PEEPS AND COMPANY®","Shop & Service::Gift Shop",44.8546678638997,-93.24309893445083
+"4f7d445c4fc677cf994545a0","Masu Sushi & Robata","Food::Sushi Restaurant",44.854606281701884,-93.24169635772705
+"5015a5aee4b0adaeb1a138f2","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",44.859293417199,-93.33206684384213
+"502bb4a4e4b0a87aac62c0b0","Bloomington, MN","Outdoors & Recreation::Other Great Outdoors",44.832043476962845,-93.32113265991211

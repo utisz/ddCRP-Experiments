@@ -1,0 +1,1025 @@
+"3fd66200f964a5203ce31ee3","An Beal Bocht Cafe","Nightlife Spot::Bar",40.88726604329557,-73.904983570325
+"3fd66200f964a5207bf11ee3","F & J Pine Tavern","Food::Italian Restaurant",40.8487978209782,-73.8622739256744
+"3fd66200f964a5207fe31ee3","East 4th Street Bar","Nightlife Spot::Bar",40.81995102895951,-73.87671797717111
+"3fd66200f964a520ddf01ee3","Yankee Stadium","Arts & Entertainment::Stadium::Baseball Stadium",40.829491,-73.926938
+"3fd66200f964a520def01ee3","Yankee Tavern","Nightlife Spot::Sports Bar",40.827334,-73.92513
+"3fd66200f964a520dff01ee3","Stan's Sports Bar","Nightlife Spot::Sports Bar",40.826772,-73.9263815
+"3fd66200f964a520e0f01ee3","New Stadium Pizza","Food::Pizza Place",40.827373,-73.9247028
+"3fd66200f964a520e1f01ee3","Billy's Sports Bar","Nightlife Spot::Sports Bar",40.82720714615709,-73.92603062509322
+"3fd66200f964a520e2f01ee3","Yankee Eatery","Food::American Restaurant",40.82744940453421,-73.92622947692871
+"40870b00f964a5209af21ee3","Bronx Defenders","Professional & Other Places::Building",40.82411234141161,-73.91566813441439
+"43504680f964a520b1281fe3","In God We Trust African","Food::African Restaurant",40.81858,-73.915895
+"43680180f964a5207f291fe3","College of Mount Saint Vincent","College & University::University",40.912539636442084,-73.9070463180542
+"4429259cf964a520be311fe3","Hostos Center for the Arts & Culture","Arts & Entertainment::Performing Arts Venue::Theater",40.817524625000004,-73.92755
+"4465c446f964a5202f331fe3","Ball Park Lanes","Nightlife Spot::Sports Bar",40.826444566666666,-73.92674
+"4492ad65f964a52075341fe3","Bronx Zoo","Arts & Entertainment::Zoo",40.84852098203587,-73.87776172536414
+"44941e38f964a52081341fe3","Arthur Avenue Cafe","Food::Italian Restaurant",40.85408270359039,-73.88887166976929
+"4514ed4df964a520e5391fe3","Artie's Steak and Seafood","Food::Italian Restaurant",40.849568,-73.787275
+"45164517f964a5200a3a1fe3","Black Whale","Nightlife Spot::Wine Bar",40.846503,-73.786414
+"4516454df964a5200b3a1fe3","City Island Nautical Museum","Arts & Entertainment::Museum::History Museum",40.84757404338116,-73.784572
+"46212cb5f964a5208d451fe3","Rambling House","Nightlife Spot::Pub",40.89841079878203,-73.86717239864431
+"462d15a3f964a520e7451fe3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.84835183889757,-73.83081857572387
+"462d1873f964a520e8451fe3","Fiddlers Elbow","Nightlife Spot::Bar",40.82661,-73.82245
+"466afe9df964a520a0471fe3","Bruckner Bar & Grill","Nightlife Spot::Bar",40.80832,-73.930488
+"467e734bf964a52010481fe3","Harlem Yacht Club","Travel & Transport::Ferry::Boat or Ferry",40.85002513657006,-73.78939693883702
+"46e5231af964a520b54a1fe3","Tony's Pier Restaurant","Food::Seafood Restaurant",40.83753410137285,-73.78307178317175
+"46e6f285f964a520c94a1fe3","Jake's Steakhouse","Food::Steakhouse",40.89161798333333,-73.89759765
+"47da948cf964a520364e1fe3","Joe's Place","Food::Latin American Restaurant",40.8325901159719,-73.86416326910829
+"49d73e8ff964a5201f5d1fe3","Starbucks","Food::Coffee Shop",40.88579958122128,-73.91008766143291
+"49db5c5df964a520cc5e1fe3","Van Cortlandt Park","Outdoors & Recreation::Park",40.890612266047626,-73.89284133911133
+"49df79b7f964a520ca601fe3","New York Botanical Garden","Outdoors & Recreation::Garden",40.86301432403785,-73.88035297393799
+"49e33171f964a5206a621fe3","Wave Hill","Outdoors & Recreation::Garden",40.89839794898231,-73.9119535781214
+"49f3c790f964a520da6a1fe3","Lloyd's Carrot Cake","Food::Bakery",40.89389419555664,-73.89656066894531
+"4a0f0b75f964a5201b761fe3","St. Mary's Recreation Center","Outdoors & Recreation::Other Great Outdoors",40.81213667303918,-73.91414672502982
+"4a1618b7f964a520f3781fe3","Dallas BBQ","Food::BBQ Joint",40.86173230582329,-73.91283988952637
+"4a37acebf964a520589e1fe3","Crotona Park","Outdoors & Recreation::Athletic & Sport::Basketball Court",40.8462627530673,-73.9159666737277
+"4a47aecff964a520f2a91fe3","Mugz","Nightlife Spot::Bar",40.857336481825286,-73.88597841254337
+"4a47cbf1f964a5201daa1fe3","Johnny's Famous Reef Restaurant","Food::Seafood Restaurant",40.838067312100264,-73.78269910812378
+"4a47e99af964a52047aa1fe3","Orchard Beach","Outdoors & Recreation::Beach",40.8679312017573,-73.79469394683838
+"4a6c2966f964a5206cd01fe3","Fordham University - Rose Hill","College & University::University",40.860762000146735,-73.88461180731991
+"4a71a19bf964a5204fd91fe3","Riverdale Country School","College & University::General College & University",40.89951051422833,-73.90087838321554
+"4a720b8ef964a52036da1fe3","Panera Bread","Food::Sandwich Place",40.867704027332394,-73.82829666137695
+"4a725fa1f964a520f6da1fe3","TCR- The Club of Riverdale","Shop & Service::Gym / Fitness Center",40.87855781948937,-73.9151801364736
+"4a739e29f964a520f5dc1fe3","Siam Square","Food::Thai Restaurant",40.878742,-73.916662
+"4a73de62f964a5208fdd1fe3","Howl At The Moon","Nightlife Spot::Pub",40.857632,-73.886506
+"4a859e16f964a520acfe1fe3","Crotona Park tennis courts","Outdoors & Recreation::Athletic & Sport::Tennis Court",40.84033796882784,-73.89507930041219
+"4a88980cf964a5200d0720e3","St. Barnabas Hospital","Professional & Other Places::Medical Center::Hospital",40.85274125306508,-73.89116764068604
+"4a89e3a4f964a520440920e3","New York Public Library - Eastchester Library","Professional & Other Places::Library",40.870064886552505,-73.84548151685243
+"4a8ac301f964a520500a20e3","Albert Einstein College of Medicine","College & University::College Academic Building::College Science Building",40.85144280526386,-73.84580612182617
+"4a8c0960f964a520e50c20e3","Tiger Schulmann's MMA","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",40.74011385690322,-73.99353684791153
+"4a8e261cf964a5201c1220e3","Roberto","Food::Italian Restaurant",40.85372755779254,-73.888246496784
+"4a8ff024f964a520ae1520e3","BJ's Wholesale Club","Shop & Service::Miscellaneous Shop",40.822071725918654,-73.92988268984206
+"4a9548e0f964a520da2220e3","Joyce Kilmer Park","Outdoors & Recreation::Park",40.828407358942734,-73.92311811447142
+"4a955178f964a520ea2220e3","Burger King","Food::Fast Food Restaurant",40.827351984666585,-73.92421245574951
+"4a9557aef964a520f12220e3","Food Town - Bronx","Food::Restaurant",40.827631906781555,-73.92503171653956
+"4a98d51af964a520492d20e3","Jimmy Ryan's","Nightlife Spot::Dive Bar",40.844073418130975,-73.83019251915124
+"4a9ad800f964a5201c3320e3","Sammy's Fishbox Restaurant","Food::Seafood Restaurant",40.83903631544581,-73.78356010841956
+"4a9fc78bf964a5204e3d20e3","Pelham Bay & Split Rock Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",40.87378516256055,-73.80872160133205
+"4aa03902f964a520c73e20e3","Lehman College","College & University::University",40.87361030908704,-73.8936996459961
+"4aa04654f964a520f33e20e3","Seafood City","Food::Seafood Restaurant",40.85094191171181,-73.78986801415505
+"4aa193d5f964a520124120e3","Mario's Restaurant","Food::Italian Restaurant",40.85423,-73.888626
+"4aa425bef964a5208e4520e3","Dominicks Restaurant","Food::Italian Restaurant",40.854163,-73.888802
+"4aaad7a0f964a520ae5720e3","Amtrak Acela 2173","Travel & Transport::Train Station::Train",40.80159982320217,-73.91058715472953
+"4aabd3e6f964a5204a5a20e3","Zero Otto Nove","Food::Pizza Place",40.8547504678652,-73.88851636834795
+"4aac07c5f964a520bf5b20e3","Bronx Museum of the Arts","Arts & Entertainment::Museum::Art Museum",40.83134283801012,-73.91995672248721
+"4ab52b10f964a520f37220e3","Artuso's","Food::Dessert Shop",40.854269,-73.88520777225494
+"4ab659aff964a520b17620e3","Hard Rock Cafe Yankee Stadium","Food::American Restaurant",40.82839112254263,-73.926100730896
+"4ab6958ef964a520fb7720e3","Crab Shanty","Food::Seafood Restaurant",40.84861859343548,-73.78729104995728
+"4ab7a594f964a5204d7a20e3","Gary & Gino's Pizzeria","Food::Pizza Place",40.88662326335907,-73.878341
+"4abba9c5f964a520488420e3","East Bronx Academy for the Future","Professional & Other Places::School::High School",40.836768650464414,-73.88805127031414
+"4abbaa6ef964a5204a8420e3","Hebrew Home for the Aged at Riverdale","Professional & Other Places::Medical Center::Hospital",40.909812288567394,-73.90852555632591
+"4abcfe4bf964a520fa8720e3","JungleWorld","Arts & Entertainment::Zoo",40.845112507838515,-73.87687683105469
+"4abda5c6f964a5203f8b20e3","Sofa Lounge","Nightlife Spot::Lounge",40.8621708,-73.90570125150424
+"4abda8a4f964a520438b20e3","Jetset Cafe Club","Nightlife Spot::Lounge",40.84619256,-73.90172
+"4abda9bef964a520498b20e3","Kokonuts Nightclub","Nightlife Spot::Nightclub",40.84172798537745,-73.84161114692688
+"4abdaa7ef964a5204f8b20e3","Mi Gente Cafe","Nightlife Spot::Nightclub",40.83434755866565,-73.85360798110365
+"4ac159f9f964a520dc9620e3","Stadium Pizza","Nightlife Spot::Bar",40.825573,-73.926574
+"4ac18d7ff964a5207a9720e3","T.G.I. Friday's","Food::American Restaurant",40.863484932092426,-73.83413314819336
+"4ac4ac71f964a520d19e20e3","Bronx Lebanon Hospital","Professional & Other Places::Medical Center::Hospital",40.84344867546943,-73.91115546226501
+"4ac79658f964a5203ab820e3","Bronx River Arts Center","Arts & Entertainment::Art Gallery",40.84025159246214,-73.87895187
+"4ace366bf964a5201bcf20e3","Mike's Deli","Food::Deli / Bodega",40.854132413916844,-73.88817185139206
+"4acec156f964a520d3d120e3","Bronx Ale House","Nightlife Spot::Bar",40.8846871094783,-73.89970135559156
+"4acf80aef964a52025d420e3","Tino's Delicatessen","Food::Deli / Bodega",40.85585805,-73.8872076
+"4acfca76f964a52008d620e3","Skyview Wines and Spirits","Shop & Service::Food & Drink Shop::Wine Shop",40.906465,-73.904696
+"4ad131f6f964a5206add20e3","Maestro's","Food::Eastern European Restaurant",40.8456,-73.85929763317108
+"4ad495b0f964a52042e820e3","Bronx County Supreme Court","Professional & Other Places::Government Building::Courthouse",40.82629841158596,-73.9236883486606
+"4ad878daf964a5209d1121e3","Metro North - Tremont Train Station","Travel & Transport::Train Station",40.847328,-73.899418
+"4ad8795ff964a520a21121e3","Metro North - Fordham Train Station","Travel & Transport::Train Station",40.86149293891381,-73.89058023691177
+"4ad87ad6f964a520af1121e3","Metro North - Botanical Garden Train Station","Travel & Transport::Train Station",40.8664058728107,-73.88322830200195
+"4ad88b9ff964a520301221e3","The Garden Cafe","Outdoors & Recreation::Garden",40.86527397589597,-73.88175798329242
+"4ad894eef964a520821221e3","Bronx Grit Chamber","Professional & Other Places::Government Building",40.80294756421872,-73.91912427302933
+"4adb9b03f964a520552921e3","Ellie's Diner","Food::American Restaurant",40.837834696988814,-73.85997682712767
+"4adba246f964a520962921e3","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.860041563772526,-73.89122080536745
+"4addedeaf964a520646621e3","Montefiore Medical Center - North Division","Professional & Other Places::Medical Center::Hospital",40.89416436095309,-73.86074635813047
+"4ae06d2df964a520347f21e3","Montefiore Medical Center","Professional & Other Places::Medical Center::Hospital",40.87993788345708,-73.88086795806885
+"4ae06e61f964a5203f7f21e3","Woodlawn Cemetery","Outdoors & Recreation::Cemetery",40.89035272701678,-73.8737440109253
+"4ae0c9e6f964a5207f8221e3","Jacobi Medical Center","Professional & Other Places::Medical Center::Hospital",40.85550037015262,-73.84623527526855
+"4ae8732df964a5206daf21e3","Casa Della Mozzarella","Food::Deli / Bodega",40.855428,-73.887426
+"4aea55fdf964a52018bb21e3","Pruzzo's","Food::Deli / Bodega",40.84679417771147,-73.83257037486555
+"4aeae658f964a52081bc21e3","MTA Subway - 231st St (1)","Travel & Transport::Subway",40.87886710569573,-73.90481472015381
+"4aeca43cf964a520c9c921e3","MTA Subway - Bedford Park Blvd/Lehman College (4)","Travel & Transport::Subway",40.87341560489982,-73.88983726501465
+"4aee1220f964a520ced121e3","Full Moon Pizzeria","Food::Pizza Place",40.85548329610395,-73.88766655875904
+"4aee747df964a520dcd321e3","MTA Subway - 242nd St/Van Cortlandt Park (1)","Travel & Transport::Subway",40.88941188949587,-73.89850616455078
+"4af060a7f964a52086db21e3","Cold Cut City","Food::Sandwich Place",40.87935733358237,-73.90584478742304
+"4af1a227f964a520b6e121e3","MTA Subway - Pelham Bay Park (6)","Travel & Transport::Subway",40.853000939571785,-73.8270092010498
+"4af1a473f964a520c5e121e3","Egidio Pastry Shop","Food::Bakery",40.85520575159255,-73.88693732731703
+"4af1a98ff964a520f4e121e3","Quick Hero City Deli","Food::Sandwich Place",40.85832657,-73.88438701629639
+"4af1d4c8f964a52099e321e3","MTA Subway - Woodlawn (4)","Travel & Transport::Subway",40.8864595193891,-73.87842178344727
+"4af2d730f964a520b3e821e3","MTA Subway - 238th St (1)","Travel & Transport::Subway",40.884521,-73.900877
+"4af37399f964a520cfed21e3","CUNY on the Concourse","College & University::General College & University",40.86301077694321,-73.8969970359663
+"4af8b2c0f964a520460f22e3","Garden Gourmet Market","Shop & Service::Food & Drink Shop::Gourmet Shop",40.88110145296285,-73.90346207748827
+"4afe3c88f964a520e12e22e3","Pelham Bay Diner","Food::Diner",40.861931,-73.830974
+"4b080481f964a520580223e3","Enid A. Haupt Conservatory","Outdoors & Recreation::Garden",40.863964701351726,-73.88172353043434
+"4b098c87f964a520381923e3","Manhattan College","College & University::University",40.88960654663226,-73.90187501907349
+"4b09ae2af964a520871b23e3","Riverdale City Grill","Nightlife Spot::Bar",40.8863234237456,-73.90711938174526
+"4b09f994f964a520a52023e3","Popeyes Chicken and Biscuits","Food::Fried Chicken Joint",40.86862832531936,-73.83120339850504
+"4b0a9041f964a520212523e3","Bronx VA Medical Center","Professional & Other Places::Medical Center::Hospital",40.86695759159188,-73.90584468841553
+"4b0aa321f964a520db2523e3","Rolen Bagels","Food::Bagel Shop",40.886627,-73.907268
+"4b0aa3eff964a520e12523e3","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",40.88584772149443,-73.9104551049021
+"4b0b311af964a520642e23e3","Palace of Japan","Food::Japanese Restaurant",40.885895,-73.910109
+"4b0dc4abf964a520b64f23e3","Metro North - Spuyten Duyvil Train Station","Travel & Transport::Train Station",40.878445,-73.921659
+"4b0de0a8f964a520e75123e3","Mama FiFi Grocery","Food::Deli / Bodega",40.81725201529448,-73.86224269866943
+"4b0ec967f964a520055b23e3","Metro North - University Heights Train Station","Travel & Transport::Train Station",40.86225160733068,-73.91318321228027
+"4b104dfdf964a5206b6d23e3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.83451924013396,-73.85034594950524
+"4b104ed0f964a520856d23e3","Roma Pizza","Food::Pizza Place",40.83425808516006,-73.85170705024466
+"4b105534f964a5200a6e23e3","AMC Bay Plaza Cinema 13","Arts & Entertainment::Movie Theater::Multiplex",40.86703055282099,-73.82539651545649
+"4b10591af964a5205f6e23e3","Patricia's","Food::Italian Restaurant",40.84929674859589,-73.8535964951717
+"4b10939ff964a520267323e3","Pete's Cafe","Food::Diner",40.858781933784485,-73.88619660913244
+"4b10b467f964a520f27423e3","Paddy Doherty's Ale House","Nightlife Spot::Sports Bar",40.83451,-73.829084
+"4b132b0bf964a520099523e3","Molino Rojo","Food::Latin American Restaurant",40.827465,-73.924388
+"4b15abb6f964a5202fb223e3","Walgreens","Shop & Service::Drugstore / Pharmacy",40.87863596015617,-73.90469649711358
+"4b16e67df964a52031bf23e3","GameStop","Shop & Service::Video Game Store",40.861764762286775,-73.8975191116333
+"4b1712a8f964a520dbc123e3","Jolly Tinker","Nightlife Spot::Bar",40.867483685446494,-73.88361268653817
+"4b171e79f964a5209cc223e3","Webster Cafe","Food::Diner",40.867194178552175,-73.88362417071404
+"4b17aa08f964a520ebc623e3","New Fulton Fish Market","Food::Seafood Restaurant",40.80342705138641,-73.8769632356167
+"4b180daaf964a52024cc23e3","University Pizza & Restaurant","Food::Pizza Place",40.858568,-73.885886
+"4b1f3c65f964a5200c2524e3","MTA Subway - Wakefield/241st St (2)","Travel & Transport::Subway",40.90300406983152,-73.85069847106934
+"4b2084bdf964a520de3224e3","Step-In Restaurant","Food::Diner",40.834162912273335,-73.8611376285553
+"4b217496f964a5201c3c24e3","Starbucks","Food::Coffee Shop",40.83550228531863,-73.86112689971924
+"4b21857af964a520333d24e3","AT&T","Shop & Service::Electronics Store",40.86239868219985,-73.90046498895649
+"4b21c961f964a520674124e3","White Castle","Food::Fast Food Restaurant",40.82503056523579,-73.87116344396648
+"4b228437f964a520274824e3","Blue Bay Restaurant","Food::Diner",40.88637271252018,-73.90984652627952
+"4b228503f964a520394824e3","Fenwick's Bar & Grill","Nightlife Spot::Bar",40.887145,-73.904555
+"4b2286f1f964a5205a4824e3","Hunan Balcony","Food::Chinese Restaurant",40.886012,-73.910056
+"4b228741f964a520604824e3","Cafe Blue","Food::Diner",40.885962,-73.91013085842133
+"4b23f2a0f964a520855d24e3","Yankee Pizza","Food::Pizza Place",40.82929761951108,-73.87559656748827
+"4b244b63f964a520766524e3","MTA Subway - Parkchester (6)","Travel & Transport::Subway",40.83304508893079,-73.86081591534423
+"4b261ec3f964a520977824e3","MTA Subway - Fordham Rd (B/D)","Travel & Transport::Subway",40.86178099051256,-73.89672517776489
+"4b269fb7f964a5208a7e24e3","MTA - 12 Bus Stop (Fordham Rd And Hoffman)","Travel & Transport::Bus Station",40.85881266393815,-73.88574873166043
+"4b282fe9f964a5207e9024e3","Coals Pizza","Food::Pizza Place",40.85132607541061,-73.84413185960258
+"4b28f083f964a520599624e3","Bronx County Hall of Justice","Professional & Other Places::Government Building::Courthouse",40.826206287218106,-73.91958355592959
+"4b291796f964a5208a9824e3","Concourse Plaza Multiplex Cinemas","Arts & Entertainment::Movie Theater::Multiplex",40.82530610296252,-73.92090972921457
+"4b2a6b07f964a520c6a824e3","Simon's Deli & Bagels","Food::Deli / Bodega",40.857419585571186,-73.88585208809111
+"4b2a6ba8f964a520d9a824e3","Pugsley Pizza","Food::Pizza Place",40.85877792292829,-73.88476110079183
+"4b2ab78ff964a5204aae24e3","MTA Subway - Kingsbridge Rd (4)","Travel & Transport::Subway",40.86761099088508,-73.89724967038386
+"4b2ab953f964a5205fae24e3","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.82496359746279,-73.85858706947741
+"4b2aced9f964a5200cb024e3","GameStop","Shop & Service::Video Game Store",40.82546850576234,-73.85923862457275
+"4b2ad273f964a52050b024e3","Old Navy","Shop & Service::Clothing Store",40.8234878567269,-73.85871915430452
+"4b2ad57ef964a52084b024e3","MTA - (39) (36) (5) Story Ave","Travel & Transport::Bus Station::Bus Line",40.82348759819475,-73.86248066322696
+"4b2c10fcf964a520ccc024e3","MTA Subway - Burnside Ave (4)","Travel & Transport::Subway",40.85326412321727,-73.90790595155951
+"4b2c4251f964a520c8c424e3","New Kee Wong Restaurant","Food::Chinese Restaurant",40.85372540566259,-73.89935111673293
+"4b344fb5f964a520eb2625e3","Bay Plaza Shopping Center","Shop & Service::Mall",40.86736752916331,-73.82752744881535
+"4b34535ef964a520052725e3","Barnes & Noble","Shop & Service::Bookstore",40.865659422437496,-73.82941246032715
+"4b36cfa7f964a520e03c25e3","MTA Subway - Morrison Ave/Sound View (6)","Travel & Transport::Subway",40.82951142482364,-73.87452185153961
+"4b3789f3f964a520f34125e3","Riverdale Diner","Food::Diner",40.88499,-73.9012
+"4b391646f964a520df5525e3","Sea Shore Restaurant","Food::Seafood Restaurant",40.85423009549,-73.791007
+"4b3bdd2cf964a520f57c25e3","Madison's","Food::Italian Restaurant",40.906505,-73.9040057333333
+"4b3d5bc3f964a520099325e3","MTA Subway - Parkchester (6)","Travel & Transport::Subway",40.83304508893079,-73.86081591534423
+"4b3e3147f964a5205f9925e3","Umberto's Clam House","Food::Italian Restaurant",40.85474,-73.88817931
+"4b3e4242f964a520449a25e3","McDonald's","Food::Fast Food Restaurant",40.83318470295966,-73.85865598331131
+"4b403740f964a520e8b625e3","Montezuma Mexican Restaurant","Food::Mexican Restaurant",40.86857163588194,-73.9021817177149
+"4b44b15ef964a5209df925e3","McDonald's","Food::Fast Food Restaurant",40.82802976763108,-73.92553117145862
+"4b456b85f964a5206a0c26e3","Bronx Criminal Court","Professional & Other Places::Government Building::Courthouse",40.82645084410653,-73.92059683799744
+"4b4653b4f964a520b41d26e3","Giovanni's Restaurant","Nightlife Spot::Bar",40.81947267904423,-73.92714947462082
+"4b48d925f964a520d25926e3","Crosstown Diner","Food::Diner",40.83248956812657,-73.82868767781449
+"4b498c79f964a5201e7126e3","MTA Subway - Pelham Parkway (2/5)","Travel & Transport::Subway",40.85723693198472,-73.86762857437134
+"4b4b2534f964a520169326e3","MTA Subway - Middletown Rd (6)","Travel & Transport::Subway",40.843911,-73.836397
+"4b4b882cf964a5205b9f26e3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.8468655738243,-73.84413242340088
+"4b4b8ac4f964a520ab9f26e3","Starbucks","Food::Coffee Shop",40.847246,-73.844496
+"4b4b9f1df964a5201fa226e3","Tosca Café","Nightlife Spot::Bar",40.81908295184515,-73.81736397743225
+"4b4bbc90f964a520d2a526e3","MTA Subway - 149th St/Grand Concourse (2/4/5)","Travel & Transport::Subway",40.81807000743554,-73.91209136818333
+"4b4bc90df964a5209da726e3","Ethical Culture Fieldston School","Professional & Other Places::School::High School",40.889574103815974,-73.90610218048096
+"4b4bdc72f964a520dfa926e3","MTA Subway - Morrison Ave/Sound View (6)","Travel & Transport::Subway",40.82951142482364,-73.87452185153961
+"4b4bde68f964a5200daa26e3","Chase","Shop & Service::Bank",40.82837564286569,-73.87812891560773
+"4b4c2b57f964a52029af26e3","MTA Subway - Mosholu Parkway (4)","Travel & Transport::Subway",40.87967830256009,-73.88464450836182
+"4b4c2d7ef964a5204aaf26e3","MTA Subway - Norwood/205th St (D)","Travel & Transport::Train Station",40.87494077237454,-73.8794732093811
+"4b4c90d3f964a52046b626e3","Honey's Thai Pavilion","Food::Thai Restaurant",40.847866716666665,-73.831308
+"4b4e3e87f964a5209de626e3","Patricia's of Tremont","Food::Italian Restaurant",40.82312220075336,-73.81942927837372
+"4b4e98b2f964a5205ff226e3","JP Morgan Chase","Shop & Service::Bank",40.8341108512505,-73.8609473545381
+"4b4f35a2f964a52062fd26e3","Zaro's Bakery","Food::Bakery",40.83368941243429,-73.8608956697672
+"4b4f66c7f964a520f50427e3","Subway","Food::Fast Food Restaurant",40.860652124746814,-73.88930875504327
+"4b513936f964a520e94727e3","BowlerLand","Arts & Entertainment::Bowling Alley",40.886036,-73.823278
+"4b520e59f964a520846427e3","East Haven Nursing & Rehabilitation Center","Professional & Other Places::Medical Center",40.860175,-73.843692
+"4b523a3cf964a5201d7127e3","AT&T","Shop & Service::Electronics Store",40.836439,-73.860853
+"4b523df5f964a520207227e3","New Soundview Pizzeria","Food::Pizza Place",40.81632637847154,-73.86099815368652
+"4b5357adf964a520319827e3","Dunkin' Donuts","Food::Coffee Shop",40.87695264168066,-73.9067029953003
+"4b5359b2f964a520a69827e3","Staples","Shop & Service::Paper / Office Supplies Store",40.88108020759,-73.9025721422136
+"4b53b5c0f964a520baa827e3","papi's BBQ","Food::BBQ Joint",40.87628185506702,-73.84870342723062
+"4b5514c4f964a5207cda27e3","Enzo's","Food::Italian Restaurant",40.85435408888889,-73.888575
+"4b552904f964a5203cdd27e3","MTA Subway - 3rd Ave/138th St (6)","Travel & Transport::Subway",40.8105,-73.926131
+"4b563fcef964a520650728e3","Faculty Memorial Hall (FMH)","College & University::College Academic Building",40.85806462300655,-73.882155418396
+"4b568b8cf964a520b01428e3","New York Sports Club","Shop & Service::Gym / Fitness Center::Gym",40.843359395478544,-73.85692119598389
+"4b57488bf964a5202f2f28e3","Burger King","Food::Fast Food Restaurant",40.891117744509,-73.89790996334064
+"4b57bb9cf964a520623e28e3","Clean City","Shop & Service::Laundry Service",40.86674714245558,-73.88420412072031
+"4b5845a9f964a520665028e3","BP","Shop & Service::Gas Station / Garage",40.82624293877042,-73.86188916353929
+"4b5854d8f964a520245328e3","MTA Subway - Wakefield/241st St (2)","Travel & Transport::Subway",40.90300406983152,-73.85069847106934
+"4b588ce3f964a5207c5d28e3","IHOP","Food::Breakfast Spot",40.89000495100044,-73.81944586311937
+"4b589ee6f964a520cc6128e3","Key Food","Shop & Service::Food & Drink Shop::Grocery Store",40.885256226929826,-73.90950778829794
+"4b58b8a6f964a520686728e3","PC Richard & Son","Shop & Service::Electronics Store",40.862659719587285,-73.89704296952105
+"4b58c41ef964a520ff6928e3","Peppinos Pizza","Food::Pizza Place",40.9035525360504,-73.8503516925661
+"4b58cb32f964a520866b28e3","Morton Williams Supermarkets","Shop & Service::Food & Drink Shop::Grocery Store",40.862754253915455,-73.90090709111767
+"4b58cde4f964a520fe6b28e3","US Post Office - Jerome Avenue Branch","Professional & Other Places::Post Office",40.865065,-73.899647
+"4b58d4e9f964a5208d6d28e3","Coqui Bakery","Food::Bakery",40.868036,-73.8996100166667
+"4b58dd9df964a520a76f28e3","Fine Fare","Shop & Service::Food & Drink Shop::Grocery Store",40.903907,-73.85012
+"4b592d30f964a520348028e3","MTA MaBSTOA Bus at Westchester Ave (White Plains Rd / Grant Circle / Parkchester): (Bx4, Bx4A, Bx36, Bx39, Q44, BxM6)","Travel & Transport::Bus Station",40.832969629858944,-73.86192083358765
+"4b59be3ff964a520ad9528e3","Ewen Park Dog Run","Outdoors & Recreation::Dog Run",40.882241619308815,-73.91022205352783
+"4b59e9e7f964a5207fa028e3","Chirping Chicken","Food::BBQ Joint",40.847445,-73.831005692482
+"4b5a3c87f964a5207fb628e3","The Wicked Wolf","Nightlife Spot::Pub",40.819719,-73.817414
+"4b5a4c8ff964a52049bb28e3","Emilia's Restaurant","Food::Italian Restaurant",40.854272408145775,-73.88895275562083
+"4b5b08c9f964a520f9df28e3","MTA Subway - 161st St/Yankee Stadium (4/B/D)","Travel & Transport::Subway",40.82786090041683,-73.925651460886
+"4b5bb984f964a520691229e3","Rebel Diaz Art Collective","Arts & Entertainment::Art Gallery",40.809864,-73.904022
+"4b5bc595f964a520431529e3","Pasquale Riggaletto's","Food::Italian Restaurant",40.85378521339964,-73.88920540043901
+"4b5df16cf964a520257529e3","MTA Subway - Bronx Park East (2/5)","Travel & Transport::Subway",40.848821486229454,-73.86833667755127
+"4b5df22bf964a5205b7529e3","MTA Subway - E 180th St (2/5)","Travel & Transport::Subway",40.841927,-73.873511
+"4b5f31daf964a52073ac29e3","Dino's Pizzeria","Food::Pizza Place",40.90505436666667,-73.901525
+"4b5f5470f964a5205fb429e3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.83745041598947,-73.8841724395752
+"4b5f5541f964a5208db429e3","Popeye's","Food::Fried Chicken Joint",40.8367394507673,-73.8857831838101
+"4b5f5879f964a52051b529e3","MTA Subway - 174th St (2/5)","Travel & Transport::Subway",40.83728642017169,-73.88772866646565
+"4b60aaa3f964a5200bf329e3","Royal Coach Diner","Food::Diner",40.87250697778842,-73.85443210601807
+"4b637f59f964a5207b7e2ae3","MTA Subway - West Farms Square/E Tremont Av (2/5)","Travel & Transport::Subway",40.840567,-73.880053
+"4b647b14f964a520a6b62ae3","Latin Kitchen","Food::Latin American Restaurant",40.82436816570852,-73.82007195368169
+"4b64a9fff964a520b1c62ae3","White Castle","Food::Fast Food Restaurant",40.84020659122289,-73.84136359753867
+"4b65cde2f964a520bf002be3","SUNY Maritime College","College & University::University",40.807735203040586,-73.79739761352539
+"4b672a15f964a520dc3e2be3","Subway","Food::Sandwich Place",40.898213,-73.86727
+"4b683211f964a5205a6b2be3","Bronx County Family Court","Professional & Other Places::Government Building::Courthouse",40.826799936046804,-73.92047882080078
+"4b69b855f964a520d9af2be3","7-Eleven","Shop & Service::Food & Drink Shop",40.851897264888805,-73.82898330688477
+"4b69fff0f964a520d0c02be3","Metro North - Woodlawn Train Station","Travel & Transport::Train Station",40.89544599443902,-73.86297225952148
+"4b6a059df964a52062c22be3","Tattoo Seen","Shop & Service::Tattoo Parlor",40.837211,-73.83418201
+"4b6a0d33f964a5205dc42be3","Tremont Diner","Food::Diner",40.84019279017704,-73.83732600046861
+"4b6b4bf7f964a520f1fe2be3","Unique Thrift Store","Shop & Service::Clothing Store",40.88198914806383,-73.90376637700534
+"4b6b6f17f964a5208d082ce3","First Lutheran Church","Professional & Other Places::Spiritual Center::Church",40.83700429911981,-73.8261079788208
+"4b6bcac0f964a520a9182ce3","Taco Bell","Food::Fast Food Restaurant",40.84408950805664,-73.90333557128906
+"4b6bcd44f964a52001192ce3","McDonald's","Food::Fast Food Restaurant",40.84173926916227,-73.90469075564502
+"4b6beac4f964a5207c1c2ce3","Echo Park","Outdoors & Recreation::Park",40.84919502778942,-73.90245206396253
+"4b6c2cecf964a520b5272ce3","High School of American Studies","Professional & Other Places::School::High School",40.87453943996946,-73.89467163563702
+"4b6c9518f964a520a2442ce3","Chase","Shop & Service::Bank",40.873149,-73.876282
+"4b6c9841f964a52059452ce3","Green Valley Gourmet Deli","Food::Deli / Bodega",40.87571203708649,-73.87970924377441
+"4b6cabdaf964a520fe4a2ce3","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",40.87454555081222,-73.87950705049428
+"4b6cb1c0f964a520d04c2ce3","Mamma Lucia's Pizza & Pasta","Food::Italian Restaurant",40.8117359876633,-73.80546569824219
+"4b6d57f4f964a520f6712ce3","Target","Shop & Service::Department Store",40.82335764687134,-73.92983436584473
+"4b6dbb78f964a520968a2ce3","Domino's Pizza","Food::Pizza Place",40.899711213851575,-73.85717433056168
+"4b6dc1f6f964a520f98c2ce3","Arthur Avenue Retail Market","Shop & Service::Food & Drink Shop::Farmers Market",40.854181,-73.888279
+"4b6dcb68f964a52080902ce3","Duane Reade","Shop & Service::Drugstore / Pharmacy",40.867184768577516,-73.8971757888794
+"4b6de6a8f964a520439a2ce3","North Central Bronx Hospital","Professional & Other Places::Medical Center::Hospital",40.880514,-73.881093
+"4b6f00d5f964a52017d62ce3","McDonald's","Food::Fast Food Restaurant",40.826427140274234,-73.86165371171202
+"4b6f0a6cf964a520e0d82ce3","Marconi Pizzeria","Food::Pizza Place",40.88075291976679,-73.87791645228371
+"4b6f0c2af964a52063d92ce3","MTA Subway - Gun Hill Rd (2/5)","Travel & Transport::Subway",40.877675,-73.866298
+"4b6f12faf964a5202ddb2ce3","Food Bazaar Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.825486613144776,-73.92011747093746
+"4b6f201bf964a520b8de2ce3","Chuck E. Cheese's","Food::Pizza Place",40.86324918738325,-73.8332710901755
+"4b6f2ac9f964a52072e12ce3","Kmart","Shop & Service::Electronics Store",40.86640733958329,-73.82869342150546
+"4b708bdff964a5200c212de3","MTA Subway - Castle Hill Ave (6)","Travel & Transport::Subway",40.83398953778194,-73.85171279326582
+"4b70e8c9f964a520e9332de3","Super Laundromat","Shop & Service::Laundry Service",40.8719354867935,-73.8773488998413
+"4b71b51af964a52095572de3","T-Mobile","Shop & Service::Electronics Store",40.882057,-73.8819515705109
+"4b71b5a9f964a520b6572de3","GameStop","Shop & Service::Video Game Store",40.881759,-73.88258894
+"4b71c776f964a520fb5b2de3","Perista","Food::Diner",40.8684253333333,-73.90141
+"4b71f498f964a52069662de3","Bronx High School of Science","Professional & Other Places::School::High School",40.87677142270455,-73.89022171834159
+"4b71f655f964a520ee662de3","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",40.8792648777731,-73.87487303344552
+"4b720280f964a520d9692de3","Estrellita Poblana","Food::Mexican Restaurant",40.84206602799742,-73.84406294068664
+"4b7435aef964a52042cd2de3","Caribe Restaurant","Food::Spanish Restaurant",40.88249693794803,-73.88118951035904
+"4b76e52af964a52015682ee3","Family Pizzeria","Food::Pizza Place",40.8466583490372,-73.8319014
+"4b76e9f6f964a520f1692ee3","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.845723,-73.831058
+"4b770f7cf964a5202b792ee3","ben hur storage","Professional & Other Places::Building",40.80513775348663,-73.90710532665253
+"4b78738ef964a5204ccf2ee3","RadioShack","Shop & Service::Electronics Store",40.817938,-73.91541275
+"4b78ba71f964a5209fdf2ee3","Santa Fe Grill & Bar","Food::Mexican Restaurant",40.89149665431765,-73.8977032631769
+"4b7ae8cef964a52066452fe3","Best Buy","Shop & Service::Electronics Store",40.861213000244305,-73.89116764068604
+"4b7c73e7f964a5205d942fe3","C Town","Shop & Service::Food & Drink Shop::Grocery Store",40.897749,-73.86732
+"4b7c99c2f964a520249d2fe3","MTA Bus Bx4 Castle Hill & Westchester","Travel & Transport::Bus Station::Bus Line",40.83421033239144,-73.85168982118014
+"4b7dce5af964a520cad52fe3","Metro North - Yankees E. 153rd Street Train Station","Travel & Transport::Train Station",40.825273660063935,-73.92996311187744
+"4b7dfaf5f964a52054dd2fe3","IHOP","Food::Breakfast Spot",40.880538160382365,-73.9039134979248
+"4b7eaf79f964a52023f92fe3","Corner Cafe and Bakery","Food::Bakery",40.88655249,-73.90968
+"4b7efbe1f964a520400e30e3","New York Public Library - Bronx Library Center","Professional & Other Places::Library",40.86277901875657,-73.89423608779907
+"4b7f151af964a5202b1530e3","Metro North - Morris Heights Train Station","Travel & Transport::Train Station",40.85379181848342,-73.92000265062941
+"4b7f1655f964a520811530e3","Metro North - Riverdale Station","Travel & Transport::Train Station",40.903944714060195,-73.91412734985352
+"4b81be34f964a52065bb30e3","Ohana","Food::Japanese Restaurant",40.852201,-73.7890354166667
+"4b821e34f964a520f3ca30e3","Louie's Dale Diner","Food::Burger Joint",40.8787863,-73.90438556671143
+"4b821f17f964a52006cb30e3","Petland Discount","Shop & Service::Pet Store",40.877973,-73.90527064
+"4b821f5ef964a5200ecb30e3","Foodtown","Shop & Service::Food & Drink Shop::Grocery Store",40.87858992346285,-73.90513858968342
+"4b82a328f964a520dadb30e3","The Walsh Library at Rose Hill (Fordham University)","College & University::College Library",40.86120488606231,-73.88929009437561
+"4b82c48ef964a52090e330e3","Cookie's","Shop & Service::Department Store",40.862084,-73.89090500254913
+"4b82c601f964a52000e430e3","Dr. Jay's","Shop & Service::Sporting Goods Shop",40.86205533732369,-73.89411468379443
+"4b82c608f964a52001e430e3","Morris Park Pizza","Food::Pizza Place",40.8449829634746,-73.8673676459146
+"4b82cb1ff964a52064e530e3","Walgreens","Shop & Service::Drugstore / Pharmacy",40.861229464307456,-73.89120932163756
+"4b82cbbbf964a52087e530e3","McDonald's","Food::Fast Food Restaurant",40.856496691703796,-73.88121061
+"4b82cd27f964a520dae530e3","New York State DMV","Professional & Other Places::Government Building",40.85709086778966,-73.88236999511719
+"4b82d382f964a52085e730e3","F.Y.E","Shop & Service::Record Shop",40.8559827299583,-73.86787873343802
+"4b82d41ef964a520a9e730e3","BX Sports","Shop & Service::Clothing Store::Accessories Store",40.855736,-73.867714
+"4b8423d7f964a5203b2331e3","Sabrosura","Food::Latin American Restaurant",40.83199295838476,-73.85098917127998
+"4b849345f964a5207b3c31e3","Palombo Pastry, Bakery, Creamery, Cafe","Food::Café",40.85550353686605,-73.88753449342389
+"4b86b450f964a5206a9731e3","Rikers Island Correctional Facility","Professional & Other Places::Building",40.78800295837771,-73.88452112674713
+"4b86d363f964a520ff9f31e3","Three Boys from Italy","Food::Pizza Place",40.871448868003256,-73.86676467577753
+"4b86d682f964a520b5a031e3","Wendy's","Food::Fast Food Restaurant",40.842865,-73.89794049
+"4b86e7d7f964a5201ea531e3","Sorrento Pizzeria","Food::Pizza Place",40.854431,-73.85461
+"4b86ec9ff964a5202da631e3","McDonald's","Food::Fast Food Restaurant",40.82755768282148,-73.82366188430154
+"4b8782bef964a52078c131e3","Dunkin' Donuts","Food::Donut Shop",40.86354407798552,-73.83421877496224
+"4b87bd44f964a52096c931e3","MTA Subway - Buhre Ave (6)","Travel & Transport::Subway",40.84651658753345,-73.83257210254669
+"4b885c1df964a520f6f131e3","Young Star Liquor Inc‎.","Shop & Service::Food & Drink Shop::Liquor Store",40.873287320137024,-73.878915309906
+"4b8944b2f964a520422732e3","biancardis","Food::Steakhouse",40.854588,-73.888336
+"4b895113f964a520112b32e3","China Pavillion","Food::Asian Restaurant",40.85626761,-73.8437783718109
+"4b8956c2f964a520d62c32e3","The Dancing Crane Cafe","Food::American Restaurant",40.84983742407958,-73.88025353617684
+"4b897470f964a520d83732e3","Monkey House","Arts & Entertainment::Zoo",40.85188103424158,-73.87844324111938
+"4b89799af964a520d63932e3","Sea Lion Pool","Arts & Entertainment::Zoo",40.85284582,-73.87848942
+"4b897b62f964a520953a32e3","Frank's Sport Shop","Shop & Service::Sporting Goods Shop",40.84750106,-73.8998304333333
+"4b897fd9f964a520473c32e3","Uptown Sports Complex","Shop & Service::Gym / Fitness Center",40.8804339766482,-73.9032726077378
+"4b8985ccf964a520943e32e3","Tiger Mountain","Arts & Entertainment::Zoo",40.85121723333334,-73.877251
+"4b898adbf964a520514032e3","Dunkin' Donuts","Food::Donut Shop",40.854942628571436,-73.867456
+"4b898b4ef964a5207e4032e3","habibi gyro","Food::Food Truck",40.85566,-73.867699
+"4b89b62df964a520ff4c32e3","Sabor Latino Seafood Restaurant","Food::Chinese Restaurant",40.8363807842815,-73.8532232020184
+"4b8a8452f964a5203b7032e3","IHOP","Food::Breakfast Spot",40.86576950253472,-73.86263571624869
+"4b8ab0ddf964a520137a32e3","Poe Park","Outdoors & Recreation::Playground",40.86474403477694,-73.89437880548475
+"4b8accdbf964a520dd8132e3","Tigermart","Shop & Service::Gas Station / Garage",40.85870796651536,-73.88515156010308
+"4b8b0225f964a520088e32e3","KFC","Food::Fried Chicken Joint",40.89953330124146,-73.8572645187378
+"4b8b057ff964a520c38e32e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.89844141783768,-73.85512986116028
+"4b8b28b2f964a520869532e3","Jasper's Deli","Food::Deli / Bodega",40.887261629104614,-73.904543
+"4b8b2afaf964a520dd9532e3","Brigdes Sports Bar","Nightlife Spot::Sports Bar",40.81876223712012,-73.81735324859619
+"4b8b397df964a520629832e3","WFUV-FM 90.7 Studio","Professional & Other Places::Office",40.86062066234757,-73.88409733772278
+"4b8be8c3f964a520d3b132e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.82313444720801,-73.86849318521622
+"4b8bec07f964a5208bb232e3","MTA Bus Stop -- Bx5 -- Story Av & Soundview Av","Travel & Transport::Bus Station::Bus Line",40.822845458984375,-73.86448669433594
+"4b8bf091f964a52092b332e3","MTA Subway - Hunts Point Ave (6)","Travel & Transport::Subway",40.82093,-73.890524
+"4b8c3a90f964a52061c532e3","White Castle","Food::Fast Food Restaurant",40.880336,-73.84189009666443
+"4b8c467bf964a520efc732e3","PalmTree Marketplace","Shop & Service::Food & Drink Shop::Grocery Store",40.880487,-73.840752
+"4b8c6d1bf964a5203dd032e3","Ljubo's Pizza","Food::Pizza Place",40.8403127,-73.843229
+"4b8ca10bf964a520c5d832e3","MTA Subway - 219th St (2/5)","Travel & Transport::Subway",40.88357190912476,-73.86267185211182
+"4b8daf9ef964a5208c0833e3","Mercy College - Bronx Campus","College & University::University",40.85306586103942,-73.83713722229004
+"4b8db810f964a5206a0a33e3","Cafe Colonial","Food::Cuban Restaurant",40.8524570004896,-73.86766625901119
+"4b8dc958f964a520b10d33e3","MTA Subway - Intervale Ave (2/5)","Travel & Transport::Subway",40.82218025464429,-73.8967354576721
+"4b8de141f964a520d61133e3","Carvel","Food::Ice Cream Shop",40.8475987365469,-73.8318524262749
+"4b8dedb5f964a5208d1333e3","Dorney and Malone's","Nightlife Spot::Bar",40.890201568603516,-73.89823913574219
+"4b8e91d1f964a520412933e3","St. Barnabas Nursing Home","Professional & Other Places::Medical Center",40.852546487517095,-73.89189720153809
+"4b8e9538f964a520232a33e3","Staples","Shop & Service::Paper / Office Supplies Store",40.8675,-73.829406
+"4b8e9a0af964a5203b2b33e3","Checkers","Food::Burger Joint",40.8673145667776,-73.83046247039351
+"4b8fbf80f964a5202a6033e3","MTA Subway - E 180th St (2/5)","Travel & Transport::Subway",40.841927,-73.873511
+"4b8feab1f964a520676933e3","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4b914c8ff964a5200eb133e3","Wendy's","Food::Fast Food Restaurant",40.842903816938026,-73.84547577364965
+"4b928c1ef964a5201b0334e3","Congo Gorilla Forest","Arts & Entertainment::Zoo",40.848147879760944,-73.88097524642944
+"4b92de79f964a520012334e3","Metro North - Melrose Train Station","Travel & Transport::Train Station",40.825793,-73.915029
+"4b943f56f964a520027134e3","Lobster House","Food::Seafood Restaurant",40.85694778615185,-73.79164315382451
+"4b96cb85f964a5200ce534e3","jcpenney","Shop & Service::Department Store",40.86499,-73.829949
+"4b96e429f964a520c6eb34e3","Red Lobster","Food::Seafood Restaurant",40.86916190087487,-73.8271426188823
+"4b97de32f964a5204b1b35e3","Dunkin' Donuts","Food::Coffee Shop",40.88999585918708,-73.89829158782959
+"4b997129f964a520c57b35e3","The Home Depot","Shop & Service::Hardware Store",40.82725456465587,-73.839111328125
+"4b9c08adf964a5201c4336e3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.86225160733068,-73.89434337615967
+"4b9e5527f964a520a7da36e3","Party City","Shop & Service::Miscellaneous Shop",40.866656656795534,-73.82833156864739
+"4b9e7b4ff964a520bde736e3","Party City","Shop & Service::Miscellaneous Shop",40.825136,-73.85919
+"4b9ea46af964a52021f636e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.84400870175975,-73.88812065124512
+"4b9ee81bf964a520cf0937e3","CVS","Shop & Service::Drugstore / Pharmacy",40.85270993025868,-73.8529130810144
+"4b9f06a9f964a520a21037e3","GameStop","Shop & Service::Video Game Store",40.85546791061954,-73.86786460876465
+"4b9f8632f964a520b52837e3","MTA Subway - Mount Eden Ave (4)","Travel & Transport::Subway",40.844456070640504,-73.91468639613507
+"4b9f958af964a5200a2d37e3","New York City Department of Finance","Professional & Other Places::Office",40.81973433494568,-73.91319612
+"4b9faec6f964a5208c3437e3","Staples","Shop & Service::Paper / Office Supplies Store",40.81930371812677,-73.9136300172502
+"4b9faefbf964a5209e3437e3","Workforce1 Career Center","Professional & Other Places::Office",40.81623636860204,-73.9193194683945
+"4b9fd2f9f964a520ff4137e3","New York State DMV","Professional & Other Places::Building",40.83686598279944,-73.84074211120605
+"4b9ffdeef964a520835037e3","Lincoln Medical & Mental Health Center","Professional & Other Places::Medical Center::Hospital",40.81699218871823,-73.92446994781494
+"4ba01296f964a5209f5737e3","Yummy Yummy Chinese Kitchen","Food::Chinese Restaurant",40.81637185468219,-73.86338800880262
+"4ba07442f964a520546e37e3","Remy Billiards & Cafe","Arts & Entertainment::Pool Hall",40.8592807825964,-73.90364661812782
+"4ba0fb91f964a5200a8c37e3","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.82192871964385,-73.92996311187744
+"4ba10dc5f964a520019337e3","Original Joe's Pizza","Food::Pizza Place",40.893269777298,-73.8570874929428
+"4ba11ddcf964a5205e9937e3","Bx6 Bus","Travel & Transport::Bus Station",40.827516,-73.925244
+"4ba1333ff964a52065a137e3","Dynasty Chinese Restaurant","Food::Asian Restaurant",40.836454,-73.86056258980652
+"4ba14693f964a52040a837e3","Paul's Caribbean bakery","Food::Caribbean Restaurant",40.899754562021954,-73.85721453058976
+"4ba14a5ef964a52092a937e3","Fella's","Nightlife Spot::Bar",40.852661,-73.78941
+"4ba15905f964a52003af37e3","Metro North - Williams Bridge Train Station","Travel & Transport::Train Station",40.87851017592601,-73.87112617492676
+"4ba174d5f964a52094b837e3","Carlos & Gabby's Riverdale","Food::Mexican Restaurant",40.90658065905252,-73.9043807160928
+"4ba236c3f964a5204be437e3","McDonald's","Food::Fast Food Restaurant",40.816843,-73.892434
+"4ba24ffcf964a52048ec37e3","Chase Bank","Shop & Service::Bank",40.85364398444654,-73.90760165850426
+"4ba25662f964a520afee37e3","MTA Bus - Bx12, Bx12 +Select","Travel & Transport::Bus Station",40.85741545445239,-73.8564920425415
+"4ba26be9f964a52062f737e3","John Mulcahy Hall (JMH)","College & University::College Academic Building",40.85957391530473,-73.88488054275513
+"4ba286a9f964a520130138e3","Kennedy Chicken & Sandwiches","Food::Fast Food Restaurant",40.852787017822266,-73.82764434814453
+"4ba2a899f964a5206b0d38e3","Mingles","Nightlife Spot::Cocktail Bar",40.884121507632074,-73.83269098997295
+"4ba2ba98f964a520231438e3","US Post Office","Professional & Other Places::Post Office",40.88241160322355,-73.82278881916288
+"4ba2bb21f964a5205c1438e3","Taco Bell","Food::Taco Place",40.82641222594789,-73.86059704638035
+"4ba2bc52f964a520cb1438e3","Super Stop & Shop","Shop & Service::Food & Drink Shop::Grocery Store",40.88036831562195,-73.82512081350738
+"4ba2d7b2f964a520811d38e3","Bottom Line Ale House","Nightlife Spot::Bar",40.8837665834404,-73.89833450317383
+"4ba3782cf964a520b43f38e3","Dunkin' Donuts","Food::Donut Shop",40.885362337204214,-73.82789504685839
+"4ba39e47f964a520944c38e3","Golden Krust Caribbean Bakery and Grill","Food::Caribbean Restaurant",40.8838030848108,-73.8626557588577
+"4ba3a792f964a520935038e3","Subway","Food::Sandwich Place",40.8468331100608,-73.8439607620239
+"4ba3b304f964a520d15538e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.86197429978461,-73.8432761146894
+"4ba3b569f964a520ee5638e3","MTA Subway - Burke Ave (2/5)","Travel & Transport::Subway",40.87142796689727,-73.8671886920929
+"4ba3c0d1f964a5207a5b38e3","Modell's Sporting Goods","Shop & Service::Sporting Goods Shop",40.86225160733068,-73.8998794555664
+"4ba3fe2ff964a520507538e3","Pro Stylz Barber Shop","Shop & Service::Salon / Barbershop",40.84302,-73.848816
+"4ba40e3ff964a520997c38e3","Lombardi Athletic Center","Shop & Service::Gym / Fitness Center::Gym",40.86287638656054,-73.8835072517395
+"4ba508aff964a5206dd338e3","Mohegan Sun Sports Bar","Nightlife Spot::Sports Bar",40.829771202359346,-73.92556428909302
+"4ba52024f964a520b1e038e3","Lobster Box","Food::Seafood Restaurant",40.838409848514395,-73.7830373131091
+"4ba53e04f964a520a7f038e3","Sammy's Shrimp Box Restaurant","Food::Seafood Restaurant",40.839536497555635,-73.78345669846682
+"4ba53f47f964a52040f138e3","MTA Subway - Allerton Ave (2/5)","Travel & Transport::Subway",40.865335,-73.867511
+"4ba61935f964a520673339e3","Pelham Bay Park","Outdoors & Recreation::Park",40.8519621874379,-73.82696628570557
+"4ba66309f964a520d24c39e3","MTA Subway - Westchester Square/E Tremont Ave (6)","Travel & Transport::Subway",40.839869,-73.842909
+"4ba7c7fbf964a520cdb239e3","Fordham Plaza","Outdoors & Recreation::Plaza",40.8614401969361,-73.8909101486206
+"4ba8c654f964a520dbed39e3","MTA Subway - Jackson Ave (2/5)","Travel & Transport::Subway",40.816486371807535,-73.90780709937098
+"4ba8f9b5f964a520b5ff39e3","Hayden Hall","College & University::College Academic Building::College Science Building",40.88949643464456,-73.90085541689079
+"4ba925b9f964a520370f3ae3","Keating Hall","College & University::College Academic Building",40.860726147566155,-73.88430118560791
+"4baa3d8bf964a520bb563ae3","New Hawaii Sea","Food::Chinese Restaurant",40.84361540988401,-73.84574570399899
+"4baaa3b7f964a520e37b3ae3","MTA Subway - Fordham Rd (4)","Travel & Transport::Subway",40.86249502851064,-73.90103280544281
+"4baae7aef964a520308d3ae3","South Bronx Preparatory School","Professional & Other Places::School::High School",40.8139825818032,-73.92147234545061
+"4babc88df964a5203ac93ae3","Bronx Community College, CUNY","College & University::Community College",40.85738899466222,-73.91218322817043
+"4babdc10f964a520cccf3ae3","Amtrak Acela 2173","Travel & Transport::Train Station::Train",40.80159982320217,-73.91058715472953
+"4bae24e5f964a5209e893be3","Bank Of America","Professional & Other Places::Building",40.85680852342,-73.8677007143393
+"4bae5013f964a52049a13be3","McDonald's","Food::Fast Food Restaurant",40.88396125718341,-73.90181064605713
+"4bae9aedf964a520d0c53be3","Paradise Theater","Arts & Entertainment::Music Venue",40.86049894842506,-73.89846324920653
+"4baf25ecf964a520b1ed3be3","MTA Subway - Simpson St (2/5)","Travel & Transport::Subway",40.824069987985915,-73.8930669417162
+"4baf59e8f964a520a6f93be3","Bikram Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",40.87674816197915,-73.90584478742304
+"4bb0371bf964a520ac3c3ce3","Van Cortlandt Park Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",40.892493893575065,-73.8885498046875
+"4bb0b29bf964a520bf553ce3","DOCS","Professional & Other Places::Medical Center::Doctor's Office",40.8526266,-73.828317
+"4bb0d7c4f964a5203e623ce3","MTA Subway - Longwood Ave (6)","Travel & Transport::Subway",40.815855,-73.896446
+"4bb0dd00f964a52043643ce3","MTA Subway - E 149th St (6)","Travel & Transport::Subway",40.81231513632598,-73.90451431274414
+"4bb0df09f964a52027653ce3","MTA Subway - E 143rd St/St. Mary's St (6)","Travel & Transport::Subway",40.808778,-73.907622
+"4bb0e1d1f964a5205a663ce3","MTA Subway - Cypress Ave (6)","Travel & Transport::Subway",40.805299,-73.913924
+"4bb0e484f964a52074673ce3","MTA Subway - Brook Ave (6)","Travel & Transport::Train Station::Train",40.80754030525038,-73.91927719116211
+"4bb0ebe3f964a5205c6a3ce3","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.86647078114119,-73.8266658782959
+"4bb0fefbf964a52039713ce3","Edgar Allan Poe Cottage","Arts & Entertainment::Museum::History Museum",40.86537849355412,-73.89437880548475
+"4bb0fff5f964a520a2713ce3","Grand Concourse","Travel & Transport::Hotel",40.822941742180035,-73.9245896691605
+"4bb114c4f964a520b9783ce3","Sam's Pizza","Food::Pizza Place",40.8794656965953,-73.9059940646665
+"4bb12c1ff964a52087803ce3","Chung Lee Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.877211,-73.844586
+"4bb20a56f964a520edb33ce3","Montefiore Medical Park","Professional & Other Places::Medical Center::Doctor's Office",40.845883053770216,-73.8455676648739
+"4bb2434d14cfd13a4eb314ab","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.84609837551497,-73.91782105189374
+"4bb253ad42959c7438af202c","MTA - BX36 Harrod Ave and E 174st","Travel & Transport::Bus Station::Bus Line",40.834143456876674,-73.87435047942087
+"4bb266dd715eef3ba42d85bb","Rainbow","Shop & Service::Clothing Store::Women's Store",40.83578872680664,-73.86134338378906
+"4bb26c3c4019a5937dcf36b8","MTA - Bx10 W232nd St & Henry Hudson Pkwy","Travel & Transport::Bus Station::Bus Line",40.883187609029946,-73.91561072295546
+"4bb28791715eef3b9f5e85bb","Pio Pio","Food::Latin American Restaurant",40.80602491054699,-73.9141696897882
+"4bb2d8f214cfd13abf7c15ab","Tropicana Theatere & Lounge","Nightlife Spot::Lounge",40.828363084086604,-73.88721868465217
+"4bb2e2444019a593726837b8","Crown Donut Family Restaurant","Food::American Restaurant",40.82779176707752,-73.92473319114711
+"4bb369ee4019a5931adf37b8","Stop Deli","Food::Deli / Bodega",40.827572,-73.925419
+"4bb3860e2397b713823b38b3","Boston Market","Food::Fast Food Restaurant",40.83392262411055,-73.82881978266506
+"4bb3892642959c74df12222c","Montefiore Medical Center","Professional & Other Places::Medical Center::Hospital",40.848748444895186,-73.84580612182617
+"4bb3a9a5eb3e9521b776cb0a","20/20 deli","Food::Deli / Bodega",40.8268767421775,-73.89200169741852
+"4bb3c5b14019a5939b6b38b8","Metro North - Harlem Line","Travel & Transport::Train Station::Train",40.860565185546875,-73.89129638671875
+"4bb3e3ae737d76b0b9d73a7c","Pep Boys Auto","Shop & Service::Automotive Shop",40.84317,-73.84642
+"4bb3ed8d643cd13a8933395c","Gana Wines and Spirits","Shop & Service::Food & Drink Shop::Liquor Store",40.85277811664441,-73.82774571023577
+"4bb4a294a187ef3bdfd34942","St. Frances de Chantal R.C. Church","Professional & Other Places::Spiritual Center::Church",40.81585488708598,-73.814649599173
+"4bb4eba929269c7411d1ca92","Mouse House","Arts & Entertainment::Zoo",40.84892967880914,-73.87958744139678
+"4bb4ee0329269c74efd4ca92","World of Reptiles","Arts & Entertainment::Zoo",40.849254,-73.878781
+"4bb5dd7bf562ef3bd9502f97","The Blend Cafe","Food::Café",40.858525990845195,-73.88542901721692
+"4bb5f7962ea1952102f1aa2f","Manhattan Beer Distributors","Professional & Other Places::Office",40.805732759923515,-73.90553474970604
+"4bb6075e1344b71337dc9c04","McDonald's","Food::Fast Food Restaurant",40.86384194286869,-73.8671350479126
+"4bb626e0f562ef3b2fb32f97","Sal's Pizzeria","Food::Pizza Place",40.8753418922424,-73.879634
+"4bb63994f562ef3b4ad12f97","St. Thomas Aquinas R.C. Church","Professional & Other Places::Spiritual Center::Church",40.84056730598288,-73.88515949249268
+"4bb648cef562ef3b3fea2f97","Morrone Pastry Shop & Cafe","Food::Dessert Shop",40.854626,-73.888485
+"4bb6496e46d4a59398fdc5c0","Madonia Bakery","Food::Bakery",40.854489,-73.888466
+"4bb8bfdf1261d13abee0e898","St. Benedict R.C. Church","Professional & Other Places::Spiritual Center::Church",40.83330660121127,-73.82594791820263
+"4bb8c59ccf2fc9b6cfd39f02","Bug Carousel","Arts & Entertainment::Theme Park",40.84941392963242,-73.87973070144653
+"4bb8fc8cb35776b0b27bc901","Whitestone Multiplex Cinema","Arts & Entertainment::Movie Theater::Multiplex",40.83066417987618,-73.84065628051758
+"4bbbcac0ed7776b066f43e51","Amtrak Acela 2173","Travel & Transport::Train Station::Train",40.80159982320217,-73.91058715472953
+"4bbcc7aba8cf76b02ef1b0fd","MTA Subway - Freeman St (2/5)","Travel & Transport::Subway",40.83010810094509,-73.89188686054786
+"4bbcff398ec3d13add871b28","Dealy Hall","College & University::College Academic Building",40.861277913664345,-73.88601779937744
+"4bbd18daa8cf76b07669b1fd","Old Navy","Shop & Service::Clothing Store",40.86737949108774,-73.8286828994751
+"4bbd29d3a8cf76b05187b1fd","McGinley Student Center","College & University::Student Center",40.86212178233553,-73.88447284698486
+"4bbe01eef57ba5939ac1aeb9","MTA Subway - 167th St (4)","Travel & Transport::Subway",40.835532904139,-73.92139923313522
+"4bc0f6ae2a89ef3b9189f188","Toys R Us","Arts & Entertainment::Arcade",40.8206296681771,-73.9304351806641
+"4bc215592a89ef3b402ff388","Madagascar","Arts & Entertainment::Zoo",40.85238352865873,-73.87912232214714
+"4bc355b9f8219c7469ecb510","Lasorsa Chevrolet","Shop & Service::Automotive Shop",40.878947,-73.87148995
+"4bc3642af8219c743b05b610","Wendy's","Food::Fast Food Restaurant",40.84033362635824,-73.91777512323625
+"4bc36663920eb71304661d2c","MTA Subway - Whitlock Ave (6)","Travel & Transport::Train Station",40.827302564836515,-73.88612770497271
+"4bc37154b492d13a2fc2a860","Giovanni's Pizza","Food::Pizza Place",40.8544657833333,-73.888518
+"4bc38b40abf4952109e9c393","MTA Subway - 174th/175th Sts (B/D)","Travel & Transport::Subway",40.845898737494544,-73.91013818096826
+"4bc39919abf49521dffec393","Peghe Deli","Food::Deli / Bodega",40.852760941098936,-73.82772847907977
+"4bc39aae4cdfc9b67c999721","The Original Emilio's Pizza","Food::Pizza Place",40.82433,-73.820109
+"4bc39d1d2a89ef3bdf49f588","Greek Express","Food::Greek Restaurant",40.887595,-73.907308
+"4bc3cb36dce4eee141c1719d","Best Western Bronx Inn","Professional & Other Places::Building",40.83095669746399,-73.884723
+"4bc3d1aaabf495217f60c493","Kennedy Fried Chicken & Pizza","Food::Fried Chicken Joint",40.8392402600613,-73.91303293099656
+"4bc470c7b492d13a5cfea960","Harry S Truman High School","Professional & Other Places::School::High School",40.87420358037502,-73.83344339683838
+"4bc470ef461576b04ce07f32","Banana Kelly High School","Professional & Other Places::School::High School",40.81722661031195,-73.89640564048332
+"4bc481b4b492d13adb16aa60","151st St. South Parking Lot","Professional & Other Places::Building",40.82174599170685,-73.9286756515503
+"4bc490c7b492d13af22eaa60","Dugout","Nightlife Spot::Bar",40.828413358858334,-73.92549098547816
+"4bc4badbb492d13ae279aa60","Ketel One Lounge","Nightlife Spot::Lounge",40.82893146780288,-73.92640113830566
+"4bc4c220abf49521c085c593","P.C. Richard & Son","Shop & Service::Electronics Store",40.867938,-73.83059
+"4bc502aa6c6f9c74a9e1b3fc","On Boston Road","Professional & Other Places::Building",40.83113520441111,-73.90143531576302
+"4bc5bd940a30d13a5e5f5a9c","Thru-way Pizza & Grill","Food::Pizza Place",40.88206481933594,-73.83004760742188
+"4bc5c41dccbcef3bede7e6d2","Cornerstone Academy PS/IS 189","College & University::Student Center",40.8823999147205,-73.8312665782931
+"4bc5e60ad35d9c7457c3e13a","Yankee Pride Lot","Outdoors & Recreation::Plaza",40.82947095,-73.924272
+"4bc5f5b8b387d13a3307c1e8","Subway","Food::Coffee Shop",40.852518289828524,-73.82728621222843
+"4bc61055db8fa59386b29b37","Chase Bank","Shop & Service::Bank",40.85190569326003,-73.82949753659797
+"4bc63bbe51b376b0ae381b6f","Fancy Feet Dance Studio","Arts & Entertainment::Performing Arts Venue::Dance Studio",40.86544,-73.849275
+"4bc64aa1d35d9c747c83e23a","HSBC","Shop & Service::Bank",40.87650619124199,-73.84737102148169
+"4bc64e0db387d13abcafc1e8","Walgreens","Shop & Service::Drugstore / Pharmacy",40.841728192575715,-73.843462
+"4bc66866bf29c9b6e4dcf92a","Caribe Restaurant","Food::Latin American Restaurant",40.84649215,-73.83203357
+"4bc712218b7c9c74b9b635cf","Chase Bank","Shop & Service::Bank",40.824441826674466,-73.89209930870554
+"4bc71e030050b7131409b83b","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4bc736ad2f94d13ade6f117f","MTA Subway - Prospect Ave (2/5)","Travel & Transport::Subway",40.819688,-73.901553
+"4bc741880050b713764eb83b","Fadel's Gourmet Deli","Food::Deli / Bodega",40.82412397423339,-73.85974137301017
+"4bc74e1faf07a59387e97e2d","Pelham Bay & Split Rock Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",40.87378516256055,-73.80872160133205
+"4bc7683d92b376b08fa84f3a","NYC Department of Buildings","Professional & Other Places::Government Building",40.84542635099463,-73.89486111373695
+"4bc771726501c9b69d713e29","United States Post Office - Throggs Neck","Professional & Other Places::Post Office",40.82799248348202,-73.82393184445338
+"4bc773d715a7ef3b0f6f79da","Super Car Wash & Quick Lube","Shop & Service::Automotive Shop",40.849780180499494,-73.84452239967138
+"4bc78544af07a59328577f2d","Ram Van to LC","Travel & Transport::General Travel",40.862365203992674,-73.88477325439453
+"4bc78c0d0050b71372e8b83b","John & Joe's Pizzeria","Food::Pizza Place",40.854501128196716,-73.86583936666666
+"4bc7917c92b376b0aaf94f3a","Casita Maria","Professional & Other Places::Building",40.820821,-73.89292
+"4bc797d992b376b07108503a","We Are The Barbers","Shop & Service::Salon / Barbershop",40.84791543664139,-73.83147909197731
+"4bc79880af07a59352817f2d","Carl's Steaks","Food::Food Truck",40.82891845703125,-73.92660522460938
+"4bc7ea0f2f94d13adfe6127f","TD Bank","Shop & Service::Bank",40.852112,-73.852607
+"4bc7eae792b376b05fb5503a","Shell Gas Station","Shop & Service::Gas Station / Garage",40.85570732,-73.85525185
+"4bc819a32f94d13a7219137f","The Chipper Truck","Food::Food Truck",40.898848721974,-73.8674652694769
+"4bc8eeb2fb84c9b655171a3e","Marina Del Ray","Professional & Other Places::Event Space",40.81276986422275,-73.8147783279419
+"4bc9dc35cc8cd13aef47bccf","Court Deli","Food::Deli / Bodega",40.82708730474406,-73.92414762077546
+"4bca371e68f976b0bbf25e83","Stop & Shop","Shop & Service::Food & Drink Shop::Grocery Store",40.88202820976075,-73.9020955945585
+"4bccf56fcc8cd13a98f4c1cf","Dickey's Barbecue Pit","Food::BBQ Joint",40.861975,-73.892489
+"4bce07bbef109521845d8386","A to Z Deli","Food::Deli / Bodega",40.841997,-73.830079
+"4bcfc1fc9854d13abec4f64d","Metropolitan Oval","Outdoors & Recreation::Plaza",40.83815673890818,-73.859867714279
+"4bd1d5fdcaff95211c6ed1f0","900 Park Restaurant","Food::Italian Restaurant",40.846736,-73.859142
+"4bd32d9c462cb713a1badd07","Bruckner Plaza","Shop & Service::Mall",40.82477030602672,-73.85737180709839
+"4bd34321462cb71331fbdd07","Best Buy","Shop & Service::Electronics Store",40.82233370440587,-73.92968750509135
+"4bd380fd462cb71315a7de07","Brisas Del Caribe Restaurant","Food::Latin American Restaurant",40.83216002430063,-73.85133949654161
+"4bd3b74eb221c9b6a980dad0","White Castle","Food::Fast Food Restaurant",40.866033,-73.862181
+"4bd4bd986f649521bc086eec","Eighth Regiment Kingsbridge Armory","Professional & Other Places::Government Building",40.86753179707819,-73.89753101287327
+"4bd5bc6a29eb9c7483cc93e1","Mta #1 bus stop","Travel & Transport::Bus Station",40.8671781968605,-73.8933797346031
+"4bd5d466637ba593c41af770","Capital One","Shop & Service::Bank",40.855561,-73.867805
+"4bd5dda6637ba593052ef770","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.855230212622246,-73.86755140787392
+"4bd614905631c9b6924aa530","Walsh Hall","College & University::College Residence Hall",40.859845746553226,-73.88545989990234
+"4bd6622c6f649521ace170ec","MTA Subway - 225th St (2/5)","Travel & Transport::Subway",40.887789724423016,-73.86039733886719
+"4bd6739bcfa7b71374af27da","1139 Nelson Avenue","Professional & Other Places::Building",40.836182,-73.927182
+"4bd6df656798ef3b27b9658d","Habibi Deli Grocery","Food::Deli / Bodega",40.85741275085686,-73.89029062105902
+"4bd6e0c529eb9c74c1b395e1","Walgreens","Shop & Service::Drugstore / Pharmacy",40.878949426980505,-73.84340246652094
+"4bd71c916798ef3b563a668d","My Place Family Pizza","Food::Pizza Place",40.86917788854577,-73.88916520696704
+"4bd73a7b09ecb713266a467c","Tony's Pizza","Food::Pizza Place",40.8483975959634,-73.9117009627546
+"4bd7661835aad13ac3cf8ef3","White Castle","Food::Burger Joint",40.82192838191986,-73.89768540859222
+"4bd784e2885595217acd87a7","seton park","Outdoors & Recreation::Athletic & Sport::Baseball Field",40.88590796311839,-73.91623020172119
+"4bd7ac4635aad13a46848ff3","Morton Williams Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.867459,-73.896905
+"4bd7cbcce914a5930e0d52fa","New Kingsbridge Deli Grocery","Food::Deli / Bodega",40.880036,-73.906654
+"4bd823825cf276b004839c00","MTA Bx11 Stop","Travel & Transport::Bus Station::Bus Line",40.84040582524917,-73.92228182105531
+"4bd8aebc2e6f0f470a1e0808","Marshalls","Shop & Service::Department Store",40.823288148585306,-73.85856984101515
+"4bd8ce262e6f0f47fdb30808","Sears","Shop & Service::Electronics Store",40.861465346931624,-73.89142751239048
+"4bd8e98811dcc928f865f833","El Malecon","Food::Caribbean Restaurant",40.87925041948925,-73.90455296034935
+"4bd8ec5f2e6f0f472e3d0908","TD Bank","Shop & Service::Bank",40.826181418306426,-73.82128966543966
+"4bd974640115c9b66e487780","Yosanty Restaurant","Food::Latin American Restaurant",40.8153197975878,-73.8950907839147
+"4bd9814fe914a593afb156fa","Amtrak Acela 2173","Travel & Transport::Train Station::Train",40.80159982320217,-73.91058715472953
+"4bd98de20115c9b695ab7780","Food Bank for New York City","Food::Food Truck",40.80599,-73.872739
+"4bd9c1072e6f0f47bfd20b08","Dunkin' Donuts","Food::Donut Shop",40.83710949725479,-73.83803844451904
+"4bdc58112a3a0f476665b2b6","Legends Suite","Arts & Entertainment::Stadium::Baseball Stadium",40.82940853,-73.9268712471655
+"4bdd99a9f4a9a59388aa308b","161 St Garage","Professional & Other Places::Parking",40.82914824981443,-73.92963583850683
+"4bdde3caffdec928b0d7e6a1","Seashore Restaurant & Marina","Food::Seafood Restaurant",40.85416477009188,-73.79113761404057
+"4bde24b56198c9b66b2d13ff","Jacoby Medical Center","Professional & Other Places::Medical Center::Emergency Room",40.85678482055664,-73.86761474609375
+"4bdf18206198c9b6bced15ff","Kmart","Shop & Service::Electronics Store",40.82593,-73.85714
+"4bdfa43089ca76b077c25d5e","Birth Place of Hip-Hop","Arts & Entertainment::General Entertainment",40.84493541997123,-73.92549672633302
+"4be0a0564f15c92801ddcb0b","New York Yankees Museum","Arts & Entertainment::Museum",40.828748322426684,-73.92706632614134
+"4be0a7de2aed2d7fe41ac96f","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",40.823065368806574,-73.93056392669678
+"4be363531dd22d7fd19d96bd","Villa Barone Manor","Professional & Other Places::Event Space",40.82896655015086,-73.81945735103741
+"4be6429978e895210bbe64ce","Jimmy's Cafe Restaurant","Food::Diner",40.82435987973154,-73.85911540825361
+"4be747b7bcef2d7fdb1b06e5","KBBQ","Food::Korean Restaurant",40.868604183197,-73.901741
+"4be7e5079a54a59369460911","Consolidated Edison of New York - Van Nest","Professional & Other Places::Government Building",40.86061254809301,-73.8902235031128
+"4be7f0b988ed2d7f0038cb1d","New Morris Deli","Food::Deli / Bodega",40.84579700505095,-73.8639795039791
+"4be84be4e1b39521dc3321c1","M&R Deli","Food::Sandwich Place",40.851007,-73.848254
+"4be9ae36246fb713e4d0abdf","HSBC Bank","Shop & Service::Bank",40.86277090476645,-73.9006519317627
+"4be9dd90415e20a1555fe4bb","Gerard Discount Liquor","Shop & Service::Food & Drink Shop::Liquor Store",40.82793262130714,-73.92469874588001
+"4bea48bca9900f47d1641640","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.868125922072615,-73.8257646560669
+"4beae3a7a9900f4700131740","Van Cortlandt Park - Tortoise and Hare Statue","Outdoors & Recreation::Park",40.893794933449136,-73.89635970677863
+"4beb1595a9900f4793591740","Pioneer","Food::Restaurant",40.846424,-73.863724
+"4beb43eb183895218cf10acf","Good 'N Natural","Food::Vegetarian / Vegan Restaurant",40.85562,-73.86780254
+"4beb46c761aca593cce58400","UPS Customer Center","Professional & Other Places::Office",40.81778542714755,-73.83856657962252
+"4beb94809fa3ef3ba14180c9","Halal Food Cart Fordham","Food::Food Truck",40.8629331843801,-73.8973045349121
+"4bebe91f6295c9b679318808","Broadway Animal Hospital Of Riverdale","Professional & Other Places::Medical Center::Doctor's Office",40.88072,-73.90297376666666
+"4bec3ac661aca5935cfe8500","El Mangu Tipico Restaurant","Food::Spanish Restaurant",40.89289063331684,-73.85582475342396
+"4bec73c4b68520a106231287","Martyr's Court","College & University::College Residence Hall",40.86255,-73.888011
+"4bec7a01b68520a1552d1287","BP","Shop & Service::Gas Station / Garage",40.83511966970133,-73.83004318426315
+"4bec9b00bbe62d7fcb1f7f2b","MTA Subway - Tremont Ave (B/D)","Travel & Transport::Subway",40.850274,-73.904986
+"4bec9fc9d5510f47b2cbcc6c","Osvaldo barbershop","Shop & Service::Cosmetics Shop",40.8344539798255,-73.852017173148
+"4beca0912cf820a1de06b91c","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4bedb01ce24d20a128d57114","MTA Subway - 3rd Ave/149th St (2/5)","Travel & Transport::Subway",40.816188,-73.917947
+"4beec73de24d20a1fd557314","The New York Botanical Gardens - The Rock Garden","Nightlife Spot::Beer Garden",40.86445859331298,-73.88245582580566
+"4bf012b73a002d7f69a085a4","Wild Asia Monorail","Arts & Entertainment::Zoo",40.84508004321627,-73.87597560882568
+"4bf044213a002d7fb1e785a4","Malibu Terrace Deck","Nightlife Spot::Bar",40.82848854088363,-73.92627239227295
+"4bf186b152bda593e9a6b1b7","The Home Depot","Shop & Service::Hardware Store",40.82334588074091,-73.93037065085984
+"4bf1ec69324cc9b672a5cc92","Tommy Bahama's Bar","Nightlife Spot::Bar",40.82897563044199,-73.92777442932129
+"4bf458c3706e20a1a63ba998","Bronx Grill","Food::Seafood Restaurant",40.8425641677287,-73.85535383496777
+"4bf4a31894af2d7f3ae63a72","Audi Yankees Club","Food::American Restaurant",40.8304571725226,-73.92636358737946
+"4bf54f7994af2d7f3a893b72","East Fordham Road","Outdoors & Recreation::Plaza",40.8617461366605,-73.89177202360972
+"4bf607e15e800f4793c6e6d4","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4bf62bf45efe2d7fc4c86634","MTA MaBSTOA & Bee-Line Bus at Fordham Plaza: (Bx9, Bx12 & +SBS, Bx15, Bx17, Bx22, Bx41, Bx55 / BL 60, 61, 62X)","Travel & Transport::Bus Station::Bus Line",40.86134282702077,-73.89060974121094
+"4bf866df5efe2d7ff2bd6a34","Crotona Park","Outdoors & Recreation::Park",40.83796990783286,-73.89902114868164
+"4bf9756d5ec320a1dc458ad3","Butterfly Garden","Outdoors & Recreation::Sculpture Garden",40.84910553509736,-73.87897431850433
+"4bfa52445317a5933475027f","Bx8 Williamsbridge Road and Morris Park Ave.","Travel & Transport::Bus Station::Bus Line",40.85032582314633,-73.85191379890117
+"4bfa5f40b182c9b6c52d7a5a","Dunkin Donuts","Food::Coffee Shop",40.8767427581788,-73.8649270410848
+"4bfaa8a35efe2d7fb3ea6d34","MTA 9 bus - Kingsbridge","Travel & Transport::Bus Station::Bus Line",40.867217222369,-73.896746635437
+"4bfac797b182c9b6c7d07a5a","Theodore Roosevelt High School","Professional & Other Places::School::High School",40.85982196510925,-73.88820056116157
+"4bfafccdab180f47203eb3ce","Met Food Market","Shop & Service::Food & Drink Shop::Grocery Store",40.806855971474604,-73.91973282263861
+"4bfb0096bbb7c9284e8f0743","Dunkin' Donuts","Food::Donut Shop",40.845425438178964,-73.86593199968758
+"4bfb271b65fbc9b6f819916c","Fine Fare","Shop & Service::Food & Drink Shop::Grocery Store",40.86453585082081,-73.8632616697963
+"4bfb3594f214a5938dfbae0e","Kings Harbour Multicare Center","Professional & Other Places::Medical Center",40.8606126648893,-73.8302327246788
+"4bfc1031d6f2c9b641a84ec8","Oishi Sushi","Food::Japanese Restaurant",40.82502365112305,-73.82069396972656
+"4bfc283ce05e0f472445cfa8","C-Town Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.882889,-73.89279
+"4bfc343d7bd2b71358efe361","Duane Reade","Shop & Service::Drugstore / Pharmacy",40.8179540004467,-73.915292
+"4bfc8c85f14fa5935d37cad4","McDonald's","Food::Fast Food Restaurant",40.81633217340403,-73.91721823740133
+"4bfd6dcbb68d0f474ac6e857","RadioShack","Shop & Service::Electronics Store",40.8896714322171,-73.8436603546143
+"4bfd70a98992a5932321acb0","New York Public Library - Hunt's Point Library","Professional & Other Places::Library",40.818525,-73.89422677
+"4bfd7279bf6576b03b4badb8","Dunkin' Donuts","Food::Donut Shop",40.862244402685086,-73.84355753456721
+"4bfd74ce55539c74a1abbcf3","Duane Reade","Shop & Service::Drugstore / Pharmacy",40.8622211458205,-73.89988508720046
+"4bfd8470f7c82d7f6c4d8e04","Rocking The Boat","Travel & Transport::Ferry::Boat or Ferry",40.81769840900794,-73.88272266085747
+"4bfd8d06f61dc9b669309fde","Tiny's Pizza & Pasta","Food::Italian Restaurant",40.831582123386,-73.9173847292098
+"4bfe9780f61dc9b690a7a0de","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.8534646059599,-73.90643041287639
+"4bfe9e21e584c92831ef6c25","IHOP","Food::Breakfast Spot",40.83706416763612,-73.88466348584231
+"4bfeb342ca1920a1d5b1eb81","Piper's Kilt","Nightlife Spot::Sports Bar",40.87829926197561,-73.90337705612183
+"4bfed6f3cdfbef3be05e323e","Finlay Hall","College & University::College Residence Hall",40.86028391994868,-73.88625919818878
+"4bff05df8f76b7139ae41fd5","Twin Dounts","Food::Donut Shop",40.86284698635754,-73.90114249575582
+"4bff3cf9ca1920a1b598ec81","Nicky's Pizza & Ristorante","Food::Pizza Place",40.8734967317141,-73.8792157173157
+"4bffe5ca369476b06e778e1f","Dora & Diego's 4D Adventure","Arts & Entertainment::Theme Park",40.84829396367295,-73.87970924377441
+"4c0699132e80a593315b74f9","St. Raymond Cemetery","Outdoors & Recreation::Cemetery",40.823325171594405,-73.83185863494873
+"4c0703970e0a2d7f98ccec0c","South of France","Nightlife Spot::Bar",40.83199780977573,-73.86646606130991
+"4c080fd1009a0f475b82e5bf","MTA MaBSTOA & Bee-Line Bus at Fordham Plaza: (Bx9, Bx12 & +SBS, Bx15, Bx17, Bx22, Bx41, Bx55 / BL 60, 61, 62X)","Travel & Transport::Bus Station::Bus Line",40.86134282702077,-73.89060974121094
+"4c0d7af22466a593aca87721","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4c0e55c7336220a15bffcb77","US Post Office","Professional & Other Places::Post Office",40.87656325239317,-73.84679317474365
+"4c0e61177189c928b05ad8b6","EL Nuevo Bohio","Food::Spanish Restaurant::Paella Restaurant",40.843908840640275,-73.88802256052271
+"4c0e7fab336220a1b54ecc77","United States Post Office - Williamsbridge Station","Professional & Other Places::Post Office",40.8771764667601,-73.8656448691828
+"4c0e9b28d64c0f478778285d","Richie Rich Caribbean Taste Restaurant","Food::Caribbean Restaurant",40.875631570816,-73.84972023
+"4c0fcc76336220a1305fce77","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.868403514970026,-73.82890593795487
+"4c0fd0a4ce57c928c1dc80d2","United States Postal Service - Cranford Station","Professional & Other Places::Post Office",40.90357971191406,-73.85002899169922
+"4c0fd7a6f1b6a593b1ee7a27","NYY STEAK","Food::Steakhouse",40.82933282717745,-73.92640113830566
+"4c100e26ce57c928ff4181d2","McDonald's","Food::Fast Food Restaurant",40.866963453706845,-73.89761713804408
+"4c1010f5ce57c928f94681d2","The Feeding Tree","Food::Caribbean Restaurant",40.8300950571742,-73.9226492414938
+"4c1025b93ce120a1b1a4071c","Blockbuster","Arts & Entertainment::General Entertainment",40.8649234038876,-73.8673619033506
+"4c102bf0ce640f471a8d3952","k & Q Chinese Food","Food::Chinese Restaurant",40.871377964375,-73.8668163590047
+"4c10d0746b7e2d7f5a232835","7-Eleven","Shop & Service::Food & Drink Shop",40.81881562582856,-73.92717878949716
+"4c10df21ce640f47a08a3a52","Joseph Yancey Track And Field","Outdoors & Recreation::Park",40.827904028690725,-73.92927646636963
+"4c10f6aece57c92804a682d2","Jackie's West Indian Bakery","Food::Caribbean Restaurant",40.889328,-73.843202
+"4c1116b8b93cc9b6c4c357e0","Home","Professional & Other Places::Building",40.835225,-73.870494
+"4c1116e0f1b6a5932feb7c27","M&G Diner","Food::Diner",40.855295,-73.887703
+"4c11243a6b7e2d7faec42835","Dome Groomer's","Shop & Service::Cosmetics Shop",40.8842386,-73.83201983333333
+"4c11ede5416620a1d8f3d9e4","Elder ave(The Block)","Outdoors & Recreation::Park",40.82332337914503,-73.87814040010518
+"4c121f6fb2510f473104c498","MTA BX36 Bus","Travel & Transport::Bus Station::Bus Line",40.84752500850007,-73.91991079433416
+"4c12559f7f7f2d7ffc0edd68","T-Mobile","Shop & Service::Electronics Store",40.86044761876,-73.90301998111745
+"4c1284157f7f2d7f0773dd68","Envy Nails","Shop & Service::Cosmetics Shop",40.862466033432746,-73.89397688103165
+"4c12b2217f7f2d7fe5c8dd68","St. Theresa School","College & University::College Academic Building",40.84932,-73.832952
+"4c12c7b8a9c220a175a5549d","Pioneer Supermarket","Food::American Restaurant",40.86710265693765,-73.88398017983242
+"4c13a2d982a3c9b6b1bdfbf8","US Post Office","Professional & Other Places::Post Office",40.877168,-73.90618022
+"4c13bc5eb7b9c928c409aa37","Alice Nail Salon","Shop & Service::Salon / Barbershop",40.85316002368927,-73.85326266288757
+"4c13df74a9c220a1a792569d","Chase","Shop & Service::Bank",40.8707241253199,-73.8481176292609
+"4c141127127f95213ac92425","Checkers","Food::Fast Food Restaurant",40.86175614929606,-73.89146770539735
+"4c152d141b5cef3b8340eec4","MTA Subway - 149th St/Grand Concourse (2/4/5)","Travel & Transport::Subway",40.81807000743554,-73.91209136818333
+"4c15314f1b5cef3b4441eec4","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.82176633960186,-73.93039226531982
+"4c16b4f5cd4bc9b698d74eeb","Sin City Gentlemen's Cabaret","Nightlife Spot::Strip Club",40.81220483956248,-73.93034194730454
+"4c1d0facc09ed13addc5828e","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4c1fe729920076b04978c5e9","UPS Customer Center","Professional & Other Places::Post Office",40.810881411521564,-73.92996880069906
+"4c222c5b9390c9b6e616cacd","Eugenio María de Hostos Community College, CUNY","College & University::Community College",40.81758510826196,-73.92744286634966
+"4c227c1f13c00f47309187de","Williamsbridge Bar And Grill","Nightlife Spot::Sports Bar",40.85555973333334,-73.855978
+"4c23bc4ab7b8a5935c563be8","Bronx Terminal Market","Shop & Service::Department Store",40.8224984151812,-73.9293430609348
+"4c263dc4136d20a189f3e461","Chase Bank","Shop & Service::Bank",40.8426277654886,-73.84502206010228
+"4c27e5e0fe6e2d7f4f84523c","Estrellita Poblana","Food::Mexican Restaurant",40.85405367880716,-73.8889412717577
+"4c2895ba3492a593cf83b728","NYPD - 46th Precinct","Professional & Other Places::Government Building::Police Station",40.853548629780924,-73.90057982078295
+"4c28c64ece3fc92848a96d88","Sunlight","Food::Café",40.8189189434052,-73.9283055067062
+"4c290185d26eb713b45c14d1","William Howard Taft High School","College & University::College Academic Building",40.84033203125,-73.9111328125
+"4c2957cbe19720a11c73f958","Crotona Park","Outdoors & Recreation::Park",40.83796990783286,-73.89902114868164
+"4c2a2048fe6e2d7fe9e0553c","Heritage Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",40.82736697157276,-73.92942343129263
+"4c2a235d97d00f47fa7e42ea","Bally Total Fitness","Shop & Service::Gym / Fitness Center",40.86729997753796,-73.82460387131783
+"4c2a51d12219c92841e8a248","Hughes Hall","College & University::College Residence Hall",40.862008185256045,-73.88540625572205
+"4c2a9f2757a9c9b663d6f467","T&T Gourmet Deli","Food::Deli / Bodega",40.87967373995663,-73.8378371659715
+"4c2ab2b0d1a10f471aecf664","St. Raymond R.C. Church","Professional & Other Places::Spiritual Center::Church",40.841814279556274,-73.85349553
+"4c2abd2c2219c928a7a1a348","MTA Subway - 5 Train","Travel & Transport::Train Station::Train",40.84188828740272,-73.87348920106888
+"4c2b7cb58ef52d7faf7331ba","Burger King","Food::Fast Food Restaurant",40.84303283691406,-73.83662414550781
+"4c2b840bd1a10f479c10f864","MTA MaBSTOA & Bee-Line Bus at Fordham Plaza: (Bx9, Bx12 & +SBS, Bx15, Bx17, Bx22, Bx41, Bx55 / BL 60, 61, 62X)","Travel & Transport::Bus Station::Bus Line",40.86134282702077,-73.89060974121094
+"4c2caa4957a9c9b6b5bdf767","MTA MaBSTOA & Bee-Line Bus at White Plains Rd. & Pelham Pkwy (Boston Rd): (Bx12 & +SBS, Bx22, Bx39, BxM11 & BL 60, 61, 62)","Travel & Transport::Bus Station",40.85728561997815,-73.86812210083008
+"4c2cb1d88ef52d7f944533ba","Fun City Diner","Food::Diner",40.8269469517042,-73.9210417719468
+"4c2cf9ce7d85a593cfcf51f3","Family Dollar","Shop & Service::Miscellaneous Shop",40.849054398084014,-73.88758617117435
+"4c2cff8075579521c6555d83","Bronx Martial Arts Academy","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",40.865529893265574,-73.85773713020735
+"4c2d2452987f20a1c6f548aa","Remedies","Nightlife Spot::Lounge",40.85142208593454,-73.84406868393056
+"4c2d247e4e132d7f41f39bdf","Remedies","Nightlife Spot::Lounge",40.85142208593454,-73.84406868393056
+"4c2d2cfee116e21e7a308e60","Doyle's Pub","Nightlife Spot::Bar",40.8483644958906,-73.8553653207972
+"4c2e0a74e760c9b606d84549","PS 83","Professional & Other Places::School",40.84929172718205,-73.859155607885
+"4c2e34fee116e21e5ee98f60","Bx42","Travel & Transport::Bus Station::Bus Line",40.841219464463045,-73.86405990124427
+"4c2e5b02452620a16db21b0f","Luciano's Pizza","Food::Pizza Place",40.848215,-73.856189
+"4c2e63d016adc92829cbbb9c","C-Town Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.81238009764491,-73.90288352966309
+"4c2e899d66e40f47ea76c08b","Arthur Avenue Cigars","Shop & Service::Smoke Shop",40.85415734368832,-73.8887107372284
+"4c2e8d973896e21e8487e290","24hr Deli Grocery Inc  - Habibi's","Food::Deli / Bodega",40.851956,-73.904033
+"4c2f64cfa0ced13abe68106e","Billy's Sports Bar","Nightlife Spot::Sports Bar",40.82720714615709,-73.92603062509322
+"4c2fdb8a452620a13a521e0f","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4c30aff23896e21e73dee590","BJ's Wholesale Club","Shop & Service::Miscellaneous Shop",40.822071725918654,-73.92988268984206
+"4c326b6c213c2d7f1a75355d","Bronx Park East","Outdoors & Recreation::Park",40.8537438487002,-73.87009534482597
+"4c34fdac16adc928831ac69c","NYPD Range","Professional & Other Places::Building",40.853379298673914,-73.80150666754065
+"4c389e1493db0f47a6da2192","Bronx Terminal Market","Shop & Service::Mall",40.82247305249211,-73.93030176231997
+"4c3d6ba2933b0f47326ae521","White Castle","Food::Fast Food Restaurant",40.858994,-73.886552
+"4c3df1220e0d0f473dd8147f","US Post Office","Professional & Other Places::Post Office",40.852996937997936,-73.90789446881135
+"4c3e307edb3b1b8d56106595","The Children’s Hospital at Montefiore","Professional & Other Places::Medical Center::Hospital",40.881471,-73.880922
+"4c406f2e6c1a9521a042b96a","McDonald's","Food::Fast Food Restaurant",40.88555130473423,-73.82711964393727
+"4c41e2edd691c9b69c698d0a","Gun Hill Post Office","Professional & Other Places::Post Office",40.86793899536133,-73.84129
+"4c41e320da3dc928d18fc9b9","E 161 St. Track & Field","Outdoors & Recreation::Field",40.827456103016594,-73.9246183735663
+"4c41ec87d691c9b66e7c8d0a","Laundry Giant","Professional & Other Places::Building",40.86913175928118,-73.89601520364899
+"4c41fde43735be9a0c4919a4","Monument Park","Outdoors & Recreation::Sculpture Garden",40.82993356280235,-73.92582178115845
+"4c420761cc410f479622ac61","MTA Bx13 bus stop","Travel & Transport::Bus Station",40.8287918166082,-73.9284187994269
+"4c4210ade26920a195795fe7","NYCHA - Throggs Neck Houses","Residence::Residential Building (Apartment / Condo)",40.8185673717198,-73.823983669281
+"4c421530d691c9b687ca8d0a","Riverdale Park","Outdoors & Recreation::Playground",40.89684750185962,-73.91332573313825
+"4c4236fa520fa5934fe6caac","MTA Bus Bx31 (woodlawn)","Travel & Transport::Bus Station::Bus Line",40.84084394410607,-73.84329908775571
+"4c423ed0520fa5938ef4caac","Westchester Square","Outdoors & Recreation::Park",40.84041300799931,-73.84261563788922
+"4c423fa55faf76b062a34820","MTA Bx35 & Bx 41","Travel & Transport::Bus Station::Bus Line",40.830837621151616,-73.90606296181718
+"4c42562fe26920a1e8f65fe7","MTA Subway - Eastchester/Dyre Ave (5)","Travel & Transport::Subway",40.88798438633146,-73.83100032806396
+"4c42859ad7fad13a165f09da","Eastwood Manor","Nightlife Spot::Other Nightlife",40.87634555745658,-73.84625684769058
+"4c42859f3735be9adc401aa4","Mobil Gas Station","Shop & Service::Gas Station / Garage",40.869179,-73.83168313333333
+"4c43238ee26920a15eff60e7","La Giralda Bakery","Arts & Entertainment::Arcade",40.82063293457031,-73.89125061035156
+"4c432973520fa5936c31ccac","McDonald's","Food::Fast Food Restaurant",40.86217042057053,-73.90294534137155
+"4c43379ada3dc9288092cbb9","Metro-North Train","Travel & Transport::Train Station::Train",40.81273679,-73.928729
+"4c4386b8f97fbe9ab7f7b930","Empire Wok","Food::Chinese Restaurant",40.8323959953866,-73.8511672055072
+"4c43d1ae36d6a593c9bb69a8","Citibank","Shop & Service::Bank",40.8121443349657,-73.8838595961713
+"4c449794f799e21eaa0aaea2","Verizon Wireless","Shop & Service::Electronics Store",40.86693485552381,-73.8267003507215
+"4c44b47bf799e21ea634aea2","Sunoco","Shop & Service::Gas Station / Garage",40.90746,-73.903896
+"4c44cfd8dcd61b8db7de7b56","Haagen-Dazs Shop","Food::Ice Cream Shop",40.86887470348607,-73.8263212629398
+"4c44e2f5f0bdd13a283dcacc","Famous Giovanni","Food::Pizza Place",40.8617844359575,-73.8910887424328
+"4c45c4518c1f20a16b393e99","Pitusa Bakery","Food::Bakery",40.8125986929732,-73.9051902627755
+"4c45c922f97fbe9a9e02bd30","Kiraku Hibachi & Sushi","Food::Sushi Restaurant",40.853425668133546,-73.85359075220548
+"4c45df1536d6a593087b6ca8","Classic Hair & Nails","Shop & Service::Nail Salon",40.8458239835546,-73.8315135536343
+"4c4633afdd35be9a2131ddd8","Mill Pond Park Tennis Courts","Outdoors & Recreation::Park",40.823571576266204,-73.93152453026697
+"4c46ccd81ddec928c25c9b32","MTA Bus Stop - Bx30 Bx38 Qbx 1 - Debs Place","Travel & Transport::Bus Station::Bus Line",40.8780320428413,-73.8294171252358
+"4c4740ff76d72d7f6f923c4d","New York Yankees Muesum","Arts & Entertainment::Museum",40.82951354980469,-73.92499542236328
+"4c4762281ddec928042a9d32","MTA Bx23, Bx29, Q50 Pelham Bay","Travel & Transport::Bus Station",40.85275748350158,-73.82689118385315
+"4c47899e89a6c9b6c9a89a88","Pine Bar and Grill","Food::Restaurant",40.84521925079044,-73.84501631688612
+"4c4823eb19fde21ebf6c0a76","MTA Subway - Kingsbridge Rd (B/D)","Travel & Transport::Subway",40.8670224993816,-73.8939356803894
+"4c483d70c047be9a430c3379","Starbucks","Food::Coffee Shop",40.8688395287611,-73.9055003010404
+"4c487316417b20a1eef3e0a9","Amtrak Train #86","Travel & Transport::Train Station::Train",40.8422327285555,-73.8617080433229
+"4c489fef96abd13abf017501","Chase Bank","Shop & Service::Bank",40.87900397109524,-73.90490893133068
+"4c48ae4219fde21eba7e0c76","Michaels Bronx Terminal Market","Shop & Service::Arts & Crafts Store",40.823348,-73.92973244190216
+"4c4b6bc7712ac928ccdedc6c","Macombs Dam Park","Outdoors & Recreation::Park",40.827614457760916,-73.92793083350156
+"4c4c4163712ac928c9bf106e","McDonald's","Food::Fast Food Restaurant",40.84956356803861,-73.84473489908981
+"4c4e52ef9932e21e773b90cd","Bronx","Outdoors & Recreation::Scenic Lookout",40.879883880133804,-73.8716745216062
+"4c5039347537e21ee4918f89","Union Community Health Center","Professional & Other Places::Medical Center::Doctor's Office",40.8607423760464,-73.8959419727325
+"4c50c50fd2a7c9b6507c1410","MTA Subway - 4 Train","Travel & Transport::Train Station::Train",40.848410019020484,-73.91185390955798
+"4c54bad4728920a1e46e3683","The Home Depot","Shop & Service::Hardware Store",40.862024413422176,-73.83265256881714
+"4c54e32d479fc9283143de93","MTA Subway - 4 Train","Travel & Transport::Train Station::Train",40.848410019020484,-73.91185390955798
+"4c588763ec2520a191df4c12","Gunhill Wholesale","Shop & Service::Food & Drink Shop",40.867853360633006,-73.84063419422282
+"4c5e0d08857ca593bed5cecb","7one8 Lounge","Nightlife Spot::Nightclub",40.835914,-73.83282
+"4c5e144585a1e21e66795b11","49 PCT Work","Professional & Other Places::Government Building::Police Station",40.8559154,-73.8442581
+"4c5eb8846147be9a837e9509","St. Anthony of Padua R.C. Church","Professional & Other Places::Spiritual Center::Church",40.825599,-73.899884
+"4c5ec4e67735c9b6119c9272","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.8627775781888,-73.9029510828915
+"4c5ec4e77735c9b6169c9272","Mr. Bagel","Food::Bagel Shop",40.880431910173,-73.903071654771
+"4c5ecf487f661b8d1dfb4e1c","TJ Lizzies Deli","Food::Deli / Bodega",40.816598342641306,-73.81209920320062
+"4c5ee4b885a1e21e5b525d11","Gustavo Rivera For NY State Senate Campaign HQ","Professional & Other Places::Office",40.878554,-73.885582
+"4c5ee8ae7f661b8d94464f1c","APEX - Lehman College","Shop & Service::Gym / Fitness Center::Gym",40.874892097359634,-73.89324903488159
+"4c5ef12e7f661b8d62624f1c","Castle Hill Houses","Professional & Other Places::Building",40.8201002774893,-73.8485943081329
+"4c5f19e690b2c9b602cf3922","Harlem River Parking Lot","Professional & Other Places::Parking",40.82686513518181,-73.93223063219082
+"4c5f26ac54ac0f4797bdb221","Twin Island Reserve","Outdoors & Recreation::Park",40.87146584810583,-73.78434717130355
+"4c5f3e6513791b8dc0044daf","Belmont Apartments","College & University::Fraternity House",40.85715665571188,-73.8843706407016
+"4c5f67b012e5c928892c1d4c","BP","Shop & Service::Gas Station / Garage",40.835491022178694,-73.87016999710539
+"4c5fcb8513791b8dbe354eaf","PRG Packing","Professional & Other Places::Building",40.8333173,-73.88672251
+"4c60154223e303bbd3db7407","Walgreens","Shop & Service::Drugstore / Pharmacy",40.829231258027754,-73.87502807667946
+"4c6015a623e303bb4edc7407","Walgreens","Shop & Service::Drugstore / Pharmacy",40.83462366521659,-73.860821013963
+"4c6015cc23e303bb7cdc7407","Walgreens","Shop & Service::Drugstore / Pharmacy",40.863034,-73.8432365655899
+"4c60459ac6a103bb49ff675b","RadioShack","Shop & Service::Electronics Store",40.8250719308853,-73.8570713996887
+"4c60459fc6a103bb52ff675b","RadioShack","Shop & Service::Electronics Store",40.86199,-73.89747399978357
+"4c6045a1c6a103bb55ff675b","Radio Shack","Shop & Service::Electronics Store",40.84601440182501,-73.89132990076797
+"4c60695d12e5c9284c231f4c","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.823649646199925,-73.8568527300413
+"4c610d8713791b8d9c0a51af","MTA Bus Stop - BX11","Travel & Transport::Bus Station",40.83845901489258,-73.91301727294922
+"4c614587cd522d7ff007d03f","Shell Gas Station","Shop & Service::Gas Station / Garage",40.84501,-73.9022558927536
+"4c614e8512e5c928d935214c","MTA Subway - 2 Train","Travel & Transport::Subway",40.8297671433432,-73.89216005802155
+"4c6159523986e21e2953964f","Southern Blvd Post Office 10459","Professional & Other Places::Post Office",40.8272838987853,-73.8919270534603
+"4c617d6c13791b8dc90a52af","Burger King","Food::Fast Food Restaurant",40.81504345695838,-73.91429901123047
+"4c62082a58810f47f574061e","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.86614982408227,-73.86102775304363
+"4c62093dedd320a1c430ac29","Popeye's","Food::Fast Food Restaurant",40.86668372154236,-73.86123183
+"4c630317de1b2d7ff1b2e370","New York Public Library - Wakefield Library","Professional & Other Places::Library",40.89030142340944,-73.85952888978407
+"4c631c67de1b2d7f5bf7e370","Consolidated Yachts","Outdoors & Recreation::Harbor / Marina",40.84234,-73.781754
+"4c632f1cde1b2d7fed31e470","Mario's Pizza","Food::Pizza Place",40.8878089012133,-73.8308817556349
+"4c63360ae1621b8d5a792553","Bravo Supermarket","Shop & Service::Miscellaneous Shop",40.86030206901742,-73.90658543108422
+"4c6339e1edd320a1e4fbae29","MTA Subway - 5 Train","Travel & Transport::Train Station::Train",40.84188828740272,-73.87348920106888
+"4c63661269a1c9b664423ba4","Hess Express","Shop & Service::Gas Station / Garage",40.89978589106306,-73.85727770204586
+"4c63f18986b6be9a7bb58f34","BxM6 Stop","Travel & Transport::Bus Station::Bus Line",40.83620648993306,-73.86953832307545
+"4c646842d6a320a19904d02a","Capital One Bank","Shop & Service::Bank",40.84566116333008,-73.91416931152344
+"4c6530455e61d13a9829bb85","Work","Professional & Other Places::Office",40.829989,-73.886598
+"4c65308cdddfa5938b6993ff","BP","Shop & Service::Gas Station / Garage",40.848443918344664,-73.83100237177248
+"4c65aab97abde21e70606168","Fine Fare","Shop & Service::Food & Drink Shop::Grocery Store",40.82029752430468,-73.84759500411242
+"4c65c4037abde21e07b26168","Amtrak Regional To Boston","Travel & Transport::General Travel",40.814781931017095,-73.89364959908048
+"4c65d356e1da1b8dfe6999c3","I.S. 192","College & University::General College & University",40.828089731674126,-73.81854980346037
+"4c65e72019f3c9b6bd9b9eff","Bronx Academy of Arts & Dance","College & University::College Theater",40.81730092,-73.89002148
+"4c6652099cb82d7fd06490d2","Bartow Mall","Shop & Service::Mall",40.87021912929973,-73.82866144180298
+"4c69d1de2c29d13a0d520c41","FDNY EMS Station 14","Professional & Other Places::Medical Center",40.81708048927041,-73.925651460886
+"4c6aebf4599fbe9a3282913f","New Capital Restaurant","Food::Diner",40.867283083333334,-73.897654
+"4c6db09010faa1437ca6ee68","Metro North - Wakefield Station","Travel & Transport::Train Station",40.905371872858744,-73.8546895980835
+"4c6f10eed274b60cbf88d50d","MTA MaBSTOA Bus at Westchester Ave (White Plains Rd / Grant Circle / Parkchester): (Bx4, Bx4A, Bx36, Bx39, Q44, BxM6)","Travel & Transport::Bus Station",40.832969629858944,-73.86192083358765
+"4c6f1cbed97fa1436922f2ca","Western Beef","Shop & Service::Food & Drink Shop::Grocery Store",40.82181620346565,-73.86722165
+"4c76c1a193faa09368aceefb","Bank of America","Shop & Service::Bank",40.8293508055753,-73.8745801736692
+"4c781eeedf08a1cdf252d65d","Carman Hall - Lehman College","College & University::College Academic Building",40.87153343490262,-73.89692902565002
+"4c796c1c3badb1f78d0c4f54","Popeye's","Food::Fried Chicken Joint",40.8687067349053,-73.9025721422136
+"4c7c0b4d794e224b3f1b6d28","MTA Bus - Bx12, Bx12 +Select","Travel & Transport::Bus Station",40.85741545445239,-73.8564920425415
+"4c7fef07d8086dcb993c5f52","Office of the District Attorney, Bronx County","Professional & Other Places::Government Building",40.8265380859375,-73.9212646484375
+"4c8045d9d4e23704336f5388","Burger King","Food::Fast Food Restaurant",40.866503235282565,-73.8257646560669
+"4c80fa6e74d7b60c11f971d8","BP","Shop & Service::Gas Station / Garage",40.86303914007807,-73.86615596118988
+"4c810da8d6ebbfb77a4241a4","Bronxnet","College & University::College Administrative Building",40.87360024838809,-73.89359792293281
+"4c8144eed34ca143d5cb2080","Duane Library","College & University::College Library",40.861245456962266,-73.88740181922913
+"4c814838d92ea093da7b3f72","African Movies Mall","Shop & Service::Video Store",40.8303286973201,-73.91944577117343
+"4c81651cd8086dcbf59a6c52","Starbucks","Food::Coffee Shop",40.823487547820015,-73.93026351928711
+"4c81861b47cc224b404b7d9f","Samba Grill Buffet","Food::Brazilian Restaurant",40.87856,-73.871458
+"4c81ce8e47cc224b0857809f","NYPD - 44th Precinct","Professional & Other Places::Government Building::Police Station",40.83758028933198,-73.91987800598145
+"4c823993d8086dcbc8207452","Terranova Bakery","Food::Bakery",40.854320236205346,-73.88528936908575
+"4c826ffd2f1c236ab42b3943","Harding Park","Outdoors & Recreation::Park",40.80998916876362,-73.85669192958397
+"4c8293f5d92ea093ed084c72","Conway","Shop & Service::Clothing Store::Women's Store",40.862436,-73.8959765166667
+"4c82a3a947cc224b5901889f","The Childrens Place","Shop & Service::Clothing Store::Kids Store",40.83565456269932,-73.86101626754484
+"4c82aba0d34ca14399932e80","Bartow Liquors","Shop & Service::Food & Drink Shop::Liquor Store",40.87018119652577,-73.82887147584344
+"4c82adb347cc224b9a73889f","Petland Discounts","Shop & Service::Pet Store",40.83348032,-73.85918811
+"4c82b64dd8086dcb02937952","Neptune Beach Club","Arts & Entertainment::Music Venue",40.87028997392778,-73.850227
+"4c82d17bdc018cfa8168d36c","Grand Slam Family Club","Professional & Other Places::Event Space",40.8469291373204,-73.897607
+"4c831b9adc018cfa9a53d66c","G Bar","Nightlife Spot::Karaoke Bar",40.81938078095154,-73.92709267740237
+"4c83a5f3d4e237043e697288","Mazzei Playground","Outdoors & Recreation::Playground",40.86352150946564,-73.85684698717009
+"4c83d168d92ea09375445772","douchebag","Shop & Service::Design Studio",40.878355,-73.902297
+"4c84164dd92ea0936d325a72","Mother's Bake Shop","Food::Bakery",40.885544,-73.90954104
+"4c841754d8086dcbe33b8652","Pugsley Creek Park","Outdoors & Recreation::Park",40.81465370373719,-73.85348796844482
+"4c8419c1d8086dcb75558652","Kennedy Fried Chicken","Food::Fried Chicken Joint",40.831775,-73.866244
+"4c8509cfd4e2370470c67e88","Pelham Bay Park Outdoor Track","Shop & Service::Gym / Fitness Center::Track",40.84884561932444,-73.82208806672762
+"4c853cdf51ada1cd9ddc3510","Country Delite: Milk Plant Store","Shop & Service::Food & Drink Shop::Grocery Store",40.876040465291055,-73.90618927319692
+"4c85786374d7b60cb52e9cd8","Brisas Del Caliber Restaurant","Food::Spanish Restaurant",40.830291748046875,-73.84742736816406
+"4c86291e2f1c236a5d645a43","P 811x The Academy For Career And Living Skills","College & University::College Academic Building",40.83072506845237,-73.88754023539683
+"4c8629eb2f1c236a416c5a43","C.S. 211","College & University::College Academic Building",40.843738426877316,-73.88961881852828
+"4c866afe51ada1cddbf03f10","P.S. 721X","Professional & Other Places::School::High School",40.8422033074165,-73.8388882099827
+"4c867cd847cc224bfcffa99f","BCC Cuny Colston Hall","College & University::College Classroom",40.85799571828759,-73.91414672502982
+"4c86cc9bb231b60c127514ec","Subway Sandwiches","Food::Sandwich Place",40.865628,-73.86738
+"4c86dd8f51ada1cddaa54310","Jim Beam Suite Lounge","Nightlife Spot::Sports Bar",40.82946094118245,-73.92737397677061
+"4c87cdcf3d15a1cdb37e1b28","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.82708616679473,-73.86262423084388
+"4c87db8b72b1236a03c87136","P.S. 76 The Bennington School","College & University::College Academic Building",40.868910320222156,-73.86129766207166
+"4c8801830f3c236a2d4bef5c","Gyro King","Food::Restaurant",40.86229,-73.9003193378448
+"4c88536ea0ffb60ceb9821c5","MTA Bx 3 Bus","Travel & Transport::Bus Station::Bus Line",40.8603749990092,-73.9066313623814
+"4c88dd3e97828cfa6d2d9faa","Salanter Akiba Riverdale Academy","Professional & Other Places::School",40.90361492212951,-73.91132778036307
+"4c8967b91eafb1f74f477135","Randal Og's","Nightlife Spot::Bar",40.8784977767276,-73.9035252340309
+"4c8eb59fd2aea093dab1d069","NYY Steak","Food::American Restaurant",40.82822036743164,-73.9312744140625
+"4c8f5a9aa8de224b80952e01","Willy Wonkas Barbershop","Shop & Service::Salon / Barbershop",40.81281893,-73.906096
+"4c916e5a3d4e199c53402a53","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4c9834767b9d3704e690dc85","MTA Subway - Parkchester (6)","Travel & Transport::Subway",40.83304508893079,-73.86081591534423
+"4c99455eb8e9224b81f9433d","Chase Bank","Shop & Service::Bank",40.8426277654886,-73.84502206010228
+"4c9d5f2654c8a1cd2e71834b","Guang Hui Chinese Restaurant","Food::Chinese Restaurant",40.8769352245479,-73.8278490971404
+"4c9ff17103133704920477d5","Delta SKY360° Suite","Arts & Entertainment::Stadium::Baseball Stadium",40.82947202703685,-73.92685156333378
+"4ca227cc750ca093f7f60d67","The Office","Professional & Other Places::Office",40.890078,-73.819423
+"4ca8a3ead971b1f7175e16e1","St. Lucy R.C. Church","Professional & Other Places::Spiritual Center::Church",40.863452476471885,-73.86224269866943
+"4ca8dd85965c9c74c9dbc9fa","Sam's Soul Food Restaurant and Bar","Food::Southern / Soul Food Restaurant",40.819715760440396,-73.92662767143057
+"4ca8e35544a8224b18381c40","C Town","Food::American Restaurant",40.8707389831543,-73.892272
+"4ca9e124b0b8236a0177c1e6","RadioShack","Shop & Service::Electronics Store",40.83727183972806,-73.88385057449341
+"4cab43fe2776b60c347e4a0d","Skechers Outlet Store","Shop & Service::Clothing Store::Shoe Store",40.8201953837375,-73.9297792797992
+"4cab5e4536fa6dcb6073d878","Lydig Pick & Pack","Shop & Service::Food & Drink Shop::Grocery Store",40.85458852723362,-73.8676432887891
+"4cacd201d971b1f7c9de33e1","MTA Bus - Bx12, Bx12 +Select","Travel & Transport::Bus Station",40.85741545445239,-73.8564920425415
+"4cad060397c8a1cdb3eea5a5","Lovinger Theater - Lehman College","College & University::College Theater",40.87354540775492,-73.89266967773438
+"4cadad5f2303a1438cf4e7f0","MTA Subway - Pelham Parkway (2/5)","Travel & Transport::Subway",40.85723693198472,-73.86762857437134
+"4cae27241168a0937c001823","Webster Locksmiths","Shop & Service::Hardware Store",40.860454,-73.892691
+"4caf2ef2eb65b1f76d7e61cd","La estrella","Food::Caribbean Restaurant",40.8542329072952,-73.901589
+"4caf9c2a1168a0934fb32323","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.868403514970026,-73.82890593795487
+"4cafccb6eb65b1f70ff766cd","Good To Go","Food::Italian Restaurant",40.8447708,-73.8458097
+"4cafcd8def1b370482ad3500","Gameday Bar & Grill","Nightlife Spot::Sports Bar",40.837242739263075,-73.83428195378643
+"4cafdafb1463a143175198a9","Co-op City - Bldg. 34 (Section 5)","Residence::Residential Building (Apartment / Condo)",40.863676,-73.821446
+"4cb0a210c5e6a1cd0bdcd6f6","U.S. Post Office","Professional & Other Places::Post Office",40.8581295395121,-73.8909101486206
+"4cb0d382ef1b370419643e00","David Greco's Arthur Avenue Trattoria","Food::Italian Restaurant",40.85401,-73.888805
+"4cb0d7b56c269521a202b8d9","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4cb0f38d1463a1433b99a1a9","Da Boogie Down Bronx","Travel & Transport::General Travel",40.8188374396605,-73.8087962768245
+"4cb331933f0676b0c20cfe0c","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4cb339f2c5e6a1cddb30ebf6","Gun Hill Road","Outdoors & Recreation::Other Great Outdoors",40.869922090887236,-73.84638894078867
+"4cb33c47c5e6a1cd8244ebf6","Hutchinson Metro Center Tower One","Professional & Other Places::Office",40.846615,-73.842802
+"4cb3b652b4b0a35d2bd762ce","NYCHA - Morris Houses","Residence::Housing Development",40.835859446894055,-73.90460014343262
+"4cb5bbfe64998cfa04f60fa2","BronxWorks Community Center","Professional & Other Places::Building",40.832926,-73.918755
+"4cb64a333ac93704a8b6d20a","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4cb9059dc7228cfa46200dce","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4cbe2dd41c6c6dcb598d665e","Sammy Sosa Deli Grocery","Food::Deli / Bodega",40.85749894016041,-73.8912782240069
+"4cbe4d14ca4aa1cd91aa13b4","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.85550037015262,-73.86795043945312
+"4cc19fab22ce4688c4a93e47","Laundromat","Professional & Other Places::Building",40.836036801338196,-73.90286207199097
+"4cd713dfd2f62d43623f7d6e","MTA MaBSTOA Bus at The Hub - E. 149th St & 3rd Ave: (Bx2, Bx4, Bx4A, Bx15, Bx21, Bx19, Bx41, Bx55)","Travel & Transport::Bus Station",40.8159366327874,-73.91719579696654
+"4cd969f33ec4b1f72b7fc33f","Pelham Manor, NY","Outdoors & Recreation::Other Great Outdoors",40.88868200097464,-73.81736653898595
+"4cdcac7299026dcb50071581","MTA Subway - Prospect Ave (2/5)","Travel & Transport::Subway",40.819688,-73.901553
+"4cdee1d6df986ea8d4a4de16","Valencia Bakery","Food::Dessert Shop",40.817665100097656,-73.88350677490234
+"4ce6fbc4d99f721e7332a773","Kennedy Fried Chicken","Food::American Restaurant",40.8729661528345,-73.8786170061553
+"4ce73d1b948f224bc809e95d","New York Post","Arts & Entertainment::General Entertainment",40.8012979054393,-73.9131592378568
+"4ce82a1a678aa09370ece6ea","Allerton Skatepark","Outdoors & Recreation::Athletic & Sport::Skate Park",40.866883101874194,-73.87138165705416
+"4ce9871b8ef78cfa3573a19b","Havana Cafe","Food::Cuban Restaurant",40.837790707411756,-73.83439108079882
+"4ce987b4fe90a35de6fd480e","Mta Bx6 Bus","Travel & Transport::Bus Station::Bus Line",40.81621433089024,-73.888568045839
+"4ce987d00f196dcbe27c4cae","NYBG Forest","Outdoors & Recreation::Garden",40.86090157225956,-73.87355803219909
+"4ce99a28fe90a35d8d65490e","Holiday Train Show","Outdoors & Recreation::Other Great Outdoors",40.864072981668976,-73.8816546247
+"4cea0bd8b99754817d810545","Kingsbridge","Professional & Other Places::Building",40.86814667735665,-73.89326489854221
+"4cea6779baa6a1cd28c8386c","Price Choice Supermarkets","Shop & Service::Food & Drink Shop::Grocery Store",40.84390160916206,-73.88726462050519
+"4ceaf8c5f3bda143e9fcc8e4","UA Bronx Studio School for Writers and Artist","Professional & Other Places::School::High School",40.820701599121094,-73.89274597167969
+"4cebb3528ef78cfa3112ae9b","Thessalonica Christian Church","Professional & Other Places::Spiritual Center::Church",40.80910905403193,-73.91641448183876
+"4cec630a77822c0fb81ec736","MTA MaBSTOA & Bee-Line Bus at Fordham Plaza: (Bx9, Bx12 & +SBS, Bx15, Bx17, Bx22, Bx41, Bx55 / BL 60, 61, 62X)","Travel & Transport::Bus Station::Bus Line",40.86134282702077,-73.89060974121094
+"4ced2cf7b80da0939a662000","Morris Hair Salon & Spa","Shop & Service::Cosmetics Shop",40.8276231428571,-73.9173996448517
+"4cedb49128abb60c35afb909","BP","Shop & Service::Gas Station / Garage",40.88120627182016,-73.83844022469484
+"4cefc8d30acea35d4860f0ae","Black Falcons M.C.","::Nightlife Spot",40.810669996997134,-73.90167646132129
+"4ceff3b428abb60c2485c509","Nine West","Shop & Service::Clothing Store::Shoe Store",40.86784542997182,-73.8255515976341
+"4cf0218ef98ba090fb95c673","NY Public Library - Castle Hill","Professional & Other Places::Library",40.82653,-73.849988
+"4cf0bbe07bf3b60c13935b7f","Crazy Horse Cabaret","Nightlife Spot::Strip Club",40.886789778391474,-73.82719431249892
+"4cf0c3997bf3b60c0bba5b7f","Beso Lounge","Nightlife Spot::Lounge",40.872438832136964,-73.87853087261762
+"4cf2eb9c1c158cfa95b9dab5","Fresco's Pizza & Pasta Restaurant","Food::Pizza Place",40.81403350830078,-73.91309356689453
+"4cf2f9bfcc61a35d23e91d9e","South Riverdale","Professional & Other Places::Building",40.884810975965,-73.9119191305907
+"4cf3cef1c9af6dcbcf46a87f","ttmg Fan Spot - Broadway & 231st St (Kingsbridge)","Travel & Transport::Bus Station",40.87893295288086,-73.90489959716797
+"4cf5dd3371538cfac607b22e","Aggie's Roll","Food::Seafood Restaurant",40.8435541880308,-73.7847375869751
+"4cf67686d3a8a1cd206bd143","Pioneer Supermarket","Shop & Service::Mall",40.8579781291597,-73.903852499424
+"4cf6ae55d3a8a1cd71a9d243","Astral Fitness & Wellness Center","Shop & Service::Gym / Fitness Center::Gym",40.87638434750517,-73.90634429159654
+"4cf952e07945224b692d79e7","MTA - Prospect Ave & Westchester Ave (Bx4/Bx17)","Travel & Transport::Train Station::Train",40.819419860839844,-73.90174865722656
+"4cf96194084f548180af7409","365 Store","Shop & Service::Sporting Goods Shop",40.828628112754295,-73.93115138593586
+"4cfa96aafeec6dcb9cfd4036","Clean & Bright","Shop & Service::Laundry Service",40.825345516204834,-73.900015
+"4cfaea16c671721ec379c018","El San Juan Cafe","Food::Spanish Restaurant",40.82536472227399,-73.82060039555252
+"4cfbdf6cfeec6dcb791c4936","Gotham Stadium Tennis Center","Shop & Service::Gym / Fitness Center",40.8232153316721,-73.93136379125849
+"4cfd09dcd8468cfa28d4fd6b","MS 302-Luisa Dessus Cruz","College & University::College Classroom",40.8158128005006,-73.9013951248077
+"4cfd0e127f2db1f76e0536d4","Popeye's","Food::Fried Chicken Joint",40.8122848779353,-73.9044553552893
+"4d0628632f96f04dbd6e2654","Yankees Main Team store 119","Shop & Service::Clothing Store",40.829569,-73.9263676
+"4d0ff01fd467236ae618c14a","Congress Pharmacy","Shop & Service::Drugstore / Pharmacy",40.81203756576947,-73.90461037506772
+"4d5c63051e43236af1521983","Clason Point","Outdoors & Recreation::Scenic Lookout",40.812073580329596,-73.85686421578322
+"4d6857aa342b8cfaf4e2b82c","WWE Monday Night Raw","Arts & Entertainment::General Entertainment",40.8495313301139,-73.8327656564311
+"4d6af9426107f04dedeb297a","Rite Aid","Shop & Service::Drugstore / Pharmacy",40.8962410024387,-73.84475787198619
+"4d7177152868f04d41128b07","MTA Subway - 5 Train","Travel & Transport::Train Station::Train",40.84188828740272,-73.87348920106888
+"4d7fd1b895c1a1437ebdecf2","Abarrotes Mexicano Wholesale","Shop & Service::Food & Drink Shop",40.81162643432617,-73.8927001953125
+"4d83ac41f9f3a1cdfbb8a564","Singa's Famous Pizza","Food::Pizza Place",40.8261829350921,-73.92528533935547
+"4d8638678de9721ed14f5651","Stone Mill At NYBG","Outdoors & Recreation::Garden",40.85967925534933,-73.87635455266908
+"4d8696fff1e56ea84d14a18a","E. 170 St.","Outdoors & Recreation::Scenic Lookout",40.83881715685998,-73.91483566660207
+"4d876f659324236a7701f60e","Chase Bank","Shop & Service::Bank",40.8231530022327,-73.8487953169502
+"4d877be861676dcb147eb5e4","Leo","College & University::College Academic Building::College Engineering Building",40.89019012451172,-73.89765930175781
+"4d87f0f626a36ea8a058c3ad","Foodtown","Shop & Service::Food & Drink Shop::Grocery Store",40.87348387357767,-73.87893857102817
+"4d8815c6401a224b07467218","El Valle Restaurant","Food::Latin American Restaurant",40.8159291009526,-73.8955845738823
+"4d895394bc848cfa2100c12b","Subway","Food::Sandwich Place",40.8165230196007,-73.8965606666569
+"4d8a8b0c401a224b39bfa418","MTA Bus Stop - Bx5 (Story Ave & Noble Ave)","Travel & Transport::Bus Station::Bus Line",40.8229507312688,-73.868263483842
+"4d8bab975488a35d7dcfd796","Scanlan High School","Professional & Other Places::School::High School",40.825378225954815,-73.83814731068782
+"4d8cdfa6788c548114f813fd","Nick's Blue Diner","Food::Burger Joint",40.8121557123949,-73.9287115783932
+"4d8e52c5d4ec8cfa37c37089","Everett Children's Adventure Gardens @ NYBG","Outdoors & Recreation::Garden",40.86201688295892,-73.8794094329255
+"4d8e80a05091a1cd43f49101","King Steak","Food::American Restaurant",40.814285,-73.919223
+"4d8e883cfa9437048cb905c6","Mango Caribbean Restaurant","Food::Restaurant",40.889509218135665,-73.85936737060547
+"4d90c9f3fa9437042f1a3ac6","Best Laundromat","Shop & Service::Laundry Service",40.883519153027905,-73.89844967940307
+"4d90eafd1d06b1f767167f3b","New York Deli Grocery & Tobacco Shop","Food::Deli / Bodega",40.8880297845524,-73.8612574628782
+"4d9122ab270e6ea874c64dff","AutoZone","Shop & Service::Automotive Shop",40.8439975976944,-73.9154255390167
+"4d9248a6d176a1cdf1bb20f0","Cross Bronx Pet Shop","Shop & Service::Pet Store",40.83131170917109,-73.85472211331793
+"4d92975efa1ef04dd6d35ac7","E 169 Street","Professional & Other Places::Building",40.83809390710603,-73.91784975729915
+"4d962945af3d236a958603c7","Concourse Multi Plaza Food Court","Shop & Service::Food & Drink Shop::Food Court",40.825490644359135,-73.92060545649007
+"4d975c77647d8cfa35b4d23d","Checkers","Food::Burger Joint",40.82590040083819,-73.91903241631908
+"4d97fd58c19fb60c0c3aa565","Luxury Box","Nightlife Spot::Strip Club",40.838912,-73.8777828666667
+"4d99165461a3a1cdbea6dd42","Bx16/Bx10/Bx30 Bus Stop","Travel & Transport::Bus Station",40.8750817,-73.8796877861023
+"4d99de5a3bca41bd59e45cec","Burger King","Food::Fast Food Restaurant",40.8807022602129,-73.883405971257
+"4d99de6a3bca41bd48ec5cec","Burger King","Food::Fast Food Restaurant",40.85351890119019,-73.90764758956192
+"4d9a695ee5fd6ea8e3096df5","Lucky House Chinese Restaurant","Food::Chinese Restaurant",40.833911269469596,-73.91648769378662
+"4d9be90a2e6d8cfad17d3117","Howard Johnson Hotel","Travel & Transport::Hotel::Hostel",40.8396555222702,-73.8808071617677
+"4d9cc174baae548104a4e264","Legendary Bar and Restaurant","Food::American Restaurant",40.83089644916506,-73.82641316307478
+"4d9d0b02a1ec8cfab897fa49","SUNY Maritime Waterfront","Outdoors & Recreation::Harbor / Marina",40.80606454768022,-73.79599189192687
+"4d9e03b3a695721ef3f31e0d","Millenium Pizza","Food::Pizza Place",40.86365048716917,-73.90033867386931
+"4d9e183ca1ec8cfa7503144a","Yankee Stadium Gate 8","Arts & Entertainment::Stadium::Baseball Stadium",40.830138618083346,-73.92587562237857
+"4da007b5e8a6721eb7182fa5","Luna Night Club","Nightlife Spot::Nightclub",40.84620160663745,-73.90135493384403
+"4da051c85970b1f7c4c6561e","Homeless Poland Spring Man","Travel & Transport::General Travel",40.844832,-73.92718007
+"4da0633558c2224b4ff15079","Yankee Team Store","Shop & Service::Gift Shop",40.82865276773921,-73.92630618516934
+"4da0f7f27aee5481c478b7fe","Immaculate Conception Church","Professional & Other Places::Spiritual Center::Church",40.87669992294504,-73.8643010928424
+"4da129cc7ccc816ebd954d7b","Th3 H00d / Gh3tt0","Professional & Other Places::Building",40.82388342654195,-73.87779012263051
+"4da62b78a86ecc5168c9f735","GEM Stores","Shop & Service::Miscellaneous Shop",40.83277312385106,-73.8592245215197
+"4da8616a6a2364c7a352bfdc","Metro North Harlem Line","Travel & Transport::Train Station::Train",40.87761427172652,-73.87156541525555
+"4da86e7cfa8c4175d0b9601d","Children's Zoo","Arts & Entertainment::Zoo",40.851827,-73.88015449047089
+"4da8f0044df01c19b165cabf","Cardinal Hayes Auditorium","College & University::College Auditorium",40.912664295139,-73.9064146578312
+"4da9e7286e81162ae7c9c7cd","Punch Bowl","Nightlife Spot::Bar",40.8971568741968,-73.8981683382376
+"4daa641ffa8cc76497349f70","D'noise Lounge","Nightlife Spot::Lounge",40.8455849689558,-73.9023711885251
+"4dab094ccda1652a2b99c1c9","Ana's Bakery & Cafe","Food::Bakery",40.85612342,-73.8558448
+"4dad93acb3dc7d7355311a52","Loehmann's Inc.","Professional & Other Places::Office",40.8372580324284,-73.8421504311636
+"4dadf1a86a23e6c9347fe04b","NYCHA - Sonia Sotomayor Community Center","Professional & Other Places::Event Space",40.82539275909567,-73.86778111008127
+"4daee3186e81e2dffdd13ae6","Asia Gate","Arts & Entertainment::Zoo",40.84410609715325,-73.87730598449707
+"4daef86193a0096fbaaae627","The oval Park","Outdoors & Recreation::Park",40.87462223170897,-73.87792793679361
+"4daf76be5da3f2f3d2a70384","Mta Subway  Freeman Station 2-5","Travel & Transport::Subway",40.829593658447266,-73.89195251464844
+"4daf88ee81548efb15ae0dd0","BP","Shop & Service::Gas Station / Garage",40.819397338787034,-73.92941194981496
+"4db03c875da32cf2df4509f4","Big Daddy's Caribbean Taste Restaurant","Food::Caribbean Restaurant",40.89974703285246,-73.85688144439484
+"4db0811d1e729fcc563fa854","Santa Maria School","Professional & Other Places::School",40.8395343673414,-73.8508972825836
+"4db1e250f7b1bd003ae7a479","Macy's","::Shop & Service",40.83620999968281,-73.86094161178646
+"4db32ff96e8179a91363cd29","Moodies Records","Shop & Service::Record Shop",40.8885130566896,-73.8601433676747
+"4db4535290a0843f2969a135","Pelham Bay Parkway Greenway","Outdoors & Recreation::Park",40.85671832444538,-73.86720685405905
+"4db45c96fa8c350240e35919","Metate","Food::Mexican Restaurant",40.88608001138866,-73.91003598963945
+"4db78ea04df0ded98bab619b","Mo Gridder's BBQ","Food::BBQ Joint",40.81219950588928,-73.88369307575523
+"4dbea69dfa8cee7273844c63","MTA Subway - Whitlock Ave (6)","Travel & Transport::Train Station",40.827302564836515,-73.88612770497271
+"4dd08c7988778512442baa4a","Babe Ruth Plaza","Arts & Entertainment::Stadium::Baseball Stadium",40.8285406752467,-73.92668507963549
+"4de4fa9d814df7ebdc23d510","ttmg Transit Fan Spot - Woodlawn","Travel & Transport::Bus Station",40.88597106933594,-73.87825012207031
+"4df3782122718759f81fce04","Payhalf Plus","Shop & Service::Clothing Store::Women's Store",40.8676549825902,-73.8312780655251
+"4e0cb3cb1f6e9300e4e8fd69","Bleacher Creatures","Arts & Entertainment::Stadium::Baseball Stadium",40.82948226325443,-73.9256574702002
+"4e1c7f45c65bc4a776bb570a","Fordham Shoppig District","Shop & Service::Miscellaneous Shop",40.86214771178822,-73.89626783933682
+"4e24621fd164740632234763","East Fordham Road","Outdoors & Recreation::Plaza",40.8617461366605,-73.89177202360972
+"4e2b17d6b61cd01083711812","Parm","Food::Sandwich Place",40.828827,-73.927206
+"4e2eb21eae60231c032504c7","MTA Subway - Mount Eden Ave (4)","Travel & Transport::Subway",40.844456070640504,-73.91468639613507
+"4e36984f7d8b0c62b2dfd656","BxM6 Express Bus Stop","Travel & Transport::Bus Station::Bus Line",40.838887499210045,-73.86056258980652
+"4e371a8a62e1a8e9cc4261a1","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.83451924013396,-73.85034594950524
+"4e39904452b11b0b4aa1f9bc","Yankee Stadium","Arts & Entertainment::Stadium::Baseball Stadium",40.82827721161922,-73.92655344439045
+"4e4080e518a875a006a26997","MTA - Bx16","Travel & Transport::Bus Station::Bus Line",40.888023376464844,-73.8313221931458
+"4e51219062e14b77e3b32dfc","Corner Cafe And Bakery","Food::Bakery",40.8873159201218,-73.9071653129166
+"4e5146aeb61cf637a50e59b7","GameStop","Shop & Service::Video Game Store",40.82952302,-73.8752353191376
+"4e518912e4cdc76dc9ceccce","Some Where In The Boogie Down Bronx.","Professional & Other Places::Building",40.84005750916743,-73.92880917128387
+"4e51e1ab45ddff0031e1fbd3","Family Deli Grocery","Food::Deli / Bodega",40.848123439051264,-73.88870011047626
+"4e526328aeb7560ca4abfe1b","Xin Hi Chinese Buffet","Food::Chinese Restaurant",40.87129592895508,-73.82612609863281
+"4e52dba745ddfd83652f000c","Where I'm At! Home.","Residence::Residential Building (Apartment / Condo)",40.84905741078483,-73.88731055634743
+"4e544c43fa761d3de83ba547","Brucknerville","Residence::Residential Building (Apartment / Condo)",40.8272623776547,-73.8552274908
+"4e55a5e81f6eee31235bdbdd","Lehman College Apex","College & University::College Administrative Building",40.87364307602304,-73.89074423000926
+"4e56d0bcc65bf822645924f6","Nicky's BBQ Beer Garden","Nightlife Spot::Beer Garden",40.83350179070576,-73.82886573215762
+"4e57a59418382ada066fafda","Rock Garden NYBG","Outdoors & Recreation::Garden",40.8624635200845,-73.8793118153081
+"4e583ba5b9935d203d05fec1","Hurricane Party","::Nightlife Spot",40.86049,-73.864111
+"4e598cfd2271886714f5f8eb","Home <3","Residence::Residential Building (Apartment / Condo)",40.85402,-73.904864
+"4e5c73c71520cd7bd6452111","US Route 1 (Fordham Rd.) - The Bronx","Outdoors & Recreation::Other Great Outdoors",40.8574316837438,-73.8818228244781
+"4e5df3f81520749dc71e489c","MTA MaBSTOA & Bee-Line Bus at White Plains Rd. & Pelham Pkwy (Boston Rd): (Bx12 & +SBS, Bx22, Bx39, BxM11 & BL 60, 61, 62)","Travel & Transport::Bus Station",40.85728561997815,-73.86812210083008
+"4e5f05c91838f725527ea847","Walking Outside Now","Outdoors & Recreation::Farm",40.839202473984955,-73.88378494910576
+"4e5fe37f18a8ce02fbbaaafd","Corner Furniture","Shop & Service::Furniture / Home Store",40.86803233514539,-73.86699437890519
+"4e5fed237d8b8540888cc725","Going Crazy","Travel & Transport::General Travel",40.8668686073025,-73.8235527513697
+"4e6050447d8b854088b964da","Thats It... Im Home","::Professional & Other Places",40.903955004900865,-73.84424672440898
+"4e61006cc65b2dc89efd1871","Empire State Cafe","College & University::College Cafeteria",40.86213612,-73.88928174
+"4e623531d164ddd5e5a833cc","Dunkin' Donuts","Food::Coffee Shop",40.85861311566415,-73.88480129516869
+"4e62f4091f6ef7d07af2c177","In A Good Space...","Outdoors & Recreation::Playground",40.84181518751638,-73.873357048699
+"4e6546e62271573ad8d5baba","BX 9 - Heath Ave & Kingsbridge Road","::Professional & Other Places",40.87284941641126,-73.905069692206
+"4e6549d81f6ef7d07bed2aab","Compare Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",40.853019321235585,-73.86778111008127
+"4e656b69091afcffda03efb2","Crotona Park Greenway / Bike Path","Outdoors & Recreation::Hiking Trail",40.8382621202057,-73.8957273960114
+"4e660e94b61cd7808a163cd4","Dunkin Donuts - Simpson Ave","Food::Coffee Shop",40.82420497232408,-73.8918524094735
+"4e6817a5ae609d64bd2cb8ef","Vladimir Bake Shop","Food::Bakery",40.8314578053026,-73.8508111368918
+"4e6a93eb62e1cd1d54c419f7","MTA Subway - 6 Train","Travel & Transport::Train Station::Train",40.83033599464936,-73.87153670304792
+"4e6b668efa76cd0f771bf973","East 224th Street And Laconia Ave","Outdoors & Recreation::Scenic Lookout",40.883968165253194,-73.84972569794769
+"4e6d4e0514955284ba3ad0cd","FDNY Engine 79/Ladder 37","Professional & Other Places::Government Building::Fire Station",40.871199320156826,-73.88675932552864
+"4e6f4e30091a14469177cae0","The Osborne Association","Professional & Other Places::Office",40.8193468298865,-73.9026689529419
+"4e7128fce4cdcd92f54a0260","Remy's Discount Convenience","Shop & Service::Miscellaneous Shop",40.840488,-73.855665
+"4e7201afc65bae37845e1e76","Mott Haven Campus HS","Professional & Other Places::School::High School",40.8226942003802,-73.9235333440768
+"4e75053d62e12635163a29b0","City Pizza","Food::Pizza Place",40.88045918137706,-73.82397205125304
+"4e7646441f6e072f140c226a","White Plains rd & Bruckner Blvd","Outdoors & Recreation::Other Great Outdoors",40.82617542265973,-73.85948869022899
+"4e7ba557dab43826d2a85f72","Starbucks","Food::Coffee Shop",40.8899784251925,-73.9007980010671
+"4e7baab82c5bf851fdc1b4e0","Fordham Road and Jerome Ave","Travel & Transport::Train Station",40.86247419810137,-73.90120565304946
+"4e7bca12183811c1da2694f2","Taqueria Lupita","Food::Mexican Restaurant",40.8301153666667,-73.8255350833333
+"4e7be3537d8be4806606be9f","NYC Transit E 180th St Maintenance Facility","Professional & Other Places::Office::Coworking Space",40.8415393244653,-73.87378198499938
+"4e7e0c5f775b306072b7874d","Barbershop","Shop & Service::Salon / Barbershop",40.8549713100835,-73.9027673541699
+"4e7e1391f5b9695b55095942","Yankee Stadium","Arts & Entertainment::Stadium::Baseball Stadium",40.82827721161922,-73.92655344439045
+"4e7e3f818b814bc8801990bd","180th And Washington","::Outdoors & Recreation",40.850649632367606,-73.89570515031271
+"4e80d55261af380273d9ef07","Moving Target Bx35","Travel & Transport::Bus Station::Bus Line",40.844841,-73.923597
+"4e8168aab80398664673ea35","Getty Gas Station","Shop & Service::Gas Station / Garage",40.823342,-73.86764561
+"4e8246c530f86c0b0fbcd428","Bronx Writing Academy","College & University::Student Center",40.8328191818634,-73.9145773137983
+"4e83ace393ad6c4930537bc1","Blackout Haunted House","::Arts & Entertainment",40.828553486364804,-73.89026641845703
+"4e841e1cf790d5a6f97b4d2e","Vancourtland Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",40.899617579857676,-73.89480943790974
+"4e865e439adf0bc7a09eec33","Escape 123 Lounge","Nightlife Spot::Lounge",40.86880390397436,-73.902417120815
+"4e871ada2c5b24ff297bf074","NYRP Greening NYC Co-op City","Outdoors & Recreation::Other Great Outdoors",40.87441836693728,-73.82636721301262
+"4e87b254c2eef561036bd9b9","Young Israel of Pelham Parkway","Professional & Other Places::Spiritual Center::Synagogue",40.856603984813496,-73.8617491722107
+"4e87e08d93ad69fee81d7c9d","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.85432363277056,-73.86778111008127
+"4e8a5ef8b803fd0aa0512b87","Fordham Plaza","Outdoors & Recreation::Plaza",40.8614401969361,-73.8909101486206
+"4e8c982ad22db1c42b4878e1","The New York Botanical Garden Greenmarket","Shop & Service::Food & Drink Shop::Farmers Market",40.86620421421861,-73.88085072267461
+"4e9bb3850cd6de03c41c1963","MTA Subway - Elder Ave (6)","Travel & Transport::Subway",40.828602195433966,-73.87925863265991
+"4e9c1e984690c21335b4e85c","3rd Avenue - The Hub","Outdoors & Recreation::Other Great Outdoors",40.81618180484925,-73.91739047030408
+"4ea320690aaf711180e9474f","NYBG - Azalea Garden","Outdoors & Recreation::Garden",40.860353202083516,-73.87850790366784
+"4ec3ae64e5fa690c1ed711e3","C.S. 57 The Crescent School","Professional & Other Places::School",40.84716546105446,-73.88866565884037
+"4ed7ce4b0e6145a39144c14d","IHOP","Food::American Restaurant",40.82632166811086,-73.86008593991578
+"4edf36c16d860abdb1f392b7","St. Patrick's Day 2012","Arts & Entertainment::General Entertainment",40.83371644857845,-73.86009693145752
+"4f19beebe4b00ed3542fe09f","New York Yankees Dugout","Arts & Entertainment::Stadium::Baseball Stadium",40.82972165174347,-73.92688026740527
+"4f2c66f7e4b0ccfb1df00308","Yo-Burger","Food::Burger Joint",40.887301513069886,-73.9072399510469
+"4f36da28e4b0beedd165e661","1985 webster avenue","Residence::Residential Building (Apartment / Condo)",40.85100352918075,-73.89943724110071
+"4f39cb36e4b05505703b1983","On The Moon With The Stars","Professional & Other Places::Building",40.833252404782066,-73.8944649320457
+"4f590ebf003999a5038a82ca","MTA MaBSTOA Bus at Westchester Ave (White Plains Rd / Grant Circle / Parkchester): (Bx4, Bx4A, Bx36, Bx39, Q44, BxM6)","Travel & Transport::Bus Station",40.832969629858944,-73.86192083358765
+"4f77a065e4b015efa56da376","MTA MaBSTOA & Bee-Line Bus at E. Gun Hill & Boston Road: (Bx28, Bx30, Bx38 & BL 60, 61, 62X)","Travel & Transport::Bus Station",40.87325335097308,-73.8536810874939
+"4fc15955e4b0bccbf60cce0b","Bronx, NY","Outdoors & Recreation::Other Great Outdoors",40.8311944234197,-73.8727196425222
+"50816793e4b0a74e51a3f00b","Fisher Landau Center For The Treatment Of Learning Disabilities","Professional & Other Places::Medical Center::Doctor's Office",40.85066,-73.850361

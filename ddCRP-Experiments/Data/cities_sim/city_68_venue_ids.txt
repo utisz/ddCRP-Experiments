@@ -1,0 +1,836 @@
+"40e0b100f964a5200e061fe3","Coronet Club","Nightlife Spot::Strip Club",33.89883552,-84.380487
+"40e0b100f964a5201f061fe3","Derby Food & Spirits","Nightlife Spot::Sports Bar",33.91847041443254,-84.35015201568604
+"40e0b100f964a52020061fe3","The Derby","Nightlife Spot::Sports Bar",33.967993522926086,-84.261288
+"40e0b100f964a52052071fe3","Roswell Hightower Beverage Store","Shop & Service::Food & Drink Shop::Liquor Store",33.98720983573657,-84.3506079534417
+"40e0b100f964a52054061fe3","Flashers","Nightlife Spot::Strip Club",33.93031096264129,-84.37991654883561
+"40e0b100f964a520df051fe3","Cafe 290","Nightlife Spot::Bar",33.92324540241627,-84.37795077727861
+"40e0b100f964a520e4061fe3","Mardi Gras Atlanta","Nightlife Spot::Strip Club",33.905921547068886,-84.42817283512414
+"40e0b100f964a520ff061fe3","Morgan Falls Billiards","Arts & Entertainment::Pool Hall",33.9722274,-84.35749187
+"45362842f964a520a03b1fe3","5 Seasons Brewing Company","Food::Brewery",33.90807024625314,-84.38065048850217
+"45865c7bf964a520b13f1fe3","North River Tavern","Nightlife Spot::Sports Bar",34.00119477832192,-84.34989931531913
+"46247afaf964a520ad451fe3","All The Hits Q100","Arts & Entertainment::General Entertainment",33.9070738459293,-84.36189366632912
+"49ea7388f964a52066661fe3","Comfort Inn and Suites","Travel & Transport::Hotel",33.92058580350176,-84.35186088699427
+"4a1970fff964a520167a1fe3","Costco","Shop & Service::Miscellaneous Shop",33.92845914768902,-84.35467958450317
+"4a1eb929f964a520d97b1fe3","Jackson Associates","Professional & Other Places::Office::Coworking Space",33.920835584742946,-84.34860525854639
+"4a2fbf7cf964a520d5981fe3","Charlie Mopps Public House","Nightlife Spot::Bar",33.914115,-84.379477
+"4a310586f964a5208c991fe3","Circle Sushi","Food::Sushi Restaurant",33.995334,-84.35012
+"4a31c012f964a520209a1fe3","Rumi's Kitchen","Food::Middle Eastern Restaurant",33.9221843330732,-84.37950081671639
+"4a33f899f964a5207f9b1fe3","Willy's Mexicana Grill","Food::Burrito Place",33.919906033054524,-84.35214087367058
+"4a352ed8f964a520939c1fe3","Taco Bell","Food::Fast Food Restaurant",33.93483171351396,-84.38011158264602
+"4a37b74ef964a520689e1fe3","Arby's","Food::Fast Food Restaurant",33.919359,-84.353276
+"4a37c8b8f964a5206f9e1fe3","Makara Mediterranean Restaurant","Food::Mediterranean Restaurant",33.92500922307938,-84.37932631100213
+"4a37d3a4f964a520769e1fe3","Einstein Bros Bagels","Food::Bagel Shop",33.919218274593504,-84.35199737548828
+"4a37d3e1f964a520779e1fe3","Chin Chin V","Food::Chinese Restaurant",33.91991271029392,-84.3524158000946
+"4a37d4e9f964a520799e1fe3","Sushi Mio Japanese Restaurant","Food::Sushi Restaurant",33.92275285,-84.377664
+"4a37d55ef964a5207a9e1fe3","Ship & Anchor Pub","Nightlife Spot::Pub",33.9188642,-84.37711803333333
+"4a37d5c0f964a5207c9e1fe3","Jason's Deli","Food::Deli / Bodega",33.918365802517656,-84.37781900167465
+"4a37d60cf964a5207e9e1fe3","The Flying Biscuit Cafe","Food::Southern / Soul Food Restaurant",33.91816,-84.378706
+"4a3e9bcbf964a52022a31fe3","Hammond Park","Outdoors & Recreation::Playground",33.917517591967524,-84.36148294118975
+"4a3f8e92f964a520c5a31fe3","McDonald's","Food::Fast Food Restaurant",33.919863743859494,-84.37855660915375
+"4a4797edf964a520dca91fe3","Mellow Mushroom","Food::Pizza Place",33.92176,-84.379509
+"4a494da8f964a5202dab1fe3","El Azteca","Food::Mexican Restaurant",33.91729375,-84.37882743
+"4a4bb8e8f964a520a0ac1fe3","Regal Perimeter Pointe Stadium 10","Arts & Entertainment::Movie Theater",33.93227805969659,-84.34830665588379
+"4a518a83f964a52021b11fe3","Ray's on the River","Food::Seafood Restaurant",33.90081811885993,-84.44080531597137
+"4a521060f964a5203ab11fe3","Caribou Coffee","Food::Coffee Shop",33.87865074917425,-84.38008078787678
+"4a54bee7f964a52039b31fe3","Steak 'N Shake","Food::Diner",33.9344092050466,-84.37921339526453
+"4a567208f964a5202fb51fe3","Roasters","Food::American Restaurant",33.925186140004506,-84.37842297904218
+"4a594692f964a52028b91fe3","Buffalo Wild Wings","Food::Wings Joint",33.98283356035097,-84.34959411621094
+"4a5a6059f964a5203eba1fe3","Heritage Green Entertainment Lawn","Arts & Entertainment::Music Venue",33.921739,-84.38264708333334
+"4a5c9757f964a5204fbc1fe3","Waffle House","Food::Breakfast Spot",33.92424702644348,-84.379948
+"4a5c97eef964a52051bc1fe3","Goodwill","Shop & Service::Department Store",33.924827453934846,-84.38072747465064
+"4a5df275f964a520d0bd1fe3","Cox Communications (Pav D)","Professional & Other Places::Office",33.911994173256225,-84.34939093925408
+"4a621288f964a520f8c21fe3","Mikael's Auto Spa","Shop & Service::Automotive Shop",33.929310649943716,-84.37979850174196
+"4a624d34f964a520b8c31fe3","Chick-fil-A","Food::Fast Food Restaurant",33.934118343480584,-84.35006363795988
+"4a63ed93f964a52005c61fe3","World Peace Cafe","Food::Vegetarian / Vegan Restaurant",33.91921388902885,-84.38156918331057
+"4a6781f1f964a52099c91fe3","MARTA - Medical Center Station","Travel & Transport::Subway",33.91067981412202,-84.3515145778656
+"4a679305f964a520b5c91fe3","Tijuana Joe's Cantina","Food::Mexican Restaurant",33.97198770591267,-84.35876181492941
+"4a68752ff964a52072ca1fe3","MARTA - Sandy Springs Station","Travel & Transport::Train Station::Train",33.932482798394304,-84.35197591781616
+"4a687fb1f964a5207dca1fe3","ThePort Network","Professional & Other Places::Office::Tech Startup",33.90601523720113,-84.43566475451654
+"4a699674f964a520f0cb1fe3","Starbucks","Food::Coffee Shop",33.93209112393403,-84.34852659702301
+"4a6cfdbef964a52043d21fe3","Cocktail Cove Grill & Bar","Nightlife Spot::Other Nightlife",33.91467052181286,-84.37958293687369
+"4a6e2a94f964a5201ad41fe3","Meehan's Public House","Nightlife Spot::Pub",33.92062494615838,-84.38330411911011
+"4a70e0dff964a520aad81fe3","IBM Internet Security Systems","Professional & Other Places::Office",33.92833562775826,-84.3594806151931
+"4a79c503f964a5209ce71fe3","la Madeleine Country French Café","Food::French Restaurant",33.92958292126168,-84.3480968713428
+"4a7a14e6f964a52073e81fe3","Lefont Sandy Springs","Arts & Entertainment::Movie Theater::Indie Movie Theater",33.91668976858166,-84.3819522857666
+"4a7a1c37f964a52091e81fe3","yoreka!","Food::Ice Cream Shop",33.907617,-84.380098
+"4a7a1e9ef964a52096e81fe3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.90727843728528,-84.37916278839111
+"4a7af9b7f964a520bae91fe3","The Happy Sumo Japanese Steak & Sushi","Food::Japanese Restaurant",33.9344945802176,-84.34977093793793
+"4a7c7649f964a520a7ec1fe3","Holy Innocents' Episcopal School","Professional & Other Places::School::High School",33.90816409658541,-84.41479679168808
+"4a7c76ecf964a520aaec1fe3","Loco's Grill & Pub","Nightlife Spot::Bar",33.987252,-84.351239
+"4a8048d4f964a520def41fe3","Nori Nori Japanese Buffet","Food::Japanese Restaurant",33.937342224426644,-84.37870527176739
+"4a8177fbf964a520c6f61fe3","UPS World Headquarters","Professional & Other Places::Office",33.94327253342267,-84.35985028049102
+"4a81c12ef964a52076f71fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",33.91778487018527,-84.37981724739075
+"4a833676f964a52061fa1fe3","Target","Shop & Service::Department Store",33.906078573674094,-84.38024371862411
+"4a84b175f964a5205afd1fe3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",33.92621579086942,-84.37830448150635
+"4a8561d5f964a52032fe1fe3","America's Best Franchising, Inc","Travel & Transport::Hotel",33.940862,-84.36160555000001
+"4a8ad35ef964a520860a20e3","Embassy Row","Professional & Other Places::Office::Tech Startup",33.93842704014753,-84.35533199027377
+"4a8ada33f964a520a00a20e3","Canyon Cafe","Food::Deli / Bodega",33.93784143621533,-84.35581684112549
+"4a8db045f964a520881020e3","Glenridge Medical Center","Professional & Other Places::Medical Center::Hospital",33.91148195164373,-84.36268943815033
+"4a8dd5cef964a5200e1120e3","EVOS","Food::Fast Food Restaurant",33.90745874928103,-84.38000500202179
+"4a92f03cf964a520351e20e3","US Post Office - (Sandy Springs)","Professional & Other Places::Post Office",33.92090431117757,-84.3818617255772
+"4a941b9df964a5206c2020e3","Subway","Food::Sandwich Place",33.91659200191498,-84.37975466666667
+"4a94ab2af964a5204d2220e3","Hyatt Place Atlanta/Perimeter Center","Travel & Transport::Hotel",33.929396657426196,-84.35676453109603
+"4a95490df964a520db2220e3","Atlanta Board of REALTORS","Professional & Other Places::Office",33.913367713037125,-84.38846663524322
+"4a9728baf964a520b62820e3","Crown and Anchor Pub","Nightlife Spot::Bar",33.88998986666667,-84.381126
+"4a9801d9f964a520162a20e3","Canton Cooks","Food::Chinese Restaurant",33.91847486600054,-84.38173234462738
+"4a998517f964a520d62e20e3","Bangkok Thyme","Food::Thai Restaurant",33.8901097027105,-84.38104055061788
+"4a9ebc89f964a520013b20e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.93572710406934,-84.37791998137997
+"4a9fded9f964a5206d3d20e3","Slope's BBQ","Food::BBQ Joint",33.92640684047478,-84.38206701752837
+"4a9fed42f964a520983d20e3","Sushi-Huku Japanese Resturant","Food::Sushi Restaurant",33.90535354614258,-84.42873
+"4a9fee63f964a5209d3d20e3","Rising Roll Gourmet","Food::Deli / Bodega",33.920935899291244,-84.35067984379066
+"4aa93e1bf964a520a15220e3","Hunan Gourmet","Food::Chinese Restaurant",33.92099,-84.384926
+"4aaa78d3f964a520135620e3","FIGO Pasta","Food::Italian Restaurant",33.921159119149436,-84.35036659240723
+"4aaa7db4f964a5202f5620e3","Teela Taqueria","Food::Taco Place",33.92159652709961,-84.38250732421875
+"4aab8b9ef964a5209f5920e3","Georgia Veterinary Specialists","Professional & Other Places::Medical Center",33.93638503023742,-84.37312589024779
+"4aafab91f964a5206b6420e3","Moe's Southwest Grill","Food::Mexican Restaurant",33.9810092,-84.350801
+"4ab0392ef964a520886620e3","El Taco Veloz","Food::Burrito Place",33.909286,-84.37904174279308
+"4ab04f8ff964a520046720e3","The Home Depot","Shop & Service::Hardware Store",33.92942169439085,-84.35444369481141
+"4ab182eef964a520c76920e3","Art Institute of Atlanta","Professional & Other Places::School",33.93585566291647,-84.3551625476623
+"4ab2561ef964a520f26a20e3","Sandy Springs Diner","Food::Diner",33.99033870757064,-84.35225627444127
+"4ab2657df964a5200e6b20e3","Mike's Chicago Hot Dogs","Food::Hot Dog Joint",33.918164458056694,-84.3814921982621
+"4ab4ee98f964a520b07120e3","Chick-fil-A","Food::Fast Food Restaurant",33.984339263614174,-84.34995889663696
+"4ab83ca3f964a520a97c20e3","Newell Rubbermaid","Professional & Other Places::Office",33.93420970521539,-84.36028003692627
+"4aba1db3f964a520648020e3","Concourse office complex","Professional & Other Places::Office",33.916911,-84.35587
+"4ac77017f964a5203bb720e3","REI","Shop & Service::Sporting Goods Shop",33.929046683759,-84.34871435165405
+"4aca355ef964a520dec020e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.9940689775662,-84.34943318367004
+"4aca3d4ff964a520fdc020e3","Burger King","Food::Fast Food Restaurant",33.919414162060995,-84.38019883440481
+"4accc055f964a52067c920e3","Sandy Springs Toyota","Shop & Service::Automotive Shop",33.93182694911957,-84.378749
+"4ace6136f964a5203ad020e3","Fuego Mundo","Food::South American Restaurant",33.907465427495765,-84.37997817993164
+"4ad08d2af964a5206bd820e3","Delta Community Credit Union","Shop & Service::Credit Union",33.91965561142167,-84.35310865915184
+"4ad2b9ccf964a52096e220e3","Courtyard Marriott","Travel & Transport::Hotel",33.925557016136445,-84.35345649719238
+"4ad36235f964a52010e420e3","Rice Thai Market","Food::Thai Restaurant",33.918434143066406,-84.35025787353516
+"4ad3b121f964a520a9e520e3","LongHorn Steakhouse","Food::Steakhouse",33.92965201971328,-84.37950611114502
+"4ad4a2caf964a52072e820e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.92750661847928,-84.37966704368591
+"4ad5f3b5f964a520270421e3","Lowe's Home Improvement","Shop & Service::Hardware Store",33.91706343446324,-84.37785325687773
+"4ad621f2f964a520440521e3","Georgia Department Of Driver Services","Professional & Other Places::Government Building",33.991630861198985,-84.3531240635816
+"4ad673dff964a520460721e3","Planet Smoothie","Food::Restaurant",33.91945628,-84.351974
+"4ad78d9ff964a5201a0c21e3","Mandarin House","Food::Chinese Restaurant",33.926036,-84.378549
+"4ad9eef4f964a5200a1c21e3","Sweet Tomatoes","Food::Salad Place",33.92809416111985,-84.35259819030762
+"4adb5716f964a520262621e3","IHOP","Food::Breakfast Spot",33.92228927494041,-84.37945466
+"4adba17ef964a5208a2921e3","Kobe Steaks","Food::Steakhouse",33.907998,-84.38039
+"4adc661ef964a5200e2c21e3","Dunkin' Donuts","Food::Donut Shop",33.92034005252709,-84.37934517860413
+"4adc8b73f964a520102d21e3","Emory Clinic at Perimeter","Professional & Other Places::Medical Center::Doctor's Office",33.906441,-84.359525
+"4adccfe0f964a5201d3021e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",33.920066033702476,-84.38181100392043
+"4addc951f964a520c76521e3","Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.90864388274965,-84.3538275282582
+"4adf98ebf964a520f67b21e3","Dell SecureWorks","Professional & Other Places::Office",33.916048726966174,-84.35356378555298
+"4ae0ba1cf964a520fc8121e3","The Pointe","Professional & Other Places::Office",33.983156852916615,-84.34358281731568
+"4ae20255f964a520c08921e3","Global Payments","Professional & Other Places::Office::Coworking Space",33.93387331847165,-84.36117489545892
+"4ae34df1f964a5201c9321e3","Firehouse Subs","Food::Sandwich Place",33.92682159,-84.37885
+"4ae5c159f964a520d1a121e3","Nancy G's Cafe","Food::Café",33.888753618610494,-84.3828214593028
+"4ae60426f964a52016a421e3","Oracle","Professional & Other Places::Office",33.93364000786688,-84.35298442840576
+"4ae6e82cf964a5207ca721e3","Starbucks","Food::Coffee Shop",33.99468274616392,-84.35002326965332
+"4ae6fe54f964a520e2a721e3","Georgia Cancer Specialists","Professional & Other Places::Medical Center::Doctor's Office",33.906946,-84.349639
+"4ae729c0f964a52005a921e3","Boston Market","Food::American Restaurant",33.91642364034454,-84.37886951418515
+"4ae79d7af964a520d4ac21e3","The Westin Atlanta Perimeter North","Travel & Transport::Hotel",33.915719300926774,-84.35492634773254
+"4ae844c0f964a52066ae21e3","JWT Atlanta","Arts & Entertainment::Arcade",33.93511001,-84.36205
+"4ae86b15f964a52033af21e3","Gartner Atlanta","Professional & Other Places::Office",33.935981,-84.361725
+"4ae9fcdaf964a5203fb821e3","Saint Joseph's Hospital Doctors Center","Professional & Other Places::Medical Center::Doctor's Office",33.909516918050066,-84.3504128220534
+"4aeb8502f964a520fcc221e3","Little Thai Cuisine","Food::Thai Restaurant",33.92564565741526,-84.38344758731516
+"4aec741cf964a52049c721e3","Lotus","Food::Chinese Restaurant",33.99526730318147,-84.35001742226339
+"4aec8e22f964a520a7c821e3","Michaels","Shop & Service::Arts & Crafts Store",33.93409843650151,-84.34822618961334
+"4af02030f964a52090da21e3","Einstein Bros. Bagels","Food::Bagel Shop",33.878278783333336,-84.38014022
+"4af07c18f964a52088dc21e3","Dunwoody Springs Charter School","Professional & Other Places::School::Elementary School",33.97695008074569,-84.34209346330466
+"4af103a3f964a52089e021e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",33.932627,-84.34983339
+"4af1caa3f964a52037e321e3","Taco Mac","Food::Wings Joint",33.90771474713834,-84.3795919418335
+"4af2fcaaf964a52090e921e3","Pig N Chik BBQ","Food::BBQ Joint",33.88865993991593,-84.38202595919537
+"4af9ad1bf964a520411322e3","Chick-fil-A","Food::Fast Food Restaurant",33.91763351551726,-84.37864780426025
+"4af9f0b2f964a5206d1522e3","Temple Sinai","Professional & Other Places::Spiritual Center",33.91048383620883,-84.41822828357049
+"4afa39e7f964a5206c1722e3","Nothing But Noodles","Food::Vegetarian / Vegan Restaurant",33.921203,-84.379315
+"4afb0281f964a520471a22e3","Wendy's","Food::Fast Food Restaurant",33.92553017722856,-84.37947153447755
+"4afb4b9bf964a520b61c22e3","Royal Oak Pub","Nightlife Spot::Pub",33.931915,-84.348481
+"4afc39bdf964a520a62022e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.92001954605315,-84.35268938541412
+"4afc85dbf964a520862322e3","Sandy Springs Tennis Center","Outdoors & Recreation::Athletic & Sport::Tennis Court",33.93802944230182,-84.37210440073814
+"4afc8674f964a5208c2322e3","Concourse Athletic Club","Shop & Service::Gym / Fitness Center::Gym",33.916400334337986,-84.35577356570323
+"4afecddcf964a520863022e3","Peachtree Dunwoody Medical Center","Professional & Other Places::Medical Center",33.90398000662726,-84.35190196633279
+"4afee84ff964a5207e3122e3","QuikTrip","Shop & Service::Convenience Store",33.99034434866334,-84.34403475179882
+"4b020010f964a5201a4722e3","QuikTrip","Shop & Service::Convenience Store",33.97310923317539,-84.3583032488823
+"4b031eaef964a520d24c22e3","User Insight","Professional & Other Places::Office",33.94057840632404,-84.36145213668902
+"4b032219f964a520e84c22e3","Starbucks","Food::Coffee Shop",33.936763,-84.377856
+"4b056356f964a5200a5822e3","Fulton County North Annex Service Center","Professional & Other Places::Government Building",33.9657130279644,-84.36278698363509
+"4b056896f964a520315822e3","Office Depot","Shop & Service::Paper / Office Supplies Store",33.932429,-84.34966385364532
+"4b07116ef964a5209bf622e3","Fred Bar","Nightlife Spot::Speakeasy",33.90796406605169,-84.37963485717773
+"4b080122f964a5202f0223e3","Temple Emanu-El","Professional & Other Places::Spiritual Center::Synagogue",33.97454921897775,-84.33348015250628
+"4b0834b1f964a5203c0623e3","Ray's NY Pizza","Food::Pizza Place",33.926954,-84.37902523333334
+"4b0837b1f964a520820623e3","Cosmos Fitness - Sandy Springs","Shop & Service::Gym / Fitness Center::Gym",33.99019,-84.352707
+"4b085aa8f964a520e80923e3","Sandy Springs Recycling Center","Shop & Service::Recycling Facility",33.969068117782065,-84.36739197375601
+"4b085b66f964a520f60923e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.960625232488525,-84.36525821685791
+"4b085f22f964a520540a23e3","Phoenix & Dragon Bookstore","Shop & Service::Bookstore",33.905836916666665,-84.378077
+"4b086087f964a520720a23e3","Massage Heights Atlanta Abernathy Square","Professional & Other Places::Building",33.93564310032425,-84.37744777558552
+"4b0864d9f964a520d40a23e3","Peachtree Yoga Center","Shop & Service::Gym / Fitness Center::Yoga Studio",33.92095556026152,-84.38488457725687
+"4b09b7ebf964a520501c23e3","Cafe Sunflower","Food::Vegetarian / Vegan Restaurant",33.91855054262091,-84.37711358070374
+"4b0c587ef964a520893b23e3","Kaiser Permanente","Professional & Other Places::Medical Center::Doctor's Office",33.93754576801433,-84.36061014077552
+"4b0ddb98f964a520725123e3","Saint Joseph's Hospital","Professional & Other Places::Medical Center::Hospital",33.90942434789985,-84.35038805007935
+"4b13ed35f964a520919a23e3","Atlanta Business RadioX","Professional & Other Places::Office::Tech Startup",33.93453073333334,-84.359942
+"4b140b4cf964a520569c23e3","Fresh 2 Order","Nightlife Spot::Wine Bar",33.92237,-84.37889993190765
+"4b15b9def964a52056b323e3","Round Hill Condominiums","Residence::Residential Building (Apartment / Condo)",33.90317803729541,-84.37945462407762
+"4b16aa80f964a520b2bb23e3","Aladdin's Mediterranean Grill & Deli","Food::Mediterranean Restaurant",33.99581242460072,-84.35003399848938
+"4b16dd8bf964a5209cbe23e3","Starbucks","Food::Coffee Shop",33.92339593217276,-84.37940686941147
+"4b17c630f964a5200dc823e3","Office Depot - Hammond Drive","Shop & Service::Paper / Office Supplies Store",33.91829235152197,-84.3810510635376
+"4b17d10ef964a5207bc823e3","The Epstein School","College & University::College Academic Building",33.92871367365634,-84.39887799884889
+"4b17f598f964a5204aca23e3","Atlanta Bread Company","Food::Soup Place",33.93205551707558,-84.34808135032654
+"4b190c8bf964a52073d723e3","Lake Forest Elementary School","College & University::General College & University",33.91663181605021,-84.38427899291305
+"4b19524cf964a52037db23e3","Genki Noodles & Sushi","Food::Sushi Restaurant",33.9076254,-84.380394
+"4b195324f964a52048db23e3","Chattahoochee River National Recreation Area","Outdoors & Recreation::Hiking Trail",33.98685464043466,-84.32496070861816
+"4b1bfc59f964a520230024e3","Fanoos Persian Cuisine","Food::Middle Eastern Restaurant",33.92188875761428,-84.378202276515
+"4b1ea111f964a520fa1c24e3","Little European Bakery","Food::Bakery",33.927101135253906,-84.38072967529297
+"4b1ed8d3f964a520722024e3","Red Cross Sandy Springs","Professional & Other Places::Office",33.91856834887475,-84.3506133556366
+"4b1eeec1f964a520ba2124e3","Sonesta ES Suites Atlanta","Travel & Transport::Hotel",33.929444003245095,-84.36166776785628
+"4b1f9f07f964a5206e2724e3","Spalding Drive Elementary School","Professional & Other Places::School::Elementary School",33.95065853367347,-84.38317044950777
+"4b21642ef964a5202b3b24e3","Georgia International Travel","Travel & Transport::General Travel",33.9263654,-84.35900425
+"4b225a9af964a520d14524e3","BrandwarePR","Professional & Other Places::Office",33.986897866666666,-84.34121008333334
+"4b22e1b3f964a520664f24e3","Ippolito's","Food::Italian Restaurant",33.93627482615404,-84.37714576721191
+"4b22e63df964a520e14f24e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.90530165854305,-84.42775368690491
+"4b2446bbf964a520256524e3","Taboo 2 Bistro and Bar","Nightlife Spot::Nightclub",33.92082544944119,-84.37857695705996
+"4b2642e9f964a5209d7924e3","JE Dunn Construction","Professional & Other Places::Office",33.92961533436939,-84.36057933581915
+"4b264a19f964a520e17924e3","Knowledge Development Center","Professional & Other Places::Office::Conference Room",33.9273051556619,-84.34849741920218
+"4b26768df964a520e07b24e3","Moe's Southwest Grill","Food::Mexican Restaurant",33.907251724364585,-84.3591856956482
+"4b27a063f964a520eb8724e3","Jimmy John's","Food::Sandwich Place",33.92057776451111,-84.379085
+"4b27f953f964a520208d24e3","Apple - Atlanta Office","Shop & Service::Electronics Store",33.93358423141993,-84.35240518591029
+"4b2acd1df964a520eeaf24e3","Food 101","Food::American Restaurant",33.890494,-84.38092761
+"4b2ad38bf964a5206bb024e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",33.92644186824378,-84.37938790131324
+"4b2b7dbbf964a520cbb624e3","Coast Dental Perimeter","Professional & Other Places::Medical Center::Dentist's Office",33.919010162353516,-84.35295867919922
+"4b2b9cd6f964a5203bb824e3","Jiffy Lube","Shop & Service::Automotive Shop",33.96033584,-84.36527027
+"4b2b9db6f964a5204bb824e3","Shell Gas Station","Shop & Service::Gas Station / Garage",33.95495,-84.36445891857147
+"4b2bd57ef964a520ffbb24e3","NorthPark Town Center","Professional & Other Places::Office",33.934138493255254,-84.35266256332397
+"4b2d46c3f964a520e9d224e3","Teahouse Comics","Shop & Service::Gaming Cafe",33.916440475193134,-84.38100814819336
+"4b2e943ef964a520dce224e3","Sports Authority","Shop & Service::Sporting Goods Shop",33.93352,-84.350047
+"4b2fb04cf964a5200aee24e3","Paper Affair - Sandy Springs","Shop & Service::Gift Shop",33.919638,-84.381795
+"4b2fb405f964a5204cee24e3","CVS","Shop & Service::Drugstore / Pharmacy",33.95573928199252,-84.36419880811695
+"4b2fbfe5f964a5200def24e3","Quiznos","Food::Sandwich Place",33.99349629878998,-84.35036034
+"4b2fc074f964a5201bef24e3","The HoneyBaked Ham Company","Food::Sandwich Place",33.92936,-84.3482905626297
+"4b2fd26df964a5209bf024e3","Dental TLC","Professional & Other Places::Medical Center::Dentist's Office",33.923194885253906,-84.37765502929688
+"4b300b7cf964a5200bf524e3","HomeGoods","Shop & Service::Furniture / Home Store",33.932035166666665,-84.349079
+"4b317977f964a5209c0725e3","Babies "R" Us","Shop & Service::Clothing Store::Kids Store",33.933568795430354,-84.34907913208008
+"4b33aff9f964a520e41c25e3","Party City","Shop & Service::Miscellaneous Shop",33.925524,-84.37859952449799
+"4b34dadef964a520d62825e3","Marriott Courtyard Atlanta Glenridge/Perimeter","Travel & Transport::Hotel",33.90748049653038,-84.35141928230037
+"4b350d72f964a520002a25e3","Waffle House","Food::Breakfast Spot",33.90098634,-84.379485
+"4b37a852f964a520c14325e3","Joli Kobe Bakery & Café","Food::Bakery",33.90778362751007,-84.37991380691528
+"4b37bcdef964a5204c4525e3","Starbucks","Food::Coffee Shop",33.9597569,-84.30047803
+"4b37bd1ff964a520554525e3","Waffle House","Food::Breakfast Spot",33.90566439,-84.430985
+"4b3cf1d1f964a520378a25e3","Mirage Persian Cuisine","Food::Mediterranean Restaurant",33.936183588032115,-84.37667101621628
+"4b3e8fc2f964a520f19e25e3","Bishoku","Food::Japanese Restaurant",33.91662537989799,-84.38018343704499
+"4b3fcbedf964a520fcae25e3","Los Rancheros","Food::Mexican Restaurant",33.96090109264233,-84.30181860923767
+"4b4231edf964a520a6ce25e3","Subway","Food::Sandwich Place",33.93667871623361,-84.37757096007063
+"4b427a85f964a520a5d425e3","Chevron","Shop & Service::Gas Station / Garage",33.92420606687955,-84.37754541635513
+"4b43db7ef964a52043ec25e3","Blue Grotto Sushi Tapas & Bar","Food::Sushi Restaurant",33.925551677539055,-84.38353483413279
+"4b43ebcff964a52011ee25e3","Sandy Springs City Hall","Professional & Other Places::Government Building::City Hall",33.97132844586854,-84.36002997806328
+"4b44d09bf964a52005fd25e3","Resurgens Orthopaedics","Professional & Other Places::Medical Center::Doctor's Office",33.90956662973099,-84.35036660663015
+"4b44e20bf964a52031ff25e3","Womens Health Associates of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.90843328124188,-84.35584544976285
+"4b452c8ef964a520040726e3","Starbucks","Food::Coffee Shop",33.90593387655014,-84.38021421432495
+"4b454569f964a520910926e3","Wendy's","Food::Fast Food Restaurant",33.985464,-84.350113
+"4b47d40df964a5208e4026e3","Persopolis","Food::Middle Eastern Restaurant",33.93065638716835,-84.37895676778336
+"4b48e91cf964a520025d26e3","Pep Boys Auto","Shop & Service::Automotive Shop",33.932888,-84.37965333
+"4b48f93bf964a520356026e3","Dekalb Tire","Shop & Service::Automotive Shop",33.9236614107966,-84.37885924904745
+"4b4a1bb1f964a520dd7a26e3","Jiffy Lube","Shop & Service::Automotive Shop",33.891274,-84.38098669052124
+"4b4a497cf964a5205d8226e3","Jersey Mike's Subs","Food::Sandwich Place",33.92101866016408,-84.38207214981799
+"4b4a5a28f964a520e88426e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",33.88981530590484,-84.38308954238892
+"4b4cc1b7f964a5207ebd26e3","Quizno's","Food::Sandwich Place",33.93196105957031,-84.348544
+"4b4d038df964a520c7c726e3","Petco","Shop & Service::Pet Store",33.91812319141223,-84.38116908073425
+"4b512a01f964a5207f4527e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",33.919714,-84.351876
+"4b513bd8f964a520354827e3","Wingstop","Food::Wings Joint",33.99450484267887,-84.3501091003418
+"4b51cf77f964a520695627e3","St. Jude the Apostle Catholic Church","Professional & Other Places::Spiritual Center::Church",33.95035493285441,-84.36290506479558
+"4b51e2c7f964a520ac5927e3","Gym of Buckhead","Shop & Service::Gym / Fitness Center::Gym",33.88850238339798,-84.38211320811878
+"4b5231d8f964a520ef6e27e3","Georgia's Own Credit Union","Shop & Service::Bank",33.93089534869928,-84.35138847254733
+"4b525c22f964a520397927e3","Pizza Hut","Food::Pizza Place",33.890152127988884,-84.38155378630891
+"4b53a6e1f964a52062a627e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.92923019,-84.3788744
+"4b54a73df964a52006c527e3","Northside Hospital - Meridian Mark","Professional & Other Places::Medical Center",33.90352706665852,-84.35396616629335
+"4b5645d1f964a520a60828e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.90431770428946,-84.43037152290344
+"4b57b586f964a520203d28e3","Brooklyn Cafe","Food::American Restaurant",33.924025790317295,-84.38315391540527
+"4b588bd1f964a520335d28e3","Porto Brasil","Food::Brazilian Restaurant",33.972529,-84.35743153095245
+"4b58abcaf964a520df6428e3","Sheraton Atlanta Perimeter North Hotel","Travel & Transport::Hotel",33.91962304253052,-84.36071282384727
+"4b58ac7cf964a520046528e3","Brickery Grill & Bar","Food::American Restaurant",33.922675251960754,-84.37777765
+"4b58ad64f964a520306528e3","Chef Rob's Caribbean Cafe","Food::Caribbean Restaurant",33.91691393870222,-84.38017317213622
+"4b58cd59f964a520e86b28e3","Hearth Pizza Tavern","Food::Pizza Place",33.91876323554421,-84.38170775614428
+"4b58d6d3f964a520076e28e3","Phidippides - Sandy Springs","Shop & Service::Sporting Goods Shop",33.924831,-84.38329
+"4b5b55c6f964a52073f528e3","Prometric Testing Center","Professional & Other Places::Building",33.917076110839844,-84.34950256347656
+"4b5bc992f964a520401629e3","Rusty Nail Pub","Nightlife Spot::Dive Bar",33.987782,-84.35066012
+"4b5c801ff964a520ed3229e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",33.960409716018546,-84.30114208513275
+"4b5c9014f964a520c43629e3","Subway","Food::Sandwich Place",33.96025195862421,-84.30166115442233
+"4b5c9a78f964a5204e3929e3","Atlanta-Fulton Public Library - Sandy Springs Branch","Professional & Other Places::Library",33.924112235034876,-84.37469145539234
+"4b5d9273f964a520fa6129e3","RBM of Atlanta","Shop & Service::Car Dealership",33.963035010782605,-84.3661342362219
+"4b5decc7f964a5201c7429e3","Dermatology Associates of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.905756709881665,-84.35221006046072
+"4b5e2c54f964a5208d8129e3","The Tasting Room","Food::American Restaurant",33.92045974731445,-84.3851763010025
+"4b5e4621f964a520308729e3","ER @ Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.90843,-84.353072
+"4b5f3341f964a520d7ac29e3","Hardee's","Food::Fast Food Restaurant",33.936725,-84.37723159790039
+"4b5f6986f964a520d4b829e3","Bride Beautiful","Shop & Service::Bridal Shop",33.937338,-84.379241
+"4b60b7a7f964a520a4f529e3","Dent1st - Perimeter","Professional & Other Places::Medical Center::Dentist's Office",33.918138,-84.35029149055481
+"4b61a08cf964a520b31a2ae3","Argosy University","College & University::University",33.92002487182617,-84.35604858398438
+"4b631b3ef964a52072632ae3","Chipotle Mexican Grill","Food::Mexican Restaurant",33.916440475193134,-84.37966704368591
+"4b632dcaf964a52071682ae3","Cox Enterprises","Professional & Other Places::Office",33.925225503039975,-84.35046930752158
+"4b63396ef964a520c96b2ae3","Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.90864388274965,-84.3538275282582
+"4b64661ef964a52005b02ae3","Tires Plus","Shop & Service::Automotive Shop",34.00026321411133,-84.34968566894531
+"4b64688ef964a520d1b02ae3","Bridals by Lori","Shop & Service::Bridal Shop",33.91947646288667,-84.38414096832275
+"4b646910f964a520f6b02ae3","Dunkin' Donuts","Food::Breakfast Spot",33.98122842735281,-84.35063362857638
+"4b64a2b2f964a52034c42ae3","Napoli NY Style Pizzeria","Food::Pizza Place",33.919090270996094,-84.37836456298828
+"4b66e97ef964a520e72f2be3","The UPS Store","Professional & Other Places::Post Office",33.982795353688196,-84.3487952607214
+"4b675a5bf964a520d3492be3","Mount Vernon Presbyterian School","Professional & Other Places::School",33.92411180751993,-84.37058496651251
+"4b681b99f964a5208a672be3","Cisco Systems","Professional & Other Places::Office",33.983225098698796,-84.34349551139216
+"4b686460f964a520b6752be3","KC Pit BBQ","Food::BBQ Joint",33.926612854003906,-84.37908935546875
+"4b691281f964a52079982be3","Mt. Vernon Baptist Church","Professional & Other Places::Spiritual Center::Church",33.90649030030093,-84.41382732044735
+"4b6ae925f964a52077e62be3","Fidelity Federal Credit Union","Shop & Service::Bank",33.92571647158972,-84.38207214981799
+"4b6b5820f964a52046022ce3","KnuckleUp Fitness","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",33.91763351551726,-84.38208103179932
+"4b6b63bef964a52081052ce3","Clubhouse Barbers","Shop & Service::Salon / Barbershop",33.91815,-84.37716009
+"4b6c1a6cf964a52002242ce3","Microtek","College & University::Trade School",33.934940338134766,-84.35408782958984
+"4b6c3b59f964a520de2a2ce3","Perimeter Dermatology","Professional & Other Places::Medical Center::Doctor's Office",33.903996418431475,-84.35250274839329
+"4b6c4b39f964a520682e2ce3","J Christopher's","Food::Breakfast Spot",33.92110799412567,-84.38173341774437
+"4b6dff38f964a5201aa22ce3","Shell Gas Station","Shop & Service::Gas Station / Garage",33.90776817268117,-84.43267822265625
+"4b6e0689f964a52058a42ce3","Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.90864388274965,-84.3538275282582
+"4b6f34ddf964a5203de42ce3","Bruster's Ice Cream","Food::Ice Cream Shop",33.92572784423828,-84.38037872314453
+"4b70a03bf964a52000262de3","CNN US Master Control","Professional & Other Places::Office",33.92420411109924,-84.35297906398773
+"4b70b9f0f964a520c12b2de3","The Nevadan at Glenridge","Residence::Residential Building (Apartment / Condo)",33.90389020302284,-84.3692605628487
+"4b717542f964a520ab472de3","AT&T Mobility","Shop & Service::Electronics Store",33.90850231465185,-84.36717122992538
+"4b717aa6f964a520cc482de3","Woodland Charter Elementary School","College & University::General College & University",33.961194539961305,-84.35107523914554
+"4b717bfcf964a52010492de3","Sandy Springs Charter Middle School","Professional & Other Places::School",33.997173355839756,-84.33880090713501
+"4b71be46f964a520c5592de3","The Coca-Cola Company","Professional & Other Places::Office",33.98992052976874,-84.3416415139745
+"4b731a3bf964a5208d9b2de3","Aldo's Italian","Food::Italian Restaurant",33.937503814697266,-84.3788070678711
+"4b73eda6f964a52072c02de3","Intellinet","Professional & Other Places::Office",33.91559948571429,-84.35319
+"4b75eb14f964a520be2e2ee3","Planet Studio","Professional & Other Places::Office",33.969081,-84.361993
+"4b798b0bf964a52040002fe3","Mount Vernon Medical Center","Professional & Other Places::Medical Center::Doctor's Office",33.92799305876676,-84.36196554293456
+"4b7a998ef964a520fc322fe3","McDonald's","Food::Fast Food Restaurant",33.90504342730416,-84.42980289459229
+"4b7ab77ff964a520da382fe3","Keller Williams Realty First Atlanta","Professional & Other Places::Office",33.90861960839276,-84.35887476983636
+"4b7ae6d8f964a520ea442fe3","Northside Doctor's Centre","Professional & Other Places::Medical Center::Doctor's Office",33.90819379917391,-84.35556304759653
+"4b7ae711f964a520f5442fe3","Sandy's Cafe","Food::American Restaurant",33.915618896484375,-84.3532943725586
+"4b7bf429f964a52091752fe3","Smoothie King","Food::Juice Bar",33.90727996826172,-84.35894012451172
+"4b7c465af964a520f6882fe3","Smoke 911","Shop & Service::Smoke Shop",33.921985,-84.37888332
+"4b7c6ab0f964a52000922fe3","Church of the Redeemer","Professional & Other Places::Spiritual Center::Church",33.89651834964752,-84.351459
+"4b7d4366f964a5204db52fe3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",33.96833118280222,-84.26067352294922
+"4b7de03ff964a5204ad82fe3","99x","Arts & Entertainment::General Entertainment",33.9075282,-84.361826
+"4b7ebd8df964a52025fc2fe3","Popeyes Corporate","Professional & Other Places::Office",33.903796538556584,-84.36029182211753
+"4b7edab9f964a520710430e3","Bank of America","Shop & Service::Bank",33.99636612247605,-84.3504795776009
+"4b7eee91f964a520590a30e3","Alexis' Suitcase","Shop & Service::Thrift / Vintage Store",33.9727,-84.35936483333333
+"4b800278f964a520744a30e3","Big Lots","Shop & Service::Furniture / Home Store",33.95442709416662,-84.36618043929974
+"4b801101f964a520174f30e3","Heards Ferry Elementary","College & University::College Academic Building",33.9180612003513,-84.4182539292424
+"4b804d76f964a5200d6630e3","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",33.96814,-84.26087
+"4b805974f964a5204a6a30e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.878739,-84.37958221666666
+"4b806d51f964a520557130e3","Residence Inn by Marriott Atlanta Perimeter Center","Travel & Transport::Hotel",33.92043619615174,-84.36077443360456
+"4b829195f964a520bbd830e3","Thomas Eye Group","Professional & Other Places::Medical Center::Doctor's Office",33.90983841958614,-84.35051552286446
+"4b8312e2f964a520fcf530e3","Staples","Shop & Service::Paper / Office Supplies Store",33.90592051988016,-84.37970459461212
+"4b836227f964a520a10431e3","Kroger Northridge","Arts & Entertainment::Arcade",33.94402313232422,-84.37284088134766
+"4b83cb6af964a520d41031e3","Hilton Suites Atlanta Perimeter","Travel & Transport::Hotel",33.92169377504605,-84.3521946557925
+"4b8405eaf964a520c41b31e3","Psycho Sisters","Shop & Service::Thrift / Vintage Store",33.919171758359774,-84.37838705078013
+"4b840b2cf964a520fc1c31e3","Capital City Orthopedics","Professional & Other Places::Medical Center::Doctor's Office",33.905744,-84.35209
+"4b8425b0f964a520c02331e3","Riverwood International Charter School","Professional & Other Places::School::High School",33.91750887029469,-84.41761493682861
+"4b8426e9f964a5201c2431e3","Van Michael Salon","Shop & Service::Salon / Barbershop",33.925056,-84.383836
+"4b84286cf964a520742431e3","Windsor Fields","Outdoors & Recreation::Field",33.88540345985671,-84.3548647382575
+"4b8553e1f964a520f15631e3","Arby's Restaurant Group, Inc.","Professional & Other Places::Office",33.93001417988868,-84.35108550911949
+"4b85615cf964a5202e5a31e3","Popeyes Chicken & Biscuits","Food::Southern / Soul Food Restaurant",33.879607862729564,-84.37944435904187
+"4b85aea3f964a5208b6c31e3","Nails USA","Shop & Service::Spa / Massage",33.92096,-84.382239
+"4b85ce1bf964a520137431e3","Café Posh","Food::Falafel Restaurant",33.889163970947266,-84.38321685791016
+"4b86e164f964a52097a331e3","American InterContinental University Atlanta (AIU)","College & University::University",33.9384467096556,-84.35534477233887
+"4b883029f964a52010e631e3","RBM of Atlanta","Shop & Service::Car Dealership",33.963035010782605,-84.3661342362219
+"4b89730ef964a520523732e3","BP Station","Shop & Service::Gas Station / Garage",33.90499413013458,-84.431133
+"4b8ac6b7f964a520458032e3","Tony's Sports Bar & Grill","Nightlife Spot::Sports Bar",33.99058,-84.352759
+"4b8c2bc7f964a5200ec232e3","Signature Bank of GA","Shop & Service::Bank",33.9202880859375,-84.37848663330078
+"4b8c8f47f964a52093d632e3","The Cascade at Morgan Falls","Residence::Residential Building (Apartment / Condo)",33.97389220279259,-84.36339139938354
+"4b8ea515f964a520122e33e3","Celebration at Sandy Springs","Professional & Other Places::Building",33.94650650024414,-84.37237548828125
+"4b8eb748f964a520ce3233e3","SunTrust Bank","Shop & Service::Bank",33.96862030029297,-84.25934600830078
+"4b8ff363f964a520a96b33e3","Enzo","Food::Japanese Restaurant",33.98695911,-84.35138085
+"4b9044d0f964a5202c8033e3","Authentic Beauty","Shop & Service::Salon / Barbershop",33.88260304927826,-84.380358
+"4b919a5bf964a52013c933e3","PasoFino Latin Dance Studio","Arts & Entertainment::General Entertainment",33.991947174072266,-84.35292053222656
+"4b92f42cf964a520132a34e3","Thai Restaurant Sandy Springs","Food::Thai Restaurant",33.9183528,-84.3774673
+"4b93fd27f964a520615f34e3","Plato's Closet","Shop & Service::Clothing Store::Women's Store",33.93558120727539,-84.37832641601562
+"4b942787f964a520976b34e3","McDonald's","Food::Fast Food Restaurant",33.994789123535156,-84.35066368
+"4b942a66f964a5203b6c34e3","Panda Express","Food::Chinese Restaurant",33.90723391574612,-84.37935590744019
+"4b9642c4f964a520dec234e3","Primary Care Physicians of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.90971622826657,-84.35294434498432
+"4b968522f964a520cbd134e3","Nyonya Asian","Food::Asian Restaurant",33.954551696777344,-84.3646011352539
+"4b96e667f964a52074ec34e3","GSU - P'Tree / Dunwoody Campus (J. Mack Robinson College of Business)","College & University::College Classroom",33.9172492421845,-84.3495244525838
+"4b96e78cf964a520c5ec34e3","Erawan Organic Thai","Food::Thai Restaurant",33.9707145690918,-84.35880279541016
+"4b97bf9cf964a520301335e3","Atlanta Foot & Ankle Center","Professional & Other Places::Medical Center::Doctor's Office",33.90792465209961,-84.38008880615234
+"4b9829cff964a520b83035e3","US Post Office","Professional & Other Places::Post Office",33.90298196183585,-84.37707822058512
+"4b983894f964a520273535e3","Shell Gas Station","Shop & Service::Gas Station / Garage",33.91525165779402,-84.37962912941187
+"4b98e3a6f964a520785435e3","Eddie's Automotive","Shop & Service::Automotive Shop",33.924315131881954,-84.3782074091413
+"4b991240f964a520715f35e3","MARTA - North Springs Station","Travel & Transport::Subway",33.9450510313709,-84.357168674469
+"4b991461f964a520056035e3","Wells Fargo","Shop & Service::Bank",33.91950762348984,-84.35409486293793
+"4b991d0af964a5202d6235e3","AT&T Mobility Highlands Two","Professional & Other Places::Office",33.903143,-84.359481
+"4b99855df964a520118135e3","Yogli Mogli Frozen Yogurt","Food::Ice Cream Shop",33.935514,-84.37884628772736
+"4b9ac52bf964a520fad335e3","Spontaneous Combustion","Arts & Entertainment::Performing Arts Venue::Theater",33.920257,-84.382928
+"4b9b06acf964a520d0ec35e3","Arby's","Food::Fast Food Restaurant",33.99572152495003,-84.35049498271653
+"4b9b45b8f964a52088fd35e3","Hampton Inn Atlanta, GA","Travel & Transport::Hotel",33.91840145691774,-84.35891584429437
+"4b9d609df964a5200fa836e3","NASCO","Professional & Other Places::Office",33.9339746013123,-84.3523230279049
+"4b9db737f964a52094bb36e3","Dunwoody Courtyards","Professional & Other Places::Building",33.94253250828265,-84.35173764880726
+"4b9e238bf964a52014cd36e3","Einsteins Bagels","Food::Bagel Shop",33.91911697387695,-84.35186004638672
+"4b9e89fcf964a52020ed36e3","Equifax","Professional & Other Places::Office",33.933268669914185,-84.3531240635816
+"4b9f6e60f964a5203b2237e3","Sapient","Professional & Other Places::Office",33.93368621111269,-84.35307271546677
+"4b9f7fd2f964a520d72637e3","Green Couch Cafe","Food::American Restaurant",33.92833709716797,-84.35929107666016
+"4b9fa531f964a5204f3137e3","Custom Clothing Of Atlanta","Shop & Service::Clothing Store::Men's Store",33.92161178588867,-84.35856628417969
+"4b9fc19df964a520c13b37e3","Gruby's NY Deli","Food::American Restaurant",33.907472283333334,-84.359012
+"4b9fe09cf964a520c44637e3","Kaneva","Professional & Other Places::Office::Tech Startup",33.91641605877246,-84.35031012106374
+"4b9ff128f964a520584c37e3","Hammond Nails","Shop & Service::Spa / Massage",33.9185930850185,-84.38149733060179
+"4ba14df2f964a520d2aa37e3","Morgan Falls Overlook Park","Outdoors & Recreation::Park",33.970035117969914,-84.37996745109558
+"4ba27005f964a520f8f837e3","Center Pointe","Professional & Other Places::Medical Center",33.9069690289368,-84.34934985816885
+"4ba29d02f964a5204b0938e3","Children's Healthcare ATL-Scottish Rite","Professional & Other Places::Medical Center::Hospital",33.906070709228516,-84.35363006591797
+"4ba36389f964a520313938e3","Kroger Gas","Shop & Service::Gas Station / Garage",33.91962055677856,-84.38264696342488
+"4ba44729f964a5205c9238e3","Dagwood's Pizza","Food::Pizza Place",33.968420161984795,-84.26007270812988
+"4ba4ca8bf964a5203ab538e3","Chevron Station","Shop & Service::Gas Station / Garage",33.899841,-84.38088476657867
+"4ba50e3bf964a52092d638e3","Oldcastle","Professional & Other Places::Office",33.980289459228516,-84.3482437133789
+"4ba5224ff964a520e6e138e3","Smoothie King","Food::Juice Bar",33.92709934222504,-84.37835812568665
+"4ba551a7f964a5203cfa38e3","Monkey Bar","Nightlife Spot::Speakeasy",33.903839111328125,-84.36195373535156
+"4ba774aff964a520509539e3","UPS Capital","Professional & Other Places::Office",33.9389519002631,-84.3591982304194
+"4ba7912ef964a520159e39e3","Waffle House","Food::Diner",33.98196975974127,-84.34920607414548
+"4ba7a17cf964a52031a439e3","Boardwalk Fresh Burgers & Fries","Food::Burger Joint",33.9184294546125,-84.37830492895606
+"4ba8e877f964a52000f939e3","China One International Buffet","Food::Chinese Restaurant",33.91820892366881,-84.37731432543606
+"4ba92b99f964a5201b113ae3","Sandy Springs Police Department","Professional & Other Places::Government Building",33.91946116,-84.35946464538574
+"4ba97b2df964a520bf293ae3","The Reserve at Ridgewood","Residence::Residential Building (Apartment / Condo)",33.95148574686357,-84.37260746955872
+"4baa1502f964a52047493ae3","Lakeview Cafe","Food::American Restaurant",33.93587875366211,-84.36195373535156
+"4baa57d4f964a52023613ae3","Peachtree Orthopaedic Clinic","Professional & Other Places::Medical Center::Doctor's Office",33.90368992663683,-84.35221195220947
+"4baadd59f964a520058b3ae3","{three} sheets","Nightlife Spot::Bar",33.91980587440071,-84.38330411911011
+"4babba34f964a52038c43ae3","Laureate Medical Group","Professional & Other Places::Medical Center::Doctor's Office",33.910123915981785,-84.35028444578843
+"4bac4b17f964a52019ef3ae3","Sanford-Brown College (SBC) Atlanta","College & University::Medical School",33.91954041878016,-84.35107523914554
+"4bacaa8ef964a52006023be3","Peachtree Women Center","Professional & Other Places::Medical Center",33.911834741933454,-84.35413047761715
+"4bacfd47f964a520d1213be3","Pediatric Endocrine Associates","Professional & Other Places::Medical Center::Doctor's Office",33.913539,-84.35010784
+"4bae5bd3f964a5207da73be3","Fitness Together - North Buckhead","Shop & Service::Gym / Fitness Center::Gym",33.8881125282819,-84.3804092645855
+"4bae6c70f964a52078b03be3","Ruth's Chris Steak House","Food::Steakhouse",33.91319587713462,-84.37945975659483
+"4bae9303f964a52052c23be3","North Springs Charter School of Arts & Sciences","Professional & Other Places::School::High School",33.95691560053107,-84.36287939499819
+"4bafb3c8f964a52013193ce3","The Punchline Comedy Club","Arts & Entertainment::Comedy Club",33.923202,-84.37806882807426
+"4bb09696f964a520ca4d3ce3","Springs Publishing - Reporter Newspapers","Professional & Other Places::Office",33.91998291015625,-84.37834167480469
+"4bb0a499f964a520aa513ce3","BHGRE Metro Brokers","Professional & Other Places::Office",33.91313252695375,-84.35931118449099
+"4bb0add9f964a5205c543ce3","Perimeter Primary Care","Professional & Other Places::Medical Center::Doctor's Office",33.91615413,-84.358589
+"4bb0f163f964a520776c3ce3","Sandy Springs Cigars","Shop & Service::Smoke Shop",33.93625257296259,-84.3778270483017
+"4bb0fdedf964a520db703ce3","Kentucky Fried Chicken (KFC) - Sandy Springs","Food::Fried Chicken Joint",33.92151,-84.37875222
+"4bb23642715eef3b33eb84bb","Shape Medical Weight Loss and Skin Care","Professional & Other Places::Medical Center",33.88872528076172,-84.38289642333984
+"4bb34747a32876b0407701fe","5901 Peachtree Dunwoody","Professional & Other Places::Office",33.91696577112542,-84.3499481678009
+"4bb367792397b713de0938b3","Woolfson Eye Institute","Professional & Other Places::Medical Center::Doctor's Office",33.92933091159121,-84.36045098166117
+"4bb377ab35f0c9b65a65bc83","A Royal Affair Cafe","Food::American Restaurant",33.91596221923828,-84.38140869140625
+"4bb3c030715eef3b75c986bb","Rite Aid","Shop & Service::Drugstore / Pharmacy",33.87893577528482,-84.38057899475098
+"4bb4854d87aa9521ec37add1","Glenridge Highlands One","Professional & Other Places::Office",33.90380099830846,-84.35982974359077
+"4bb4b10ea70595212a881bce","International School of Skin & Nailcare","Shop & Service::Spa / Massage",33.9090646765887,-84.3792185278027
+"4bb517c42f70c9b601b88330","Quiznos","Food::Fast Food Restaurant",33.93594897,-84.377144
+"4bb52a21941ad13a23da1de3","STAND UV & Spray Tanning - Sandy Springs","Shop & Service::Tanning Salon",33.93622910354698,-84.37703202604712
+"4bb5f828941ad13af2b21ee3","Peachtree Spine Physicians Inc.","Professional & Other Places::Medical Center::Doctor's Office",33.90557345,-84.35235026666668
+"4bb743b01344b71371809e04","Steel Canyon Golf Club","Outdoors & Recreation::Athletic & Sport::Golf Course",33.96765493797228,-84.37302589416504
+"4bb8c82553649c74a85047fb","Cherokee Town and Country Club- Country Club","Food::American Restaurant",33.99098921967444,-84.363495467053
+"4bba43ebcf2fc9b65c59a102","Atlanta ENT, Sinus & Allergy Associates, P.C.","Professional & Other Places::Medical Center::Doctor's Office",33.905929,-84.35205006666666
+"4bbbb1573de8c9b6421a9aad","Nails Talk & Tan Spa","Shop & Service::Tanning Salon",33.93366622924805,-84.34954071044922
+"4bbc90b6e5b0d13a10606f7c","BCD Travel","Professional & Other Places::Office::Coworking Space",33.917114825178274,-84.35569141238506
+"4bbca2af8a4fb71360ea3b9d","Wells Fargo","Shop & Service::Bank",33.90724282005581,-84.36030149459839
+"4bbdeb2e07809521f01edb91","Eric Mower And Associates - Atlanta","Professional & Other Places::Office",33.92734146118164,-84.34909057617188
+"4bbe9e3682a2ef3ba8bc2bd2","North Springs Charter School of Arts & Sciences","Professional & Other Places::School::High School",33.95691560053107,-84.36287939499819
+"4bbf9826b492d13a2ceda260","Euro Salon","Shop & Service::Salon / Barbershop",33.994528,-84.34969
+"4bc0a280b492d13a8e88a460","J. Christopher's","Food::Breakfast Spot",33.920738220214844,-84.38182067871094
+"4bc0a2d3920eb713b635192c","Azalea Park","Professional & Other Places::Building",33.9942135176231,-84.3451337598679
+"4bc0bf75abf495218ec8bf93","Express Oil Change","Shop & Service::Automotive Shop",33.91398239135742,-84.37872314453125
+"4bc11489920eb71362351a2c","Baskin Robbins","Food::Ice Cream Shop",33.91914749145508,-84.38229370117188
+"4bc321cab492d13a5049a860","Sandy Springs Municipal Court","Professional & Other Places::Government Building::Courthouse",33.971622467041016,-84.3603515625
+"4bc3239a74a9a593eb16d4f6","BP","Shop & Service::Gas Station / Garage",33.91881763603789,-84.37868267297745
+"4bc32fcf461576b0af3e7e32","Sandy Springs Billiards","Arts & Entertainment::Pool Hall",33.91636924837674,-84.38233852386475
+"4bc33d4d2a89ef3bc2b3f488","U.S. Post Office","Professional & Other Places::Post Office",33.9608743965375,-84.3646574020386
+"4bc33d51dce4eee11582719d","La Quinta Inn & Suites Atlanta Perimeter Medical","Travel & Transport::Hotel",33.925077500745985,-84.35214844176375
+"4bc33dccdce4eee14282719d","Fairfield Inn & Suites Atlanta Perimeter Center","Travel & Transport::Hotel::Motel",33.91834750727106,-84.34823552283227
+"4bc350d5dce4eee1768b719d","Microtel","Travel & Transport::Hotel::Motel",33.9255720376968,-84.352071
+"4bc389eb74a9a59322b1d4f6","Fleet Feet Sports","Shop & Service::Clothing Store::Shoe Store",33.92584407100068,-84.38055810499122
+"4bc39b24dce4eee18eac719d","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",33.918532639226896,-84.35947548093655
+"4bc449e72a89ef3b770ff688","AJC International Inc.","Professional & Other Places::Office",33.8970520848001,-84.3815794479761
+"4bc48ff9b492d13aa22daa60","RBS worldpay","Professional & Other Places::Office",33.96904749319333,-84.36557979646476
+"4bc4bd24abf49521987dc593","Kroger","Shop & Service::Miscellaneous Shop",33.982582330481534,-84.34844093184807
+"4bc519d34a9aa593601c067b","Main Stage","Nightlife Spot::Strip Club",33.898765563964844,-84.38040924072266
+"4bc660e351b376b01f891b6f","Avistele at Andalusia","Residence::Residential Building (Apartment / Condo)",33.88439294279382,-84.37984469411113
+"4bc70dd614d79521609d66e9","Tensar International Corporation","Professional & Other Places::Office",33.91644,-84.36026394367218
+"4bc72f89af07a593d8a47e2d","RR Donnelley","Professional & Other Places::Office",33.934162,-84.35993
+"4bc7672f6501c9b67f5d3e29","Whittmanhart","Professional & Other Places::Office",33.92073333263397,-84.38831448554993
+"4bc7784215a7ef3b407779da","Sandy Springs Playground","Outdoors & Recreation::Playground",33.929367,-84.364491
+"4bc9b4283740b713e8145f65","Mt. Vernon Baptist Church","Professional & Other Places::Spiritual Center::Church",33.90649030030093,-84.41382732044735
+"4bc9b967cc8cd13a2602bccf","Northside Interchange Building","Professional & Other Places::Office",33.912957199981115,-84.35413047761715
+"4bc9ede3511f95218c8caec7","Starbucks - Kroger","Food::Coffee Shop",33.92003141,-84.3791749413116
+"4bc9fcaa511f952199b5aec7","Chattahochee River National Recreation Area Palisades: Indian Trail","Outdoors & Recreation::Hiking Trail",33.884409102925154,-84.43699791845962
+"4bca0a9bfb84c9b6403d1c3e","New York Butcher Shoppe","Shop & Service::Food & Drink Shop::Butcher",33.890311,-84.3810886144638
+"4bcb3339b6c49c7422a69191","CD Warehouse","Shop & Service::Record Shop",33.937488636893285,-84.38073773946284
+"4bcb6f2c68f976b0551a6183","Chastain Terrace","Residence::Residential Building (Apartment / Condo)",33.88721670860783,-84.37905941890996
+"4bcc997afb84c9b65bab203e","Costco Gasoline","Shop & Service::Gas Station / Garage",33.92868392522477,-84.35286372900009
+"4bccd3f2fb84c9b63d1c213e","Pier 1 Imports","Shop & Service::Furniture / Home Store",33.926410759999996,-84.37859
+"4bcce090511f9521edd4b3c7","Courtside Grille","Food::American Restaurant",33.916446685791016,-84.35518646240234
+"4bccf3aab6c49c7479bf9491","Wendy's","Food::Burger Joint",33.905582427978516,-84.4290542602539
+"4bcf1f020adfb713560eaf55","Great Clips","Shop & Service::Salon / Barbershop",33.90787502366638,-84.37960267066956
+"4bcf505fcaff9521b6edccf0","Dunwoody Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",33.9662496842504,-84.31288427367097
+"4bcf5192462cb7132c7ad607","Soleras salon","Shop & Service::Cosmetics Shop",33.91879392164666,-84.37783272624645
+"4bd1d4e041b9ef3b56b0fce5","Northpark Newsstand","Shop & Service::Convenience Store",33.933784033928,-84.35250788325634
+"4bd1f9f1046076b0b4f07271","Starbucks - Cumberland Mall","Food::Coffee Shop",33.90317153930664,-84.3795166015625
+"4bd2176e9854d13ad9edfa4d","Chevron Station","Shop & Service::Gas Station / Garage",33.98113463,-84.349824
+"4bd32510046076b09a437571","St John's UMC","Professional & Other Places::Spiritual Center::Church",33.8842371418247,-84.4055066503258
+"4bd3792f046076b000347671","Il Forno NY Pizza & Pasta","Food::Italian Restaurant",33.90987400282129,-84.37909841537476
+"4bd38ab29854d13ad91afe4d","Gigi Cupcakes","Food::Bakery",33.920440673828125,-84.36317443847656
+"4bd57b597b1876b084bf8a86","Westin Lakeside Grill","Food::Breakfast Spot",33.915863037109375,-84.35452270507812
+"4bd59f996798ef3b799d638d","Cox Dining Center","Food::Café",33.92533493041992,-84.35037231445312
+"4bd5c6349649ce72c6a7511d","Crowne Plaza","Travel & Transport::Hotel",33.90574849284732,-84.4301471846117
+"4bd5d3367b1876b0856f8b86","American Café","Food::American Restaurant",33.93469928582923,-84.35435771942139
+"4bd5eae629eb9c74fb3194e1","Just Fitness 4U Sandy Springs","Shop & Service::Gym / Fitness Center::Gym",33.92775928798068,-84.3776736136115
+"4bd5ec2ccfa7b71305b026da","Schlesinger & Associates","Professional & Other Places::Office",33.91700118428706,-84.34958093890162
+"4bd6b1275631c9b6b335a630","Crossfit Perimeter","Shop & Service::Gym / Fitness Center::Gym",33.93659527146604,-84.37770366668701
+"4bd6df9c7b1876b0df208d86","Northpark - Building 500","Professional & Other Places::Office",33.933706022999026,-84.35288272705361
+"4bd6ff517b1876b01d5f8d86","Avalon Townhomes Sales Center","Professional & Other Places::Building",33.99445147156073,-84.34731960296631
+"4bd75cc935aad13a2fb78ef3","Marquitos","Food::Mexican Restaurant",33.992095947265625,-84.35285949707031
+"4bd8c1c35cf276b09c919d00","Morgan Falls Ballpark","Outdoors & Recreation::Athletic & Sport::Baseball Field",33.965881761822715,-84.36660139900846
+"4bd8d23911dcc92804fdf733","Clay's Sports Cafe","Food::Wings Joint",33.93285672806091,-84.38033227802124
+"4bd980f52e6f0f4767c20a08","Atlanta Plastic Surgery P.C.","Professional & Other Places::Medical Center::Doctor's Office",33.9073927305675,-84.3561945996644
+"4bda15872a3a0f4704b1a9b6","Fulton County Republican Party Headquarters","Professional & Other Places::Event Space",33.916469,-84.380473
+"4bdae6db2a3a0f47cd72acb6","Northside Medical Center (960)","Professional & Other Places::Medical Center::Hospital",33.90812267257017,-84.35586847364902
+"4bdaf4450ef39c74d2c61d2d","Sandy Springs Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",33.9250584805195,-84.38199520111084
+"4bdc7048c79cc928018c86e9","Marta Southbound Train","Travel & Transport::Light Rail",33.945078,-84.35716134
+"4bdcad723904a593eb414f9e","MARTA- North Springs Parking Level 4","Professional & Other Places::Parking",33.944963466423744,-84.35718555798881
+"4bdecf3d0ee3a59370e431b0","The Prado","Shop & Service::Miscellaneous Shop",33.90810653367478,-84.3799352645874
+"4bdef81b17fdef3b41b34e36","ReachLocal Atlanta","Professional & Other Places::Office",33.9033330910282,-84.35999917280404
+"4bdf00fc0ee3a5939da032b0","Fast Frames","Shop & Service::Arts & Crafts Store",33.93561058642094,-84.3785666918713
+"4bdf0d84e75c0f473abdc903","The Art Institute Of Atlanta 600 Building","College & University::College Academic Building::College Arts Building",33.937245837692025,-84.35478258367455
+"4bdf20d7e75c0f4719fac903","McDonald's","Professional & Other Places::Office",33.93442471653667,-84.35964491116694
+"4be04e76f92c20a1e926bad3","The Pavilion at Lake Hearn","Professional & Other Places::Building",33.9132194519043,-84.34934997558594
+"4be08621652b0f47e1b97211","Workout Anytime","Shop & Service::Gym / Fitness Center::Gym",33.91867016356135,-84.35017660951019
+"4be0a29398f2a593fce8c25a","Sandy Springs Funhouse","Arts & Entertainment::Arcade",33.936607360839844,-84.3786392211914
+"4be160f3c1732d7f98cc5b9a","Dominion Orthopaedic","Professional & Other Places::Medical Center::Doctor's Office",33.906002044677734,-84.35218811035156
+"4be1d13d87e42d7fd4fc870b","Atlanta School of Sleep Medicine & Technology","Professional & Other Places::Office",33.906812508392036,-84.34927283105701
+"4be1f17887e42d7ffb6b880b","GA400 Traffic","Travel & Transport::General Travel",33.953981,-84.357477
+"4be2b867d27a20a1c722905b","Piedmont Physicians","Professional & Other Places::Medical Center::Doctor's Office",33.8879481,-84.382225
+"4be2f420660ec928d3afca3b","Papa John's Pizza","Food::Pizza Place",33.9954871,-84.350227
+"4be3097421d5a593b1031811","ESIX - Entertainment & Sports Insurance eXperts","Professional & Other Places::Office",33.90963,-84.430024
+"4be41223cf200f47a06b113c","Wash Factory Car Wash","Shop & Service::Miscellaneous Shop",33.98680628,-84.3500518
+"4be49117d4f7c9b634562420","IBM Security Services - Global Threat Operations Center","Professional & Other Places::Office",33.927728856732976,-84.35941386982307
+"4be833e4c5220f47206da9ca","Uncle Brunos","Food::Deli / Bodega",33.91493232623474,-84.36079497017602
+"4be84100c5220f473781a9ca","Primary Care Physicians Center, PC","Professional & Other Places::Medical Center::Doctor's Office",33.897135086885605,-84.38119452179471
+"4be855e3ee96c928ddf6fdbf","The Coca-Cola Company","Professional & Other Places::Office",33.98992052976874,-84.3416415139745
+"4be952d788ed2d7f2bcecc1d","Kroger Gas","Shop & Service::Gas Station / Garage",33.91962055677856,-84.38264696342488
+"4be95bdea117b7133a8181c8","Atlanta Apartment Association","Professional & Other Places::Office",33.99051284790039,-84.33983612060547
+"4bebe570415e20a121c9e6bb","Century Perimeter Park","Residence::Residential Building (Apartment / Condo)",33.923634076965726,-84.35375690460205
+"4bebea5561aca59321878500","Metropolitan Dermatologic Surgery","Professional & Other Places::Medical Center::Doctor's Office",33.90640132005404,-84.35943440686805
+"4bec06c962c0c928acc9e2d4","Women's Center @ Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.908443450927734,-84.35283660888672
+"4bec206762c0c9286fece2d4","Teela Taqueria","Food::Taco Place",33.92078519840735,-84.38289642333984
+"4bec2a50a9900f47fea51840","Henri's Bakery","Food::Bakery",33.926700592041016,-84.37858581542969
+"4bed8c7e91380f47eb11a018","Three Dollar Cafe","Food::Wings Joint",33.98838159226264,-84.35094172932175
+"4beda38b6e8c20a146ad7061","Ridgeview Charter School","College & University::General College & University",33.89770419268002,-84.35949601796008
+"4bf17335ef99c9b6c44f5b42","Churchs Chicken - corporate office","Professional & Other Places::Office",33.9200017401026,-84.355902671814
+"4bf2d09e98ac0f47502b62a8","Georgia Dermatologic Surgery Centers, P.C.","Professional & Other Places::Medical Center::Doctor's Office",33.914692,-84.350407
+"4bf31636c440c9b6fd8a0104","Big Trees Forest Preserve","Outdoors & Recreation::Hiking Trail",33.96432879883078,-84.36299234202319
+"4bf54918ff90c9b6a3275628","One Glenlake","Professional & Other Places::Office",33.934095239949876,-84.36000430701503
+"4bf5a5009abec9b61f5d24e8","Sanctuary Salon","Shop & Service::Salon / Barbershop",33.923199131599034,-84.35256436672053
+"4bf6bbb7b182c9b63a66745a","Uncle Julio's","Food::Mexican Restaurant",33.9210344790844,-84.35109615325928
+"4bf6fbb0508c0f47de263d31","Massage Envy","Professional & Other Places::Building",33.931938,-84.348688
+"4bf7ea32b182c9b6c56e765a","McDonalds","Food::Fast Food Restaurant",33.90790557861328,-84.35441589355469
+"4bf8193e5ec320a1b21b88d3","Deerfield East II Pool","Outdoors & Recreation::Pool",33.9570289850235,-84.28528547286987
+"4bf864a75efe2d7f7eb96a34","Bella Roma","Food::Italian Restaurant",34.319305419921875,-85.1724624633789
+"4bf96b4b328d76b0d69914ec","WinShape Retreat Center","Professional & Other Places::Event Space",34.323307037353516,-85.24017333984375
+"4bfa83045317a59319bb027f","Lee Hecht Harrison","Professional & Other Places::Office::Coworking Space",33.93397686656526,-84.35436153964254
+"4bfaa4578d30d13a4cdf0318","United States Postal Serve","Professional & Other Places::Post Office",33.94589765766394,-84.362357
+"4bfc0e6b1be376b0ce16f8b4","Porsche Cars North America","Professional & Other Places::Office",33.91985163518314,-84.35641025004243
+"4bfecd3cca1920a11ddeeb81","PerformanceIT","Professional & Other Places::Office",33.93726286199277,-84.35487270355225
+"4bfedf66369476b0f7fc8c1f","CityGrid Media","Professional & Other Places::Office",33.92911,-84.35798118333334
+"4c00046637850f471a94973f","Medical Towers","Professional & Other Places::Medical Center::Doctor's Office",33.90585708618164,-84.35233306884766
+"4c00394dc30a2d7f3b3b121d","Adams Imagery","Shop & Service::Cosmetics Shop",33.92209554812899,-84.357927
+"4c013f36de3376b06181f9a4","Classic cuts barber shop","Shop & Service::Salon / Barbershop",33.941198,-84.37487
+"4c03f1069a7920a10e8cd079","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.92750661847928,-84.37966704368591
+"4c044e469a7920a15622d179","China Cooks","Food::Chinese Restaurant",33.910587310791016,-84.3799819946289
+"4c062c2413b99c743060aff3","Children's Healthcare Of Atlanta At Scottish Rite","Professional & Other Places::Medical Center::Hospital",33.905886,-84.353932
+"4c06658091d776b014c3f8f9","Concourse Five","Professional & Other Places::Office",33.91723220046506,-84.35485960359942
+"4c0681088f8fa5936a61f30d","Cross Chiropractic Center","Professional & Other Places::Medical Center::Doctor's Office",33.92023058511432,-84.34962201982613
+"4c07be00c69aa59383b39ba2","Goodwill","Shop & Service::Thrift / Vintage Store",33.929144606043295,-84.34941172599792
+"4c07e04a6071a5931757db32","InSight Eye Care","Professional & Other Places::Medical Center::Doctor's Office",33.901364,-84.37972911
+"4c07e0fdbbc676b0ec9f45d5","Discover Sewing","Shop & Service::Hobby Shop",33.924953023713265,-84.38365800589058
+"4c092213009a0f479f2ce7bf","Kforce Inc. Atlanta","Professional & Other Places::Office",33.91985111775568,-84.35580437316807
+"4c0aee5b6071a5932c84e032","Riverside Drive","Travel & Transport::General Travel",33.933947739385914,-84.40725090810312
+"4c0baf767e3fc9280b98f582","Holy Innocents' Episcopal School","Professional & Other Places::School::High School",33.90875064223077,-84.41380680236463
+"4c0c2139bbc676b02fa24cd5","Nori Nori","Food::Sushi Restaurant",33.937801361083984,-84.37911987304688
+"4c0c24856a3bb713eeb172c7","Edgewater at Sandy Springs","Residence::Residential Building (Apartment / Condo)",33.96414905621238,-84.37568664550781
+"4c0d9061c700c9b651a6a2dd","Kroger Fuel Service","Shop & Service::Gas Station / Garage",33.88962262858136,-84.38185146096085
+"4c0e315fadcd9c74e4a702f6","AAA Travel & Insurance","Travel & Transport::General Travel",33.87902436027302,-84.38012698002461
+"4c0e4f9fd64c0f47d0ee275d","Regional Medical Group","Professional & Other Places::Medical Center::Doctor's Office",33.90066146850586,-84.37950134277344
+"4c0e69462466a593ddf97821","SUPERCUTS","Shop & Service::Salon / Barbershop",33.936069,-84.378032
+"4c112cf681e976b0fd5b10eb","Dental TLC","Professional & Other Places::Medical Center::Dentist's Office",33.923219522241766,-84.37770440963891
+"4c13bc567f7f2d7fec8fdf68","Beer Connoisseur Festival","Nightlife Spot::Beer Garden",33.90780508518219,-84.379757
+"4c152f397f7f2d7f8e0ee268","Nails For You","Shop & Service::Salon / Barbershop",33.993859276218984,-84.3500893133312
+"4c16310f7f7f2d7f4488e368","Lennar Atlanta","Professional & Other Places::Office",33.91946792602539,-84.36246490478516
+"4c16332ca1010f471e184f18","Gallery 63","Arts & Entertainment::General Entertainment",33.87989044189453,-84.37977600097656
+"4c163e2d77cea593ef58d360","Gifford Hillegass Ingwersen","Professional & Other Places::Office",33.9166538375965,-84.3553627979691
+"4c16b4a56470a593e74157d2","Gigi's Cupcakes","Food::Cupcake Shop",33.920705072320565,-84.35054361820221
+"4c17af1830d30f4782e336a9","Five Guys","Food::Burger Joint",33.92678108674746,-84.37827497720718
+"4c1a577855e4c9b63b944723","Ten Glenlake","Professional & Other Places::Office",33.935665130615234,-84.36170196533203
+"4c1a6d4455e4c9b6f7ba4723","Premier Plaza","Professional & Other Places::Office",33.90688565952759,-84.36259189250428
+"4c1ab44b8b3aa593f613965f","Costco Tire","Shop & Service::Automotive Shop",33.928157806396484,-84.35447692871094
+"4c1b8081c09ed13a3e7d828e","Georgia Urology","Professional & Other Places::Medical Center::Doctor's Office",33.903637,-84.353639
+"4c1c2192b4e62d7f9ba2da93","Redbox","Shop & Service::Video Store",33.960401754676354,-84.36610856782968
+"4c1ceb98eac020a1bb3f47c2","Perimeter Center West","Professional & Other Places::Office",33.9294906818685,-84.35035120148103
+"4c1cf5d1b9f876b020ba7c46","285 East","Travel & Transport::General Travel",33.91037368774414,-84.363525390625
+"4c1e1eb1b306c928c88366b7","Palm Beach Tan","Shop & Service::Tanning Salon",33.926979064941406,-84.37835693359375
+"4c226b4e7e85c92872febb21","Chamblee Dunwoody Exit Off 285","Travel & Transport::General Travel",33.91154396725153,-84.35732165202455
+"4c2497d7c11dc9b62ea32524","University of Phoenix","College & University::College Academic Building",33.9805757041494,-84.3417288226372
+"4c24c65fa852c92872a1e36c","DOLLAR TREE","Shop & Service::Miscellaneous Shop",33.98286437988281,-84.34916687011719
+"4c24d69dc11dc9b629182624","Labor and Delivery @ Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.9096278734223,-84.35510606668373
+"4c254061b7b8a593eaf23de8","Act 3 Playhouse","Arts & Entertainment::Performing Arts Venue::Theater",33.92654800415039,-84.37773132324219
+"4c263ca3a852c928983be66c","Sandy Springs Ford","Shop & Service::Automotive Shop",33.96204208723962,-84.36456844385461
+"4c26918ca852c928f7ebe66c","Pizza hut","Food::Pizza Place",33.9810401201248,-84.3510907888412
+"4c278be8c11dc9b6b3be2a24","Subway","Food::Sandwich Place",33.9044223334488,-84.43074434995651
+"4c28a99297d00f47f22540ea","IntercontinentalExchange (ICE)","Professional & Other Places::Office",33.90763874406896,-84.44066909020196
+"4c28adf99fb5d13ae4e59957","6000 Lake Forrest Drive","Arts & Entertainment::General Entertainment",33.919960021972656,-84.38920593261719
+"4c28b5e1ed0ac9b6979a60aa","Costco","Shop & Service::Miscellaneous Shop",33.92845914768902,-84.35467958450317
+"4c28b8829fb5d13aeff79957","Palisades","Professional & Other Places::Office",33.916965568607075,-84.34950391209117
+"4c29030bfe6e2d7fe12a543c","Buckhead Uniforms","Shop & Service::Clothing Store",33.927152,-84.3783169
+"4c2d0a317d85a593cbec51f3","The Chastain School","Professional & Other Places::School",33.88823942136944,-84.380712077429
+"4c2d89f1e116e21e4fd68e60","Park towers II","Residence::Residential Building (Apartment / Condo)",33.9174650070503,-84.359952964885
+"4c2e062c7d85a5939b8b53f3","Arch Chemicals","Professional & Other Places::Office",33.908267974853516,-84.43026733398438
+"4c2e1597260bc928e40b1bd3","Northpark - Building 600","Professional & Other Places::Building",33.93322426131759,-84.35207141830209
+"4c2ee9173896e21e3422e390","The Residences at Morgan Falls","Residence::Residential Building (Apartment / Condo)",33.96600546096274,-84.35753983438889
+"4c2f4bd7213c2d7f5c8d305d","Chevron Station","Shop & Service::Gas Station / Garage",33.910699969041474,-84.37876173015015
+"4c3157403ffc9521510390f5","IntercontinentalExchange (ICE)","Professional & Other Places::Office",33.90763874406896,-84.44066909020196
+"4c325a3e66e40f476b62c68b","Gyro & Teryaki","Food::Asian Restaurant",33.93680953979492,-84.37773132324219
+"4c33ce8709a99c74c3f20b2a","Huntcliff Equestrian Center","Outdoors & Recreation::Stables",33.98357229851889,-84.37330554737642
+"4c35df54452620a1335f270f","5901 Peachtree Dunwoody","Professional & Other Places::Office",33.91696577112542,-84.3499481678009
+"4c3725e43849c9285923bdb1","Northpark Building 400","Professional & Other Places::Office",33.93450981079415,-84.35433073142474
+"4c38966018e72d7fbf8c18f5","Bridal Sense","Shop & Service::Bridal Shop",33.93530051922122,-84.37985495907714
+"4c3932251a38ef3b6cd09221","Aperturent.com","Shop & Service::Miscellaneous Shop",33.92034822,-84.378343
+"4c3b4fe9be4620a182240c13","Dr Bhansali's Office","Professional & Other Places::Medical Center::Doctor's Office",33.917042,-84.361262
+"4c3bb0aad94dc9b61d3f00e8","North GA 400","Travel & Transport::General Travel",33.96163,-84.353338
+"4c3c93417d00d13ab1133950","Meineke Car Care Center","Shop & Service::Automotive Shop",33.98915129,-84.351842
+"4c3d06357d002d7f584caf18","Ross","Shop & Service::Clothing Store",33.91311127,-84.3883627653122
+"4c3d6b93a97bbe9a5fdcfbdd","SleepMed-Dunwoody","Professional & Other Places::Medical Center::Doctor's Office",33.92068099975586,-84.34916687011719
+"4c3ddecaa97bbe9ac568fcdd","OUForU","Food::Mediterranean Restaurant",33.918235778808594,-84.3499984741211
+"4c404f69d7fad13adbb805da","Flavor Cafe & Bakery","Food::Café",33.92558537211088,-84.37975744182786
+"4c42069fd691c9b677af8d0a","Datascape, Inc.","Professional & Other Places::Office",33.971078,-84.361381
+"4c444a0e8c1f20a1b7253c99","The Blood and Marrow Transplant Group Of Georgia","Professional & Other Places::Medical Center::Doctor's Office",33.90997966994765,-84.35269787287565
+"4c45d272f97fbe9a1a13bd30","Solar Nails","Shop & Service::Spa / Massage",33.918464,-84.378527
+"4c46eb8596abd13a7e0b6f01","Rock 100.5","Arts & Entertainment::General Entertainment",33.90718078613281,-84.36255645751953
+"4c49a9de20ab1b8d433f1417","Liveperson Atlanta","Professional & Other Places::Office",33.9269045,-84.34822711
+"4c4a5f8b9e6dbe9adc32720a","Atlanta","::Travel & Transport",33.9009491091157,-84.42356747089794
+"4c4b143c9e6dbe9a2e30830b","The Concourse","Professional & Other Places::Office",33.91727828979492,-84.35506439208984
+"4c4c285b9e6dbe9af22e100d","Powers Ferry Animal Hospital","Professional & Other Places::Medical Center::Doctor's Office",33.907402753829956,-84.42911088466644
+"4c4c46c042b4d13abe10db7f","Sandy Springs Heritage Park","Outdoors & Recreation::Park",33.92170457104564,-84.38253918630087
+"4c4de945ea24c9b63d1dd514","960 Building","Professional & Other Places::Medical Center::Doctor's Office",33.90827941894531,-84.35582733154297
+"4c4ed35e1b8e1b8d1cd9c927","McCalla Raymer, LLC","Professional & Other Places::Office",33.917061238291936,-84.35564006650316
+"4c501ef0dcb5d13a0bfa7208","PCW Fitness Center","Shop & Service::Gym / Fitness Center",33.929929,-84.351048
+"4c50621e2ba0ef3b05ed5de8","Glenridge Walk Apartments","Residence::Residential Building (Apartment / Condo)",33.9019515653998,-84.35162468024322
+"4c508186905db71367b47bf3","Team In Training GTS -The River","Outdoors & Recreation::Other Great Outdoors",33.906657099723816,-84.43453
+"4c5093e50ef3a5939e2b977a","Absolute health chiropractic","Professional & Other Places::Medical Center::Doctor's Office",33.91537094116211,-84.38397979736328
+"4c518ddf0ef3a5937f2a307c","Perimeter North Family Medicine","Professional & Other Places::Medical Center::Doctor's Office",33.90812158584595,-84.356061
+"4c521e387f6e20a103b82deb","Hong Kong City","Food::Chinese Restaurant",33.960845947265625,-84.36408996582031
+"4c52f0699426c928a4470776","Concourse One","Professional & Other Places::Office",33.91617202758789,-84.35350036621094
+"4c5353f7728920a1271ee380","Chattahoochee River National Recreation Area","Outdoors & Recreation::Other Great Outdoors",33.998566,-84.329258
+"4c55a2d5fd2ea59365ac152c","Nancy G's Cafe","Food::American Restaurant",33.88874053955078,-84.3691177368164
+"4c561d4819160f473d734bb4","Empire Diner","Food::Diner",33.91667175292969,-84.38170623779297
+"4c571bb9cc96c9b60537782e","Children's Orthopaedics of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.9073472443042,-84.3532010856701
+"4c57b7ccb7a31b8d0df950da","Alara Highland Park","Residence::Residential Building (Apartment / Condo)",33.984994410474386,-84.34378310688811
+"4c582d5d30d82d7f626ddb62","Atlanta Womens Specialist","Professional & Other Places::Medical Center::Doctor's Office",33.90352249145508,-84.35388946533203
+"4c58aa316407d13a486cb028","Classic Cadillac","Shop & Service::Automotive Shop",33.96460863374455,-84.36464031720129
+"4c596ca37b049521c6e0881f","Ansley Place","Residence::Residential Building (Apartment / Condo)",34.000340277459586,-84.34442505607069
+"4c59a835b05c1b8d7f4ed6b1","Sandy Springs Gun Club And Range","Shop & Service::Sporting Goods Shop",33.974569579683056,-84.35545008635174
+"4c5b299c6bbdc9b6eb846c63","Budget Car and Truck Rental of Atlanta - Sandy Springs","Travel & Transport::Rental Car Location",33.933295072073,-84.37989234924316
+"4c5c49b66ebe2d7ffea0cf2e","Tacomac","Food::Taco Place",33.90793991088867,-84.37965393066406
+"4c60016d3a3703bb151be406","Pizza Hut","Food::Pizza Place",33.92983627319336,-84.3789291381836
+"4c603d27b6f3be9a48c55e73","Congregation B'nai Torah","Professional & Other Places::Spiritual Center::Synagogue",33.92917912000291,-84.36336198532041
+"4c6153e3de6920a1b5fe9764","Concourse Four","Professional & Other Places::Office",33.91721305479133,-84.35272354710163
+"4c6156511e5cd13a32bca3ed","The Baldwin Group","Professional & Other Places::Office",33.95304576666667,-84.38349516666666
+"4c61be22e1621b8d12ce2153","Corporate Commons","Professional & Other Places::Office",33.881980895996094,-84.37821960449219
+"4c62949779d1e21ea459d615","Chattahoochee","Outdoors & Recreation::Lake",33.938303464227715,-84.39612781272525
+"4c6316e1ec94a5936ceb2aca","Marshalls","Shop & Service::Department Store",33.92817847,-84.37768234
+"4c63621d58810f4734c6091e","Prado Parking Deck","Professional & Other Places::Parking",33.90784068382802,-84.37968045441178
+"4c669dcb7abde21ea5d86368","Bank of America - Sandy Springs","Shop & Service::Bank",33.92083733131417,-84.37858208965362
+"4c69ec87c946e21e5897eb8e","Ma Bell's House Of Pain","Nightlife Spot::Other Nightlife",33.909910366666665,-84.36232087
+"4c6d2e0cf2846dcb6bcd64e9","1117 perimeter center west","Professional & Other Places::Office",33.93085861206055,-84.3517837524414
+"4c6d8341e6b7b1f77cf5a98e","Davis Academy Middle School","College & University::College Academic Building",33.97163691891883,-84.33944334749532
+"4c7296304bc4236a5396cb7a","Thai Star Cafe","Food::Thai Restaurant",33.918547177005124,-84.35026390556013
+"4c743a60c219224ba6419f28","FC buckhead soccer fields","Outdoors & Recreation::Athletic & Sport::Soccer Field",33.88644817903755,-84.35554764380315
+"4c76b91b07818cfa513bd2e3","Ingenious Med","Professional & Other Places::Office",33.9087918527111,-84.4313368904078
+"4c77abd907818cfa5d17d5e3","Concourse Six","Professional & Other Places::Office",33.9172376773908,-84.3556708740377
+"4c796090df08a1cd427fda5d","Lamborghini Atlanta","Shop & Service::Automotive Shop",33.97156291503772,-84.35865399413474
+"4c797c6ea868370488d1104d","C and A's APT","Arts & Entertainment::Comedy Club",33.96804428100586,-84.26451873779297
+"4c7b7a88a8683704da72164d","Aldridge Connors, LLP","Professional & Other Places::Office",33.90793401716746,-84.362643
+"4c801f93d34ca143cb661680","Peachtree Tickets","Shop & Service::Miscellaneous Shop",33.916015625,-84.35013580322266
+"4c88fc9c94f5a093e618d41e","Crazy People Doctor","Professional & Other Places::Medical Center::Doctor's Office",33.92105843901253,-84.3506079534417
+"4c893e590074199c18852370","Cuts Inc For Men","Shop & Service::Salon / Barbershop",33.888617,-84.383211
+"4c894ed48992236ae24eb782","Plaza 400","Professional & Other Places::Office",33.916622161865234,-84.36061096191406
+"4c8c635c5e38b1f7316531f9","The Mosaic at Sandy Springs Apartments","Residence::Residential Building (Apartment / Condo)",33.91015460571101,-84.37326961599449
+"4c8f8a9cdaa937041a8d55b1","CH2M HILL Atlanta","Professional & Other Places::Office",33.9336295687918,-84.354063726197
+"4c900ba37f3d76b0eb4cd1d2","The Golden Nail","Shop & Service::Nail Salon",33.936075212131485,-84.37787892015677
+"4c90d86eaa03b713559b1ff5","Gwinnett College - Sandy Springs","College & University::General College & University",33.9372539608202,-84.3784761428833
+"4c92449651d9b1f771758746","Uncle Julio's","Food::Latin American Restaurant",33.921424865722656,-84.35114288330078
+"4c96557794a0236a0e019e12","Tilted Kilt Pub & Eatery","Nightlife Spot::Pub",33.93278545469797,-84.3512624502182
+"4c9a7b6878ffa093a8cd6c75","Batman's Secret Lair & Superhero Hang Out","Nightlife Spot::Speakeasy",33.90401049452641,-84.36038732528687
+"4c9a9762292a6dcb6658d076","Morgan Falls Overlook Park","Outdoors & Recreation::Park",33.970035117969914,-84.37996745109558
+"4c9ddeb403133704c2da62d5","Doug Kessler 5K/10K","Shop & Service::Gym / Fitness Center::Track",33.92349736669569,-84.3603945057432
+"4c9e0acb7c096dcb41cbd0d1","Sandy Springs Festival","Arts & Entertainment::Theme Park",33.91915512084961,-84.38440704345703
+"4ca22b0146978cfa6d68c27f","Tin Can Fish House & Oyster Bar","Food::Seafood Restaurant",33.92103057857449,-84.38291897148
+"4ca35587d7c337044dec9f62","Haverty Furniture Companies, Inc.","Professional & Other Places::Office",33.90660084427374,-84.36153941606594
+"4ca5ded897c8a1cdc08d6aa5","Physiotherapy Associates","Professional & Other Places::Medical Center",33.91296408249842,-84.34982742402005
+"4ca6376b14c33704ea76bd3b","SIEGE 2010","Professional & Other Places::Event Space",33.906214,-84.430281
+"4ca75d8044a8224b59580c40","The Old Crow","Nightlife Spot::Bar",33.98638654833505,-84.35116253386714
+"4cad105744a8224bef033940","GameStop","Shop & Service::Video Game Store",33.906555,-84.37938656666667
+"4cb32315dedbef3b75d19d40","Breadwinner Cafe and Bakery","Food::Bakery",33.92545,-84.383591
+"4cb5997156fca1cd62c34f18","West Coast Workout","Shop & Service::Gym / Fitness Center",33.92323625668221,-84.3812817719496
+"4cb8925190c9a14309f980d6","Elegant Nails","Shop & Service::Cosmetics Shop",33.97218322753906,-84.35753631591797
+"4cc04a0b97bc721eb8788a67","Fulton County Government Center","Professional & Other Places::Government Building::Courthouse",33.9381837844849,-84.3493473529816
+"4cc1aeeee310224b7b8e316f","Concourse Two","Professional & Other Places::Building",33.91582434217179,-84.35316000723543
+"4cc77217303476b0ac33e16b","#SMATL - Social Fresh Conference","Professional & Other Places::Event Space",33.9351265538829,-84.35999035835266
+"4cc77c3b303476b0433ce16b","#SMATL - Atlanta Business RadioX: Internet Radio and Podcasting Mixer","Professional & Other Places::Event Space",33.91649247,-84.35568183
+"4cceedf3dd919eb0b1be139e","Voting at GREENFIELD HEB ACADEMY","Professional & Other Places::Voting Booth",33.895491,-84.366112
+"4cceedf4dd919eb0f5be139e","Voting at HOLY INNOCENTS EPISCOPAL CH","Professional & Other Places::Voting Booth",33.908917,-84.414315
+"4ccef7fd063a721ee8349d9a","Jersey Subs","Food::American Restaurant",33.88894271850586,-84.38215637207031
+"4cceffbe72106dcb7ca0ac99","Wells Fargo","Shop & Service::Bank",33.90724282005581,-84.36030149459839
+"4cd004587b685481dfc4bef8","BAY Mediation & Arbitration Services, LLC","Professional & Other Places::Office::Conference Room",33.913560016666665,-84.36008132012627
+"4cd04e387f56a1432245cda6","Cox Enterprises Conference Center","Professional & Other Places::Event Space",33.92487335205078,-84.35103607177734
+"4cd1f4fa1ac7a1cd342b2292","680 The Fan","Arts & Entertainment::General Entertainment",33.90755844116211,-84.36206817626953
+"4cd312b7793d224b87094710","Pharmacy at the Medical Tower","Shop & Service::Drugstore / Pharmacy",33.90961682698105,-84.35297001910313
+"4cd41eb5baf2f04d998eb2a3","Consulado de Colombia","Professional & Other Places::Government Building",33.914301,-84.377376
+"4cd59337a76c5941b4f27005","Galla's Pizza","Food::Pizza Place",33.93455312,-84.34828519821167
+"4cd5fbc52944b1f7eb9760ec","R. Rice Wok Grill Sushi","Food::Asian Restaurant",33.92071397522282,-84.35092449188232
+"4ce26eb341ed224be078ef3c","Verizon / Cellular Sales","Professional & Other Places::Office::Conference Room",33.92226133655283,-84.3791107444062
+"4ce56bb15bf68cfa0ed83c17","Aesthetic Solutions Center","Professional & Other Places::Medical Center::Doctor's Office",33.908236,-84.355512
+"4ced513cb80da0930a3a2100","Shell Gas Station","Shop & Service::Gas Station / Garage",33.96836125631422,-84.2588406719596
+"4cf7c76164e3721e0e7528c8","Blimpie Subs & Sandwiches","Food::Sandwich Place",33.9049337683559,-84.4278753948985
+"4cf7f130e308236ad141eeac","IBM - Riveredge 4th Floor","Professional & Other Places::Office",33.908162,-84.436831
+"4cfa4d3f2d80a143b0ae43d8","Brain Tumor Foundation For Children Inc.","Professional & Other Places::Office",33.91902296696797,-84.37891570728266
+"4d022c1d18ff8cfa731ac357","Medical Center Station","Travel & Transport::Bus Station",33.9031871846188,-84.3594087355607
+"4d027899d9dd721e8288ae4e","Jersey Subs","Food::Sandwich Place",33.888851165771484,-84.38227844238281
+"4d03b5eac2e53704da8cb367","Genghis Grill","Food::Restaurant",33.929256437605254,-84.34841930866241
+"4d04e37428926ea8d1f46dc2","B&R Thrift Store","Shop & Service::Thrift / Vintage Store",33.93595303070799,-84.37961886440651
+"4d0ab0699a443704b415b567","Peter Cheng's","Food::Chinese Restaurant",33.90311557282017,-84.43516194820404
+"4d0ac3a1b93b224b9b4548bf","Sandy Springs Gun Club","Shop & Service::Sporting Goods Shop",33.97297668457031,-84.35843658447266
+"4d0c10063bbaa14396a133da","Sandy Springs Neighborhood","Professional & Other Places::Building",33.937397345389,-84.3785564266808
+"4d0fdaec7177b1f774d14d22","Midas","Shop & Service::Gas Station / Garage",33.93467593011603,-84.38016803968117
+"4d10d4845584f04d44235a16","JoJo's Wings & Fish","Food::Wings Joint",33.98657989501953,-84.3510971069336
+"4d1ab7f52a52b60c04f0f1ff","RH Wine Loft","Nightlife Spot::Speakeasy",33.96454620361328,-84.35462188720703
+"4d2306544c4f60fc3b23e6dc","Redbox","Shop & Service::Video Store",33.98274612426758,-84.3485107421875
+"4d2741dd8292236ae5ff0dbb","Obstetrics & Gynecology Of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.906786,-84.349517
+"4d2dce34774f76ebf7bc9533","Coast Dental Sandy Springs","Professional & Other Places::Medical Center::Dentist's Office",33.9615364074707,-84.36454010009766
+"4d333b52f8c9224b297ab8d2","Red Bandana","Shop & Service::Pet Store",33.9261924137364,-84.3812458454309
+"4d35a861eefa8cfa21c556b3","Total Healthcare","Professional & Other Places::Medical Center",33.9375204621959,-84.3799319462652
+"4d41859d1bd2a143da5bfe7c","The Bert Show","Arts & Entertainment::General Entertainment",33.90739822387695,-84.36183166503906
+"4d4449e44e5d3704b69ee993","Ritz Cleaners","Shop & Service::Laundry Service",33.98972511291504,-84.35231387615204
+"4d4477cc0349224bb78afa4e","Eco Day Spa","Shop & Service::Spa / Massage",33.888696,-84.382757
+"4d4b0351183f224b4054eea8","Gino's Classic Barber Shop","Shop & Service::Salon / Barbershop",33.9195387840816,-84.3522119522095
+"4d5178fedcce224b1c70e21b","Corporate Chiropractor","Professional & Other Places::Building",33.91646957397461,-84.34906768798828
+"4d5e886d00942d43686c6ff3","Active Community Chiropractic","Professional & Other Places::Medical Center",33.918588,-84.378326
+"4d626745ef378cfaefa096a6","Georgia Pediatric Pulmonology","Professional & Other Places::Medical Center::Doctor's Office",33.913570404052734,-84.35025024414062
+"4d63dacaa45b54817a4a062d","Heritage Property","Professional & Other Places::Office",33.98242409842285,-84.35225627444127
+"4d63de6b1a83f04df936782b","HoneyBaked Roswell","Professional & Other Places::Office",33.97923278808594,-84.34919738769531
+"4d6abdde8fe6a1434492eba3","Chamblee Dunwoody Exit Off 285","Travel & Transport::General Travel",33.91154396725153,-84.35732165202455
+"4d6be4bc8e10224bb6314eb6","Neel And Robinson Glenridge Ofc","Professional & Other Places::Office::Conference Room",33.903907775878906,-84.35990905761719
+"4d6d9d852e6ea09392821250","Mary Hall Freedom House","Professional & Other Places::Building",33.997135162353516,-84.35253143310547
+"4d6e6fa49af52c0f645c92dd","Augme Technologies","Professional & Other Places::Office::Tech Startup",33.9171987988648,-84.3544231560299
+"4d6fa22a27316ea862dbb2aa","Ninja Multimedia","Professional & Other Places::Office::Tech Startup",33.9040430320096,-84.3602815537451
+"4d7533d8e278f04d42b261b8","6 Concourse Parkway","Professional & Other Places::Office",33.91714859008789,-84.3554916381836
+"4d7e2e5bcd09224b3c4b4530","St Josephs Hospital Doctors Center","Professional & Other Places::Medical Center::Doctor's Office",33.90989303588867,-84.35157775878906
+"4d80f5bc9d78a35d101a4c0f","Locos Grill & Pub","Nightlife Spot::Bar",33.98730224618615,-84.35124982845969
+"4d814515551ea1cd7b682ac5","Dessiah's Hair Studio","Shop & Service::Salon / Barbershop",33.982165,-84.34778058
+"4d82429546fd6ea8cc266f02","Aqua Blue Interactive","Professional & Other Places::Building",33.91719436645508,-84.35572052001953
+"4d84d9ec5e70224b37741509","Chiro 101","Professional & Other Places::Medical Center::Doctor's Office",33.92594909667969,-84.38008117675781
+"4d8618f502eb548164a750f5","Citgo","Shop & Service::Gas Station / Garage",33.89034101818089,-84.38154352163892
+"4d86e9738de9721ee5d36351","Northside Hospital Womens Center","Professional & Other Places::Medical Center::Doctor's Office",33.90968865097317,-84.35496743132542
+"4d8830d7bc848cfaa40fa82b","The Fountains Apartments","Residence::Residential Building (Apartment / Condo)",33.975991655488485,-84.3627048400797
+"4d8d4d8efa9437043e89e6c5","Ross Dress for Less","Shop & Service::Department Store",33.91825485229492,-84.38050842285156
+"4d93aef684a6a35dc87a47b8","Gsu Dunwoody","College & University::College Classroom",33.9173153329012,-84.3501149886914
+"4d9630ea0caaa143956c71b3","Sola Salon","Shop & Service::Salon / Barbershop",33.888295368096905,-84.38054270772533
+"4d9f976ac22f6ea80f4c23a8","Pro Nails","Shop & Service::Spa / Massage",33.990397,-84.3529011
+"4da085c1c41ca143c2db4aa3","Yogli Mogli","Food::Ice Cream Shop",33.959968,-84.300521
+"4da327929aa4721e83b21d1a","Simco Electronics","Professional & Other Places::Office::Tech Startup",33.9902882166667,-84.34052435
+"4daf43496a23d0da7e9c1381","Glenridge Dr & Hammond Dr","Arts & Entertainment::Music Venue::Piano Bar",33.919010162353516,-84.36383056640625
+"4db02d394df03036e8b682f2","Employease","Professional & Other Places::Office",33.96944808959961,-84.26220703125
+"4db1678b1e729fcc565096c2","$andy $prings Quickmart","Shop & Service::Toy / Game Store",33.89006475177404,-84.38155378630891
+"4db4d587fa8c350240ee143a","3 Goose Lagoon","Outdoors & Recreation::Lake",34.00143472064753,-84.33897083374535
+"4db748304df0ded98ba500be","Kids Time Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",33.8980598449707,-84.38187408447266
+"4db87e82fa8c978590ba3ac5","Sandy Springs St. 3","Professional & Other Places::Government Building::Fire Station",33.91768264770508,-84.41795349121094
+"4db9fee6cda173a95d0eedc2","Louisiana Crawfish & Seafood","Food::Cajun / Creole Restaurant",33.95486,-84.36627
+"4dbc5100f7b1ab37dd5b5a48","The BlueStone Lofts","Residence::Residential Building (Apartment / Condo)",33.922037303284235,-84.381415213113
+"4dc307221f6ef43b89d91cad","Morgan Falls Dam","Outdoors & Recreation::Lake",33.96703522238378,-84.3819438424435
+"4dc81ae7e4cd169dc68c04e6","North Springs Charter High School","Professional & Other Places::School::High School",34.003529527442296,-84.34002371247585
+"4dc9c80c183817362fd3cce8","Double Zero Napoletana","Food::Italian Restaurant",33.91420538914622,-84.37912614204635
+"4dc9e01d2271a5cb223f7e95","NYO @ St John Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",33.88318350478619,-84.40587089666616
+"4dcadfcdd4c0dfa030c4286e","King's Beauty Supply","Shop & Service::Cosmetics Shop",33.93495559692383,-84.36357879638672
+"4dcaf91b813073f6cd2b8da1","Blue Grotto Sushi Tapas & Bar","Food::Sushi Restaurant",33.92544937133789,-84.38350677490234
+"4dcc0a91fa76d745f0627086","Piece of Cake","Food::Bakery",33.93357467651367,-84.34947204589844
+"4dcdaecefa7664b7c694f99b","Yoforia","Food::Dessert Shop",33.93211782906809,-84.34871435165405
+"4dd114eb7d8b975f190ce0bc","Better Homes and Gardens Real Estate Metro Brokers","Professional & Other Places::Building",33.91335070208551,-84.35971165627566
+"4dd1282dd22deadedd92af34","Manheim Digital","Professional & Other Places::Office",33.92828337198318,-84.3514603619461
+"4dd12c05d22deadedd9310e2","The Filling Station","Food::Restaurant",33.92817158237689,-84.35131658306103
+"4dd15a3b52b1f8915bdc0b3a","Best Bank","Shop & Service::Bank",33.92035982,-84.38185034
+"4dd52c0345ddd70355271928","Life Teen Mission District","Professional & Other Places::Spiritual Center",33.92269049962545,-84.38111240388382
+"4dd67cf5ae60680f14ee7800","Saint Joseph's Medical Group Suite 390","Professional & Other Places::Medical Center::Doctor's Office",33.9094304964096,-84.3502176900203
+"4ddd986ce4cd1912736e7a57","DOLLAR TREE","Shop & Service::Miscellaneous Shop",33.918337934948426,-84.38155378630891
+"4de0f1a91f6ece6473867ef5","In the NOW Salon","Shop & Service::Salon / Barbershop",33.93536268,-84.37998819
+"4de2b76645dd180ae54da30a","The Lodge at Sandy Springs","Residence::Residential Building (Apartment / Condo)",33.94314978938958,-84.36913222757943
+"4de676f2814db55dc23c38db","TMP Worldwide","Professional & Other Places::Office",33.927207946777344,-84.34854125976562
+"4deed77bae609ae4fa3b3013","CHASE Bank ATM","Shop & Service::Bank",33.91679977029603,-84.38008078787678
+"4df65a04d22d8c5470e70bfc","Express $4 Car Wash","Shop & Service::Automotive Shop",33.986756,-84.350325
+"4df925ab81dcd7ecc37d9312","Dreamland Studios","Professional & Other Places::Building",33.9028706921094,-84.3594861030579
+"4dff8960d164f31b7bd197ff","European Auto Care","Professional & Other Places::Building",33.8901699300935,-84.3813638896244
+"4e04a0a462e1b12875a96123","Breast Care Specialists","Professional & Other Places::Medical Center::Doctor's Office",33.907046450761506,-84.35562466272987
+"4e064c1ae4cdefcff6d51e09","Spalding Lake Pool & Tennis Court","Outdoors & Recreation::Pool",33.9658237078107,-84.2795478623221
+"4e0fc49de4cd27fc7d3cff05","Dulocks' Keg","Nightlife Spot::Pub",33.88511276245117,-84.3796615600586
+"4e114b071f6e671dd9e6f7db","Martin's Pub","Nightlife Spot::Bar",33.95447540283203,-84.36544036865234
+"4e132561aeb74afe60cc37e8","Dr. Hardy DDS","Professional & Other Places::Medical Center::Dentist's Office",33.947471618652344,-84.35359954833984
+"4e1732ef483b3ee57ce4b459","ESPN 1340 The Fan 3","Arts & Entertainment::General Entertainment",33.907859802246094,-84.36213684082031
+"4e19afa0d1648b83483df06d","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",33.93742345081237,-84.380712077429
+"4e1c67807d8b8fe8c3075a2c","Americold Logistics","Professional & Other Places::Office::Coworking Space",33.935816,-84.361696
+"4e1c9238aeb7204c126b1796","Children's Orthopedic Of Atlanta","Professional & Other Places::Medical Center::Doctor's Office",33.903654,-84.353943
+"4e1d8c237d8b48531b40248c","Pemco","::Professional & Other Places",33.9270928670011,-84.34827660469259
+"4e21e88a1838712abe775c0c","Dance Fashions Warehouse","::Shop & Service",33.92270332819702,-84.37939816635884
+"4e22e282fa761d67108aad78","MARTA Bus Stop #902962","Travel & Transport::Bus Station::Bus Line",33.98789596557617,-84.33901977539062
+"4e2354c31f6effe84f84ce16","Stonepark","Residence::Housing Development",33.9676192089504,-84.3520200692718
+"4e244698d22d0a3f5a13bb4a","Northside Imaging","Professional & Other Places::Medical Center::Doctor's Office",33.903350830078125,-84.35301208496094
+"4e24d1241f6eae48abd86783","Hunters Glen Gymnasium","Shop & Service::Gym / Fitness Center::Gym",33.99350658918827,-84.33639248566448
+"4e2638418877d0ffee7f3a6c","Cibo E Beve","Food::Italian Restaurant",33.890049605620725,-84.38103028585847
+"4e2e29dfd4c058fdbee77e6d","Boat On Wheels","Travel & Transport::Ferry::Boat or Ferry",33.92527389526367,-84.4085922241211
+"4e2e37ccae60231c032158e3","Chloe's Den","::Professional & Other Places",33.95619039260296,-84.36599562677122
+"4e2f0aded4c058fdbeefc3ba","NexTraq","Professional & Other Places::Office",33.9135366855268,-84.3483279569778
+"4e2ffe4952b111a1e388ad89","Hodges-Mace Benefits Group","Professional & Other Places::Office",33.91307830810547,-84.3602294921875
+"4e30453b14953296330cd142","Roswell Road Traphouse","Residence::Residential Building (Apartment / Condo)",33.9447041436761,-84.3731361563842
+"4e30a3337d8b4bd759be012a","Adrenaline Group Xercise (AGX)","Shop & Service::Gym / Fitness Center::Gym",33.88836492741493,-84.38028095358915
+"4e3405f2d4c0c0830951ffd9","Pep Boys Service & Tire Center","Shop & Service::Automotive Shop",33.91937255859375,-84.38053894042969
+"4e3720ff1f6ebc502cddb00b","World cleaners","Shop & Service::Laundry Service",33.9891896298029,-84.3518249425496
+"4e396407aeb72d0659679603","Penzeys Spices","Shop & Service::Food & Drink Shop::Gourmet Shop",33.925376,-84.37849986666667
+"4e397b9f45dd9ef03f16e9c4","Axis Teknologies","Professional & Other Places::Office",33.997840881347656,-84.35203552246094
+"4e46dc2818a8f9804cced7ec","Heritage Sandy Springs Beer Fest","Nightlife Spot::Beer Garden",33.92208480834961,-84.38257598876953
+"4e485014d164155c0dfeaaef","The Law Review","College & University::College Library",33.91933059692383,-84.4071044921875
+"4e49a3ff45dd81ecad83adc2","Legend Tennis Court","Outdoors & Recreation::Athletic & Sport::Tennis Court",33.96488708877334,-84.35318054645636
+"4e4a70b7ae6014a2fdd1b624","Womens's Institute For Health","Professional & Other Places::Medical Center::Doctor's Office",33.920802782056356,-84.35022282508211
+"4e4e2f84bd4101d0d7a43f45","Tijuana Joes","Food::Mexican Restaurant",33.972015380859375,-84.35899353027344
+"4e4e5442bd4101d0d7a7d871","Gruby's New York Deli","Food::Deli / Bodega",33.90753609662031,-84.35903393320191
+"4e501c056284416669989802","Red Box Kroger","Arts & Entertainment::General Entertainment",33.9202995300293,-84.38215637207031
+"4e57d95d227131507c93565b","Sunlighting Lamp And Shade","Shop & Service::Furniture / Home Store",33.87941385256682,-84.38001919829
+"4e5851eca809655861165196","HOTlanta","Travel & Transport::General Travel",33.89653015136719,-84.36361694335938
+"4e586e4314954ed2833a29f3","garcon maison","Residence::Residential Building (Apartment / Condo)",33.93954100326582,-84.36906035970661
+"4e614d98c65b2dc89f22608b","Cowlicks Yogurt & Floats","Food::Dessert Shop",33.91967653488338,-84.35224600467093
+"4e61a58bfa76cd64cde75d32","609WWW","Outdoors & Recreation::Dog Run",34.0057480781982,-84.33709614958437
+"4e67563214952e0a12d4cfbe","Life Time Athletic","Shop & Service::Gym / Fitness Center",33.906847136523446,-84.38099949156944
+"4e693b09d4c0a5c38af3a906","In Line For Northridge Exit","::Travel & Transport",33.98219599920703,-84.34241188007552
+"4e6a91b4b993d5439f54c5e2","Clay's Sports Bar","Food::American Restaurant",33.932987213134766,-84.37903594970703
+"4e6ff1ca7d8b1d2ba7359dad","Gym @ Park Towers","Shop & Service::Gym / Fitness Center::Gym",33.9174151718895,-84.3595216892295
+"4e71fc18b99345fbe84508c0","Traditional Title Services","Professional & Other Places::Office",33.9145997864923,-84.379772839299
+"4e7230b7b61cc811d3f966da","Loading Dock @ Northside Hospital","Shop & Service::Smoke Shop",33.9096615113578,-84.3543255967202
+"4e807d51722eddf38b8875ac","UPS  Capital Cafeteria","::Food",33.93900623012457,-84.35913661901643
+"4e80d48f82311112af5d51fb","Cafeteria @ Northside Hospital","::Food",33.90854707083953,-84.35380698926234
+"4e80f5862c5b7af74bb49efc","The Gym - Preserve At Dunwoody","Shop & Service::Gym / Fitness Center::Gym",33.99279266,-84.33452383
+"4e90dfb65c5c4562f0303aa8","Huntcliff River Reserve","::Outdoors & Recreation",34.00123454259607,-84.35937792997717
+"4e94822ecc21f921ab04f82e","Fulton County DMV","Professional & Other Places::Government Building",33.96611676832355,-84.3625354186355
+"4e965a90c2ee3612d8965040","Dance It Off","Arts & Entertainment::Performing Arts Venue::Dance Studio",33.9390163748452,-84.3764162063599
+"4e986fb330f87b6eacd4a254","Central Elevators @ Northside Hospital","Professional & Other Places::Medical Center::Hospital",33.90858840942383,-84.35382843017578
+"4ea6ec070aaffdca53811d57","Canton Cook II","Food::Chinese Restaurant",33.937774,-84.380702
+"4ebd3e9b775bbbe5d75aed3e","Walking Tokyo","Outdoors & Recreation::Dog Run",33.9688123042022,-84.3494422905705
+"4ecc03770aaf5823e92e813e","Roswell Rd & Abernathy Rd","Outdoors & Recreation::Other Great Outdoors",33.936932258509685,-84.37833059203838
+"4edd4a8d6da1642c6027da3b","Christmas Tree Lot","Outdoors & Recreation::Other Great Outdoors",33.968261964477385,-84.36190906846623
+"4ee2e51a9a52c1dad8cafd0e","The Gym","Shop & Service::Gym / Fitness Center::Gym",33.88533028371325,-84.37859748743193
+"4ee79ad2e5e8ecd9fccc90e0","Smashburger","Food::Burger Joint",33.92089203307255,-84.37924861907959
+"4eeb7f426da1c4943638e4a6","Blue Moon Pizza","Food::Pizza Place",33.90828080286287,-84.36292560062547
+"4eecf89b9a52993fb6b68eea","Hudson Grille","Food::American Restaurant",33.9276196854213,-84.37839218339035
+"4ef095eef790ec129372eb01","pavillion peachtree dunwoody rd","Professional & Other Places::Building",33.91167462202915,-84.3511573988871
+"4f0c7bd07716f0ca442d66e4","Performance Health Centers of Atlanta","Professional & Other Places::Medical Center",33.89916622901471,-84.38146948814392
+"4f105182e4b03856ef17fbc8","The Ed and Dora Voyles Breast Health Center","Professional & Other Places::Medical Center::Doctor's Office",33.9104264413934,-84.35015606924439
+"4f11ebc2e4b0678411540daf","Solar Dimensions Glenridge","Shop & Service::Tanning Salon",33.90798645642045,-84.36320283362915
+"4f1f41dfe4b02792a6c66238","Cherokee Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",33.99114588956505,-84.36349033314579
+"4f3a73c1e4b0a81c49fc8c21","Panda Neurology","Professional & Other Places::Medical Center",33.91624043668456,-84.35980920668338
+"4f5e26d1e4b085f52fbade39","Egg Harbor Cafe","Food::Café",33.91697892352895,-84.37968045441178
+"4f74ef29e4b0f17809ca821d","Cosmetic Laser Specialists","Shop & Service::Cosmetics Shop",33.882847479783244,-84.3803887348449
+"4f771e18e4b04368dc61e241","Samad Mediterranean","Food::Mediterranean Restaurant",34.000057,-84.349528
+"4f908148e4b0d19f9af7043f","Parkside Shops","Shop & Service::Mall",33.91798087193235,-84.37919799764718
+"4f971ad6bb3d831b8b3b8a1a","diAmano Chocolate","Food::Dessert Shop",33.919485365917325,-84.35206174850464
+"4f97fbe6e4b04b2e5f9eaa09","AIG","Professional & Other Places::Office",33.93340109543352,-84.35213303707945
+"4fa7f1ebe4b012feff23d374","Barbara Cox Fitness Center (Cox CTech A)","Shop & Service::Gym / Fitness Center::Gym",33.927212845639154,-84.35019493103027
+"4fbd6b24e4b06c46329f3b6b","Emidio's Fine Dining","Food::Portuguese Restaurant",33.9920889760792,-84.3528416483974
+"4fbe2f84e4b0a4005df8f2db","Bruegger's Bagels","Food::Bagel Shop",33.90465038395438,-84.43062922348778
+"4fbe4363e4b0d565a890064b","Five Below","Shop & Service::Miscellaneous Shop",33.932218755972706,-84.34951931746129
+"501c561ee4b0b1c5095f9173","Hammocks Trading Company","Food::Seafood Restaurant",33.954064095560696,-84.36533851086881
+"50267495e4b0db2aca65c337","FOCUS Brands R&D Center","Professional & Other Places::Office",33.90415189749244,-84.35986054893846
+"50287d1fe4b04e431ca6fe08","Wyndham Hotel","Travel & Transport::Hotel",33.90619224233381,-84.43016769698497
+"505e1b18e4b00e0d6e3800e6","Pav D","Professional & Other Places::Office",33.91219574967634,-84.34954499306924
+"50605dc4e4b04c6cd2bbdf93","6151 Powers Ferry teh New Hell","Professional & Other Places::Office::Coworking Space",33.909992021953,-84.42669587571324
+"50622d66e4b0530953c84f8f","Gynxi's Butt Puckering Assphalt Ride","Arts & Entertainment::Racetrack",33.91001768122829,-84.42656766567778
+"5079ed2ce4b0ce42c6a12d02","Cheteau Lenni","Nightlife Spot::Lounge",33.96787804520142,-84.3500893133312
+"50958a98b0edee55f93cca4c","Riverside","Residence::Housing Development",33.92926923424229,-84.41176772117615
+"509cfeace4b076197b2c590c","285 & the Hooch Traffic Hell","Professional & Other Places::Parking",33.91600251351105,-84.40996979494889
+"509e8cb2e4b01718b2aebd20","The Haute Spot Nail Boutique","Shop & Service::Nail Salon",33.907738,-84.379866
+"50ba46e2e4b0046dd8fc1ef9","Northsprings Marta Station","Travel & Transport::Bus Station::Bus Line",33.945000429527205,-84.35721123026319
+"50bbb89ee4b0cdd4bccf6791","Catch Air","Arts & Entertainment::General Entertainment",33.91642275815304,-84.38141008076616
+"50c8d9f0e4b04b69c9d44b44","#121212Concert","Arts & Entertainment::General Entertainment",33.89228252666549,-84.37841271382669
+"5101ad34e4b0cd77a9f969c5","The Beer Growler","Shop & Service::Food & Drink Shop::Wine Shop",33.89026951728879,-84.38104033470154

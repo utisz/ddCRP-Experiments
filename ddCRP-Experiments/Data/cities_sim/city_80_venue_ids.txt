@@ -1,0 +1,1318 @@
+"4513d7f0f964a520c5391fe3","Sacred Grounds Coffee House","Arts & Entertainment::Music Venue::Rock Club",28.032338831334467,-82.40616305334646
+"4513d81ef964a520c6391fe3","Valentines Nightclub","Nightlife Spot::Gay Bar",28.017230205304095,-82.48501338803453
+"4aa3df57f964a520374420e3","Aquaknox","Nightlife Spot::Nightclub",27.967602,-82.565585
+"4aa76d20f964a520d24c20e3","Tampa International Airport (TPA)","Travel & Transport::Airport",27.979924943181857,-82.53455400466919
+"4ae1a3b8f964a5208a8621e3","Streetcar Charlie's","Nightlife Spot::Gay Bar",27.96080601022958,-82.44280596782558
+"4ae380daf964a520f09521e3","The Home Depot","Shop & Service::Hardware Store",28.128419777311574,-82.3654754851791
+"4ae3937ef964a520d69621e3","PetSmart","Shop & Service::Pet Store",28.11725927649662,-82.37548828125
+"4ae4f59bf964a520b79f21e3","Coldstone","Food::Ice Cream Shop",28.055839291415225,-82.42815958975793
+"4ae5b03ef964a5207aa121e3","University of Tampa","College & University::University",27.94697925131652,-82.46601794607963
+"4ae62e03f964a52062a521e3","Mr Dunderbak's","Food::German Restaurant",28.083235227777795,-82.41212863475522
+"4ae730e7f964a5203fa921e3","Kaleisia Tea Lounge","Food::Tea Room",28.06891241700951,-82.44447253809385
+"4ae89e08f964a520e8b021e3","Sears","Shop & Service::Electronics Store",28.05684961560845,-82.43194847247881
+"4aea3134f964a5200eba21e3","Chipotle Mexican Grill","Food::Burrito Place",28.054920196533203,-82.42994689941406
+"4aeb2458f964a520ecbe21e3","Wood Fired Pizza Wine Bar","Food::Pizza Place",28.079856278069126,-82.42733001708984
+"4aef8f92f964a52043d921e3","The Kennedy","Nightlife Spot::Nightclub",27.944567847720585,-82.4844634820371
+"4af1cbebf964a5203ee321e3","US Post Office","Professional & Other Places::Post Office",27.967303818935235,-82.53839492797852
+"4af247a8f964a5201be721e3","Tampa Bay Brewing Company","Food::Brewery",27.961172044757856,-82.44166315362743
+"4af423d7f964a5203ef021e3","AMC WestShore 14","Arts & Entertainment::Movie Theater",27.947061456727344,-82.52650737762451
+"4af4248cf964a52040f021e3","Al Lopez Park","Outdoors & Recreation::Park",27.98913608737746,-82.50219574354834
+"4af43272f964a52086f021e3","Chili's Grill & Bar","Food::American Restaurant",27.965206,-82.50494
+"4afb1642f964a5200f1b22e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.93083450159979,-82.5072169303894
+"4afc2982f964a5202f2022e3","Staples","Shop & Service::Paper / Office Supplies Store",28.056542,-82.42699
+"4afcb833f964a520572522e3","Lowe's Home Improvement","Shop & Service::Hardware Store",28.114466939615973,-82.3799444274373
+"4afcbd2df964a5207f2522e3","Starbucks","Food::Coffee Shop",28.12841788992559,-82.36845213796622
+"4afcbdfbf964a520892522e3","Muvico Starlight 20 Theater","Arts & Entertainment::Movie Theater::Multiplex",28.130279122343026,-82.37008094787598
+"4b045200f964a520465322e3","Starbucks","Food::Coffee Shop",27.93587725100047,-82.48372077941895
+"4b0586bff964a520286c22e3","Tampa Marriott Waterside Hotel & Marina","Travel & Transport::Hotel",27.941523,-82.454191
+"4b0586bff964a520296c22e3","Best Western Bay Harbor Hotel","Travel & Transport::Hotel",27.96637760763539,-82.57050737670306
+"4b0586c0f964a5202a6c22e3","InterContinental","Travel & Transport::Hotel",27.944355705213834,-82.52538777603141
+"4b0586c0f964a5202b6c22e3","Embassy Suites","Travel & Transport::Hotel",28.055457742800005,-82.41706163033739
+"4b0586c0f964a520406c22e3","Embassy Suites Hotel","Travel & Transport::Hotel",27.949119632515004,-82.52364388833551
+"4b0586c0f964a520456c22e3","The Howard Johnson Plaza","Travel & Transport::Hotel",27.95295165541622,-82.4639368057251
+"4b0586c0f964a5204b6c22e3","DoubleTree Suites by Hilton Hotel Tampa Bay","Travel & Transport::Hotel",27.97034553121775,-82.56937980651855
+"4b0586c0f964a5204f6c22e3","Hilton Garden Inn","Travel & Transport::Hotel",27.96199572807415,-82.4398695322502
+"4b0586c0f964a520546c22e3","Sailport Waterfront Suites on Tampa Bay","Travel & Transport::Hotel",27.96336178386737,-82.57208347320557
+"4b0586c1f964a520776c22e3","Tampa Airport Marriott","Travel & Transport::Hotel",27.972105,-82.538321
+"4b0586c1f964a520796c22e3","Grand Hyatt Tampa Bay","Travel & Transport::Hotel",27.96554776509527,-82.54987151823099
+"4b0586c1f964a520826c22e3","Embassy Suites","Travel & Transport::Hotel",27.941666316575823,-82.45486785736696
+"4b0586c1f964a520836c22e3","Hilton Tampa Airport Westshore","Travel & Transport::Hotel",27.951786133917402,-82.52086943049513
+"4b0586c1f964a520846c22e3","Hyatt Regency Tampa","Travel & Transport::Hotel",27.946456320081076,-82.45768199606675
+"4b0586c1f964a520866c22e3","Don Vicente de Ybor Historic Inn","Travel & Transport::Hotel",27.96153469714718,-82.44404399528041
+"4b0586c1f964a520956c22e3","Bella's Italian Cafe","Food::Café",27.92851643,-82.48333896666666
+"4b0586c1f964a520a16c22e3","Jackson's Bistro","Nightlife Spot::Bar",27.939049513750618,-82.45483082846386
+"4b0586c1f964a520a86c22e3","Miguel's Mexican Seafood & Grill","Food::Mexican Restaurant",27.944919486639602,-82.49288320541382
+"4b0586c1f964a520b36c22e3","Mad Dogs And Englishmen","Nightlife Spot::Pub",27.90471531739151,-82.49400690211428
+"4b0586c1f964a520b56c22e3","Four Green Fields","Nightlife Spot::Pub",27.941845069270787,-82.46160462498665
+"4b0586c1f964a520b66c22e3","Press Box Sports Emporium & Eatery","Nightlife Spot::Sports Bar",27.94231778884819,-82.50546544790268
+"4b0586c1f964a520b76c22e3","Lee Roy Selmon's","Food::BBQ Joint",27.963047122123836,-82.51519333417572
+"4b0586c2f964a520016d22e3","Taps Beer & Wine","Nightlife Spot::Bar",27.95005767434866,-82.46070759653564
+"4b0586c2f964a520076d22e3","Skipper's Smokehouse","Arts & Entertainment::Music Venue",28.080499962140458,-82.4507188796997
+"4b0586c2f964a520bc6c22e3","Gaspar's Grotto","Nightlife Spot::Bar",27.96019121,-82.4389922618866
+"4b0586c2f964a520bd6c22e3","MacDinton's Irish Pub & Restaurant","Nightlife Spot::Sports Bar",27.940379758375368,-82.48316272542557
+"4b0586c2f964a520c26c22e3","Howl at the Moon","Nightlife Spot::Bar",27.942646118402823,-82.44742464992035
+"4b0586c2f964a520c56c22e3","New World Brewery","Nightlife Spot::Bar",27.960804907784087,-82.44488520644705
+"4b0586c2f964a520c66c22e3","Bar Louie","Nightlife Spot::Sports Bar",27.96574976461252,-82.52118587493896
+"4b0586c2f964a520c96c22e3","Cheap","Nightlife Spot::Lounge",27.941362462640544,-82.48304639640531
+"4b0586c2f964a520ca6c22e3","Tinatapas","Food::Tapas Restaurant",27.943154472331088,-82.44737174579711
+"4b0586c2f964a520cb6c22e3","Peabody's Billiards & Games","Nightlife Spot::Bar",28.0881860091151,-82.4044132232666
+"4b0586c2f964a520cc6c22e3","Sushi Tsu Japanese Steakhouse & Sushi Bar","Food::Sushi Restaurant",28.08786910709819,-82.40364327516669
+"4b0586c2f964a520cd6c22e3","Copper Top Pub","Nightlife Spot::Wine Bar",28.05492798104194,-82.39952461767561
+"4b0586c2f964a520ce6c22e3","Acropolis Greek Taverna","Food::Greek Restaurant",28.083518878951512,-82.41168401280184
+"4b0586c2f964a520d36c22e3","The International Boba House & Internet Cafe","Food::Tea Room",28.057147126275513,-82.42984238722642
+"4b0586c2f964a520e06c22e3","Honey Pot","Nightlife Spot::Cocktail Bar",27.960306469631142,-82.4426313724312
+"4b0586c2f964a520e46c22e3","The Crowbar","Nightlife Spot::Bar",27.960766166914,-82.44059536734119
+"4b0586c2f964a520e56c22e3","Czar","Nightlife Spot::Cocktail Bar",27.96036502308712,-82.4434514378899
+"4b0586c2f964a520e76c22e3","Orpheum","Arts & Entertainment::Music Venue",27.960149297848204,-82.43734538555145
+"4b0586c2f964a520ef6c22e3","Dirty Shame Pub","Nightlife Spot::Bar",27.960178970794058,-82.4368959338305
+"4b0586c2f964a520f26c22e3","The Dubliner","Nightlife Spot::Pub",27.941200027597752,-82.48339009521771
+"4b0586c2f964a520f46c22e3","Charley's Steak House","Food::Steakhouse",27.951440042152207,-82.51955509185791
+"4b0586c2f964a520f86c22e3","LIT Premium Cigar Lounge","Nightlife Spot::Hookah Bar",27.943328901595237,-82.44769975071007
+"4b0586c2f964a520fa6c22e3","Aja Channelside","Nightlife Spot::Nightclub",27.943977,-82.44879793333334
+"4b0586c2f964a520fb6c22e3","Whiskey Joe's Bar & Grill","Nightlife Spot::Bar",27.967720756531094,-82.57307052612305
+"4b0586c2f964a520fc6c22e3","The Hub Bar","Nightlife Spot::Lounge",27.95069984494323,-82.45911018059867
+"4b0586c2f964a520fe6c22e3","Lodge Restaurant & Bar","Nightlife Spot::Bar",27.9388076262659,-82.48285603940415
+"4b0586c3f964a5200c6d22e3","The Round Up","Nightlife Spot::Other Nightlife",28.03249632853341,-82.64676433012086
+"4b0586c3f964a5200e6d22e3","Green Iguana Bar & Grill","Nightlife Spot::Nightclub",27.96036322136305,-82.44011291722278
+"4b0586c3f964a520136d22e3","Hyde Park Cafe","Nightlife Spot::Nightclub",27.941737278344522,-82.47809694391495
+"4b0586c3f964a520176d22e3","Stump's Supper Club","Nightlife Spot::Nightclub",27.943001746262006,-82.44707548196058
+"4b0586c3f964a5201c6d22e3","Tampa Bay Times Forum","Arts & Entertainment::Stadium::Hockey Arena",27.942701649840206,-82.45177030563354
+"4b0586c3f964a520266d22e3","Lowry Park Zoo","Arts & Entertainment::Zoo",28.013649827691435,-82.4695372581482
+"4b0586c3f964a520286d22e3","The Florida Aquarium","Arts & Entertainment::Aquarium",27.944226084549875,-82.44541955540771
+"4b0586c3f964a5202a6d22e3","Busch Gardens Tampa Bay","Arts & Entertainment::Theme Park",28.03310314683516,-82.42164373397827
+"4b0586c3f964a520306d22e3","Downtown Ybor City","Arts & Entertainment::Movie Theater",27.96031855344275,-82.43910233489825
+"4b0586c3f964a520376d22e3","Adventure Island","Arts & Entertainment::Water Park",28.041990850166467,-82.41236153083386
+"4b0586c3f964a520386d22e3","Yuengling Brewery","Food::Brewery",28.05008334771048,-82.4245874787934
+"4b0586c3f964a5203c6d22e3","Sacred Heart Catholic Church","Professional & Other Places::Spiritual Center::Church",27.949349543504706,-82.457512727799
+"4b0586c3f964a5203e6d22e3","Port of Tampa","Outdoors & Recreation::Harbor / Marina",27.94577208875304,-82.44460480385922
+"4b0586c3f964a520446d22e3","Tampa Theatre","Arts & Entertainment::Movie Theater",27.95029790259859,-82.45897794252791
+"4b0586c4f964a520616d22e3","Museum Of Science & Industry (MOSI)","Arts & Entertainment::Museum::Science Museum",28.05352102096786,-82.40456438113746
+"4b0586c4f964a5206d6d22e3","Bern's Steak House","Food::Steakhouse",27.931213663871535,-82.4829912185669
+"4b0586c4f964a520706d22e3","The Columbia Restaurant","Food::Spanish Restaurant",27.960009519368473,-82.43526935577393
+"4b0586c4f964a520736d22e3","Romano's Macaroni Grill","Food::Italian Restaurant",28.085297303172588,-82.50546783634525
+"4b0586c4f964a5207d6d22e3","The Spaghetti Warehouse","Food::Italian Restaurant",27.9615319354392,-82.44513386439668
+"4b0586c4f964a520826d22e3","Rusty Pelican","Food::Seafood Restaurant",27.96225306056007,-82.56990551948547
+"4b0586c5f964a5208e6d22e3","Pane Rustica Bakery & Cafe","Food::New American Restaurant",27.915983383333334,-82.4944248
+"4b0586c5f964a520916d22e3","Jimbo's Pit BBQ","Food::BBQ Joint",27.945099,-82.51210451
+"4b0586c5f964a520a36d22e3","Ciccio's / Water","Food::Sushi Restaurant",27.933066,-82.483364
+"4b0586c5f964a520a46d22e3","Carmine's","Food::Spanish Restaurant",27.960389,-82.439062
+"4b0586c5f964a520b36d22e3","Oystercatchers","Food::Seafood Restaurant",27.96218369611743,-82.54933269502672
+"4b0586c5f964a520b46d22e3","Armani's","Food::Italian Restaurant",27.965175513772646,-82.55023073135202
+"4b0586c5f964a520c76d22e3","Bernini","Food::Italian Restaurant",27.960360022627643,-82.44037746513708
+"4b0586c6f964a520df6d22e3","Ichiban","Food::Japanese Restaurant",28.055488106352232,-82.42765188217163
+"4b0586c6f964a520e46d22e3","Kojak's House Of Ribs","Food::BBQ Joint",27.893505,-82.488929
+"4b0586c6f964a520e86d22e3","Sidebern's","Food::Restaurant",27.933426580654633,-82.48304639640531
+"4b0586c6f964a520ed6d22e3","Red Lobster","Food::Seafood Restaurant",28.032211768970527,-82.429339668986
+"4b0586c6f964a520ef6d22e3","Red Lobster","Food::Seafood Restaurant",28.117433,-82.38004267215729
+"4b0586c6f964a520f66d22e3","Olive Garden","Food::Italian Restaurant",28.032211333333333,-82.42815433
+"4b0586c6f964a520f86d22e3","Olive Garden","Food::Italian Restaurant",28.117491036328605,-82.38105648396586
+"4b0586c6f964a520f96d22e3","Bahama Breeze","Food::Caribbean Restaurant",27.969710663772386,-82.5627064704895
+"4b0586c6f964a520fa6d22e3","Fleming's Prime Steakhouse & Wine Bar","Food::Steakhouse",27.9622077941895,-82.5159759521484
+"4b0586c6f964a520fb6d22e3","Ruth's Chris Steak House","Food::Steakhouse",27.957463348620884,-82.52477477811954
+"4b0586c6f964a520fc6d22e3","Roy's","Food::New American Restaurant",27.961450309628322,-82.51660975955392
+"4b0586c7f964a520026e22e3","The Cheesecake Factory","Food::American Restaurant",27.965882428660112,-82.52131462097168
+"4b0586c7f964a520066e22e3","Outback Steakhouse","Food::Australian Restaurant",27.939554,-82.50015779
+"4b0586c7f964a520166e22e3","Michael's 717 South","Food::American Restaurant",27.93623743838127,-82.48324871063232
+"4b0586c7f964a520216e22e3","Broadway Pizza","Food::Pizza Place",28.055579886601027,-82.42783678432188
+"4b0586c7f964a520226e22e3","Yoko's Japanese Restaurant","Food::Sushi Restaurant",27.91673391,-82.4942672252655
+"4b0586c7f964a520236e22e3","Matoi Sushi","Food::Sushi Restaurant",27.949493,-82.506132
+"4b0586c7f964a520266e22e3","Shula's America's Steak House","Food::Steakhouse",27.944267714026125,-82.52516054468363
+"4b0586c7f964a520286e22e3","Estela's Mexican Restaurant","Food::Mexican Restaurant",27.927215280000468,-82.45348190492368
+"4b0586c7f964a520296e22e3","The Capital Grille","Food::Steakhouse",27.965845519556872,-82.52124464942672
+"4b0586c7f964a520316e22e3","Queen of Sheba","Food::Ethiopian Restaurant",27.936439592167623,-82.50271379120196
+"4b0586c7f964a520356e22e3","Mitchell's Fish Market","Food::Seafood Restaurant",27.946132329031954,-82.52627027205813
+"4b0586c7f964a520386e22e3","The Bungalow","Nightlife Spot::Bar",27.94461336,-82.48221755
+"4b0586c7f964a5203c6e22e3","Oishi Sushi & Hibachi Grill","Food::Sushi Restaurant",27.943056633333335,-82.447148
+"4b0586c7f964a520426e22e3","Precinct Pizza","Food::Pizza Place",27.94378569376681,-82.44750929643351
+"4b0586c7f964a520446e22e3","Datz","Food::American Restaurant",27.921980684404133,-82.49335527420044
+"4b0586c8f964a520486e22e3","Gogos Greek Grill","Food::Greek Restaurant",27.94469237557518,-82.52286176677592
+"4b0586c8f964a520496e22e3","Rick's on the River","Food::Seafood Restaurant",27.96297,-82.47369375
+"4b0586c8f964a5204b6e22e3","Byblos Cafe","Nightlife Spot::Hookah Bar",27.92015250175343,-82.49346764152223
+"4b0586c8f964a520546e22e3","Front Porch Grill & Bar","Food::American Restaurant",28.0014136,-82.45970208
+"4b0586c8f964a520726e22e3","The RITZ Ybor","Arts & Entertainment::Music Venue",27.96005690192425,-82.44274199008942
+"4b0586c8f964a520816e22e3","University Mall","Food::Pizza Place",28.055368423461914,-82.4344482421875
+"4b0586c8f964a520826e22e3","Hyde Park Village","Shop & Service::Mall",27.93650426806663,-82.4758706322829
+"4b0586c8f964a5208d6e22e3","Westshore Plaza","Shop & Service::Mall",27.946777126860056,-82.52652883529663
+"4b0586c9f964a520956e22e3","Alessi Bakery & Deli","Food::Sandwich Place",27.952243694669942,-82.49002050368622
+"4b0586c9f964a520a26e22e3","International Plaza","Shop & Service::Mall",27.964817337915882,-82.52074796283686
+"4b0586c9f964a520a66e22e3","Urban Outfitters","Shop & Service::Department Store",27.960943949967795,-82.44175838886348
+"4b0586c9f964a520b86e22e3","Channelside Bay Plaza","Outdoors & Recreation::Plaza",27.943289286247143,-82.44670629501343
+"4b0586c9f964a520ba6e22e3","Tampa Convention Center","Professional & Other Places::Convention Center",27.941962360787482,-82.45598673820496
+"4b0586c9f964a520bd6e22e3","Tampa General Hospital","Professional & Other Places::Medical Center::Hospital",27.937793484696297,-82.4589091786313
+"4b0586c9f964a520be6e22e3","James A. Haley Veterans' Hospital","Professional & Other Places::Medical Center::Hospital",28.064032693338575,-82.42699007440602
+"4b0586c9f964a520c86e22e3","Apple Store","Shop & Service::Electronics Store",27.964139,-82.519577
+"4b0586c9f964a520ce6e22e3","The Cuban Club","Arts & Entertainment::General Entertainment",27.962200940808064,-82.44435131549835
+"4b0586c9f964a520d16e22e3","Campus Recreation Center","College & University::College Gym",28.060355988131306,-82.40764796733856
+"4b0586caf964a520e26e22e3","George M Steinbrenner Field","Arts & Entertainment::Stadium::Baseball Stadium",27.97986335719701,-82.50724643468857
+"4b0586caf964a520f36e22e3","Rocky Point Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",27.978200904049345,-82.55731424148763
+"4b0586caf964a520f56e22e3","Tampa Palms Golf & Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",28.095336856703064,-82.3906988585845
+"4b05b439f964a5204fe122e3","The Independent","Nightlife Spot::Bar",27.99204576426499,-82.45953863021275
+"4b05b625f964a52065e122e3","Ella’s Americana Folk Art Cafe","Food::New American Restaurant",27.993663277643584,-82.45097971444024
+"4b05d3f4f964a5200fe422e3","Starbucks","Food::Coffee Shop",27.996551953344206,-82.4549419151138
+"4b0695cff964a52072ed22e3","Indigo Coffee","Food::Coffee Shop",27.949037528624753,-82.45871722698212
+"4b0698eaf964a5208bed22e3","Transitions Art Gallery","Arts & Entertainment::Art Gallery",27.965774539248095,-82.4100166551479
+"4b06995df964a5208fed22e3","Skatepark of Tampa","Outdoors & Recreation::Athletic & Sport::Skate Park",27.966417413021453,-82.41016486633653
+"4b069a9af964a520a1ed22e3","Fly Bar & Restaurant","Nightlife Spot::Wine Bar",27.953615825488065,-82.46039552148521
+"4b06a2eef964a52003ee22e3","University of South Florida","College & University::University",28.063743987818075,-82.413489818573
+"4b06bb93f964a5204aef22e3","King Corona Cigars Cafe & Bar","Shop & Service::Smoke Shop",27.960399538131394,-82.44210758360971
+"4b070172f964a52033f522e3","Bank of America","Shop & Service::Bank",27.94544429683409,-82.52462681228837
+"4b071f89f964a520b1f722e3","Rock N Sports Bar & Bistro","Food::American Restaurant",27.9609,-82.44159718333333
+"4b0721d8f964a520e5f722e3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",27.957183112292558,-82.50781774520874
+"4b07305bf964a5202df922e3","Five Guys","Food::Fast Food Restaurant",27.944962,-82.507678
+"4b082345f964a520900423e3","Einstein Bros Bagels","Food::Bagel Shop",27.937727,-82.505882
+"4b084211f964a520890723e3","Target","Shop & Service::Department Store",27.956690319576644,-82.508225440979
+"4b085d7af964a520240a23e3","Eddie and Sam's Pizza","Food::Pizza Place",27.948829023943844,-82.459237575531
+"4b085fbbf964a520610a23e3","EVOS","Food::Vegetarian / Vegan Restaurant",28.056155606568034,-82.42797642946243
+"4b088468f964a520880d23e3","Pei Wei Asian Diner","Food::Asian Restaurant",27.942396783333333,-82.505972
+"4b0885f5f964a520a60d23e3","Publix Greenwise Market","Shop & Service::Food & Drink Shop::Grocery Store",27.941308116674172,-82.48464854704424
+"4b089965f964a520310f23e3","Total Wine & More","Shop & Service::Food & Drink Shop::Wine Shop",27.95795368232904,-82.5061761526283
+"4b0899bff964a520370f23e3","Davis Island Dog Park","Outdoors & Recreation::Dog Run",27.911352319482006,-82.44649882193248
+"4b089bd0f964a5205e0f23e3","The Lime","Food::Mexican Restaurant",27.934360659383927,-82.48348474502563
+"4b089d34f964a5207e0f23e3","Daily Eats","Food::Breakfast Spot",27.934917211532593,-82.48314531666666
+"4b089eaff964a5209b0f23e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",27.9370324342976,-82.47548987821986
+"4b08b870f964a5205e1123e3","Indigo Coffee","Food::Coffee Shop",27.93632,-82.475494
+"4b08b909f964a5206a1123e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",27.93660104438205,-82.4815182379053
+"4b08d391f964a520b01223e3","T.G.I. Friday's","Food::American Restaurant",28.13020015951612,-82.36690026899251
+"4b0991bef964a5209c1923e3","Delta Sky Club","Travel & Transport::Airport::Airport Terminal",27.980284662289716,-82.53802171494517
+"4b09a21ff964a520b01a23e3","Tijuana Flats","Food::Mexican Restaurant",28.055650433034334,-82.42798495749531
+"4b0a1436f964a520942123e3","H. Lee Moffitt Cancer Center","Professional & Other Places::Medical Center",28.064255225681745,-82.42565631866455
+"4b0ac6d4f964a520aa2723e3","Kforce, Inc.","Professional & Other Places::Office",27.96149762323715,-82.44937678382355
+"4b0acad2f964a520e72723e3","Sweet Tomatoes","Food::Salad Place",27.958729,-82.506011
+"4b0af7caf964a520d62a23e3","Square 1 Burgers","Food::Burger Joint",27.935477369013476,-82.50427319687424
+"4b0afa35f964a520fd2a23e3","Walmart Supercenter","Shop & Service::Department Store",27.957116632122474,-82.50326883794094
+"4b0b1fa6f964a520492d23e3","Russell M. Cooper Hall (CPR)","College & University::College Academic Building",28.0596350618558,-82.41068959236145
+"4b0b455af964a520bc2f23e3","Marshall Student Center (MSC)","College & University::Student Center",28.063943,-82.413565
+"4b0bf458f964a520103523e3","LensCrafters","Shop & Service::Miscellaneous Shop",27.964187,-82.521893
+"4b0c26e9f964a520f13723e3","Jason's Deli","Food::Deli / Bodega",28.054983,-82.4290519952774
+"4b0c2b4cf964a5203a3823e3","USF Library","College & University::College Library",28.0598713122999,-82.41215596865715
+"4b0c4b67f964a520a93a23e3","Taco Bell","Food::Fast Food Restaurant",27.945275,-82.52328336238861
+"4b0c4bdef964a520b83a23e3","Chick-fil-A","Food::Fast Food Restaurant",28.080829580820044,-82.42587875196861
+"4b0c500cf964a520023b23e3","Stonewood Grill & Tavern","Food::Steakhouse",28.118459143591387,-82.38020390888092
+"4b0c6c7cf964a520f03c23e3","The View at CK's Restaurant","Food::Restaurant",27.981560826301575,-82.53468811511993
+"4b0c737bf964a520863d23e3","Panera Bread","Food::Bakery",28.131107002375472,-82.3659610748291
+"4b0c9822f964a520d93f23e3","La Teresita","Food::Cuban Restaurant",27.966520640573886,-82.49674543498536
+"4b0dafc4f964a520e14d23e3","Five Guys","Food::Burger Joint",28.054844593535783,-82.42944550470764
+"4b0dafd3f964a520e24d23e3","Jose Cuervo Tequileria","Food::Taco Place",27.976324472692138,-82.53178596496582
+"4b0dd7b4f964a5202a5123e3","City Side Lounge","Nightlife Spot::Gay Bar",27.935451589618282,-82.50462207602763
+"4b0fec3cf964a520516623e3","Dishtopia & the Anytime Tea Bar","Food::Tea Room",27.93993,-82.500516
+"4b102418f964a520de6923e3","Gourmet Pizza Company","Food::Pizza Place",27.937983,-82.48494386672974
+"4b11572ef964a520977a23e3","GameTime","Nightlife Spot::Bar",27.960954797424595,-82.44093418121338
+"4b1176d9f964a520257d23e3","The Home Depot","Shop & Service::Hardware Store",28.03002096617245,-82.4582744317449
+"4b1181adf964a5200c7e23e3","T.J. Maxx","Shop & Service::Department Store",28.09664047780177,-82.50369172769585
+"4b118ff1f964a520617f23e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",27.980303933083693,-82.4520492553711
+"4b11a17bf964a520f48023e3","The Tampa Club","Arts & Entertainment::General Entertainment",27.946857,-82.4592118
+"4b11d8bef964a520e28523e3","Mel's Hot Dogs","Food::Hot Dog Joint",28.032843437242672,-82.412394
+"4b11f7e4f964a520a98723e3","Doppel Decker","Nightlife Spot::Karaoke Bar",27.960275541909095,-82.43979545839332
+"4b11fd69f964a520e98723e3","Gray's College Bookstore","College & University::College Bookstore",28.070428,-82.42764663
+"4b11fd6df964a520ea8723e3","Boneyard","Food::Wings Joint",27.96015907079316,-82.43835629347123
+"4b1271edf964a520ec8923e3","Fit2Run","Shop & Service::Sporting Goods Shop",27.965204996705875,-82.52055234247995
+"4b130c57f964a5204c9323e3","Sam Snead's Tavern","Nightlife Spot::Bar",27.976741375427768,-82.53212928771973
+"4b131064f964a520979323e3","Samurai Blue Sushi & Sake Bar","Food::Sushi Restaurant",27.96093183624924,-82.44188007814137
+"4b133e90f964a520db9523e3","The Laughing Cat","Food::Italian Restaurant",27.960890838552945,-82.44286416619265
+"4b13f152f964a520b89a23e3","PetSmart","Shop & Service::Pet Store",27.956736343355665,-82.50797334038941
+"4b13f25df964a520cc9a23e3","Best Buy","Shop & Service::Electronics Store",27.958014005069444,-82.50431019929236
+"4b147bd0f964a520b6a323e3","Starbucks","Food::Coffee Shop",27.967758659869,-82.56890773773193
+"4b152368f964a520a2a823e3","Hillsborough County Courthouse","Professional & Other Places::Government Building::Courthouse",27.95083973542647,-82.45394741876147
+"4b152581f964a520b5a823e3","SONIC Drive In","Food::Fast Food Restaurant",27.962847585694742,-82.50496566740789
+"4b154fddf964a52061af23e3","USF Sun Dome","College & University::College Stadium::College Basketball Court",28.05925635109616,-82.40664482116699
+"4b155032f964a52017b023e3","Tampa Bay Times Forum","Arts & Entertainment::Stadium::Hockey Arena",27.942701649840206,-82.45177030563354
+"4b1567cff964a5205eac23e3","Corporate Center One","Professional & Other Places::Office",27.96071608950482,-82.52511298453915
+"4b15776bf964a52045ad23e3","Harbour Island Athletic Club","Shop & Service::Gym / Fitness Center::Gym",27.93652107271325,-82.45226520625368
+"4b15875df964a52037ae23e3","Taco Bus","Food::Food Truck",27.995737202822774,-82.45025496162623
+"4b15ba89f964a52060b323e3","IKEA","Shop & Service::Furniture / Home Store",27.954255514621536,-82.43294857600571
+"4b16bdc3f964a520ccbc23e3","Chipotle Mexican Grill","Food::Burrito Place",27.939637542515324,-82.48311513630459
+"4b16cabcf964a5207fbd23e3","Panera Bread","Food::Bakery",28.056482254099443,-82.42667019367218
+"4b16cfccf964a520cebd23e3","Chik-fil-a","Food::Fast Food Restaurant",27.938884735107422,-82.50614166259766
+"4b17cc2cf964a52048c823e3","Walgreens","Shop & Service::Drugstore / Pharmacy",27.94512086685812,-82.5238235636548
+"4b17e665f964a5206cc923e3","Jerry Ulm Dodge","Shop & Service::Automotive Shop",27.965870783455408,-82.50611272161603
+"4b1887dff964a520e1d323e3","New York, New York","Food::Pizza Place",27.939016,-82.483055
+"4b194521f964a52036da23e3","Lee Roy Selmon's","Food::Southern / Soul Food Restaurant",28.126539899251767,-82.37053889712283
+"4b1949a1f964a52090da23e3","US Post Office","Professional & Other Places::Post Office",27.996830791251345,-82.4949691017234
+"4b194b21f964a520b3da23e3","Cigar City Brewing","Food::Brewery",27.959050163034085,-82.50935820017004
+"4b196a1ff964a520ebdc23e3","Staples","Shop & Service::Paper / Office Supplies Store",27.95888847659849,-82.50423619443623
+"4b19a405f964a52004e123e3","Cafe Dufrain","Food::American Restaurant",27.939870718835298,-82.45170445967182
+"4b19a9c4f964a5207ae123e3","Carrabba's Italian Grill","Food::Italian Restaurant",27.977550506591797,-82.534423828125
+"4b19b8faf964a520c7e223e3","Target","Shop & Service::Department Store",28.088791782529615,-82.50502824783325
+"4b1a60c7f964a52088e923e3","Brocato's Sandwich Shop","Food::Sandwich Place",27.9665283415889,-82.40010166792337
+"4b1ab1f1f964a52093ef23e3","Pita Pit","Food::Greek Restaurant",28.053732733462255,-82.43317081927627
+"4b1abdbef964a520bbf023e3","Sheraton Suites Tampa Airport Westshore","Travel & Transport::Hotel",27.951754789316357,-82.51858636419418
+"4b1adc8ff964a52071f323e3","California Tacos to Go","Food::Taco Place",28.081925330931277,-82.44403870461183
+"4b1b1043f964a52070f723e3","Starbucks","Food::Coffee Shop",27.9445076,-82.47592091560364
+"4b1b158ff964a520d3f723e3","Tampa Improv","Arts & Entertainment::Comedy Club",27.960765268653326,-82.44183540344238
+"4b1b280ef964a520f6f823e3","Starbucks","Food::Coffee Shop",28.054872676949245,-82.40051060914993
+"4b1b3230f964a52075f923e3","Tiny Tap Tavern","Nightlife Spot::Dive Bar",27.933896,-82.48225186666667
+"4b1b365df964a520a4f923e3","New York New York","Food::Pizza Place",27.960243381851697,-82.44257317386868
+"4b1bb2e3f964a520b6fc23e3","Casa Bacardi","Nightlife Spot::Bar",27.980000741268764,-82.53809452056885
+"4b1bd8fbf964a52012fe23e3","Pach's Place","Food::Breakfast Spot",27.91965321843998,-82.4916859368643
+"4b1bdb39f964a52038fe23e3","Bay Breeze Car Wash & Lube","Professional & Other Places::Building",28.12608961333064,-82.36758881579996
+"4b1bdc2ef964a52046fe23e3","Walgreens","Shop & Service::Drugstore / Pharmacy",28.126726306588743,-82.36887585045905
+"4b1c2616f964a520190324e3","CompUSA","Shop & Service::Electronics Store",27.950581985380655,-82.50529339912896
+"4b1c4fb2f964a520e40524e3","Bo's Ice Cream","Food::Ice Cream Shop",28.012657516666668,-82.459358
+"4b1d1cc0f964a520ef0b24e3","Hattricks","Nightlife Spot::Sports Bar",27.94477258005481,-82.45684504508972
+"4b1d1d91f964a520f40b24e3","Smoke Barbeque & Grill","Food::BBQ Joint",27.941868,-82.46881
+"4b1d1efdf964a520010c24e3","Hooters","Food::Wings Joint",28.070302,-82.426542
+"4b1d5263f964a520c30e24e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.001915671057738,-82.4508421706935
+"4b1d6444f964a520de0f24e3","The Retreat","Nightlife Spot::Bar",27.9448678,-82.464075
+"4b1d7b85f964a520241124e3","Communication & Information Sciences Building (CIS)","College & University::College Academic Building::College Communications Building",28.058517861277082,-82.41134405136108
+"4b1e6962f964a520ae1924e3","Restaurant Depot","Shop & Service::Food & Drink Shop",27.95400270435037,-82.40234100108552
+"4b1eb3e9f964a520201e24e3","Jerk Hut Jamaican Grille & Rhum Bar","Food::Caribbean Restaurant",27.94911367726183,-82.45921068136349
+"4b1ebb54f964a520a91e24e3","The Lower Red Lounge","Nightlife Spot::Bar",27.959994063835023,-82.44159437254227
+"4b1ebc08f964a520b61e24e3","Reservoir Bar","Nightlife Spot::Bar",27.960347,-82.442238
+"4b1ebd37f964a520cd1e24e3","Blue Shark","Arts & Entertainment::Music Venue::Rock Club",27.960347316666667,-82.442894
+"4b1ebf76f964a520e91e24e3","Ybor Supermarket","Shop & Service::Drugstore / Pharmacy",27.960307182797706,-82.4412504660929
+"4b1ed023f964a520e11f24e3","La Pequeña Colombia Restaurant","Food::Latin American Restaurant",28.00478839348775,-82.48468555998616
+"4b1eda2ff964a520862024e3","The NoHo Bistro","Food::Cuban Restaurant",27.957595,-82.48512625694275
+"4b1eee9cf964a520b42124e3","Crazy Buffet","Food::Chinese Restaurant",27.964309401597934,-82.50607967376709
+"4b1f493ff964a520432524e3","primetime sports bar","Nightlife Spot::Sports Bar",27.9932610766417,-82.5074764755181
+"4b2008d1f964a520682c24e3","Fine Arts Building (FAH)","College & University::College Academic Building::College Arts Building",28.06287298437495,-82.41657972335815
+"4b211dd9f964a520fc3624e3","The Salvation Army Tampa Area Command","Professional & Other Places::Building",27.95987,-82.45937875
+"4b217bacf964a520913c24e3","Thai Ruby","Food::Thai Restaurant",28.08831431666667,-82.40427831666666
+"4b2185b9f964a520383d24e3","Frankies of Tampa","Food::Hot Dog Joint",27.944928242429114,-82.46917011219053
+"4b227e20f964a520b84724e3","Shrimp and Co.","Food::Seafood Restaurant",27.960354,-82.434755
+"4b22999ef964a520e64924e3","Cafe Hey","Food::Coffee Shop",27.957198609226396,-82.46032146957177
+"4b22b942f964a5207a4c24e3","McDonald's","Food::Fast Food Restaurant",27.945237259226705,-82.5198336042394
+"4b22e3baf964a520a64f24e3","Hamburger Mary's","Food::Burger Joint",27.96044306897833,-82.44159400463104
+"4b232844f964a520f35324e3","Taco Bell","Food::Taco Place",28.125733648316096,-82.36947963631545
+"4b23d64ef964a520dc5a24e3","Sonny's Real Pit Bar-B-Q","Food::BBQ Joint",28.032258,-82.4319
+"4b23f795f964a520085e24e3","Grecian Island Restaurant","Food::Greek Restaurant",27.926762,-82.45334088333334
+"4b2449c8f964a520546524e3","J. Alexander's","Food::American Restaurant",27.951852798461914,-82.5042724609375
+"4b24fd7cf964a5200b6b24e3","First Watch","Food::Breakfast Spot",28.055658133811928,-82.42891103266295
+"4b250b6af964a5209a6b24e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",28.056321297468873,-82.42867648601532
+"4b253871f964a5203e6e24e3","Got Tea","Food::Tea Room",28.02498697513904,-82.48180031776428
+"4b2585aff964a520467324e3","Barnes & Noble","Shop & Service::Bookstore",27.94624651526879,-82.5051718214142
+"4b267a2af964a520167c24e3","El Puerto Argentinean Grill","Food::Argentinian Restaurant",27.958757118266924,-82.44061555739697
+"4b268338f964a5209f7c24e3","Britton Plaza","Shop & Service::Mall",27.907083910246527,-82.50383445240278
+"4b268bd0f964a5204d7d24e3","Champps Restaurant & Bar","Food::American Restaurant",27.965465483961314,-82.52121806144714
+"4b26d9b9f964a520f18124e3","Crispers Fresh Salads, Soups and Sandwiches","Food::Restaurant",28.095909364096048,-82.50363349914551
+"4b283e2ff964a520709124e3","Macy's","Shop & Service::Department Store",27.94766041967114,-82.52808807252157
+"4b284251f964a520b29124e3","Powerhouse Gym","Shop & Service::Gym / Fitness Center::Gym",27.95080287468197,-82.44855678847664
+"4b284f98f964a5205d9224e3","Chili's Grill & Bar","Food::American Restaurant",28.0549592622125,-82.42779020248958
+"4b292392f964a520809924e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",27.963573942317943,-82.50469079444065
+"4b295f31f964a520c99d24e3","Southern Brewing Supply","Nightlife Spot::Bar",28.029409153447723,-82.43924519297931
+"4b2a1432f964a5201fa524e3","Hampton Inn & Suites","Travel & Transport::Hotel",27.959892365998538,-82.44513386439668
+"4b2a4d7ff964a52013a724e3","Mama's Kitchen","Food::Diner",27.88485853,-82.50616805
+"4b2a78a4f964a520cba924e3","Thai Thani","Food::Thai Restaurant",27.943213,-82.447308
+"4b2acd89f964a520f6af24e3","TC Choy's Asian Bistro","Food::Asian Restaurant",27.941763,-82.48309314250946
+"4b2b660cf964a52025b624e3","Starbucks","Food::Coffee Shop",27.97700667632967,-82.53772974014282
+"4b2bae0ff964a52010b924e3","Channelside Cinemas 10","Arts & Entertainment::Movie Theater",27.943567199691635,-82.44662579335981
+"4b2bba4bf964a520d8b924e3","Deck Pizza & Pub","Food::Pizza Place",27.94181338158108,-82.48226381426834
+"4b2bc725f964a520caba24e3","The Ranch House","Food::Steakhouse",27.89307975769043,-82.52049255371094
+"4b2bd6e9f964a52019bc24e3","Bamboozle Cafe","Food::Vietnamese Restaurant",27.948534,-82.459289
+"4b2c029df964a52089bf24e3","AMF University Lanes","Arts & Entertainment::Bowling Alley",28.066651585437512,-82.39260493607892
+"4b2c628ff964a52087c624e3","The Rack","Food::Sushi Restaurant",27.94198352532339,-82.47853585199714
+"4b2c64e6f964a5209fc624e3","Lowry Park","Outdoors & Recreation::Park",28.01313506180751,-82.46642519709667
+"4b2ce96df964a520a6ca24e3","Three Coins Diner","Food::Diner",28.015982517551944,-82.45144524509504
+"4b2d1f8ff964a520e1ce24e3","Post Rocky Point","Professional & Other Places::Building",27.971283612097366,-82.56495952606201
+"4b2d4050f964a5204dd224e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.099240835849876,-82.39917755126953
+"4b2d7267f964a520dad624e3","Beef 'O' Brady's","Nightlife Spot::Sports Bar",27.92043465200422,-82.49373198547619
+"4b2d85adf964a52052d824e3","The Home Depot","Shop & Service::Hardware Store",27.958547499999998,-82.50760079
+"4b2d9a37f964a5206ad924e3","Pin Chasers (Midtown)","Arts & Entertainment::Bowling Alley",27.990109833692323,-82.48352229595184
+"4b2db902f964a520d6da24e3","Dunkin' Donuts","Food::Donut Shop",28.069774640129356,-82.36277414234007
+"4b2e624bf964a52037df24e3","Mons Venus","Nightlife Spot::Strip Club",27.960523409574666,-82.50566870289607
+"4b2fad3bf964a520dfed24e3","Hooters","Food::Wings Joint",27.94348283563618,-82.44771562187616
+"4b2fb9caf964a520abee24e3","McAlisters Deli","Food::Restaurant",28.05229248714053,-82.42665138754792
+"4b2fbd42f964a520d9ee24e3","Hyde Park Cafe","Nightlife Spot::Nightclub",27.941737278344522,-82.47809694391495
+"4b2fbd8ff964a520e1ee24e3","First Watch","Food::Breakfast Spot",27.948663282281256,-82.45941168245541
+"4b2fbdbaf964a520e3ee24e3","Centro Ybor","Outdoors & Recreation::Plaza",27.96076563086729,-82.44166315362743
+"4b2fd559f964a520dbf024e3","Sports Authority","Shop & Service::Sporting Goods Shop",28.055530673860698,-82.43957852735727
+"4b2feb07f964a52090f224e3","Avis Car Rental","Travel & Transport::Rental Car Location",27.976457123737344,-82.53496170043945
+"4b2ffbf7f964a520dbf324e3","Moe's Southwest Grill","Food::Mexican Restaurant",27.930111,-82.50690579414368
+"4b304ab8f964a520a8f824e3","Jimmy John's","Food::Sandwich Place",27.93921367762637,-82.48320579528809
+"4b30facbf964a5209bfd24e3","Spain Restaurant and Toma Bar","Food::Spanish Restaurant",27.94844543061118,-82.45925299743134
+"4b30fc96f964a520b5fd24e3","Timpano Italian Chop House","Food::Italian Restaurant",27.937124572488813,-82.47583890285776
+"4b3274a9f964a520360c25e3","Romano's Macaroni Grill","Food::Italian Restaurant",27.957064,-82.50613331794739
+"4b32ad59f964a520a91125e3","Lowe's Home Improvement","Shop & Service::Hardware Store",28.034295860672703,-82.64492857716884
+"4b32b4bff964a520491225e3","Hyde Park Cine Bistro","Arts & Entertainment::Movie Theater",27.93777084350586,-82.47631072998047
+"4b33c7a9f964a520091f25e3","Babies R Us","Shop & Service::Miscellaneous Shop",27.994888121904566,-82.50905691625013
+"4b3500a0f964a520a82925e3","Courtyard by Marriott","Travel & Transport::Hotel",27.952682,-82.507
+"4b3650bcf964a520b93225e3","Pinky's","Food::Breakfast Spot",27.91984707473267,-82.49551363731577
+"4b365accf964a520783325e3","CVS Pharmacy","Shop & Service::Miscellaneous Shop",28.1160401992739,-82.37926659380274
+"4b3668faf964a520cb3425e3","World Of Beer","Nightlife Spot::Bar",28.11738726,-82.38157906
+"4b367a98f964a520633625e3","BJ's Wholesale","Shop & Service::Miscellaneous Shop",28.11620916723196,-82.37459042128653
+"4b367cb8f964a5208b3625e3","Walmart Supercenter","Shop & Service::Department Store",28.155186861968524,-82.35591438054642
+"4b3696f3f964a5209e3825e3","Yummy House","Food::Chinese Restaurant",28.025172,-82.48151417
+"4b36b3dbf964a520f53a25e3","Sake House","Food::Sushi Restaurant",28.05478746336965,-82.39900588989258
+"4b36ba70f964a520713b25e3","Walgreens","Shop & Service::Drugstore / Pharmacy",27.941941,-82.46358811855316
+"4b379dcbf964a520194325e3","Sunshine Thrift Store","Shop & Service::Thrift / Vintage Store",27.9029424363875,-82.50573742026596
+"4b379f7cf964a520304325e3","Redletter1 Tattoo","Shop & Service::Tattoo Parlor",27.960782,-82.44293
+"4b37c662f964a520f04525e3","Bennigan's Grill & Tavern","Food::American Restaurant",27.942815386168476,-82.44707107543945
+"4b38dc9cf964a520465125e3","The Brunchery","Food::Breakfast Spot",27.916294994945464,-82.49425649642944
+"4b38eaa6f964a520265225e3","Wendy's","Food::Fast Food Restaurant",27.9305362701416,-82.50914764404297
+"4b38f271f964a520cf5225e3","Ruby Tuesday","Food::American Restaurant",27.945904020746248,-82.50521803253416
+"4b390d34f964a520235525e3","Pelagia Trattoria","Food::Italian Restaurant",27.96563743857858,-82.51972790680657
+"4b390e3ff964a5203b5525e3","Wright's Gourmet House","Food::Sandwich Place",27.931931343496103,-82.50549955215533
+"4b3a31f3f964a520206225e3","Gilligan's","Nightlife Spot::Bar",27.947309663618853,-82.45493133544053
+"4b3a5976f964a520466525e3","The Palm Restaurant","Food::Steakhouse",27.94546919982925,-82.52513408660889
+"4b3a6621f964a520646625e3","Starbucks","Food::Coffee Shop",27.94670130543569,-82.5267219543457
+"4b3a99bff964a520cf6a25e3","Five Guys","Food::Fast Food Restaurant",27.90274228,-82.50582
+"4b3abc7cf964a520966d25e3","Yogani","Shop & Service::Gym / Fitness Center::Yoga Studio",27.941782375599317,-82.47151298822641
+"4b3ba42df964a520c87725e3","Walmart Neighborhood Grocery","Shop & Service::Department Store",27.945519149021102,-82.47562737298456
+"4b3bb418f964a5203b7925e3","Sonny's Real Pit Bar-B-Q","Food::BBQ Joint",27.964566,-82.505205
+"4b3beb45f964a520597e25e3","Cappy's Pizza","Food::Pizza Place",27.991307,-82.45961451666666
+"4b3bf306f964a520027f25e3","Five Guys","Food::Burger Joint",27.94950666268485,-82.4604070186615
+"4b3cc747f964a5202b8725e3","IHOP","Food::Breakfast Spot",27.95920091068629,-82.52621742830318
+"4b3cd0cdf964a520b18725e3","Old Navy","Shop & Service::Clothing Store",27.94664443933249,-82.52663612365723
+"4b3cf0d3f964a5201a8a25e3","Chick-fil-A","Food::Fast Food Restaurant",27.965181202561226,-82.52097129821777
+"4b3cfadcf964a520078b25e3","Wet Willie's","Nightlife Spot::Bar",27.94304121105766,-82.44714425760695
+"4b3cffbbf964a520838b25e3","Grand Hyatt Tampa Bay","Travel & Transport::Hotel",27.96537016448834,-82.54992962636324
+"4b3e55ecf964a520799b25e3","Beef 'O' Brady's","Food::American Restaurant",28.096954822540283,-82.50349696
+"4b3e5cf7f964a520f29b25e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.995073660876464,-82.48747733614574
+"4b3ed946f964a5209ea225e3","The SoHo Tavern","Nightlife Spot::Bar",27.94205697869284,-82.48287190250763
+"4b3f687ff964a5207ba625e3","La Creperia Cafe","Food::French Restaurant",27.960327,-82.439577
+"4b3fd675f964a5201cb025e3","Koto Japanese Steakhouse","Food::Japanese Restaurant",27.93915919218143,-82.48307283483621
+"4b400a8ef964a520b2b425e3","Todd Couples Superstore","Shop & Service::Clothing Store::Lingerie Store",28.068997171607407,-82.45073107746795
+"4b401178f964a52032b525e3","RaceTrac","Shop & Service::Gas Station / Garage",28.06900461197506,-82.44632423584005
+"4b401e4ff964a520d0b525e3","Coyote Ugly Saloon","Nightlife Spot::Whisky Bar",27.960379,-82.43979
+"4b4020f5f964a520f7b525e3","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4b40d6c2f964a520e9bb25e3","Hillsborough County Science Library at MOSI","College & University::College Library",28.053582,-82.404578
+"4b413aacf964a520b3c325e3","McDonald's","Food::Fast Food Restaurant",28.055109380982724,-82.45024681091309
+"4b416209f964a5200ec625e3","G Bar","Nightlife Spot::Gay Bar",27.96019990950716,-82.44396463520938
+"4b424452f964a5205dd025e3","McDonald's","Food::Fast Food Restaurant",27.99667483,-82.43860602378845
+"4b424c10f964a520f8d025e3","Education Building (EDU)","College & University::College Academic Building",28.060400763596768,-82.41080492734903
+"4b427f99f964a5201bd525e3","California Pizza Kitchen","Food::Pizza Place",27.96408207062312,-82.52186296348656
+"4b436afcf964a520e4df25e3","Sa Ri One Korean Restaurant","Food::Korean Restaurant",27.952,-82.509194
+"4b437608f964a520e6e025e3","MOSI - IMAX Dome Theater","Arts & Entertainment::Movie Theater::Indie Movie Theater",28.053641047442284,-82.404635
+"4b438410f964a52030e225e3","Social Sciences Building (SOC)","College & University::College Academic Building",28.061492093214913,-82.40939734069107
+"4b449c4df964a520b9f725e3","USF Tampa Bookstore","College & University::College Bookstore",28.063289552119752,-82.41273880004883
+"4b44ee14f964a520030026e3","Chipotle Mexican Grill","Food::Mexican Restaurant",27.947419751287605,-82.52399266940925
+"4b44ee47f964a5200b0026e3","Cody's Original Roadhouse","Food::Steakhouse",28.08105,-82.427139
+"4b451851f964a520650426e3","Tre Amici @ The Bunker","Food::American Restaurant",27.96131110982449,-82.43789596603372
+"4b4558caf964a520ff0a26e3","Wine Exchange Bistro and Wine Bar","Food::Breakfast Spot",27.936026206083323,-82.47620907857825
+"4b455a19f964a520270b26e3","Lettuce Lake Park","Outdoors & Recreation::Hiking Trail",28.072624033050573,-82.3743724822998
+"4b466386f964a520721f26e3","Crabby Bill's","Food::Seafood Restaurant",27.96728158670439,-82.57052850058507
+"4b4676aef964a520df2126e3","Wings Gone Wild","Food::Wings Joint",27.919651935041337,-82.49481049831566
+"4b467d52f964a520792226e3","Sakura","Food::Sushi Restaurant",28.032632,-82.644934
+"4b4768aaf964a5202c3126e3","EVOS Westshore Plaza","Food::Vegetarian / Vegan Restaurant",27.946635317037007,-82.52743282440099
+"4b47dc56f964a520e84126e3","Le France","Food::French Restaurant",27.960285186767578,-82.44145202636719
+"4b4893f9f964a520b34f26e3","Dunkin' Donuts","Food::Donut Shop",28.03232225629809,-82.42439696104601
+"4b490a2ff964a5203e6326e3","Brio Tuscan Grille","Food::Italian Restaurant",27.96521910679116,-82.52071380615234
+"4b490b72f964a5206e6326e3","Nordstrom","Shop & Service::Department Store",27.964006164829453,-82.52230167388916
+"4b4a03f1f964a520f77726e3","Perkins","Food::American Restaurant",28.0548292173592,-82.40132986903163
+"4b4a284cf964a520bf7c26e3","Krystal Burgers","Food::Burger Joint",27.99653492605265,-82.4869010128116
+"4b4a9108f964a520c28a26e3","Walmart","Shop & Service::Department Store",28.068046527404075,-82.42891103266295
+"4b4aa195f964a520ec8b26e3","McDonald's","Food::Fast Food Restaurant",28.068662553718315,-82.43345655957808
+"4b4b2f1df964a520f69326e3","Hertz Rental Car","Travel & Transport::Rental Car Location",27.979169861129815,-82.53550145320504
+"4b4b58c1f964a520409826e3","Liang's Bistro","Food::Chinese Restaurant",28.127593,-82.367725
+"4b4b681ef964a5206c9a26e3","Lenny's Sub Shop","Food::Sandwich Place",27.944407682189375,-82.51178741455078
+"4b4b7ff5f964a520219e26e3","Jamba Juice","Food::Juice Bar",28.054865575820198,-82.40093976259232
+"4b4bb7bcf964a5201da526e3","Cellini","Food::Italian Restaurant",27.884431,-82.486038
+"4b4bd7fcf964a52059a926e3","Verizon Wireless","Shop & Service::Electronics Store",28.127368155114382,-82.36963323012945
+"4b4c9622f964a520d4b626e3","Vaughn Center","College & University::Student Center",27.94580092195217,-82.46555685997009
+"4b4ce83ef964a520bfc326e3","Tampa Union Station","Travel & Transport::Train Station",27.952847547893743,-82.4505776627207
+"4b4ce9f0f964a52002c426e3","Behavioral Sciences Building (BEH)","College & University::College Academic Building",28.062039068914327,-82.41030249072877
+"4b4d23d6f964a52065cc26e3","7-Eleven","Shop & Service::Gas Station / Garage",28.068872783954188,-82.39318204369631
+"4b4d46bdf964a520e8cf26e3","Steak 'n Shake","Food::Diner",28.127212585641598,-82.36696382744397
+"4b4e8bcdf964a52010f126e3","Applebee's","Food::American Restaurant",27.995689290860767,-82.50987619400627
+"4b4f2bfaf964a52027fc26e3","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",28.0319234,-82.42762
+"4b4f3c10f964a52041fe26e3","Communication & Information Sciences Building (CIS)","College & University::College Academic Building::College Communications Building",28.058517861277082,-82.41134405136108
+"4b4f84f7f964a520d00927e3","Lenny's Sub Shop","Food::Sandwich Place",28.069544,-82.367406
+"4b4f8da8f964a5202e0b27e3","Circle K","Shop & Service::Gas Station / Garage",28.06965,-82.368402
+"4b4fa0edf964a5203a0e27e3","Duke's Retired Surfers Island Bar","Nightlife Spot::Bar",27.885446316913164,-82.53472475014922
+"4b50b131f964a520c32d27e3","Firehouse Subs","Food::American Restaurant",28.14447046645139,-82.35480308532715
+"4b50b5f5f964a520c22e27e3","Moe's Southwest Grill","Food::Burrito Place",27.964196572599086,-82.50441592037761
+"4b50b790f964a520212f27e3","Tijuana Flats","Food::Mexican Restaurant",27.94177923,-82.476549
+"4b50ba55f964a5209e2f27e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.145203634823925,-82.35482454299927
+"4b51ebe7f964a5206f5b27e3","Grand Central at Kennedy - East Building","Professional & Other Places::Building",27.95110977660571,-82.44706490108585
+"4b52038ef964a520596127e3","Qdoba Mexican Grill","Food::Mexican Restaurant",28.05397,-82.401405
+"4b521524f964a520786627e3","Grape","Nightlife Spot::Wine Bar",27.965598148358385,-82.52011299133301
+"4b522698f964a520b26b27e3","Thomas Parking Garage","College & University::General College & University",27.94597152150437,-82.46803522109985
+"4b522dc2f964a520bd6d27e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",28.087097501421855,-82.50587582588196
+"4b52522df964a5200e7727e3","Pizzaiolo Bavaro","Food::Pizza Place",27.94908459489745,-82.45866057012746
+"4b52766ef964a520737e27e3","SoHo PitaPit","Food::Sandwich Place",27.939722171936868,-82.48292477949285
+"4b5276fef964a520907e27e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",28.129219426569325,-82.3648452758789
+"4b52a2e1f964a520928427e3","Fuma Bella","Nightlife Spot::Whisky Bar",27.960897938828168,-82.44449615478516
+"4b533134f964a520bf9127e3","Tampa Bay Bagel Co.","Food::Bagel Shop",27.905717849731445,-82.49365234375
+"4b533212f964a520de9127e3","Zendah Grotto","Professional & Other Places::Event Space",27.97722,-82.51812368333333
+"4b533d30f964a520a19327e3","Rowlett Park (Dog park)","Outdoors & Recreation::Dog Run",28.0261917878017,-82.43035039353857
+"4b538036f964a520db9f27e3","Chipotle Mexican Grill","Food::Burrito Place",28.05487175899893,-82.42998526437755
+"4b538b7df964a5206fa127e3","Dillard's","Shop & Service::Department Store",27.96377873669391,-82.51912593841553
+"4b53a5b5f964a52023a627e3","Hooters","Food::Wings Joint",27.99659018814735,-82.51442168719967
+"4b53b2dff964a5204aa827e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.941968547544526,-82.46013633944159
+"4b53ccf9f964a520b8ab27e3","Pour House at Grand Central","Nightlife Spot::Bar",27.951406871717907,-82.44768798351288
+"4b5463e0f964a5208eb927e3","Bayside Physicians","Professional & Other Places::Medical Center::Doctor's Office",27.94376318424667,-82.49290466308594
+"4b549b3bf964a52058c227e3","Gelateria Del Duomo","Food::Ice Cream Shop",27.965795516967773,-82.52073669433594
+"4b54a2e5f964a5200cc427e3","Smoking Area","Outdoors & Recreation::Other Great Outdoors",27.982805233033275,-82.53195762634277
+"4b54cf03f964a52073cd27e3","US Airways Club","Travel & Transport::Airport::Airport Terminal",27.976618,-82.537698
+"4b54edd3f964a5209fd327e3","Pet Supermarket","Shop & Service::Pet Store",27.962511777877808,-82.50585
+"4b54f010f964a5201ad427e3","Planet Beach","Shop & Service::Spa / Massage",27.92988,-82.507197
+"4b550a87f964a520f0d827e3","James Joyce Irish Pub","Nightlife Spot::Bar",27.961162202108515,-82.43938805076607
+"4b55240df964a520a3dc27e3","Pinarama Bowling","Arts & Entertainment::Bowling Alley",27.892503174782906,-82.50597000162504
+"4b55be28f964a520f9ed27e3","Physics and Mathematics Building (PHY)","College & University::College Academic Building::College Science Building",28.05980548126235,-82.41479873657227
+"4b56226bf964a520ee0128e3","The Bull Market","Shop & Service::Flea Market",28.071711983333334,-82.41434816666667
+"4b56239ff964a5202e0228e3","Hess Express","Shop & Service::Gas Station / Garage",28.082494026665042,-82.4124832716553
+"4b562b24f964a520690328e3","John H. Sykes College of Business","College & University::College Academic Building",27.947184666104025,-82.46562123298645
+"4b564317f964a5201f0828e3","Humanities Building","College & University::College Academic Building::College Arts Building",27.975819576625916,-82.51041532631325
+"4b565855f964a520780c28e3","Bayshore Park","Outdoors & Recreation::Hiking Trail",27.919218709194713,-82.49095103638324
+"4b566b18f964a5208d0f28e3","Kona Grill","Food::American Restaurant",27.964779066549692,-82.51334876642437
+"4b5711aef964a520272528e3","ABC Action News (WFTS-TV)","Professional & Other Places::Office",27.975767341974446,-82.50093761161718
+"4b5718f0f964a5204b2628e3","Riverside Center","College & University::College Administrative Building",27.94730787534015,-82.46346473693848
+"4b573e42f964a520da2c28e3","Salem's Gyros & Subs","Food::Fast Food Restaurant",28.06955858,-82.43207686
+"4b5742c7f964a520f22d28e3","krystals","Food::Fast Food Restaurant",28.069414138793945,-82.43690490722656
+"4b574e1bf964a5205d3028e3","Cass building","College & University::College Academic Building::College Communications Building",27.949288681455876,-82.46618449687958
+"4b579f25f964a520ab3928e3","Starbucks","Food::Coffee Shop",27.956481829673457,-82.52468347549438
+"4b57bce5f964a520ad3e28e3","The Westin Tampa Bay","Travel & Transport::Hotel",27.968088593232434,-82.56559589748089
+"4b57bd4ff964a520bc3e28e3","Romano's Macaroni Grill","Food::Italian Restaurant",28.131328614046115,-82.36398181441305
+"4b5874faf964a520b25828e3","Grand Central at Kennedy - East Building","Professional & Other Places::Building",27.95110977660571,-82.44706490108585
+"4b58c213f964a5207e6928e3","Arco Iris","Food::Cuban Restaurant",27.974151611328125,-82.48877716064453
+"4b58e400f964a5202c7128e3","Taverna Opa Tampa","Food::Greek Restaurant",27.942717613488554,-82.44670515038375
+"4b58ebc3f964a520147328e3","McDonald's","Food::Fast Food Restaurant",28.08290184417636,-82.54333139798163
+"4b590bccf964a520ff7928e3","Ybor Social","Nightlife Spot::Gay Bar",27.961372679197492,-82.44293823677098
+"4b59ce06f964a520009928e3","Target","Shop & Service::Miscellaneous Shop",27.894428731565867,-82.50462055206299
+"4b59ffacf964a520bea628e3","Ruby Tuesday","Food::American Restaurant",28.12921440315251,-82.36792779019409
+"4b5a32bcf964a5209cb328e3","Tampa Catholic High School","Professional & Other Places::School::High School",27.987845555156348,-82.47726202011108
+"4b5a33c2f964a520e8b328e3","Chili's Grill & Bar","Food::American Restaurant",28.131826232521053,-82.36353688502751
+"4b5a3403f964a520fcb328e3","Ho-Ho to Go","Nightlife Spot::Karaoke Bar",27.966631650924683,-82.485111
+"4b5a3990f964a52087b528e3","Tia's Tex-Mex","Food::Mexican Restaurant",28.053885840848693,-82.42768861083215
+"4b5a577bf964a52099be28e3","VIP Cut Rate Liquors and Bar","Nightlife Spot::Lounge",28.017363251807154,-82.48511385115722
+"4b5a7325f964a520d9c528e3","Chick-fil-A","Food::Fast Food Restaurant",28.12705984376109,-82.36815553769027
+"4b5aaa54f964a52000d028e3","IHOP","Food::Breakfast Spot",27.935609511660797,-82.50549955215533
+"4b5b0d53f964a520f5e028e3","Curtis Hixon Waterfront Park","Outdoors & Recreation::Park",27.949096803265437,-82.46111487880702
+"4b5b2460f964a52023e628e3","Smoothie King","Food::Snack Place",27.93768469703897,-82.48255463974623
+"4b5b2502f964a5204ee628e3","McDonald's","Food::Fast Food Restaurant",28.146094,-82.3538434492756
+"4b5baef7f964a520d50f29e3","Muvico Centro Ybor 20","Arts & Entertainment::Movie Theater",27.961080238379445,-82.44167902617586
+"4b5bbe1ef964a520911329e3","Green Iguana Bar & Grill","Nightlife Spot::Dive Bar",27.90427101626294,-82.52693081557129
+"4b5c57d8f964a520b92b29e3","Samaria Cafe","Food::Sandwich Place",27.948399764965547,-82.45904141683339
+"4b5c9e7cf964a520493a29e3","Joffrey's","Food::Coffee Shop",27.960941624054534,-82.44167902617586
+"4b5cdba3f964a520b74729e3","Cracker Barrel","Food::American Restaurant",28.081115244778633,-82.42507696151733
+"4b5cdc6df964a520e64729e3","Starbucks","Food::Coffee Shop",28.069600000906895,-82.3675811290741
+"4b5d67cdf964a520095c29e3","The Castle","Nightlife Spot::Nightclub",27.961916650808618,-82.44187295436859
+"4b5dd8ebf964a520656f29e3","Pho Quyen","Food::Ramen /  Noodle House",28.05617498,-82.42914966666666
+"4b5def99f964a520ba7429e3","Moxies Cafe","Food::Café",27.94846289037036,-82.45925828693801
+"4b5ee56af964a520e09c29e3","Sage Software","Professional & Other Places::Office",27.963807674999998,-82.51670215
+"4b5f3aadf964a520c4ae29e3","La Bamba","Food::Cuban Restaurant",27.95619010925293,-82.52536010742188
+"4b5f4fd2f964a52069b329e3","Cell Phone Waiting Lot","Professional & Other Places::Parking",27.966090900405412,-82.53723621368408
+"4b5f83d1f964a520f1be29e3","Taco Bell / Long John Silver's","Food::Fast Food Restaurant",28.033730494035957,-82.64699643329249
+"4b60d2f5f964a520b8fb29e3","Walgreens","Shop & Service::Drugstore / Pharmacy",27.89314131809783,-82.5261540157437
+"4b60ec78f964a520a9012ae3","Starbucks","Food::Café",27.919955,-82.499246
+"4b61c3f1f964a52055212ae3","Art Institute of Tampa","College & University::University",27.981956166257014,-82.50064686357851
+"4b61e649f964a520002a2ae3","Roma Pizza","Food::Pizza Place",27.96028791,-82.43962
+"4b61fa84f964a520a52e2ae3","CVS / Pharmacy","Shop & Service::Drugstore / Pharmacy",27.93762,-82.483222
+"4b6204e2f964a520e4302ae3","Chili's Too","Food::American Restaurant",27.976855075894214,-82.5377082824707
+"4b62e821f964a52046582ae3","Shell","Shop & Service::Gas Station / Garage",27.9525353552399,-82.52439957842834
+"4b630153f964a520455d2ae3","AAFES Base Exchange","Shop & Service::Department Store",27.863093603289688,-82.49822039124628
+"4b63164ef964a52009622ae3","Chick-fil-A","Food::Fast Food Restaurant",27.938763455615284,-82.50616550445557
+"4b632630f964a52083662ae3","Dunkin' Donuts","Food::Donut Shop",27.89307129,-82.51908838748932
+"4b632821f964a52015672ae3","Chili's Too","Food::American Restaurant",27.982161,-82.531968
+"4b6343ebf964a520836e2ae3","Lemon Grass Thai Kitchen","Food::Indian Restaurant",27.944903638722188,-82.50308382285768
+"4b64893cf964a520abbb2ae3","Bayshore Blvd","Outdoors & Recreation::Hiking Trail",27.929204088673075,-82.47655391693115
+"4b64e7eff964a520efd82ae3","Centro Cantina","Nightlife Spot::Bar",27.960471498400114,-82.44166374206543
+"4b64fb09f964a52082dd2ae3","Wooden Door","Nightlife Spot::Bar",27.90898302907922,-82.52701163291931
+"4b652e0af964a520cbe72ae3","Pete's Place","Nightlife Spot::Bar",27.927371,-82.5136
+"4b662f79f964a52008182be3","Bonefish Grill","Food::Seafood Restaurant",27.936071605437455,-82.50386616896421
+"4b66ce1bf964a520842b2be3","Mom's Place Diner","Food::Diner",27.990060434149246,-82.50577970784416
+"4b66ecc6f964a5208f302be3","College of Business (BSN)","College & University::College Academic Building",28.05824329325565,-82.4098527431488
+"4b671547f964a5203c392be3","Ciccio's Lodge","Food::Restaurant",28.099615,-82.398404
+"4b671563f964a52049392be3","Urban Cantina","Food::Mexican Restaurant",27.94817025347968,-82.45930210119195
+"4b673437f964a5203d412be3","Sony Store","Shop & Service::Electronics Store",27.964704587456588,-82.51971733705436
+"4b673bcff964a520de422be3","John F. Germany Public Library","Professional & Other Places::Library",27.95115246290248,-82.46197175056551
+"4b68b5b3f964a52074882be3","Chemistry Building (CHE)","College & University::College Academic Building::College Science Building",28.06118776202011,-82.41531372070312
+"4b69b153f964a520fdad2be3","Winn-Dixie","Shop & Service::Food & Drink Shop::Grocery Store",28.08131136628411,-82.43229771661828
+"4b69bdf6f964a5203bb12be3","7-Eleven","Shop & Service::Gas Station / Garage",27.925976256911515,-82.45269898823116
+"4b69d445f964a520c6b62be3","Mojo Books & Music","Shop & Service::Bookstore",28.05531237157375,-82.43024455919686
+"4b6a2776f964a52091ca2be3","The Province","Professional & Other Places::Building",28.04819740864673,-82.41617202758789
+"4b6a3166f964a5207acc2be3","Giordano's","Food::Pizza Place",27.949070916666667,-82.50543594360352
+"4b6a4b0ff964a52008d12be3","IHOP","Food::Breakfast Spot",28.032250330247567,-82.42047006216947
+"4b6b0968f964a52057ee2be3","Forever 21","Shop & Service::Clothing Store::Women's Store",27.964674657443325,-82.52110724554822
+"4b6b200af964a52079f42be3","Athenos III","Food::Greek Restaurant",28.054655075073242,-82.40046691894531
+"4b6b42d1f964a520b1fc2be3","Mint Hair Lounge","Shop & Service::Cosmetics Shop",27.93483807504696,-82.50407761233423
+"4b6b431bf964a520c2fc2be3","Pool @ The Quarter at Ybor","Outdoors & Recreation::Pool",27.962814530837907,-82.43843704462051
+"4b6b6ad7f964a52068072ce3","National Car Rental","Travel & Transport::Rental Car Location",27.9772236598862,-82.53558070812566
+"4b6b7385f964a520b0092ce3","Cold Stone Creamery","Food::Ice Cream Shop",27.930086,-82.5067123
+"4b6c421bf964a520312c2ce3","LabCorp","Professional & Other Places::Medical Center",27.98200115452031,-82.48770469173435
+"4b6c5cc3f964a520b8332ce3","Qdoba Mexican Grill","Food::Mexican Restaurant",27.893925,-82.506634
+"4b6c5fc1f964a520c1342ce3","USF Theatre Center","Arts & Entertainment::Performing Arts Venue::Theater",28.063876531201426,-82.41456270217896
+"4b6c6146f964a52034352ce3","Plant Hall","College & University::College Academic Building",27.94664443933249,-82.46419966220856
+"4b6c648af964a5205a362ce3","Gate E62","Travel & Transport::Airport::Airport Gate",27.980366,-82.537365
+"4b6c7583f964a520d43b2ce3","Gate F78","Travel & Transport::Airport::Airport Gate",27.977101426493633,-82.53845930099487
+"4b6c758ff964a520d63b2ce3","David's Bridal","Shop & Service::Bridal Shop",27.945383338498644,-82.52061576019979
+"4b6c7a21f964a520523d2ce3","Bank of America","Shop & Service::Bank",28.03305287283561,-82.64526091542274
+"4b6c8432f964a52030402ce3","Grow Financial Federal Credit Union","Professional & Other Places::Building",27.940981234484443,-82.4693446406809
+"4b6c887ff964a52056412ce3","d'Lites Emporium","Food::Ice Cream Shop",28.05392074584961,-82.40145111083984
+"4b6cabc7f964a520fa4a2ce3","Temple Terrace Animal and Bird Hospital","Professional & Other Places::Medical Center::Veterinarian",28.032322170809497,-82.39992696514244
+"4b6cd195f964a520b7562ce3","The Anchor Bar","Nightlife Spot::Bar",27.925637,-82.45312213897705
+"4b6cf32bf964a520b65f2ce3","Yeoman's Road Pub","Nightlife Spot::Pub",27.9266168,-82.453336
+"4b6d92b1f964a520647d2ce3","The Westin Tampa Harbour Island","Travel & Transport::Hotel",27.93799541578892,-82.45464568365124
+"4b6dcc7df964a520d8902ce3","Avanzare Bar","Food::American Restaurant",27.94636172011171,-82.45791473925921
+"4b6dd5dcf964a52040942ce3","Tires Plus","Shop & Service::Automotive Shop",27.944387616666667,-82.47045
+"4b6df62cf964a5204b9f2ce3","Hao Wah","Food::Chinese Restaurant",27.927615712130546,-82.50612329345546
+"4b6dfeeaf964a520fea12ce3","Cracker Barrel","Food::American Restaurant",28.033513311472557,-82.64626847069509
+"4b6e0bdff964a5201da62ce3","Tempus Projects","Arts & Entertainment::Art Gallery",27.993295669555664,-82.4598617553711
+"4b6e28d5f964a520a0ae2ce3","The Vintage Lofts at West End Luxury Apartments","Residence::Residential Building (Apartment / Condo)",27.95098513245063,-82.47651100158691
+"4b6e376bf964a52042b22ce3","Habibi Cafe and Hookah Bar","Nightlife Spot::Hookah Bar",27.96046257019043,-82.440468
+"4b6e3e83f964a520eeb32ce3","Mateo's Fresh Mex","Food::Mexican Restaurant",27.94084358215332,-82.48273468017578
+"4b6e52f5f964a52058b82ce3","Blue Lizard Hookah Lounge","Nightlife Spot::Hookah Bar",28.05393081549431,-82.40051460002553
+"4b6ec6b8f964a52015ca2ce3","South Tampa Fellowship","Professional & Other Places::Spiritual Center::Church",27.890344739961805,-82.4860973245356
+"4b6ed422f964a52059cc2ce3","MD Oriental Market","Shop & Service::Food & Drink Shop::Grocery Store",28.055952043111663,-82.44730710983276
+"4b6f24eff964a5200ee02ce3","Paninoteca Mediterranean Cafe","Food::Mediterranean Restaurant",27.949248057237003,-82.458584
+"4b6f3691f964a52096e42ce3","Straz Center for the Performing Arts","Arts & Entertainment::Performing Arts Venue",27.951762268697927,-82.46400117874146
+"4b6f3822f964a520f0e42ce3","Starbucks","Food::Coffee Shop",27.98019023625298,-82.53809452056885
+"4b6f3bc4f964a520fde52ce3","Bobalouie's Grill & Sports Garden","Nightlife Spot::Bar",28.08031734716205,-82.43644617919722
+"4b6fa722f964a52027f92ce3","Chevron Station","Shop & Service::Gas Station / Garage",27.944607,-82.52413655
+"4b705e4ef964a520bf152de3","Sports Authority","Shop & Service::Sporting Goods Shop",27.944542674236853,-82.52706292351311
+"4b707152f964a520b31a2de3","Rhino Rally","Arts & Entertainment::Theme Park",28.037250965559128,-82.42230892181396
+"4b708505f964a520801f2de3","Jungala","Arts & Entertainment::Theme Park",28.038690353861565,-82.42441177368164
+"4b708770f964a52010202de3","Sheikra","Arts & Entertainment::Theme Park",28.03689111547455,-82.42454051971436
+"4b708bb8f964a52004212de3","Jai Dee Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",27.999998426718754,-82.45902025873804
+"4b709338f964a520e9222de3","Gwazi","Arts & Entertainment::Theme Park",28.033809146872958,-82.42323267456473
+"4b7093faf964a52009232de3","Front Gate","Arts & Entertainment::Theme Park",28.033051061336963,-82.42152035236359
+"4b709548f964a52061232de3","Zagora Café","Food::Café",28.033761315958337,-82.42236793041229
+"4b70a21cf964a5207e262de3","Skyway Park","Outdoors & Recreation::Other Great Outdoors",27.975282587543994,-82.54809655523303
+"4b70ad1ef964a52019292de3","Earl of Sandwich","Food::Sandwich Place",27.96521910679116,-82.52079963684082
+"4b70bcb6f964a520482c2de3","Soho sushi","Food::Sushi Restaurant",27.944774627685547,-82.48509216308594
+"4b718143f964a520294a2de3","Italian Club","Arts & Entertainment::General Entertainment",27.96027946472168,-82.43946075439453
+"4b719893f964a520f14f2de3","Jackson Street Bistro","Food::Breakfast Spot",27.94742774963379,-82.45632934570312
+"4b71bca3f964a5206d592de3","1603 Tattoo & Body Piercing","Shop & Service::Tattoo Parlor",27.960379,-82.44158864021301
+"4b720162f964a5209e692de3","The Floridian","Food::Sandwich Place",27.94487687,-82.518957
+"4b720dc0f964a5204d6c2de3","Taco Bell","Food::Taco Place",28.098770493586187,-82.50289352111129
+"4b720ec1f964a520776c2de3","DOLLAR TREE","Shop & Service::Miscellaneous Shop",27.995214504585793,-82.48821756089458
+"4b7217ddf964a520526e2de3","Pegasus lounge","Nightlife Spot::Dive Bar",28.040437060642464,-82.42672547543933
+"4b721b8af964a5201d6f2de3","P.F. Chang's China Bistro","Food::Chinese Restaurant",27.94675817150894,-82.52594947814941
+"4b726983f964a520337a2de3","Dunkin' Donuts","Food::Coffee Shop",28.131362461208568,-82.36582696437836
+"4b72e4b9f964a520e88d2de3","Moe's Southwest Grill Marshall Center","Food::Mexican Restaurant",28.064300537109375,-82.41339874267578
+"4b7302ccf964a520a5952de3","Creative Loafing","Professional & Other Places::Office",27.961594462394714,-82.445209
+"4b7316d7f964a520c89a2de3","Advanced Aesthetics","Professional & Other Places::Medical Center::Doctor's Office",27.947992,-82.483151
+"4b7323bef964a520b99d2de3","Subway","Food::Sandwich Place",27.925588607788086,-82.453125
+"4b7331cef964a52020a12de3","Jimmy John's","Food::Sandwich Place",27.94924,-82.458955
+"4b73324bf964a52040a12de3","Ceviche Tapas Bar & Restaurant","Food::Tapas Restaurant",27.94088185230132,-82.48528182506561
+"4b7348adf964a52048a62de3","Restaurant BT","Food::Vietnamese Restaurant",27.93571662902832,-82.4766616821289
+"4b736d09f964a520dfad2de3","Mise en Place","Food::American Restaurant",27.944613273341975,-82.46526161640202
+"4b73717df964a520cdae2de3","Maggiano's Little Italy","Food::Italian Restaurant",27.946552351836896,-82.5262015751688
+"4b7421b5f964a52048c92de3","BeBe","Arts & Entertainment::Arcade",27.96418571472168,-82.52030944824219
+"4b74228af964a52063c92de3","Elder Ford of Tampa","Shop & Service::Car Dealership",28.038837717781245,-82.45939581396937
+"4b74289ff964a52066ca2de3","Panera Bread","Food::Bakery",27.944471657878257,-82.52383053302765
+"4b74313ff964a52038cc2de3","Plaza Research","Professional & Other Places::Office",27.980228156260697,-82.54855614826711
+"4b7431c6f964a52054cc2de3","Centre Club","Professional & Other Places::Event Space",27.943681642885352,-82.52475892465283
+"4b744061f964a52006d02de3","Tampa Museum of Art","Arts & Entertainment::Art Gallery",27.949413123249375,-82.46270166999189
+"4b74e42cf964a5200cf72de3","Fun-Lan Drive-In","Arts & Entertainment::Movie Theater",27.99756832963874,-82.43376346451736
+"4b7596d3f964a52072162ee3","Champions Sports Bar","Nightlife Spot::Sports Bar",27.941126894693557,-82.45401089767874
+"4b76bfaff964a520735c2ee3","Jalapenos de Ybor","Food::Mexican Restaurant",27.959077835083008,-82.44038391113281
+"4b76c46af964a520b05d2ee3","Channelside Citgo","Shop & Service::Gas Station / Garage",27.955526886561934,-82.43730335609834
+"4b76e674f964a5209f682ee3","jcpenney","Shop & Service::Department Store",27.94582666427053,-82.52780272330052
+"4b76fd3ef964a520f6712ee3","Ross Dress For Less","Shop & Service::Clothing Store",28.071229920885003,-82.42939787865288
+"4b7756cbf964a52052932ee3","Starbucks","Food::Coffee Shop",27.941016,-82.506033
+"4b783bbbf964a5206abe2ee3","Montu","Arts & Entertainment::Theme Park",28.034312943813102,-82.41830170154572
+"4b78517ff964a520e2c42ee3","Lowe's Home Improvement","Shop & Service::Hardware Store",27.904260050648755,-82.50505024348504
+"4b785d1bf964a5208ec82ee3","Sky Ride","Arts & Entertainment::Theme Park",28.03434372124961,-82.42006659507751
+"4b7bb4caf964a520726b2fe3","7-Eleven","Shop & Service::Gas Station / Garage",28.11856596530672,-82.37876350989077
+"4b7bb663f964a5209f6b2fe3","Moe's Southwestern Grill","Food::Taco Place",28.128009796142578,-82.36873626708984
+"4b7bb6ccf964a520ad6b2fe3","7-Eleven","Shop & Service::Gas Station / Garage",28.129294989481384,-82.36641298560811
+"4b7c2a21f964a5207b812fe3","Crate and Barrel","Shop & Service::Furniture / Home Store",27.960653951568563,-82.5234483587787
+"4b7c6e44f964a520db922fe3","Oceanic Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",27.957630946707553,-82.4606335449561
+"4b7c77fef964a5205b952fe3","Downtown Dogs","Shop & Service::Pet Store",27.93619,-82.4762033
+"4b7ca12ef964a5208c9e2fe3","Walgreens","Shop & Service::Drugstore / Pharmacy",27.995546550702187,-82.47644704763745
+"4b7e9e73f964a520aaf52fe3","Lotus Room Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",27.9449512,-82.47023758
+"4b7ece4ff964a520e40030e3","Clear Channel Media + Entertainment","Professional & Other Places::Office",27.893063276839595,-82.5108003616333
+"4b7edbcdf964a520c30430e3","County Center","Professional & Other Places::Government Building",27.94843571307389,-82.45474619089664
+"4b8074fbf964a5202f7430e3","Market on 7th","Arts & Entertainment::Music Venue::Rock Club",27.960422,-82.43867218
+"4b80dffef964a520149030e3","Steak 'n Shake","Food::Diner",28.05484135326406,-82.44316044803114
+"4b818e12f964a520bdae30e3","Airside E","Travel & Transport::Airport::Airport Terminal",27.980607124046262,-82.53845930099487
+"4b81f56af964a5206ec530e3","Airside A","Travel & Transport::Airport::Airport Terminal",27.976248672021626,-82.53238677978516
+"4b82878cf964a520e6d630e3","USF Psychology","College & University::College Academic Building::College Science Building",28.063690503805482,-82.41810958215174
+"4b82c7b7f964a52075e430e3","The Roosevelt","Arts & Entertainment::Art Gallery",27.960681915283203,-82.44306945800781
+"4b82c902f964a520c8e430e3","Burger King","Food::Fast Food Restaurant",27.980114438299246,-82.53556251525879
+"4b82d53ef964a520f4e730e3","Firehouse Subs","Food::Sandwich Place",28.055318363867382,-82.4288581144148
+"4b82dc3af964a52078e930e3","Gate C39","Travel & Transport::Airport::Airport Gate",27.982805233033275,-82.53208637237549
+"4b82de0ff964a520dae930e3","The Palms Lounge","Nightlife Spot::Nightclub",28.090871810913086,-82.40495300292969
+"4b82df24f964a5201dea30e3","Starbucks","Food::Coffee Shop",27.982123066073417,-82.53195762634277
+"4b82e0d8f964a52092ea30e3","Ballast Point Park","Outdoors & Recreation::Park",27.889298704815083,-82.48133897781372
+"4b82e186f964a520b1ea30e3","Firehouse Subs","Food::Sandwich Place",27.924931,-82.506204
+"4b82fb6ef964a520cbf030e3","Steak 'N Shake","Food::Fast Food Restaurant",27.92401157789766,-82.50636115941406
+"4b83120ef964a520cef530e3","Tampa Union Station","Travel & Transport::Train Station",27.952847547893743,-82.4505776627207
+"4b831891f964a5205ff730e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.894561483189957,-82.50319361686707
+"4b861bfff964a520178031e3","Tampa Port Authority","Outdoors & Recreation::Harbor / Marina",27.9500035659513,-82.4456311776196
+"4b86f377f964a520b8a731e3","Village Health Market","Shop & Service::Food & Drink Shop::Grocery Store",27.91598859,-82.49423903
+"4b8718e4f964a52072b031e3","Wendy's","Food::Fast Food Restaurant",28.069797630248335,-82.3617624360565
+"4b8724aaf964a520f5b231e3","T.G.I. Friday's","Food::American Restaurant",28.054246481281837,-82.43098010453456
+"4b872a35f964a5202fb431e3","Cold Stone Creamery","Food::Ice Cream Shop",27.943056,-82.44706936666667
+"4b875619f964a52006bc31e3","Cambridge Woods Apartments","Residence::Residential Building (Apartment / Condo)",28.07549901203029,-82.41624654577595
+"4b884e12f964a520efed31e3","CVS","Shop & Service::Drugstore / Pharmacy",27.981827957330715,-82.4674300919472
+"4b8855a2f964a52012f031e3","Lee Roy Selmon Athletic Center","College & University::College Administrative Building",28.060506091539317,-82.40527153015137
+"4b886574f964a520c8f431e3","Fresh Mouth","Food::Sandwich Place",27.960813522338867,-82.44168090820312
+"4b8879f1f964a520b1fa31e3","Splitsville","Nightlife Spot::Bar",27.943322459174794,-82.44694769382477
+"4b888a60f964a52057ff31e3","Circle K","Shop & Service::Gas Station / Garage",27.995953902786997,-82.4597396303524
+"4b88d1edf964a520f30e32e3","Centro Ybor Parking Garage","Professional & Other Places::Parking",27.959230073340564,-82.44271516799927
+"4b893272f964a5204c2232e3","Fleetwood Cleaners","Shop & Service::Miscellaneous Shop",27.924166917800903,-82.51726785
+"4b894eeef964a5204e2a32e3","Fresh Mouth Burger","Food::Burger Joint",27.96076334105562,-82.44164728107538
+"4b896dc2f964a5205d3532e3","Spa Moritz","Shop & Service::Spa / Massage",28.135127,-82.38257
+"4b896f30f964a520e33532e3","Bare Foot Billy's","Nightlife Spot::Bar",27.893746006355865,-82.49496459960938
+"4b8993a1f964a5202a4332e3","Neiman Marcus","Shop & Service::Department Store",27.96470212481315,-82.5190302996809
+"4b8997a7f964a520884432e3","Party City","Shop & Service::Department Store",28.05421,-82.43919975
+"4b899aeff964a5208e4532e3","Lakeshore Learning Store","Shop & Service::Toy / Game Store",27.945109043227927,-82.52027928829193
+"4b89a3d4f964a520644832e3","Sallys Beauty Suply","Shop & Service::Cosmetics Shop",28.071643472535232,-82.4289586590518
+"4b8a02b1f964a520815b32e3","MACDADDY'S Pizzarena Grill","Food::Pizza Place",27.901540756225586,-82.5059585571289
+"4b8a0fa8f964a5201f5e32e3","Czar Vodka Bar","Nightlife Spot::Cocktail Bar",27.960220922760538,-82.44332975137029
+"4b8aaaa6f964a520857832e3","Pink Flamingo Cafe","Food::Breakfast Spot",27.925456,-82.45303618333334
+"4b8ab64bf964a520857b32e3","Bob Sierra YMCA","Shop & Service::Gym / Fitness Center::Gym",28.09644109169752,-82.50955376972894
+"4b8abeb7f964a520087e32e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",27.956911542300826,-82.50671002800209
+"4b8af2cff964a520c28a32e3","Gamestop","Shop & Service::Video Game Store",28.054799419740593,-82.40085124969482
+"4b8bbfcff964a52078a932e3","L-3 Communications","Professional & Other Places::Office",27.94453732281711,-82.52994809770553
+"4b8bf39cf964a5204db432e3","Blue Baggage Claim","Travel & Transport::Airport::Airport Gate",27.979811245951588,-82.53466129302979
+"4b8c1be3f964a52070be32e3","Bank of America Operations Center","Shop & Service::Bank",27.895244203256265,-82.51395463943481
+"4b8c1d0bf964a520b5be32e3","Starbucks","Food::Coffee Shop",27.894063142401514,-82.50366529716214
+"4b8c26fcf964a520efc032e3","Critter Castaways","Arts & Entertainment::Theme Park",28.03370923077873,-82.42513060569763
+"4b8d450bf964a52000f132e3","Palma Ceia Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",27.928691168978002,-82.49374784608125
+"4b8d4c60f964a520d2f232e3","MedExpress Urgent Care","Professional & Other Places::Medical Center",27.981174964663897,-82.48980901723316
+"4b8d536ef964a520bcf432e3","Carrabba's Italian Grill","Food::Italian Restaurant",27.95020826964245,-82.50618672445799
+"4b8d5f22f964a520b9f732e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.907061313951452,-82.50316840124304
+"4b8dd862f964a5205f1033e3","Island Walk/Island Place","Professional & Other Places::Building",27.937754932222685,-82.44913343137843
+"4b8e6ec8f964a5206c2233e3","Herron Associates","Professional & Other Places::Office",27.951193632968423,-82.52410411834717
+"4b8e80c7f964a520b22533e3","Busch Gardens Entertainment","Professional & Other Places::Office",28.04295632251582,-82.41940140724182
+"4b8ea9faf964a5206f2f33e3","USF Juniper Starbucks","Food::Coffee Shop",28.06009864807129,-82.41795349121094
+"4b8eaaaaf964a520a72f33e3","Love's Artifacts Bar & Grill","Food::American Restaurant",27.8926808,-82.49373599193146
+"4b8ebd14f964a5201f3433e3","Subway","Food::Sandwich Place",27.932555,-82.507073
+"4b8ed636f964a520023a33e3","Frostings Etc","Food::Dessert Shop",27.939617156982422,-82.48289489746094
+"4b8f0365f964a5208a4433e3","Tampa Theatre","Arts & Entertainment::Movie Theater",27.95029790259859,-82.45897794252791
+"4b900103f964a520866f33e3","Gate F87","Travel & Transport::Airport::Airport Gate",27.976149,-82.53685
+"4b902e26f964a520907a33e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.083907637062012,-82.54300832748413
+"4b904813f964a520318133e3","The Refinery","Food::American Restaurant",27.994156356304426,-82.45929002396949
+"4b912400f964a52024a633e3","Party City","Shop & Service::Miscellaneous Shop",27.949082,-82.50594019889832
+"4b915cb1f964a5203eb633e3","Sam's Club","Shop & Service::Department Store",27.89021247161293,-82.50926834370017
+"4b91ca00f964a52091d733e3","Mangrove's","Nightlife Spot::Cocktail Bar",27.94262582555484,-82.48281955718994
+"4b91f88cf964a520a5e133e3","JJ's Cafe & Bar","Nightlife Spot::Bar",27.960237503940608,-82.44164728107538
+"4b9251a3f964a520eaf133e3","Starbucks","Food::Coffee Shop",27.94172526906234,-82.4549419151138
+"4b92652ff964a52088f633e3","Picnic Island Park","Outdoors & Recreation::Park",27.85332753205373,-82.55293533451866
+"4b928d25f964a5207e0334e3","Sephora","Shop & Service::Cosmetics Shop",27.964318877733213,-82.51950681209564
+"4b929fc0f964a520fb0a34e3","Zambia Smokehouse","Food::BBQ Joint",28.0370615709278,-82.42445468902588
+"4b92bb10f964a5201b1634e3","Walgreens","Shop & Service::Drugstore / Pharmacy",28.094311540971777,-82.50279837004118
+"4b92bc08f964a5208c1634e3","Gate F86","Travel & Transport::Airport::Airport Gate",27.97651397413537,-82.53762245178223
+"4b92f109f964a520da2834e3","Tampa International Airport (TPA)","Travel & Transport::Airport",27.979924943181857,-82.53455400466919
+"4b9314fcf964a520bc3334e3","Krispy Kreme Doughnuts","Food::Donut Shop",27.94495185681396,-82.49398575471946
+"4b933486f964a520123b34e3","Straz Hall","College & University::College Residence Hall",27.948516266167672,-82.46803522109985
+"4b93faaff964a5209d5e34e3","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.14541648921783,-82.2835636138916
+"4b93fcaef964a520435f34e3","Williams-Sonoma","Shop & Service::Food & Drink Shop",27.96427149704847,-82.5197696685791
+"4b941adbf964a520686834e3","Five Guys","Food::Burger Joint",28.16968831366599,-82.355403
+"4b94c1cdf964a5206b8234e3","Scorpion","Arts & Entertainment::Theme Park",28.037378806746805,-82.42321014404297
+"4b94c34af964a5208e8234e3","Sand Serpent","Arts & Entertainment::Theme Park",28.037667632574486,-82.42265224456787
+"4b94f720f964a520a88934e3","Morsani Center for Advanced Healthcare","Professional & Other Places::Medical Center::Doctor's Office",28.066830312757702,-82.41974472999573
+"4b94fc87f964a520848a34e3","Sail Pavilion","Outdoors & Recreation::Scenic Lookout",27.940631260615472,-82.45537039052299
+"4b953183f964a520199434e3","Old Navy","Shop & Service::Clothing Store",28.056978,-82.436364
+"4b9549fdf964a520669a34e3","Crispers Fresh Salads, Soups and Sandwiches","Food::Restaurant",27.931516992731147,-82.50689506530762
+"4b954decf964a520549b34e3","McDonald's","Food::Fast Food Restaurant",27.996726741581288,-82.51723340029848
+"4b95e2abf964a520c4b634e3","Brandon Ford","Shop & Service::Automotive Shop",27.95013217159467,-82.35544681549072
+"4b9610d2f964a520aabb34e3","McDonald's","Food::Fast Food Restaurant",27.94410086554964,-82.4754475720834
+"4b96ce7cf964a520dde534e3","Louis Vuitton","Shop & Service::Clothing Store::Boutique",27.96341643118647,-82.52081129780166
+"4b97d3a3f964a520371835e3","Acropolis Greek Taverna","Food::Greek Restaurant",27.96024836675704,-82.43811819345399
+"4b97e749f964a520071e35e3","McDonald's","Food::Fast Food Restaurant",27.894477412192135,-82.51796802071154
+"4b987865f964a520a04335e3","Ribit's Bar-b-que","Food::BBQ Joint",27.9408099950615,-82.48314157470918
+"4b9a7532f964a5200eb735e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",27.944559328205234,-82.5053071975708
+"4b9a78c0f964a5204cb835e3","Green Iguana Bar & Grill","Food::American Restaurant",27.963739725079083,-82.50601228906059
+"4b9addc8f964a520a0dd35e3","Hooters of South Tampa","Food::Wings Joint",27.893109999485606,-82.52004499861833
+"4b9af2edf964a5201de635e3","Starbucks","Food::Coffee Shop",27.97651397413537,-82.53234386444092
+"4b9ce222f964a520908036e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",27.944559328205234,-82.5053071975708
+"4b9d6112f964a52030a836e3","SONIC Drive In","Food::Fast Food Restaurant",28.08071768416049,-82.4332131512471
+"4b9e3295f964a5202ed136e3","SunTrust Financial Centre","Professional & Other Places::Office",27.947127597254507,-82.45651826836836
+"4b9e4d14f964a52058d836e3","One Buc Place","Professional & Other Places::Office",27.9797331938091,-82.4956140851595
+"4b9e8792f964a52030ec36e3","Carnival Cruise Line Terminal","Travel & Transport::Ferry::Boat or Ferry",27.94350696625199,-82.44557716408025
+"4b9e95faf964a520a8f136e3","Rick's Italian Cafe","Food::Italian Restaurant",27.927091598510742,-82.45386505126953
+"4b9ea3f4f964a52005f636e3","Berryism Frozen Yogurt Cafe","Food::Ice Cream Shop",27.937263049689857,-82.5060492905454
+"4b9fab93f964a5205d3337e3","Luigi's Italian Restaurant","Food::Italian Restaurant",27.8934383392334,-82.49949645996094
+"4b9fba06f964a520ea3837e3","MacDill AFB shoppette/gas","Shop & Service::Gas Station / Garage",27.862242615082053,-82.49955786912389
+"4b9fbfaff964a520113b37e3","Hungry Howies Pizza","Food::Pizza Place",27.915761947631836,-82.50585174560547
+"4b9fcb56f964a520493f37e3","Sweetbay Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",27.964112721356337,-82.39993755320225
+"4b9fd0bcf964a520334137e3","Hillsborough Community College: Ybor City","College & University::Community College",27.962078334004033,-82.44401754193349
+"4b9ffc8ef964a5200c5037e3","Red Baggage Claim","Travel & Transport::General Travel",27.97974,-82.534522
+"4ba014e9f964a520795837e3","UPS Customer Center","Professional & Other Places::Building",27.95466671,-82.399976
+"4ba01509f964a520825837e3","GameStop","Shop & Service::Video Game Store",27.946904828963127,-82.5264657935986
+"4ba04844f964a520236637e3","United Skates of America","Arts & Entertainment::General Entertainment",27.993326,-82.483865
+"4ba0f8fbf964a5203b8b37e3","La Cabana Antioquena","Food::Latin American Restaurant",28.02372169494629,-82.48414611816406
+"4ba12797f964a520059d37e3","Chevron Station","Shop & Service::Gas Station / Garage",27.89399960642763,-82.5124872465154
+"4ba15219f964a52057ac37e3","Bealls Department Store","Shop & Service::Department Store",28.097287115639617,-82.50357014715694
+"4ba16bd7f964a52092b537e3","Phat Katz Tattoo","Shop & Service::Tattoo Parlor",27.96026412,-82.44064633
+"4ba1744bf964a52068b837e3","Gengiz Khan","Food::Mediterranean Restaurant",27.879976795627055,-82.49389171600342
+"4ba1a1a0f964a520eec437e3","Village Inn","Food::Diner",27.947070112190378,-82.50537797480409
+"4ba1acf7f964a52050c737e3","The Castle","Nightlife Spot::Nightclub",27.961916650808618,-82.44187295436859
+"4ba24b07f964a5207aea37e3","Gate C30","Travel & Transport::Airport::Airport Gate",27.9819335744854,-82.53223657608032
+"4ba2570bf964a520f2ee37e3","Greek Village","College & University::College Residence Hall",28.06751194312516,-82.4065375328064
+"4ba269a2f964a5206bf637e3","Pene Rustica","Food::American Restaurant",27.91652488708496,-82.49142456054688
+"4ba291b2f964a520270538e3","Panda Buffet","Food::Chinese Restaurant",28.118070602416992,-82.3815689086914
+"4ba2b56af964a520411238e3","Thailand Restaurant","Food::Thai Restaurant",27.888121,-82.506131
+"4ba2c108f964a5205d1638e3","Sweetbay","Shop & Service::Food & Drink Shop::Grocery Store",27.89439806355411,-82.51672074687913
+"4ba2f380f964a520872438e3","Marathon Gas Station","Shop & Service::Gas Station / Garage",28.05408239364624,-82.399928
+"4ba36f6bf964a520d23c38e3","Insignia Care for Women","Professional & Other Places::Medical Center",27.977141268078476,-82.48643572073915
+"4ba37109f964a5204b3d38e3","Tinker Elementary School","College & University::General College & University",27.857038829108152,-82.49864859844809
+"4ba39794f964a5200b4a38e3","Taco Bell","Food::Fast Food Restaurant",28.032175064086914,-82.42669677734375
+"4ba3afe6f964a5206c5438e3","Sumos Thai Cafe","Food::Asian Restaurant",27.94936373734915,-82.45841196073084
+"4ba3c8e2f964a520005f38e3","Crate and Barrel","Shop & Service::Furniture / Home Store",27.960653951568563,-82.5234483587787
+"4ba40980f964a520637a38e3","West Tampa Sandwich Shop","Food::Cuban Restaurant",27.97343976122389,-82.48497637526827
+"4ba4a5e6f964a5209da938e3","MacDill Air Force Base","Professional & Other Places::Military Base",27.84364878515732,-82.49155282974243
+"4ba504c1f964a52034d138e3","MacDill Air Force Base","Professional & Other Places::Military Base",27.84364878515732,-82.49155282974243
+"4ba57c85f964a520e60b39e3","Malibu Grand Prix","Arts & Entertainment::Arcade",28.07781701187541,-82.45290000822638
+"4ba751b6f964a520818b39e3","Bank of America Plaza","Shop & Service::Bank",27.947070934376697,-82.45899081230164
+"4ba80a6ff964a5207ec839e3","Burger King","Food::Fast Food Restaurant",27.96418925248917,-82.4357424396253
+"4ba88484f964a52037de39e3","McDonald's","Food::Fast Food Restaurant",27.964300847582454,-82.43522918145005
+"4ba99afef964a520bf303ae3","St Joseph's Women's Hospital","Professional & Other Places::Medical Center::Hospital",27.979685158001754,-82.49252656882824
+"4ba9ea0ff964a520953d3ae3","Airside F","Travel & Transport::Airport::Airport Terminal",27.97628657236355,-82.5377082824707
+"4bab77d8f964a5209eab3ae3","Sesame Street Safari Of Fun","Outdoors & Recreation::Playground",28.035039762462784,-82.42557048797607
+"4bab7c7cf964a52025ad3ae3","Ben T Davis Beach","Outdoors & Recreation::Beach",27.969491659925154,-82.57522312187187
+"4bab8214f964a520e5ae3ae3","USF Health Center","Professional & Other Places::Medical Center::Hospital",27.937060324022475,-82.45913133866654
+"4babad0ff964a52061bf3ae3","7-Eleven","Shop & Service::Gas Station / Garage",27.95260497069939,-82.53129024373474
+"4babfadbf964a52045db3ae3","Sushi Ko","Food::Sushi Restaurant",28.145876722238135,-82.35454764480852
+"4bad0fd7f964a520a6293be3","Ramada Inn/Westshore Hotel","Travel & Transport::Hotel",27.95390089018283,-82.52488046780418
+"4bad6deff964a520714f3be3","SONIC Drive In","Food::Burger Joint",28.054030611512918,-82.4370864172666
+"4bae6177f964a520c3aa3be3","Crowne Plaza Tampa Westshore","Travel & Transport::Hotel",27.945412333077297,-82.53298759460449
+"4bae95f0f964a52097c33be3","Cold Stone Creamery","Food::Ice Cream Shop",28.128311107566507,-82.3685359954834
+"4bafc331f964a520bb1e3ce3","The Desert Grill","Food::American Restaurant",28.0373646021779,-82.4229097366333
+"4bb0a1c5f964a520bf503ce3","Dimples Deluxe Cleaners II","Shop & Service::Laundry Service",27.93874,-82.483163
+"4bb0ca3ef964a520135d3ce3","Thrifty Car Rental","Travel & Transport::Rental Car Location",27.97932308198236,-82.53499421955014
+"4bb0ca58f964a5201a5d3ce3","Suntrust Bank","Shop & Service::Bank",27.926378973267536,-82.49326673944009
+"4bb0e5b1f964a520ee673ce3","Rojo Taco","Food::Mexican Restaurant",27.9493408203125,-82.45814514160156
+"4bb0eb4df964a520166a3ce3","Quiznos","Food::Deli / Bodega",27.947895486686328,-82.45784282684326
+"4bb104baf964a52048733ce3","Tampa Commons","Professional & Other Places::Office",27.945179042729055,-82.50458507377685
+"4bb11ec2f964a520ff7b3ce3","Subway","Food::Sandwich Place",28.099727630615234,-82.39939880371094
+"4bb12665f964a520947e3ce3","CVS","Shop & Service::Drugstore / Pharmacy",27.995773649513623,-82.48472786046693
+"4bb1360bf964a520c4833ce3","MacDonald Kelce Library","College & University::College Library",27.948388319543614,-82.46493458747864
+"4bb2202df964a52023bb3ce3","McDonald's","Food::Fast Food Restaurant",27.96201792,-82.40227282047272
+"4bb2414c4019a593b79536b8","Cuts & Fades Barber Shop","Shop & Service::Salon / Barbershop",28.145946258317124,-82.35476016998291
+"4bb246a9eb3e952161cec90a","Mister Car Wash","Shop & Service::Automotive Shop",27.961333920996317,-82.50596471569379
+"4bb2592a42959c74e9b6202c","Soundwaves","Shop & Service::Automotive Shop",27.952166558254795,-82.37475459573531
+"4bb28fe4eb3e95211f39ca0a","Becky Beauty Studio","Shop & Service::Cosmetics Shop",27.961047,-82.4417
+"4bb3558e42959c74c3c5212c","Hardees","Food::American Restaurant",27.995580673217773,-82.51250457763672
+"4bb367b74019a59329dc37b8","US Auto Spa","Shop & Service::Automotive Shop",27.944472,-82.48332
+"4bb375b835f0c9b60f62bc83","USF Kopp Engineering Bldg. (ENG)","College & University::College Academic Building::College Engineering Building",28.059552703302863,-82.41582841427085
+"4bb37ad04019a5933ff937b8","Bank Of America","Professional & Other Places::Office",28.05487124977857,-82.43996612
+"4bb37da8a32876b0ebc201fe","Gus's Cafe","Food::Italian Restaurant",28.09430503845215,-82.50534057617188
+"4bb390ff42959c74a91f222c","Demolition Comics","Shop & Service::Hobby Shop",27.905192971229553,-82.50677168369293
+"4bb3962935f0c9b65798bc83","Tampa Bay Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",27.93774962425232,-82.49343
+"4bb3aa2742959c742d45222c","Crown Colony Restaurant","Food::American Restaurant",28.034182731484353,-82.41964817047119
+"4bb3dc0a14cfd13a61a816ab","Wingate Hotel","Travel & Transport::Hotel",28.054178077420865,-82.41743741285632
+"4bb4d96da70595214fcb1bce","ABC Pizza","Food::American Restaurant",27.995643968942716,-82.47438991025696
+"4bb4e333f1b976b0b47d1f20","IBM - Bayview Office","Professional & Other Places::Office",27.970108640816818,-82.56857514381409
+"4bb4e6920fb7b71380a6bf8a","Stanley Falls Flume","Arts & Entertainment::Theme Park",28.037402481024156,-82.42454051971436
+"4bb5016eeb6dd13a9fa496e4","USF Eye Institute","College & University::Medical School",28.064594239999998,-82.419523
+"4bb519d82ea1952106fda92f","College of Business (BSN)","College & University::College Academic Building",28.05824329325565,-82.4098527431488
+"4bb52455f562ef3b9c8e2e97","TooJay's Original Gourmet Deli","Food::Deli / Bodega",27.965744529188132,-82.52066860825505
+"4bb539d4ef159c74f57c74f7","Baileys","Food::American Restaurant",27.93519401550293,-82.47698211669922
+"4bb5412046d4a5935ed2c4c0","Hess Express","Shop & Service::Gas Station / Garage",28.127978183333333,-82.367294
+"4bb542f7941ad13ac1061ee3","KFC","Food::American Restaurant",28.130884170532227,-82.3646469116211
+"4bb589061344b7133b749c04","Baxter's Lounge","Nightlife Spot::Lounge",27.929477,-82.50615114
+"4bb611ad6edc76b09356301c","Farrell's On The Island","Food::Deli / Bodega",27.926924228668213,-82.45322942733765
+"4bb615cf2f70c9b6c5d78430","Lecture Hall (ULH)","College & University::College Academic Building",28.060742306872285,-82.40988432346248
+"4bb6345c1344b71372239d04","Sprint Wireless","Shop & Service::Electronics Store",28.125810027122498,-82.371346950531
+"4bb6655e6edc76b07adf301c","The Bricks","Food::Café",27.960182435408562,-82.44421329646158
+"4bb7740a941ad13a53b020e3","Nordstrom Cafe Bistro","Food::Café",27.963902,-82.522296
+"4bb7fcfacf2fc9b616219f02","J Alexander's Restaurant","Food::American Restaurant",27.951822667500107,-82.50420976411122
+"4bba4b2698c7ef3b6aed3202","C.W. Bill Young Hall (CWY)","College & University::College Academic Building",28.061623271452774,-82.40790009498596
+"4bbb9a04ed7776b014a93e51","Jo Ann Fabrics","Shop & Service::Arts & Crafts Store",28.117417788466877,-82.37557546218162
+"4bbb9a303de8c9b657f999ad","Hillsborough Community College: Dale Mabry Campus","College & University::Community College",27.97565382808904,-82.51069017645445
+"4bbbc1cc51b89c741faa862a","Economy Parking Lot","Professional & Other Places::Parking",27.966886879728364,-82.53395318984985
+"4bbdf43e8a4fb71386953d9d","TooJay's Original Gourmet Deli","Food::Deli / Bodega",27.965744529188132,-82.52066860825505
+"4bbe499579eaef3b42f5aec3","Interbay YMCA","Shop & Service::Gym / Fitness Center::Gym",27.901060403407485,-82.50248119885927
+"4bbf9c19abf4952130f1bd93","Walgreens","Shop & Service::Drugstore / Pharmacy",27.937794304131835,-82.50091646634661
+"4bc0a0f374a9a593474fd0f6","Borders Books Music Cafe","Shop & Service::Bookstore",27.951393,-82.50523746013641
+"4bc0a80df8219c74abe4b110","USF Library Starbucks","Food::Coffee Shop",28.059805535482162,-82.41222391051808
+"4bc0d2204cdfc9b6418b9321","Tampa Port Authority Terminal 2","Outdoors & Recreation::Harbor / Marina",27.943978560009786,-82.44558356267827
+"4bc0d3b8b492d13a3af7a460","Mister Hotshine Car Wash","Shop & Service::Automotive Shop",27.893374275543238,-82.50321597653922
+"4bc1ef9bb492d13ae8a0a660","Morrocan Palace Theatre - Iceploration","Arts & Entertainment::Performing Arts Venue::Theater",28.03394127025297,-82.42119512625011
+"4bc28eb22a89ef3b1c06f488","Sheraton Tampa Riverwalk Hotel","Travel & Transport::Hotel",27.946383911292465,-82.45915249672795
+"4bc32a652a89ef3ba199f488","Kuhn Honda VW","Shop & Service::Automotive Shop",27.94449595413087,-82.5084014870334
+"4bc369a8920eb713f86a1d2c","The Oval Theater (MSC)","College & University::College Theater",28.06364931387272,-82.4138867855072
+"4bc37aa0dce4eee1cc9f719d","Renaissance Tampa International Plaza","Travel & Transport::Hotel",27.96592573642452,-82.51994458636926
+"4bc37b32abf49521bbd2c393","Smart Center Tampa","Shop & Service::Automotive Shop",27.99451509289141,-82.50685214996338
+"4bc381aab492d13aa2d9a860","Wendy's","Food::Fast Food Restaurant",27.893226623535156,-82.51788330078125
+"4bc3925edce4eee172a9719d","La Quinta Inn & Suites USF (Near Busch Gardens)","Travel & Transport::Hotel",28.053579,-82.418114
+"4bc39701dce4eee134ab719d","Red Roof Inn Tampa - Busch","Travel & Transport::Hotel::Motel",28.032058240988768,-82.43368409268047
+"4bc399d5dce4eee11eac719d","Holiday Inn Hotel & Suites","Travel & Transport::Hotel",28.051899550220842,-82.42684189910892
+"4bc39dafabf49521da06c493","Rennen Imports Inc.","Shop & Service::Automotive Shop",27.944778,-82.4796974658966
+"4bc39f794cdfc9b6cba19721","Players Sports Pub at the Doubletree by Hilton Tampa Airport-Westshore","Nightlife Spot::Hotel Bar",27.951653048212336,-82.52116537799182
+"4bc3b8c4b492d13a5035a960","Deja Vu Showgirls Tampa","Nightlife Spot::Strip Club",27.95161063279621,-82.37988710403442
+"4bc477324cdfc9b665a19821","McDonald's","Food::Fast Food Restaurant",28.09578772413198,-82.50297281356943
+"4bc47884abf495211f0bc593","Microsoft Tampa","Professional & Other Places::Office::Tech Startup",27.944365880052075,-82.5378526436731
+"4bc4821a2a89ef3b9659f688","Reeves Audi","Shop & Service::Automotive Shop",28.0543613944584,-82.45791792869568
+"4bc48f07920eb71358e11e2c","Kentucky Fried Chicken","Food::Fast Food Restaurant",27.89316749572754,-82.51875305175781
+"4bc4983e2a89ef3b0a7ef688","Ruby Tuesday's","Food::American Restaurant",27.94593620300293,-82.50518798828125
+"4bc49baf920eb7133bf71e2c","Radiant","Shop & Service::Gas Station / Garage",27.996734828231233,-82.51507177392429
+"4bc4a67574a9a593d51dd6f6","Circle K","Shop & Service::Gas Station / Garage",27.943914831167405,-82.48247623443604
+"4bc4ac03b492d13ad05eaa60","Crowne Plaza Tampa Westshore","Travel & Transport::Hotel",27.945412333077297,-82.53298759460449
+"4bc4d1f72a89ef3ba6e0f688","Advance Auto Parts","Shop & Service::Automotive Shop",28.054897303926353,-82.45308515770581
+"4bc4d7c1e692b713652de770","Mr Empanadas","Food::Restaurant",28.056743621826172,-82.42974090576172
+"4bc4d93b2a89ef3bd5eaf688","Riverside Heights","Outdoors & Recreation::Other Great Outdoors",27.972117454920706,-82.47024536132812
+"4bc4f9a2c839ef3bb27d304e","NBC News Center","Professional & Other Places::Office",27.945418,-82.461131
+"4bc4fa165e0ab713d2c945eb","International Plaza: Food Court","Shop & Service::Food & Drink Shop::Food Court",27.9649158725788,-82.52075672149658
+"4bc5e0fc4a9aa593d10d077b","DOLLAR TREE","Shop & Service::Miscellaneous Shop",27.906137,-82.50353185
+"4bc5e5fa6c26b713d8e7ebf3","Einsteins","Food::Bagel Shop",28.063995361328125,-82.4133529663086
+"4bc6162eb387d13a4446c1e8","TGI Fridays","Food::American Restaurant",27.980152337282767,-82.53483295440674
+"4bc61d21b387d13ac452c1e8","Hilton Tampa Airport Westshore","Travel & Transport::Hotel",27.962443756515633,-82.51296821908115
+"4bc62194b387d13ae85ac1e8","Cypress Point Park and Beach","Outdoors & Recreation::Beach",27.950859343185638,-82.54467856574672
+"4bc631ab04e8b713c299352d","Levi's","Shop & Service::Clothing Store",27.964203,-82.521917
+"4bc65b1e04e8b7130ff1352d","Winn-Dixie","Shop & Service::Food & Drink Shop::Grocery Store",28.026324702520988,-82.48479659869294
+"4bc65d68db8fa593b6499c37","Shula's No Name Lounge","Nightlife Spot::Bar",27.944522466875497,-82.52523452706528
+"4bc68c3f42419521e86b041d","Avalon Heights Apartments","College & University::General College & University",28.07021940056634,-82.41243563396796
+"4bc7114a6501c9b64daf3d29","VH1 Best Cruise Ever","Arts & Entertainment::Music Venue",27.943309783935547,-82.4474105834961
+"4bc721f214d7952115c066e9","Traffic Court","Professional & Other Places::Government Building::Courthouse",28.034747926755575,-82.45832732754106
+"4bc742e714d79521720167e9","Why Not Boutique","Shop & Service::Clothing Store::Boutique",27.916135630171674,-82.49410629272461
+"4bc74f5d6501c9b6842b3e29","Plant Park","Outdoors & Recreation::Park",27.946976157845757,-82.46278882026672
+"4bc75ae00050b7135288b83b","Tuesday Morning","Shop & Service::Department Store",27.90618725,-82.50320434570312
+"4bc75d8415a7ef3bf44279da","Tampa Bay Times | tampabay.com","Professional & Other Places::Office",27.952188743529888,-82.4624240398407
+"4bc76a02af07a593af237f2d","Tampa Union Station","Travel & Transport::Train Station",27.952847547893743,-82.4505776627207
+"4bc77a9392b376b0e4cb4f3a","Sound Exchange","Shop & Service::Record Shop",28.07577071705003,-82.45181026126112
+"4bc7a5e10050b713f525b93b","The Capital Grille","Food::American Restaurant",27.96396827697754,-82.52324676513672
+"4bc7cdb014d795211d2f68e9","Bulls Club Billiard","Nightlife Spot::Bar",28.054121955892235,-82.44530845348781
+"4bc7ed036501c9b6f76e3f29","McDonald's","Food::Fast Food Restaurant",27.958952323613342,-82.50501852746827
+"4bc7fade0050b7132fc2b93b","The Drynk","Nightlife Spot::Bar",27.941770727859996,-82.48278201153983
+"4bc852938b7c9c74eadb37cf","Dunkin Donuts","Food::Bakery",28.085100173950195,-82.53857421875
+"4bc86ce414d79521f2fe68e9","Hillsborough Community College","College & University::College Administrative Building",27.934962475481903,-82.45665051113733
+"4bc8711b8b7c9c74ad1638cf","US Post Office","Professional & Other Places::Post Office",27.95813733,-82.4830624
+"4bc87fd22f94d13a3bac137f","The UPS Store","Professional & Other Places::Post Office",27.941925,-82.463013
+"4bc893b915a7ef3b3c5a7bda","Best Buy","Shop & Service::Electronics Store",28.131556420286255,-82.367023229599
+"4bc8a09bab62d13a22a417d4","MC Film","Shop & Service::Clothing Store::Men's Store",27.961028451417803,-82.44291707375667
+"4bc8b58e92b376b0fd02523a","Congo River Rapids","Arts & Entertainment::Theme Park",28.04018653971009,-82.42359638214111
+"4bc8ca676501c9b61dec4029","Lifestyle Family Fitness","Shop & Service::Gym / Fitness Center",28.088791782529615,-82.40527153015137
+"4bc9bd42b6c49c74f1d98e91","Moroccan Palace Theater","Arts & Entertainment::Performing Arts Venue",28.03361453038757,-82.42123603820801
+"4bc9da40cc8cd13a5743bccf","Gaspar's Grotto","Nightlife Spot::Bar",27.96019121,-82.4389922618866
+"4bcb2e16fb84c9b64e411e3e","Humane Society of Tampa Bay","Shop & Service::Pet Store",27.97174784047797,-82.48416208939274
+"4bcb6fdc68f976b0e91b6183","Gate A6","Travel & Transport::Airport::Airport Gate",27.975017,-82.532435
+"4bcb82c4b6c49c74e4649291","Tampa Riverwalk","Outdoors & Recreation::Park",27.942768089959962,-82.44998516119676
+"4bcc8d1e511f9521f42cb3c7","St. Joseph's Hospital","Professional & Other Places::Medical Center::Hospital",27.982331506435646,-82.49144554138184
+"4bccc606937ca59394bcab92","Airside C","Travel & Transport::Airport::Airport Terminal",27.982160964351056,-82.53206491470337
+"4bcce6bf68f976b068846383","Publix","Shop & Service::Food & Drink Shop::Grocery Store",27.93083450159979,-82.5072169303894
+"4bce1a5eb6c49c742c8e9691","Florida Hospital Tampa","Professional & Other Places::Medical Center::Hospital",28.07038917597461,-82.42352904024848
+"4bcf3ff40ffdce72f54fb2c0","SpringHill Suites Tampa Westshore Airport","Travel & Transport::Hotel",27.9523,-82.52532
+"4bcf4204462cb7131c59d607","Taco Bell","Food::Fast Food Restaurant",27.94487236888953,-82.47630426630025
+"4bcf79df462cb713b8cad607","Publix","Shop & Service::Food & Drink Shop::Grocery Store",28.035571879604607,-82.64704918390301
+"4bcf8be7462cb7135bf7d607","Seasons 52","Food::American Restaurant",27.946526,-82.524763
+"4bd04508caff95216d74cef0","Marshall Student Center (MSC)","College & University::Student Center",28.063943,-82.413565
+"4bd0c224046076b03ea27071","Bar Louie","Nightlife Spot::Sports Bar",27.96574976461252,-82.52118587493896
+"4bd0cb06caff9521d18fcff0","Malio's Prime Steakhouse","Food::Steakhouse",27.947471538618473,-82.4603532061158
+"4bd1aa839854d13a0ceaf94d","Hillsborough Community College: Dale Mabry Campus","College & University::Community College",27.975458342735468,-82.51038889835729
+"4bd2ec36046076b0a2c67471","SUPERCUTS","Shop & Service::Cosmetics Shop",28.05567626190098,-82.42808550339714
+"4bd319ef462cb7132883dd07","The Tumi Store","Shop & Service::Miscellaneous Shop",27.964713620437003,-82.52019825913725
+"4bd330f7caff9521413cd4f0","Bern's Park","Outdoors & Recreation::Park",27.928631314447124,-82.4828983410053
+"4bd34d869854d13ae571fd4d","Marshalls","Shop & Service::Department Store",27.90781686110481,-82.50526428222656
+"4bd39832a8b3a593646f6a5f","Pinky's","Food::Breakfast Spot",27.91985916263234,-82.49550306385002
+"4bd485e84e32d13ab248bf80","Marathon (Radiant Gas)","Shop & Service::Automotive Shop",28.069029710571627,-82.42642912339929
+"4bd4aea629eb9c747b2592e1","The Florida Aquarium","Arts & Entertainment::Aquarium",27.944226084549875,-82.44541955540771
+"4bd4bb825631c9b66b07a330","Food Court @ Westshore Plaza","Shop & Service::Food & Drink Shop::Food Court",27.946649873062345,-82.52741168726095
+"4bd5a2ff6798ef3b98a3638d","Dr. Kampsen","Professional & Other Places::Medical Center::Doctor's Office",27.939341679090415,-82.49095632346499
+"4bd604a45631c9b6c228a530","Mercedes Of Tampa Bay","Shop & Service::Automotive Shop",27.98308221951864,-82.50602814684223
+"4bd63ac4cfa7b7132d5827da","Marathon Radiant","Shop & Service::Gas Station / Garage",27.9448694,-82.482864
+"4bd642786798ef3bb5f4648d","Chelsea Nightclub","Nightlife Spot::Gay Bar",27.958560754388625,-82.45968673563539
+"4bd6e1b65631c9b6f77da630","Dunkin' Donuts","Food::Coffee Shop",28.06883807956049,-82.42660375957597
+"4bd6e4ab7b1876b0592b8d86","Kuhn Honda VW","Shop & Service::Automotive Shop",27.94449595413087,-82.5084014870334
+"4bd6ecda6798ef3b93d4658d","Soho Cycling Studio","Shop & Service::Gym / Fitness Center::Gym",27.945072368291566,-82.48084139565798
+"4bd700ff29eb9c7406f495e1","All Children's Outpatient Care - Tampa","Professional & Other Places::Medical Center",28.06067238604862,-82.42709062174892
+"4bd71c1b4e32d13a91b7c380","Art Institute of Tampa","College & University::University",27.982038927516662,-82.5003772597566
+"4bd75ff6f645c9b651cca5e0","Gate E68","Travel & Transport::Airport::Airport Gate",27.980332357272655,-82.5383734703064
+"4bd77da1e914a593996d51fa","Fine Wine & Spirits Warehouse","Shop & Service::Miscellaneous Shop",27.89405643939972,-82.51210927963257
+"4bd7b0e1e914a59372e651fa","Hyatt Regency Tampa","Travel & Transport::Hotel",27.946456320081076,-82.45768199606675
+"4bd7c742304fce72db0334ab","Hilton Garden Inn Tampa Avion Park","Travel & Transport::Hotel",27.958027,-82.533482
+"4bd7faca09ecb713b8e0477c","Gate A14","Travel & Transport::Airport::Airport Gate",27.976879,-82.532033
+"4bd83f5e09ecb713035a487c","Flatwoods Park","Outdoors & Recreation::Hiking Trail",28.131796485245108,-82.36367460156895
+"4bd841270b779c749fac06a0","Northdale Barber Shop","Shop & Service::Salon / Barbershop",28.094249,-82.504199
+"4bd86046dc4b95217df57888","Tampa Bay Rays Pro Shop","Shop & Service::Sporting Goods Shop",27.947864578553208,-82.45893562629193
+"4bd8649e35aad13a6abc90f3","US Post Office","Professional & Other Places::Post Office",27.93359936,-82.50737
+"4bd88f9bf645c9b68145a8e0","Wendy's","Food::Burger Joint",27.960208892822266,-82.50608825683594
+"4bd8e1d311dcc9286346f833","Side Bern's","Food::Restaurant",27.933630899937015,-82.48299351951316
+"4bd90469e914a593267f55fa","Green Iguana Bar & Grill","Food::American Restaurant",27.963739725079083,-82.50601228906059
+"4bd9831011dcc9289a00fa33","4th of July Cafe","Food::Cuban Restaurant",27.95716429552964,-82.48275557299762
+"4bd9916ee914a593d0f156fa","USF MSC Plaza","College & University::College Quad",28.063471,-82.41353104999999
+"4bd99c2d2e6f0f47032c0b08","Gate A16","Travel & Transport::Airport::Airport Gate",27.977225,-82.532022
+"4bd99e3ad2cbc9284117d1ad","Creighton Health Care","Professional & Other Places::Medical Center::Doctor's Office",28.03907811641693,-82.48222718333334
+"4bd9b716e914a5931d8c57fa","Jimmy John's","Food::Sandwich Place",28.053954260365597,-82.43273735046387
+"4bd9c5b3e914a59389d657fa","Carnival Inspiration","Travel & Transport::Ferry::Boat or Ferry",27.942656533333334,-82.446248
+"4bd9c78ae914a59324df57fa","La Tropicana","Food::Restaurant",27.96045095224323,-82.43812877569434
+"4bd9d4a33904a59389c7439e","Lanier Elementary School","College & University::College Classroom",27.877947474533546,-82.52306258261883
+"4bd9e7d52a3a0f4765d3a8b6","Midas","Shop & Service::Automotive Shop",27.94784,-82.505366
+"4bda15833904a5939909459e","Fresh Market","Shop & Service::Food & Drink Shop::Grocery Store",27.93430106529406,-82.50457450170157
+"4bdb011963c5c9b6b3d32568","Enterprise Rent-a-Car","Travel & Transport::Rental Car Location",27.97936541174508,-82.53464549424211
+"4bdb39a53904a593865a499e","Gelateria Del Duomo","Food::Ice Cream Shop",27.96580793701498,-82.52072145626977
+"4bdbbe322a3a0f47d7a5b0b6","Honey Pot","Nightlife Spot::Cocktail Bar",27.960306469631142,-82.4426313724312
+"4bdce39f3904a593ae33509e","Elmer's Sports Cafe","Food::Wings Joint",27.889131,-82.493659
+"4bdd9ab3f4a9a5930fac308b","Xtreme Juice","Food::Juice Bar",27.937934371580738,-82.50602286091542
+"4bdf0fda0ee3a593dfd432b0","SUPERCUTS","Shop & Service::Salon / Barbershop",27.93289504,-82.5060331
+"4bdfaa26e75c0f47110ccc03","Tampa Marriott Westshore","Travel & Transport::Hotel",27.952297,-82.524149
+"4be0b0f94f15c9281b1ecc0b","SONIC Drive In","Food::Fast Food Restaurant",27.893746006355865,-82.51981258392334
+"4be176b5a7380f4723171ab0","Greater Tampa Chamber Of Commerce","Professional & Other Places::Office",27.946663394703556,-82.45745658874512
+"4be1771ea7380f473f181ab0","Panera Bread","Food::Bakery",27.937171076396748,-82.4834418296814
+"4be1dc4b4283c9b612bb54f8","Ocean Prime","Food::Seafood Restaurant",27.960935844562453,-82.52315998077393
+"4be320b0d27a20a18a50915b","Forever 21","Shop & Service::Clothing Store::Women's Store",27.964674657443325,-82.52110724554822
+"4be32f08cbdbef3bf98b60d8","Walgreens","Shop & Service::Drugstore / Pharmacy",28.03366188059357,-82.48381197452545
+"4be4ad0f477d9c743597e62d","Ybor Square","Nightlife Spot::Other Nightlife",27.96133874118344,-82.44522909486453
+"4be622f8bcef2d7f91e104e5","The Castle","Nightlife Spot::Nightclub",27.961916650808618,-82.44187295436859
+"4be8057f0e5a9c742dd08eea","Hillsborough County Center","Professional & Other Places::Government Building",27.94855169387028,-82.45470387207426
+"4be805fb0e5a9c7437d08eea","Supervisor of Elections","Professional & Other Places::Government Building",27.948119563918144,-82.45577770419462
+"4be82392947820a13b80b4db","USF Health","College & University::Medical School",28.063706118249925,-82.42443323135376
+"4be86954d837c9b6c44aa506","Elite Barber Shop","Shop & Service::Salon / Barbershop",27.893476,-82.525064
+"4be87846c5220f473ac7a9ca","Monticello","Residence::Residential Building (Apartment / Condo)",28.073852489915264,-82.41319611938212
+"4be89a7daecb76b0f5b45a80","Master Collision Repair of Brandon","Shop & Service::Automotive Shop",27.949828894999968,-82.35677719116211
+"4be8af5f9a54a59395540a11","Wing Stop","Food::Wings Joint",28.054574966430664,-82.42945861816406
+"4be8baffc5220f47f027aaca","AMF Florida Lanes","Arts & Entertainment::Bowling Alley",28.0438232421875,-82.4555892944336
+"4be8c2e8d837c9b6a7c7a506","Marathon","Shop & Service::Gas Station / Garage",27.996543645858765,-82.5151401758194
+"4be97a5b947820a1360ab6db","Soho Sushi","Food::Sushi Restaurant",27.944648307782185,-82.49667142201243
+"4be982d062c0c928b5b2dfd4","Mr. Empanada","Food::Latin American Restaurant",27.99021604389306,-82.4848388991057
+"4be9c4bc61aca59393f58200","ABC Fine Wine & Spirits","Shop & Service::Food & Drink Shop::Liquor Store",27.944918,-82.49175131320953
+"4be9e0b7415e20a14564e4bb","Jefferson High School","Professional & Other Places::School::High School",27.953989396471624,-82.52019882202148
+"4be9fe4c61aca593d54d8300","Chamberlain High School","Professional & Other Places::School::High School",28.035191634529518,-82.46703039021304
+"4beac38e6295c9b615ca8608","Burger King","Food::Burger Joint",27.893892288208008,-82.51933288574219
+"4beaf31ea9900f479b2a1740","Just Dogs! Gourmet","Shop & Service::Pet Store",27.947370164160628,-82.52622799705742
+"4beb25ff62c0c9281cc5e1d4","AT&T","Shop & Service::Mobile Phone Shop",27.9336232928877,-82.50552598198594
+"4bec1fc2b3352d7fd34057d2","German Bistro","Food::German Restaurant",27.887624740600586,-82.4935302734375
+"4bec31a86295c9b6a69a8808","ABC Liquors","Shop & Service::Food & Drink Shop::Liquor Store",28.069551609561206,-82.43085839613208
+"4bec54b8b68520a138f61187","Memorial Hospital Emergency Room","Professional & Other Places::Medical Center::Emergency Room",27.93777044513744,-82.48944948877612
+"4bec5548976ac928acdb600b","Petco","Shop & Service::Pet Store",27.9435971244302,-82.52396096211194
+"4bed8abc91380f47510ea018","Fine Arts Music Building","College & University::College Academic Building::College Arts Building",28.061793687706913,-82.41833925247192
+"4bed9c153372c92870e61114","Glazer Children's Museum","Arts & Entertainment::Museum",27.949449798058854,-82.46161937713623
+"4beec607d355a5939c4a0b60","Home Team Sports Bar & Grill","Food::American Restaurant",27.982426251921677,-82.5322151184082
+"4bef7331f2712d7f07d3fbd8","Mema's Alaskan Tacos","Food::Taco Place",27.961132480345448,-82.43935972452164
+"4befd763f831c928695401f2","Popeye's","Food::Fried Chicken Joint",27.976618,-82.537698
+"4befeef0d4e4d13a4eac15a7","Gate F84","Travel & Transport::Airport::Airport Gate",27.976519,-82.537767
+"4bf016efd4f70f47b671390f","Moe's Southwest Grill","Food::Mexican Restaurant",28.12793241231427,-82.36885466489552
+"4bf0897821072d7f841c208b","Tampa Marriott Westshore","Travel & Transport::Hotel",27.952297,-82.524149
+"4bf158d325afb71350004b6f","Buddy Brew Coffee","Food::Coffee Shop",27.94461273935025,-82.48084139565798
+"4bf1e772a09076b095f229d4","7-Eleven","Shop & Service::Gas Station / Garage",27.95260497069939,-82.53129024373474
+"4bf1f3ebd39ad13ac6e2aa0e","CVS","Shop & Service::Drugstore / Pharmacy",28.053992133369505,-82.42668628692627
+"4bf23e6da09076b006022ad4","The Point","Nightlife Spot::Bar",27.94953509498664,-82.46047139167786
+"4bf3199c6a31d13a8b46942e","Grand Prix Tampa","Arts & Entertainment::Racetrack",28.07729558651868,-82.4528153682995
+"4bf48cba98ac0f472c3064a8","Starbucks","Food::Coffee Shop",27.965977188594284,-82.52062797546387
+"4bf4a63098ac0f47335164a8","The Penthouse Club","Nightlife Spot::Strip Club",27.957925090700673,-82.5237918562796
+"4bf610febfeac9288dd39336","Starbucks","Food::Coffee Shop",27.980152337282767,-82.5348436832428
+"4bf7106db182c9b6e20f755a","TGI Fridays","Food::American Restaurant",28.093107819165628,-82.50226020812988
+"4bf747225efe2d7f88d36834","G Bar","Nightlife Spot::Gay Bar",27.96019990950716,-82.44396463520938
+"4bf77ef1b182c9b6bfec755a","The Castle","Nightlife Spot::Nightclub",27.961916650808618,-82.44187295436859
+"4bf7e78b5ec320a100ae87d3","Myombe Reserve","Outdoors & Recreation::Park",28.034144851504575,-82.42157936096191
+"4bf836d78d30d13a165a0018","Hula Bay Club","Food::Seafood Restaurant",27.885970221016734,-82.53341674804688
+"4bf99c9d4a67c928ab2c27cf","Express","Shop & Service::Clothing Store",27.964611353552137,-82.52099626529233
+"4bf9af294a67c928214d27cf","Louis Pappas Market Cafe - Palma Ceia","Food::Greek Restaurant",27.919842384929588,-82.49955786912389
+"4bfb237c565f76b0763805db","Maggiano's Little Italy","Food::Italian Restaurant",27.952266693115234,-82.52635192871094
+"4bfbb8a665fbc9b65cb2916c","H. Lee Moffitt Cancer Center","Professional & Other Places::Medical Center",28.064255225681745,-82.42565631866455
+"4bfbdf3095a4a593205aab70","Infectious Disease Associates Of Tampa Bay","Professional & Other Places::Medical Center::Doctor's Office",27.98841695490503,-82.48839732856457
+"4bfbf5f6d0382d7fc443ca0a","Chick-fil-A","Food::Fast Food Restaurant",27.946341152943027,-82.52723693847656
+"4bfc0827e858a5936f150a61","La Pelota","Nightlife Spot::Sports Bar",28.025464,-82.476182
+"4bfc0a2bda7120a1587449fd","Bin 27 Bistro","Food::Café",27.944571874861406,-82.48806951657961
+"4bfc0fb9a118a59352e66db6","Timberlake Federal Building","Professional & Other Places::Government Building",27.951510365667712,-82.45777720928551
+"4bfc115457cd9c741774cc2b","John Knox Village","Professional & Other Places::Medical Center",28.070087752801708,-82.4157490219287
+"4bfc2c24e05e0f473b4bcfa8","A1 Express Parking","Travel & Transport::General Travel",27.95910918819421,-82.53320302077442
+"4bfc46acda7120a1e6cf49fd","Bella Prana Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",27.922985543821685,-82.49354839324951
+"4bfc5106f14fa593cfd1c9d4","Flying Fish","Shop & Service::Bike Shop",27.923264,-82.493637
+"4bfc7b541be376b011c6f8b4","Shriners Headquarters","Professional & Other Places::Medical Center::Hospital",27.96740852776805,-82.56834742541317
+"4bfd3657bf6576b04ee4acb8","Chester H. Ferguson Law Center","College & University::College Administrative Building",27.95768,-82.46148732
+"4bfd488db68d0f47d084e857","Burger King","Food::Burger Joint",28.032054901123047,-82.42548370361328
+"4bfd50e64cf820a1fd43ecf4","Westshore Men's Hair Shoppe","Shop & Service::Cosmetics Shop",27.914317846298218,-82.52684533596039
+"4bfd59de8992a59391fbabb0","USAA","Professional & Other Places::Office::Coworking Space",28.12047653665945,-82.3786211013794
+"4bfd8510f61dc9b688259fde","Eats American Grill","Food::Restaurant",27.90505599975586,-82.50666046142578
+"4bfdafe7b68d0f47a62de957","Shoe Carnival","Shop & Service::Clothing Store::Shoe Store",28.071052564633895,-82.42782354354858
+"4bfdda178992a5936fd0acb0","Youfit","Shop & Service::Gym / Fitness Center::Gym",27.895287487455903,-82.51991816206885
+"4bfde7448992a593b1e3acb0","The Theater @ Czar","Nightlife Spot::Bar",27.960471,-82.443451
+"4bfde90fbf6576b0b50eaeb8","Cyberia Bar","Nightlife Spot::Bar",27.960434155812564,-82.4436683568081
+"4bfe9a13261eb713bc324ad7","Big Frog Tshirts","Shop & Service::Clothing Store",27.912561879470214,-82.50630830038307
+"4bfebbf368c7a59348983f44","Brookstone","Shop & Service::Electronics Store",27.964953776901964,-82.52108931541443
+"4bfebc8be584c92860276d25","Wendy's","Food::Fast Food Restaurant",28.05406630039215,-82.44202057
+"4bfebccaca1920a10dc2eb81","Wendy's","Food::Fast Food Restaurant",28.024892807006836,-82.45999145507812
+"4bfeca6fca1920a14ed9eb81","Wendy's","Food::Fast Food Restaurant",27.996679306030273,-82.50139617919922
+"4bff0b5c68c7a593281d4044","Fred Ball Park","Outdoors & Recreation::Park",27.92225050753874,-82.48881502222598
+"4bff1fb268c7a59379424044","Hyde Park Pointe","College & University::Fraternity House",27.94213,-82.48525
+"4bff305d4e5d0f4711d97d1f","Gold Club","Nightlife Spot::Strip Club",27.952099297778343,-82.40177455719024
+"4bffda74f326ef3b872f0604","Acropolis Greek Taverna","Food::Greek Restaurant",28.083518878951512,-82.41168401280184
+"4bffefa1c30a2d7f36b0111d","McDonald's","Food::Fast Food Restaurant",28.117940586705704,-82.37939357757568
+"4bfffe55ca1920a161a4ed81","Burlington Coat Factory","Shop & Service::Clothing Store",27.905872434719086,-82.50549955215533
+"4c00007892a6c928627743e2","Taco Bell","Food::Taco Place",27.907437616778164,-82.5056505203247
+"4c014623d715c9282cd3fce3","Airside F Shuttle","Travel & Transport::Airport::Airport Tram",27.977438791718107,-82.53709710134575
+"4c018a6258dbc9280e8eee6b","Nordstrom","Shop & Service::Department Store",27.964006164829453,-82.52230167388916
+"4c05072df423a5937057d216","TSA Screening","Travel & Transport::Airport::Airport Terminal",27.9770824764675,-82.53757953643799
+"4c0548ad73a8c9b6eb3d97e0","Cally's BBQ","Food::BBQ Joint",28.039806365966797,-82.4806137084961
+"4c057734761ac9b6df8e1f74","Nordstrom","Shop & Service::Department Store",27.964006164829453,-82.52230167388916
+"4c05c7e55753c928420c3af1","Applebee's","Food::American Restaurant",28.08765967208462,-82.50451106921575
+"4c06727a91d776b06ad8f8f9","Wyndham Tampa Westshore","Travel & Transport::Hotel",27.952018176794,-82.52483290746618
+"4c0695da2e80a5932a5574f9","Victoria's Secret","Shop & Service::Clothing Store::Lingerie Store",27.9644799719058,-82.52056360244751
+"4c06b190b4aa0f47f2826462","Carrabba's Italian Grill","Food::Italian Restaurant",27.980237609947018,-82.53450036048889
+"4c07ca32c69aa59382c79ba2","Erwin Technical Institute","College & University::Trade School",27.9967476986108,-82.43607049956226
+"4c07de19221620a1fb78f775","University of South Florida","College & University::University",28.063743987818075,-82.413489818573
+"4c083c176071a5936ff8db32","Bob Sierra YMCA","Shop & Service::Gym / Fitness Center::Gym",28.09644109169752,-82.50955376972894
+"4c0a8457ffb8c9b692aa6b61","Channelside Bay Plaza","Outdoors & Recreation::Plaza",27.943289286247143,-82.44670629501343
+"4c0bb83da1b32d7f365e9bf0","Gate C36","Travel & Transport::Airport::Airport Gate",27.983179,-82.531754
+"4c0d5d0998102d7f9710e206","Burlington Coat Factory","Shop & Service::Department Store",28.05812021081147,-82.4329948425293
+"4c0e6eacc700c9b60dd8a3dd","Hyde Park Mart","Food::Deli / Bodega",27.94151975,-82.466521
+"4c0ead9e5ab6c9b68727f0fe","Bob Sierra YMCA","Shop & Service::Gym / Fitness Center::Gym",28.09644109169752,-82.50955376972894
+"4c0ec93ad64c0f474dc6285d","BP","Shop & Service::Gas Station / Garage",27.945112490319467,-82.51371345565596
+"4c0ed4ff336220a130e2cc77","Evolation Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",27.920122617861033,-82.4938702583313
+"4c0fa36ec6cf76b0ba958251","Einsteins Bagels MSC","Food::American Restaurant",28.06410789489746,-82.41358184814453
+"4c0fab1d1281c9b68be61e1d","USF School of Theatre and Dance","College & University::College Theater",28.064179486892435,-82.41436958312988
+"4c0fe9207c49b7139ab53606","Marathon (Radiant Gas)","Shop & Service::Automotive Shop",28.06880344635002,-82.42637091124277
+"4c0ff9103ce120a16354071c","T&L Nails","Shop & Service::Salon / Barbershop",27.925454,-82.4530769
+"4c10f454ce57c928e3a182d2","Reeves Volkswagen","Shop & Service::Automotive Shop",28.05340510030977,-82.45846509933472
+"4c110c9581e976b0de1810eb","University Mall Food Court","Shop & Service::Food & Drink Shop::Food Court",28.05713480694497,-82.43458363484808
+"4c111eb7ce640f4738083b52","Arco Iris","Food::Spanish Restaurant",27.9665158301992,-82.49923539659297
+"4c115e0ea9420f4764a07c51","Village Inn","Food::Diner",28.051224599801003,-82.42651379553982
+"4c1187f772caa59385bd5da4","Diesel","Shop & Service::Clothing Store",27.964602993274646,-82.52151417162268
+"4c1251e1b7b9c9286c86a737","Aldo","Shop & Service::Clothing Store::Shoe Store",27.964652613246876,-82.52164100523217
+"4c128a557f7f2d7fd77edd68","Bay Area Automotive Services","Shop & Service::Automotive Shop",27.947481559324316,-82.4776791854403
+"4c12c1b3a5eb76b045c8beb7","LongHorn Steakhouse","Food::Steakhouse",27.960215633334567,-82.50522136688232
+"4c12c958a5eb76b0bbd8beb7","ABC Fine Wine & Spirits","Shop & Service::Food & Drink Shop::Liquor Store",28.069174739540575,-82.42596342478039
+"4c13b285a5eb76b04657c0b7","Sports Fan Attic @ Westshore Plaza","Shop & Service::Clothing Store",27.947033023774306,-82.52653956413269
+"4c14280382a3c9b69ad9fcf8","Urban Outfitters","Shop & Service::Clothing Store",27.96540603800787,-82.52021939849239
+"4c14dcd7a1010f4796044d18","Denny's","Food::American Restaurant",27.959943299935173,-82.5060915779323
+"4c16dcaacd4bc9b6c4234feb","Thee Dollhouse","Nightlife Spot::Strip Club",27.95282371404751,-82.52440452575684
+"4c17835430d30f47e69636a9","Gate C33","Travel & Transport::Airport::Airport Gate",27.981971472829652,-82.5316572189331
+"4c193079838020a13e57e561","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",28.117448529766715,-82.37606763839722
+"4c1e6499920076b0dd47c3e9","University Mall","Shop & Service::Mall",28.056832570638814,-82.43447542190552
+"4c1edfdb8b3aa59386ca9c5f","Blue Martini","Nightlife Spot::Bar",27.965484436028014,-82.52127170562744
+"4c20d4624889a593a3f72620","Gate C38","Travel & Transport::Airport::Airport Gate",27.983449,-82.532049
+"4c20d7ba8082d13ac846f82a","Brick House Tavern + Tap","Food::Gastropub",27.952871006772163,-82.50598317515512
+"4c2120f713c00f47be7a85de","Urban Outfitters","Shop & Service::Clothing Store",27.96540603800787,-82.52021939849239
+"4c212eaf9085d13a7f6484cc","Channelside Bay Plaza Parking Garage","Professional & Other Places::Parking",27.944060520474427,-82.44632952633417
+"4c229e2c9a67a593e1d1dc87","Brick House Tavern + Tap","Food::Gastropub",27.952871006772163,-82.50598317515512
+"4c238a8dfbe5c9b631989b21","Marshall Student Center Food Court","Shop & Service::Food & Drink Shop::Food Court",28.064273,-82.413327
+"4c261d60f7ced13adbac256d","Gate C34","Travel & Transport::Airport::Airport Gate",27.982341,-82.531732
+"4c263805a852c928b930e66c","Grillsmith Restaurant","Food::American Restaurant",27.932764795167355,-82.50540969065553
+"4c27ccfb9fb5d13ae7a99857","Montauros","Food::Italian Restaurant",27.974199295043945,-82.48641967773438
+"4c2832dace3fc9281fe56c88","Tampa, FL","Outdoors & Recreation::City",27.947364741094024,-82.45874404907227
+"4c28a941e19720a16437f858","Albertelli Law","Professional & Other Places::Office",27.949699868266418,-82.5351791489202
+"4c28b44d360cef3b6521bedc","HART Marion Transit Center","Travel & Transport::Bus Station",27.95509820465902,-82.45843291282654
+"4c28eecc9fb5d13a185c9a57","Primrose School of Tampa Palms","College & University::College Academic Building",28.132860333333333,-82.38090628333333
+"4c29372ae19720a12a33f958","Sweet bay","Shop & Service::Food & Drink Shop::Grocery Store",28.05562065081835,-82.42867819206927
+"4c29d33ee19720a11802fa58","Tampa General Hospital Emergency Room","Professional & Other Places::Medical Center::Emergency Room",27.937811401201714,-82.46066528135702
+"4c2a72c6ae6820a1fc531643","Radiant Marathon","Shop & Service::Gas Station / Garage",27.959180648729735,-82.5060175749882
+"4c2a8fae8abca59321e5fe1f","HARDEE'S 1500769","Food::Fast Food Restaurant",27.995298385620117,-82.51276397705078
+"4c2b64fd2219c928847ca448","William F. Poe Garage","Professional & Other Places::Parking",27.950298606630735,-82.46171786374306
+"4c2c0c66d1a10f470002f964","7-Eleven","Shop & Service::Gas Station / Garage",27.893331092650605,-82.50593300009767
+"4c2c1bf5d1a10f473e17f964","Steak N Shake","Food::American Restaurant",28.054241180419922,-82.45206451416016
+"4c2c59a56e77b7131d52775d","Tampa Greyhound Station","Travel & Transport::Bus Station",27.951880706998615,-82.45635428698405
+"4c2d32d37d85a593a94252f3","Domino's Pizza","Food::Pizza Place",27.894460769382796,-82.50664659748102
+"4c2d36251683b713ff4c26ec","Subway","Food::Sandwich Place",28.03382682800293,-82.48450469970703
+"4c2dfec24e132d7fd64f9ddf","Gate A12","Travel & Transport::Airport::Airport Gate",27.97648081140684,-82.53204882144928
+"4c2e1ecb4e132d7f98929ddf","Hancock Fabrics","Shop & Service::Arts & Crafts Store",27.932407534759516,-82.50542554857576
+"4c2e5d6466e40f47e618c08b","Patel Bros","Shop & Service::Food & Drink Shop::Grocery Store",28.053949544096234,-82.44573169794388
+"4c2e62e509a99c74068f0a2a","42 North","Residence::Residential Building (Apartment / Condo)",28.079831481653557,-82.41185339292896
+"4c2ea9c416adc928e060bc9c","Cornerstone Pub","Nightlife Spot::Dive Bar",28.094205730622054,-82.50646591186523
+"4c2ec7ec66e40f477ff0c08b","Ciro's Speakeasy and Supper Club","Nightlife Spot::Speakeasy",27.92657909256749,-82.48302524565331
+"4c30ffa7ed37a5931fba6903","Kangaloom","Arts & Entertainment::Zoo",28.033194296396317,-82.42564156651497
+"4c314f6d66e40f473ce8c48b","Channelside Bay Plaza Parking Garage","Professional & Other Places::Parking",27.944060520474427,-82.44632952633417
+"4c3378de213c2d7f4c01375d","Tiffany & Co.","Shop & Service::Jewelry Store",27.964591,-82.51965920338822
+"4c349961a0ced13a7563186e","Tampa General Hospital","Professional & Other Places::Medical Center::Hospital",27.93762558754881,-82.45884041466635
+"4c353ff4ed37a593665a7003","Harry Waugh Dessert Room","Food::Dessert Shop",27.931532515138297,-82.48305697177888
+"4c35e33a09a99c7420910c2a","CompUSA","Shop & Service::Electronics Store",27.950581985380655,-82.50529339912896
+"4c366ed43849c9284215bcb1","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",27.944336,-82.506035
+"4c38b71aae2da593282b01c6","Tampa Bay History Center","Arts & Entertainment::Museum::History Museum",27.942290141424422,-82.4502126400597
+"4c3a3f53ae2da593c8f403c6","Ybor Square","Nightlife Spot::Other Nightlife",27.96133874118344,-82.44522909486453
+"4c3b5ebd62f1c9283a698f53","Dept of Highway Safety & Motor Vehicles","Professional & Other Places::Government Building",27.981339042466807,-82.51289382576942
+"4c3c852a86ce328f75d5ab2d","Gate C37","Travel & Transport::Airport",27.983217,-82.531791
+"4c3e469cdb3b1b8dd9356595","Ross Dress For Less","Shop & Service::Clothing Store::Men's Store",28.11749,-82.376493
+"4c3f0c8e6faac9b6d2020f76","Tropical Smoothie Cafe","Food::Fast Food Restaurant",27.946802,-82.458502
+"4c406075d7fad13a57d505da","USF Bookstore Starbucks","Food::Coffee Shop",28.063528018756354,-82.41258383999914
+"4c41e8f8ff711b8de6a51205","Lee Nails","Shop & Service::Salon / Barbershop",27.9641,-82.522473
+"4c41f31f6c1a952195b3b96a","ABC Fine Wine & Spirits","Shop & Service::Food & Drink Shop::Liquor Store",27.944918,-82.49175131320953
+"4c42015fd691c9b605a58d0a","Carriage Express Carwash","Shop & Service::Automotive Shop",28.05405368684361,-82.43978487640732
+"4c4346d4ce54e21eb1d80d1a","urban body","Shop & Service::Clothing Store::Men's Store",27.93644461307049,-82.4831521500682
+"4c436d5b8c1f20a1d70c3b99","The Home Depot","Shop & Service::Hardware Store",27.88987714882733,-82.50719547271729
+"4c43da832d3ec9b69a292eae","Melrose Court 1","Outdoors & Recreation::Pool",27.943979,-82.51443
+"4c445de659d99c742bc8fbad","Verizon","Professional & Other Places::Office",27.951051623312452,-82.45577241442203
+"4c44622036d6a5938b5c6aa8","USF Student Government Computer Services (SGCS)","College & University::College Lab",28.06398067231656,-82.41279244422913
+"4c4471fddcd61b8dba4f7b56","Hillsborough County Courthouse","Professional & Other Places::Government Building::Courthouse",27.95083973542647,-82.45394741876147
+"4c447a57429a0f475ac4481e","Bank Of America Palma Ceia","Shop & Service::Bank",27.92853355407715,-82.50606894493103
+"4c45ab6ddd1f2d7f1d8281f9","Main Pool @ Adventure Island","Outdoors & Recreation::Pool",28.0427521,-82.41289098
+"4c461997f88dc9286abfae75","hhgregg","Shop & Service::Electronics Store",28.11706387,-82.374789
+"4c4624aef9652d7f7f32142b","Famous Tate","Shop & Service::Furniture / Home Store",28.024711983333333,-82.48390323
+"4c4644eef88dc9286f4faf75","Tampa Dog Run","Outdoors & Recreation::Dog Run",27.949583530426025,-82.46327954
+"4c465db82dcd9c7484560b7b","G Bar","Nightlife Spot::Gay Bar",27.96019990950716,-82.44396463520938
+"4c46fdcc96abd13aab446f01","Busch Gardens Tampa Parking Complex","Professional & Other Places::Parking",28.034855098906267,-82.41515278816223
+"4c474a671ddec928a1e19c32","Computer Lab (MSC)","College & University::College Lab",28.06389546595713,-82.41291046142578
+"4c4754c0417b20a14c3cdda9","Timbuktu","Arts & Entertainment::Theme Park",28.03796154303737,-82.42281458511009
+"4c48ddab20ab1b8dc542ff15","Regina's Secret THE Spa of South Tampa","Shop & Service::Spa / Massage",27.938217,-82.501811
+"4c48df139f2ad13a29ed8452","Macaroni Grill","Food::Italian Restaurant",28.13361358642578,-82.37281036376953
+"4c4c794dbad7a5935fd551ad","La Teresita Cuban Restaurant","Food::Cuban Restaurant",27.971614837646484,-82.4992446899414
+"4c4d234cf96ac9b635d93599","7-Eleven","Shop & Service::Gas Station / Garage",28.129294989481384,-82.36641298560811
+"4c4e05b9db2c20a1a01fc073","Gate A5","Travel & Transport::Airport::Airport Gate",27.975301,-82.532451
+"4c4ecda6ea24c9b6cda64316","Chemistry Building (CHE)","College & University::College Academic Building::College Science Building",28.06118776202011,-82.41531372070312
+"4c503f81d49d76b0a2b50f7b","Myobe Reserve #Busch Gardens","Arts & Entertainment::Theme Park",28.041637420654297,-82.41616821289062
+"4c51e57d2543a5938644a284","Gate C43","Travel & Transport::Airport::Airport Gate",27.983592,-82.532752
+"4c51f7ff384c76b03017f12a","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c51f8eb384c76b05328f12a","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c51f96cbfc6ef3b3bf3419c","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c51f9ffbfc6ef3bf50b429c","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c51fbd3bfc6ef3be629429c","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c51fc9dbfc6ef3ba53b429c","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c524e1c9d642d7f73b2fbde","Tabu Ultra Lounge","Nightlife Spot::Bar",27.960294226656476,-82.44110761214321
+"4c54efe4479fc928f7b5f393","Czar","Nightlife Spot::Cocktail Bar",27.96036502308712,-82.4434514378899
+"4c55bd1f479fc92820ae5f95","Einstein Bros Bagels","Food::Bagel Shop",28.054112734803372,-82.40136692648673
+"4c55e0aca724e21ec770ccf8","Michaels","Shop & Service::Arts & Crafts Store",28.13124457012585,-82.36729221185433
+"4c5600e66201e21e0d2d556c","Independent's Patio","Nightlife Spot::Beer Garden",27.991994631322033,-82.45953745
+"4c58b0e4f346c92868e44aca","Jimmy John's","Food::Sandwich Place",27.963948560354126,-82.5046643642899
+"4c59ca7c67ac0f472e1f054c","Chemistry Building (CHE)","College & University::College Academic Building::College Science Building",28.06118776202011,-82.41531372070312
+"4c5a94842091a593f3a15fd0","H. Lee Moffitt Cancer Center","Professional & Other Places::Medical Center",28.064255225681745,-82.42565631866455
+"4c5ac3d5f346c92850bf4fca","Tampa General Hospital","Professional & Other Places::Medical Center::Hospital",27.93762558754881,-82.45884041466635
+"4c5eec43d25320a19ef7c97a","University Mall","Shop & Service::Mall",28.056832570638814,-82.43447542190552
+"4c5f79fe3986e21e8a5b924f","Juniper-Poplar","College & University::College Residence Hall",28.060244624160294,-82.41858062605006
+"4c5feac83986e21eb6e8924f","Medco","Professional & Other Places::Building",28.07500959177158,-82.35793590545654
+"4c600aed23e303bb47d17407","Walgreens","Shop & Service::Drugstore / Pharmacy",28.069674579369792,-82.42652967155468
+"4c60212e54ac0f4748d8b421","West Parking Garage","Professional & Other Places::Parking",27.94824338974291,-82.46839795055477
+"4c6038adcd522d7fe887cd3f","The Vitamin Shoppe","Shop & Service::Drugstore / Pharmacy",27.944978064304873,-82.5060175749882
+"4c605ad6b6f3be9a4d185f73","Argos Fitness Center","College & University::College Gym",28.064514266666666,-82.410667
+"4c60628c1e5cd13a4089a1ed","Bob Martinez Sports Center","College & University::College Gym",27.947261229001192,-82.46856190340377
+"4c60be003986e21ee020954f","TownePlace Suites Tampa Avion Park","Travel & Transport::Hotel",27.957734087512396,-82.53240515615498
+"4c61064390b2c9b65d3a3e22","Im On A Boat","Travel & Transport::Ferry::Boat or Ferry",27.942820034001056,-82.4454512987807
+"4c6158691e5cd13ae4c1a3ed","Sykes Enterprises Inc.","Professional & Other Places::Office",27.947715884450716,-82.46043254741221
+"4c61795512e5c928cfa7214c","620 WDAE","Arts & Entertainment::General Entertainment",27.89299,-82.511069
+"4c61a6fcec94a593ba6927ca","Cypress Center III","Professional & Other Places::Office::Coworking Space",27.95159933454896,-82.5350100706585
+"4c62a858edd320a10460ad29","Cass Street Gym","College & University::College Stadium::College Basketball Court",27.949866804620893,-82.46618986129761
+"4c64098beb82d13a304209d6","VA Hospital (Tampa)","Professional & Other Places::Medical Center::Hospital",28.06455853648471,-82.42731817572404
+"4c643be611c4a5932bcee811","Grow Financial Federal Credit Union","Professional & Other Places::Building",28.033127804684543,-82.3976557890766
+"4c6480b2e0c4be9a1cb88558","Eats American Grill","Food::American Restaurant",27.902591580837715,-82.5058907126135
+"4c649220f67ec9284c6a5527","China City","Food::Chinese Restaurant",28.099870681762695,-82.39952087402344
+"4c64ab08f07e2d7f87129050","University Laundromat","Shop & Service::Laundry Service",28.06898749,-82.437125
+"4c662faa9cb82d7f0b1a90d2","The Hooker Box @ Czar","Nightlife Spot::Speakeasy",27.960389,-82.443255
+"4c666da1aebea593521873d0","JetBlue Flight 444","Travel & Transport::Airport::Plane",27.976835,-82.531825
+"4c66d13df7a80f4767149f7a","Nordstrom Rack","Shop & Service::Clothing Store::Boutique",27.957751716477194,-82.50756025314331
+"4c67361cf7a80f47f18fa07a","Gaspar's Grotto","Nightlife Spot::Bar",27.96019121,-82.4389922618866
+"4c674ced19f3c9b65eb9a2ff","Honey Pot","Nightlife Spot::Cocktail Bar",27.960306469631142,-82.4426313724312
+"4c69330ec946e21e307ae98e","USF Sun Dome","College & University::College Stadium::College Basketball Court",28.05925635109616,-82.40664482116699
+"4c6d46bba437224b24852cb1","Kumba","Arts & Entertainment::Theme Park",28.039543792631395,-82.42322738230888
+"4c6db095c5243704a8e928eb","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",28.170019605615373,-82.35623002052307
+"4c6db2b3a437224b31dd2db1","Fresh","Food::Deli / Bodega",27.94881115450411,-82.45845956685463
+"4c6e5ae4c524370417ac2aeb","Gate E64","Travel & Transport::Airport::Airport Gate",27.98074,-82.538073
+"4c6ed3f0b3ce224b6cec6ec6","Hess Express","Shop & Service::Gas Station / Garage",27.951699142621923,-82.40155221346622
+"4c6ef311b3ce224b18536fc6","Harbour Island","Outdoors & Recreation::Other Great Outdoors",27.93693885246646,-82.45119094848633
+"4c6fb1299375a09311a50437","HCC Fire, Police, Motorcycle, Automotive Academy Centre","College & University::Community College",27.96720626380711,-82.39130775012218
+"4c703420b5a5236a988f4f52","University of South Florida","College & University::University",28.063743987818075,-82.413489818573
+"4c70365e9375a0931d570637","LOT 13 - Bucs Tailgating","Arts & Entertainment::Stadium::Football Stadium",27.96986459538896,-82.50732318669664
+"4c706447df6b8cfa9d41b84d","Bucs Pirate Ship","Arts & Entertainment::Stadium::Football Stadium",27.976659935242182,-82.50306267824512
+"4c708617df6b8cfa64beb84d","Beef 'O' Brady's (MSC)","College & University::College Cafeteria",28.063374758959572,-82.41353273391724
+"4c71b783ad69b60ca0d181b9","Park at Coventry","Residence::Residential Building (Apartment / Condo)",28.073474589221465,-82.42897453450749
+"4c72a36f13228cfa508f2b65","University Mall","Shop & Service::Mall",28.056832570638814,-82.43447542190552
+"4c72d7d3f3279c74364eaf2d","MacDill AFB Exchange","Shop & Service::Department Store",27.86305685603224,-82.49758243560791
+"4c746fbdd8948cfabd2965da","Acropolis Greek Taverna","Food::Greek Restaurant",27.96024836675704,-82.43811819345399
+"4c79848781bca093edbefd14","Czar","Nightlife Spot::Cocktail Bar",27.96036502308712,-82.4434514378899
+"4c799ad281bca0935a17fe14","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c7a7df3794e224bc0a06828","World of Beer","Nightlife Spot::Bar",27.9410549,-82.48299
+"4c7a8f6f2d3ba143e49891d0","CinéBistro at Hyde Park Village","Arts & Entertainment::Movie Theater",27.937694753758613,-82.47649992953934
+"4c7e84ee10916dcb7d972c96","Fit2Run","Shop & Service::Sporting Goods Shop",27.965204996705875,-82.52055234247995
+"4c7fd0f3e602b1f75cf0837a","Spirit halloween store","Shop & Service::Miscellaneous Shop",28.056561125,-82.43643738333333
+"4c7fd51a47cc224b408a6d9f","Patriots Park","Outdoors & Recreation::Other Great Outdoors",27.919182070694394,-82.49087701719606
+"4c7fda2fd4e23704da4c4f88","Morsani Center for Advanced Healthcare","Professional & Other Places::Medical Center::Doctor's Office",28.066830312757702,-82.41974472999573
+"4c7fe4e5d8086dcb20de5e52","Tabu Ultra Lounge","Nightlife Spot::Bar",27.960294226656476,-82.44110761214321
+"4c7feb22e602b1f7a1fd847a","College of Engineering (ENB)","College & University::College Academic Building::College Engineering Building",28.059538017350807,-82.41590648889536
+"4c8011f8d8086dcbc06d6052","Hill Ward Henderson","Professional & Other Places::Office::Conference Room",27.947392074807127,-82.45896736347134
+"4c801316d4e23704c6525188","Hidden Rriver Parkway & Fletcher Ave","Professional & Other Places::Building",28.069575742038428,-82.3595666885376
+"4c801b3814d6199c254ed1f6","Youfit","Shop & Service::Gym / Fitness Center::Gym",27.895287487455903,-82.51991816206885
+"4c803455d92ea093d8d83572","MacDill Air Force Base","Professional & Other Places::Military Base",27.84364878515732,-82.49155282974243
+"4c815750d34ca1436e872180","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",27.956911542300826,-82.50671002800209
+"4c81852d47cc224bbd407d9f","Shoe Doctors","Shop & Service::Clothing Store::Shoe Store",28.05659162772488,-82.43332427254761
+"4c81992e2f1c236ac9b73143","USF Greek Village Quad","College & University::College Residence Hall",28.067487237414266,-82.40705236502545
+"4c82c531d4e2370420136b88","Chart House Restaurant","Food::Seafood Restaurant",27.966103448094195,-82.56658350274115
+"4c8315aa51ada1cd64422310","Wooden Door","Food::Restaurant",27.909046173095703,-82.52701568603516
+"4c83e5f8d34ca143b8a13980","ZTA house","College & University::Sorority House",28.068266022246718,-82.40673475501707
+"4c845e44d92ea093c9165d72","On 50","Residence::Residential Building (Apartment / Condo)",28.066862105387255,-82.4004881300925
+"4c851765d92ea093ac726272","AutoZone","Shop & Service::Automotive Shop",28.025600797246504,-82.47513556352733
+"4c854832d92ea0936d856472","Save-A-Lot","Shop & Service::Food & Drink Shop::Grocery Store",28.02418145,-82.46061396
+"4c86356547cc224b8a2ba79f","Rocky Point Center","Professional & Other Places::Building",27.968305609474463,-82.56926105614515
+"4c864ba7dc018cfa9e21ee6c","MacDill Air Force Base","Professional & Other Places::Military Base",27.84364878515732,-82.49155282974243
+"4c86d1bbd92ea093c4587172","Marshall Student Center Ballroom","College & University::Student Center",28.064144206696593,-82.41343072554352
+"4c87c87d3d15a1cd864c1b28","Roy's","Food::Mediterranean Restaurant",27.958576202392578,-82.52188110351562
+"4c87e122b446224bf5107e6f","Crespo And Associates","Professional & Other Places::Medical Center::Doctor's Office",27.95265338,-82.52940072
+"4c88198d1052370435e9bdf1","Channelside Bay Plaza","Outdoors & Recreation::Plaza",27.943289286247143,-82.44670629501343
+"4c887b6e7223b1f7d0192ca8","KD's Bar & Lounge","Nightlife Spot::Bar",28.033679914569472,-82.64776658814947
+"4c894b648992236af931b782","Parking Lot of Doom by the Library","College & University::College Library",28.058713212040697,-82.41203335886178
+"4c895719da5da1cd32b53be9","Cru Cellars","Nightlife Spot::Wine Bar",27.922753,-82.49342167
+"4c8a54b49ef0224b9cc6597b","Howl-O-Scream","Professional & Other Places::Event Space",28.034067749977112,-82.42086962
+"4c8a5c6de51e6dcb073268de","Deconstruction: The Doctor Is Out Of Control","Arts & Entertainment::Theme Park",28.03377914428711,-82.41909790039062
+"4c8ab1b62e333704d905c641","H.B. Plant High School","Professional & Other Places::School::High School",27.923630165700125,-82.50301122665405
+"4c8bf36df87e224ba5613005","Raymond James Stadium","Arts & Entertainment::Stadium::Football Stadium",27.975994470037183,-82.50334918498993
+"4c8c3e42509e370421ee3155","Streetcar Charlie's","Nightlife Spot::Gay Bar",27.96080601022958,-82.44280596782558
+"4c90eac27f3b8cfa9431981e","Mercedes-Benz of Tampa","Shop & Service::Automotive Shop",27.981881906738824,-82.5058907126135
+"4c93e78f58d4b60c7a982329","D.E.D. Extreme Rush","Arts & Entertainment::Theme Park",28.037574768066406,-82.42385864257812
+"4c97673594a0236a91b4a612","Walmart Supercenter","Shop & Service::Department Store",27.89182878761387,-82.51632436275364
+"4c9b5dc5b8e9224bd2a8553d","Wyndham Tampa Westshore","Travel & Transport::Hotel",27.952018176794,-82.52483290746618
+"4c9b7f94df1b9eb0914c6e8f","Bath & Body Works","Shop & Service::Spa / Massage",27.96465113605604,-82.5197860404147
+"4c9d5afed3c2b60c9dc1c0bc","Honey Pot","Nightlife Spot::Cocktail Bar",27.960306469631142,-82.4426313724312
+"4ca1ec94542b224bdf5412a0","Disney Store","Shop & Service::Toy / Game Store",27.964493511465477,-82.52153590321541
+"4ca37315a73cb60c82e71878","Target","Shop & Service::Department Store",28.071601634524658,-82.42814540863037
+"4ca5190e97c8a1cd77f163a5","Yard of Ale","Nightlife Spot::Bar",27.94054728349644,-82.48290891640154
+"4ca895df97c8a1cd4c0986a5","The Smoking Table","Outdoors & Recreation::Other Great Outdoors",27.94568481932503,-82.45908200740814
+"4ca9fa8876d3a09315cb246b","Great Clips","Shop & Service::Salon / Barbershop",27.9372580343621,-82.48342182117574
+"4cab5882a6e08cfa7ae5a494","Caribbean Connections","Food::Caribbean Restaurant",28.044483184814453,-82.45118713378906
+"4cab604f44a8224b79712d40","Spartan Club","Arts & Entertainment::Arcade",27.946091,-82.465949
+"4cab7dae44a8224bd3642e40","GameStop","Shop & Service::Video Game Store",27.946904828963127,-82.5264657935986
+"4cac55979f4776b04a059c13","Wal-Mart Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",28.03197872411311,-82.45816864003133
+"4cacad1d8882199c390b47d4","The Luxury Box","Nightlife Spot::Sports Bar",27.94382005186689,-82.45148062705992
+"4cacef8c36fa6dcbe4dce278","Highlander MMA","Shop & Service::Sporting Goods Shop",27.944631985822873,-82.49189213055777
+"4cad35ed2776b60c059e580d","Crossover Church","Professional & Other Places::Spiritual Center::Church",28.05363389404263,-82.44733471288681
+"4cad88668c48a093b2996c2c","Employee Parking","Professional & Other Places::Parking",27.992267151675936,-82.53262179580803
+"4cae50b1155f199c4bb30bda","USF Homecoming Carnival","College & University::College Quad",28.066830312757702,-82.40411281585693
+"4caf3acddb32f04deb92b54d","City Of Tampa Parking","Professional & Other Places::Parking",27.946621666489868,-82.457193
+"4caf7fcd562d224b2c890e88","Jiffy Lube","Shop & Service::Automotive Shop",28.05418263769423,-82.44140919235842
+"4cb08b22c5e6a1cd39ecd5f6","Radiance Of The Seas","Travel & Transport::Ferry::Boat or Ferry",27.946263306861336,-82.4445889319807
+"4cb0e33cef1b3704ffee3e00","The Place at Channelside","Residence::Residential Building (Apartment / Condo)",27.947977495632102,-82.44657817910182
+"4cb1ecc7ef1b370419234700","Holland America Line Ryndam","Travel & Transport::Ferry::Boat or Ferry",27.945641603698594,-82.44404399528041
+"4cb244181168a093d4d13923","EVOS South Tampa","Food::Vegetarian / Vegan Restaurant",27.938518,-82.48308
+"4cb313251463a143caafb1a9","Fed Ex Kinkos","Shop & Service::Paper / Office Supplies Store",28.054919242858887,-82.427254
+"4cb59dee3ac937043f45cd0a","Brothers Automotive","Shop & Service::Automotive Shop",27.886374592781067,-82.49391
+"4cb5b0281b0af04df7ddca25","West Coast Tires","Shop & Service::Automotive Shop",27.90955653,-82.518221
+"4cb5b2f88db0a143393a6416","La Cubanita Cafe","Food::Cuban Restaurant",28.14584732055664,-82.35450744628906
+"4cb60922b315a09316fe9876","SunTrust Bank","Shop & Service::Bank",27.90721208237215,-82.50647744913955
+"4cba4ed0bac9370404e6ea7c","Fine Arts Building (FAH)","College & University::College Academic Building::College Arts Building",28.06287298437495,-82.41657972335815
+"4cbcf57790c9a1434d849ed6","The Pub","Nightlife Spot::Pub",27.96550434256617,-82.52070560186961
+"4cc08d851c6c6dcb7423765e","Stanleyville Train Station","Travel & Transport::Train Station",28.03644931552586,-82.4251749052236
+"4cc3788a3d7fa1cd2703a65f","Express","Shop & Service::Clothing Store",27.964611353552137,-82.52099626529233
+"4cc4ec0cbe40a35de0a4814c","Tabu Ultra Lounge","Nightlife Spot::Bar",27.960294226656476,-82.44110761214321
+"4cc581ccbe40a35de4b0844c","Behavioral Sciences Building (BEH)","College & University::College Academic Building",28.062039068914327,-82.41030249072877
+"4cc730afd43ba1438ea878f8","The Pub","Nightlife Spot::Pub",27.96550434256617,-82.52070560186961
+"4cd2f4af21d946882b72ed90","USF Library","College & University::College Library",28.0598713122999,-82.41215596865715
+"4cd494e676ab721e670b686a","Tampa Bay History Center","Arts & Entertainment::Museum::History Museum",27.942290141424422,-82.4502126400597
+"4cd5a884ab19a093f5a440eb","Heavenly Touch Massage Lounge","Shop & Service::Spa / Massage",27.962197766666666,-82.46224493333334
+"4cd980e07bb06dcbd092a8b2","Curtis Hixon Waterfront Park","Outdoors & Recreation::Park",27.94914848603738,-82.46173902101384
+"4cdf534b94c3b60c4f506bea","Jackson's Bistro","Nightlife Spot::Bar",27.93899875080841,-82.45491017608914
+"4ce52c08834ba35d0a5b981a","Tampa, FL","Outdoors & Recreation::City",27.947364741094024,-82.45874404907227
+"4ce7454db9975481fe83f544","Scores","Nightlife Spot::Strip Club",27.962000907504912,-82.50602286091542
+"4ce75beaf3bda143143bb2e4","G Bar","Nightlife Spot::Gay Bar",27.96019990950716,-82.44396463520938
+"4ce8034df86537047e92adc4","La Harencia Cigars","Nightlife Spot::Lounge",27.96021842956543,-82.43856811523438
+"4ce88f1fe888f04df54f436b","Jackson's Bistro","Nightlife Spot::Bar",27.93899875080841,-82.45491017608914
+"4ce8a1b1e888f04dd1cd436b","Honey Pot","Nightlife Spot::Cocktail Bar",27.960306469631142,-82.4426313724312
+"4ce93826b99754814afb0045","Ihop","Food::American Restaurant",27.939416885375977,-82.50572967529297
+"4ce955fa94daa0901e0f1e29","CLEANSE APOTHECARY","Shop & Service::Gift Shop",27.99367993,-82.45907408
+"4cead78c0f196dcb273354ae","Metropolitan Cigars","Shop & Service::Smoke Shop",27.960330963134766,-82.43614959716797
+"4cebd3f49f776ea881fe6f22","Patel Center for Global Solutions (CGS)","College & University::College Academic Building",28.05592363887781,-82.40874767303467
+"4cf12c2f51785941ff1bc08f","The Dog's Bollocks","Nightlife Spot::Pub",27.960360443863078,-82.44022931842943
+"4cf14b1a7bf3b60c44cc5e7f","Crocs International Plaza","Shop & Service::Clothing Store::Shoe Store",27.96538074748187,-82.520629
+"4cfb3a26c51fa1cdb4d4e52b","Drunken Girl Corner","Professional & Other Places::Event Space",27.96210562595519,-82.43953619927112
+"4d040ef90e49721e5ecd6e7f","Cheetah Hunt","Arts & Entertainment::Theme Park",28.03430879624674,-82.42027953312609
+"4d0517f826adb1f7370bd670","Carnival Legend","Travel & Transport::Ferry::Boat or Ferry",27.942991888299836,-82.44626604037818
+"4d0b921eb93b224bc9a44cbf","Hurricane Grill & Wings","Food::American Restaurant",27.953746447768527,-82.52449998417994
+"4d0c225795c1a1cdc38bfafe","Club Prana","Nightlife Spot::Nightclub",27.96029871582699,-82.44079544878441
+"4d2cdf116e1eb1f748e0075f","Starbucks","Food::Coffee Shop",27.96468011903956,-82.51970676730053
+"4d3dacdbd625224b66049cfa","St. Joseph's Hospital - Emergency Room","Professional & Other Places::Medical Center::Emergency Room",27.983561459077396,-82.49042761328451
+"4d5086ec9d493704e7c5c239","4050 Lofts","Residence::Residential Building (Apartment / Condo)",28.072366217131098,-82.41551613720175
+"4d57284fc6edf04d0ae8d9a2","Amphitheatre","Nightlife Spot::Nightclub",27.960220188946337,-82.44140390148875
+"4d64382989238cfa66bb8936","Texas de Brazil","Food::Brazilian Restaurant",27.965162250441246,-82.51279592514038
+"4d8b74ac4757721eb180cc69","Bare Escentuals","Shop & Service::Cosmetics Shop",27.964567184448242,-82.52144622802734
+"4d93538452ed224bb98a1aac","Lowry Park Zoo Giraffe Experience","Outdoors & Recreation::Park",28.01580683283361,-82.4703547817767
+"4d98996caf3d236abeb13fc7","Hyde Park Fresh Market","Shop & Service::Mall",27.936338424682617,-82.47576141357422
+"4d99e4cc9079b1f7823c4c0a","Zeko's","Food::Falafel Restaurant",28.032817840576172,-82.4594955444336
+"4da63b0c5da3e8486b801c10","Amphitheatre Event Facility","Arts & Entertainment::Concert Hall",27.960163,-82.441381
+"4da9b197cda1652a2b79bfc0","Tampa Port Authority Terminal 2","Outdoors & Recreation::Harbor / Marina",27.943978560009786,-82.44558356267827
+"4da9ce686a2303012efe1f4c","Macy's Furniture Clearance Center","Shop & Service::Furniture / Home Store",27.995054,-82.483628
+"4db311ef4b226b343d70362a","Tiger Lodge","Arts & Entertainment::Zoo",28.038743,-82.42426
+"4dbf2d6790a08997e2828c8a","CinéBistro at Hyde Park Village","Arts & Entertainment::Movie Theater",27.937694753758613,-82.47649992953934
+"4dcbff421838cc2cc6595abf","Sophie's French Bakery & Cafe","Food::Bakery",27.93568433,-82.476627
+"4dd97d78b0fb8af380b8f401","Southwest Airplane","Travel & Transport::Airport",27.982835809765724,-82.53132723164038
+"4de182122271bfb84485edba","PJ Dolan's Irish Pub & Grille","Food::Gastropub",28.081010673941933,-82.42715941721542
+"4decb392fa76cc1b8b1d269e","International Plaza Parking Lot","Professional & Other Places::Parking",27.95995913961014,-82.52422518914328
+"4defdf9dfa76042fed6bbb54","Tampa Bay","Outdoors & Recreation::Other Great Outdoors",27.941640105001575,-82.58045196533203
+"4df688a3e4cd5007144125ee","Youfit Health Clubs","Shop & Service::Gym / Fitness Center::Gym",27.994980840625956,-82.5099396215554
+"4e09a7fb45ddb2875c588bc8","The Quarter at Ybor","Residence::Residential Building (Apartment / Condo)",27.963134354373906,-82.43801593780518
+"4e0a473ad164028d170d4629","Yummy House China Bistro","Food::Chinese Restaurant",27.996349506689395,-82.43001701481565
+"4e176e082271b0e971f23c77","Delta Sky Club","Travel & Transport::Airport::Airport Terminal",27.980284662289716,-82.53802171494517
+"4e265a39b61ce3fb054e2813","Interdisciplinary Sciences Building (ISA)","College & University::College Academic Building::College Science Building",28.06145285492842,-82.414391040802
+"4e370e831850788f2cc0146b","Corbett Soccer Stadium","College & University::College Stadium::College Soccer Field",28.060240996295896,-82.40349054336548
+"4e3c45a8bd41c74ab25d368c","Waffle House","Food::Diner",27.949444625630424,-82.52404551487233
+"4e4b12f952b1119aaa69e4fd","Blue Martini","Nightlife Spot::Lounge",27.965899958484222,-82.52093813270595
+"4e51258c6284416669a5d199","Bayshore Boulevard","Outdoors & Recreation::Hiking Trail",27.911448063386707,-82.49068139467649
+"4e53a8296284ca6a2f730abc","LandWarNet","Professional & Other Places::Convention Center",27.94181251525879,-82.45535278320312
+"4e60014a52b1260c120fc197","I-4","::Outdoors & Recreation",27.965104089106724,-82.43949387115912
+"4e6a5181b61cc3728d8a3093","DMV  30th and Bouganvilla","Professional & Other Places::Government Building",28.044470750300743,-82.4242381958572
+"4e72a0f11fc72da746b247a6","The Asylum Theater","Arts & Entertainment::Performing Arts Venue::Theater",28.020893096923828,-82.48391723632812
+"4e776840483b0cf5ed9ac49c","Si-am Thai Restaurant","Food::Thai Restaurant",27.950629472293162,-82.45915778624229
+"4e78ece1d22dc865f131754a","7-Eleven","Shop & Service::Gas Station / Garage",27.980978262726055,-82.48501338803453
+"4e7f497f7ee6f1394b9d3a50","On The Plane Waiting...","Travel & Transport::Airport::Airport Gate",27.980704502816486,-82.53380009221642
+"4e84cc43b8f7fa1afc200840","Redneck Wine Company","Shop & Service::Food & Drink Shop::Wine Shop",27.916164,-82.494224
+"4e8aed7e550385f0952e5e43","Red Bull Flugtag","Outdoors & Recreation::Other Great Outdoors",27.941107752050456,-82.45555024360846
+"4ea3b9bc6c25b62f3df01c43","University club","Residence::Residential Building (Apartment / Condo)",28.06365330514541,-82.43367880122145
+"4ea866b602d50d150eb5cd0b","Taco Bus","Food::Mexican Restaurant",27.948786375209526,-82.45823979377747
+"4eaae71961af01ea2a8e7b03","PDQ Tenders Salads & Sandwiches","Food::Fried Chicken Joint",27.92538454669252,-82.50622901176061
+"4eab5d0661af01ea2ac5f877","The Mermaid Tavern","Nightlife Spot::Bar",28.00945473060293,-82.45111725791386
+"4ec45c27e5fa74ea52e6b3f1","The Patio","Nightlife Spot::Bar",27.940080090373787,-82.49371612486752
+"4f25b448e4b06176459f9705","Bad Monkey","Nightlife Spot::Lounge",27.960064009305835,-82.44011878967285
+"4f347330e4b0cb01ba5ab7bc","Green Iguana Bar & Grill","Food::American Restaurant",27.976093644544566,-82.53199829447475
+"4f63186ce4b075c711dcd46c","HomeGoods","Shop & Service::Furniture / Home Store",27.956350189937794,-82.50819005692429
+"4f789f1ae4b0b0466ab16da7","Carne Chophouse","Food::Steakhouse",27.960276654493878,-82.4417848430725
+"4f9ed4b17b0c575dbad43e77","Taco Bus","Food::Taco Place",28.06940533812497,-82.43091344833373
+"4fc3ad1be4b021b6e0a4e12a","Columbia Café","Food::Cuban Restaurant",27.980436579234713,-82.53820180892944
+"506362eee4b05ef2f2a36516","Oxford Exchange","Food::American Restaurant",27.944877565835423,-82.4645687476927
+"5096bcd9e4b024b7d8c51430","Cirque Italia","Arts & Entertainment::Performing Arts Venue::Theater",28.053711914379395,-82.40873038049104

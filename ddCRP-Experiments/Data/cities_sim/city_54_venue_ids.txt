@@ -1,0 +1,982 @@
+"413ba880f964a5200f1b1fe3","BJ's Restaurant & Brewhouse","Food::Brewery",33.2995517782115,-111.89857631921768
+"413ba880f964a520f81b1fe3","Priceless Prime Time Bar & Grill","Nightlife Spot::Bar",33.35046747,-111.877516
+"413f9d00f964a5205a1c1fe3","Chandler Fashion Center","Shop & Service::Mall",33.30153352595687,-111.89849853515625
+"413f9d00f964a5205b1c1fe3","P.F. Chang's","Food::Asian Restaurant",33.305302,-111.898397
+"4283ee00f964a520eb221fe3","Famous Dave's Bar-B-Que","Food::BBQ Joint",33.29823357717419,-111.89850926399231
+"45f595bef964a52015441fe3","Iguana Mack's","Nightlife Spot::Bar",33.32694261609592,-111.85842764749121
+"4628b297f964a520ca451fe3","Regal Beagle","Nightlife Spot::Karaoke Bar",33.30392135,-111.946258
+"469d3ab4f964a52014491fe3","Ninja Japanese Restaurant","Food::Sushi Restaurant",33.340311,-111.86007112
+"46f0077bf964a520e54a1fe3","Takamatsu","Food::Sushi Restaurant",33.351046,-111.8429415
+"47e932acf964a520574e1fe3","Chipotle Mexican Grill","Food::Burrito Place",33.31741278318465,-111.96880459785461
+"49e931fbf964a520d6651fe3","Chase's Diner","Food::Diner",33.33585276193879,-111.85955554246902
+"4a2f074df964a5209c981fe3","Gangplank 2.0","Professional & Other Places::Office::Coworking Space",33.349254,-111.837699
+"4a305558f964a52050991fe3","Guedo's Taco Shop","Food::Taco Place",33.30594154810385,-111.84048928657208
+"4a412ef5f964a520eda41fe3","AJ's Fine Foods","Shop & Service::Food & Drink Shop::Grocery Store",33.318267454585886,-111.9642397257189
+"4a41acf6f964a52087a51fe3","Starbucks","Food::Coffee Shop",33.3483707276317,-111.85862560371996
+"4a4425e5f964a5203aa71fe3","Dirty Drummer","Nightlife Spot::Bar",33.35020571426062,-111.84337130605088
+"4a46d2c8f964a52089a91fe3","Firebird International Raceway","Arts & Entertainment::Racetrack",33.26996659995293,-111.96667335584922
+"4a47edd9f964a52051aa1fe3","Spicy Pickle","Food::Sandwich Place",33.31984238616384,-111.89781188964844
+"4a48212ef964a52094aa1fe3","Z'Tejas Southwestern Grill","Food::Restaurant",33.31932694068626,-111.96791345854366
+"4a491df3f964a520feaa1fe3","Coffee Rush","Food::Coffee Shop",33.31994996849377,-111.8741226196289
+"4a4a7d37f964a520dfab1fe3","Gelato 64","Food::Ice Cream Shop",33.33711124,-111.875857
+"4a4bc6eff964a520b5ac1fe3","China Way","Food::Chinese Restaurant",33.35106432437897,-111.8587213754654
+"4a4be2ddf964a520d5ac1fe3","Lee's Sandwiches","Food::Sandwich Place",33.334668192665376,-111.87488709696068
+"4a4c3706f964a52022ad1fe3","Majerle's Sports Grill","Nightlife Spot::Bar",33.30485128337522,-111.8972110748291
+"4a517434f964a5200db11fe3","Outback Steakhouse","Food::Steakhouse",33.32128884,-111.96882565
+"4a5933eff964a520f6b81fe3","Sushi Eye in Motion","Food::Sushi Restaurant",33.30480536666666,-111.842072
+"4a593f65f964a52019b91fe3","Lone Butte Casino","Arts & Entertainment::Casino",33.28935537789881,-111.94325923919678
+"4a5b8cb7f964a52066bb1fe3","Fresh & Easy Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",33.35012634523428,-111.85985991884286
+"4a5cc4e0f964a5208fbc1fe3","Urban Tea Loft","Food::Tea Room",33.30214328543526,-111.84184491634369
+"4a5e4955f964a5204dbe1fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",33.31862311047724,-111.89237236976624
+"4a60db46f964a5204fc11fe3","Audi Chandler","Shop & Service::Car Dealership",33.325902650446984,-111.96948051452637
+"4a624a82f964a520abc31fe3","Lee Lee International Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",33.33619281604824,-111.87474489212036
+"4a6253f4f964a520c7c31fe3","Firehouse Subs","Food::Sandwich Place",33.319864393644494,-111.89708134781804
+"4a646b32f964a5202fc61fe3","McDonald's","Food::Fast Food Restaurant",33.306466,-111.88783915
+"4a6931bcf964a520c3cb1fe3","Yogi's Teriyaki Grill & Roll","Food::Sushi Restaurant",33.319564,-111.897726
+"4a6bb2d1f964a520a6cf1fe3","Paradise Bakery","Food::Bakery",33.31894,-111.970252
+"4a70b22ff964a5203ad81fe3","Rumbi Island Grill","Food::Restaurant",33.3174205,-111.96793082
+"4a70f250f964a520d8d81fe3","Hon Machi Grill - Ocotillo","Food::Sushi Restaurant",33.262902866666664,-111.85640544
+"4a73095af964a5206fdb1fe3","Mercedes Benz of Chandler","Shop & Service::Car Dealership",33.32461174190059,-111.97124004364014
+"4a73b8e7f964a5204cdd1fe3","Pitta Souvli","Food::Mediterranean Restaurant",33.27709972858429,-111.86045
+"4a74e4b7f964a520e9df1fe3","Sprouts Farmers Market","Shop & Service::Food & Drink Shop::Grocery Store",33.3192488,-111.87552754126231
+"4a74f369f964a5201ce01fe3","Buca di Beppo","Food::Italian Restaurant",33.319405331582956,-111.96526408195496
+"4a75f8a7f964a520cfe11fe3","Pick Up Stix","Food::Asian Restaurant",33.32115079,-111.911864
+"4a760272f964a520f1e11fe3","Barnes & Noble","Shop & Service::Bookstore",33.30206258221964,-111.89841270446777
+"4a76235af964a5205de21fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",33.29086786857452,-111.8383990936598
+"4a774518f964a52004e41fe3","5 & Diner Chandler","Food::Diner",33.31901523,-111.96973
+"4a799a51f964a52037e71fe3","The Cheesecake Factory","Food::American Restaurant",33.30223295558726,-111.89806938171387
+"4a7a140cf964a5206ee81fe3","Brunswick Kyrene Lanes","Arts & Entertainment::Bowling Alley",33.3041123131235,-111.94899747547568
+"4a7e304ff964a5205bf11fe3","Big Two Toyota Scion of Chandler","Shop & Service::Automotive Shop",33.28713120263777,-111.7908239364624
+"4a81c384f964a5207ff71fe3","Subway @Chandler & Dobson","Food::Sandwich Place",33.30698013305664,-111.87397766113281
+"4a81cd7cf964a520a3f71fe3","Taco Bell","Food::Fast Food Restaurant",33.2629269361496,-111.85960233333333
+"4a822683f964a520bff81fe3","Qdoba Mexican Grill","Food::Mexican Restaurant",33.31989001666667,-111.890491
+"4a824100f964a52008f91fe3","Compass bank","Shop & Service::Bank",33.322132,-111.832078
+"4a874a47f964a520ab0320e3","The Home Depot","Shop & Service::Hardware Store",33.31360238382744,-111.97033882141113
+"4a88e258f964a520b60720e3","T.G.I. Friday's","Food::American Restaurant",33.28060184458917,-111.79030895233154
+"4a8aa7adf964a520310a20e3","Pure Fitness","Shop & Service::Gym / Fitness Center::Gym",33.35203943339597,-111.8576431274414
+"4a8d7836f964a520bd0f20e3","NYPD Pizza","Food::Pizza Place",33.306931542563895,-111.88554883003235
+"4a8da43bf964a5205c1020e3","Circle K","Shop & Service::Gas Station / Garage",33.30552757,-111.8757777
+"4a9028f4f964a520461620e3","Elephant Bar","Food::American Restaurant",33.305209952292934,-111.9006872177124
+"4a906ca1f964a520c51720e3","Jason's Deli","Food::Deli / Bodega",33.32120551,-111.968039
+"4a938adbf964a520d11f20e3","Chandler Regional Medical Center","Professional & Other Places::Medical Center::Hospital",33.297251638965584,-111.87470197677612
+"4a95aae1f964a520142420e3","Chandler Public Library","Professional & Other Places::Library",33.303287030942265,-111.83815455850096
+"4a97f823f964a520ff2920e3","Krispy Kreme Doughnuts","Food::Donut Shop",33.24549446,-111.842121
+"4a9887b6f964a520852c20e3","Pita Jungle","Food::Mediterranean Restaurant",33.31918120017852,-111.87425270676613
+"4a98880ef964a520892c20e3","BevMo!","Shop & Service::Food & Drink Shop::Liquor Store",33.32122726841687,-111.96791928062093
+"4a9981a6f964a520b82e20e3","PetSmart","Shop & Service::Pet Store",33.30762644567509,-111.89084887504578
+"4a99824bf964a520bd2e20e3","OfficeMax","Shop & Service::Paper / Office Supplies Store",33.30758581717789,-111.88830147438341
+"4a9987eaf964a520e62e20e3","Target","Shop & Service::Department Store",33.33855697785144,-111.84391477616151
+"4a998839f964a520e82e20e3","Target","Shop & Service::Department Store",33.296027563529485,-111.89982891082764
+"4a9988d4f964a520ed2e20e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",33.32190065529481,-111.82272553181753
+"4a99a0c7f964a520892f20e3","PetSmart","Shop & Service::Pet Store",33.31718932336232,-111.9672148091964
+"4a9d3d0af964a520013820e3","BoSa Donuts","Food::Donut Shop",33.321326,-111.842007
+"4aa1ba52f964a520854120e3","Starbucks","Food::Coffee Shop",33.261257443107915,-111.86044796508564
+"4aa81030f964a520124f20e3","Jimmy & Joe's Pizzeria","Food::Pizza Place",33.32081062235273,-111.91020369529724
+"4aa9ad53f964a520d15420e3","SER Soundworks","Arts & Entertainment::General Entertainment",33.34123485,-111.8367974
+"4aaa6d6cf964a520e95520e3","SanTan Honda Superstore","Shop & Service::Automotive Shop",33.28941815621661,-111.79125308990479
+"4aab0193f964a520825820e3","Teakwoods Tavern & Grill","Nightlife Spot::Sports Bar",33.31882073333333,-111.94474496666666
+"4aad2c48f964a520dd5e20e3","C - Fu","Food::Chinese Restaurant",33.333783,-111.877588
+"4aad6dc3f964a520396020e3","Sam's Club","Shop & Service::Miscellaneous Shop",33.31471414108348,-111.9700813293457
+"4aaff537f964a5205d6520e3","Thai Rama","Food::Thai Restaurant",33.306457,-111.87786871
+"4ab05bd1f964a5202d6720e3","Roy's Hawaiian Fusion","Food::Asian Restaurant",33.3194631256206,-111.96608532576825
+"4ab2ee3cf964a520056d20e3","Dilly's Deli","Food::Sandwich Place",33.26402512676157,-111.85751438140869
+"4ab3e391f964a520f06e20e3","Pei Wei Asian Diner","Food::Asian Restaurant",33.261172322260286,-111.86053454875946
+"4ab43cd4f964a520817020e3","Best Buy","Shop & Service::Electronics Store",33.2988422651302,-111.89620801906575
+"4ab477c9f964a520417120e3","In-N-Out Burger","Food::Burger Joint",33.32048620516683,-111.9641582165445
+"4ab5a57cf964a520bc7520e3","Native New Yorker","Food::American Restaurant",33.27620609657975,-111.79033026429012
+"4ab6bd79f964a520d07820e3","Red Robin Gourmet Burgers","Food::Burger Joint",33.306285950195196,-111.89987182617188
+"4ab87c96f964a520027d20e3","Sandbar Mexican Grill","Food::Mexican Restaurant",33.32034443590077,-111.96634769439697
+"4ab968d0f964a520447f20e3","First Regional Animal Hospital","Shop & Service::Pet Store",33.334623,-111.862008
+"4aba8474f964a520b98120e3","Subway","Food::Sandwich Place",33.31935068333333,-111.807880975
+"4abd1234f964a520468820e3","Kona Grill","Food::American Restaurant",33.3002601909475,-111.8986701965332
+"4abd6031f964a520f88920e3","Desert Sun Child Development Center","Professional & Other Places::School",33.35021301133591,-111.86855833790464
+"4abd7979f964a5208a8a20e3","Fleming's Prime Steakhouse & Wine Bar","Food::Steakhouse",33.31853,-111.9681
+"4abda858f964a520428b20e3","Benihana","Food::Japanese Restaurant",33.30438501157686,-111.89545154571533
+"4abe5a17f964a520ea8c20e3","Gold Medal Swim School","College & University::College Gym",33.31925964623564,-111.9607150554657
+"4abe6366f964a520298d20e3","Circle K","Shop & Service::Gas Station / Garage",33.31929087638855,-111.96238338947296
+"4abe77fbf964a520d38d20e3","Desert Breeze Park","Outdoors & Recreation::Playground",33.31335133990423,-111.9202995300293
+"4abfdf8ef964a520bb9220e3","TOTT's Asian Diner","Food::Asian Restaurant",33.321084057476874,-111.91174328327179
+"4ac00bb5f964a520959320e3","Apple Store","Shop & Service::Electronics Store",33.301785484036444,-111.89950920076866
+"4ac0dc01f964a520be9420e3","Dunkin' Donuts","Food::Donut Shop",33.305515,-111.87822385
+"4ac0dd43f964a520c29420e3","Isagenix International","Professional & Other Places::Office",33.273381312694966,-111.88716888427734
+"4ac674a3f964a5206cb420e3","Performance Bicycle","Shop & Service::Bike Shop",33.318859937754176,-111.94415347638497
+"4ac7b59bf964a52041b920e3","Garcia's","Food::Mexican Restaurant",33.24554698,-111.84259041666667
+"4ac91274f964a52071be20e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",33.296007723973176,-111.89850196219014
+"4aca4971f964a5203ec120e3","Intel - Chandler Campus","Professional & Other Places::Office",33.31100359731414,-111.93224722431403
+"4acb18adf964a5203fc320e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",33.33718825204681,-111.87768758454325
+"4acbfcd9f964a52089c820e3","Beijing","Food::Chinese Restaurant",33.27482035740604,-111.8599728
+"4acd056ff964a5208fca20e3","Bongo's Bar and Grill","Nightlife Spot::Sports Bar",33.32160469,-111.91194843470137
+"4acd781ff964a52027cc20e3","Fresh & Easy","Shop & Service::Food & Drink Shop::Grocery Store",33.319525,-111.941917
+"4acfe5baf964a520c4d620e3","Kiley's","Nightlife Spot::Karaoke Bar",33.34161616666667,-111.85954746
+"4ad13fe3f964a520afdd20e3","Zia Records","Shop & Service::Record Shop",33.30740745,-111.87554365
+"4ad14182f964a520b8dd20e3","Abuelo's Mexican Food Embassy","Food::Mexican Restaurant",33.306178351002416,-111.90197467803955
+"4ad4962df964a52043e820e3","Skateland_Chandler","Arts & Entertainment::Arcade",33.31998582924091,-111.86202049255371
+"4ad4baf1f964a520eee820e3","Chandler Sunset Library","Professional & Other Places::Library",33.32117378,-111.925154
+"4ad914bff964a520eb1721e3","Dos Gringos","Nightlife Spot::Bar",33.326587,-111.85844118333333
+"4ada26eef964a520311f21e3","Starbucks","Food::Coffee Shop",33.319929242134094,-111.891428232193
+"4adb59c4f964a5204a2621e3","Sandella's Flatbread Cafe","Food::Sandwich Place",33.30583313602927,-111.94653153419495
+"4adb619ff964a520b32621e3","Lowe's Home Improvement","Shop & Service::Hardware Store",33.32107601918201,-111.96483357821407
+"4adbc6a9f964a520902a21e3","Intel - Ocotillo Campus","Professional & Other Places::Office",33.24285119497937,-111.88125660251883
+"4addd360f964a5200c6621e3","San Tan Justice Court","Shop & Service::Tanning Salon",33.30021605195439,-111.83906865415504
+"4ade5c1cf964a520517521e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.32026753,-111.84105286666667
+"4adfb8e8f964a520fe7c21e3","Del Taco","Food::Mexican Restaurant",33.32105255126953,-111.87409210205078
+"4adfd66ff964a520b27d21e3","Panda Express","Food::Chinese Restaurant",33.31988453,-111.89184227
+"4ae1282df964a520888521e3","Cork Restaurant","Food::New American Restaurant",33.23427243523885,-111.85665607452393
+"4ae20068f964a520aa8921e3","Port Of Subs","Food::Sandwich Place",33.261129708908186,-111.88278079032898
+"4ae20ca3f964a520298a21e3","Subway","Food::Sandwich Place",33.318897,-111.92598791666667
+"4ae3442ef964a5209c9221e3","Starbucks","Food::Coffee Shop",33.335582627202065,-111.8777865622424
+"4ae35b2df964a520e99321e3","Wildflower Bread Company","Food::Breakfast Spot",33.30293273925781,-111.8966293334961
+"4ae3b76ef964a5206f9821e3","Zipps Sports Grill","Nightlife Spot::Sports Bar",33.32124094609518,-111.91042900085449
+"4ae3bb91f964a520889821e3","Old Chicago","Food::Pizza Place",33.24713646604869,-111.84367406355847
+"4ae8dc21f964a520f4b221e3","Sears","Shop & Service::Electronics Store",33.301315857297325,-111.90041163974519
+"4ae9201af964a5206db421e3","United States Post Office","Professional & Other Places::Post Office",33.30506878322814,-111.83849807217321
+"4aeb63b2f964a520a6c121e3","Harkins Theatres Chandler Fashion 20","Arts & Entertainment::Movie Theater::Multiplex",33.29932759576751,-111.89901351928711
+"4aebdde9f964a52000c521e3","Irish Republic, Ale House","Nightlife Spot::Pub",33.30273734847434,-111.84229552745819
+"4aebefb0f964a5201cc521e3","Chevron Station","Shop & Service::Gas Station / Garage",33.320037331122265,-111.87559740790782
+"4aecc03df964a520edca21e3","Fry's Food and Drug","Shop & Service::Food & Drink Shop::Grocery Store",33.31882,-111.926891
+"4aecdec8f964a520ebcb21e3","The Great Indoors","Shop & Service::Furniture / Home Store",33.30728,-111.90164
+"4aede133f964a520d6cf21e3","Big 5 Sporting Goods","Shop & Service::Sporting Goods Shop",33.335673809051514,-111.84230706666666
+"4aee1e36f964a52042d221e3","Walmart Supercenter","Shop & Service::Department Store",33.28952135915253,-111.83891145300304
+"4af08658f964a520e9dc21e3","Gyros Express","Food::Greek Restaurant",33.30730676651001,-111.87393486499786
+"4af08afff964a52018dd21e3","Chipotle Mexican Grill","Food::Mexican Restaurant",33.29931862845775,-111.89888209104538
+"4af1dc7ff964a520dee321e3","Jason's Deli","Food::Deli / Bodega",33.29561505072191,-111.90120220184326
+"4af21e61f964a520f9e521e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",33.30481541640231,-111.86326503753662
+"4af2298ef964a52042e621e3","buybuy BABY","Shop & Service::Miscellaneous Shop",33.307347290952784,-111.8871021003241
+"4af352b9f964a52098ec21e3","The Home Depot","Shop & Service::Hardware Store",33.28131938035189,-111.79691791534424
+"4af37dddf964a5201fee21e3","The LEGO Store","Shop & Service::Toy / Game Store",33.301515591790036,-111.89897060394287
+"4af42ccdf964a5206bf021e3","Los Favoritos Taco Shop","Food::Mexican Restaurant",33.30714673895799,-111.87420845031738
+"4af5c848f964a520c7fc21e3","Kyrene del Cielo Elementary School","Professional & Other Places::School",33.326610849095346,-111.9173276424408
+"4af617b0f964a520140122e3","Lowe's Home Improvement","Shop & Service::Hardware Store",33.30779232495387,-111.89257621765137
+"4af62736f964a520bd0122e3","Black Angus","Food::Steakhouse",33.306357,-111.890359
+"4af75458f964a520690822e3","Borders Books & Music Chandler Pavilions","Shop & Service::Bookstore",33.317,-111.97007948
+"4af75e01f964a520c70822e3","Bear Creek Golf Complex","Outdoors & Recreation::Athletic & Sport::Golf Course",33.22283608424227,-111.83395088089526
+"4af766d3f964a5200a0922e3","Pottery Barn","Shop & Service::Furniture / Home Store",33.30236278791814,-111.89983524326078
+"4af768b1f964a5201a0922e3","Williams-Sonoma","Shop & Service::Furniture / Home Store",33.302047217385805,-111.89980613232507
+"4af76b2ef964a5202e0922e3","Floyd's 99 Barbershop","Shop & Service::Salon / Barbershop",33.31980652535767,-111.89146041870117
+"4af865cdf964a520dc0c22e3","fresh&easy","Shop & Service::Food & Drink Shop::Grocery Store",33.260959255291894,-111.88203513622284
+"4af8a745f964a520f40e22e3","Pei Wei Asian Diner","Food::Asian Restaurant",33.31769071167907,-111.96712017059326
+"4afa26bdf964a520141722e3","Tumbleweed Recreation Center (City of Chandler Recreation Division)","Shop & Service::Gym / Fitness Center::Gym",33.27590405015151,-111.8292406620212
+"4afa52f2f964a520b41722e3","Jerseys Tavern & Grill","Nightlife Spot::Sports Bar",33.31873202,-111.943947
+"4afb1c21f964a520381b22e3","Baja Fresh Mexican Grill","Food::Mexican Restaurant",33.306752211829796,-111.8992280960083
+"4afc73e7f964a520e22222e3","Starbucks","Food::Coffee Shop",33.30727009299934,-111.87425829701132
+"4afc78e3f964a5200e2322e3","Cold Stone Creamery","Food::Ice Cream Shop",33.29939933421228,-111.89806938171387
+"4afc9b1ef964a520582422e3","In-N-Out Burger","Food::Burger Joint",33.281211750363504,-111.79019629955292
+"4afcc773f964a520ce2522e3","Verizon Wireless","Shop & Service::Electronics Store",33.31409687772624,-111.96830353769725
+"4afd53caf964a520522722e3","Basha High School","Professional & Other Places::School::High School",33.21998949225673,-111.75900032853896
+"4afdba6bf964a520422a22e3","Lucky Lou's","Food::American Restaurant",33.31989178333333,-111.89756958
+"4afeaff2f964a520f12f22e3","Hilton Phoenix Chandler","Travel & Transport::Hotel",33.29792833224274,-111.89221399321433
+"4aff4d4ff964a5201d3722e3","McDuffy's","Food::Wings Joint",33.293310323709704,-111.82497382164001
+"4aff5574f964a520763722e3","Red Lobster","Food::Seafood Restaurant",33.32044536884333,-111.96783194946089
+"4b02fac8f964a5209d4b22e3","Flaming Kabob","Food::Mediterranean Restaurant",33.33457946777344,-111.84619140625
+"4b045e43f964a520a15322e3","El Sol Bakery","Food::Mexican Restaurant",33.31643965,-111.84181021
+"4b04ba79f964a520615622e3","Victoria's Secret","Shop & Service::Clothing Store::Lingerie Store",33.301665191161575,-111.89909582542849
+"4b05de3bf964a520cae422e3","Cornerstone Christian Fellowship","Professional & Other Places::Spiritual Center::Church",33.2830608042012,-111.85665186330782
+"4b07474df964a52036fb22e3","Outback Steakhouse","Food::Steakhouse",33.30625008381237,-111.88616037368774
+"4b0826a7f964a520e10423e3","Kyrene del Pueblo Middle School","Professional & Other Places::School",33.296118110798616,-111.92897518138224
+"4b0839e2f964a520bd0623e3","Denny's","Food::Diner",33.30657502397048,-111.8726047856116
+"4b089424f964a520c60e23e3","The Keg Steakhouse & Bar","Food::Steakhouse",33.30527271920185,-111.8963098526001
+"4b09e979f964a520a51f23e3","Chevron Station","Shop & Service::Gas Station / Garage",33.29235835038766,-111.8236862083331
+"4b0aa63df964a520f82523e3","Mesquite Groves Aquatic Center","Outdoors & Recreation::Pool",33.22020239542662,-111.762927
+"4b0c61def964a520323c23e3","Costco","Shop & Service::Department Store",33.29385736559283,-111.89963579177856
+"4b0cbaf1f964a5206a4123e3","Jump Street","Arts & Entertainment::General Entertainment",33.334650246487946,-111.83467284238395
+"4b0cbb2bf964a5206c4123e3","Siracha Lounge","Food::Sushi Restaurant",33.302139016666665,-111.842587
+"4b0eb5def964a520ec5923e3","Starbucks","Food::Coffee Shop",33.23424920036449,-111.7909066732723
+"4b0ebcaaf964a520575a23e3","Harkins Theatres Chandler Crossroads 12","Arts & Entertainment::Movie Theater::Multiplex",33.278162178876485,-111.79065227508545
+"4b0f806ff964a520c66223e3","Finish line","Shop & Service::Clothing Store::Shoe Store",33.30217471360701,-111.89963728889369
+"4b0f8154f964a520c96223e3","Pottery Barn Kids","Shop & Service::Furniture / Home Store",33.3024302295971,-111.89970016479492
+"4b0f86eef964a520f56223e3","Brookstone","Shop & Service::Electronics Store",33.30126451306708,-111.89862728118896
+"4b0fd8f6f964a5206a6523e3","Saigon Pho","Food::Vietnamese Restaurant",33.327229397636096,-111.85837268829346
+"4b119703f964a5200d8023e3","In Pockets","Food::Sandwich Place",33.302955627441406,-111.84220886230469
+"4b11f073f964a520408723e3","Lush","Nightlife Spot::Karaoke Bar",33.3361575221909,-111.86013221740723
+"4b1303acf964a520b09223e3","Subway","Food::Sandwich Place",33.34893685517329,-111.87505011915528
+"4b132308f964a5209a9423e3","Chino Bandido","Food::Chinese Restaurant",33.304638,-111.87362055
+"4b1533b7f964a52045a923e3","Starbucks","Food::Coffee Shop",33.30586113277242,-111.94742550535958
+"4b15abd3f964a52031b223e3","Grimaldi's Coal Brick-Oven Pizzeria","Food::Pizza Place",33.26083141486139,-111.85961723327637
+"4b180b77f964a520fdcb23e3","Juan Jaime's Tacos and Tequila","Food::Mexican Restaurant",33.306285950195196,-111.88570976257324
+"4b181beef964a5200bcd23e3","Someburros","Food::Mexican Restaurant",33.297446966171265,-111.89999951666667
+"4b19856ff964a520c8de23e3","Paradise Bakery & Cafe","Food::Bakery",33.31984316326083,-111.8902413547039
+"4b19b2faf964a52042e223e3","The Coffee Bean & Tea Leaf®","Food::Coffee Shop",33.306580468476405,-111.88924424350262
+"4b1ad3dff964a520b1f223e3","Rubios - Chandler Fashion Center","Food::Mexican Restaurant",33.3005800360878,-111.8984612068667
+"4b1b192af964a5200ff823e3","Ross","Shop & Service::Clothing Store",33.30764569066787,-111.88872067300362
+"4b1b1b5df964a52029f823e3","Si Señor Restaurant","Food::Mexican Restaurant",33.3137487,-111.85959077
+"4b1b220bf964a520abf823e3","T.J. Maxx","Shop & Service::Department Store",33.30746513828201,-111.88757369890246
+"4b1c04a4f964a520c30024e3","Fairfield Inn And Suites","Travel & Transport::Hotel",33.28971010086311,-111.89293012349715
+"4b1c3f10f964a520f70424e3","Sandstone Cafe","Nightlife Spot::Bar",33.31785208910789,-111.92772388458252
+"4b1c7cadf964a520da0724e3","Taiko Japanese Cuisine","Food::Sushi Restaurant",33.320355,-111.80968
+"4b1d58f8f964a5202d0f24e3","Burger King","Food::Fast Food Restaurant",33.32111106666667,-111.87583923339844
+"4b1f123ef964a520a12324e3","Heart Attack Grill","Food::Burger Joint",33.30473919903591,-111.94814085960388
+"4b1f4cf0f964a520522524e3","Bank of America","Shop & Service::Bank",33.26139250411312,-111.85798515706783
+"4b214ef4f964a520ee3924e3","Chef Chiang","Food::Chinese Restaurant",33.30486123,-111.92726790904999
+"4b219966f964a520a53e24e3","ampm","Shop & Service::Gas Station / Garage",33.3055553514283,-111.86097196662652
+"4b21aa25f964a520c23f24e3","Firebirds Wood Fired Grill","Food::American Restaurant",33.30453744686215,-111.90076231956482
+"4b21abd9f964a520dc3f24e3","Chandler City Council","Professional & Other Places::Government Building",33.302948,-111.838392
+"4b21b964f964a520a74024e3","Target","Shop & Service::Food & Drink Shop::Grocery Store",33.26316391257934,-111.86103343963623
+"4b23e146f964a520f45b24e3","Kohl's","Shop & Service::Department Store",33.28528594976374,-111.84360419644293
+"4b243b5af964a520456424e3","Ulta","Shop & Service::Cosmetics Shop",33.307488233895796,-111.88799289759476
+"4b245fe4f964a520bd6624e3","Fry's Food Store","Shop & Service::Food & Drink Shop::Grocery Store",33.348369,-111.85815
+"4b247646f964a520ca6724e3","Sonny's","Nightlife Spot::Strip Club",33.27526172948455,-111.84079204424987
+"4b252592f964a520de6c24e3","Phoenix Palace","Food::Dim Sum Restaurant",33.337182,-111.87538694
+"4b25443cf964a520fd6e24e3","Brunchies","Food::Breakfast Spot",33.302182,-111.8411046
+"4b255211f964a520f06f24e3","Fry's Food and Drug","Shop & Service::Food & Drink Shop::Grocery Store",33.31882,-111.926891
+"4b258b55f964a5208d7324e3","Starbucks","Food::Coffee Shop",33.31739816,-111.96824
+"4b2666bef964a5200a7b24e3","Dobson Academy","College & University::General College & University",33.33957128935646,-111.87593509667894
+"4b268af9f964a5203b7d24e3","Jersey Mike's Subs","Food::Sandwich Place",33.306394833333336,-111.8911202
+"4b269121f964a520a97d24e3","Latitude Eight","Food::Thai Restaurant",33.30201715,-111.841651
+"4b27cde2f964a520568a24e3","Veterans Oasis Park","Outdoors & Recreation::Park",33.23496880305191,-111.76985315885615
+"4b28311bf964a520929024e3","Olive Garden","Food::Italian Restaurant",33.280207197405474,-111.79018020629883
+"4b29218af964a5205d9924e3","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",33.2755669337043,-111.87707042942777
+"4b294241f964a520dc9b24e3","Dunkin' Donuts","Food::Donut Shop",33.275441,-111.85813325
+"4b29540df964a520fc9c24e3","Ray's NY Fresh Deli","Food::Sandwich Place",33.29985709,-111.841734
+"4b29b38ff964a520aea224e3","US Post Office - Chandler Heights","Professional & Other Places::Post Office",33.23272529881154,-111.84300450366182
+"4b2ab6dbf964a52038ae24e3","Great Clips","Shop & Service::Salon / Barbershop",33.30701672453338,-111.8855756521225
+"4b2b0887f964a520e6b324e3","Rubio's","Food::Mexican Restaurant",33.27845393333333,-111.79118398
+"4b2b3830f964a5202cb524e3","Fibber Magees","Nightlife Spot::Bar",33.34884513237185,-111.87466585254415
+"4b2be720f964a52052bd24e3","Chuparosa Park","Outdoors & Recreation::Park",33.27110133669834,-111.87927704967808
+"4b2d14c7f964a520e5cd24e3","Mustang Shop Of Arizona Inc","Shop & Service::Automotive Shop",33.35002045172181,-111.84472207017625
+"4b2d1a75f964a5205ace24e3","Chick-fil-A","Food::Fast Food Restaurant",33.28191683,-111.79034113883972
+"4b2d5219f964a5200bd424e3","Starbucks","Food::Coffee Shop",33.32134520230509,-111.9116600878163
+"4b2d6898f964a5200dd624e3","Rubio's","Food::Mexican Restaurant",33.319482566666665,-111.928888
+"4b2d8d46f964a520bad824e3","Mimi's Cafe","Food::American Restaurant",33.30639354925523,-111.89309120178223
+"4b2e6dfdf964a52002e024e3","IHOP","Food::American Restaurant",33.3494021114824,-111.85661110759753
+"4b2fbc06f964a520caee24e3","Applebee's","Food::American Restaurant",33.3055,-111.86309906666666
+"4b2fc9e5f964a520f5ef24e3","Keegan's Grill","Nightlife Spot::Pub",33.26140269167349,-111.86116410051027
+"4b2fe55ff964a52027f224e3","In-N-Out Burger","Food::Burger Joint",33.30646728865094,-111.89181226153835
+"4b3026bff964a520f0f624e3","My Big Fat Greek Restaurant","Food::Greek Restaurant",33.304541232574536,-111.89857182845797
+"4b313df8f964a520f70225e3","Paradise Bakery","Food::Bakery",33.260874028359005,-111.86008930206299
+"4b329b0ef964a520d20f25e3","Starbucks","Food::Coffee Shop",33.30304718017578,-111.8978042602539
+"4b32c2b0f964a5205e1325e3","Thai Basil","Food::Thai Restaurant",33.304858,-111.92708283333333
+"4b33e968f964a520c72125e3","St Andrew the Apostle Catholic Faith Community","Professional & Other Places::Spiritual Center::Church",33.32091394641703,-111.90115687952242
+"4b3659fbf964a520633325e3","Taco Bell","Food::Taco Place",33.33558385494852,-111.85983180999756
+"4b36a5f7f964a520dc3925e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.33447236391513,-111.87592506408691
+"4b3707e7f964a520263f25e3","Hob Nob","Nightlife Spot::Bar",33.30606425993445,-111.96580586589067
+"4b37c521f964a520de4525e3","Charleston's Restaurant","Food::American Restaurant",33.321133365358754,-111.97044610977173
+"4b381f58f964a520e14b25e3","Burger King","Food::Burger Joint",33.32122206687927,-111.84115432
+"4b38f3edf964a520f15225e3","Toyota Financial Services","Professional & Other Places::Office",33.32085486190999,-111.89735499078878
+"4b391ed6f964a520995625e3","Angel Sweet Gelato","Food::Dessert Shop",33.30723056666667,-111.87373
+"4b3954e5f964a520c55a25e3","Gallagher's","Nightlife Spot::Sports Bar",33.33644435439529,-111.86099052429199
+"4b396264f964a520bf5b25e3","SUPERCUTS","Professional & Other Places::Building",33.29592,-111.898802
+"4b3a66cff964a520736625e3","Pacific Sea Food Buffet","Food::Chinese Restaurant",33.35159990376554,-111.84228254332706
+"4b3a9ce8f964a520256b25e3","Paradise Bakery & Cafe","Food::Bakery",33.27814222195292,-111.79150637145365
+"4b3b7149f964a520e07325e3","Einstein's Bagels","Food::Bagel Shop",33.30639354925523,-111.88897132873535
+"4b3b767df964a5203a7425e3","QuikTrip","Shop & Service::Convenience Store",33.334538472788445,-111.84102493475915
+"4b3ba9c7f964a520497825e3","SanTan Brewing Company","Food::Brewery",33.30302204894935,-111.84234380722046
+"4b3bbbdcf964a520ef7925e3","Mido Sushi","Food::Sushi Restaurant",33.31884023333333,-111.944439
+"4b3bc8eaf964a520247b25e3","Bank of America","Shop & Service::Bank",33.349483076271966,-111.85948729544333
+"4b3bcb1ff964a520487b25e3","Cafe Boba","Food::Asian Restaurant",33.3363151550293,-111.87633514404297
+"4b3cddf7f964a5208f8825e3","Ageez Hair Center","Shop & Service::Salon / Barbershop",33.327165683333334,-111.842194
+"4b3e35fef964a520929925e3","Jack in the Box","Food::Burger Joint",33.319644927978516,-111.80734923333333
+"4b3e3c64f964a520eb9925e3","Macy's","Shop & Service::Department Store",33.30065474744509,-111.89669609069824
+"4b3ea05af964a520f29f25e3","Cold Stone Creamery","Food::Ice Cream Shop",33.27848254,-111.79124323333333
+"4b3ec760f964a52007a225e3","AMF Chandler Lanes","Arts & Entertainment::Bowling Alley",33.333611981731266,-111.84271921289657
+"4b3fb538f964a520caac25e3","Filiberto's","Food::Mexican Restaurant",33.34914283519861,-111.87562069678941
+"4b3fcdcff964a52033af25e3","The Home Depot","Shop & Service::Hardware Store",33.304205675606,-111.86129093170166
+"4b40039bf964a52038b425e3","Teavana","Food::Tea Room",33.301565630301496,-111.89856600626904
+"4b40ed26f964a52096bd25e3","Jiffy Lube","Shop & Service::Automotive Shop",33.30327312261281,-111.8596601486206
+"4b411892f964a5200dc125e3","Sidelines Tavern & Grill","Food::Wings Joint",33.262338574353265,-111.8604326248169
+"4b413584f964a52048c325e3","Valle Luna","Food::Mexican Restaurant",33.31897437572479,-111.874108
+"4b413649f964a5205ac325e3","Nordstrom Rack","Shop & Service::Clothing Store",33.307899922155165,-111.88716888427734
+"4b41465cf964a52076c425e3","Native New Yorker","Food::American Restaurant",33.27620609657975,-111.79033026429012
+"4b429da1f964a5208dd725e3","Banana Republic","Shop & Service::Clothing Store",33.301372118322554,-111.89875602722168
+"4b42a9dbf964a5206ed825e3","Verizon Wireless","Professional & Other Places::Office",33.29219524400604,-111.9616430753152
+"4b43611ef964a5202ddf25e3","Circle K","Shop & Service::Gas Station / Garage",33.33554800062043,-111.87693357467651
+"4b439a4bf964a5201be425e3","Subway","Food::Sandwich Place",33.31899145164358,-111.89081084327937
+"4b43cf3ff964a520a6ea25e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",33.306095,-111.872536
+"4b43de02f964a520a5ec25e3","Lowe's Home Improvement","Shop & Service::Hardware Store",33.244071484787305,-111.84275150299072
+"4b44e35bf964a52055ff25e3","Jack in the Box","Food::Fast Food Restaurant",33.336015762208724,-111.87717522935912
+"4b455541f964a520c20a26e3","Fresh Cleaners","Shop & Service::Laundry Service",33.319102,-111.890915
+"4b45f82df964a520261326e3","Glynlyon Inc.","Professional & Other Places::Office",33.30899381949854,-111.95321559906006
+"4b462b47f964a520da1826e3","Sephora","Shop & Service::Cosmetics Shop",33.30119277615633,-111.89871311187744
+"4b46407df964a5208e1b26e3","Blu Burger Grille","Food::Burger Joint",33.23321349783322,-111.85790061950684
+"4b4689fef964a520b82326e3","Fitness Works","Shop & Service::Gym / Fitness Center::Gym",33.261624631364114,-111.79074947082752
+"4b478430f964a520953426e3","Barro's Pizza","Food::Pizza Place",33.27842712402344,-111.859375
+"4b479d76f964a520793726e3","Love's Travel Stop","Shop & Service::Gas Station / Garage",33.28005938333333,-111.962462
+"4b47bc48f964a520763c26e3","Valley Ace Hardware - Chandler","Shop & Service::Hardware Store",33.336490811286765,-111.86065051
+"4b47c513f964a520fe3d26e3","The Living Room","Nightlife Spot::Wine Bar",33.26108260991588,-111.88390731811523
+"4b47cf7ff964a520bd3f26e3","D'Vine Bistro & Wine Bar","Nightlife Spot::Wine Bar",33.24764744773002,-111.8655715331955
+"4b47effdf964a520844426e3","Carrabba's Italian Grill","Food::Italian Restaurant",33.32115967352962,-111.9695319956208
+"4b48d730f964a5207d5926e3","Verizon","Shop & Service::Electronics Store",33.300793095407016,-111.90012635260659
+"4b48d776f964a520875926e3","Spices Mediterranean Kitchen","Food::Mediterranean Restaurant",33.32124094609518,-111.91310048103333
+"4b48f019f964a520525e26e3","Nordstrom","Shop & Service::Department Store",33.30273510673462,-111.90047264099121
+"4b4916d2f964a520686526e3","Inta Juice","Food::Juice Bar",33.284564466666666,-111.84084177017212
+"4b492874f964a5202e6826e3","Sprouts Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",33.264646166666665,-111.85665333
+"4b492c1ff964a520cd6826e3","Albertsons Market","Shop & Service::Food & Drink Shop::Grocery Store",33.26073207994177,-111.85730395462545
+"4b492dc8f964a5200b6926e3","McDonald's","Food::Fast Food Restaurant",33.25972363,-111.85781
+"4b4931b9f964a520a16926e3","Sauce","Food::Pizza Place",33.26122865400586,-111.88513419458147
+"4b4a2838f964a520bd7c26e3","The Good Egg","Food::Breakfast Spot",33.235906,-111.858052
+"4b4a2879f964a520c47c26e3","Subway","Food::Sandwich Place",33.26138687133789,-111.85723876953125
+"4b4a4f2df964a5205a8326e3","starbucks barnes and noble chandler fashion mall","Food::Coffee Shop",33.30224609375,-111.89796447753906
+"4b4a61fcf964a520008626e3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",33.295848210374565,-111.90145969390869
+"4b4a8a24f964a520408a26e3","Fry's Food Store","Shop & Service::Food & Drink Shop::Grocery Store",33.27583008173772,-111.86060428619385
+"4b4b6e44f964a520559b26e3","EyeMasters","Professional & Other Places::Medical Center::Optical Shop",33.30145332221117,-111.89785569915593
+"4b4b8367f964a520b99e26e3","Long John Silver's","Food::Seafood Restaurant",33.335526,-111.84363663196564
+"4b4b84f4f964a520f19e26e3","Sam's Club","Shop & Service::Food & Drink Shop::Grocery Store",33.28509909661441,-111.83893474206289
+"4b4b9d4cf964a520f0a126e3","McDonald's","Food::Burger Joint",33.28131173,-111.961257
+"4b4b9ec2f964a52016a226e3","Del Taco","Food::Fast Food Restaurant",33.29090118408203,-111.8392562866211
+"4b4c916cf964a52058b626e3","Hoosier Cafe","Food::Café",33.334544073442025,-111.8459701538086
+"4b4cbd61f964a520b3bc26e3","Floridino's Pizza & Pasta","Food::Italian Restaurant",33.311409275706104,-111.85963867370292
+"4b4d025cf964a5209ac726e3","Tonic","Nightlife Spot::Bar",33.3065011481825,-111.89869165420532
+"4b4d10acf964a520b5c926e3","Desert Family Dentistry","Professional & Other Places::Medical Center::Dentist's Office",33.302446266666664,-111.9462945
+"4b4e2d7df964a5202de426e3","Mountainside Fitness","Shop & Service::Gym / Fitness Center::Gym",33.27795139573449,-111.86034142971039
+"4b4e741ef964a5204dee26e3","The Springs Church","Professional & Other Places::Spiritual Center::Church",33.3080109342878,-111.9465405440906
+"4b4e9813f964a52051f226e3","Snedigar Sportsplex","Outdoors & Recreation::Other Great Outdoors",33.239876107482964,-111.85984827436207
+"4b4f70aff964a520af0627e3","Buono's","Food::Pizza Place",33.26495809920993,-111.85927391052246
+"4b4f77a0f964a520d10727e3","Arizona Avenue Animal Clinic","Professional & Other Places::Medical Center::Veterinarian",33.327474,-111.842564
+"4b4ffe60f964a520f11a27e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.33580888086682,-111.87567309677254
+"4b50c875f964a5204e3227e3","Michaels","Shop & Service::Arts & Crafts Store",33.30761578,-111.89550677
+"4b511ae8f964a520b44227e3","Pampered Pinkie","Shop & Service::Cosmetics Shop",33.27738084,-111.860365
+"4b514604f964a520794927e3","Denny's","Food::Diner",33.30577933617012,-111.96846127510071
+"4b5212c4f964a520b56527e3","United Blood Services","Professional & Other Places::Medical Center",33.35164510949823,-111.87974452972412
+"4b521704f964a520f96627e3","Express","Shop & Service::Clothing Store",33.30191317777778,-111.89955
+"4b521e12f964a5204c6927e3","Boston Market","Food::American Restaurant",33.32112193025659,-111.85973182955259
+"4b52331ff964a520596f27e3","See's Candies","Food::Dessert Shop",33.301478,-111.897938
+"4b526b17f964a520567c27e3","Swaddee Thai Cuisine","Food::Thai Restaurant",33.319237177682375,-111.92924882209563
+"4b536c6ef964a520579c27e3","Sur La Table","Shop & Service::Miscellaneous Shop",33.3184796651575,-111.96643352508545
+"4b5385adf964a520c2a027e3","Ace Hardware","Shop & Service::Hardware Store",33.2363003562266,-111.79160535075997
+"4b539775f964a520bda327e3","The Home Depot","Shop & Service::Hardware Store",33.24507645340811,-111.83953285217285
+"4b53de33f964a5209dad27e3","Hampton Inn","Travel & Transport::Hotel",33.306384699999995,-111.968517
+"4b54ba13f964a52031c927e3","Subway - Riggs & Gilbert","Food::Sandwich Place",33.21799087524414,-111.79017639160156
+"4b54d163f964a520f6cd27e3","Makutu's Island","Arts & Entertainment::General Entertainment",33.319435119628906,-111.96176147460938
+"4b54d36ff964a5205ace27e3","CDW Office","Professional & Other Places::Office::Coworking Space",33.281672575321785,-111.81010280969144
+"4b54f40df964a520f9d427e3","360 Vantage","Professional & Other Places::Office",33.258637913067986,-111.8871420621872
+"4b55fcf1f964a5208cfa27e3","Wells Fargo","Shop & Service::Bank",33.26242068333333,-111.862581
+"4b566b9bf964a520a00f28e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.30492716679791,-111.9279679504954
+"4b591cf1f964a520327d28e3","California Pizza Kitchen","Food::Pizza Place",33.29982976364189,-111.89841270446777
+"4b59f50af964a520ada328e3","Walmart Supercenter","Shop & Service::Department Store",33.3369821622327,-111.8549394607544
+"4b5a355cf964a5204eb428e3","San Marcos Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",33.30399047195418,-111.84601306915283
+"4b5b362af964a5207deb28e3","Red, White & Brew","Food::American Restaurant",33.23647499084473,-111.79011842
+"4b5b41d8f964a520f9ee28e3","El Pollo Loco","Food::Fast Food Restaurant",33.298179626464844,-111.9003677368164
+"4b5b6390f964a5200bfa28e3","Polar Ice","Outdoors & Recreation::Athletic & Sport::Skating Rink",33.315680192831415,-111.96738570928574
+"4b5b68c9f964a520c5fb28e3","Jack in the Box","Food::American Restaurant",33.24565071600364,-111.84210777282715
+"4b5bb66ef964a520981129e3","Kokopelli Winery & Bistro","Food::Winery",33.3021855,-111.842095
+"4b5bbf7af964a520eb1329e3","El Zocalo Mexican Grille","Food::Mexican Restaurant",33.30305735407402,-111.84236987724394
+"4b5c73c3f964a520923029e3","The Good Egg","Food::Breakfast Spot",33.320380296485624,-111.92652225494385
+"4b5caadbf964a5203c3d29e3","Spencer Gifts - Chandler Fashion Center","Shop & Service::Gift Shop",33.30222129821777,-111.90000593662262
+"4b5cb0a4f964a520a03e29e3","Party America","Shop & Service::Miscellaneous Shop",33.287382322038404,-111.84163570404053
+"4b5cb546f964a520af3f29e3","Party City","Shop & Service::Arts & Crafts Store",33.34845721721649,-111.85680091381073
+"4b5ce942f964a520794a29e3","Streets of New York","Food::Pizza Place",33.23333740234375,-111.8576889038086
+"4b5dc992f964a520ab6b29e3","Quiksilver / Roxy","Shop & Service::Board Shop",33.301827518461174,-111.89965475545588
+"4b5de711f964a520997229e3","Valero Corner Store","Shop & Service::Gas Station / Garage",33.320608,-111.9117753
+"4b5e3d15f964a520898529e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.277113538806965,-111.85809577967753
+"4b5f405df964a52014b029e3","McDonald's","Food::Burger Joint",33.335695976238135,-111.87523643022753
+"4b5f4be0f964a52093b229e3","GameStop","Shop & Service::Video Game Store",33.29090526,-111.84083538333333
+"4b5f9920f964a520bec329e3","Hamilton Aquatic Center","Outdoors & Recreation::Pool",33.24941922066163,-111.84219360351562
+"4b60d0ecf964a52043fb29e3","Chase Bank","Professional & Other Places::Building",33.233496172066516,-111.84338295057073
+"4b60d3e8f964a520f9fb29e3","Serrano's Mexican Restaurant","Food::Mexican Restaurant",33.30151,-111.84125983
+"4b61d6b0f964a52027262ae3","Hamilton Library","College & University::College Library",33.25304400990824,-111.84210777282715
+"4b624159f964a520d43e2ae3","Anna Marie Jacobson Elementary School","Professional & Other Places::School::Elementary School",33.26052639132411,-111.86820030212402
+"4b627abaf964a52021492ae3","Nate's Third Base","Nightlife Spot::Bar",33.31891746497195,-111.87493367473117
+"4b635e07f964a520e2742ae3","Nordstrom Cafe","Arts & Entertainment::Arcade",33.30234146118164,-111.89952850341797
+"4b638717f964a52009812ae3","Panda Express","Food::Chinese Restaurant",33.30083084106445,-111.89861297607422
+"4b639b79f964a5209b862ae3","Gangplank HQ","Professional & Other Places::Office::Coworking Space",33.29967059467322,-111.8418824672699
+"4b646ffdf964a52016b32ae3","Cobblestone Auto Spa","Shop & Service::Car Wash",33.27542023347172,-111.85814235761767
+"4b6470dff964a52062b32ae3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",33.3162526462866,-111.97068214416504
+"4b647ec6f964a520f3b72ae3","Chandler City Library - Basha","College & University::College Library",33.21962000313073,-111.75716629193714
+"4b648a14f964a520febb2ae3","Chens Chinese Restaurant","Food::Chinese Restaurant",33.217891693115234,-111.78997802734375
+"4b649010f964a520f0bd2ae3","Paseo Vista Recreation Area","Outdoors & Recreation::Park",33.25046001712027,-111.82554244995117
+"4b64ad72f964a520b3c72ae3","99 Cent Only Stores","Shop & Service::Miscellaneous Shop",33.33479378731565,-111.86072743258134
+"4b65c291f964a520f8fd2ae3","Fry's Marketplace","Shop & Service::Food & Drink Shop::Grocery Store",33.21771834932228,-111.825432892484
+"4b65ec96f964a520a9082be3","McCool's Bar & Grill","Nightlife Spot::Bar",33.32035935,-111.9263505935669
+"4b665caff964a520261f2be3","Casa Reynoso Chandler","Food::Mexican Restaurant",33.31871795654297,-111.94283294677734
+"4b676a33f964a520834d2be3","Plato's Closet","Shop & Service::Thrift / Vintage Store",33.33262518,-111.860206
+"4b677c8ff964a520de512be3","Shawnee Bark Park","Outdoors & Recreation::Dog Run",33.341699353307206,-111.86802269275859
+"4b68921cf964a5207f802be3","Ultimate Electronics","Shop & Service::Electronics Store",33.30757844,-111.89017131666667
+"4b68a261f964a52012842be3","Toys''R''Us","Shop & Service::Toy / Game Store",33.31578105608577,-111.97045683860779
+"4b68af4cf964a520fa862be3","GameStop","Shop & Service::Video Game Store",33.321266,-111.911648
+"4b68c82df964a520ab8c2be3","Albertsons Market","Shop & Service::Food & Drink Shop::Grocery Store",33.218024529087025,-111.79093578483575
+"4b68ca86f964a520218d2be3","PGA Tour Superstore","Shop & Service::Sporting Goods Shop",33.33604995987073,-111.83884620666504
+"4b69e1eaf964a520ffb92be3","Whataburger","Food::Burger Joint",33.304817658088545,-111.96827217936516
+"4b6a079af964a520dbc22be3","Motor vehicle division","Professional & Other Places::Government Building",33.3032337,-111.95713
+"4b6a1c82f964a52054c82be3","Streets of New York","Food::Pizza Place",33.31941223144531,-111.94463348388672
+"4b6b172bf964a52009f22be3","Applebees","Food::American Restaurant",33.264984,-111.85797645
+"4b6b2255f964a5200af52be3","Circle K","Shop & Service::Gas Station / Garage",33.29739063545666,-111.84159278869629
+"4b6b4c56f964a5200cff2be3","Wells Fargo","Shop & Service::Bank",33.305092785340705,-111.90229220548076
+"4b6b6b8bf964a52096072ce3","Just Sports: Chandler Fashion","Arts & Entertainment::Arcade",33.302188873291016,-111.89947509765625
+"4b6b8845f964a5205c0e2ce3","YC's Mongolian Grill","Food::Asian Restaurant",33.278878982086795,-111.79084262783229
+"4b6c7084f964a520413a2ce3","Filiberto's","Food::Mexican Restaurant",33.319129943847656,-111.90838623046875
+"4b6c795cf964a520163d2ce3","The Castle At Ashley Manor","Professional & Other Places::Event Space",33.285374993139804,-111.89310478940108
+"4b6c9868f964a52064452ce3","Filiberto's","Food::Mexican Restaurant",33.24712371826172,-111.83987426757812
+"4b6cb02cf964a520504c2ce3","Quiznos Subs","Food::Sandwich Place",33.29087448120117,-111.84102630615234
+"4b6cba9af964a520c14f2ce3","Carl's Jr.","Food::Burger Joint",33.33319091796875,-111.85962677001953
+"4b6cc50bf964a52029532ce3","Peter Piper Pizza","Food::Pizza Place",33.26298522949219,-111.85652923583984
+"4b6d78fef964a520c0762ce3","Starbucks","Food::Coffee Shop",33.285341,-111.840976
+"4b6d9839f964a520ca7e2ce3","V's Barbershop","Shop & Service::Salon / Barbershop",33.318947553634644,-111.970367
+"4b6dce6bf964a5209a912ce3","Village Inn","Food::American Restaurant",33.279049,-111.79290576666666
+"4b6de2a4f964a520b1982ce3","Shoe Carnival","Shop & Service::Department Store",33.27582092,-111.79144
+"4b6e039bf964a5207ea32ce3","Discount Tire","Shop & Service::Automotive Shop",33.3057241,-111.87073230743408
+"4b6e456bf964a52072b52ce3","Arby's","Food::Fast Food Restaurant",33.26323318481445,-111.85916900634766
+"4b6ee42cf964a5204dcf2ce3","Elmer's Tacos","Food::Taco Place",33.30902541,-111.84119121540765
+"4b6f1de9f964a5201ede2ce3","Pier 1 Imports","Shop & Service::Furniture / Home Store",33.30758,-111.895796
+"4b6f3969f964a52049e52ce3","Diamond Shamrock","Shop & Service::Gas Station / Garage",33.218859194862645,-111.84147324895987
+"4b6f472df964a520cde82ce3","Blockbuster","Arts & Entertainment::General Entertainment",33.26141357421875,-111.85713195800781
+"4b705ec9f964a520e4152de3","Los Favoritos Taco Shop","Food::Mexican Restaurant",33.236288,-111.790026
+"4b70b8caf964a520862b2de3","Valero Corner Store","Shop & Service::Gas Station / Garage",33.21872346,-111.78995574
+"4b70d79ff964a52024312de3","Papa Murphy's Take & Bake Pizza","Food::Pizza Place",33.322242736816406,-111.82360076904297
+"4b70fee2f964a520e4362de3","Jack in the Box","Shop & Service::Food & Drink Shop::Food Court",33.336853981018066,-111.84232771396637
+"4b71c4b3f964a5204e5b2de3","Golfsmith","Shop & Service::Sporting Goods Shop",33.317260370408256,-111.96990966796875
+"4b72da32f964a520878b2de3","Pearson","Professional & Other Places::Office",33.3186948330486,-111.89596652984619
+"4b72fd07f964a5201f942de3","The Egg & I Cafe","Food::Breakfast Spot",33.26068878173828,-111.885498046875
+"4b7306d6f964a520b0962de3","Souper Salad","Food::Salad Place",33.306602,-111.89118275
+"4b731e29f964a520789c2de3","snedigar park","Outdoors & Recreation::Park",33.23981797178213,-111.85939996182982
+"4b732c0bf964a520bb9f2de3","Courtyard by Marriott","Travel & Transport::Hotel",33.28996575,-111.893064
+"4b74b376f964a5203ded2de3","McDonald's","Food::Fast Food Restaurant",33.32016961533842,-111.8423867225647
+"4b74ce4df964a52003f32de3","#RETT @Gangplank","Professional & Other Places::Office::Coworking Space",33.2997725973556,-111.84185028076172
+"4b75d7b8f964a520bb282ee3","Taqueria Mi Casita","Food::Taco Place",33.335914611816406,-111.86087036132812
+"4b75f214f964a52019312ee3","GameStop","Shop & Service::Toy / Game Store",33.26366925,-111.86093667
+"4b75f402f964a520b0312ee3","Hallmark Gold Crown","Shop & Service::Gift Shop",33.26028313333333,-111.85716103333333
+"4b75f874f964a5201e332ee3","Lone Butte Smoke Shop","Shop & Service::Smoke Shop",33.28962728632996,-111.9639544435997
+"4b7612f3f964a520dd3a2ee3","Albertsons Market","Shop & Service::Food & Drink Shop::Grocery Store",33.321527827409746,-111.91244602203369
+"4b762144f964a520ba3e2ee3","Atomic Comics","Shop & Service::Toy / Game Store",33.29965041830437,-111.89836978912354
+"4b7633e7f964a5200c432ee3","Pesto's Pizza","Food::Italian Restaurant",33.321951066666664,-111.87582717
+"4b76d69bf964a52007632ee3","Hangar Cafe","Food::Breakfast Spot",33.272587466231215,-111.81173980236053
+"4b76d6dcf964a52019632ee3","Tumbleweed Park","Outdoors & Recreation::Park",33.27444056558293,-111.82981706727088
+"4b76ddcbf964a5206e652ee3","Power Nissan Chandler","Shop & Service::Automotive Shop",33.28674218362071,-111.79078440470447
+"4b76fbc8f964a5204e712ee3","5 & Diner","Food::Diner",33.29986572265625,-111.89862823486328
+"4b7846bcf964a52066c12ee3","Pet Club","Shop & Service::Pet Store",33.25939178466797,-111.85725152492523
+"4b78ad7af964a52076dd2ee3","Pizza Hut","Food::Pizza Place",33.234261466666666,-111.790945
+"4b79662bf964a5208bf72ee3","Circle K","Shop & Service::Gas Station / Garage",33.33555579185486,-111.8770742
+"4b796e71f964a5202ef92ee3","Chandler-Gilbert YMCA","Shop & Service::Gym / Fitness Center::Gym",33.29805141253061,-111.8696063390957
+"4b79c0a7f964a520b40f2fe3","DOLLAR TREE","Shop & Service::Department Store",33.30408275127411,-111.94687371
+"4b7ada8df964a5201f412fe3","Marie Callender's","Food::American Restaurant",33.3046779,-111.96959316730499
+"4b7b031ff964a520114c2fe3","San Tan Justice Court","Shop & Service::Tanning Salon",33.30021605195439,-111.83906865415504
+"4b7b5185f964a520115e2fe3","T-Mobile","Shop & Service::Electronics Store",33.29598382265863,-111.90049897253868
+"4b7ca85bf964a520c89f2fe3","Dairy Queen","Food::Ice Cream Shop",33.319129943847656,-111.84197235107422
+"4b7d91fdf964a52054c72fe3","24 Carrots","Food::Vegetarian / Vegan Restaurant",33.30583509186351,-111.9470761785699
+"4b7d9f4ff964a5206eca2fe3","Seton Catholic Preparatory High School","Professional & Other Places::School::High School",33.32284519663465,-111.87761771793073
+"4b7dee55f964a52096da2fe3","Pizza Hut","Food::Pizza Place",33.320921659469604,-111.84194162
+"4b7e98ddf964a5209bf42fe3","Thorobred Chevrolet","Shop & Service::Automotive Shop",33.339045781968466,-111.84036119677998
+"4b7ee0cdf964a5203a0630e3","Del Taco","Food::Fast Food Restaurant",33.280269622802734,-111.79794311523438
+"4b7ee2b9f964a520df0630e3","Native New Yorker","Nightlife Spot::Sports Bar",33.26417957118914,-111.8580492017369
+"4b7f3160f964a520fa1d30e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.21828857453871,-111.82324953721003
+"4b7f7737f964a5200e3030e3","Stadium Club","Nightlife Spot::Bar",33.32021,-111.86062614
+"4b800992f964a520c04c30e3","McDonalds","Food::Fast Food Restaurant",33.305789947509766,-111.94529724121094
+"4b803f50f964a520946030e3","Burger King","Food::American Restaurant",33.24641799926758,-111.8406753540039
+"4b8043c9f964a520546230e3","Puppies 'N Love","Shop & Service::Pet Store",33.301807,-111.89776115
+"4b80af55f964a520018630e3","Dillard's","Shop & Service::Department Store",33.30210199119677,-111.89725019135534
+"4b81891df964a5203dad30e3","Food Court Chandler Fashion Mall","Shop & Service::Food & Drink Shop::Food Court",33.30069061612908,-111.89836978912354
+"4b81d737f964a520bac030e3","Big Lots","Shop & Service::Miscellaneous Shop",33.334093927490066,-111.86067503242715
+"4b82a2eef964a520d1db30e3","Ryan Elementary School","Professional & Other Places::School",33.24336596082086,-111.77412674775834
+"4b82b080f964a520a0de30e3","Ocotillo Corporate Center","Professional & Other Places::Office",33.26572424979671,-111.89012964583844
+"4b82dd4bf964a520ade930e3","Thai Paradise","Food::Thai Restaurant",33.31903839111328,-111.86048889160156
+"4b831c7ef964a52055f830e3","Sun Chinese Dining","Food::Chinese Restaurant",33.32741928100586,-111.85826873779297
+"4b831d67f964a5208cf830e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.31920754714349,-111.9447065775844
+"4b834f1ff964a520be0131e3","Wienerschnitzel","Food::Hot Dog Joint",33.33637619018555,-111.82479095458984
+"4b844e85f964a520ca2d31e3","Chase Bank","Shop & Service::Bank",33.30477793359554,-111.94389730316817
+"4b847f0ef964a520c93831e3","Rush Street Pizza","Food::Pizza Place",33.21795654296875,-111.79158020019531
+"4b8698a0f964a520549131e3","Chandler Municipal Court","Professional & Other Places::Government Building::Courthouse",33.30128123,-111.83917880058289
+"4b86d180f964a520779f31e3","Mikado Sushi","Food::Sushi Restaurant",33.26132,-111.85671936666667
+"4b86d957f964a52079a131e3","Tropical Smoothie Cafe","Food::Dessert Shop",33.26108169555664,-111.83979034423828
+"4b86dcbcf964a52069a231e3","Einstein's Bagels","Food::Bagel Shop",33.26220703125,-111.85713195800781
+"4b870f1ff964a52032ae31e3","Fry's Food Store","Shop & Service::Food & Drink Shop::Grocery Store",33.321492967883124,-111.8749860747224
+"4b887c14f964a52064fb31e3","Jamba Juice","Food::Juice Bar",33.337121449183016,-111.858334491616
+"4b893657f964a520642332e3","Folley Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",33.2963459015841,-111.8325651803446
+"4b897868f964a520543932e3","OfficeMax","Shop & Service::Paper / Office Supplies Store",33.26338224,-111.856536
+"4b89e389f964a5201e5432e3","Heather's Faux-paw Laugh","Arts & Entertainment::Zoo",33.29591995168077,-111.92424774169922
+"4b8a43c6f964a5203d6632e3","Jack In The Box #1140","Food::Fast Food Restaurant",33.320396423339844,-111.92575073242188
+"4b8abe7bf964a520f47d32e3","Sumits Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",33.32230766898977,-111.91155528875893
+"4b8ad9f9f964a520498532e3","The Grove Church","Professional & Other Places::Spiritual Center::Church",33.26571164660435,-111.78850650787354
+"4b8bcf08f964a5206bac32e3","Whirlwind Golf Club","Outdoors & Recreation::Athletic & Sport::Golf Course",33.269767,-111.99037389
+"4b8be50df964a52003b132e3","SanTan Junior High School","Professional & Other Places::School::Middle School",33.2342800381091,-111.81370680924456
+"4b8c0495f964a520cdb832e3","Arizona Motor Vehicle Division","Professional & Other Places::Government Building",33.30325493,-111.957115
+"4b8c0684f964a5204cb932e3","CVS","Shop & Service::Drugstore / Pharmacy",33.233168089010675,-111.7900566155641
+"4b8c56bef964a5208ccb32e3","Walgreens","Shop & Service::Drugstore / Pharmacy",33.305603359937436,-111.87493949695245
+"4b8c641cf964a5206ace32e3","Circle K","Shop & Service::Gas Station / Garage",33.26282301295301,-111.7896008491516
+"4b8d711df964a52018fc32e3","Chick-fil-A","Food::Fast Food Restaurant",33.306469765175756,-111.88862264156342
+"4b8d77aaf964a5206cfd32e3","Chandler Center for the Arts","Arts & Entertainment::Performing Arts Venue",33.30732606888071,-111.84257984161377
+"4b8d983cf964a5202c0333e3","Ironwood Cancer & Research Centers","Professional & Other Places::Medical Center::Doctor's Office",33.2942123,-111.87359678333334
+"4b8dc646f964a5201b0d33e3","Bogle Junior High School","Professional & Other Places::School",33.26312802847077,-111.86935901641846
+"4b8e9f4ef964a5208b2c33e3","Intel Chandler - CH11","Professional & Other Places::Office",33.304477159524914,-111.9552387719262
+"4b8f2503f964a520024b33e3","Papa Murphy's","Food::Pizza Place",33.320526123046875,-111.90847778320312
+"4b8f2aa1f964a520ef4b33e3","kokomo","Food::Ice Cream Shop",33.26133346557617,-111.8569564819336
+"4b900a91f964a520f07133e3","Little Ceasars","Food::Pizza Place",33.34830368,-111.85953804
+"4b904b4bf964a5202a8233e3","The Dinner A'Fare","Food::American Restaurant",33.246421813964844,-111.84268951416016
+"4b912da2f964a5205ca833e3","Hamilton High School","Professional & Other Places::School::High School",33.25255467425781,-111.84232912141626
+"4b915ac9f964a520a8b533e3","Luxe Salon and Spa","Shop & Service::Salon / Barbershop",33.27171456,-111.790544
+"4b930a7bf964a520d83034e3","Earnhardt Ford","Shop & Service::Automotive Shop",33.324702366339885,-111.96779119491873
+"4b932690f964a520ee3734e3","Cafe Krishna","Food::Indian Restaurant",33.30486933062308,-111.92742066885734
+"4b95379ef964a520b49534e3","Autozone","Shop & Service::Automotive Shop",33.29223126666667,-111.82728248333333
+"4b9668c9f964a520b3ca34e3","Old Republic Title Agency","Professional & Other Places::Building",33.23606686113654,-111.8583985362804
+"4b9712fef964a520aaf634e3","Ling and Louie's, Wild Horse Pass Hotel and Casino","Food::Asian Restaurant",33.2728110559217,-111.992051699193
+"4b9723e2f964a520b8f934e3","Bashas'","Shop & Service::Food & Drink Shop::Grocery Store",33.30714673895799,-111.87463760375977
+"4b97cb34f964a520f11535e3","Chandler Community Center","Professional & Other Places::Government Building",33.303114428313606,-111.83946456814647
+"4b97e872f964a520721e35e3","AAA Arizona - Chandler Office","Professional & Other Places::Office",33.320702680335685,-111.91306323047837
+"4b983033f964a520ac3235e3","Fry's Food and Drug","Shop & Service::Food & Drink Shop::Grocery Store",33.31882,-111.926891
+"4b98448cf964a520673835e3","Fired Up Grill","Food::American Restaurant",33.31753158569336,-111.9638900756836
+"4b9932fff964a520206935e3","Stone Oaks","Residence::Residential Building (Apartment / Condo)",33.29450343016539,-111.88302073267313
+"4b9a4023f964a5205ca735e3","Filiberto's Mexican Food","Food::Mexican Restaurant",33.29215345334881,-111.82652950286865
+"4b9a8293f964a5203abc35e3","AT&T","Shop & Service::Electronics Store",33.30633561390654,-111.89128244144283
+"4b9ad997f964a5201adc35e3","East-Valley Yamaha Music School","College & University::General College & University",33.35265780136613,-111.84281587600708
+"4b9af160f964a5207fe535e3","Kai","Food::New American Restaurant",33.26639342197809,-111.99342727661133
+"4b9b175cf964a520fbf135e3","AMF McRay Plaza Lanes","Arts & Entertainment::Bowling Alley",33.319322403030476,-111.90851926803589
+"4b9be5a5f964a520f33236e3","Chase Bank","Shop & Service::Bank",33.28948541864984,-111.84099197387695
+"4b9c1448f964a520df4736e3","Costco Gas Station","Shop & Service::Gas Station / Garage",33.294420097721435,-111.89834028482437
+"4b9c6043f964a520026436e3","Cyclo Vietnamese Cuisine","Food::Vietnamese Restaurant",33.30558395385742,-111.87443542480469
+"4b9ccde7f964a520637c36e3","Ocotillo Golf Resort","Outdoors & Recreation::Athletic & Sport::Golf Course",33.25172592221569,-111.87079989571379
+"4b9cdb14f964a520e87e36e3","Chandler Police Department","Professional & Other Places::Government Building::Police Station",33.30096103241594,-111.83827100381612
+"4b9d49bcf964a52078a036e3","My Sister's Closet","Shop & Service::Clothing Store",33.2640337,-111.85652817
+"4b9e483ff964a52017d736e3","East Valley Oral Surgery","Professional & Other Places::Medical Center::Dentist's Office",33.32116,-111.90735518932343
+"4b9e717cf964a52045e436e3","Chapman BMW Chandler","Shop & Service::Car Dealership",33.322818781639235,-111.97128295898438
+"4b9eba53f964a52011fd36e3","ADEQ Vehicle Emissions Testing Station","Professional & Other Places::Government Building",33.303701877593994,-111.95721608333334
+"4b9f95adf964a520102d37e3","Avalon $2.25 Cleaners","Shop & Service::Laundry Service",33.32166298333333,-111.92771621666667
+"4b9fb8f1f964a520753837e3","Holiday Inn","Travel & Transport::Hotel",33.24800218110489,-111.86611300085963
+"4b9fc1eef964a520d93b37e3","Wells Fargo","Shop & Service::Bank",33.24726580932549,-111.82558536529541
+"4b9fe21ff964a5204f4737e3","Chandler High School","Professional & Other Places::School::High School",33.30883242567152,-111.84268712997437
+"4ba00e1ef964a520325637e3","DOLLAR TREE","Shop & Service::Miscellaneous Shop",33.3372083,-111.84032354
+"4ba0236ef964a520f55c37e3","Fry's Food Store","Shop & Service::Food & Drink Shop::Grocery Store",33.33660584057043,-111.8577697340837
+"4ba11faaf964a520139a37e3","Subway","Food::Sandwich Place",33.30076599121094,-111.89856719970703
+"4ba12de6f964a520679f37e3","Ocotillo Internal Medicine","Professional & Other Places::Medical Center",33.30005448490646,-111.87462509699253
+"4ba1f07af964a520c8d237e3","Dolce Salon & Spa","Shop & Service::Salon / Barbershop",33.304743682412244,-111.89905643463135
+"4ba3df3ef964a520be6838e3","Wendy's","Food::Fast Food Restaurant",33.30557,-111.861983
+"4ba44664f964a5201e9238e3","Tom Ryans","Nightlife Spot::Dive Bar",33.33581371806534,-111.84318499372958
+"4ba51a7cf964a520a0dd38e3","Arizona Railway Museum","Arts & Entertainment::Museum::History Museum",33.269755650600054,-111.83588387433784
+"4ba53b09f964a52013ef38e3","Maduros Fine Cigars","Shop & Service::Smoke Shop",33.23380085,-111.85672235
+"4ba69627f964a5209d6039e3","Prestige Nails and Spa‎","Shop & Service::Spa / Massage",33.26533928,-111.85722291
+"4ba79e4af964a520e2a239e3","Lexus of Chandler","Shop & Service::Automotive Shop",33.325902650446984,-111.96999549865723
+"4ba82a5cf964a520ddce39e3","Buffalo Wild Wings","Food::Wings Joint",33.29955177821152,-111.89876675605774
+"4ba8f7a2f964a520befe39e3","Club Del Sport","Shop & Service::Gym / Fitness Center::Gym",33.27676172,-111.87607262
+"4ba94fd4f964a520be1d3ae3","AiRIA the Nightclub","Nightlife Spot::Nightclub",33.281238230823575,-111.97350846995818
+"4ba95fcff964a520f4223ae3","Cold Stone Creamery","Food::Ice Cream Shop",33.31836700439453,-111.96540069580078
+"4ba96ebef964a520d1263ae3","Verizon Wireless","Shop & Service::Miscellaneous Shop",33.2800512,-111.79531866666666
+"4ba984e7f964a5201f2c3ae3","Nature's Health Shoppe","Shop & Service::Miscellaneous Shop",33.3484947681427,-111.857438
+"4baa5a12f964a52009623ae3","Steak Escape","Food::Sandwich Place",33.30082702636719,-111.89856719970703
+"4baa5a35f964a52012623ae3","Villa Pizza","Food::Pizza Place",33.3009033203125,-111.89852142333984
+"4baa60eff964a5208c643ae3","Dobson Warner Dentistry","Professional & Other Places::Medical Center::Dentist's Office",33.33438593333333,-111.87763966666667
+"4baabf08f964a52023843ae3","Kokomo Frozen Yogurt","Food::Ice Cream Shop",33.26142120361328,-111.85697937011719
+"4babbffff964a52032c63ae3","El Palacio Restaurant & Cantina of Chandler","Food::Mexican Restaurant",33.28105927431944,-111.79068446159363
+"4babed02f964a520f5d53ae3","Premier Family Care","Professional & Other Places::Medical Center::Doctor's Office",33.29929493827096,-111.87432234145466
+"4bac32c5f964a5209dea3ae3","El pollo loco","Food::Fast Food Restaurant",33.316246032714844,-111.9688491821289
+"4baccddcf964a520a20d3be3","Chandler Chamber Of Commerce","Professional & Other Places::Building",33.30265886666667,-111.840719
+"4bacce6ef964a520ce0d3be3","Circle K","Shop & Service::Gas Station / Garage",33.26282301295301,-111.7896008491516
+"4bad356cf964a52057393be3","Chevron Station","Shop & Service::Gas Station / Garage",33.277049942375655,-111.85924858356263
+"4bad58f4f964a520c7483be3","McDonald's","Food::American Restaurant",33.29226303100586,-111.82185363769531
+"4bad5dd5f964a520aa4a3be3","Rawhide Steakhouse & Saloon","Food::Steakhouse",33.269917707889945,-111.9843200302301
+"4bada224f964a52039603be3","Sitan Gym","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",33.35182027480184,-111.858241335739
+"4badf16bf964a52070743be3","Wendy's","Food::Fast Food Restaurant",33.30494689941406,-111.94429779052734
+"4badf1dff964a52097743be3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.304833782092814,-111.94510248154695
+"4badf583f964a520be753be3","Stellar Airpark","Travel & Transport::Airport",33.29864607759951,-111.91725254058838
+"4bae17b9f964a52045833be3","Quick 'N Clean Car Wash","Shop & Service::Automotive Shop",33.30584306646985,-111.94448533711515
+"4bae6e0df964a52061b13be3","Verizon Wireless","Shop & Service::Electronics Store",33.2454184,-111.84183808333333
+"4baeb01cf964a520e4ce3be3","Kentucky Fried Chicken","Food::Fast Food Restaurant",33.306156158447266,-111.89009857177734
+"4bafa21bf964a52007123ce3","Taco Bell/Pizza Hut","Food::Mexican Restaurant",33.305907511905225,-111.94224382104507
+"4bafccd2f964a520c2213ce3","Cold Stone Creamery","Food::Ice Cream Shop",33.31950759887695,-111.80789184570312
+"4bafd81cf964a5205e253ce3","Tom's BBQ","Food::BBQ Joint",33.23569181194648,-111.79158206151156
+"4bafd979f964a520d3253ce3","Bashas'","Shop & Service::Food & Drink Shop::Grocery Store",33.23492013799265,-111.79127347896242
+"4bb057e3f964a520d2413ce3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.320837517648904,-111.91030025482178
+"4bb07d46f964a52008483ce3","Bank Of America","Shop & Service::Bank",33.30614248457532,-111.89875602722168
+"4bb10397f964a520e1723ce3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.29238379702429,-111.82512431165718
+"4bb1177ff964a520ab793ce3","Woodcraft","Shop & Service::Arts & Crafts Store",33.35055470466614,-111.84295653
+"4bb13bc4f964a520ce853ce3","Desert Schools Federal Credit Union","Shop & Service::Bank",33.31993479309832,-111.87443878589474
+"4bb15a83f964a520448e3ce3","India Gate","Food::Indian Restaurant",33.30485153198242,-111.94895935058594
+"4bb2664aeb3e9521a8f8c90a","Freeway Chevy","Shop & Service::Automotive Shop",33.3225953578949,-111.96880745688425
+"4bb286292397b713842537b3","Jack in the Box","Food::Fast Food Restaurant",33.306452335140015,-111.87439803034106
+"4bb28ca02397b713533037b3","STA Travel","Travel & Transport::General Travel",33.31166458129883,-111.91703796386719
+"4bb2a93014cfd13aa04915ab","Charelson's Restaurant","Food::Steakhouse",33.323612213134766,-111.97075653076172
+"4bb3dddc35f0c9b63c02bd83","Dairy Queen","Food::Ice Cream Shop",33.335670471191406,-111.87443542480469
+"4bb4a771613fb71356fd93e6","McDonald's","Food::Fast Food Restaurant",33.276583535317876,-111.79108142852783
+"4bb4fa36310276b0f79fcf90","Thai Cafe","Food::Thai Restaurant",33.307018830425584,-111.89960360527039
+"4bb520a946d4a5939a99c4c0","Inspirador","Professional & Other Places::Event Space",33.30199981300034,-111.8407291173935
+"4bb596972ea1952174a4aa2f","Western International University Chandler Campus","College & University::College Academic Building",33.30442087872679,-111.84060573577881
+"4bb68d7d46d4a5937c71c6c0","La Famiglia Pizza & Pasta","Food::Italian Restaurant",33.33678905,-111.856378
+"4bb6bd01941ad13a2cf51fe3","Chandler Senior Center","Professional & Other Places::Event Space",33.3027243,-111.83891192
+"4bb75a9fef159c74b10f77f7","PetSmart","Shop & Service::Pet Store",33.28078122908281,-111.79155349731445
+"4bb796a93db7b7139336209a","Von Hanson's Meats and Spirits","Shop & Service::Food & Drink Shop::Butcher",33.34082901477814,-111.85990154743195
+"4bb82752314e95216f3f489d","Bank Of America","Shop & Service::Bank",33.30513861246801,-111.85965614042486
+"4bb8d98e53649c74f06747fb","NextCare Urgent Care","Professional & Other Places::Medical Center",33.29612025,-111.876797
+"4bba5e533db7b713c037239a","Enzo's Gelato & Coffee Bar","Food::Coffee Shop",33.319627221105584,-111.92891478538513
+"4bba63fc1261d13a0f94ea98","Siagon Pho","Food::Vietnamese Restaurant",33.332115173339844,-111.85912322998047
+"4bba9792935e95217b602890","Performance Bicycle","Shop & Service::Bike Shop",33.318859937754176,-111.94415347638497
+"4bbc06eae4529521a58955a4","Blockbuster","Shop & Service::Video Store",33.32018811,-111.87514787
+"4bbce4fc8ec3d13af6621b28","Bank Of America Offices","Professional & Other Places::Office",33.30442087872679,-111.88613891601562
+"4bbd223ef57ba593e4c3adb9","Bohdi Body","Shop & Service::Gym / Fitness Center::Yoga Studio",33.31898172274386,-111.89218997955322
+"4bbd29d1593fef3b3f300356","Pima Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",33.313643552392236,-111.82229468290267
+"4bbde729593fef3bd7f90356","Chili's Grill & Bar","Food::American Restaurant",33.30538,-111.89547
+"4bbdf56d8ec3d13a7faa1c28","Kachina Apartments","Professional & Other Places::Building",33.329357316458776,-111.86012774189318
+"4bbfc4dbf8219c74739db010","Pep Boys Auto","Shop & Service::Automotive Shop",33.29654212,-111.84186100959778
+"4bc0c58dabf49521ead6bf93","Walmart Supercenter","Shop & Service::Food & Drink Shop::Grocery Store",33.28006368889632,-111.7933988571167
+"4bc100772a89ef3b3b9ef188","Chevron Station","Shop & Service::Gas Station / Garage",33.305284219004044,-111.88893609450061
+"4bc1289e2a89ef3bbaf6f188","HomeGoods","Shop & Service::Furniture / Home Store",33.264367364137335,-111.85640732904089
+"4bc212834cdfc9b6ad7c9521","Crowne Plaza Resort","Travel & Transport::Hotel::Resort",33.30404427291691,-111.84261202812195
+"4bc23b1cf8219c74338bb410","Full Circle Auto Wash","Shop & Service::Automotive Shop",33.30499281914367,-111.88843538505827
+"4bc267abb492d13ad28ba760","Arby's","Food::Fast Food Restaurant",33.33742904663086,-111.84235382080078
+"4bc338454cdfc9b6d8fe9621","Chandler-Gilbert Community College","College & University::Community College",33.294804834183275,-111.7962923103329
+"4bc3619474a9a5932976d4f6","KFC","Food::Fast Food Restaurant",33.306758880615234,-111.89022827148438
+"4bc384f7b492d13a20dea860","ADEQ Vehicle Emissions Testing Station","Professional & Other Places::Government Building",33.303701877593994,-111.95721608333334
+"4bc3906df8219c74c744b610","The Boatzhouse","Food::Restaurant",33.23323059082031,-111.79005432128906
+"4bc3a46aabf49521e012c493","EVDI - Chandler","Professional & Other Places::Medical Center::Doctor's Office",33.30709459611757,-111.86000547485034
+"4bc3e8eadce4eee100cf719d","Radisson Hotel Phoenix-Chandler","Travel & Transport::Hotel::Motel",33.30448204688235,-111.97056832469133
+"4bc4c68374a9a5934156d6f6","Subway","Food::Sandwich Place",33.29302215576172,-111.82362365722656
+"4bc61e25db8fa5939ecb9b37","Chandler Fashion Transit Center","Travel & Transport::Bus Station",33.29822,-111.89962
+"4bc62b2ef360ef3b5343db2d","1 OBI Nails","Shop & Service::Cosmetics Shop",33.262149883333336,-111.791029
+"4bc66b7e51b376b0b89d1b6f","Cactus Valley Pools","Shop & Service::Miscellaneous Shop",33.219653916666665,-111.8243689
+"4bc754190050b713147ab83b","Sport Clips","Shop & Service::Salon / Barbershop",33.31578658,-111.96910285
+"4bc761118b7c9c74705736cf","Ocean Blue Caribbean Restaurant And Bar","Food::Caribbean Restaurant",33.305904388427734,-111.94709777832031
+"4bc7973192b376b0f206503a","Aeropostale","Shop & Service::Clothing Store",33.3013921101768,-111.899002670416
+"4bc8986e14d79521956069e9","Valley Christian High School","Professional & Other Places::School::High School",33.31330159465393,-111.96181191587436
+"4bc8ef22b6c49c74e7748d91","Ocotillo Dental Care","Professional & Other Places::Medical Center::Dentist's Office",33.259652,-111.85731781666667
+"4bc9d8e668f976b0b3f25d83","Chandler Municipal Airport (CHD)","Travel & Transport::Airport",33.27263867756912,-111.81270537501617
+"4bc9efe2b6c49c74d14c8f91","Starbucks","Food::Café",33.23383712768555,-111.79039001464844
+"4bca1a5ffb84c9b690691c3e","Gap","Shop & Service::Clothing Store::Women's Store",33.30125003946686,-111.89867662785748
+"4bca2e9cb6c49c743bfa8f91","Dillard's","Shop & Service::Department Store",33.30210199119677,-111.89725019135534
+"4bcb5c550687ef3b1690ddcc","Tumbleweed Park Playground","Outdoors & Recreation::Playground",33.274048,-111.83101583
+"4bcb91e2cc8cd13af8b6bfcf","FastMed Urgent Care - Chandler","Professional & Other Places::Medical Center::Emergency Room",33.31881012985595,-111.8911601752574
+"4bcbd51168f976b0d4dc6183","Orange Leaf","Food::Dessert Shop",33.318910000408565,-111.89077377319336
+"4bcf2e359854d13aa288f54d","Cobra Kai Dojo","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",33.29211,-111.96151
+"4bcf8ddd462cb7135cfcd607","West Chandler Bark Park","Outdoors & Recreation::Dog Run",33.297900140821355,-111.94664534214742
+"4bd09e98caff95211932cff0","Quiznos","Food::Sandwich Place",33.2978630065918,-111.87693786621094
+"4bd0ac62b221c9b6c52cd4d0","Barnes & Nobles Jr.","Shop & Service::Bookstore",33.320104,-111.911553
+"4bd0f355046076b07a207171","Phase 54","Arts & Entertainment::Music Venue",33.320892333984375,-111.97010040283203
+"4bd131a2462cb713c6f2d907","Yogurtland","Food::Dessert Shop",33.30449561566467,-111.89996549956072
+"4bd20b94b221c9b6a5cbd6d0","PostNet","Shop & Service::Paper / Office Supplies Store",33.32120995,-111.91297753333333
+"4bd2333941b9ef3b499cfde5","LaBella Salon and Day Spa","Shop & Service::Salon / Barbershop",33.26093855,-111.85943545
+"4bd30efd462cb7136f67dd07","The Boys & Girls Clubs Of The East Valley - Chandler Branch","College & University::College Gym",33.30662607,-111.836481
+"4bd3217a41b9ef3bed52ffe5","SanTan Honda Superstore","Shop & Service::Automotive Shop",33.28941815621661,-111.79125308990479
+"4bd331d1a8b3a5933151695f","Water And Ice","Food::American Restaurant",33.2178955078125,-111.79024505615234
+"4bd338b1046076b0d67d7571","Chandler Christian Church","Professional & Other Places::Spiritual Center::Church",33.27951418570253,-111.8573796437905
+"4bd4dfdf4e32d13a151cc080","Espee Park","Outdoors & Recreation::Park",33.32982251039732,-111.83434097300213
+"4bd4fb5e7b1876b0f2338a86","Dunkin' Donuts","Food::Donut Shop",33.33549365353655,-111.8411937803718
+"4bd5d7585631c9b6a6d0a430","Chandler-Gilbert Community College","College & University::Community College",33.294804834183275,-111.7962923103329
+"4bd5e8f76f649521b0ef6fec","Cholla Hall","College & University::College Academic Building",33.295059052112364,-111.79563045501709
+"4bd5fa8e5631c9b63416a530","Sun Meadow Family Medicine","Professional & Other Places::Medical Center",33.31919688939559,-111.82271003723145
+"4bd6784a7b1876b01ba88c86","Chandler Gilbert Community College - Agave Hall (AGA)","College & University::College Administrative Building",33.29322512835365,-111.79638415575027
+"4bd678a67b1876b080a88c86","Chandler Gilbert Community College - Bradshaw Hall (BRD)","College & University::College Academic Building::College Math Building",33.29337309918198,-111.7958128452301
+"4bd73fb60b779c743ac104a0","Chipotle Mexican Grill","Food::Mexican Restaurant",33.26395335923739,-111.85742855072021
+"4bd788fe0b779c74be7905a0","snedigar park","Outdoors & Recreation::Park",33.23981797178213,-111.85939996182982
+"4bd8b0a8e914a593911254fa","City Of Chandler Clerk's Office","Professional & Other Places::Government Building::City Hall",33.30402,-111.84072
+"4bd8cc0de914a593869754fa","Sport Clips Haircuts","Shop & Service::Salon / Barbershop",33.31878842,-111.89158303
+"4bd901f3e914a593d37755fa","Circle K","Shop & Service::Gas Station / Garage",33.30644734873547,-111.86624765396118
+"4bd9a864e914a593d14657fa","Fletcher's Tire & Auto Services","Shop & Service::Automotive Shop",33.247178501952526,-111.83884740808789
+"4bdb2ab62a3a0f47eebbadb6","Einstein Bros Bagels","Food::Bagel Shop",33.26345526666667,-111.85726
+"4bdb4e2ac79cc9285d1682e9","Makutu's Island","Arts & Entertainment::Theme Park",33.31932986666666,-111.96156407365966
+"4bdb967863c5c9b625df2868","Yangtse Chinese Bistro","Food::Chinese Restaurant",33.307777404785156,-111.87561798095703
+"4bdc83922a3a0f47f431b3b6","Sports Authority","Shop & Service::Sporting Goods Shop",33.29548053525421,-111.90167427062988
+"4bdc89753904a593d1a34e9e","West USA Realty Revelation","Professional & Other Places::Office",33.2458352436995,-111.84313841564818
+"4bdc9a22ccf52d7ff584786d","Erikas Bed","Nightlife Spot::Strip Club",33.312052,-111.901074
+"4bdcd71bafe8c9b6bb485185","Red Dragon","Food::Chinese Restaurant",33.337562561035156,-111.8599853515625
+"4bde273f6198c9b6ee3613ff","Native New Yorker","Food::American Restaurant",33.27620609657975,-111.79033026429012
+"4bde7200e75c0f4782f1c703","Cornerstone Christian Fellowship","Professional & Other Places::Spiritual Center::Church",33.283040800033454,-111.85694879775808
+"4bdeecf6ffdec928c51beaa1","Instructional Resource Center, Chandler Unified School District","College & University::College Administrative Building",33.3138292,-111.84871875
+"4be0b78e2aed2d7f2f57c96f","subway","Food::Sandwich Place",33.33741760253906,-111.85844421386719
+"4be1d09fae55a593b8a55b62","Hon Machi Sushi & Cocktails","Food::Japanese Restaurant",33.319675,-111.87415647
+"4be2e203f07b0f471a67f643","Bondurant School of High Performance Driving","Arts & Entertainment::Racetrack",33.264671031825735,-111.96759223937988
+"4be310fbd27a20a1d923915b","China Magic Noodle House","Food::Chinese Restaurant",33.335548000620406,-111.87395095825195
+"4be316b9b02ec9b6a7894ec0","IKitchen","Food::Chinese Restaurant",33.319175720214844,-111.92896270751953
+"4be35089660ec92881c9cb3b","Kyrene de la Paloma Elementary School","Professional & Other Places::School",33.29597375762173,-111.93143606185913
+"4be573d42468c928af020043","Circle K","Shop & Service::Convenience Store",33.30574328444217,-111.96249310011176
+"4be5b21a2468c92841640043","SONIC Drive In","Food::American Restaurant",33.32106,-111.847198
+"4be712e4cf200f47ec3b153c","Aveda Experience Center","Shop & Service::Cosmetics Shop",33.30155765395581,-111.89867662785748
+"4be737e5bcef2d7f9a0506e5","T-Mobile","Shop & Service::Electronics Store",33.29065877754047,-111.84100746797134
+"4be7a5b8c5220f47e9e0a8ca","McDonald's @ Safeway","Food::Fast Food Restaurant",33.23466873168945,-111.85958862304688
+"4be83059947820a1ef91b4db","Supercuts","Shop & Service::Salon / Barbershop",33.32155407598429,-111.91305158614303
+"4be841d6ee96c9281adcfdbf","The UPS Store","Professional & Other Places::Post Office",33.292757,-111.82196974754333
+"4be9737088ed2d7f88facc1d","Primavera Online High School","Professional & Other Places::School::High School",33.341890246981286,-111.84108315738483
+"4be9c85a61aca5931afa8200","Cafe Monsoon @ VZW","Food::Café",33.292781829833984,-111.9620590209961
+"4be9cd7f415e20a11247e4bb","T-mobile","Shop & Service::Electronics Store",33.33564093,-111.84124946594238
+"4bea0c2f61aca593aa618300","Hungry Howie's Pizza","Food::Pizza Place",33.3199348449707,-111.80960845947266
+"4beb1310b3352d7f650056d2","La Fonda Mexican Restaurant","Food::Mexican Restaurant",33.26115417480469,-111.86215209960938
+"4bec3c5ca9900f4793c31840","Chandler Air Service","Professional & Other Places::Building",33.27306731666667,-111.81248824
+"4bec5c18c43f2d7f67c7dbd9","Taco bell","Food::Fast Food Restaurant",33.319236755371094,-111.91120910644531
+"4bec9caf2bc1b713c380bf3a","Bridges at Ocotillo Gym","Shop & Service::Gym / Fitness Center::Gym",33.26161450204749,-111.85034054637653
+"4bed9e57e3562d7f914bfff8","Piza Pizza","Food::Pizza Place",33.30290985107422,-111.8421630859375
+"4bedbe83e24d20a174ec7114","Sprint Store","Shop & Service::Electronics Store",33.3174079656601,-111.96906208992
+"4bee118a2c082d7fa4033042","New town fashion","Shop & Service::Clothing Store::Boutique",33.33588,-111.84228
+"4bee16dae24d20a1fc8b7214","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",33.30513821862741,-111.87704086303711
+"4beec4b7d355a59348480b60","Coffin & Trout Jewellers","Shop & Service::Jewelry Store",33.3183608743234,-111.965856850147
+"4beec58cd1b7d13a621ccdec","Wonderful Wanda's","Food::American Restaurant",33.30485153198242,-111.95149230957031
+"4beeea2ee24d20a161987314","O'Reilly Auto Parts","Shop & Service::Automotive Shop",33.31965,-111.909364
+"4bef03805e4aa593416e58bb","The Play Factory","Outdoors & Recreation::Playground",33.245533,-111.84453
+"4bef4ead2ff520a11f70e8a2","Fry's Food and Drug","Shop & Service::Food & Drink Shop::Grocery Store",33.31882,-111.926891
+"4bf05bc024cb20a103618d7e","El Pollo Loco","Food::Fast Food Restaurant",33.338748931884766,-111.84219360351562
+"4bf06c6a24f020a1b014684f","West Chandler Aquatic Center","Outdoors & Recreation::Pool",33.296908048251446,-111.94634841431156
+"4bf1afd852bda59311d8b1b7","Ocotillo Animal Clinic & Pet Resort","Professional & Other Places::Medical Center::Veterinarian",33.257796019657384,-111.83991288248264
+"4bf36a3e94af2d7f68843972","7-Eleven","Shop & Service::Food & Drink Shop",33.33473737,-111.877042
+"4bf46bfc94af2d7f8e963a72","Ono Hawaiian BBQ","Food::BBQ Joint",33.27870559692383,-111.79122924804688
+"4bf5d8b04d5f20a15e5798fe","Di Sciacca","Arts & Entertainment::Art Gallery",33.30241012573242,-111.84233856201172
+"4bf6b717b1a7a5937d96d65b","Compass Bank","Professional & Other Places::Building",33.30527901649475,-111.897469
+"4bf6de985efe2d7f27eb6734","Enterprise Rent-A-Car","Travel & Transport::Rental Car Location",33.32114677914817,-111.92577300130797
+"4bf8597b508c0f4764653e31","Bounce Jungle","Outdoors & Recreation::Playground",33.28067359843086,-111.80187463760376
+"4bf865b38d30d13afdb70018","Circle K","Shop & Service::Gas Station / Garage",33.306160417790714,-111.82397603988647
+"4bf86f545efe2d7fc1ce6a34","Crystal Springs Car Wash","Shop & Service::Automotive Shop",33.30564035304699,-111.87249183654785
+"4bf8766d508c0f476c8d3e31","RadioShack","Shop & Service::Electronics Store",33.26007843017578,-111.857144
+"4bf882c85317a593ec00007f","P.F.Chang's","Food::Chinese Restaurant",33.30115509033203,-111.89614868164062
+"4bf9e0eb5efe2d7f0dfc6c34","Streets of New York","Food::Pizza Place",33.278377532958984,-111.79035186767578
+"4bfad262328d76b01a0115ec","China King Restaurant","Food::Chinese Restaurant",33.321041,-111.860722
+"4bfb0252ab180f47ab47b3ce","Dr Dawson","Professional & Other Places::Medical Center::Doctor's Office",33.31231657292242,-111.85934173941993
+"4bfc3815e9d8c928f034b2c7","Chompie's Deli Restaurant & Bakery","Food::Deli / Bodega",33.29760585539294,-111.9012451171875
+"4bfdb65c8992a593b590acb0","Siracha","Food::Asian Restaurant",33.30229568481445,-111.84258270263672
+"4bfdc8028992a5939bb1acb0","Peter Piper Pizza","Food::Pizza Place",33.30729067325592,-111.873508
+"4bfdc836f61dc9b6939a9fde","San Palacio","Outdoors & Recreation::Plaza",33.27549899380415,-111.88313717688241
+"4c00104037850f47f6a9973f","Sally's Beauty Supply","Shop & Service::Cosmetics Shop",33.33711752979804,-111.85612786129202
+"4c02a80e187ec9284184b47b","Sun Lakes Nails and spa","Shop & Service::Cosmetics Shop",33.233977,-111.856671
+"4c02b2929a7920a126d3ce79","Children's Play Area @ Chandler Fashion Square","Outdoors & Recreation::Playground",33.30181402357323,-111.89860676159144
+"4c032745f423a5935defcf16","Cooper Commons Park - Red Playground","Outdoors & Recreation::Playground",33.21191933051604,-111.80275506889387
+"4c03283f9a7920a1ac9acf79","La Paloma Park @ Cooper Commons","Outdoors & Recreation::Playground",33.21190003,-111.80248111
+"4c03bc583f03b71339045241","Chandler Gilbert Community College - Ironwood Hall (IRN)","College & University::College Academic Building",33.29573611446549,-111.79663360118866
+"4c048c53f423a5937bd0d116","Baskin Robbins","Food::Ice Cream Shop",33.2344856262207,-111.86019134521484
+"4c05e2f9761ac9b6813a2074","The Pink Wall Quiz Show","Arts & Entertainment::Performing Arts Venue::Indie Theater",33.356466,-111.85549488333334
+"4c0678c1c36cef3bf638210e","Jen Buffet","Food::Asian Restaurant",33.33563995361328,-111.85425567626953
+"4c0698b20ed3c928b545787d","The Fetal & Women's Center of Arizona","Professional & Other Places::Medical Center::Doctor's Office",33.299198,-111.87476871
+"4c06e24eb4aa0f478cd06462","Luke's Of Chicago","Food::Hot Dog Joint",33.31977066453677,-111.89017295837402
+"4c06eefeb4aa0f4767ea6462","Snip-its","Shop & Service::Salon / Barbershop",33.29606103,-111.89897655
+"4c070b302e80a5932b2375f9","Maduros Fine Cigars","Shop & Service::Smoke Shop",33.23380085,-111.85672235
+"4c07f9f8d561ef3b03421551","FYE","Shop & Service::Video Store",33.29008443,-111.8413242
+"4c07fb98d561ef3b74421551","FYE","Shop & Service::Music Store",33.3372725,-111.85844801666667
+"4c084e37009a0f4746f6e5bf","The Salon Beauty School","Shop & Service::Cosmetics Shop",33.314745333333335,-111.8603481
+"4c08579a7e3fc9289341f082","Arrowhead Meadows Park","Outdoors & Recreation::Park",33.308931055267976,-111.8664300441742
+"4c09a346ffb8c9b6e4556a61","Starbucks Safeway","Food::Coffee Shop",33.23371124267578,-111.85984802246094
+"4c0ab458bbc676b0f9564ad5","Indus Village","Food::Indian Restaurant",33.3323974609375,-111.86042785644531
+"4c0abb096071a5930a1ee032","C3 Modern Storage","Professional & Other Places::Building",33.274107877708666,-111.79013729095459
+"4c0ad1ed009a0f47c520eabf","Desert Oasis Pool","Outdoors & Recreation::Pool",33.35370916072004,-111.8683603820971
+"4c0bf00a7e3fc928c70af682","Ann Taylor","Shop & Service::Clothing Store::Women's Store",33.301595702798075,-111.89921226919053
+"4c0c1ec47e3fc928bd5ef682","Passion Nails & Spa","Shop & Service::Spa / Massage",33.318780933333336,-111.89124428
+"4c0d555cd64c0f476f8d265d","Integrity All Star Realty","Professional & Other Places::Office::Coworking Space",33.30189681666667,-111.84229933333333
+"4c0e9a677189c92804c5d8b6","le château Boos","College & University::Sorority House",33.356359,-111.855459
+"4c0fb4dbc6cf76b017b48251","Bank Of America - Balboa Insurance","Professional & Other Places::Office::Coworking Space",33.304678201675415,-111.88569366931915
+"4c0ff0e5b93cc9b66df555e0","Skin & Cancer Center","Professional & Other Places::Medical Center::Doctor's Office",33.293917727079226,-111.87525025
+"4c1177d0416620a1162ed9e4","Build-A-Bear Workshop","Shop & Service::Toy / Game Store",33.30154921366815,-111.89818756397007
+"4c125a9f82a3c9b63b84f9f8","Lumiere Chandler Condos","Residence::Residential Building (Apartment / Condo)",33.32338103351283,-111.96370991604927
+"4c125fcaa9c220a1d9d2539d","Crossroads Towncenter","Shop & Service::Miscellaneous Shop",33.28019279041568,-111.78996345854844
+"4c12ee6aa5eb76b02f2dbfb7","jcpenney","Shop & Service::Department Store",33.274906,-111.789747
+"4c13d693a1010f47ed5f4b18","Godiva Chocolatier","Shop & Service::Candy Store",33.301646,-111.89946731666667
+"4c13d92e82a3c9b69039fcf8","Clean Freak Car Wash","Shop & Service::Car Wash",33.30645940652165,-111.86727744723385
+"4c159fbb77cea593f191d260","India Gate","Food::Indian Restaurant",33.30522155761719,-111.95130157470703
+"4c168842cd4bc9b6eb8e4eeb","Burger King","Food::Burger Joint",33.31951904296875,-111.9265365600586
+"4c16e15074fb20a106df5012","Anderson Junior High School","Professional & Other Places::School",33.32464760072955,-111.87515258789062
+"4c17d2491436a593a66b8c75","Olive Garden","Food::Italian Restaurant",33.306077476638606,-111.90070062875748
+"4c180fbf6a21c9b6a57fc897","Lindas Cubicle","Professional & Other Places::Office::Conference Room",33.30310499300739,-111.88718497753143
+"4c182cad838020a114e3e361","Chandler Pain Clinic","Professional & Other Places::Medical Center::Doctor's Office",33.32161623,-111.91298692
+"4c183a8d6a21c9b609d1c897","La-Z-Boy Furniture Galleries","Shop & Service::Furniture / Home Store",33.3045752870663,-111.89616144152708
+"4c1ab318b306c928740e61b7","Historic Downtown Chandler","Arts & Entertainment::Historic Site",33.30328657296721,-111.84145331382751
+"4c1baf0db306c928cf9862b7","Subway","Food::Sandwich Place",33.280635833740234,-111.78996276855469
+"4c1bd7fbeac020a1228a45c2","Betitos Mexican Grill","Food::Mexican Restaurant",33.304439544677734,-111.94808959960938
+"4c1bdd6163750f47e099b567","Dillard's","Shop & Service::Department Store",33.30210199119677,-111.89725019135534
+"4c1bfeedb9f876b07c357b46","Claire's","Shop & Service::Jewelry Store",33.30146575301667,-111.89834718
+"4c1c0010fcf8c9b6a75ca90b","Abercrombie & Fitch","Shop & Service::Mall",33.30145608626181,-111.89920062481448
+"4c1d204bb4e62d7f4537dc93","Panda Express","Food::Asian Restaurant",33.217902,-111.82642
+"4c1e3028b4e62d7f68cfdd93","Pequeno Park","Outdoors & Recreation::Field",33.31518035764876,-111.89090251922607
+"4c1e5ee863750f47059fb967","Chandler Christian Church","Professional & Other Places::Spiritual Center::Church",33.27951418570253,-111.8573796437905
+"4c1fc3bb920076b01f43c5e9","Chevron Station","Shop & Service::Gas Station / Garage",33.27752639089328,-111.97011420300471
+"4c1fd3ec920076b0245ac5e9","Route 104 NB","Travel & Transport::Bus Station::Bus Line",33.33511734008789,-111.85919189453125
+"4c237a63aa8e9c7466b1f4d4","Bashas'","College & University::College Classroom",33.253501362756786,-111.85817146883004
+"4c2387989a67a5932e2ede87","Engenuity Systems","Professional & Other Places::Office",33.2899472859576,-111.87910079956055
+"4c23a1fd136d20a13c86e061","pool","Outdoors & Recreation::Pool",33.34417249,-111.84312708
+"4c23a57b905a0f47947a5e60","Wells Fargo","Shop & Service::Bank",33.31939412502642,-111.92774534225464
+"4c267238905a0f476a526360","Freescale","Professional & Other Places::Office::Coworking Space",33.32658077788785,-111.86480882057194
+"4c268ce65c5ca5932c6846fe","Kisses Nails","Shop & Service::Cosmetics Shop",33.30732,-111.87372736666667
+"4c26a90fa852c9283b1be76c","Am Pm","Travel & Transport::General Travel",33.28022472468409,-111.80637
+"4c28073ae19720a1486ff758","Domino's Pizza","Food::Pizza Place",33.33466339111328,-111.84233856201172
+"4c291ff09fb5d13a56aa9a57","American Eagle Outfitters","Shop & Service::Clothing Store",33.30176666979021,-111.89862728118896
+"4c2953f6d26eb713756a14d1","Brooks Crossing Park","Outdoors & Recreation::Park",33.32911129270928,-111.8675627365506
+"4c2a3f8f8ef52d7f0d952fba","Burger King","Food::Burger Joint",33.34749221801758,-111.85945892333984
+"4c2a87ca8ef52d7f390b30ba","CARL'S JR. 1100825","Food::Fast Food Restaurant",33.333927154541016,-111.8591079711914
+"4c2a914f2219c9285b54a348","Boba Tea House","Food::Tea Room",33.337121333333336,-111.87476996
+"4c2ac74a2219c92857afa348","Shula's Steak House","Food::Steakhouse",33.28031539916992,-111.97441864013672
+"4c2c2ef8ae6820a1ff0c1943","The Fairways","Professional & Other Places::Building",33.30500533004047,-111.85367669555204
+"4c2ca0cf8ef52d7f442a33ba","Shumway Dental Care","Professional & Other Places::Medical Center",33.26058494,-111.79120726
+"4c2cc31357a9c9b603e9f767","AZ Clinical Services LLC","Professional & Other Places::Medical Center",33.35099476774942,-111.8597842297172
+"4c2cfaaf7557952174545d83","Bekki's Starbucks","Food::Coffee Shop",33.30741500854492,-111.87638854980469
+"4c2eb018a0ced13a32650f6e","GameStop","Shop & Service::Video Game Store",33.29614627871215,-111.89879307163153
+"4c2eeb68213c2d7fb312305d","Muslim American Society Centre","Professional & Other Places::Spiritual Center::Mosque",33.32071961028323,-111.85854409233264
+"4c2f861d66e40f471510c28b","Gemsetter","Shop & Service::Jewelry Store",33.32120993,-111.91315961
+"4c2fae29213c2d7fca52315d","Sam's Club Gas","Shop & Service::Gas Station / Garage",33.313727,-111.96872004
+"4c2fd7863896e21ea1b3e490","Forever 21","Shop & Service::Clothing Store::Boutique",33.301814326837466,-111.89894444853283
+"4c30e5a8ed37a59369916903","Paradise Bakery","Food::Sandwich Place",33.30224609375,-111.89796447753906
+"4c3104e466e40f47d569c48b","Carter's","Shop & Service::Department Store",33.29738795757294,-111.89878
+"4c325d393896e21e576de890","Popcornopolis","Food::Dessert Shop",33.306339263916016,-111.79127502441406
+"4c325de616adc9285008c29c","Sport Chalet","Shop & Service::Sporting Goods Shop",33.27958,-111.795386
+"4c32ade0213c2d7f67e3355d","Panda Express","Food::Chinese Restaurant",33.29285430908203,-111.82366180419922
+"4c3341afa0ced13aff49166e","STINKY COW POO SMELL","Outdoors & Recreation::Farm",33.288748693498306,-111.63498971280904
+"4c336b22452620a1c38d230f","Ritz Camera & Image - Casa Paloma","Shop & Service::Miscellaneous Shop",33.317753,-111.96388586666667
+"4c339d597cc0c9b6cc16f29a","All-American Hair Cutters","Shop & Service::Salon / Barbershop",33.306021666666666,-111.96639671666667
+"4c33a64ea0ced13ad2fa166e","Chase","Shop & Service::Bank",33.348384,-111.85825309
+"4c369538dfb0e21e876caba8","MI Sushi","Food::Japanese Restaurant",33.3190803527832,-111.92591094970703
+"4c37535c1e06d13a2cb3753e","Cactus Foot and Ankle","Professional & Other Places::Medical Center::Doctor's Office",33.2994813380346,-111.8744329636728
+"4c37669a93db0f4797b51f92","Arizona Superbike","Shop & Service::Miscellaneous Shop",33.35332205052555,-111.8412752920449
+"4c37e0633849c9287d9cbeb1","Rosati's Pizza","Food::Pizza Place",33.322646,-111.822816
+"4c38b3dc3849c92800efbfb1","VZW Breakroom- Upstairs","Professional & Other Places::Building",33.2932603514427,-111.9621845294917
+"4c38cfb4ae2da5933c6501c6","Sweeties Candy of Arizona","Shop & Service::Candy Store",33.306238315152285,-111.86005912721157
+"4c3918a36ec69c747add04a9","Route 96 nb","Travel & Transport::Bus Station",33.33549748178006,-111.8762378521071
+"4c3b8274def90f47cd0ffe2d","Bowling with LEVERAGE pro shop","Arts & Entertainment::Bowling Alley",33.319515228271484,-111.9082260131836
+"4c3ba62e16cb2d7f423e03a9","Step by Step Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",33.30646455287933,-111.939734
+"4c3ce16cb36ac928a4b60486","Ewing Irrigation","Shop & Service::Hardware Store",33.320911408697945,-111.96539249811134
+"4c3dff0a83a3a593a175ed33","Corner Store","Food::Restaurant",33.320560455322266,-111.9117660522461
+"4c3ee9ddb8b4be9a58baccef","The Universe","Travel & Transport::Ferry::Boat or Ferry",33.35645676666667,-111.855458
+"4c40abc1d7fad13a655906da","Valley Dental Care","Professional & Other Places::Medical Center::Dentist's Office",33.325201,-111.91177082
+"4c40f23c520fa5935ee6c8ac","Walmart Supercenter","Shop & Service::Food & Drink Shop::Grocery Store",33.28006368889632,-111.7933988571167
+"4c41329fcc410f477af3aa61","Video Paradise","Shop & Service::Video Store",33.33649444580078,-111.86030578613281
+"4c41ec3ad7fad13a214508da","Burrito Express","Food::Burrito Place",33.348184211333205,-111.85858484802648
+"4c433caada3dc9287b9bcbb9","Desert Springs Church","Professional & Other Places::Spiritual Center::Church",33.26824136530628,-111.82537078857422
+"4c45da8559d99c74aa3ffcad","ampm","Shop & Service::Gas Station / Garage",33.280135443180384,-111.8062949180603
+"4c465ec1dd35be9a9ccaddd8","Papa John's Pizza","Food::Pizza Place",33.32185745239258,-111.86088562011719
+"4c48aa951b430f47e07783c2","The Childrens Place","Shop & Service::Clothing Store::Kids Store",33.301117787886426,-111.89839134059696
+"4c48b7b83013a593d145c8e1","Local Motors, Inc.","Shop & Service::Automotive Shop",33.27699613809436,-111.96207761764526
+"4c499e94b5eec9b63110fca4","Sonora Quest Laboratories","Professional & Other Places::Medical Center::Doctor's Office",33.29776416544588,-111.87814753971463
+"4c4a57ed9e6dbe9a52f5660a","Verizon Wireless","Shop & Service::Miscellaneous Shop",33.29709470717725,-111.90160989761353
+"4c4b32b246240f47308501f3","Urgent Care Extra (East Valley Urgent Care)","Professional & Other Places::Medical Center",33.25989399070856,-111.79012066101161
+"4c4b375cf7cc1b8dcafb933f","Play N Trade","Shop & Service::Video Game Store",33.24640442993456,-111.84270858764648
+"4c4c8e0b46240f4721fcf9f4","C-Fu Gourmet","Food::Dim Sum Restaurant",33.33370701193583,-111.87765265123714
+"4c4cd75f4237be9a47edfa12","Petco","Shop & Service::Pet Store",33.2454035,-111.84390246666666
+"4c4ce7f6f96ac9b6b887cf98","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.29238379702429,-111.82512431165718
+"4c4e0954db2c20a1ae67c473","Armored Self Storage","Professional & Other Places::Building",33.31959664821625,-111.9073873758316
+"4c4e0ad91b8e1b8d6a7a8c26","Golf Galaxy","Outdoors & Recreation::Athletic & Sport::Golf Course",33.31898037293867,-111.8917982092359
+"4c4f1a609932e21e89b5d6ce","Lee Lee International Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",33.33619281604824,-111.87474489212036
+"4c522ee99426c9285eb6f974","Ernie's","Nightlife Spot::Sports Bar",33.31628786666667,-111.968005
+"4c52f07194790f47655f4ca3","Gila Indian Reservation","Travel & Transport::General Travel",33.21924283877662,-111.91172995385297
+"4c53fa6c30f92d7fa5d2abb9","San Palmas Apartments","Professional & Other Places::Building",33.3207899190697,-111.88909329396444
+"4c545ef3728920a185a3a682","Brown And Memmott Law","Professional & Other Places::Office",33.321458,-111.80713936666666
+"4c54e67f5b83952184a4d731","Covance","Professional & Other Places::Medical Center",33.26797546881876,-111.794949
+"4c54e6c35b839521dfa7d731","Jumpstreet","Shop & Service::Gym / Fitness Center::Gym",33.33470046257308,-111.83473106508039
+"4c575f2dd12a20a1b8ab66bd","Family Dollar","Shop & Service::Miscellaneous Shop",33.32183211674484,-111.84103657928435
+"4c581ddd15a39c7422943eb9","Fleetronix","Professional & Other Places::Office::Tech Startup",33.280607,-111.801226
+"4c5871a07613b713ee9691ea","Route 156 eb","Travel & Transport::Bus Station",33.305783819492994,-111.85831260681152
+"4c589c4fec2520a198194d12","Panda Express","Food::Asian Restaurant",33.320213317871094,-111.8932876586914
+"4c58bbe5b8b3c9b66ea687b6","Jimmy John's","Food::Sandwich Place",33.31565553735149,-111.96922838687897
+"4c59cabdd3aee21e671e6955","The Hungry Monk","Nightlife Spot::Bar",33.306668,-111.87279938
+"4c59d16e6407d13a6325b328","Kyrene Aprende Middle school","Professional & Other Places::School::High School",33.31492931826957,-111.91819667816162
+"4c5b2584b05c1b8dcf04dab1","Paletas Betty","Food::Dessert Shop",33.302419781684875,-111.84277717
+"4c5d9ba79b28d13acb045a70","London Gold","Shop & Service::Jewelry Store",33.306455,-111.895345
+"4c5f475c90b2c9b62b613a22","Travel Outfitters - Chandler Fashion Center","Shop & Service::Sporting Goods Shop",33.30201330987944,-111.8996489332685
+"4c6014e423e303bb62db7407","Walgreens","Shop & Service::Drugstore / Pharmacy",33.21873717946812,-111.78854281390055
+"4c61943cec94a5939d3927ca","Summit Academy","Professional & Other Places::School::Middle School",33.35530267411581,-111.86919878310557
+"4c62b8edec94a5936de729ca","Circle K","Shop & Service::Gas Station / Garage",33.3046821,-111.96756581
+"4c63a1ac79d1e21ef426d915","Circle K","Shop & Service::Gas Station / Garage",33.26282301295301,-111.7896008491516
+"4c641846edd320a19ff0b029","Rays Family Dental","Professional & Other Places::Medical Center::Dentist's Office",33.35102140903473,-111.85955822467804
+"4c64b6e5cdb6e21e506b333e","Boovay Pub","Nightlife Spot::Pub",33.34326982498169,-111.84677481651306
+"4c65b4f7c2ead13a78c7b180","Steiner Family Dentistry","Professional & Other Places::Medical Center",33.307806,-111.841196
+"4c680eb19cedd13a837e79a1","Mimi's Cafe","Food::American Restaurant",33.306312561035156,-111.89318084716797
+"4c683cc3d9c7c9b642e5c31a","Nutrishop","Shop & Service::Miscellaneous Shop",33.33719407485538,-111.87753038466354
+"4c6846ba31ba2d7f8b52f772","Wetzel's Pretzels","Shop & Service::Food & Drink Shop::Food Court",33.30149260087686,-111.89893862634442
+"4c6970da3bad2d7f4fd6afee","Boon Inc Headquarters","Professional & Other Places::Office",33.308344,-111.970089
+"4c6ddb15e6b7b1f7162bab8e","Chandler Prepatory Academy","College & University::General College & University",33.333892822265625,-111.85755157470703
+"4c6de8a04d24b60cc977d7d8","Chandler Health Care Center","Professional & Other Places::Medical Center::Hospital",33.29666063249089,-111.87772834006671
+"4c6eeb3c9375a093b2570237","Tropical Smoothie","Food::Sandwich Place",33.24711227416992,-111.84027099609375
+"4c7030b7b3ce224ba31e73c6","2b Wireless Ahwatukee","Shop & Service::Electronics Store",33.298725,-111.972255
+"4c708fbfd97fa1433aadf6ca","Copper Hills Playground","Outdoors & Recreation::Playground",33.236318,-111.779845
+"4c709a939375a09389c50737","Basha's Warehouse","Professional & Other Places::Office::Coworking Space",33.299937770732996,-111.96591066334756
+"4c72d9aa0e23b1f75ee61edc","PetSmart","Shop & Service::Pet Store",33.28078122908281,-111.79155349731445
+"4c73109013228cfa33e02c65","Highland Auto Repair","Shop & Service::Automotive Shop",33.33191301666667,-111.8404687
+"4c73d4bc4bc4236ac3d7ce7a","Pure Image","Professional & Other Places::Office::Tech Startup",33.3215084,-111.81063263333333
+"4c7410a4604a37048ef17e49","Elliott Dental","Professional & Other Places::Medical Center::Dentist's Office",33.34888975877361,-111.892563325075
+"4c77f761bd346dcbf07bf0ef","Great Clips","Shop & Service::Salon / Barbershop",33.25971896666667,-111.85726761817932
+"4c783db62d3ba1436c4b8ad0","Staples","Shop & Service::Paper / Office Supplies Store",33.24527387723016,-111.84378468648944
+"4c792416794e224b994a6428","Wash Works","Shop & Service::Laundry Service",33.29687376,-111.84136561
+"4c7984db97028cfadd72dbfe","Bowling Dynamics","Shop & Service::Sporting Goods Shop",33.30413374,-111.94893723333334
+"4c7a97b7df08a1cd592dde5d","Wildflower Bread Company","Food::Bakery",33.30160526258736,-111.89743638038635
+"4c7ae606794e224bb71c6a28","Goodwill","Shop & Service::Thrift / Vintage Store",33.31949090292586,-111.86038392044888
+"4c7c5ad4744d8cfae599ba37","Sundance Park","Outdoors & Recreation::Park",33.3176727808352,-111.94870948791504
+"4c7cc18d3e90a1cdb05143be","Gila Springs Apartments","Professional & Other Places::Building",33.30935037973528,-111.94287843223385
+"4c7d88d6d598a0933239c362","Corvette Cafe","Food::American Restaurant",33.30385971069336,-111.94790649414062
+"4c7dc3cf10916dcb6c9b2a96","CircleK","Shop & Service::Gas Station / Garage",33.306162636537984,-111.7903477312297
+"4c7dc82db33a224b4548d981","Chase's Diner","Food::Diner",33.34086227416992,-111.86305236816406
+"4c7ffad3dc018cfa2e69b86c","McDonalds (Chandler Fashion Center)","Food::Fast Food Restaurant",33.30224609375,-111.89796447753906
+"4c8119a6309aef3b0683b981","Play N Trade","Shop & Service::Video Game Store",33.24640442993456,-111.84270858764648
+"4c83a89f74d7b60c8f678bd8","St Andrew the Apostle Catholic Faith Community","Professional & Other Places::Spiritual Center::Church",33.32091394641703,-111.90115687952242
+"4c855b1dd8086dcb584a9152","Airworx","Shop & Service::Gym / Fitness Center::Gym",33.321433639775634,-111.92694325289393
+"4c869d86d8086dcb7e019c52","Gila River Memorial Airport","Travel & Transport::Airport",33.27342,-111.8873
+"4c8943b5a0ffb60c150d29c5","Genius Room","Shop & Service::Electronics Store",33.301731,-111.899523
+"4c8957c6bbec6dcbdb7adb58","Del Taco","Food::Mexican Restaurant",33.32104,-111.87412798404694
+"4c8968bbf0e195212703261d","apache park","Outdoors & Recreation::Park",33.326440523363814,-111.85051918029785
+"4c8982aa52a98cfa63c124e9","CRS Chapter Leadership Training","Professional & Other Places::Convention Center::Meeting Room",33.266752288528316,-111.99215067374452
+"4c89bcdf52a98cfa36cb26e9","Sheraton Wild Horse Pass Resort & Spa","Travel & Transport::Hotel::Resort",33.26659077701403,-111.99272990226746
+"4c8be0fb5e048cfad49ac7cd","Spirit Of Halloween","Shop & Service::Miscellaneous Shop",33.31947315,-111.96855968333334
+"4c8c1b5cc37a6dcb6162f47a","Uncle Bear's Bar and Grill","Nightlife Spot::Sports Bar",33.27737296436756,-111.87567891899286
+"4c8d14b1f87e224bf17f3a05","Z Tejas","Food::Mexican Restaurant",33.31401824951172,-111.96952819824219
+"4c915feb51d9b1f727268046","Super Cuts","Professional & Other Places::Building",33.29606294631958,-111.89882576465607
+"4c96b2dc533aa093ca36d445","Darque Tan","Shop & Service::Tanning Salon",33.3492267666667,-111.877318
+"4c99252f78fc236a6c6b2a97","Dobson Towne Centre Pool","Nightlife Spot::Cocktail Bar",33.33287273999207,-111.87584194115846
+"4c9b797ca004a1cd3a2d516e","Professional marketing","Professional & Other Places::Office",33.3021236573749,-111.96830353769725
+"4c9c07c846978cfae8bb8a7f","Pho Chandler","Food::Vietnamese Restaurant",33.24650095,-111.83899104595184
+"4c9cc99c8afca0935a64f015","The Nest Haunted House","Arts & Entertainment::General Entertainment",33.270986296319684,-111.98123931884766
+"4c9d899f46978cfa3708997f","Lush","Nightlife Spot::Karaoke Bar",33.3361575221909,-111.86013221740723
+"4ca3d7529cbf9c744e71d24b","Dunkin Doughnuts","Food::Donut Shop",33.335567474365234,-111.84120178222656
+"4ca4db797f84224b83f6d058","Chandler Endoscopy Center","Professional & Other Places::Medical Center::Doctor's Office",33.29063502494089,-111.87799702630397
+"4ca5eb2e7334236aa8701a58","Rally's Hamburgers","Food::Burger Joint",33.306579323271,-111.86008116397248
+"4ca7aab48a65bfb736212d22","NY 54 Pizza & Ristorante","Food::Pizza Place",33.24729537963867,-111.84110260009766
+"4ca7cfa8f47ea143a3ba6e21","Taste Of Chandler","Food::Restaurant",33.303287506103516,-111.84165954589844
+"4cacc333a6e08cfa0533ae94","Audi Chandler","Shop & Service::Car Dealership",33.325902650446984,-111.96948051452637
+"4caeb227c5e6a1cd0d24c7f6","TBO - Headquarters, House Of 1000 Cocks","Nightlife Spot::Strip Club",33.26754570007324,-111.78706884384155
+"4cafcb7dcbab236a113d9b73","Fatburger","Food::Burger Joint",33.28192901611328,-111.97308349609375
+"4cb13a7d39458cfa8f0e0aa0","New Hope Church","Professional & Other Places::Spiritual Center::Church",33.30649164,-111.95083466
+"4cb79092035d236ad27ec64e","Yogis Grill","Food::Japanese Restaurant",33.305912017822266,-111.94636535644531
+"4cba0c90adcd54810bb820a2","Goodwill","Shop & Service::Department Store",33.290454,-111.83847264
+"4cba1472dd41a35d4c11e6a0","Good Food Market","Food::American Restaurant",33.23473358154297,-111.85722351074219
+"4cbf8a888db3b60cc2177978","Inner Vision Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",33.31919567690048,-111.875207319123
+"4cc25a3f42d1b60ce73a1013","123 Washington","Professional & Other Places::Building",33.305558616666666,-111.83952068333333
+"4cc4b1f842d1b60c253e1f13","Theater 19","Arts & Entertainment::Movie Theater",33.297706604003906,-111.90006256103516
+"4ccb6711ee23a1438d3a17a8","Bashas'","College & University::College Classroom",33.253501362756786,-111.85820640228465
+"4ccc1a927c2ff04d4da6967e","Walmart Supercenter","Shop & Service::Food & Drink Shop::Grocery Store",33.28006368889632,-111.7933988571167
+"4cceed17dd919eb03e71139e","Voting at ENVIRONMENTAL EDUCATION CENTER","Professional & Other Places::Voting Booth",33.233806,-111.771684
+"4cceed18dd919eb07571139e","Voting at KNIGHTS OF COLUMBUS/CHANDLER","Professional & Other Places::Voting Booth",33.306657,-111.831859
+"4cceed19dd919eb0b371139e","Voting at JORDAN SCHOOL","Professional & Other Places::Voting Booth",33.352902,-111.883682
+"4ccf16ee3bd6236a52968321","Cigna Center","Professional & Other Places::Medical Center::Doctor's Office",33.30559242,-111.87154769897461
+"4ccf2257de0f6dcbce4b6263","PayPal","Professional & Other Places::Office::Coworking Space",33.287293,-111.892469
+"4cd0a2962fd9b60cfb9b82eb","Chandler City Hall","Professional & Other Places::Government Building::City Hall",33.30104481859159,-111.84136211872101
+"4cd0f8372fd9b60c6f8684eb","Chandler Scolastic Academy","Professional & Other Places::School",33.34682948,-111.8772095
+"4cd1c7a26449a093ab0bd2cf","Yoli's Cafe","Food::Café",33.29987335205078,-111.84258270263672
+"4cd6e43e886cb60cbd378c89","Chandler Regional Medical Center ER","Professional & Other Places::Medical Center::Emergency Room",33.29676407539467,-111.87391478589049
+"4cd97f5a1891236a5ebc3b0b","Martin's Farm","Outdoors & Recreation::Farm",33.22445049356972,-111.77420243800312
+"4cdb0a65d6656a31cb76fc3e","Dessie's Cafe","Food::Café",33.32021713256836,-111.9129638671875
+"4cdd6dc7901e9eb020b4c2ef","Williams-Sonoma","Shop & Service::Furniture / Home Store",33.302047217385805,-111.89980613232507
+"4ce5f2cf678aa09321a1d9ea","Starbucks","Food::Coffee Shop",33.299896240234375,-111.89881134033203
+"4ceb20100f196dcb960956ae","El Palacio Resturaunt & Cantina","Food::Mexican Restaurant",33.27815246582031,-111.79068756103516
+"4cf17c3a7bf3b60cd10e607f","Wild Horse Pass Hotel & Casino","Arts & Entertainment::Casino",33.28179092417391,-111.97417218554637
+"4cfac7957945224b2a3982e7","Tarwater Elementary","Professional & Other Places::School",33.272187585599035,-111.86657877944464
+"4cfd0853feec6dcb0ccf4f36","Bank of America - Bldg B","Professional & Other Places::Office",33.3033209703934,-111.887003122838
+"4cfe7bb4c671721e9962d318","The Old Spaghetti Factory","Food::Italian Restaurant",33.29997323964646,-111.89849853515625
+"4d003c2d1ebe6dcb94428691","Ovations Live Showroom","Arts & Entertainment::Concert Hall",33.28139113360375,-111.97420120239258
+"4d014e46895a2c0fc8c3c7c3","ALDO","Shop & Service::Clothing Store",33.30156624321803,-111.89828071900078
+"4d0be188f29c236ac4f1bee7","Coach and Willies","Nightlife Spot::Sports Bar",33.3020715492473,-111.84129238128662
+"4d0d4c541f6bf04dd7a37c31","Chandler Tumbleweed Tree","Outdoors & Recreation::Plaza",33.3038022087652,-111.84150818253231
+"4d111480ed906a317bea1630","Papa Murphys","Food::Pizza Place",33.320274353027344,-111.91206359863281
+"4d19455f8312236aa3446bba","Villa Pallavicini","Residence::Residential Building (Apartment / Condo)",33.29540961509825,-111.88278784424512
+"4d1eb7315acaa35dcd42ba35","Otaku","Food::Sushi Restaurant",33.27115224526536,-111.79080247879028
+"4d45de5d1928a35d145ac770","BLD","Food::American Restaurant",33.27692542354385,-111.87485216363247
+"4d56d970ba5b224b6a1d2014","Oregano's Pizza Bistro","Food::Pizza Place",33.277695764432586,-111.8756890296936
+"4d593a927e2237048393ae73","Freeway Chevrolet","Shop & Service::Car Dealership",33.32267720233253,-111.96885081284864
+"4d5aab741d6cf04df27f44fe","GameStop","Shop & Service::Video Game Store",33.30095300890839,-111.89858347283584
+"4d5c251d6f6d6ea814ee61ec","SoZo Coffeehouse","Food::Coffee Shop",33.33341015963452,-111.86074376106262
+"4d5d40e16f6d6ea89bba6dec","Barnes And Noble Cafe. 3111 W. Chandler Blvd","Food::Café",33.30205228744208,-111.8985776506469
+"4d5d98b995298cfa87783400","Anderson Junior High School","Professional & Other Places::School",33.32464760072955,-111.87515258789062
+"4d8046c9ab666ea82ce802c1","Zoyo Neighborhood Yogurt","Food::Dessert Shop",33.31947663781476,-111.92917895638352
+"4d80fac6ab666ea852960fc1","Robert's Catering Inc.","Food::Bakery",33.313733589133555,-111.84103657928435
+"4d9115ac9d0f721efaa10f73","Kwik Mart","Shop & Service::Convenience Store",33.31362517145542,-111.85060836995417
+"4dbb02d0f7b1ab37dd39c800","San Ventura Fitness Center","Shop & Service::Gym / Fitness Center::Gym",33.32125887620501,-111.90404534339905
+"4dbb8ad3cda109aa6c85308e","Wingstop","Food::Wings Joint",33.30497967,-111.943402
+"4dc960bd7d8b48df4c903e6c","Target","Shop & Service::Department Store",33.25029851503399,-111.83788061141968
+"4df8f38c922e3504424d4e27","Grimaldis Pizzeria","Food::Pizza Place",33.31788795071815,-111.96400880813599
+"4dfc1273b61c84188eebb3f7","The Watering Hole","Nightlife Spot::Pub",33.31848489875717,-111.89298834546595
+"4e02dabf6284217c7f10f95b","Pillar @ PecosSprings","Residence::Residential Building (Apartment / Condo)",33.28960649089898,-111.85564756393433
+"4e0fd17c62e1d5a30d0f1893","Sheraton Wild Horse Pass Resort And Spa Pool","Outdoors & Recreation::Pool",33.2357288204653,-111.932683884625
+"4e10d50b1fc73bbd6228e312","Apex Tint","Shop & Service::Automotive Shop",33.31155814800084,-111.96351528167725
+"4e1cb77d483b6f94577ac50a","The Habit Burger Grill","Food::Burger Joint",33.31908930613612,-111.96969509124756
+"4e4dc263bd41b76bef92acb0","Starbucks Coffee","Food::Coffee Shop",33.30011915110867,-111.89872902755621
+"4e5427e088770c1e522719c3","Red Box","Arts & Entertainment::Movie Theater::Multiplex",33.218831,-111.789877
+"4e57ae14d4c0fccb89ac823c","Spay and Neuter Clinic","Professional & Other Places::Medical Center::Veterinarian",33.27502847324794,-111.86057605435656
+"4e7e3c4a29c29bf2fa4cf129","Chandler Arizona","Travel & Transport::Rest Area",33.30805587768555,-111.81734466552734
+"4e8de9e56c25640674240349","San Tan Credit Union","Shop & Service::Bank",33.320970966666664,-111.84345182
+"4e8f2ff749013919da53307f","Willis Junior High School","Professional & Other Places::School",33.297676520063355,-111.82364545236305
+"4e90faa56c25abdcf4ed5f5d","Vintage 95 Wine Lounge","Nightlife Spot::Wine Bar",33.302109552066405,-111.84260916666666
+"4ea0c68593ad755e36464d09","The Sushi Room","Food::Asian Restaurant",33.261167847960344,-111.88431908542866
+"4ea63676d5fbffc919294b4a","Fortune Growth Summit","Professional & Other Places::Convention Center",33.27060954619119,-111.99801921844482
+"4ebb5912b634c5f658728115","Vault 92","Nightlife Spot::Wine Bar",33.35646,-111.838969
+"4ec6cebf8b81dcfdc2a5de8e","2011 Arizona Balloon Classic","Arts & Entertainment::General Entertainment",33.27059707,-111.976469
+"4ecbb83d6da19ab5ef54bcc6","Chipotle Mexican Grill","Food::Mexican Restaurant",33.305242321304256,-111.89983524326078
+"4ed85e529911a3e78ac4f7d5","ICAN Festival of Trees","Professional & Other Places::Event Space",33.266946038623246,-111.99144397900301
+"4eda6fcd46907c1b42b46da3","Culver's","Food::Burger Joint",33.319800481084215,-111.89654902667414
+"4edfaed229c25233b6069ed2","Ideal Image Of Chandler","Shop & Service::Spa / Massage",33.3187778139911,-111.968862457
+"4ee696287ee50feb3565c93e","Pink Lotus Nails & Spa","Shop & Service::Spa / Massage",33.27622,-111.791629
+"4ee6b8e66c25be9632935df1","Sandoval Karate","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",33.27772087583305,-111.87528300799437
+"4eec58b70039cff10434513d","Rudy’s Country Store & Bar-B-Q","Food::BBQ Joint",33.305541719728495,-111.96759223937988
+"4eed28618231688f1e11d678","Amalfi Pizzeria","Food::Italian Restaurant",33.23366165161133,-111.85687255859375
+"4f0494ce46905a39849d0aed","Jolie's Place","Nightlife Spot::Speakeasy",33.33558869197276,-111.84438437917859
+"4f19a3f3e4b023910bcdf9a2","ATL Wings","Food::Wings Joint",33.33553577675039,-111.84345863994913
+"4f366f97e4b0beedd0e085ae","Rawhide Old West Town","Arts & Entertainment::General Entertainment",33.270136492661074,-111.98464606485543
+"4f39ccaee4b06ff102740337","Performance Plus","Shop & Service::Gym / Fitness Center::Gym",33.30397658425386,-111.95070335334441
+"4f4316d4e4b0fbc3c7d7c402","AM/PM","Shop & Service::Gas Station / Garage",33.23236127385766,-111.84204383061333
+"4f4e9d5ee4b0cc5f13a41e60","AZ Dynamics Gymnastics & Cheer","Professional & Other Places::Building",33.28032135867525,-111.79902879448714
+"4f5c03a9e4b04fe10e635915","Fat Willy's Family Sports Grill","Food::American Restaurant",33.23646245711357,-111.79016723951851
+"4f7e23ffe4b09855f1071d28","Jimmy Johns","Food::Sandwich Place",33.33920257155889,-111.84228254332706
+"503d0e8de4b09e16685a085c","neuromedicine center","Professional & Other Places::Building",33.348506927490234,-111.89220428466797
+"5057eff6e4b04bd69ef29ae9","Bourbon Jack's Grill","Nightlife Spot::Bar",33.302303912343206,-111.84192738538307
+"5065167ce4b0c6fb82d90410","Michael Kors","Shop & Service::Mall",33.301582198070996,-111.89969551076737
+"509b2fcae4b088fdfc329641","H&M","Shop & Service::Clothing Store",33.3014671315962,-111.89797214295344
+"50a5badbe4b08d8e7c85645d","Nando's Mexican Cafe","Food::Mexican Restaurant",33.276697251786906,-111.87431651923258
+"50c532bfe4b0de89d17b9dca","CHoP Chandler","Food::Steakhouse",33.26065314269019,-111.88542530495559

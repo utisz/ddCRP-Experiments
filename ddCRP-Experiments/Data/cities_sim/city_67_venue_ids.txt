@@ -1,0 +1,551 @@
+"40e0b100f964a520b4061fe3","Kilroy's Package Store","Shop & Service::Food & Drink Shop::Liquor Store",33.622561118249955,-84.47524167536803
+"4a4d456ef964a520ccad1fe3","The Feed Store","Food::American Restaurant",33.65054318440533,-84.44987164561053
+"4a6373c9f964a52013c51fe3","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.640419016832205,-84.43902969360352
+"4a776cc5f964a5206de41fe3","Wayfield Foods","Shop & Service::Food & Drink Shop::Grocery Store",33.66083928271918,-84.4476416325424
+"4a85e8d0f964a52099ff1fe3","La Fiesta","Food::Mexican Restaurant",33.6595404865968,-84.43520486354828
+"4a85f7f4f964a520ddff1fe3","Nathan's Famous","Food::Hot Dog Joint",33.64078903198242,-84.43605041503906
+"4a8a103af964a520c90920e3","Hartsfield-Jackson Atlanta International Airport (ATL)","Travel & Transport::Airport",33.640669114843895,-84.43606853485107
+"4a8f1512f964a520dd1320e3","MARTA - Airport Station","Travel & Transport::Subway",33.641276492705096,-84.44632530212402
+"4a945f06f964a520582120e3","Marriott","Travel & Transport::Hotel",33.62600142517111,-84.46022987365723
+"4a956cddf964a5202b2320e3","Brake Pad","Food::Burger Joint",33.662840095558415,-84.44661766290665
+"4a967d57f964a520372620e3","Georgia International Convention Center","Professional & Other Places::Convention Center",33.6457967488754,-84.45663806216952
+"4a970d2cf964a5202d2820e3","Budweiser Brewhouse","Food::Brewery",33.64082095971088,-84.43964123725891
+"4aa6adfdf964a520a04a20e3","Chick-fil-A Corporate Headquarters","Professional & Other Places::Office",33.61329693767525,-84.48966979980469
+"4aaa5f5bf964a520c45520e3","MARTA - College Park Station","Travel & Transport::Train Station",33.651692938509484,-84.44867718939699
+"4aabe9cdf964a520e55a20e3","Saucy Brews","Food::BBQ Joint",33.642705600183575,-84.44235563278198
+"4ab3f2fef964a520416f20e3","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.64189223996847,-84.43268157541752
+"4ab5a37ff964a520b77520e3","The Pecan","Food::Southern / Soul Food Restaurant",33.65360140800476,-84.44960832595825
+"4ab7b90cf964a520947a20e3","Manchester Arms","Nightlife Spot::Pub",33.65939,-84.444877
+"4aba62b2f964a5201b8120e3","Zab-E-Lee Thai & Sushi","Food::Thai Restaurant",33.6238394716523,-84.47651892900467
+"4ac011bef964a520ab9320e3","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.63899880363398,-84.4359827041626
+"4ac0ac3af964a5205d9420e3","Sheraton Gateway Hotel Atlanta Airport","Travel & Transport::Hotel",33.624735176801096,-84.45105582493979
+"4ac3344ff964a520189b20e3","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.640419016832205,-84.43902969360352
+"4ac7675af964a5200cb720e3","Woodward Academy","Professional & Other Places::School::High School",33.662890702773005,-84.4407818879284
+"4accbe26f964a5205ec920e3","Noodle","Food::Asian Restaurant",33.65437486641147,-84.44965633770609
+"4acf8dbaf964a5207ad420e3","Hertz Rental Car","Travel & Transport::Rental Car Location",33.639990275693535,-84.46358799934387
+"4ad50975f964a520700121e3","Mandarin Express","Food::Chinese Restaurant",33.64073,-84.436091
+"4ad7cd42f964a520e80e21e3","The Westin Atlanta Airport","Travel & Transport::Hotel",33.62676970963719,-84.45761203765869
+"4aeb5924f964a52039c121e3","PreFlight Airport Parking ATL","Professional & Other Places::Parking",33.646265234137225,-84.46540248469236
+"4af72b1ff964a520b60622e3","Thrifty Car Rental","Travel & Transport::Rental Car Location",33.63978250944061,-84.46436209851204
+"4b04421bf964a520a05222e3","Park 'N Fly Plus","Professional & Other Places::Parking",33.65156726993849,-84.4719672535038
+"4b1461b6f964a52044a223e3","Ruby Tuesday","Food::American Restaurant",33.62611756163462,-84.45306167006493
+"4b198ff7f964a52092df23e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",33.666348276128886,-84.46557160976177
+"4b1c64a0f964a520e40624e3","Concourse A","Travel & Transport::Airport::Airport Terminal",33.64088348399002,-84.43921208381653
+"4b25936af964a5200a7424e3","Delta Flight 1738 - ATL to DCA","Travel & Transport::Airport::Plane",33.638229,-84.43852
+"4b2ce2ccf964a52052ca24e3","Briarcliff Animal Clinic Too","Professional & Other Places::Medical Center::Doctor's Office",33.6590850502525,-84.4433856010437
+"4b304f09f964a520cbf824e3","Waffle House","Food::Breakfast Spot",33.65940113333333,-84.4357681274414
+"4b310593f964a52069fe24e3","Best Western Plus Hotel & Suites","Travel & Transport::Hotel",33.61405885600381,-84.44011535276076
+"4b316addf964a5209a0625e3","Krystal","Food::Burger Joint",33.642750259410064,-84.439297914505
+"4b34cf1cf964a520a42825e3","Burger King","Food::Burger Joint",33.63848966489681,-84.43907260894775
+"4b3e1825f964a520579825e3","Café Intermezzo","Food::Café",33.640695911016344,-84.43593978881836
+"4b43ea7ff964a520f9ed25e3","El Ranchero Mexican Restaurant","Food::Mexican Restaurant",33.618534207344055,-84.4739681482315
+"4b453b01f964a5209c0826e3","Asian Chao","Food::Asian Restaurant",33.64084552282594,-84.43970024585724
+"4b463b67f964a520e01a26e3","Arby's - ATL Concourse E","Food::American Restaurant",33.639976501464844,-84.44403076171875
+"4b463fd4f964a520781b26e3","Tech Showcase","Shop & Service::Electronics Store",33.64060435739271,-84.4426292181015
+"4b48c113f964a5207d5526e3","Delta International Check In","Travel & Transport::Airport",33.64057979420885,-84.44475889205933
+"4b4911c8f964a5209d6426e3","Joe's On Sullivan","Food::American Restaurant",33.624412,-84.459609
+"4b4a24b0f964a520347c26e3","SweetWater Draft House & Grill","Nightlife Spot::Bar",33.639204244728134,-84.43591833114624
+"4b4a36c6f964a520037f26e3","Sbarro","Food::Pizza Place",33.6408086781507,-84.4361087679863
+"4b4a7035f964a520a58726e3","Charley's Grilled Subs","Food::Sandwich Place",33.63982279810644,-84.43577349185944
+"4b4a7d59f964a5201d8926e3","Avis ATL Airport","Travel & Transport::Rental Car Location",33.639579396765754,-84.46346998214722
+"4b4a9612f964a520218b26e3","Waffle House","Food::Breakfast Spot",33.62310019,-84.474
+"4b4b6a08f964a520b39a26e3","ATL SkyTrain / Station","Travel & Transport::Airport::Airport Tram",33.64409895713634,-84.4559383392334
+"4b4e0106f964a520c7dd26e3","Days Inn College Park","Travel & Transport::Hotel::Motel",33.63273797244405,-84.45858069942793
+"4b4fb461f964a520b31127e3","Holiday Inn Atlanta Airport South","Travel & Transport::Hotel",33.62780598945882,-84.45259094238281
+"4b525db4f964a520a07927e3","Chili's Too","Food::American Restaurant",33.64091145110591,-84.43847974589181
+"4b52fbc7f964a520f48b27e3","PreFlight Airport Parking ATL","Professional & Other Places::Parking",33.646265234137225,-84.46540248469236
+"4b53999ef964a52019a427e3","World Changers Church International","Professional & Other Places::Spiritual Center::Church",33.595425290815925,-84.47344779968262
+"4b539a5cf964a52037a427e3","Aldi","Shop & Service::Food & Drink Shop::Grocery Store",33.596734496755154,-84.42850617151664
+"4b53ca00f964a5206dab27e3","Fairfield Inn & Suites","Travel & Transport::Hotel",33.62413396434433,-84.45565390471185
+"4b549beef964a5207ec227e3","Our Place Bakery Cafe","Food::Bakery",33.663292,-84.44652063333334
+"4b55208ff964a5201adc27e3","FedEx World Service Center","Shop & Service::Paper / Office Supplies Store",33.653816,-84.428658
+"4b55ce2ff964a520dcf027e3","AirTran Airways Atlanta Corporate Center","Professional & Other Places::Office",33.61353233503445,-84.4685132827583
+"4b588f2df964a520015e28e3","El Nopal Mexican Restaurant","Food::Mexican Restaurant",33.609850399124824,-84.47071687815499
+"4b589d49f964a520616128e3","Donnie's country cookin","Food::Southern / Soul Food Restaurant",33.611545,-84.4712687
+"4b58eebff964a520e57328e3","XpresSpa","Shop & Service::Spa / Massage",33.64085668787596,-84.43904042243958
+"4b5b10caf964a520c1e128e3","Starbucks","Food::Coffee Shop",33.642044640923174,-84.44246292114258
+"4b5c442af964a520122929e3","Domino's Express","Food::Pizza Place",33.64083873333333,-84.43943836
+"4b5d0a7ef964a520165029e3","Dunkin' Donuts","Food::Donut Shop",33.64075853544774,-84.4393206278493
+"4b5da9dff964a520ba6529e3","Starbucks","Food::Coffee Shop",33.64090134806145,-84.4447374343872
+"4b61c2d6f964a5200d212ae3","Wall Street Deli","Food::Sandwich Place",33.640898,-84.43925
+"4b638110f964a5201b7f2ae3","CNBC News & Gifts","Shop & Service::Newsstand",33.63786216959258,-84.43930596113205
+"4b6463d2f964a52063af2ae3","Dairy Queen","Food::Burger Joint",33.637630462646484,-84.46153259277344
+"4b65c61cf964a520d7fe2ae3","KFC","Food::Fried Chicken Joint",33.659423828125,-84.43488311767578
+"4b661beaf964a5201c142be3","Subway","Food::Sandwich Place",33.66351318359375,-84.44631958007812
+"4b6623a8f964a520d8152be3","On The Border","Food::Mexican Restaurant",33.63888268453786,-84.44246292114258
+"4b674e08f964a520f5462be3","A-Bar Wine & Beer Lounge","Nightlife Spot::Wine Bar",33.642812581414034,-84.43920270000912
+"4b6831a8f964a520476b2be3","Dollar Rent A Car","Travel & Transport::Airport",33.639781186973146,-84.46380858502496
+"4b69d2cff964a52072b62be3","American Airlines Admirals Club","Travel & Transport::Airport::Airport Lounge",33.641930862896785,-84.44255585998707
+"4b6cd3ddf964a5206c572ce3","South Baggage Claim","Travel & Transport::Airport::Airport Terminal",33.64032076384317,-84.44508075714111
+"4b6f78fcf964a520f2f12ce3","ATL Airport Dog Park","Outdoors & Recreation::Dog Run",33.64024037495053,-84.44658279418945
+"4b707167f964a520ba1a2de3","WallyPark Premier Airport Parking (ATL)","Professional & Other Places::Parking",33.64991190073208,-84.4722849675704
+"4b709e30f964a5208b252de3","39,000 feet above you","Travel & Transport::Airport::Plane",33.640836,-84.436848
+"4b735dcff964a520edaa2de3","Hyatt Place Atlanta Airport-South","Travel & Transport::Hotel",33.6272548069497,-84.45248603558889
+"4b754713f964a52017042ee3","TSA Security Check Point","Travel & Transport::Airport::Airport Terminal",33.640758435386324,-84.44265604019165
+"4b772d20f964a52003852ee3","Avis ATL Airport","Travel & Transport::Rental Car Location",33.639579396765754,-84.46346998214722
+"4b77304ff964a5202b862ee3","College Park, GA","Outdoors & Recreation::Other Great Outdoors",33.658811283333335,-84.44472068333333
+"4b78784df964a52078d02ee3","Country Inn & Suites By Carlson, Atlanta Airport South, GA","Travel & Transport::Hotel",33.61596156744892,-84.44917958167308
+"4b7969abf964a52040f82ee3","Budget Car and Truck Rental of Atlanta - ATL Airport","Travel & Transport::Rental Car Location",33.64028235579877,-84.46272325509199
+"4b7ae485f964a52039442fe3","Oceans 66","Nightlife Spot::Sports Bar",33.61757683,-84.4724624
+"4b7aec8ef964a5205d462fe3","McDonald's","Food::Fast Food Restaurant",33.61597736518965,-84.47332978248596
+"4b7b21d2f964a52054532fe3","runway 27-r","Travel & Transport::Airport",33.640717,-84.439083
+"4b7bd70af964a52026702fe3","Park 'N Fly","Travel & Transport::General Travel",33.647219734527376,-84.4530857909516
+"4b7dfc13f964a5209add2fe3","Courtyard Marriott Atlanta Airport","Travel & Transport::Hotel",33.62410441666667,-84.45639202
+"4b7ee042f964a520110630e3","TSA Security Check Point","Travel & Transport::Airport::Airport Terminal",33.640758435386324,-84.44265604019165
+"4b7ef1aff964a520480b30e3","Gate T13","Travel & Transport::Airport::Airport Gate",33.64296282498444,-84.44228589534788
+"4b805cb7f964a5206d6b30e3","T.G.I. Fridays","Food::American Restaurant",33.64074057128524,-84.43555355072021
+"4b83c71df964a520141031e3","Advantage Rent A Car","Travel & Transport::General Travel",33.63993835449219,-84.4633560180664
+"4b85b454f964a520fd6d31e3","National Car Rental","Travel & Transport::Rental Car Location",33.63956153242008,-84.46383476257324
+"4b86ee4bf964a52091a631e3","AiirTran flt 20 35000 ft","Travel & Transport::Airport::Plane",33.640219,-84.432522
+"4b8989a1f964a520e83f32e3","Tropical Cuisine","Food::Caribbean Restaurant",33.62211227416992,-84.476506
+"4b8dc790f964a520590d33e3","Sheraton Gateway Hotel Atlanta Airport","Travel & Transport::Hotel",33.624735176801096,-84.45105582493979
+"4b8ebefcf964a520923433e3","Cafe Brioche Doree Bakery","Food::Bakery",33.640865325927734,-84.43914031982422
+"4b911ef3f964a520e1a433e3","Gate A24","Travel & Transport::Airport::Airport Gate",33.641882352727656,-84.4392949913825
+"4b916641f964a52053b933e3","Gate A33","Travel & Transport::Airport::Airport Gate",33.643427,-84.43909406
+"4b93f066f964a520515b34e3","Delta Sky Lounge - ATL","Nightlife Spot::Bar",33.639147,-84.435909
+"4b953ddaf964a520589734e3","Atlanta International Airport Concourse C Gate 12","Travel & Transport::Airport::Airport Gate",33.638997,-84.432632
+"4b98405ff964a520523735e3","The Sky at 35,000 feet.","Travel & Transport::Airport::Plane",33.640777746375804,-84.43630570250258
+"4b9946a8f964a520886f35e3","Gate B7","Travel & Transport::Airport::Airport Gate",33.63859149051023,-84.43578781707319
+"4b994b9af964a520d47035e3","Urban Pet Supply","Shop & Service::Pet Store",33.65428923333333,-84.44971053333333
+"4b9a5618f964a5201dad35e3","delta atlanta b terminal","Travel & Transport::Airport::Airport Terminal",33.63855957984924,-84.43595051765442
+"4b9aab3ef964a5206bcb35e3","Sysco Atlanta","Shop & Service::Food & Drink Shop::Grocery Store",33.63112914755759,-84.4609808921814
+"4b9b1075f964a520edef35e3","Southern Living News","Shop & Service::Gift Shop",33.64121508521163,-84.43588882684708
+"4b9cea48f964a520258236e3","Gate A26","Travel & Transport::Airport::Airport Gate",33.64212670286399,-84.43929858505726
+"4b9d2e94f964a520209736e3","Checkers","Food::Fast Food Restaurant",33.640798218063864,-84.43612623777257
+"4b9d4d7ff964a520d1a136e3","Gate A19","Travel & Transport::Airport::Airport Gate",33.641162051432,-84.43908601999283
+"4b9d82d6f964a52016b136e3","Gate B22","Travel & Transport::Airport::Airport Gate",33.64135688063039,-84.43605244159698
+"4b9e9ff7f964a520d0f436e3","Air Tran at 35,000 feet","Travel & Transport::Airport::Plane",33.640004,-84.4326476
+"4b9ea2dbf964a520bdf536e3","ExpressJet Airlines A-Tech Center","Professional & Other Places::Office",33.656316659829535,-84.43147659301758
+"4ba0ceb0f964a520eb7e37e3","Gate T3","Travel & Transport::Airport::Airport Gate",33.638161402799106,-84.44228053092957
+"4ba11379f964a5205d9537e3","Michon's Smoked Meats & Seafood","Food::Southern / Soul Food Restaurant",33.659379744632915,-84.44089114665985
+"4ba16a0df964a520d5b437e3","Park N Ride","Professional & Other Places::Building",33.6357555629964,-84.4531062952999
+"4ba227e7f964a520e3df37e3","Gate A5","Travel & Transport::Airport::Airport Gate",33.63837801126252,-84.4390980899334
+"4ba25dd1f964a520bbf137e3","Subway #46678","Food::Sandwich Place",33.61345672607422,-84.44868469238281
+"4ba26ef1f964a52092f837e3","Springhill Suites","Travel & Transport::Hotel",33.643809,-84.45728668000001
+"4ba3ebdaf964a520c86d38e3","SONIC Drive In","Food::American Restaurant",33.5931667,-84.46776688098907
+"4ba557ccf964a520f6fc38e3","Concourse A - ATL","Travel & Transport::Airport::Airport Terminal",33.64124076471423,-84.43920135498047
+"4ba64903f964a520794239e3","Delta 1027 ATL-PHX","Travel & Transport::Airport::Plane",33.640306,-84.436492
+"4ba68402f964a520ff5939e3","Kiehl's","Shop & Service::Cosmetics Shop",33.64034652709961,-84.43585205078125
+"4ba6b439f964a520346a39e3","Concourse A","Travel & Transport::Airport::Airport Terminal",33.64088348399002,-84.43921208381653
+"4ba6f03ff964a520ba7839e3","Gate B18","Travel & Transport::Airport::Airport Gate",33.64047260932443,-84.4360202550888
+"4ba82ddcf964a520b9cf39e3","Ramada Atlanta Airport Conference Center","Travel & Transport::Hotel::Motel",33.6583377,-84.435108
+"4ba96449f964a5201e243ae3","Ben & Jerry's","Food::Ice Cream Shop",33.64225900664468,-84.43913698196411
+"4baa6570f964a5203c663ae3","Park'N Ticket","Professional & Other Places::Parking",33.648059224877315,-84.45469536045361
+"4baa95c6f964a52002773ae3","Delta 1019 ATL To DAB","Travel & Transport::Airport::Plane",33.640104,-84.438808
+"4babf0b0f964a52065d73ae3","Chevron Food Mart","Shop & Service::Gas Station / Garage",33.6591510795289,-84.4480722623684
+"4babf83ef964a5205ada3ae3","Smoking Lounge","Travel & Transport::Airport::Airport Lounge",33.64081,-84.439479
+"4bac1d28f964a52023e53ae3","Park/Ride","Professional & Other Places::Parking",33.634886540766054,-84.45250654014713
+"4bac9fa0f964a520f1fe3ae3","Wendy's","Food::Fast Food Restaurant",33.64072036743164,-84.44475555419922
+"4bad20dff964a5208a303be3","Concourse B","Travel & Transport::Airport::Airport Terminal",33.640704843072,-84.43585395812988
+"4bae744cf964a52069b43be3","Gate B12","Travel & Transport::Airport::Airport Gate",33.63952602942074,-84.43597753800881
+"4baf4c93f964a5205ef63be3","ATL Gate A6","Travel & Transport::Airport::Airport Gate",33.638581,-84.439269
+"4bb00fe2f964a520ba343ce3","Rental Car Center","Travel & Transport::Rental Car Location",33.63966871843858,-84.463791847229
+"4bb09193f964a5207d4c3ce3","ATL South Security T Gate","Travel & Transport::Airport::Airport Terminal",33.64033506374933,-84.44657529744711
+"4bb0bbbdf964a52071583ce3","Gate T2","Travel & Transport::Airport::Airport Gate",33.63759866486319,-84.44228053092957
+"4bb0ce78f964a520b75e3ce3","Gate A18","Travel & Transport::Airport::Airport Gate",33.640673580873234,-84.43936094641685
+"4bb1e7e0f964a520c4a93ce3","Delta from Atl to Costa Rica","Travel & Transport::Airport::Plane",33.640873,-84.433831
+"4bb20ec9f964a5204bb53ce3","Villa Pizza","Food::Pizza Place",33.640968322753906,-84.42584991455078
+"4bb2591935f0c9b68927bb83","Gate A2","Travel & Transport::Airport::Airport Gate",33.63767849794896,-84.43924829363823
+"4bb39762a32876b069ed01fe","QuikTrip","Shop & Service::Gas Station / Garage",33.608583,-84.435688
+"4bb3dc4214cfd13ad5a816ab","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.640419016832205,-84.43902969360352
+"4bb3e84c0cbcef3b0776582a","Delta JFK-FLL","Travel & Transport::Airport::Plane",33.640314,-84.436288
+"4bb49bb0f038a5930732daf0","Sleep Inn","Travel & Transport::Hotel",33.626395,-84.4536389
+"4bb4e451b1edef3bb8412cdd","Gate B8","Travel & Transport::Airport::Airport Gate",33.63860952350659,-84.436003175926
+"4bb63584ef159c74de9575f7","Gate B2","Travel & Transport::Airport::Airport Gate",33.637722601510085,-84.4360376894474
+"4bb75b912ea19521e3cdac2f","Gate A29","Travel & Transport::Airport::Airport Gate",33.643007235474144,-84.4390488807307
+"4bb94b181261d13a9989e998","Gate A9","Travel & Transport::Airport::Airport Gate",33.638958608579976,-84.43901896476746
+"4bba04b253649c74e87f48fb","Gate T11","Travel & Transport::Airport::Airport Gate",33.64177097688004,-84.44225504994421
+"4bba2f13935e95211cd82790","On The Plane Atlanta","Travel & Transport::Airport::Plane",33.637643,-84.439743
+"4bba60d71261d13ab98fea98","Gate B4","Travel & Transport::Airport::Airport Gate",33.63800285399085,-84.43604171276093
+"4bbb4b4d3db7b7137d23249a","T.G.I. Friday's Airport","Food::American Restaurant",33.640830055491406,-84.4355160535827
+"4bbb4f77b35776b052c9cb01","Gate A10","Travel & Transport::Airport::Airport Gate",33.63914841839236,-84.43928986787796
+"4bbbe17ded7776b0091a3f51","Hampton Inn Atlanta Airport","Travel & Transport::Hotel",33.62629462671237,-84.45116347641903
+"4bbde80ea8cf76b03c4fb2fd","10,000 feet","Outdoors & Recreation::Park",33.639488,-84.435782
+"4bbe54e06a93b7136f1aebd2","Samuel Adams Atlanta Brew House","Food::Brewery",33.6396376019044,-84.4392283365163
+"4bbf6049b083a5935e4fa3e9","Gate T11","Travel & Transport::Airport::Airport Gate",33.64177097688004,-84.44225504994421
+"4bbfe4ea2a89ef3b63d7ef88","Up In The Air","Travel & Transport::Airport::Plane",33.643458,-84.439687
+"4bc0eae3920eb7137ed9192c","Chevron Station","Shop & Service::Gas Station / Garage",33.58863634152188,-84.4693844815592
+"4bc1f720f8219c74ee00b410","Gate T10","Travel & Transport::Airport::Airport Gate",33.64154879447216,-84.44225639104872
+"4bc33d74dce4eee12682719d","La Quinta Inn & Suites Atlanta Airport","Travel & Transport::Hotel",33.62401582386874,-84.45390083326654
+"4bc33dd8dce4eee14382719d","Quality Hotel Conference Center","Travel & Transport::Hotel::Motel",33.61551459742065,-84.43970004624761
+"4bc33deedce4eee14682719d","Quality Inn & Suites","Travel & Transport::Hotel",33.61779478937022,-84.4711114667055
+"4bc3560174a9a5938662d4f6","Delta Atlanta To New York","Travel & Transport::Airport",33.64053816183671,-84.43604419657022
+"4bc35768461576b0477c7e32","Gate T9","Travel & Transport::Airport::Airport Gate",33.64109884542765,-84.4422483444216
+"4bc365b274a9a593dd7cd4f6","Gate B16","Travel & Transport::Airport::Airport Gate",33.64017785020441,-84.43604037165642
+"4bc37cc0dce4eee1a6a0719d","Hilton Garden Inn Atlanta Airport/Millenium Center","Travel & Transport::Hotel",33.62610862806606,-84.46280479431152
+"4bc388eedce4eee162a5719d","Clarion Hotel Atlanta Airport","Travel & Transport::Hotel",33.58348846435547,-84.37545776367188
+"4bc390a8abf4952165f1c393","Peachtree Orthopaedic Clinic","Professional & Other Places::Medical Center::Doctor's Office",33.614735,-84.44830195
+"4bc3a343b492d13a350ea960","Barrett Park","Outdoors & Recreation::Playground",33.66309927364174,-84.45613573386736
+"4bc3b5f2461576b090137f32","Gate B11","Travel & Transport::Airport::Airport Gate",33.639445096365506,-84.43583909306226
+"4bc3c426dce4eee1a6be719d","Holiday Inn Express","Travel & Transport::Hotel",33.6303073031859,-84.45832014083862
+"4bc45420dce4eee1a218729d","Days Inn","Travel & Transport::Hotel::Motel",33.614502,-84.4394
+"4bc4657074a9a593b7b7d5f6","TSA Security Check Point","Travel & Transport::Airport::Airport Terminal",33.640758435386324,-84.44265604019165
+"4bc47f13461576b005f57f32","Saucy Brews","Food::BBQ Joint",33.642705600183575,-84.44235563278198
+"4bc4c7d22a89ef3bbfd1f688","Woodward Lower School","College & University::College Academic Building",33.662129293121495,-84.4381926127054
+"4bc504a00191c9b6dc00ebb1","Gate A6","Travel & Transport::Airport::Airport Gate",33.638525394029216,-84.4393327832222
+"4bc5c2b56c26b71300acebf3","Paschal's Southern Cuisine","Food::Southern / Soul Food Restaurant",33.64084328981578,-84.43936765193939
+"4bc5cbec0a30d13a98765a9c","Gate A20","Travel & Transport::Airport::Airport Gate",33.64131222068115,-84.43933546543121
+"4bc7273faf07a593bb957e2d","Gate B10","Travel & Transport::Airport::Airport Gate",33.63898987140139,-84.43615436553955
+"4bc8e3ee0687ef3b6bd7d8cc","Comfort Inn & Suites Airport North","Travel & Transport::Hotel",33.65997177445595,-84.43517250170767
+"4bc9013d0687ef3bcc2cd9cc","Park/Ride","Professional & Other Places::Parking",33.634886540766054,-84.45250654014713
+"4bc9e457cc8cd13ad35cbccf","Houlihan's","Food::American Restaurant",33.64203570900655,-84.43923354148865
+"4bca0f4f3740b7135aef5f65","First Class ATL To MKE","Travel & Transport::Airport::Plane",33.643358,-84.43874
+"4bcae146511f95217c80b0c7","Gate T7","Travel & Transport::Airport::Airport Gate",33.63982503114306,-84.44228053092957
+"4bcb60ae68f976b0ecf66083","Bar One","Nightlife Spot::Cocktail Bar",33.63781080856454,-84.43913698196411
+"4bcc2c05b6c49c749c469391","Delta Baggage Claim - ATL","Travel & Transport::Airport",33.640562,-84.446638
+"4bcc8057b6c49c7484cd9391","Chili's To Go","Food::American Restaurant",33.637578567011744,-84.43898677825928
+"4bccdbaecc8cd13a50b9c1cf","Samuel Adams Atlanta Brew House","Nightlife Spot::Bar",33.64277649669481,-84.43267218768597
+"4bcced2ecc8cd13adfe1c1cf","Gate B13","Travel & Transport::Airport::Airport Gate",33.63964582976877,-84.43580701947212
+"4bcd0c15937ca593ed52ac92","South Terminal Hartsfield-Jackson","Travel & Transport::Airport::Airport Terminal",33.64045474516407,-84.44426536560059
+"4bcd124668f976b037df6383","Gogo Wireless (in air)","Travel & Transport::Airport::Plane",33.641118,-84.43603806666667
+"4bcda482fb84c9b6d045223e","Gate T4","Travel & Transport::Airport::Airport Gate",33.63878442979578,-84.44228053092957
+"4bcf571441b9ef3bc03df8e5","Baggage Claim 4 North","Travel & Transport::Airport::Airport Terminal",33.64117,-84.44541849
+"4bcf7ecc0ffdce72728cb2c0","Embassy Suites","Travel & Transport::Hotel",33.627945140509674,-84.46325506630201
+"4bd04a9d462cb7139008d807","Abica Coffee","Food::Coffee Shop",33.64276142421306,-84.4391879439354
+"4bd0b9999854d13a724ef84d","TSA Security Check Point","Travel & Transport::Airport",33.640785217285156,-84.44438934326172
+"4bd1af5b5e0cce7232d5a184","Sheraton Gateway Hotel Atlanta Airport","Travel & Transport::Hotel",33.624735176801096,-84.45105582493979
+"4bd1c60fb221c9b6ff1ed6d0","Delta 30 @ 35000 feet","Travel & Transport::Airport::Plane",33.641231060028076,-84.43286061286926
+"4bd1d22241b9ef3b8da8fce5","College Park Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",33.65369465582719,-84.46521798405908
+"4bd1daea046076b0d6a47271","Gate A21","Travel & Transport::Airport::Airport Gate",33.64141047253887,-84.43901762366295
+"4bd319609854d13a73dafc4d","Atlanta Bread Company","Food::Bakery",33.64085938221579,-84.44487834918414
+"4bd44601b221c9b6a93bdbd0","Baggage Claim - Hartsfield-Jackson Atlanta International Airport (ATL)","Travel & Transport::Airport",33.640493,-84.44567
+"4bd483f24e32d13a5943bf80","Barbecue Kitchen","Food::BBQ Joint",33.659525683333335,-84.436085
+"4bd4c97f29eb9c743d6292e1","South Baggage Claim","Travel & Transport::Airport::Airport Terminal",33.64032076384317,-84.44508075714111
+"4bd4f1b95631c9b69e7aa330","Popoola Tajudeen Cab","Travel & Transport::Taxi",33.648989,-84.443999
+"4bd5c3be9649ce7220a3511d","Microtel Inn Atlanta Airport","Travel & Transport::Hotel::Motel",33.6233927802786,-84.45533752441406
+"4bd6f1776f649521749771ec","Gate T5","Travel & Transport::Airport::Airport Gate",33.63923550746037,-84.44228053092957
+"4bd7454932a295211b2cd6b8","Gate B1","Travel & Transport::Airport::Airport Gate",33.637608518439855,-84.43581858267201
+"4bd76128e914a5933d1b51fa","Gate A28","Travel & Transport::Airport::Airport Gate",33.6429296944343,-84.43928986408778
+"4bd8b754f645c9b69be4a8e0","Gate A4","Travel & Transport::Airport::Airport Gate",33.638387501827054,-84.43925835192204
+"4bd8bbc1e914a593ac4654fa","Chili's To Go","Food::American Restaurant",33.64116287231445,-84.42933654785156
+"4bd9d8183904a59301d8439e","AirTran Airways Atlanta Corporate Center","Professional & Other Places::Office",33.61353233503445,-84.4685132827583
+"4bdadf703904a593d4a9479e","Gate T1","Travel & Transport::Airport::Airport Gate",33.63727933177994,-84.44231271743774
+"4bdaf0982a3a0f47c299acb6","The smallest plane on earth","Travel & Transport::Airport::Plane",33.64322,-84.438039
+"4bdd637db0f5c928f8424ce3","Starbucks","Food::Coffee Shop",33.64017394240626,-84.43925097584724
+"4bdd7221b0f5c928505d4ce3","Gate B6","Travel & Transport::Airport::Airport Gate",33.63834228206897,-84.43604171276093
+"4bdf3696ffdec928161feba1","33,000 Feet","Travel & Transport::General Travel",33.640395,-84.435274
+"4bdf46010ee3a593409533b0","US Customs and Homeland Security","Travel & Transport::Airport::Airport Gate",33.64073637,-84.42933
+"4be09d43652b0f47f9047311","Brookstone","Shop & Service::Electronics Store",33.640316595459375,-84.4424843788147
+"4be41923d4f7c9b66fa62320","Delta DL 1655 ATL-LAX","Travel & Transport::Airport::Plane",33.640704843072,-84.43928718566895
+"4be42bb6d4f7c9b6c1be2320","Park N Fly Bus","Travel & Transport::Bus Station::Bus Line",33.64055908996813,-84.44730840490972
+"4be4a64bd4f7c9b6737a2420","ATL D Terminal","Travel & Transport::Airport::Airport Terminal",33.63766860961914,-84.45358276367188
+"4be5ac17bcef2d7f211f04e5","Hartsfield-Jackson Atlanta International Airport (ATL)","Travel & Transport::Airport",33.640669114843895,-84.43606853485107
+"4be7097b2468c92886ff0143","Delta Sky Priority Check-in","Travel & Transport::Airport",33.64014056894165,-84.44402216630485
+"4be72b78bcef2d7f59f405e5","Zaxby's","Food::Fast Food Restaurant",33.58856159416024,-84.47181701660156
+"4be77dc29a54a5939eff0811","Gate T2","Travel & Transport::Airport::Airport Gate",33.63759866486319,-84.44228053092957
+"4be8875c88ed2d7f15fdcb1d","Old National Discount Mall","Shop & Service::Flea Market",33.61576328255138,-84.47448842085097
+"4be9a8a86295c9b61c7e8508","Hot Cafe","Food::Thai Restaurant",33.61106490711562,-84.43636210559002
+"4be9c6d1b3352d7f316554d2","Concourse A","Travel & Transport::Airport::Airport Terminal",33.64088348399002,-84.43921208381653
+"4bec362d61aca5930cf78500","Atlanta Airport Hotel Shuttles","Travel & Transport::Bus Station",33.64052620178331,-84.44703340530394
+"4beca90a2cf820a14716b91c","Delta Air Lines","Travel & Transport::General Travel",33.63990064340753,-84.44406318133879
+"4bedc13fa40fc9280b74820c","Hertz Rental Car","Travel & Transport::Rental Car Location",33.639990275693535,-84.46358799934387
+"4bedf571767dc9b61bcad3e9","Courtesy Shuttles","Travel & Transport::General Travel",33.640742897987366,-84.447028
+"4bee79862c082d7fa3743042","Economy Parking - ATL Airport","Travel & Transport::Airport",33.63936276904988,-84.44705720128768
+"4beeac702c082d7f49ad3042","Gate A27","Travel & Transport::Airport::Airport Gate",33.64263876960675,-84.43908477193176
+"4bf0ca7e3a15d13a48f73e9f","The Tavern @ J.R. Crickets","Food::American Restaurant",33.61826375,-84.47251185
+"4bf1896099d02d7f323fc948","Seattle's Best Coffee","Food::Coffee Shop",33.63832473754883,-84.4359359741211
+"4bf284349319a593ad01cb51","Gate B16","Travel & Transport::Airport::Airport Gate",33.64017785020441,-84.43604037165642
+"4bf44fe4cad2c9280ec69b99","36,000 feet above Jackson, Mississippi","Travel & Transport::Airport::Plane",33.640978932380676,-84.436741
+"4bf559aae5eba593b6a42090","Atl Counourse A","Travel & Transport::Airport::Airport Terminal",33.63871765136719,-84.43980407714844
+"4bf57d11cad2c92868209d99","Atl Airport","Travel & Transport::Airport",33.633561,-84.435
+"4bf59827004ed13ab7e640a0","Budweiser Brewhouse","Food::Brewery",33.64082095971088,-84.43964123725891
+"4bf5b23a5efe2d7f60ce6534","Philips Seafood Restaurant","Food::Seafood Restaurant",33.64115524291992,-84.42790985107422
+"4bf5b6324d5f20a100fc97fe","The Goddamn Sky","Travel & Transport::Airport::Plane",33.640475,-84.439154
+"4bf5f177bfeac928de9d9336","Gate A17","Travel & Transport::Airport::Airport Gate",33.64011085935457,-84.43902164697647
+"4bf6a3f89abec9b65a2326e8","Gate A7","Travel & Transport::Airport::Airport Gate",33.63866831041058,-84.43901628255844
+"4bf6bc0eb1a7a593ab9fd65b","Atlanta International Airport - Terminal B; Gate 33","Travel & Transport::Airport::Airport Gate",33.648108,-84.441339
+"4bf6c6d3508c0f471dd83c31","Gate B20","Travel & Transport::Airport::Airport Gate",33.64121508521163,-84.4360376894474
+"4bf6e2ef5ec320a114f685d3","the runway","Travel & Transport::Airport",33.64023335,-84.436157
+"4bf7fd008d30d13a38d8ff17","Popeyes Louisiana Kitchen","Food::Fried Chicken Joint",33.64072270718048,-84.43612217903137
+"4bf93e42b182c9b60395785a","Moes","Food::Mexican Restaurant",33.63984298706055,-84.45008087158203
+"4bf967314a67c928e4c526cf","Delta Air Lines Airport Employee Parking Lot","Professional & Other Places::Parking",33.645045712455236,-84.46231126785278
+"4bf98a8f5317a593b675017f","Nassau International Airport","Travel & Transport::Airport",33.638805,-84.435803
+"4bf9b1ca4a67c928cd5127cf","Atlanta International Airport (ATL)","Travel & Transport::Airport",33.64093,-84.436082
+"4bfc310ee9d8c928682bb2c7","Mother !@#$%&* Plane","Travel & Transport::Airport::Plane",33.640912,-84.441035
+"4bfda601b68d0f47e61ae957","Gate A30","Travel & Transport::Airport::Airport Gate",33.64311109398452,-84.43928986408778
+"4bfe9199f61dc9b6c89ca0de","Gate A3","Travel & Transport::Airport::Airport Gate",33.63793809453449,-84.43901896476746
+"4bfeaf6d4e5d0f47c2fc7c1f","Gate B19","Travel & Transport::Airport::Airport Gate",33.64088125098084,-84.43572252988815
+"4bfef3fc4e5d0f47816c7d1f","The Parking Spot Shuttle","Travel & Transport::General Travel",33.641099,-84.44729089736938
+"4bff3005daf9c9b61cf1f9ef","AirTrans flight 109 ATL to DFW","Travel & Transport::Airport::Plane",33.639135,-84.432599
+"4c02ae2bf423a593fc21cf16","Delta Flight 1018 Atl To New Orleans","Travel & Transport::Airport::Plane",33.64111505950502,-84.43617751346575
+"4c056d9c761ac9b656821f74","Atlanta Airport Marriott Gateway","Travel & Transport::Hotel",33.64399177663288,-84.45523023605347
+"4c06d45a8b4520a188038697","Gate B21","Travel & Transport::Airport::Airport Gate",33.64109785260244,-84.43571984767914
+"4c080b36340720a17b838293","Concourse A","Travel & Transport::Airport::Airport Terminal",33.64088348399002,-84.43921208381653
+"4c083f00009a0f47c8d6e5bf","Delta 2034 ATL to MSP","Travel & Transport::Airport::Plane",33.6392017,-84.4376957
+"4c086a6dffb8c9b66e546861","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",33.590040995917484,-84.46986619767786
+"4c091692340720a1fd1d8493","Gate A31","Travel & Transport::Airport::Airport Gate",33.643241,-84.439095
+"4c0ab5b6bbc676b0c3594ad5","Wayfield Foods","Shop & Service::Food & Drink Shop::Grocery Store",33.60680067716928,-84.44506804070431
+"4c0c5cebb1b676b02613df86","Gate A32","Travel & Transport::Airport::Airport Gate",33.64304500972387,-84.43954467773438
+"4c0d07e0c700c9b63abda1dd","Savannah's Candy Kitchen","Shop & Service::Candy Store",33.64087927789581,-84.43598266559314
+"4c0e90177189c9289ab4d8b6","Gate T5","Travel & Transport::Airport::Airport Gate",33.63923550746037,-84.44228053092957
+"4c0f78bf98102d7f1938e506","Gate A12","Travel & Transport::Airport::Airport Gate",33.63987080838137,-84.43930462002754
+"4c104893ce57c928dfba81d2","ATL North Parking Deck - Daily","Travel & Transport::General Travel",33.642256624057886,-84.4449193636189
+"4c1140fed917c9285a69b562","Avis ATL Airport","Travel & Transport::Rental Car Location",33.639579396765754,-84.46346998214722
+"4c15a61eb7b9c928db58ad37","Sheraton Gateway Hotel Atlanta Airport","Travel & Transport::Hotel",33.624735176801096,-84.45105582493979
+"4c160c4282a3c9b6a5a1fff8","North Baggage Claim","Travel & Transport::Airport::Airport Terminal",33.64133146647883,-84.44524235128962
+"4c1949586a21c9b67253ca97","Crew Bus","Travel & Transport::Bus Station::Bus Line",33.64079666137695,-84.43550872802734
+"4c1a5aafb4e62d7faea9d793","HoneyBaked Ham","Food::Sandwich Place",33.58721923828125,-84.46918487548828
+"4c1b53ddb4e62d7fa225d993","Gate T14","Travel & Transport::Airport::Airport Gate",33.6434239290051,-84.44226443767576
+"4c1bda678b3aa59388e7975f","Gate 30 ATL","Travel & Transport::Airport::Airport Gate",33.64307,-84.43917355
+"4c1eb87b63750f471239ba67","In The Air!","Travel & Transport::Airport::Plane",33.640609,-84.43278014659882
+"4c1fce038b3aa593bc099e5f","Gate B3","Travel & Transport::Airport::Airport Gate",33.63781080856454,-84.43591833114624
+"4c208a6bb306c9282aff69b7","Gate T1","Travel & Transport::Airport::Airport Gate",33.63727933177994,-84.44231271743774
+"4c2269bd99282d7f701567b0","SunTrust Bank","Shop & Service::Bank",33.65005111694336,-84.45012664794922
+"4c23e122f7ced13a79f0216d","Gate A25","Travel & Transport::Airport::Airport Gate",33.641928525934546,-84.43912759423256
+"4c252ffab7b8a5936ccf3de8","ATL South Pick-up & Drop Off Area","Travel & Transport::Airport::Airport Terminal",33.63995196728273,-84.44603186921292
+"4c256156c11dc9b6ef332724","Delayed in Atlanta","Travel & Transport::General Travel",33.6408656199149,-84.4392442703247
+"4c28d92c97d00f47237d40ea","Gate A34","Travel & Transport::Airport::Airport Gate",33.64365512064298,-84.4392949913825
+"4c2a2fb1b1ddc9b642b152fb","Park N Ticket Van","Travel & Transport::General Travel",33.6431731997899,-84.4490155356893
+"4c2b9422d1a10f471a2bf864","Mystery Location To Mess With IC Wolf","Arts & Entertainment::Arcade",33.64744567871094,-84.43943786621094
+"4c2c8a122219c928ea36a648","Godby Road Recreation Center","Shop & Service::Gym / Fitness Center::Gym",33.6154346125625,-84.4650642330869
+"4c2cb5c6d1a10f479cd8f964","DHL Global Forwarding","Professional & Other Places::Building",33.622034824281606,-84.4689416885376
+"4c2e476c7cc0c9b68ac1e99a","On a Plane!","Travel & Transport::Airport::Plane",33.63367851666667,-84.44170761666666
+"4c2e7ff63896e21eea69e290","On A Plane Headed Home","Travel & Transport::Airport::Plane",33.64327133333333,-84.43886
+"4c2e9436ed37a59341ea6503","Delta 1789","Travel & Transport::Airport::Plane",33.639254,-84.439053
+"4c2f63de66e40f47abc6c18b","Oscar Meyer Hot Dog Zone","Food::Hot Dog Joint",33.640525817871094,-84.439453125
+"4c36641e18e72d7fcfc814f5","ATL Taxi Line","Travel & Transport::Taxi",33.640763,-84.44662
+"4c375e6f3849c9288290bdb1","Big Daddy's Dish","Food::Southern / Soul Food Restaurant",33.603366,-84.47276486
+"4c37ce673849c9284275beb1","Food Lion","Shop & Service::Food & Drink Shop::Grocery Store",33.607140573590605,-84.44461405277252
+"4c385c151e06d13a7691773e","Hell","Travel & Transport::Airport",33.64088348399002,-84.43544626235962
+"4c386638dfb0e21e3576aea8","Gate B17","Travel & Transport::Airport::Airport Gate",33.64029843360273,-84.43572521209717
+"4c38cb8e3849c928a123c0b1","Hartsfueld-Jackson Atlanta International Gate A29","Travel & Transport::Airport::Airport Gate",33.642531866666666,-84.439208
+"4c38e3ebae2da5931f9101c6","28000 Ft over Georgia: Delta WiFi","Travel & Transport::Airport::Plane",33.640428,-84.435882
+"4c38eaa1ae2da593889e01c6","Chili's To Go","Food::American Restaurant",33.6408805847168,-84.4383773803711
+"4c3bd2874bc9a59359f1d171","Finally on a damn plane","Travel & Transport::Airport::Plane",33.64206314086914,-84.43644714355469
+"4c3be1337d00d13a52443850","Gate A15","Travel & Transport::Airport::Airport Gate",33.640023771171876,-84.43910479545593
+"4c3ca0134bc9a5936eebd271","Gate B15","Travel & Transport::Airport::Airport Gate",33.640113931907145,-84.4357980722746
+"4c3da251a97bbe9ae10dfcdd","Smoking Lounge","Travel & Transport::Airport::Airport Terminal",33.641530300056246,-84.43595702766697
+"4c41e1e0ff711b8d95971205","Citgo / 2-Rays Mart","Shop & Service::Gas Station / Garage",33.65111898950426,-84.59445834159851
+"4c425301d7fad13a6d0509da","Plane Train","Travel & Transport::Airport::Airport Tram",33.64080309562278,-84.44213569164276
+"4c44ef94f97fbe9af0edbb30","Enterprise Rent A Car","Travel & Transport::Rental Car Location",33.640167236328125,-84.46405029296875
+"4c457ce3f0bdd13a7bf6cacc","Atlanta Baggage Claim 7- Delta","Travel & Transport::General Travel",33.640881,-84.444788
+"4c470557c047be9a22282f79","Atlanta Airport Ground Transportation","Travel & Transport::Bus Station",33.640818454046254,-84.44681624986279
+"4c47504d89a6c9b609cc9988","Gate B9","Travel & Transport::Airport::Airport Gate",33.63882694556026,-84.43581345507333
+"4c48891e0f5aa593eb928176","Subway","Food::Sandwich Place",33.61850357055664,-84.47315216064453
+"4c4971fa6f1420a1f5569c55","Gate B14","Travel & Transport::Airport::Airport Gate",33.63966871843858,-84.43589687347412
+"4c49d5143013a593167d48e3","On Delta","Travel & Transport::Airport::Plane",33.633631,-84.43267285823822
+"4c4a35505609c9b62ed3518f","Ben & Jerry's","Food::Ice Cream Shop",33.63892287962731,-84.43580031394958
+"4c4e39aadb2c20a1a4050e74","South Terminal Hourly Parking","Travel & Transport::Airport::Airport Terminal",33.639204244728134,-84.44658279418945
+"4c4fb267885c1b8d6c270338","I'm On A Plane!","Travel & Transport::Airport",33.639923683333336,-84.43903058333333
+"4c505ad7f080a59391b962e2","Baggage Claim @ Hartsfield-Jackson Atlanta International Airport","Travel & Transport::Airport::Airport Terminal",33.641792,-84.4443929
+"4c50d441d797e21e18a8077b","Z Market","Shop & Service::Bookstore",33.6396687184386,-84.4358110427856
+"4c50d5733940be9a7024d807","Blackberry Store","Shop & Service::Electronics Store",33.640419016832205,-84.43602561950684
+"4c534d801b46c9b690a8b8cc","Delta 1161 ATL - SNA","Travel & Transport::Airport::Airport Gate",33.641252083333335,-84.43287016666666
+"4c56831412f0d13a380b05ad","Burris Logistics","Professional & Other Places::Office",33.61613024242579,-84.52694191985786
+"4c56cb2ed12a20a1092c65bd","Gate A1","Travel & Transport::Airport::Airport Gate",33.63738205443941,-84.4394588470459
+"4c56dd7a7329c928ff7a8d80","Martin Luther King Elementary School","College & University::College Academic Building",33.599011,-84.412645
+"4c57f71e6418a593fa73800e","Delta 1148 ATL - CVG","Travel & Transport::Airport::Plane",33.638438,-84.439229
+"4c5af6ef2091a5938faa60d0","Rocafellas","Nightlife Spot::Lounge",33.61084404359795,-84.47184426695007
+"4c5c80b42815c9285940b267","On The Runway In Atl","Travel & Transport::Airport::Plane",33.6435,-84.43629
+"4c633000ec94a5935c392bca","Plane Train","Travel & Transport::Airport::Airport Tram",33.64080309562278,-84.44213569164276
+"4c643f81d646be9a397a09fd","ATL N Pickup & Dropoff","Travel & Transport::Airport::Airport Gate",33.64145513243712,-84.44381475448608
+"4c6485e494160f47820c2d17","ATL South Baggage Claim","Travel & Transport::Airport",33.640663,-84.446515
+"4c6940f3d7b7ef3be4adc45d","Oakmont Campus (Chick-fil-A)","Professional & Other Places::Office",33.613059997558594,-84.5008773803711
+"4c6afcb89669e21e64ffa951","Cliftondale Park","Outdoors & Recreation::Park",33.65238717863655,-84.59881259153481
+"4c6bfdd499b9236abf43e1c9","Boeing Simulation Center","Professional & Other Places::Office",33.61263575273819,-84.46819067001343
+"4c6d9df74d24b60c4464d6d8","On a  plane, next to a guy eating a carrot, with spanish music playing. Interesting.","Travel & Transport::Airport::Plane",33.636041,-84.436059
+"4c6e7db7f338236afc810a1b","Gate B12","Travel & Transport::Airport::Airport Gate",33.63952602942074,-84.43597753800881
+"4c6f2bc9df6b8cfafe8bb44d","Champions","Nightlife Spot::Sports Bar",33.64399177663288,-84.45615291595459
+"4c70294cd7fab1f74d9f5dc9","Brookstone","Shop & Service::Electronics Store",33.64088348399002,-84.43533897399902
+"4c70698c9c6d6dcbe1add27a","Delta Dash Air Freight","Travel & Transport::Airport",33.63922856465927,-84.4436786642688
+"4c72bc9a13228cfa67de2b65","Hartsfield-Jackson Atlanta International Airport (ATL)","Travel & Transport::Airport",33.640669114843895,-84.43606853485107
+"4c72dd9aad69b60c1ea784b9","Popeye's","Food::Fried Chicken Joint",33.60748291015625,-84.47176361083984
+"4c7425e3db52b1f7593f75dc","Delta 2186 ATL -> LGA","Travel & Transport::Airport::Plane",33.63848,-84.43588
+"4c746f92ff1fb60c48adf3a7","Delta 2098 ATL to CMH","Travel & Transport::Airport::Plane",33.643492,-84.438794
+"4c751a21b474a1cd373cb8bf","Buckhead Books","Shop & Service::Bookstore",33.64045474516407,-84.43572521209717
+"4c76f893f247370497bc64eb","Embassy Suites","Travel & Transport::Hotel",33.627945140509674,-84.46325506630201
+"4c785be997028cfa61aad7fe","Houlihan's","Food::American Restaurant",33.640829891753526,-84.44482326507568
+"4c7c0421df08a1cdef33e25d","Auntie Anne's","Shop & Service::Food & Drink Shop::Food Court",33.63972365856171,-84.43919757270635
+"4c7e45639221236aa684813d","College Park","Professional & Other Places::Event Space",33.64572787864692,-84.45141466243459
+"4c7fdf6b51ada1cd0b9a0410","On A Plane!","Travel & Transport::Airport::Plane",33.639813,-84.441963
+"4c8103f274d7b60c6c5972d8","Gate 33 @ ATL","Travel & Transport::Airport::Airport Gate",33.643387,-84.438988
+"4c810aa9d4e23704e2b35988","AirTran Airways Maintenance Hangar","Professional & Other Places::Office::Coworking Space",33.6537061056921,-84.4361672583307
+"4c81a252d92ea093d3434372","Delta Flight 105","Travel & Transport::Airport::Plane",33.642348325537775,-84.44280624389648
+"4c840df8d92ea093fddb5972","Taxi Way","Travel & Transport::Taxi",33.64318970609635,-84.43917706349075
+"4c8420c547cc224b2fd1959f","Gate B5","Travel & Transport::Airport::Airport Gate",33.63823956055493,-84.43585395812988
+"4c84efb0d8086dcb1c078d52","Shell Gas Station","Shop & Service::Gas Station / Garage",33.63206027279189,-84.46833904144101
+"4c86195251ada1cd3ed83c10","Gate T8","Travel & Transport::Airport::Airport Gate",33.64017785020441,-84.44227516651154
+"4c87fc496f14a093378dac10","On A Plane!","Travel & Transport::Airport::Plane",33.64112377166748,-84.43854689598083
+"4c891b55584c76b050dfee58","Sunoco","Shop & Service::Gas Station / Garage",33.591667616345426,-84.42878822390833
+"4c8933da7223b1f772fd31a8","Gate T15","Travel & Transport::Airport::Airport Gate",33.64353111021552,-84.44228321313886
+"4c8b5ade3dc2a1cdc571b532","ATL South Parking Deck - Daily","Travel & Transport::General Travel",33.63930116554648,-84.44495525122576
+"4c91543e7f3b8cfa64de9b1e","China One","Food::Chinese Restaurant",33.606756344710746,-84.44469451904297
+"4c93e74d03413704e9f56cef","Gogo Inflight Internet","Travel & Transport::Airport::Plane",33.64119338989258,-84.43851470947266
+"4c94f4f958d4b60cc3852d29","Gate B10","Travel & Transport::Airport::Airport Gate",33.63898987140139,-84.43615436553955
+"4c969f0601dd76b0e156c448","Creel Park","Outdoors & Recreation::Park",33.56625227270346,-84.48301961355243
+"4c9a5d1cd4b1b1f7b296cf35","Gate D2","Travel & Transport::Airport::Airport Gate",33.640829891753526,-84.44458723068237
+"4c9a9915db10b60cae2d946d","Alamo Car Rental","Travel & Transport::Rental Car Location",33.63865157201975,-84.45641765334307
+"4c9b293678ffa093f55e7275","InMotion Entertainment","Shop & Service::Electronics Store",33.640216928176066,-84.4393327832222
+"4c9b79c7b8e9224bc2c4563d","Delta Airlines in-flight","Professional & Other Places::Office::Coworking Space",33.640899,-84.438952
+"4c9bd2c8d3c2b60c2738b2bc","Hilton Garden Inn Atlanta Airport/Millenium Center","Travel & Transport::Hotel",33.62610862806606,-84.46280479431152
+"4c9cb7de8afca0933aabef15","Chick-fil-A","Food::American Restaurant",33.64126968383789,-84.43597412109375
+"4c9e28772fb1a143987de740","National Car Rental","Travel & Transport::Rental Car Location",33.63956153242008,-84.46383476257324
+"4c9e8752542b224b5325f59f","Delta Flight 2117 To Denver","Travel & Transport::Airport::Plane",33.640295,-84.442177
+"4ca60ad9d971b1f70721fce0","Quiznos","Food::Sandwich Place",33.58721923828125,-84.46918487548828
+"4ca61f13f47ea1436f6e5d21","AirTran Pilot Training Center","Professional & Other Places::Office",33.61369199181357,-84.46913849733009
+"4ca9d749a6e08cfa9bec9c94","Stonewall Tell Elementary School","Professional & Other Places::School",33.665191650390625,-84.59266662597656
+"4caa0681b0b8236a02b4c2e6","Panda Veranda","Shop & Service::Gift Shop",33.63849189796802,-84.43591833114624
+"4cadb5fd8b57a1cdd9d49975","I'm On Another Plane Bitches","Travel & Transport::Airport::Plane",33.64006853,-84.43846
+"4cb4539f1168a093efa24723","WallyPark Premier Airport Parking (ATL)","Professional & Other Places::Parking",33.64991190073208,-84.4722849675704
+"4cb626049c7ba35deca28f06","On The Runway!","Travel & Transport::Airport::Plane",33.622063,-84.43674193
+"4cbb3dd0dd41a35d1001eda0","Throbacks","Food::American Restaurant",33.62361334751221,-84.47635872882384
+"4cbcd6784c60a0933b9d53ca","McDonald's","Food::Fast Food Restaurant",33.61421,-84.43756615000001
+"4cbe379aacd48cfa48d83b3f","Blimpie Subs & Sandwiches","Food::Sandwich Place",33.6595458984375,-84.4382553100586
+"4cc0577b7dc9a09399063ef5","Up, Up And Away!","Travel & Transport::Airport::Plane",33.64228820800781,-84.43848419189453
+"4cc5bed4c844721ef1e7f001","American Deli","Food::Wings Joint",33.58444294394673,-84.47036328355571
+"4cc5c7a0306e224b2914a56c","Gate E6","Travel & Transport::Airport::Airport Gate",33.63841876485582,-84.42603506147861
+"4ccac17426fea1cd6a432f4d","Delta Flight 2324 (ATL-BWI)","Travel & Transport::Airport::Plane",33.638378,-84.435824
+"4cce19e77c2ff04d1839a37e","Delta 300 ATL to MSP","Travel & Transport::Airport::Plane",33.64018,-84.438876
+"4cced3ee97d0224bbff16db8","Merk/Miles Waste Transfer Facility","Shop & Service::Recycling Facility",33.669701051978244,-84.56564863438507
+"4cd2e0262b52a093a84e2139","Delta 1855 ATL-LAX","Travel & Transport::Airport::Plane",33.641667,-84.436601
+"4cd5513067c7236a6c041277","Delta Flight 2203 ATL To LAS","Travel & Transport::Airport::Plane",33.641130755232616,-84.43877200501262
+"4cd5597276ab721e0d6c6c6a","Gate T12","Travel & Transport::Airport::Airport Gate",33.64237220629977,-84.44227918982534
+"4cd5857b94848cfa30e3e6b1","In The Air","Travel & Transport::Airport::Plane",33.641288,-84.439237
+"4cdd71cf14119eb0a283ed33","MurphyUSA","Shop & Service::Gas Station / Garage",33.586738332940186,-84.47001457214355
+"4ce0601daba88cfa29fa4ed7","On a plane","Travel & Transport::Airport::Plane",33.64440735,-84.43929671617606
+"4ce0618ff8cdb1f73afe9612","DL 2300. ATL-BOS","Travel & Transport::Airport::Plane",33.6423504464117,-84.4388694243958
+"4ce5bddefe90a35dbc00320e","Tri-C","Professional & Other Places::Office",33.614044189453125,-84.42326354980469
+"4ce73bb4b99754818f3df544","Wyndham Garden Inn Airport South","Travel & Transport::Hotel",33.61931610107422,-84.47228240966797
+"4ce94077d99f721eab34b573","Delta Flight 183 JFK - SEA","Travel & Transport::Airport::Plane",33.641483,-84.437783
+"4ceae953948f224bb0f5fd5d","Delta Flight #1118 ATL to Rochester!","Travel & Transport::Airport::Plane",33.64050412101693,-84.43630057494649
+"4ced7bff3b03f04d418f34dc","10,000 feet above the ground","Travel & Transport::Airport::Plane",33.639186,-84.438486
+"4cf4f7dfc9af6dcbbfe6ae7f","DL1627 ATL - FLL","Travel & Transport::Airport::Plane",33.64241027832031,-84.44361877441406
+"4d075a062f96f04d18422c54","Delta Flight 1092","Travel & Transport::Airport::Plane",33.64289048684126,-84.43654156959823
+"4d093533143cb60c81627fa6","Walmart Supercenter","Shop & Service::Department Store",33.58720623730099,-84.47125495279104
+"4d0aac559a443704c6f6b467","Flight DL65 To Las Vegas, NV","Travel & Transport::Airport::Plane",33.64115905761719,-84.43913269042969
+"4d0b612a6d26a093ceb8772d","Delta Flt 1600","Travel & Transport::Airport::Plane",33.63859641249914,-84.43615700319386
+"4d0c1aef801054811db41696","Grown Folks Cafe","Nightlife Spot::Nightclub",33.60556776964626,-84.47191600913786
+"4d1e48c3d7b0b1f78bb0029f","Great Wall Kitchen","Food::Chinese Restaurant",33.58918585275362,-84.4705477679612
+"4d220d5716cfb60cd26d6661","30000 FT in The Air Up There","Travel & Transport::Airport::Plane",33.63970947265625,-84.43962097167969
+"4d2c831d774f76eba5859533","BP / ampm","Shop & Service::Gas Station / Garage",33.5892101938195,-84.4692871129255
+"4d30d7b7c129a35d64694e71","Gate T2","Travel & Transport::Airport::Airport Gate",33.63759866486319,-84.44228053092957
+"4d40eeebc1d4721e1f5615c7","Krystal","Food::Fast Food Restaurant",33.6130303144455,-84.4727128744125
+"4d41c23e46775481650c64f4","Xpress Shine","Shop & Service::Automotive Shop",33.61191177368164,-84.47135162353516
+"4d45730b1b62b1f79753fde2","Baggage claim 5","Travel & Transport::Airport::Airport Gate",33.64078523153096,-84.44539725780487
+"4d50217ddcce224bb2f1d41b","Gogo Inflight","Travel & Transport::Airport::Plane",33.639764101991126,-84.43655695220197
+"4d646bd0cf2bb60cfe849bbc","Washington Reagan National Airport","Travel & Transport::Airport",33.640027970054014,-84.4358442206587
+"4d7aa0f692baa143efa857eb","Downtown CollegePark","Professional & Other Places::Building",33.6515007019043,-84.44944763183594
+"4d7d1f93e04d6ea8849807d6","Delta DL 1317 ATL-DEN Atlanta to Denver","Travel & Transport::Airport::Plane",33.64288330078125,-84.43822479248047
+"4d7fc279e7e1721e5d97f80b","Delta Air Lines Pilot Lounge","Travel & Transport::Airport::Airport Lounge",33.6410015774011,-84.43916680888026
+"4d8625df61676dcb354899e4","285 West 85 S Junction","Travel & Transport::General Travel",33.619487607763155,-84.45821678020452
+"4d8980ae26a36ea88588e1ad","Club Rendezvous","Arts & Entertainment::Concert Hall",33.60800721,-84.53021585
+"4d8e02f91716a143bfd526f7","Hugh C. Conley Recreation Center","Professional & Other Places::Event Space",33.6561393737793,-84.45137023925781
+"4d8f37f1fa943704641615c6","Solid Rock Pentecostal Church","Professional & Other Places::Spiritual Center::Church",33.627796301362494,-84.4928302259751
+"4d8fccb6d00a6ea879a9d74f","Atlanta Airport Hotel Shuttles","Travel & Transport::Bus Station",33.64052620178331,-84.44703340530394
+"4d90c87c788c54816e396cfd","American Airlines 1685 ATL to DFW","Travel & Transport::Airport::Plane",33.6418571472168,-84.44186401367188
+"4d911195608fa1cdbcaa9083","Delta 1811 ATL to DFW","Travel & Transport::Airport::Plane",33.637748,-84.436662
+"4d9259eb7ac3a35d1442bf25","Picadilly Cafeteria","Food::American Restaurant",33.61695861816406,-84.46945190429688
+"4d94a59158caa143ba35b025","City of College Park","Travel & Transport::General Travel",33.620000581185145,-84.47305874783343
+"4d962315daec224b61bc0f3e","US Post Office","Professional & Other Places::Government Building",33.6515478066963,-84.449979299266
+"4d9e38e2fd126ea83ec2073b","Atlanta's Finest","Shop & Service::Salon / Barbershop",33.618152556402684,-84.4724848190827
+"4da34c252939b1f740781b57","ATL North Hourly Parking Lot","Travel & Transport::Airport::Airport Terminal",33.6423829252182,-84.4439708974721
+"4da3ec292939b1f7cc172857","South Hampton","Residence::Residential Building (Apartment / Condo)",33.6152598716493,-84.48224596514395
+"4da6310e0cb6ba7974d1b98e","Atlanta Daily World News - C","Shop & Service::Gift Shop",33.63980484008789,-84.4326171875
+"4da6e5d0a86e2156816dd7ce","North Terminal Headed To Baggage Claim","Travel & Transport::Airport::Airport Tram",33.64080047607422,-84.44251251220703
+"4dab3b9e0cb6a89c627f3a79","ATL Terminal B","Travel & Transport::Airport::Airport Terminal",33.638275146484375,-84.43588256835938
+"4dab51641e72c1ab9c0819ec","The Atrium at Hartsfield-Jackson International Airport (ATL)","Travel & Transport::Airport",33.641014099121094,-84.44541931152344
+"4dacd94e0cb63c371ca6d194","JMac's","Food::American Restaurant",33.65296965,-84.44971928
+"4dae1420cda1ea0bb03706a8","Delta Flight 855 Atlanta To Phoenix","Travel & Transport::Airport::Plane",33.64155578613281,-84.43659210205078
+"4db7728bcda18a0b60a50ccc","Delta Help Line","Travel & Transport::Airport::Airport Gate",33.64081954956055,-84.43556213378906
+"4db83b380cb6cc307a6ed64c","AirTran Check-In Counter","Travel & Transport::Airport::Airport Terminal",33.64160663405565,-84.44372993335722
+"4db88e1ca86ee4fa7d25a746","On an Airplane Waiting","Travel & Transport::Airport",33.6407356262207,-84.4364242553711
+"4dbc4fc9fa8cee727349872d","Delta Flight 1791 From Atlanta to Tampa","Food::Fried Chicken Joint",33.64132308959961,-84.43523406982422
+"4dbed0446a23a3c473ad4bab","Hertz Rental Car","Travel & Transport::Rental Car Location",33.639990275693535,-84.46358799934387
+"4dc20820c65b4274e881bfc2","Passenger Pick Up - N1","Travel & Transport::Airport::Airport Terminal",33.641719818115234,-84.44575500488281
+"4dcdb1b6e4cd130e1654853a","Terminal Train","Travel & Transport::Airport::Airport Tram",33.63685989379883,-84.4464111328125
+"4dd3c39cd1643acaa1e836c5","Feldwood Elementary","Professional & Other Places::School",33.5979487513979,-84.5148379078807
+"4ddafbc9fa7675584c327ba5","Sky High 10,000 +","Travel & Transport::Airport::Plane",33.638607025146484,-84.43805694580078
+"4ddd73c588779c82beaed2c2","McDonald's","Food::Fast Food Restaurant",33.63909705813147,-84.43915843963622
+"4de0019dd4c040523e997f5d","Brooks Brothers","Shop & Service::Clothing Store::Men's Store",33.64060592651367,-84.44485473632812
+"4de04116e4cd846e4084d12a","DL 2094 ATL to PHL","Travel & Transport::Airport::Plane",33.638427734375,-84.43565368652344
+"4de4edb87d8b2547eb3dc7ca","CFA  Cafe","Food::Café",33.61382293701172,-84.4896240234375
+"4de6c403d22d215df54555f9","Flat Shoals Park Playground","Outdoors & Recreation::Playground",33.68376127890886,-84.2420258828726
+"4de896eb7d8b02ee9f194c41","North Terminal Hartsfield-Jackson","Travel & Transport::Airport::Airport Terminal",33.6411542211029,-84.44358637979663
+"4ded0aa7ae60a6bd38977063","Delta 1489 ATL-IAH","Travel & Transport::Airport::Plane",33.64204095831573,-84.43777729257307
+"4deeb08e7d8bb02cbee8cc51","Brady Center","Outdoors & Recreation::Park",33.65760506936146,-84.46309105974898
+"4df012a681303a516711818c","South Fulton Tennis Center","Outdoors & Recreation::Athletic & Sport::Tennis Court",33.60190419081824,-84.54599618911743
+"4df3a57f14954f21cf2ef7ce","Delta Flight - 1159","Travel & Transport::Airport::Plane",33.64327621459961,-84.43992614746094
+"4df3ca29b61cbd3ec01c9974","Park 'n' Ticket","Professional & Other Places::Parking",33.64766311645508,-84.45442962646484
+"4df764dd62e141c907646e23","5 Points Train Station","Travel & Transport::Subway",33.641178131103516,-84.4471206665039
+"4e05064414959022c8873055","In The Air :)","Travel & Transport::Airport::Plane",33.638288,-84.432356
+"4e070ee6b61c60b04542cb37","Airport Area Hotels Zone 1","Travel & Transport::Airport::Airport Tram",33.640533447265625,-84.4471435546875
+"4e0b0083d164e3547c2c9c27","Atlanta Airport","Travel & Transport::Airport",33.641683,-84.443728
+"4e0cd652fa76eaf8b3a12807","Airport Row","Travel & Transport::Airport",33.63818596667287,-84.45598125457764
+"4e2085d2ae6015b2129c3c92","Preflight Bus","::Travel & Transport",33.646147470688796,-84.46417759459811
+"4e25ff10b0fbe53aad047d90","Landed","Travel & Transport::Airport",33.63371658325195,-84.44209289550781
+"4e29a392fa762797e5a99dd2","Preflight Covered Parking","Professional & Other Places::Parking",33.646339416503906,-84.45410919189453
+"4e2d5abbfa76bbf847ec5c98","Delta 1816 ATL-DEN","Travel & Transport::Airport::Plane",33.64620475,-84.43721185
+"4e2ec7db45ddcf0f5c7b902a","Delta Flight 1886 ATL to LGA","Travel & Transport::Airport::Plane",33.63766098022461,-84.4358901977539
+"4e2ecf16c65b80dfd83a1177","DL Flight 1462","Travel & Transport::Airport::Plane",33.640777587890625,-84.43585205078125
+"4e368bf3fa7656ba317baca6","Moving Sidewalk","Travel & Transport::Airport::Airport Terminal",33.64076400296957,-84.4422277304737
+"4e3aca0062e10c0843da71e9","Headed To New York","Travel & Transport::Airport::Plane",33.6389389038086,-84.4360961914062
+"4e3be2d7ae604542364f3811","Delta Air Lines Ticket Counter","Travel & Transport::Airport::Airport Terminal",33.64212035414809,-84.43920782731145
+"4e3c90312271d21e86eb0dc0","Airplane","Travel & Transport::Airport",33.64272689819336,-84.43852233886719
+"4e3c9b6262e19d610963ec29","Delta Flight 772 ATL-PVD","Travel & Transport::Airport::Plane",33.640628814697266,-84.43766784667969
+"4e3e9799a809ba757c18f964","AirTran Flight 657 ATL To San Antonio","Travel & Transport::Airport::Plane",33.638423919677734,-84.43240356445312
+"4e3f14dd2271d21e870c651f","Nathan's Famous","Food::American Restaurant",33.63999938964844,-84.44242095947266
+"4e44248f628485fd4c5c92c8","Kickin' It Economy Class Style","Travel & Transport::Rental Car Location",33.639625549316406,-84.46424102783203
+"4e46fe3a62845e1d3c9a16c8","Stonewall Manor","::Professional & Other Places",33.63728572742738,-84.56746485708581
+"4e4a57f1e4cd4fd730029f3f","At&t Parking Deck","Professional & Other Places::Parking",33.6517592276359,-84.4479748582799
+"4e4c1d9122717c65ac981d28","Childcare Network inc.","Professional & Other Places::School",33.607552817400524,-84.5170090325242
+"4e4d37fbfa769ce595ba3dc2","The Corner Grille","Food::Restaurant",33.65096664428711,-84.44966888427734
+"4e4e6b14a80997aa8a29a2d6","Da Plane Boss Da Plane","Travel & Transport::Airport::Plane",33.64262008666992,-84.43489074707031
+"4e4e9b97e4cdc76dc9a4de40","Marta Northbound Airport to North Springs","Travel & Transport::Train Station",33.64544677734375,-84.44659423828125
+"4e5261cfae6054e93620d0e4","DL 1858; ATL - AUS","Travel & Transport::Airport::Plane",33.638084411621094,-84.43900299072266
+"4e54e8c4fa761d3de841deff","Delta GO Shuttle Stop","Travel & Transport::Bus Station",33.6395853235299,-84.4456678720114
+"4e5d6893fa76a4cf14930a5f","PRICE PERFORMING ARTS","Professional & Other Places::School",33.606264,-84.473145
+"4e5f8e7baeb7769b2d2237a2","Flight 1580 ATL-BKG","Travel & Transport::Airport::Plane",33.62969207763672,-84.43976593017578
+"4e5fada07d8bc73f9f3802ab","Da Plane, Da Plane!!!","::Travel & Transport",33.63966575935916,-84.43554169170164
+"4e616181d22d509a392aa5ad","Delta Sky Club - Terminal A Centercourt","Nightlife Spot::Lounge",33.64084243774414,-84.4388427734375
+"4e61d3c31f6ef7d07a7106f5","Travelodge","Travel & Transport::Hotel",33.61921064897798,-84.47093210860348
+"4e67d76c091ab297bb554432","Baymont Inn & Suites Airport South","Nightlife Spot::Hotel Bar",33.618657709343,-84.4692420959473
+"4e6abc547d8b143eb740301e","B Employee Bus Stop","Travel & Transport::Airport",33.643401422573,-84.4359621552531
+"4e6e7331c65b18875fcc017b","College Park Public Safety Complex & Fire Station","Professional & Other Places::Government Building::Fire Station",33.65414245151163,-84.451291632684
+"4e777e48a809582dd6d66d8b","Advance Auto Parts","Shop & Service::Automotive Shop",33.60148620605469,-84.42991638183594
+"4e7a7786b61ce08d8ab242d1","Bus To Park And Ride Lot","Travel & Transport::Bus Station",33.639924,-84.4465279960005
+"4e7c0435fa76d496b668473f","Finally In The Air","Travel & Transport::Airport",33.640991,-84.4370713
+"4e7c9be629c26d74e31002e7","Domino's  Pizza Express","Food::Pizza Place",33.6407584353863,-84.4449949264526
+"4e88e7329a52a2df9baf617c","Baggage Claim 9","Travel & Transport::Airport",33.639869689941406,-84.44646453857422
+"4e8d64739a524ea86d28473e","Alamo Car Rental","Travel & Transport::Rental Car Location",33.63983917236328,-84.46353912353516
+"4e8e4e5893adc74c7fadb82d","On The Plane","Travel & Transport::Airport::Airport Gate",33.64059146794773,-84.43551092595757
+"4e936750e5fa72f71016a3a3","The Ranch","Nightlife Spot::Sports Bar",33.606303258839844,-84.44504753354254
+"4eb5770a722e578a4f75c986","College Park Cemetery","Outdoors & Recreation::Cemetery",33.6512567543241,-84.4485387744415
+"4eb94b176da1df9ffc1a3f3a","Delta Flt 1710 ATL-DFW","Travel & Transport::Airport::Plane",33.641023,-84.437329
+"4ebb4a2e6c25b8c5f9f096f2","Limousine/Chauffeur Waiting Area South Terminal","Travel & Transport::Airport::Airport Lounge",33.640871497097024,-84.44510905500631
+"4ec313e34901dfe99b8f44b0","On The MARTA train, yo!","Travel & Transport::Subway",33.65062713623047,-84.44017791748047
+"4ed38a054690a03b61009200","Triumph Interiors","Professional & Other Places::Factory",33.6249651236426,-84.4557666778564
+"4ee68b390e011d524825c402","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.63992672162588,-84.44227900083123
+"4eed20174901dff306fb357d","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",33.58005954735243,-84.4716085419991
+"4efe640c490182a1a65588c8","Samuel Adams Atlanta Brew House","Food::Brewery",33.64020691473471,-84.44223285751147
+"4f10c4d8e4b067841011ebfe","Hartsfield Airport Atrium","Travel & Transport::Airport::Airport Lounge",33.64057979420885,-84.44497346878052
+"4f13194ee4b09e58a2afbe6a","Gate A16","Travel & Transport::Airport::Airport Gate",33.64025077011834,-84.43927448220096
+"4f1769e4e4b0f22afc99de64","Marta Northbound Airport to Doraville","Travel & Transport::Train Station",33.64120101928711,-84.44632720947266
+"4f232c6e6aa3ce55794a8bff","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",33.58027255168444,-84.47158804413237
+"4f2edb91e4b04297f8be2f92","Waffle House #1932","Food::Breakfast Spot",33.60599487106419,-84.43502379952581
+"4f3d7bb0e4b0fa28e1425fe2","Cell Phone Lot Hartsfield-Jackson Atlanta International Airport","Professional & Other Places::Parking",33.63721372508963,-84.44574477301697
+"4f4d04d9e4b0ed3692e1d18d","Zimbabwe: A Tradition in Stone","Arts & Entertainment::Art Gallery",33.640754493281555,-84.4424174305726
+"4f51275ae4b0b5f86912cec6","Delayed again @ATL","Travel & Transport::Airport::Airport Terminal",33.641244459238415,-84.4357980722746
+"4f5e2e8de4b01014bc53dc50","Southwest Charging Station Gate 22","Travel & Transport::Airport::Airport Gate",33.640567,-84.432669
+"4f64e7b5e4b045fbd4335ba4","TSA- South Baggage PTRI","Professional & Other Places::Office::Coworking Space",33.6408362923657,-84.44480657385422
+"4f721584e4b03b1105823c4e","Anna's Linens","Shop & Service::Furniture / Home Store",33.58073827271338,-84.47158804413237
+"4f772baee4b055c7605e1f91","Hartsfield-Jackson Intn'l Airport Volunteer Office","Professional & Other Places::Office",33.64785857919966,-84.4407818879284
+"4f822146e4b0c7b856c32575","ATL Airport Arrivals Waiting Area","Travel & Transport::Airport::Airport Terminal",33.64074853102138,-84.44502189958023
+"4f9ab1d7d4f2465542bc6553","Famous Famiglia","Food::Pizza Place",33.64003916682218,-84.44235077925646
+"4fa791abe4b00c5845d34187","SweetWater Draft House & Grill","Nightlife Spot::Bar",33.642154790535216,-84.4391462996539
+"4fb106acbe7793ab8f358f66","Gate F6","Travel & Transport::Airport::Airport Gate",33.63987415793444,-84.42009329795837
+"4fb10b60be7793ab8f3628a2","International Arrivals Hall","Travel & Transport::Airport::Airport Terminal",33.641062124537434,-84.41825866699219
+"4fbedacae4b083733cdf0667","Caffe Siena","Food::Café",33.63826870362039,-84.44225336565809
+"4fe88beee4b032d6543d162a","Hotel Indigo","Travel & Transport::Hotel::Resort",33.653177179745484,-84.44746220251415
+"4ff9cbfce4b04f7678f9d53f","Tarmac","Travel & Transport::Airport::Airport Terminal",33.63989255786497,-84.43867971281607
+"50041633e4b04575fedb9478","Men's Restroom","Professional & Other Places::Spiritual Center::Temple",33.64084750445425,-84.43590575178102
+"501c3c5be4b099ff768d2356","Delta South Last Bench Right","Outdoors & Recreation::Scenic Lookout",33.640022,-84.446066
+"5033ccbd39506614045f6ff3","Swan Skin and Nail Spa","Shop & Service::Nail Salon",33.64634971688594,-84.46550846099854
+"50441ae8e4b01c180a82d3bb","Old National Hwy","Nightlife Spot::Lounge",33.61882478914164,-84.47288452005816
+"5054e10ae4b07f9d63134627","On The Plane","Travel & Transport::Airport::Plane",33.640066355806965,-84.43556732980936
+"50645f6ce4b0b774f6775311","Delta Sky Club","Travel & Transport::Airport::Airport Lounge",33.640954940253465,-84.43864345550537
+"506c4f6ee4b04f6e057c9e8f","Chik-Fil-A HQ","Professional & Other Places::Building",33.61304173616739,-84.49864409295581
+"50946268e4b0a40e1bc1f404","Airport S7","Travel & Transport::Light Rail",33.640686978959806,-84.44643259048462
+"50aaa600e4b0b075787938ce","Concourse T","Travel & Transport::Airport::Airport Terminal",33.64065685182936,-84.44232514411468
+"50c2965de4b0eaecd75e476c","Delta Flight 679","Travel & Transport::Airport::Plane",33.638065338134766,-84.43637084960938
+"50c94b30e4b05e4329a76a99","Popeyes","Food::Fried Chicken Joint",33.587923506782936,-84.46946647607234
+"50cba321e4b05e3eefc7ae5a","Atlanta Chophouse Brewery","Food::American Restaurant",33.64092481527215,-84.44466814975544

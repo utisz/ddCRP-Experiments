@@ -1,0 +1,964 @@
+"3fd66200f964a52033ef1ee3","Damon's Steak House","Food::Steakhouse",34.150674,-118.255414
+"3fd66200f964a52034ef1ee3","Capri Lounge","Nightlife Spot::Dive Bar",34.162089228630066,-118.26448969
+"3fd66200f964a52035ef1ee3","Dave's Bar","Nightlife Spot::Bar",34.146227606249475,-118.2478666305542
+"3fd66200f964a52037ef1ee3","Giggles Nightclub","Nightlife Spot::Nightclub",34.14866217608453,-118.25537183578815
+"3fd66200f964a5203cef1ee3","Village Pub","Nightlife Spot::Dive Bar",34.201447,-118.228069
+"3fd66200f964a520dcef1ee3","Elena's Greek Armenian Cuisine","Food::Greek Restaurant",34.13478970527649,-118.251576
+"3fd66200f964a520ddef1ee3","Sam's Armenian Bakery","Food::Bakery",34.13815377699283,-118.24902776005848
+"40a2ba80f964a5200df31ee3","Sushi on Brand","Food::Sushi Restaurant",34.15033042430878,-118.254808
+"43d91c83f964a5206e2e1fe3","Octopus Japanese Restaurant","Food::Japanese Restaurant",34.146978,-118.253877
+"441bd921f964a52048311fe3","Glendale Galleria","Shop & Service::Mall",34.14442710507933,-118.25871774126523
+"4583e528f964a520893f1fe3","La Cabañita","Food::Taco Place",34.20153620098055,-118.22784662246704
+"45d05059f964a520a9421fe3","Glendale Community College","College & University::Community College",34.16685162661355,-118.22822213172913
+"46063e54f964a520c8441fe3","Whisperz Cocktails","Nightlife Spot::Dive Bar",34.23604588,-118.25891733169556
+"488052c4f964a5202b511fe3","Caffe Primo","Food::Café",34.1437413747272,-118.25636386871338
+"49c31443f964a52054561fe3","The Americana at Brand","Shop & Service::Mall",34.14381241092894,-118.25670719146729
+"49c5a146f964a52017571fe3","California Pizza Kitchen","Food::Pizza Place",34.14722,-118.255161
+"49c66b51f964a52045571fe3","Starbucks","Food::Coffee Shop",34.157535,-118.264482
+"49c66b79f964a52046571fe3","Thai Rama","Food::Thai Restaurant",34.16090369224548,-118.264257
+"49c73028f964a5209e571fe3","Brand Library & Art Center","Professional & Other Places::Library",34.18223327695302,-118.27723498062224
+"49ca8a63f964a520b6581fe3","Left Coast Wine Bar","Arts & Entertainment::Music Venue::Rock Club",34.14444375,-118.25410212
+"49d0ec4cf964a520415b1fe3","Granville Cafe","Food::New American Restaurant",34.145205,-118.255175
+"49d31e18f964a520ee5b1fe3","DreamWorks Animation","Shop & Service::Design Studio",34.15753903579544,-118.28520834445953
+"49e01f52f964a5203e611fe3","Mambo's Cafe","Food::Cuban Restaurant",34.161427,-118.30003911666667
+"49e66d23f964a52046641fe3","Starbucks","Food::Coffee Shop",34.17165970349035,-118.28952142097779
+"49e7782ff964a520ac641fe3","Beard Papa's","Food::Snack Place",34.14432355,-118.25556457042694
+"49f24ec3f964a5201d6a1fe3","Palate Food & Wine","Food::Mediterranean Restaurant",34.134586,-118.25511
+"49f4bf97f964a520446b1fe3","Starbucks","Food::Coffee Shop",34.163309,-118.264613
+"49fee6c0f964a520b16f1fe3","Zankou Chicken","Food::Middle Eastern Restaurant",34.143195281932,-118.23391109704971
+"4a008794f964a5208e701fe3","Glendale Verdugo Skatepark","Outdoors & Recreation::Athletic & Sport::Skate Park",34.169884545941414,-118.22995363258619
+"4a0c58fef964a52024751fe3","Hilton Los Angeles North/Glendale & Executive Meeting Ctr","Travel & Transport::Hotel",34.15867986118363,-118.2564926147461
+"4a3454aef964a520159c1fe3","Kozy Corner Thai Cuisine","Food::Thai Restaurant",34.14815536840783,-118.25708490188596
+"4a356030f964a520e39c1fe3","Toasted Bun Restaurant","Food::American Restaurant",34.14982273,-118.24528856
+"4a369a9bf964a520bd9d1fe3","Apple Store","Shop & Service::Electronics Store",34.14526697502023,-118.25861692428589
+"4a3f28d1f964a520b6a31fe3","Pacific Theatres Glendale 18","Arts & Entertainment::Movie Theater::Multiplex",34.143510506659105,-118.25707197189331
+"4a446b27f964a52080a71fe3","The Winchester Room","Nightlife Spot::Dive Bar",34.168241,-118.29068188333333
+"4a451442f964a520bea71fe3","Pecos Bill's BBQ Ribs","Food::BBQ Joint",34.15974,-118.298006
+"4a550e86f964a5209fb31fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",34.14961,-118.25496
+"4a550f3ff964a520a1b31fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",34.15234265454698,-118.25467518400303
+"4a552c8ff964a520c7b31fe3","YP","Professional & Other Places::Office",34.15539051345249,-118.25564503669739
+"4a5935bff964a520fcb81fe3","Max's Restaurant","Food::Asian Restaurant",34.14700009900195,-118.2587456703186
+"4a5945aff964a52025b91fe3","The Fortune Inn","Food::Chinese Restaurant",34.146378,-118.25403708
+"4a5a5781f964a5202fba1fe3","Jack in the Box","Food::Fast Food Restaurant",34.1578764021067,-118.26430857181549
+"4a5b9a22f964a5207cbb1fe3","Billy's Deli - Glendale","Food::Diner",34.148832,-118.25624766666667
+"4a5bed57f964a52001bc1fe3","Pacific Food Mart","Food::Deli / Bodega",34.16041,-118.264111
+"4a5c918df964a5204abc1fe3","McDonald's","Food::Fast Food Restaurant",34.15322417938403,-118.25760304927826
+"4a5d4268f964a52076bd1fe3","Subway","Food::Sandwich Place",34.158068948360345,-118.26382850537267
+"4a5eb4a9f964a5200ebf1fe3","BJ's Restaurant & Brewhouse","Food::Brewery",34.14651569966299,-118.25514342567928
+"4a60fecbf964a520a2c11fe3","Hot Dog On A Stick","Food::Fast Food Restaurant",34.144984499634226,-118.25923919677734
+"4a6117a5f964a520d5c11fe3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",34.14355490441352,-118.25821995735168
+"4a612031f964a520f2c11fe3","Forever 21","Shop & Service::Clothing Store::Women's Store",34.14430966266865,-118.25778007507324
+"4a62665af964a520f5c31fe3","Carl's Jr. / Green Burrito","Food::Fast Food Restaurant",34.16443081286981,-118.28103747734792
+"4a62748bf964a5201dc41fe3","Raffi's Place","Food::Middle Eastern Restaurant",34.14656501774586,-118.25275897979736
+"4a639503f964a5205fc51fe3","Ralphs","Shop & Service::Food & Drink Shop::Grocery Store",34.16402037192637,-118.25656527364856
+"4a655676f964a52080c71fe3","Froyo Life","Food::Dessert Shop",34.20570636666667,-118.22814166545868
+"4a68a42ef964a520bcca1fe3","Swain's","Shop & Service::Arts & Crafts Store",34.15450267834145,-118.2438325881958
+"4a6a0941f964a52070cc1fe3","Carousel Restaurant","Food::Middle Eastern Restaurant",34.15013439366772,-118.25485110282898
+"4a6a3e68f964a520eecc1fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",34.151078,-118.245814
+"4a6a7ea8f964a520a0cd1fe3","Trattoria Amici","Food::Italian Restaurant",34.14362118429152,-118.25653101239062
+"4a6b9f1ef964a52066cf1fe3","The LEGO Store","Shop & Service::Toy / Game Store",34.144984499634226,-118.25863838195801
+"4a6e620af964a5209fd41fe3","Conrad's Restaurant","Food::Diner",34.15830641666667,-118.2574313879013
+"4a6fe892f964a5201ed71fe3","Hollywood Production Center","Professional & Other Places::Office",34.15205960178657,-118.25594285972643
+"4a707bc4f964a52093d71fe3","Walt Disney Parks & Resorts Online","Professional & Other Places::Office",34.15968434725115,-118.283452532579
+"4a710288f964a520f6d81fe3","Cost Plus World Market","Shop & Service::Furniture / Home Store",34.14941076372359,-118.24764132499695
+"4a721084f964a52043da1fe3","Panera Bread","Food::Bakery",34.15009678,-118.254768
+"4a7262eff964a520feda1fe3","Shakers","Food::American Restaurant",34.15755474853654,-118.25820980596002
+"4a7495c3f964a520bdde1fe3","In-N-Out Burger","Food::Burger Joint",34.14568596918725,-118.2548189163208
+"4a74bd71f964a52072df1fe3","La Cubana","Food::Cuban Restaurant",34.14773941040039,-118.254035
+"4a75007df964a5203de01fe3","Golden Farms Market","Shop & Service::Food & Drink Shop",34.167369,-118.291119
+"4a75d3ecf964a5205ee11fe3","Target","Shop & Service::Department Store",34.14320860131048,-118.25902462005615
+"4a75eb59f964a520a6e11fe3","Sonora Auto Spa","Shop & Service::Automotive Shop",34.15896008617412,-118.29777087999496
+"4a773b8bf964a520e8e31fe3","Pho Hut","Food::Vietnamese Restaurant",34.15049465,-118.254774
+"4a77a333f964a520f4e41fe3","In-N-Out Burger","Food::Burger Joint",34.14865938067212,-118.22735577821732
+"4a77c12bf964a52018e51fe3","El Sauz Tacos","Food::Taco Place",34.13329839706421,-118.262187
+"4a7b47daf964a5208eea1fe3","Rubio's","Food::Mexican Restaurant",34.149723745533834,-118.24604004621506
+"4a7b8e1ef964a52060eb1fe3","Arko foods international","Shop & Service::Food & Drink Shop::Grocery Store",34.14302505,-118.233157
+"4a7db80df964a52055ef1fe3","Rite Aid","Shop & Service::Drugstore / Pharmacy",34.15467999,-118.243456
+"4a7dd021f964a520baef1fe3","Glendale Dodge & Chevrolet","Shop & Service::Gas Station / Garage",34.13275484635021,-118.2553832562856
+"4a7df030f964a52043f01fe3","Dinah's Fried Chicken","Food::Fried Chicken Joint",34.129348,-118.25983468
+"4a8073e7f964a5204af51fe3","Panda Inn","Food::Chinese Restaurant",34.148292,-118.25422
+"4a807685f964a52056f51fe3","Roman's Express","Food::American Restaurant",34.15349497418152,-118.25532853603363
+"4a85bc8cf964a52016ff1fe3","Thai in LA","Food::Thai Restaurant",34.15013518614026,-118.25524621026601
+"4a8705e3f964a520270220e3","Zeke's Smokehouse","Food::BBQ Joint",34.20532736038261,-118.22569310248171
+"4a873271f964a520310320e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",34.12778456325523,-118.25922621038578
+"4a873343f964a520350320e3","California Car Wash & Detail","Shop & Service::Car Wash",34.12772921809051,-118.25777583369111
+"4a898af9f964a520550820e3","Joann Fabrics & Crafts","Shop & Service::Arts & Crafts Store",34.14780240108354,-118.25670231861164
+"4a89afb3f964a520b10820e3","Zono Sushi - Glendale","Food::Sushi Restaurant",34.147774483333336,-118.254401
+"4a8b29b1f964a5209f0b20e3","Porto's Bakery & Cafe","Food::Bakery",34.15037147842448,-118.25536041528996
+"4a8b9031f964a520ab0c20e3","Recess","Food::Italian Restaurant",34.161802,-118.25488865375519
+"4a8de505f964a520521120e3","KABC","Professional & Other Places::Office",34.15813837699715,-118.2880142101772
+"4a8f5455f964a520ed1420e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",34.14728234,-118.24635242
+"4a90aabbf964a5200d1920e3","Ralphs","Shop & Service::Food & Drink Shop::Grocery Store",34.14838979586222,-118.24785698327801
+"4a90e8c9f964a520af1920e3","Sur La Table","Shop & Service::Furniture / Home Store",34.14381241092894,-118.25524806976318
+"4a916734f964a520181a20e3","The Black Cow","Food::American Restaurant",34.20529003,-118.22596
+"4a91ad29f964a5204b1b20e3","The Habit Burger Grill","Food::Burger Joint",34.14949955300746,-118.24606418609619
+"4a91b6ccf964a5207f1b20e3","Acapulco Mexican Restaurant","Food::Mexican Restaurant",34.1570824010257,-118.26381137547217
+"4a923b32f964a520fc1c20e3","Taco Azteca","Food::Taco Place",34.144640606148066,-118.23467093272122
+"4a92f4e1f964a520481e20e3","Islands Restaurant","Food::Burger Joint",34.14658277620835,-118.25619220733643
+"4a936f22f964a520c21f20e3","Moonlight Rollerway","Outdoors & Recreation::Athletic & Sport::Skating Rink",34.14470923783868,-118.27031135559082
+"4a93fec2f964a5201e2020e3","Chevron Station","Shop & Service::Gas Station / Garage",34.15824229768631,-118.25820980596002
+"4a94430cf964a520fb2020e3","El Morfi Grill","Food::Argentinian Restaurant",34.14960927,-118.2552695274353
+"4a959063f964a520aa2320e3","Ichiban Japanese restaurant","Food::Sushi Restaurant",34.14554497420153,-118.25391571612118
+"4a9719ddf964a520732820e3","Starbucks","Food::Coffee Shop",34.14544622708376,-118.25464725494385
+"4a980221f964a520172a20e3","Eat Well","Food::Coffee Shop",34.134022194037556,-118.25518339747033
+"4a9b0b01f964a5202a3420e3","Robbins Brothers","Shop & Service::Jewelry Store",34.1423645567084,-118.25822693642174
+"4a9d8b67f964a520753820e3","Glendale Civic Center","Arts & Entertainment::Concert Hall",34.166355444301345,-118.23162126439111
+"4a9dc82df964a5205f3920e3","Olive Garden","Food::Italian Restaurant",34.14735630232156,-118.25531473328952
+"4a9f1040f964a5205c3c20e3","GNC","Shop & Service::Drugstore / Pharmacy",34.14582457563611,-118.25597141087331
+"4aa0070ef964a520023e20e3","Brand Bookshop","Shop & Service::Bookstore",34.14926125073883,-118.25518339747033
+"4aa56426f964a5202b4820e3","Sit'n Sleep Glendale","Shop & Service::Furniture / Home Store",34.147576,-118.257517
+"4aa57dacf964a520964820e3","VONS","Shop & Service::Food & Drink Shop::Grocery Store",34.129148,-118.258645
+"4aa59a93f964a520eb4820e3","Nice & Clean Coin Laundry","Shop & Service::Laundry Service",34.17436033023772,-118.29341498711435
+"4aab17c4f964a520e15820e3","Kabab Way","Food::Middle Eastern Restaurant",34.13498818874359,-118.25192612
+"4ab2b93df964a520026c20e3","Lola's Peruvian","Food::South American Restaurant",34.149279592709874,-118.2548122304799
+"4ab2e104f964a520c76c20e3","Oakmont Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",34.19353497090074,-118.23423118988124
+"4ab41217f964a520b86f20e3","Chipotle Mexican Grill","Food::Mexican Restaurant",34.147427883333336,-118.24642
+"4ab52e85f964a5200d7320e3","Nordstrom Rack","Shop & Service::Clothing Store",34.14946847676873,-118.24760377407074
+"4ab7f11ef964a520867b20e3","Burger King","Food::Fast Food Restaurant",34.15346465224226,-118.25813557393947
+"4abac100f964a520ca8220e3","Fish King","Shop & Service::Food & Drink Shop::Fish Market",34.15685,-118.241144
+"4abd3a1af964a5201e8920e3","The Coffee Bean & Tea Leaf","Food::Coffee Shop",34.16864587148222,-118.2290569882449
+"4ac00639f964a520819320e3","Joselito's Mexican Food","Food::Mexican Restaurant",34.20631728696003,-118.22983369953779
+"4ac10db0f964a520999520e3","Taco Truck at 611 N Brand","Food::Food Truck",34.15523736256202,-118.25508445501328
+"4ac119eef964a520d39520e3","LegalZoom Headquarters","Professional & Other Places::Office",34.147040312694855,-118.25551459195134
+"4ac2557df964a520c09820e3","Parkview Pet Clinic","Professional & Other Places::Medical Center::Hospital",34.16948,-118.22885383333333
+"4ac2b2fbf964a5206a9a20e3","Pho 22","Food::Vietnamese Restaurant",34.2050471811101,-118.22630420377114
+"4ac3b4bcf964a520749c20e3","Cafe Bravo","Food::Middle Eastern Restaurant",34.16514956157506,-118.28104318673871
+"4ac3c207f964a520b29c20e3","Wells Fargo","Shop & Service::Bank",34.155196020363626,-118.25576013227352
+"4ac4fa95f964a520cb9f20e3","Lexus of Glendale","Shop & Service::Automotive Shop",34.131975461323584,-118.25516055644803
+"4ac5aa87f964a52064b220e3","Tavern On Brand","Food::American Restaurant",34.148448,-118.25481853333334
+"4ac78423f964a520aeb720e3","Crescenta Valley Park","Outdoors & Recreation::Park",34.22422255950113,-118.25666427612305
+"4ac7b3a9f964a52034b920e3","Sushi Kai","Food::Sushi Restaurant",34.1448,-118.253939
+"4ac8f0c3f964a5206fbd20e3","Brookstone","Shop & Service::Electronics Store",34.143705856603965,-118.25838088989258
+"4ac9126bf964a5206fbe20e3","Gauchos Village","Food::Brazilian Restaurant",34.15216984710622,-118.25524270534515
+"4aca44c1f964a52021c120e3","Teriyaki Me!","Food::Japanese Restaurant",34.14804145456932,-118.25690217565271
+"4aca9a91f964a52082c220e3","VCA Arden Animal Hospital","Professional & Other Places::Medical Center::Veterinarian",34.1587323728691,-118.26177290505618
+"4acd2c2bf964a52036cb20e3","Chase Bank","Shop & Service::Bank",34.1555525423531,-118.25465261936188
+"4acf90a8f964a52092d420e3","Glen Oaks Escrow","Professional & Other Places::Office",34.16220250150613,-118.28271032066591
+"4ad22300f964a5209adf20e3","glendale yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",34.157486759681255,-118.24063304910712
+"4ad2688df964a52076e120e3","Supercuts - Glendale","Shop & Service::Salon / Barbershop",34.150205424493755,-118.24524879455566
+"4ad3d25bf964a52080e620e3","Carr Park","Outdoors & Recreation::Park",34.144265265310885,-118.2294774055481
+"4ad4f17af964a520c9fc20e3","Pacific BMW","Shop & Service::Automotive Shop",34.137809641178606,-118.25494766235352
+"4ad50fbaf964a520970121e3","Gina's Taco","Food::Mexican Restaurant",34.142399445257915,-118.26391696929932
+"4ad74bc3f964a5204d0921e3","Goodwill","Shop & Service::Thrift / Vintage Store",34.14248369,-118.2291526
+"4ad77532f964a520ca0a21e3","Total Woman Gym & Spa","Shop & Service::Gym / Fitness Center::Gym",34.15488869513159,-118.25537183578815
+"4ad7fca2f964a5206e1021e3","Glendale Amtrak / Metrolink Station (GDL)","Travel & Transport::Train Station",34.124300949418235,-118.2596658890803
+"4ad8cf8ff964a520e01421e3","Mario's Italian Deli & Market","Food::Italian Restaurant",34.146165,-118.24577791666667
+"4ada364ef964a5200a2021e3","Glendale High School","Professional & Other Places::School::High School",34.14527699596462,-118.23351160825878
+"4ada67b0f964a520512221e3","Cho Dang Tofu & BBQ","Food::Korean Restaurant",34.20541380953426,-118.22190284729004
+"4adb9d61f964a520642921e3","Massage envy","Shop & Service::Spa / Massage",34.15102648333333,-118.25503885746002
+"4add06b2f964a520916321e3","Glendale Central Library","Professional & Other Places::Library",34.144007760175704,-118.2533597946167
+"4ade0ceef964a520da6921e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",34.13783628163138,-118.25817167758942
+"4ade22a6f964a5205d7321e3","Carl's Jr.","Food::Fast Food Restaurant",34.12776964319088,-118.26002562535322
+"4adf3602f964a520587821e3","The Home Depot","Shop & Service::Hardware Store",34.14388344707093,-118.26880931854248
+"4adfbbc8f964a520167d21e3","Red Carpet Wine & Spirits","Shop & Service::Food & Drink Shop::Liquor Store",34.1581359125,-118.250922
+"4ae0a7d5f964a520568121e3","Jax Bar & Grill","Food::American Restaurant",34.15124699717112,-118.25518339747033
+"4ae35d5ff964a5200c9421e3","Jack in the Box","Food::Fast Food Restaurant",34.164889454841614,-118.281698
+"4ae49412f964a520dd9b21e3","Glorietta Park","Outdoors & Recreation::Park",34.187908200718965,-118.22706950512517
+"4ae61c87f964a520c7a421e3","Vitamin Shoppe","Shop & Service::Miscellaneous Shop",34.152104,-118.24493486666667
+"4ae8a163f964a52008b121e3","Disney Consumer Products","Professional & Other Places::Office::Coworking Space",34.160824279789935,-118.28698084960902
+"4ae9c127f964a5201bb621e3","Starbucks","Food::Coffee Shop",34.146884669499336,-118.25531244277954
+"4aea4f9df964a520f3ba21e3","The Costume Shop - Glendale","Shop & Service::Clothing Store",34.15349467829689,-118.27024638722432
+"4aeb67bdf964a520d9c121e3","Verdugo Hills Medical Center","Professional & Other Places::Medical Center::Emergency Room",34.15482230005668,-118.24241638183594
+"4aec895cf964a5206ac821e3","Glendale Hyundai","Shop & Service::Automotive Shop",34.14075493812561,-118.255173
+"4aeccf33f964a52065cb21e3","Jons Marketplace","Shop & Service::Food & Drink Shop::Grocery Store",34.1718109640561,-118.28974978508671
+"4aecd095f964a52071cb21e3","Paradise Pastry","Food::Bakery",34.17312168369124,-118.29213046267748
+"4aecff99f964a520a1cc21e3","Blockbuster - Colorado","Shop & Service::Video Store",34.142373,-118.242939
+"4aee105df964a520bcd121e3","Foxy's Restaurant","Food::Breakfast Spot",34.142364263534546,-118.256836
+"4aefa20df964a520add921e3","India's Flavor","Food::Indian Restaurant",34.1986755,-118.22962760925293
+"4af08dcaf964a5202cdd21e3","Department of Motor Vehicles","Professional & Other Places::Government Building",34.1669546330165,-118.28328696250927
+"4af1b1a6f964a52046e221e3","Antique Car Wash","Shop & Service::Car Wash",34.14351,-118.24837
+"4af1c420f964a520f7e221e3","Ralphs","Shop & Service::Food & Drink Shop::Grocery Store",34.142270988885436,-118.2333631227867
+"4af1e2a0f964a52018e421e3","El Tapatio","Food::Taco Place",34.13023376464844,-118.25235748291016
+"4af22753f964a52036e621e3","Pedal Spin Studio","Shop & Service::Gym / Fitness Center",34.20496571972046,-118.22645723819733
+"4af23669f964a5209ee621e3","Red Robin Gourmet Burgers","Food::Burger Joint",34.1437413747272,-118.25876712799072
+"4af24762f964a52018e721e3","Old Navy","Shop & Service::Clothing Store",34.145330795457966,-118.25478672981262
+"4af24c39f964a5203ee721e3","Three Drunken Goats","Food::Tapas Restaurant",34.20513228171761,-118.22694957006354
+"4af64cc3f964a520f20222e3","HomeGoods","Shop & Service::Furniture / Home Store",34.144984499634255,-118.25469017028809
+"4af8cf91f964a520161022e3","Anthropologie","Shop & Service::Clothing Store::Women's Store",34.14404327817204,-118.25709342956543
+"4af9cea9f964a520631422e3","Rally's Hamburgers","Food::Fast Food Restaurant",34.12383556365967,-118.25556958
+"4af9f211f964a5207a1522e3","Michaels","Shop & Service::Arts & Crafts Store",34.14902008976584,-118.2482260465622
+"4afd88b3f964a5205d2822e3","Los Angeles Superior Glendale Courthouse","Professional & Other Places::Government Building::Courthouse",34.146393,-118.248326
+"4afdfb34f964a520aa2c22e3","Maui Wowi","Food::Coffee Shop",34.15492236614227,-118.25539290904999
+"4aff215af964a520a83422e3","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",34.14621295429814,-118.2570335101526
+"4aff736ef964a520af3822e3","La Cabanita","Food::Mexican Restaurant",34.20157241821289,-118.22784423828125
+"4aff7ad3f964a520f83822e3","Alex Theatre","Arts & Entertainment::Performing Arts Venue",34.148802133591865,-118.25460666072345
+"4b003eddf964a520e93b22e3","The Coffee Bean & Tea Leaf","Food::Coffee Shop",34.15014708892154,-118.24515982993523
+"4b00475ef964a520463c22e3","Mobil","Shop & Service::Gas Station / Garage",34.133769,-118.254733
+"4b008b97f964a520553f22e3","Pro Italia Motors","Shop & Service::Automotive Shop",34.19923460699408,-118.22943392210503
+"4b01bd71f964a520034522e3","Shamshiri Restaurant","Food::Mediterranean Restaurant",34.16329318333333,-118.256417
+"4b04d78cf964a520c25622e3","Nishi-Ya","Food::Sushi Restaurant",34.16131832,-118.300884
+"4b077d02f964a52019fe22e3","The Big Fish","Nightlife Spot::Bar",34.148121,-118.27223495
+"4b085b93f964a520fa0923e3","Gilly Hicks","Shop & Service::Clothing Store::Lingerie Store",34.144218,-118.256617
+"4b0879e9f964a520a50c23e3","(Uncle) Tom's Toys","Shop & Service::Toy / Game Store",34.205421,-118.22750643333333
+"4b089006f964a5207e0e23e3","Da Juice Bar","Food::Juice Bar",34.15020704269409,-118.255234
+"4b097431f964a5207f1723e3","Montrose Harvest Market","Outdoors & Recreation::Plaza",34.2052008562564,-118.22696685791016
+"4b097daef964a520201823e3","Cold Stone Creamery","Food::Ice Cream Shop",34.229793401962496,-118.24902534484863
+"4b0a1916f964a520c52123e3","Borders","Shop & Service::Bookstore",34.14611217569133,-118.25475454330444
+"4b0af92df964a520ec2a23e3","Tres Hermanas Taqueria","Food::Mexican Restaurant",34.14096075522517,-118.2583868206483
+"4b0c46e5f964a5204f3a23e3","Bank of America","Shop & Service::Bank",34.15476546470871,-118.25583436532479
+"4b0c4a14f964a5208b3a23e3","Enterprise","Travel & Transport::Rental Car Location",34.136362038839614,-118.25167726486721
+"4b0ca781f964a5209e4023e3","Tony Roma's Ribs, Seafood, & Steaks","Food::American Restaurant",34.14743898903346,-118.25381843989851
+"4b0db0a1f964a520f64d23e3","Paradis Ice Cream","Food::Ice Cream Shop",34.20593,-118.229051
+"4b1072c9f964a520ac7023e3","Virgil's Hardware","Shop & Service::Hardware Store",34.15372137572286,-118.24318885803223
+"4b108b8cf964a5208d7223e3","Mori Teppan Grill","Food::Japanese Restaurant",34.163304,-118.256255
+"4b11c118f964a520e68323e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",34.23310849,-118.25392477
+"4b11fefff964a520ff8723e3","Hookah Lounge","Nightlife Spot::Hookah Bar",34.14290742467004,-118.24415653961745
+"4b1304b6f964a520c39223e3","Baskin Robins","Food::Dessert Shop",34.1599235534668,-118.23721313476562
+"4b14bd7af964a5202da623e3","Jane's Cakes & Chocolates","Food::Bakery",34.20606837,-118.229341
+"4b16d24cf964a520efbd23e3","Nestlé USA","Professional & Other Places::Office",34.15795767224522,-118.25440109072005
+"4b197ec8f964a52063de23e3","El Pollo Loco","Food::Mexican Restaurant",34.14335755507484,-118.249102
+"4b199230f964a520b9df23e3","H&M","Shop & Service::Clothing Store",34.144345180538075,-118.25705051422119
+"4b1adf7ff964a520aaf323e3","Starbucks","Food::Coffee Shop",34.23759905805663,-118.26104164123535
+"4b1b10ddf964a5207cf723e3","Peet's Coffee & Tea","Food::Coffee Shop",34.145233122420635,-118.2588529586792
+"4b1b1daff964a5204bf823e3","Don Cuco Mexican Restaurant","Food::Mexican Restaurant",34.148926860486156,-118.25473308563232
+"4b1ebd5cf964a520cf1e24e3","Yoshinoya","Food::Japanese Restaurant",34.14235587,-118.25532
+"4b1ec1b9f964a520101f24e3","The Bicycle Mart","Shop & Service::Bike Shop",34.126565,-118.25513
+"4b1f2587f964a5206b2424e3","The Cheesecake Factory","Food::American Restaurant",34.14403439867437,-118.25725436210632
+"4b21ad81f964a520ff3f24e3","Scholl Canyon Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",34.16075283907298,-118.19958686828613
+"4b22adbef964a520a54b24e3","Subway","Food::Sandwich Place",34.16595182,-118.287609
+"4b232bd9f964a5201d5424e3","Barnes & Noble","Shop & Service::Bookstore",34.14363482031264,-118.25679302215576
+"4b24001af964a520c55e24e3","Nordstrom","Shop & Service::Department Store",34.14632501400146,-118.25747319448357
+"4b241346f964a5207b6024e3","Woodlands Cafe","Food::Thai Restaurant",34.18397143333333,-118.229328
+"4b243a78f964a520346424e3","Everest","Food::Burger Joint",34.237803667669276,-118.26242384783096
+"4b246528f964a520046724e3","Victory Studios","Arts & Entertainment::General Entertainment",34.163326943456134,-118.30354240889649
+"4b256bbbf964a520b27124e3","Bath & Body Works","Shop & Service::Cosmetics Shop",34.144675,-118.259332
+"4b25a20af964a520ca7424e3","Express","Shop & Service::Clothing Store",34.14535720357304,-118.2594146442504
+"4b25b7a8f964a520a47524e3","Clancy's Crab Broiler","Food::Seafood Restaurant",34.14881587311425,-118.25816094875336
+"4b26b3b4f964a520c07f24e3","Subway 28424","Food::Sandwich Place",34.1495521,-118.2460074
+"4b2840d3f964a520989124e3","Far Niente Ristorante","Food::Italian Restaurant",34.14814550628762,-118.25494766235352
+"4b29aedff964a5207fa224e3","Office Depot","Shop & Service::Paper / Office Supplies Store",34.14719592394011,-118.265164
+"4b29ba5bf964a520f0a224e3","Glendale Salon Spa","Shop & Service::Salon / Barbershop",34.146543344022774,-118.24938739031886
+"4b2a86dff964a520d2aa24e3","Extra","Arts & Entertainment::General Entertainment",34.16331625783248,-118.30396484742808
+"4b2abf92f964a520d2ae24e3","Univision Communications","Shop & Service::Design Studio",34.15575007150499,-118.25875797988382
+"4b2ac36cf964a52027af24e3","Starbucks","Food::Coffee Shop",34.13507318910878,-118.25821551611412
+"4b2aca0df964a520afaf24e3","7-Eleven","Shop & Service::Food & Drink Shop",34.146722266494365,-118.25038671589479
+"4b2acccdf964a520e8af24e3","US Post Office","Professional & Other Places::Post Office",34.14654111312784,-118.25205414901522
+"4b2b1787f964a5205bb424e3","Glendale Sports Complex","Shop & Service::Gym / Fitness Center::Gym",34.1846086840253,-118.2155496461555
+"4b2bf709f964a520a3be24e3","Mediterranean delight","Food::Mediterranean Restaurant",34.14539337158203,-118.25457763671875
+"4b2d3e51f964a52016d224e3","Subway","Food::Fast Food Restaurant",34.14555499904837,-118.24012577533722
+"4b2e8055f964a52050e124e3","HoneyBaked Ham","Food::American Restaurant",34.15489613760918,-118.24408801212947
+"4b2fc9a0f964a520ecef24e3","Hot Wings Cafe","Food::Wings Joint",34.15056057772792,-118.25486183166504
+"4b2fd6ddf964a520faf024e3","Subway","Food::Sandwich Place",34.146710380842705,-118.25505206155037
+"4b302ad2f964a5203df724e3","Pacific Park - Glendale","Outdoors & Recreation::Park",34.13917255887569,-118.26531880014235
+"4b315586f964a520f30425e3","Marie Callender's","Food::American Restaurant",34.15707737444846,-118.26458483934402
+"4b319581f964a5205e0925e3","New Moon Restaurant","Food::Chinese Restaurant",34.20468531666667,-118.224474
+"4b3270c6f964a520c30b25e3","Glendale Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",34.15186251037312,-118.23291766559996
+"4b32880bf964a520ee0d25e3","Crepemaker","Food::French Restaurant",34.14366048155525,-118.25674800024161
+"4b3291aaf964a520e20e25e3","Cole Haan","Shop & Service::Clothing Store::Shoe Store",34.14388344707093,-118.25589179992676
+"4b367482f964a520d73525e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",34.20543,-118.221055
+"4b37cf82f964a520974625e3","HK Market","Food::Korean Restaurant",34.15852686666667,-118.264572
+"4b37e9e8f964a5207d4825e3","Katsuya by Starck","Food::Sushi Restaurant",34.14403883842332,-118.25648188591003
+"4b3811d2f964a520254b25e3","Leo's All-Star Sports Bar & Grill","Nightlife Spot::Sports Bar",34.213631,-118.24312056666668
+"4b3917ccf964a520005625e3","Le Petite Cafe","Food::Sandwich Place",34.16085937189361,-118.25525879859924
+"4b3a5addf964a5206c6525e3","Central Coin Laundry","Professional & Other Places::Building",34.13559696666667,-118.25821716
+"4b3a79acf964a520286825e3","US Post Office","Professional & Other Places::Post Office",34.146416290476054,-118.23548555374146
+"4b3abdf4f964a520b46d25e3","Mobil Gas Station","Shop & Service::Gas Station / Garage",34.142375,-118.23426203333334
+"4b3bcb2ef964a5204b7b25e3","sidewalk cafe","Food::American Restaurant",34.16129684448242,-118.27497100830078
+"4b3c53faf964a520dd8325e3","Jewel City Diner","Food::Diner",34.14434925,-118.25715431666667
+"4b3d1ccbf964a520388e25e3","Frederick's of Hollywood","Shop & Service::Clothing Store::Lingerie Store",34.1453395397028,-118.25888931295883
+"4b3d555ef964a520939225e3","Outback Steakhouse","Food::Steakhouse",34.14516652710316,-118.25468480587006
+"4b3d55faf964a5209d9225e3","7-Eleven","Shop & Service::Food & Drink Shop",34.13325166859316,-118.2522425907781
+"4b3e587cf964a520a29b25e3","IHOP","Food::Breakfast Spot",34.154964353764065,-118.24298232793808
+"4b3e5b79f964a520d69b25e3","Pepe's Mexican","Food::Mexican Restaurant",34.205321,-118.227588
+"4b3e9228f964a520169f25e3","CVS Pharmacy- Glendale","Shop & Service::Drugstore / Pharmacy",34.145888,-118.240611
+"4b3f91b3f964a5204aa925e3","Disabled Veterans Charities","Shop & Service::Clothing Store",34.165617,-118.28838
+"4b3fdc88f964a520bbb025e3","Chase Bank","Shop & Service::Bank",34.153162,-118.243228
+"4b3ff45bf964a520e0b225e3","World Gym","Shop & Service::Gym / Fitness Center::Gym",34.142911840982414,-118.24283166999489
+"4b3ff9c7f964a5205cb325e3","Star Cafe","Food::Italian Restaurant",34.20530108787295,-118.22583017211882
+"4b40e31ef964a520ccbc25e3","Coffee Bean","Food::Coffee Shop",34.16430840019834,-118.25659382469158
+"4b412c20f964a52099c225e3","Hot Topic @ Glendale Galleria","Shop & Service::Clothing Store::Boutique",34.14608553784783,-118.25696468353271
+"4b412e5bf964a520bbc225e3","7-Eleven","Shop & Service::Convenience Store",34.142483207944636,-118.26469070814578
+"4b416239f964a52010c625e3","Smart & Final Extra!","Shop & Service::Food & Drink Shop::Grocery Store",34.148649699140584,-118.23504214333265
+"4b41699ef964a52064c625e3","Nail Forum Inc","Shop & Service::Cosmetics Shop",34.149809,-118.24608698333333
+"4b4255cbf964a520d4d125e3","Kyochon Chicken","Food::Korean Restaurant",34.14503664303201,-118.25893499400476
+"4b428868f964a520d9d525e3","AAA - Automobile Club of Southern California","Travel & Transport::General Travel",34.14643049240112,-118.237975
+"4b43b517f964a52020e725e3","Johnnie's NY Pizzeria","Food::Pizza Place",34.14757837619245,-118.25498353842171
+"4b43f952f964a52070ef25e3","Brand Terrace Cafe","Food::Café",34.15127944946289,-118.255126953125
+"4b45098ff964a5200b0226e3","Rayhun Sandwiches and Salads","Food::Sandwich Place",34.14711018333333,-118.255216
+"4b4565a9f964a520f90b26e3","Jewel City Bowl","Arts & Entertainment::Bowling Alley",34.145336,-118.247878
+"4b466658f964a520c61f26e3","Blockbuster Video","Shop & Service::Video Store",34.158692,-118.263619
+"4b475833f964a520602f26e3","Modern Auto Body","Shop & Service::Automotive Shop",34.12651,-118.257705
+"4b475966f964a520802f26e3","The Coffee Bean & Tea Leaf","Food::Coffee Shop",34.143582898112406,-118.25518497316934
+"4b479d41f964a5206f3726e3","Mr K's Pizza","Food::Pizza Place",34.16822814941406,-118.28636169433594
+"4b4909c3f964a5202f6326e3","Glendale Centre Theater","Arts & Entertainment::Performing Arts Venue::Theater",34.15095435,-118.25595496666666
+"4b4935bcf964a520216a26e3","Glendale Adventist Medical Center","Professional & Other Places::Medical Center::Hospital",34.15061385058426,-118.2299280166626
+"4b498d0cf964a520257126e3","Fat Dog","Food::Restaurant",34.20553063118967,-118.22706379393367
+"4b4a49c1f964a520688226e3","Urban Outfitters","Shop & Service::Clothing Store",34.14339951217105,-118.25705051422119
+"4b4a6a0cf964a520d48626e3","Albertsons","Shop & Service::Food & Drink Shop::Grocery Store",34.13418889045715,-118.25716316699982
+"4b4a6f96f964a5208f8726e3","House Of Joy","Food::Chinese Restaurant",34.158059,-118.263392
+"4b4b9aa3f964a520b2a126e3","L&L Hawaiian BBQ","Food::BBQ Joint",34.14547452146788,-118.25410415583478
+"4b4bc001f964a5205fa626e3","Smart & Final Extra!","Shop & Service::Food & Drink Shop::Grocery Store",34.174350266666664,-118.292715
+"4b4bdd31f964a520f5a926e3","Sprint Store","Shop & Service::Salon / Barbershop",34.14999165896302,-118.25523478975941
+"4b4be5d7f964a520c8aa26e3","VONS","Shop & Service::Food & Drink Shop::Grocery Store",34.20534789562225,-118.221383
+"4b4bf8a2f964a5205eac26e3","Chess Park","Outdoors & Recreation::Park",34.14907225372268,-118.25542107224464
+"4b4cc768f964a52081be26e3","Walt Disney Imagineering Library","Professional & Other Places::Office",34.16149018249509,-118.28855087009782
+"4b4e3707f964a52084e526e3","George's Cucina Italina","Food::Italian Restaurant",34.172571301460266,-118.279914
+"4b4e42fcf964a52040e726e3","Valvoline Instant Oil Change","Shop & Service::Automotive Shop",34.153802,-118.24370695
+"4b4e6f58f964a520aaed26e3","Yaki's Teriyaki Bowl - Montrose","Food::Burger Joint",34.212852,-118.24159341666666
+"4b4ea27bf964a52011f326e3","La Salsa","Shop & Service::Food & Drink Shop::Food Court",34.14516383015019,-118.25894070413466
+"4b4f90d7f964a520b30b27e3","City Center (Glendale Neighborhood)","Travel & Transport::General Travel",34.14992130083122,-118.25011968612671
+"4b4fbd0df964a5205d1327e3","Rolling Robots","Shop & Service::Toy / Game Store",34.143896,-118.255121
+"4b4fe531f964a520e71827e3","76","Shop & Service::Gas Station / Garage",34.158763,-118.258336
+"4b5003e3f964a520371b27e3","Chevron","Shop & Service::Gas Station / Garage",34.1426403059629,-118.241944313049
+"4b501344f964a520451c27e3","Banana Republic","Shop & Service::Clothing Store",34.145228,-118.258571
+"4b50c4d8f964a5209e3127e3","Chevron Station","Shop & Service::Gas Station / Garage",34.146633,-118.26371191666667
+"4b510d56f964a520be3f27e3","7-Eleven","Shop & Service::Food & Drink Shop",34.166040232439244,-118.28789431783612
+"4b5119c4f964a520674227e3","Q Q Buffet & Grill","Food::Asian Restaurant",34.15862215443291,-118.25780153274536
+"4b5129b6f964a520704527e3","Sony Store","Shop & Service::Electronics Store",34.14426821666667,-118.2559722661972
+"4b512d29f964a5200c4627e3","Sushi Joint","Food::Sushi Restaurant",34.1653307,-118.28712141666666
+"4b521461f964a520396627e3","Corner Bistro","Nightlife Spot::Beer Garden",34.170934,-118.294753
+"4b5214a7f964a520496627e3","Gigi's Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",34.143350674550106,-118.25567722320557
+"4b521abbf964a520336827e3","The Art of Shaving","Shop & Service::Salon / Barbershop",34.143703853826054,-118.25558332390784
+"4b521dc3f964a5202a6927e3","kate spade new york","Shop & Service::Clothing Store::Women's Store",34.14383,-118.25628876686096
+"4b5224e5f964a5202d6b27e3","Barneys New York CO-OP Glendale","Shop & Service::Clothing Store",34.14421248721619,-118.25687933485983
+"4b5229f0f964a520b36c27e3","La Vaca","Food::BBQ Joint",34.14512252807617,-118.25938415527344
+"4b523b93f964a5208a7127e3","America's Tire","Shop & Service::Automotive Shop",34.128910303115845,-118.253058
+"4b52576df964a520357827e3","Ross Dress For Less","Shop & Service::Department Store",34.14928985593755,-118.24692045879347
+"4b525eabf964a520d07927e3","T.J. Maxx","Shop & Service::Clothing Store",34.14948623462083,-118.24652016162872
+"4b526020f964a520297a27e3","Staples","Shop & Service::Paper / Office Supplies Store",34.148607216460306,-118.24817776679993
+"4b527bc9f964a520637f27e3","Gap","Shop & Service::Clothing Store",34.14454444403935,-118.25859809600418
+"4b52885df964a5204e8127e3","Mann Glendale Exchange 10","Arts & Entertainment::Movie Theater",34.147458343454716,-118.2535673876195
+"4b52f0b0f964a520078b27e3","Embassy Suites Hotel","Travel & Transport::Hotel",34.15767662634542,-118.25747319448357
+"4b538420f964a520afa027e3","Glendale Memorial Hospital","Professional & Other Places::Medical Center::Hospital",34.12783858502834,-118.25684507366479
+"4b539a09f964a52028a427e3","Verizon Wireless","Shop & Service::Electronics Store",34.14535,-118.259361
+"4b53aa7cf964a520f9a627e3","Wetzel's Pretzels","Food::Snack Place",34.143758512257804,-118.25667376758672
+"4b53acadf964a52058a727e3","Spencer's Gifts","Shop & Service::Miscellaneous Shop",34.14618490052003,-118.25726762792401
+"4b54bd89f964a520ddc927e3","Kaiser Permanente Glendale Medical Offices","Professional & Other Places::Medical Center::Doctor's Office",34.15980208863098,-118.2631889879233
+"4b54c69af964a520efcb27e3","Salo-Salo","Food::Asian Restaurant",34.147483825683594,-118.25375366210938
+"4b54e211f964a5203ed127e3","Panda Express","Food::Chinese Restaurant",34.14537519225577,-118.2585096359253
+"4b55154ff964a52093da27e3","Skaf's Lebanese Cusine","Food::Middle Eastern Restaurant",34.151353,-118.236713
+"4b55e7c7f964a520a8f527e3","Remy's Den","Food::French Restaurant",34.159591,-118.285267
+"4b567a4af964a520381228e3","Indra Thai Restaurant","Food::Thai Restaurant",34.1400146484375,-118.23397827148438
+"4b57d1e6f964a520a04228e3","Two Guys From Italy","Food::Italian Restaurant",34.151914,-118.236846
+"4b585fa1f964a520e25428e3","Vagabond Inn","Travel & Transport::Hotel::Motel",34.14220869541168,-118.255869
+"4b58bca9f964a5204a6828e3","Hamburger Central","Food::Burger Joint",34.14964605512177,-118.25812608003616
+"4b58c13bf964a520556928e3","Grandview Branch Glendale Library","College & University::College Library",34.17019271850586,-118.28548431396484
+"4b58d642f964a520df6d28e3","LaunderLand","Professional & Other Places::Building",34.162995179999996,-118.26524081666666
+"4b58eb7df964a520007328e3","Wachovia - Wilson","Shop & Service::Bank",34.148449,-118.24755
+"4b58f13ef964a5208a7428e3","Martin + Osa","Shop & Service::Clothing Store",34.144011,-118.257197
+"4b59252af964a520d57e28e3","Bashan Restaurant","Food::French Restaurant",34.201994,-118.227553
+"4b59fcc2f964a520f8a528e3","Calvin Klein","Shop & Service::Clothing Store",34.143865766666664,-118.25688911666667
+"4b5a02ddf964a5208aa728e3","Kim's Kitchen","Food::Korean Restaurant",34.142787,-118.23837697505951
+"4b5a05a4f964a52055a828e3","GUESS by Marciano","Shop & Service::Clothing Store::Women's Store",34.14384460449219,-118.25694274902344
+"4b5a07fff964a520e1a828e3","Kiehl's Since 1851","Shop & Service::Cosmetics Shop",34.144304,-118.25583336
+"4b5a08aaf964a52001a928e3","Lacoste","Shop & Service::Clothing Store::Men's Store",34.14369288333334,-118.25613
+"4b5a17abf964a520a6ac28e3","Workway, Corporate","Professional & Other Places::Office",34.156111616666664,-118.25531388333333
+"4b5a1848f964a520d5ac28e3","Subway","Food::Sandwich Place",34.137106639817276,-118.2575074555528
+"4b5a6154f964a52055c128e3","Lululemon Athletica","Shop & Service::Clothing Store",34.144234,-118.256324
+"4b5a61a7f964a52070c128e3","Madewell","Shop & Service::Clothing Store::Women's Store",34.144343531810904,-118.25600567224329
+"4b5a63faf964a520fdc128e3","PUMA","Shop & Service::Clothing Store::Shoe Store",34.14427,-118.256179
+"4b5a6458f964a52016c228e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",34.14444669405036,-118.25517768721502
+"4b5a65c9f964a5207fc228e3","Tiffany & Co.","Shop & Service::Jewelry Store",34.1440529,-118.256765
+"4b5a6787f964a520f9c228e3","Barnes & Noble Cafe","Food::Café",34.14365186087665,-118.25668518799726
+"4b5a68a1f964a5203cc328e3","Crumbs Bake Shop","Food::Cupcake Shop",34.143555251588936,-118.25605135405928
+"4b5a6967f964a52078c328e3","Jamba Juice","Food::Juice Bar",34.14470035841101,-118.2553768157959
+"4b5a6a0ef964a520a7c328e3","Jody Maroni's Sausage Kingdom","Food::Hot Dog Joint",34.143829345703125,-118.25715637207031
+"4b5a6ae0f964a520dac328e3","Pinkberry","Food::Ice Cream Shop",34.14390120609711,-118.25511932373047
+"4b5a6b6ef964a52006c428e3","Richie Palmer's Pizzeria","Food::Pizza Place",34.143856048583984,-118.25706481933594
+"4b5b4417f964a520bcef28e3","Abercrombie & Fitch","Shop & Service::Clothing Store",34.14497001640669,-118.258623
+"4b5b44a5f964a520f0ef28e3","Glendale Optometric Center","Professional & Other Places::Medical Center::Optical Shop",34.146114425,-118.25215280056
+"4b5b46b0f964a520a6f028e3","American Eagle Outfitters","Shop & Service::Clothing Store",34.1437413747272,-118.25859546661377
+"4b5b4ac6f964a52024f228e3","Willoughby Road Food Truck","Food::Food Truck",34.14349365234375,-118.2564926147461
+"4b5b64d5f964a5207bfa28e3","Petco","Shop & Service::Pet Store",34.149184350627316,-118.2473623752594
+"4b5b6c8af964a520f6fc28e3","Laundry World","Shop & Service::Laundry Service",34.15019748,-118.236389
+"4b5b7d67f964a520120229e3","Fremont Park","Outdoors & Recreation::Playground",34.157024105669095,-118.26810121536255
+"4b5b9221f964a520e70729e3","Massis International Grill","Food::Middle Eastern Restaurant",34.145032211897124,-118.25872942920198
+"4b5be97cf964a520e81c29e3","Andrew Christian Factory Outlet Store","Shop & Service::Clothing Store",34.12499878426133,-118.25767305062408
+"4b5ce275f964a520404929e3","AT&T","Shop & Service::Electronics Store",34.14854506331483,-118.25508713722229
+"4b5d2969f964a520175529e3","Auntie Anne's Pretzels","Food::Snack Place",34.14626780269718,-118.2567537104445
+"4b5d2b80f964a520675529e3","Baby Gap","Shop & Service::Clothing Store::Kids Store",34.144416216232116,-118.255934715271
+"4b5d3581f964a520945629e3","Ben Bridge Jewelers","Shop & Service::Jewelry Store",34.145047,-118.258585
+"4b5e13a8f964a520567c29e3","Nordstrom Cafe","Food::Café",34.146583,-118.25754739
+"4b5e1474f964a5208d7c29e3","Schreiner's Fine Sausages","Food::Restaurant",34.200722,-118.22856
+"4b5e2c67f964a520948129e3","Glendale YMCA","Shop & Service::Gym / Fitness Center",34.147754826478085,-118.25230836868286
+"4b5e4d5df964a520838829e3","Tortas Mexico","Food::Mexican Restaurant",34.205413818359375,-118.2219009399414
+"4b5f5c3ef964a52005b629e3","Legacy Comics and Cards","Shop & Service::Hobby Shop",34.1481739282608,-118.25622604
+"4b5f78c2f964a52053bc29e3","Burger King","Food::Fast Food Restaurant",34.12748718261719,-118.25824737548828
+"4b5f9570f964a520f6c229e3","jcpenney","Shop & Service::Department Store",34.146699,-118.259214
+"4b5fc251f964a520c3cb29e3","United Oil","Shop & Service::Gas Station / Garage",34.160832,-118.236568
+"4b60d4d7f964a5202bfc29e3","Quiznos","Food::Sandwich Place",34.16853713989258,-118.22882080078125
+"4b60ea29f964a52030012ae3","Kinetic Lighting, Inc","Professional & Other Places::Office",34.167884264270846,-118.29625232450056
+"4b60ec73f964a520a8012ae3","Glendale Beeline #7","Travel & Transport::Bus Station::Bus Line",34.17052496069395,-118.29577277784321
+"4b610aabf964a52079072ae3","Sidebar","Nightlife Spot::Bar",34.16131675243378,-118.26434819
+"4b6220eef964a5205d372ae3","Brand Park","Outdoors & Recreation::Hiking Trail",34.18098787965452,-118.27693237588925
+"4b6251bcf964a52007422ae3","Rocky Cola Cafe","Food::American Restaurant",34.20523634850674,-118.22537899017334
+"4b626c22f964a520fe462ae3","El Pollo Loco","Food::Mexican Restaurant",34.16833562558968,-118.2853765591775
+"4b627ba8f964a52039492ae3","VONS","Shop & Service::Food & Drink Shop::Grocery Store",34.15519519052891,-118.24460506439209
+"4b62dbf7f964a520e2552ae3","7-Eleven","Shop & Service::Miscellaneous Shop",34.21605246759278,-118.23969648515484
+"4b639420f964a5209c842ae3","Jon's Marketplace","Shop & Service::Miscellaneous Shop",34.14255905151367,-118.24840545654297
+"4b63a798f964a520018a2ae3","KFC","Food::Restaurant",34.148258209228516,-118.2353286743164
+"4b63fae6f964a520b3992ae3","The Body Shop","Shop & Service::Cosmetics Shop",34.14527893066406,-118.25901794433594
+"4b63ff8ff964a5209a9a2ae3","Carl's Jr.","Food::Fast Food Restaurant",34.1463623046875,-118.25743865966797
+"4b640171f964a520ee9a2ae3","Champs Sports","Shop & Service::Sporting Goods Shop",34.14317308296323,-118.25911045074463
+"4b64a1dcf964a520efc32ae3","Phoenicia","Food::Middle Eastern Restaurant",34.151485443115234,-118.25817108154297
+"4b64b647f964a52057ca2ae3","Harley-Davidson of Glendale","Shop & Service::Clothing Store::Accessories Store",34.12430762734672,-118.25610845631209
+"4b65103ef964a52039e22ae3","Renaissance Restaurant","Food::Mediterranean Restaurant",34.131004333496094,-118.25756072998047
+"4b65d529f964a520bd022be3","Montrose Home Bakery","Food::Café",34.20590591430664,-118.22908782958984
+"4b6628b8f964a520d7162be3","Sephora","Shop & Service::Cosmetics Shop",34.143789,-118.256777
+"4b673445f964a5203e412be3","500 N. Brand Blvd.","Professional & Other Places::Office",34.153541564941406,-118.25485229492188
+"4b6798abf964a520d8562be3","Pho Citi","Food::Vietnamese Restaurant",34.144789152645906,-118.25464725494385
+"4b67d4c4f964a520cd5e2be3","La Bries","Nightlife Spot::Lounge",34.142427194222066,-118.24503421783447
+"4b67df7ff964a520e05f2be3","Jack in the Box","Food::Burger Joint",34.14275574126472,-118.2403564453125
+"4b6af66ef964a52038e92be3","Disney Consumer Products","Professional & Other Places::Office::Coworking Space",34.160824279789935,-118.28698084960902
+"4b6b25adf964a520d2f52be3","Wow Bento & Roll","Shop & Service::Food & Drink Shop::Food Court",34.145136,-118.25887
+"4b6b3554f964a520a8f92be3","Glendale Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",34.14739966144691,-118.25507640838623
+"4b6c7ce1f964a5201a3e2ce3","teagle optometry","Professional & Other Places::Medical Center",34.14538088892208,-118.25926618122288
+"4b6c9060f964a52070432ce3","Lunchbox Cafe","Food::Café",34.148040771484375,-118.25501251220703
+"4b6c9f0ff964a5202e472ce3","Nickelodeon Virtual Worlds","Professional & Other Places::Office::Tech Startup",34.15265595141268,-118.25460433959961
+"4b6ca634f964a5205a492ce3","Taco Bell","Food::Mexican Restaurant",34.142826883333335,-118.24113365
+"4b6cd28cf964a520fd562ce3","Divina Cucina","Food::Italian Restaurant",34.20449223333333,-118.225255
+"4b6e36a0f964a52012b22ce3","Vons","Shop & Service::Food & Drink Shop::Grocery Store",34.23080609730997,-118.24957012457409
+"4b6e5652f964a52006b92ce3","Glendale City Hall","Professional & Other Places::Government Building::City Hall",34.14693046129391,-118.24779416777156
+"4b6f122cf964a52005db2ce3","Sarkis Pastry","Food::Bakery",34.13322830200195,-118.25189971923828
+"4b70625bf964a520f7162de3","Glendale Studios","Professional & Other Places::Building",34.13122361922848,-118.25264231504303
+"4b70b585f964a520e12a2de3","Dunsmore Park","Outdoors & Recreation::Playground",34.23905165032598,-118.25655385323
+"4b70e74ef964a520ae332de3","LoveSac Alternative Furniture Co.","Shop & Service::Furniture / Home Store",34.14619208917145,-118.25769424438477
+"4b718ef9f964a5205e4d2de3","Cerritos Park","Outdoors & Recreation::Other Great Outdoors",34.123927443504236,-118.25455526824574
+"4b71c9aaf964a5206e5c2de3","ARCO","Shop & Service::Gas Station / Garage",34.147808,-118.23516
+"4b71e41df964a5207e622de3","La Goccia Espresso Bar","Food::Coffee Shop",34.14689254760742,-118.2551040649414
+"4b71efdaf964a52049652de3","Gateway Animal Hospital","Professional & Other Places::Medical Center",34.12788391113281,-118.260498046875
+"4b721c3bf964a520406f2de3","Portobello's","Food::Italian Restaurant",34.205322265625,-118.2262954711914
+"4b731990f964a520639b2de3","Casa de Ramos","Food::Mexican Restaurant",34.16093039369934,-118.27412009239197
+"4b732a19f964a5203d9f2de3","Pier 1 Imports","Shop & Service::Furniture / Home Store",34.15492741,-118.24400259
+"4b7373c9f964a52032af2de3","The Flame Broiler","Food::Korean Restaurant",34.168294,-118.22892271666667
+"4b75a520f964a520a6192ee3","Drs Kurtz & Poussard DDS","Professional & Other Places::Medical Center::Dentist's Office",34.165313720703125,-118.28229522705078
+"4b77440df964a520138d2ee3","99¢ Only Stores- Glendale","Shop & Service::Food & Drink Shop::Grocery Store",34.16581965460406,-118.28880778116327
+"4b7b02f5f964a520024c2fe3","Zankou Chicken","Food::Falafel Restaurant",34.161192,-118.274958
+"4b7c575df964a520788d2fe3","Metropark","Shop & Service::Clothing Store::Women's Store",34.144664840690886,-118.25979709625244
+"4b7c8342f964a520fb972fe3","T-Mobile","Shop & Service::Electronics Store",34.147666931152344,-118.25491333007812
+"4b7cb90cf964a52003a32fe3","7-Eleven","Shop & Service::Food & Drink Shop::Liquor Store",34.1768473484897,-118.29683462933815
+"4b7da758f964a52076cc2fe3","Toyota of Glendale","Shop & Service::Automotive Shop",34.130108,-118.254464
+"4b7f0320f964a5203e1030e3","McDonald's","Food::Fast Food Restaurant",34.145416259765625,-118.25933837890625
+"4b7f242ef964a520b31930e3","Subway","Food::Sandwich Place",34.20549011230469,-118.22071838378906
+"4b805b58f964a520ee6a30e3","Holy Family Catholic Church - Glendale","Professional & Other Places::Spiritual Center::Church",34.14084659870021,-118.25258731842041
+"4b80685ff964a520896f30e3","Haykashen Market","Shop & Service::Miscellaneous Shop",34.15007038466854,-118.25207128009315
+"4b806feef964a520407230e3","Melt gelato & crepes","Food::Restaurant",34.14498519897461,-118.25850677490234
+"4b808f46f964a520d17c30e3","Glendale Police Department","Professional & Other Places::Government Building::Police Station",34.14710861464908,-118.24890200150668
+"4b80b8d0f964a520638830e3","Thai Original BBQ","Food::Thai Restaurant",34.144797,-118.24800074100494
+"4b8214a2f964a520fbc930e3","Barragan's Mexican Restaurant - Glendale, CA","Food::Mexican Restaurant",34.13606643676758,-118.25762939453125
+"4b84148af964a520731f31e3","YP Data Dungeon","Professional & Other Places::Office::Coworking Space",34.155302,-118.255645
+"4b8440e9f964a5208b2a31e3","Angel Thai Cuisine","Food::Thai Restaurant",34.16661966666667,-118.28880213333333
+"4b848a3ef964a520d23a31e3","Los Rapidos Mexican Eatery","Food::Mexican Restaurant",34.23015594482422,-118.2489242553711
+"4b85759af964a520585f31e3","Disney Parks Global Marketing Offices","Arts & Entertainment::Theme Park",34.16109848022461,-118.28556823730469
+"4b85bdb4f964a520597031e3","Glendale Adventist Academy","Professional & Other Places::School::High School",34.15586994053143,-118.22647333145142
+"4b86b807f964a5207d9831e3","M.C.L.A. Psychiatric Medical Group","Professional & Other Places::Medical Center",34.152711,-118.229991
+"4b86e5b5f964a52099a431e3","Nails Express","Shop & Service::Cosmetics Shop",34.165158,-118.28673720359802
+"4b86f294f964a52082a731e3","The Great White Hut","Food::Burger Joint",34.150028228759766,-118.25619506835938
+"4b884c94f964a5207eed31e3","SB 161 Classroom Lab @ GCC","College & University::General College & University",34.16786,-118.229527
+"4b898fdef964a520e74132e3","Grayson's Tune Town","Shop & Service::Music Store",34.206668555923535,-118.23086169437829
+"4b89a0a8f964a5206e4732e3","Mamita Peruvian Restaurant","Food::South American Restaurant",34.13783956666666,-118.25477163333333
+"4b89e8c5f964a5208b5532e3","McDonald's","Food::Fast Food Restaurant",34.14235088936115,-118.23649842336305
+"4b8ac7e1f964a520848032e3","Mann Glendale Marketplace 4 Theatres","Arts & Entertainment::Movie Theater::Multiplex",34.145268,-118.25475363
+"4b8b0d63f964a520639032e3","Famous footwear","Shop & Service::Clothing Store::Shoe Store",34.149295806884766,-118.2470474243164
+"4b8c465df964a520eac732e3","Hollister Co.","Shop & Service::Clothing Store",34.1448444497566,-118.25860951628626
+"4b8c4fecf964a520f6c932e3","California Credit Union","Professional & Other Places::Building",34.157260258939594,-118.25593714949646
+"4b8c7f91f964a520dcd332e3","The Wine Cave","Nightlife Spot::Wine Bar",34.206923,-118.231331
+"4b8da0b2f964a5202c0533e3","Rudy's of Glendale Barber Shop","Shop & Service::Salon / Barbershop",34.15002784731668,-118.25563430786133
+"4b8e8155f964a520d52533e3","Shell Gas Station","Shop & Service::Gas Station / Garage",34.14294168,-118.233683
+"4b8e8750f964a5200f2733e3","Subway","Food::Sandwich Place",34.23296356201172,-118.2547607421875
+"4b8ec767f964a5209d3633e3","Best Fish Taco in Ensenada","Food::Taco Place",34.15929412841797,-118.26724243164062
+"4b8ed90cf964a520a83a33e3","Paris Baguette","Food::Bakery",34.15805435180664,-118.26387023925781
+"4b8f19cff964a5200b4933e3","Sevan Chicken Rotisserie","Food::Middle Eastern Restaurant",34.160003662109375,-118.267578125
+"4b8f1cccf964a520a74933e3","Nino's Pizza","Food::Pizza Place",34.16681671142578,-118.28307342529297
+"4b8f2ba5f964a520184c33e3","Big 5 Sporting Goods","Shop & Service::Sporting Goods Shop",34.147871976184085,-118.25737041123469
+"4b8f338cf964a5207f4d33e3","Sake Sushi Bar Lounge","Food::Sushi Restaurant",34.205213785170514,-118.2273442
+"4b901170f964a520947333e3","El Charro","Food::Mexican Restaurant",34.2048281867256,-118.22565793991089
+"4b9019b6f964a520927533e3","Bontobagi","Food::Korean Restaurant",34.15866470336914,-118.26465606689453
+"4b901aa4f964a520dc7533e3","Burger King","Food::Fast Food Restaurant",34.204811096191406,-118.22224426269531
+"4b904beff964a5205c8233e3","hye cleaners","Shop & Service::Laundry Service",34.175068,-118.294383
+"4b90752cf964a5204e8b33e3","Montrose Bowl","Arts & Entertainment::Bowling Alley",34.205826,-118.22961336666667
+"4b907e94f964a520278d33e3","Church of the Incarnation","Professional & Other Places::Spiritual Center::Church",34.16034760855947,-118.25609132563825
+"4b918b8ef964a52062c433e3","Soccer Stores Inc","Shop & Service::Sporting Goods Shop",34.13980391,-118.2548755
+"4b91918af964a5204fc633e3","New Century Volkswagen","Shop & Service::Automotive Shop",34.131418240655975,-118.2546523429129
+"4b92b231f964a520651234e3","Glendale Infiniti","Shop & Service::Car Dealership",34.13657914730827,-118.25457810934886
+"4b952b1af964a520a39234e3","Acura of Glendale","Shop & Service::Automotive Shop",34.14013033462862,-118.25552601243926
+"4b96b2bdf964a520b2de34e3","The Cafe On Victory","Food::Café",34.15992736816406,-118.29878997802734
+"4b96e35af964a52091eb34e3","Montrose-Crescenta Library","Professional & Other Places::Library",34.2074257478035,-118.23257803916931
+"4b975d77f964a520050135e3","Taqueria El Tapatio","Food::Mexican Restaurant",34.13027101448882,-118.25228827359848
+"4b97fddaf964a5208f2435e3","Verdugo Hills Hospital Physical Therapy","Shop & Service::Gym / Fitness Center::Gym",34.20449100811136,-118.21537971496582
+"4b98053df964a5208f2635e3","Franks Burger","Food::Burger Joint",34.147037506103516,-118.26873016357422
+"4b98ffdaf964a5202c5b35e3","Marshalls","Shop & Service::Department Store",34.205118780370256,-118.22260022163391
+"4b991be4f964a520e56135e3","Bank of America","Shop & Service::Bank",34.20562744140625,-118.2289810180664
+"4b99900af964a520d78335e3",""The Nest" at Nestlé USA","Shop & Service::Candy Store",34.15762781653433,-118.25438976287842
+"4b99e5d1f964a5203a9635e3","Blue Moon Lounge","Nightlife Spot::Bar",34.20299,-118.22684
+"4b9a6b8af964a520cab335e3","Los Angeles Superior Glendale Courthouse","Professional & Other Places::Government Building::Courthouse",34.146393,-118.248326
+"4b9a86dff964a520fabd35e3","Blue Fish Sushi","Food::Sushi Restaurant",34.205408,-118.22696709
+"4b9a96f5f964a52028c435e3","Taco Bell","Food::Fast Food Restaurant",34.17352294921875,-118.29350280761719
+"4b9abca9f964a52036d135e3","Pita Express","Food::Falafel Restaurant",34.14505868933378,-118.25887218256348
+"4b9b0aeaf964a52029ee35e3","El Sol","Food::Mexican Restaurant",34.212913513183594,-118.24156188964844
+"4b9bbae7f964a520bf1e36e3","McDonald's","Food::Fast Food Restaurant",34.16981887817383,-118.22891235351562
+"4b9c0258f964a520554036e3","Wetzel's Pretzels","Food::Bakery",34.14473587611616,-118.25953960418701
+"4b9c2202f964a5206e4d36e3","Peak Of Glendale","Outdoors & Recreation::Hiking Trail",34.1838325291722,-118.27517954168705
+"4b9c8dfbf964a520e26f36e3","Troy's Burgers","Food::Burger Joint",34.13992297241593,-118.25015258871147
+"4b9d4f74f964a52072a236e3","Original Kabob Factory","Food::Middle Eastern Restaurant",34.171068143483105,-118.29022407531738
+"4b9d88dff964a5206eb236e3","La Crescenta Presbyterian Church","Professional & Other Places::Spiritual Center::Church",34.217201627134365,-118.24248902963302
+"4b9e8d9ef964a52079ee36e3","Starbucks","Food::Coffee Shop",34.148311988611965,-118.24655771255493
+"4b9f9968f964a520fb2d37e3","Baskin-Robbins","Food::Ice Cream Shop",34.164386,-118.257034
+"4b9f9e83f964a520562f37e3","Fremont elementary","College & University::General College & University",34.200121515364536,-118.23229516580045
+"4ba003b9f964a520665237e3","Shoe City","Shop & Service::Clothing Store::Shoe Store",34.142214,-118.25744
+"4ba14360f964a5203da737e3","Walk This Way","Shop & Service::Department Store",34.20523645927038,-118.22636131593013
+"4ba155a6f964a520a7ad37e3","Rough Draft Studios","Arts & Entertainment::General Entertainment",34.14858738,-118.25531556
+"4ba15c32f964a520eeaf37e3","Pac Sun - Glendale Marketplace","Shop & Service::Clothing Store",34.145634,-118.254978
+"4ba16a15f964a520d9b437e3","Anderson's Pet Shop","Shop & Service::Pet Store",34.20509428856675,-118.22604148759518
+"4ba185aef964a520ebbd37e3","Gamefix - Marketplace","Shop & Service::Video Game Store",34.14543151855469,-118.25418853759766
+"4ba18720f964a5204cbe37e3","Seattle's Best Coffee","Food::Coffee Shop",34.14616775512695,-118.25469970703125
+"4ba1a25af964a5201fc537e3","Foot Locker - Glendale Galleria","Shop & Service::Clothing Store::Shoe Store",34.14585131101613,-118.25859809600418
+"4ba48898f964a520c0a238e3","House of Joy","Food::Chinese Restaurant",34.2298583984375,-118.24954986572266
+"4ba51555f964a520a6da38e3","Glendale Post Office","Professional & Other Places::Post Office",34.16752179204537,-118.28982400335613
+"4ba51799f964a5200cdc38e3","Bank of America","Shop & Service::Bank",34.1662,-118.28824893333334
+"4ba5208df964a520f3e038e3","Calstar Motors Mercedes-Benz","Shop & Service::Automotive Shop",34.13824636388454,-118.254912749874
+"4ba59067f964a520a31239e3","Shakey's Pizza Parlor","Food::Pizza Place",34.1324643,-118.25241337
+"4ba59e14f964a520f71639e3","I <3 Tofu & BBQ","Food::Korean Restaurant",34.147354,-118.255134
+"4ba65aaaf964a520954939e3","Manila Goodah","Food::Asian Restaurant",34.14250946044922,-118.24394226074219
+"4ba69cd0f964a520e66239e3","Nails By Us","Shop & Service::Cosmetics Shop",34.14699935913086,-118.255126953125
+"4ba69d8bf964a5201a6339e3","Papaya","Shop & Service::Arts & Crafts Store",34.144233249788535,-118.25867232782403
+"4ba7932bf964a520ca9e39e3","Glendale Community College Library","College & University::College Library",34.16683053350287,-118.22795473751498
+"4ba832aef964a520c3d039e3","Juice It Up!","Food::Juice Bar",34.23002624511719,-118.24929809570312
+"4ba83371f964a520eed039e3","Vans","Shop & Service::Clothing Store::Shoe Store",34.146121978759766,-118.25739288330078
+"4ba9108af964a5203f083ae3","Sedthee Thai Eatery","Food::Thai Restaurant",34.1495661449091,-118.25524270534515
+"4ba954f0f964a5207e1f3ae3","Disney Store","Shop & Service::Toy / Game Store",34.14471007854166,-118.25859485402259
+"4baa70f4f964a520726a3ae3","Verdugo Hills Hospital","Professional & Other Places::Medical Center::Hospital",34.20475758064997,-118.21586378243572
+"4baac68ef964a520e9853ae3","Sushi Monster","Food::Sushi Restaurant",34.206638,-118.231474
+"4bac0118f964a52054dd3ae3","Star Mazda","Shop & Service::Automotive Shop",34.128523,-118.255238
+"4bad81b9f964a52073573be3","Frida Mexican Cuisine","Food::Mexican Restaurant",34.14411209424748,-118.2552883028984
+"4bad88bbf964a5207e593be3","kaotic tan","Shop & Service::Tanning Salon",34.163211822509766,-118.26466369628906
+"4baea666f964a520e6ca3be3","Cotton On","Shop & Service::Clothing Store",34.14488843243912,-118.25874655961165
+"4bb0151bf964a520f3353ce3","Papa John's Pizza","Food::Pizza Place",34.14186288439497,-118.25748461484076
+"4bb0f244f964a520d86c3ce3","City Hall Coffee Shop","Food::Café",34.2060661315918,-118.22917175292969
+"4bb3c1b1eb3e95213d98cb0a","Wilson Mini Park","Outdoors & Recreation::Park",34.14837642,-118.24313124
+"4bb3ecd70cbcef3b297e582a","MINX Restaurant and Lounge","Food::American Restaurant",34.14842224121094,-118.22781372070312
+"4bb5107b941ad13a6cb01de3","Glendale Nissan","Shop & Service::Automotive Shop",34.137108667201716,-118.25544606900789
+"4bb5239d46d4a593729ec4c0","Baklava Factory","Food::Bakery",34.14320373535156,-118.23384094238281
+"4bb559e2f562ef3b6ae82e97","Glendale Fire Station 21","Professional & Other Places::Building",34.143714955147,-118.261304681528
+"4bb7b81f7421a59310f1c040","Sears","Shop & Service::Electronics Store",34.14935989367461,-118.25708490188596
+"4bb7b9d8cf2fc9b69fb29e02","7-Eleven","Shop & Service::Food & Drink Shop::Liquor Store",34.1464293109712,-118.2403931978504
+"4bb8f24eb35776b0446ec901","76","Shop & Service::Gas Station / Garage",34.232199483898064,-118.25342416763306
+"4bba69f653649c74c00349fb","Tokyo Grill","Food::Asian Restaurant",34.1451416015625,-118.25897216796875
+"4bbb5bec3db7b713e039249a","Crescenta Valley United Methodist Church Child Care Center","Professional & Other Places::Spiritual Center::Church",34.21399732016901,-118.23793184771638
+"4bbbe0c5e5b0d13a5bb36e7c","Astro Sound and Lighting","Shop & Service::Music Store",34.169087,-118.292816
+"4bbbf3b3ed7776b0b0333f51","Glendale Masonic Hall","Professional & Other Places::Building",34.14972686767578,-118.25363159179688
+"4bbcd8ec8ec3d13a81511b28","Del Taco","Food::Mexican Restaurant",34.16891098022461,-118.29174041748047
+"4bbcdec1a0a0c9b6bce91a0f","Mediterranean Grill","Food::Mediterranean Restaurant",34.158050537109375,-118.25553894042969
+"4bbd0ca1a8cf76b0e953b1fd","Starbucks","Food::Coffee Shop",34.15966974776655,-118.2864260673523
+"4bbdd1f18ec3d13a1a751c28","Days Inn Glendale","Travel & Transport::Hotel",34.15493566041325,-118.26379424556998
+"4bbdf245f57ba593f1a7aeb9","Shell","Shop & Service::Gas Station / Garage",34.1551459,-118.2648503780365
+"4bbe08a807809521cb50db91","TMP Directional Marketing","Professional & Other Places::Office",34.151428,-118.254598
+"4bbf718bba9776b0ad23ffc8","USPS - San Frenando","Professional & Other Places::Post Office",34.16611099243164,-118.28849029541016
+"4bbf9505920eb7139896172c","Hollywood Production Center","Professional & Other Places::Office",34.14667892456055,-118.25315856933594
+"4bbfb0dff8219c74846fb010","Coach","Shop & Service::Clothing Store::Accessories Store",34.14552307128906,-118.2586898803711
+"4bbfb5874cdfc9b644c29121","Al's Barbershop","Shop & Service::Cosmetics Shop",34.16123223570724,-118.30099582672119
+"4bbfc7f0f8219c74a2a4b010","DreamWorks Animation, Brand Location","Arts & Entertainment::General Entertainment",34.146480560302734,-118.25589752197266
+"4bc0f7a8461576b054297b32","Popeyes Louisiana Kitchen","Food::Fried Chicken Joint",34.171269,-118.289353
+"4bc1486f2a89ef3bd635f288","Royal Palace","Food::Middle Eastern Restaurant",34.14407730102539,-118.25444030761719
+"4bc21a322a89ef3b6139f388","The Walking Company","Shop & Service::Mall",34.144615173339844,-118.25870513916016
+"4bc23437f8219c74627db410","Fosters freeze","Food::Ice Cream Shop",34.16510772705078,-118.28184509277344
+"4bc258dc920eb713c91f1c2c","First Evangelical Church","Professional & Other Places::Spiritual Center::Church",34.14659725502965,-118.26491910550257
+"4bc33c5cabf49521eb6ec393","CMC","Professional & Other Places::Office",34.147029876708984,-118.2686996459961
+"4bc3a42274a9a59356dcd4f6","Mickey's Of Glendale","Shop & Service::Gift Shop",34.16227312210202,-118.28932731124443
+"4bc3d09cdce4eee18ac3719d","Golden Key Hotel","Travel & Transport::Hotel",34.1428665,-118.256075
+"4bc3e514461576b0455a7f32","Hampton Place Apartments","Professional & Other Places::Building",34.1645879359306,-118.259024620056
+"4bc481ba461576b0d2f87f32","Equilibrium Fitness (EQ-Fitness)","Shop & Service::Gym / Fitness Center",34.14070128143577,-118.25484078181546
+"4bc63b80d35d9c749b64e23a","Asian Noodles","Food::Asian Restaurant",34.14247512817383,-118.23265838623047
+"4bc7401e6501c9b6e8063e29","Glenoaks Deli","Food::Deli / Bodega",34.158457,-118.24831018
+"4bc7b3210050b713a346b93b","Calstar Motors Mercedes-Benz","Shop & Service::Automotive Shop",34.13824636388454,-118.254912749874
+"4bc814be92b376b0abe2503a","Mobil","Shop & Service::Gas Station / Garage",34.15759230424999,-118.26374530792236
+"4bc8b8a515a7ef3bb4b97bda","Armstrong Garden Center","Shop & Service::Garden Center",34.1579429734123,-118.2776574844456
+"4bc8fe7db6c49c7444a28d91","Chevron Station","Shop & Service::Gas Station / Garage",34.16116121415539,-118.2997190952301
+"4bc90619511f9521d9fcacc7","Bank of America","Shop & Service::Bank",34.1515410377683,-118.25547462023766
+"4bc9f8400687ef3b13e7dacc","Teased Out Hair Studio","Shop & Service::Salon / Barbershop",34.135208,-118.251852
+"4bca06a7b6c49c741c8d8f91","Bonjour Bebe","Shop & Service::Clothing Store::Boutique",34.134792,-118.252342
+"4bca33d00687ef3bea8bdbcc","MAC Cosmetics","Shop & Service::Cosmetics Shop",34.145228682734434,-118.25864642858505
+"4bca48c43740b713e5876065","Sweet Factory","Shop & Service::Candy Store",34.14391896511953,-118.25632095336914
+"4bca6c870687ef3b0c1ddccc","St. Marks Episcopal Church","Professional & Other Places::Spiritual Center::Church",34.161063960857625,-118.25478938940806
+"4bccdd2f8920b7139ee79edc","Glendale Car Wash","Shop & Service::Car Wash",34.14291,-118.245914
+"4bccde310687ef3bc810e0cc","Cinnabon","Food::Bakery",34.145047190426624,-118.25878082042584
+"4bcced09cc8cd13a8ce1c1cf","Glendale University College Of Law","College & University::Law School",34.14909076968816,-118.24568697971029
+"4bcddf3d937ca5930777ad92","Verdugo Job Center","Professional & Other Places::Building",34.1305947303772,-118.2579892873764
+"4bce7375fb84c9b60df4233e","KFC","Food::Fried Chicken Joint",34.16524124145508,-118.281005859375
+"4bce789ecc8cd13a6486c4cf","1300 Bar","Nightlife Spot::Bar",34.129687,-118.2547116279602
+"4bcf383c462cb713f442d607","Forest Lawn Glendale","Professional & Other Places::Medical Center",34.125362,-118.253237
+"4bd09e5da8b3a5932042645f","Surajung Korean BBQ","Food::Korean Restaurant",34.23740768432617,-118.26054382324219
+"4bd0c23041b9ef3b81bffae5","Pacific Park Community Center and Library","Professional & Other Places::Library",34.13728415966034,-118.26176723
+"4bd21014462cb713f883db07","La Bries","Nightlife Spot::Lounge",34.142427194222066,-118.24503421783447
+"4bd217db77b29c74a6f88d82","Haagen Dazs","Food::American Restaurant",34.14536666870117,-118.2586441040039
+"4bd31d72a8b3a5934516695f","Diamond Honda of Glendale","Shop & Service::Automotive Shop",34.14500284310529,-118.247437
+"4bd5e038cfa7b7130d9826da","76 Gas Station","Shop & Service::Gas Station / Garage",34.14272653092089,-118.2640397740042
+"4bd70d8b5631c9b61cd5a630","Stila Cosmetics","Professional & Other Places::Office",34.14846420288086,-118.25541687011719
+"4bd747b4e914a59369e450fa","Yoshinoya","Food::Asian Restaurant",34.128759,-118.25897902
+"4bd8ec7c2e6f0f47a43d0908","Olive Branch","Food::Middle Eastern Restaurant",34.236080169677734,-118.25942993164062
+"4bd9a9cae914a5937d4c57fa","Burger King","Food::Fast Food Restaurant",34.17100524902344,-118.2890625
+"4bd9cfba3f01c9b6d63653a5","655 N. Central Ave","Professional & Other Places::Office",34.15582144866752,-118.2585010235758
+"4bda38c53904a59355c1459e","Forest Lawn Glendale","Professional & Other Places::Medical Center",34.125362,-118.253237
+"4bdb7fe363c5c9b6b7612868","Ziba Beauty","Shop & Service::Cosmetics Shop",34.14590084856849,-118.25915336608887
+"4bdc91e9afe8c9b6550b5085","jcpenney","Shop & Service::Department Store",34.146699,-118.259214
+"4bdd22bad33f2d7f396b8a3c","Damon's Steakhouse","Food::Steakhouse",34.1506462097168,-118.25543975830078
+"4bddd4e0e75c0f47dbc8c503","Montrose Candy Co.","Shop & Service::Candy Store",34.20582196847966,-118.22872638702393
+"4bdf5458e75c0f4731c2ca03","Abe's Lock & Key Service","Shop & Service::Hardware Store",34.21150014796473,-118.241038511183
+"4be0409fa7cc0f47431d4b23","Glendale Beeline Bus 11","Travel & Transport::Bus Station::Bus Line",34.1243986012665,-118.2595973678
+"4be1d106edbb0f47f8c9a615","Quiznos","Food::Sandwich Place",34.205360412597656,-118.22825622558594
+"4be24316d27a20a16d608f5b","818 Lounge","Nightlife Spot::Bar",34.204144,-118.225569
+"4be321fbd27a20a18953915b","Sipan bakery","Food::Bakery",34.1661262512207,-118.28350830078125
+"4be48884910020a16bd9d114","Star Auto Group","Shop & Service::Automotive Shop",34.133961,-118.255242
+"4be5d3ee2457a5936a13ac15","Swarovski","Shop & Service::Jewelry Store",34.145004,-118.258582
+"4be5eb10910020a119b4d314","Mini Kabob","Food::Middle Eastern Restaurant",34.1408576965332,-118.25848388671875
+"4be5f098910020a1edbcd314","Glendale Elks Lodge","Food::American Restaurant",34.142364690561095,-118.25384719253752
+"4be5f33e2468c92867d10043","Jobyna's Bridal","Shop & Service::Bridal Shop",34.19955,-118.22913
+"4be703a3cf200f47e324153c","Valero","Shop & Service::Gas Station / Garage",34.1430387529183,-118.26477635719036
+"4be7415e910020a1c93dd514","LensCrafters","Professional & Other Places::Medical Center::Optical Shop",34.14587243479735,-118.25902462005615
+"4be74f5c2468c9289f610243","Fountain at The Americana","Outdoors & Recreation::Other Great Outdoors",34.14414693845989,-118.25694214703292
+"4be75124910020a19f53d514","Playground at Americana","Outdoors & Recreation::Playground",34.14366145892889,-118.25656771659851
+"4be77275d837c9b6d64da406","Scarantino's Italian Restaurant","Food::Italian Restaurant",34.142618,-118.23047665
+"4be83bcf88ed2d7fd49bcb1d","7-Eleven","Shop & Service::Convenience Store",34.16111755371094,-118.27458190917969
+"4be8735888ed2d7ffbe2cb1d","76","Shop & Service::Gas Station / Garage",34.159094,-118.239913
+"4beac89062c0c928443ce1d4","Lucio H. Kim DDS","Professional & Other Places::Medical Center::Dentist's Office",34.158023834228516,-118.24803161621094
+"4beacde86295c9b652d88608","Glendale Center","Professional & Other Places::Office",34.15517807006836,-118.25618743896484
+"4bedce5f4daaa593ff408f61","A-1 Self Storage Glendale","Professional & Other Places::Building",34.13261413574219,-118.26224517822266
+"4bf18a7b324cc9b62a27cc92","Shin Acupuncture","Professional & Other Places::Medical Center",34.158558,-118.262836
+"4bf1e4cf99d02d7f59b5c948","Red Ribbon Bakeshop","Food::Bakery",34.14240251,-118.24363083333333
+"4bf2f4f3e5eba59337011e90","McDonald's","Food::Fast Food Restaurant",34.17043076536939,-118.28952142097779
+"4bf35d853f86c9b66421b21c","Scholl Canyon Ballfields","Outdoors & Recreation::Athletic & Sport::Baseball Field",34.157707,-118.204662
+"4bf573c6cad2c928d7129d99","Gold Star Burgers - Drive In Restaurant","Food::Burger Joint",34.12569873333333,-118.25513356666667
+"4bf58a770c74c9b681471828","U.S. Bank","Shop & Service::Bank",34.154790256129,-118.25519481798035
+"4bf6dfc1b182c9b694aa745a","Walt Disney Imagineering","Professional & Other Places::Office",34.1619602031691,-118.28998804092407
+"4bf6e4fd5efe2d7fdcf86734","John Muir Elementary School","College & University::College Academic Building::College Arts Building",34.13740716416994,-118.23998202348707
+"4bf84e7f5efe2d7fda8c6a34","Leeds Mattress Store","Shop & Service::Furniture / Home Store",34.14779,-118.25802448571427
+"4bf9a55d4a67c928ab3b27cf","Casual Male XL","Shop & Service::Clothing Store::Men's Store",34.14511223276819,-118.25512629490883
+"4bfa35508d30d13aae4e0318","Mobil Gas Station","Shop & Service::Gas Station / Garage",34.164959212941675,-118.23231800986967
+"4bfaabbab182c9b663a77a5a","Tiffany's Coffee","Food::Café",34.15848159790039,-118.26365661621094
+"4bfad86d65fbc9b6269c906c","Max's of manila","Food::Middle Eastern Restaurant",34.149864196777344,-118.25509643554688
+"4bfaee50ab180f478527b3ce","WD Studio Controllership","Professional & Other Places::Office::Coworking Space",34.15893,-118.283617
+"4bfc3e3de9d8c9287f3db2c7","Burger King","Food::Fast Food Restaurant",34.1422233581543,-118.23920440673828
+"4bfc88fbd6f2c9b6c9674fc8","Armenian Society of Los Angeles","Professional & Other Places::Event Space",34.14707946777344,-118.2580795288086
+"4bfddde9bf6576b05dfeadb8","Marc Ecko Cut & Sew","Shop & Service::Clothing Store",34.144234644242815,-118.25867803796268
+"4bfdec5c8992a59381eaacb0","Wok Talk","Food::Chinese Restaurant",34.142616271972656,-118.24312591552734
+"4bff0853daf9c9b6c5acf9ef","Enterprise","Travel & Transport::Rental Car Location",34.12290573120117,-118.25529479980469
+"4c05629e761ac9b6aa721f74","Wow Bento & Roll","Food::Asian Restaurant",34.23019554,-118.24913664
+"4c08429b340720a19be58293","Verdugo Hills Contact Lens","Professional & Other Places::Medical Center",34.20503234863281,-118.21711730957031
+"4c0ac620340720a17b128793","Chevy Chase Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",34.17087240178476,-118.20354349932236
+"4c0ac7c5a1b32d7f71f999f0","The Coffee Bean & Tea Leaf","Food::Coffee Shop",34.20532697162084,-118.22825262029188
+"4c0bee9cbbc676b08e474cd5","Tokyo Japanese Lifestyle","Shop & Service::Toy / Game Store",34.146183,-118.257105
+"4c0bfecf340720a148fa8893","Trolley at The Americana","Travel & Transport::Light Rail",34.14423862688501,-118.2562780380249
+"4c0d0a226c04b7139d1c5005","Glendale Community College - Garfield Campus","College & University::Community College",34.135765075683594,-118.24109649658203
+"4c0deeaa336220a1af79cb77","Jewel City Parking Lot","Arts & Entertainment::Bowling Alley",34.14530944824219,-118.24797821044922
+"4c0ea2945ab6c9b61017f0fe","Kix's BBQ","Food::BBQ Joint",34.14222717285156,-118.26510620117188
+"4c0eb77dc6cf76b0002e8151","Lunch Box","Food::Sandwich Place",34.14775085449219,-118.25464630126953
+"4c0fe6073ce120a10436071c","91202","Professional & Other Places::Building",34.17178905320875,-118.26839070773399
+"4c12a33577cea593ae6bcd60","US Bank @ Vons","Shop & Service::Bank",34.15522384643555,-118.24423217773438
+"4c12d12ba9c220a1d6ba549d","Dr. Kin C. Wong, M.D.","Professional & Other Places::Medical Center::Doctor's Office",34.15856170654297,-118.26276397705078
+"4c140b3e77cea59343fccf60","Stewie's Shave Ice","Food::Ice Cream Shop",34.144412994384766,-118.25635528564453
+"4c1656f3a5eb76b0d1a7c4b7","94 Metro Stop","Travel & Transport::Bus Station::Bus Line",34.12857437133789,-118.25940704345703
+"4c16a264cd4bc9b606b74eeb","Toffel Nasal & Sinus Institute","Professional & Other Places::Medical Center::Doctor's Office",34.205222771465856,-118.21542970306092
+"4c1a871a8b3aa593c7c1955f","Street Corner News","Food::Snack Place",34.14406967163086,-118.25923919677734
+"4c1a9dc9e9c4ef3bcf7d45aa","OverTime Bar & Grill","Nightlife Spot::Sports Bar",34.159697,-118.2554423
+"4c1ac1e7b4e62d7f3c61d893","Woodrow Wilson Middle School","Professional & Other Places::School",34.15571145984696,-118.23847437572215
+"4c1c0fedeac020a12cf545c2","Hoover High School","Professional & Other Places::School::High School",34.16473388671875,-118.2686996459961
+"4c1d1033eac020a1fa8c47c2","Allen Gwynn Chevrolet","Shop & Service::Automotive Shop",34.1284565833333,-118.254419466667
+"4c1d2d028b3aa59394249a5f","Montrose Community Park","Outdoors & Recreation::Playground",34.201617632376944,-118.22565312381697
+"4c1d3517b9f876b0913d7d46","Gun Kings Armory","Shop & Service::Sporting Goods Shop",34.17363971,-118.292656
+"4c1e4dce63750f47d27fb967","La Belle Spa","Shop & Service::Cosmetics Shop",34.230072021484375,-118.24908447265625
+"4c1fa85bfcf8c9b6f5fcae0b","Cafe Vaquero at Glendale City College","College & University::College Cafeteria",34.166721,-118.228077
+"4c1fdc53b306c928a41369b7","AppleOne","Shop & Service::Miscellaneous Shop",34.14691925048828,-118.2590103149414
+"4c212c8511de20a17ceb82ce","Adams Square public library","Professional & Other Places::Library",34.168632,-118.190949
+"4c217b619085d13af4f284cc","Burger King","Food::Burger Joint",34.234413146972656,-118.2559585571289
+"4c2285949085d13a907986cc","Hostess Thrift Store","Food::Bakery",34.16532296367816,-118.28755747699763
+"4c23ada2f7ced13a9299216d","Taco Naco","Food::Mexican Restaurant",34.171695709228516,-118.29611206054688
+"4c2514d1a852c928f63ce46c","Nordstrom Espresso Bar","Food::Coffee Shop",34.1463737487793,-118.25724029541016
+"4c256a21c11dc9b6cd472724","Palmer Park","Outdoors & Recreation::Park",34.13235038127536,-118.24763427365114
+"4c2646cb136d20a1d809e561","5.2 Patio","Food::Korean Restaurant",34.230109,-118.249019
+"4c2648b2136d20a1960ee561","American Tire Depot","Shop & Service::Automotive Shop",34.1324473204688,-118.257530296262
+"4c26651bf3859c744c616588","Sbarro Pizza","Food::Pizza Place",34.14604949951172,-118.257568359375
+"4c2a4f82355cef3b6ffacc56","Verdugo Mountains Park Property","Outdoors & Recreation::Hiking Trail",34.202788,-118.239779
+"4c2ccaa78ef52d7ff47333ba","76 Gasoline","Shop & Service::Gas Station / Garage",34.14271134309037,-118.24168682098389
+"4c2cf7d58ef52d7fcec333ba","Con Sazon","Food::South American Restaurant",34.16797637939453,-118.29060363769531
+"4c2d4217e116e21ebb608e60","Star Ford Lincoln Mercury","Shop & Service::Automotive Shop",34.135339,-118.254576
+"4c2e45f476a7ef3b36fddeb8","Mission Wine & Spirits","Shop & Service::Food & Drink Shop::Wine Shop",34.1608726884867,-118.27393501997
+"4c2fc8b0a0ced13ac432116e","Godiva Chocolatier","Shop & Service::Candy Store",34.146121054970635,-118.25808048248291
+"4c300e8c452620a119af1e0f","Pizza hut","Food::Pizza Place",34.12998962402344,-118.25816345214844
+"4c3381fe66e40f47b81fc88b","Yaki's Teriyaki Bowl","Food::American Restaurant",34.237435,-118.26157094
+"4c33bdba213c2d7fdc77375d","Glendale Community College Book Store","College & University::College Bookstore",34.16688919067383,-118.2280502319336
+"4c3422e17cc0c9b6c6edf29a","Charles Billiards Sports Bar","Nightlife Spot::Sports Bar",34.14912460933112,-118.2546523429129
+"4c34e3e17cc0c9b6dd1cf49a","Need 4 Speed Motorsport","Shop & Service::Automotive Shop",34.13793182373047,-118.2552490234375
+"4c35036966e40f475189ca8b","Dr. Erwin","Professional & Other Places::Medical Center::Dentist's Office",34.158112,-118.247785
+"4c37ad7993db0f47f7402092","Goodwill","Shop & Service::Miscellaneous Shop",34.14953062923477,-118.25477600097656
+"4c37dcec18e72d7f196f17f5","Salo Salo Grill","Food::Asian Restaurant",34.14747619628906,-118.25390625
+"4c38d6dc0a71c9b6be7041c9","Hawaiian BBQ Express","Food::Chinese Restaurant",34.14512252807617,-118.2591323852539
+"4c394375ae2da5938b5902c6","Glendale Church Of Christ","Professional & Other Places::Spiritual Center::Church",34.17598905,-118.295831
+"4c3a15ff0a71c9b6ea9d43c9","Williams-Sonoma","Shop & Service::Food & Drink Shop::Gourmet Shop",34.145457,-118.258636
+"4c3a314cae2da593afd803c6","Prometric","Professional & Other Places::Office",34.15734848333334,-118.25592935085297
+"4c3cbfeab36ac9288d890486","Nails for u","Shop & Service::Cosmetics Shop",34.14353942871094,-118.25491333007812
+"4c3cd02f7d00d13aa36e3950","Snookies Cookies","Food::Bakery",34.16008758544922,-118.29853820800781
+"4c3dcf9d15cb1b8dd8687cdc","Mark Keppel Elementary","College & University::College Classroom",34.164791107177734,-118.27301788330078
+"4c3dfa2f6faac9b6bc920d76","Westdale Auto Repair","Shop & Service::Automotive Shop",34.16819228333333,-118.2916134595871
+"4c3f78f8d7fad13a6d8f04da","Larry Larson Music Store","Shop & Service::Music Store",34.170069157142855,-118.28789473
+"4c42091fff711b8d71e41205","Nail Polish","Shop & Service::Cosmetics Shop",34.148243,-118.25812461
+"4c422d153735be9a959f19a4","GameStop","Shop & Service::Video Game Store",34.14596122780038,-118.25759768486023
+"4c4351dfda3dc92821c2cbb9","Hertz Rent a Car","Shop & Service::Automotive Shop",34.13437079271214,-118.25537754603695
+"4c43c700f0bdd13a82c5c8cc","The Church Of Jesus Christ of Latter-day Saints","Professional & Other Places::Spiritual Center::Church",34.16198491797918,-118.25745606394639
+"4c464054f1d80f47447ba33c","ARCO","Travel & Transport::General Travel",34.15734122098623,-118.2776574844456
+"4c47db9f417b20a19b26dfa9","Sakura Ichi","Food::Japanese Restaurant",34.235477447509766,-118.25867462158203
+"4c4889461ddec928c1e6a032","Thrift Alley","Shop & Service::Thrift / Vintage Store",34.144039,-118.251998
+"4c48b4f39e3e2d7f67bacd47","Orange Street Parking Lot","Outdoors & Recreation::Park",34.14922667295364,-118.25582294485744
+"4c49ff19c668e21e378a02f8","Eden Wine & Spirits","Shop & Service::Food & Drink Shop::Liquor Store",34.150894,-118.23672798333334
+"4c4a1759c668e21e896e1ff8","Remedy","Shop & Service::Food & Drink Shop::Liquor Store",34.16831535084458,-118.29005236705913
+"4c4a6edd46240f47c3a2d3f1","Body Shop Tattoo","Shop & Service::Tattoo Parlor",34.145694732666016,-118.24705505371094
+"4c4ca04ff96ac9b62fa76798","Casa Verdugo Public Library","Professional & Other Places::Library",34.16324257850647,-118.2551783323288
+"4c4f1095d667d13a596a6ea1","U.S. Bank","Shop & Service::Bank",34.129225,-118.258852
+"4c4f33c292ce2d7f521f6c2f","Sandella's Flatbread Cafe","Food::Sandwich Place",34.1455078125,-118.25505065917969
+"4c4fc02b3a6f2d7fb6fb6776","76 Gas Station","Shop & Service::Gas Station / Garage",34.1600899,-118.263938
+"4c51df822543a593b8fc9984","Macy's","Shop & Service::Department Store",34.14623204588317,-118.25844526290894
+"4c51ea1d048b1b8d18fbb72f","Glendale Beeline #4","Travel & Transport::Bus Station::Bus Line",34.145552779213745,-118.23958396911621
+"4c524746b6dabe9a2e501813","Glendale Adventist A & D  Services","Professional & Other Places::Medical Center",34.12721078,-118.25158678333334
+"4c52e1b7048b1b8d117f1331","Management Success!","Professional & Other Places::Office::Coworking Space",34.1466594,-118.26160692
+"4c5459c2728920a13b109e82","Cosmoprof","Shop & Service::Cosmetics Shop",34.1417748,-118.25752085
+"4c54643efd2ea593de00072a","Chevy Chase Baptist Church","Professional & Other Places::Spiritual Center::Church",34.135957637280626,-118.23897121565398
+"4c5484fafd2ea593d21a3a2a","Metro 90/91","Travel & Transport::Bus Station::Bus Line",34.14249823152873,-118.24954032897949
+"4c54a1dffd2ea593b1d3642a","Mignon","Food::Café",34.150489807128906,-118.23644256591797
+"4c54dcdba724e21e6ebf0cf7","Amici At The Americana","Food::Italian Restaurant",34.143272399902344,-118.25614166259766
+"4c55052d06901b8d77b7bd4c","Giggles Nightclub","Nightlife Spot::Nightclub",34.14866217608453,-118.25537183578815
+"4c55e4baa724e21e793bd2f8","Glendale Tile","Shop & Service::Furniture / Home Store",34.12959565592012,-118.2601112767352
+"4c570037b7a31b8d213b4fda","Manila Good Ha!","Food::Asian Restaurant",34.14252471923828,-118.24394989013672
+"4c59b14bec2520a13daf4f12","The Jungle Room","Professional & Other Places::Event Space",34.161639156999655,-118.29227318809376
+"4c5a42597b049521393c891f","Autozone","Professional & Other Places::Building",34.13679504473339,-118.25089494209358
+"4c5b1edf5c57c9b6e5fb1e4a","Deluca's Italian Deli","Food::Italian Restaurant",34.14356697905675,-118.256186
+"4c5c725b6147be9ad14c8f09","Footaction - Glendale Galleria","Shop & Service::Clothing Store::Shoe Store",34.1443333,-118.25862078
+"4c5dd47d2815c928260ab667","Xooro","Food::Bakery",34.14592361450195,-118.25804138183594
+"4c5f466d1e5cd13a993d9fed","Goffles Waffles","Food::American Restaurant",34.146400451660156,-118.25736999511719
+"4c6001f03a3703bbd81be406","Pizza Hut","Food::Pizza Place",34.233070373535156,-118.25402069091797
+"4c6023d21e5cd13a6af9a0ed","Citibank","Professional & Other Places::Building",34.157380946016076,-118.25440109072005
+"4c61e7b7fa7bc9286afa0c27","Walt Disney Creative Entertainment","Professional & Other Places::Office",34.16000842715155,-118.28894480023969
+"4c62288cec94a59377d528ca","7 Days Liquor","Shop & Service::Food & Drink Shop::Liquor Store",34.161739349365234,-118.29930114746094
+"4c644ac6d646be9a129809fd","Panda Express","Food::Asian Restaurant",34.145713806152344,-118.25444030761719
+"4c6961b98d22c9287908b745","Shawarma Factory","Food::Middle Eastern Restaurant",34.135040283203125,-118.25810241699219
+"4c69dacb3bad2d7f4d11b1ee","EVS","Shop & Service::Electronics Store",34.163355,-118.302665
+"4c6ae60b9669e21ec5bfa951","SF 119","College & University::College Classroom",34.16850662231445,-118.2294921875
+"4c6d99736af58cfa94f38917","My Pool","Outdoors & Recreation::Pool",34.148877,-118.237069
+"4c6f030fd97fa143dcbdf1ca","Oakley - Glendale Galleria","Shop & Service::Clothing Store",34.14517201623604,-118.25860951628626
+"4c7020119375a093ed000637","Starbucks","Food::Coffee Shop",34.14255142211914,-118.26089477539062
+"4c7188050e23b1f7337b1bdc","Salo Salo (Kung Hanap Ay Lasa)","Food::Asian Restaurant",34.147891998291016,-118.25384521484375
+"4c71a6f4ad69b60c8c9a81b9","The Childrens Place","Shop & Service::Clothing Store::Kids Store",34.144257,-118.2586163
+"4c72d11a8efc370434f9137d","Western States Kit","Shop & Service::Cosmetics Shop",34.13703395792155,-118.2573
+"4c756dc51b30a0931454ef09","Tyler Physical Therapy & Pilates","Shop & Service::Gym / Fitness Center",34.20535064660441,-118.22467078799073
+"4c786ef6df08a1cd5c97d75d","Concierge at The Americana","Outdoors & Recreation::Playground",34.14429632219617,-118.2571876853064
+"4c7bccb9bd346dcbc030fcef","Disney Interactive Media Group QA Offices","Professional & Other Places::Office",34.15831035943646,-118.29046913002743
+"4c7bf6fb2d3ba143be9195d0","Verdugo Hills Pharmacy","Shop & Service::Drugstore / Pharmacy",34.2046323566171,-118.21608653326886
+"4c7e7e3b0b2a9eb0267e651f","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",34.14249038696289,-118.25238800048828
+"4c7ebd2aa7958cfabbab8e2b","The G-Spot: LA","Nightlife Spot::Lounge",34.16126043999999,-118.25880022999999
+"4c80707651ada1cdfe260a10","Pho-pho","Food::Vietnamese Restaurant",34.2222900390625,-118.24910736083984
+"4c81bb64d8086dcbaa547052","Glendale Marketplace","Shop & Service::Mall",34.145313036732304,-118.25441122055054
+"4c81e28f51ada1cdb19b1710","Gilligans Irish Pub","Nightlife Spot::Bar",34.214019,-118.243594
+"4c844021d8086dcbc9ed8752","Eddie Bauer","Shop & Service::Sporting Goods Shop",34.145192,-118.258755
+"4c844131d4e237041bd47888","L'occitane","Shop & Service::Cosmetics Shop",34.145901,-118.258302
+"4c85686f2f1c236ab7a45443","Glendale Galleria Parking Lot","Professional & Other Places::Parking",34.14378157511191,-118.25922621038578
+"4c867605e602b1f72654c07a","David N. Schultz Inc. Real State Property Management","Professional & Other Places::Office",34.15700556666667,-118.25853045
+"4c871ed80a199c7438a7d2f2","San Rafael building (SF)","College & University::College Academic Building::College Technology Building",34.16792678833008,-118.22795104980469
+"4c8a93946418a1432e26e1ce","DisneyStore.com","Professional & Other Places::Office",34.159141540527344,-118.28575134277344
+"4c8a9d516418a1439d7be1ce","Disney Consumer Products - Southeast Building","Professional & Other Places::Office",34.15964126586914,-118.28633117675781
+"4c8a9ea61eafb1f7e5f07b35","Walt Disney Imagineering R&D","Professional & Other Places::Office",34.1574909649825,-118.290040948881
+"4c8bf1c2c37a6dcbc4b5f27a","Cml Studios","Professional & Other Places::Building",34.12370300292969,-118.25650024414062
+"4c8c2861f87e224b43883205","Lucky Star Chinese Restaurant","Food::Chinese Restaurant",34.143428802490234,-118.25492095947266
+"4c8d646b8018a1cda01ff5d2","Halloween America","Shop & Service::Department Store",34.146014503557375,-118.25541973114014
+"4c8fd0c16fbf224be2794e8f","Bank Of America @ Albertsons","Shop & Service::Bank",34.13408660888672,-118.25713348388672
+"4c901f590b9e37043649655e","Deukmejian Wilderness Park","Outdoors & Recreation::Park",34.249429592375414,-118.25368730406893
+"4c910411238c6dcb7e7dbc55","7-Eleven","Shop & Service::Food & Drink Shop",34.13325166859316,-118.2522425907781
+"4c92717b2bf7b60c7fb4620a","GCC San Fernando building","College & University::College Academic Building",34.166245,-118.22846825
+"4c99612178ffa093e9b56375","Glee Premiere Party","Arts & Entertainment::General Entertainment",34.144691467285156,-118.25993347167969
+"4c9c49c6542b224b6861df9f","VisionQwest Glendale","Professional & Other Places::Office",34.153242,-118.257717
+"4c9d2096e9a7ef3b44d43916","Internal Revenue Service","Professional & Other Places::Government Building",34.14728149558995,-118.25617697899033
+"4c9d3b375e1a9521e4a271f3","Hell","Professional & Other Places::Building",34.146594,-118.247771
+"4ca1fc8519e4236abb856e89","Fiscal Credit Union","Professional & Other Places::Building",34.14236595,-118.25189786
+"4ca68b7a965c9c745d3bc8fa","DevExpress","Professional & Other Places::Office",34.15810012817383,-118.25542449951172
+"4ca6916976d3a093050a036b","Moyse Stadium","Arts & Entertainment::Stadium::Baseball Stadium",34.14416368476937,-118.23129573479696
+"4ca7c1b114c337049407cd3b","Montrose Oktoberfest","Arts & Entertainment::General Entertainment",34.20559310913086,-118.22853088378906
+"4caca29c76d3a093a379336b","Chevron Station","Shop & Service::Gas Station / Garage",34.21199619,-118.240231
+"4cae32feeb65b1f71bd559cd","Big Mamas And Papas Pizzeria","Food::Pizza Place",34.20570755004883,-118.22834777832031
+"4caf5e11c5e6a1cd3d3fccf6","Montessori Academy","College & University::College Classroom",34.17392759338828,-118.29488218760694
+"4caf7327c5e6a1cd79eaccf6","The Big D Cafe","Food::Diner",34.161895751953125,-118.2887954711914
+"4cb4f11958b6ef3b4108270c","Muscle Beach Lemonade & Hot Dogs - Glendale Galleria","Food::Hot Dog Joint",34.14604343730614,-118.25751316573034
+"4cb6312e589f236ad4bb353d","Metro 685","Travel & Transport::Bus Station::Bus Line",34.148199,-118.235679
+"4cb737aa3ac93704a7f3d90a","Enterprise car rental","Travel & Transport::Rental Car Location",34.127184316666664,-118.2544877
+"4cbb384c4352a1cd5e8897f5","Los Angeles Christian Church (Disciples of Christ)","Professional & Other Places::Spiritual Center::Church",34.239488,-118.266557
+"4cbc89f2a33bb1f7aa619afd","Dental Care Studios","Professional & Other Places::Medical Center::Dentist's Office",34.163180733235386,-118.2553318640411
+"4cbcb903dd41a35d6733f5a0","US Post Office","Professional & Other Places::Post Office",34.211677,-118.24066758155823
+"4cc060d98db3b60c34f57d78","Jimmy's Super Lunch","Food::Breakfast Spot",34.1627311706543,-118.29126739501953
+"4cc0da881da0a1cd1b9996c6","St. Gregory Armenian Catholic Church","Professional & Other Places::Spiritual Center::Church",34.1648959703112,-118.232803445622
+"4cc4771882388cfa87316f35","Claire's Boutique","Shop & Service::Mall",34.1459120164811,-118.25785577603394
+"4cc5db18d43ba143194a70f8","Social Security Administration","Professional & Other Places::Government Building",34.137237,-118.25747022
+"4cc791af3477b60cbcec766a","The Church of Jesus Christ of Latter-day Saints","Professional & Other Places::Spiritual Center::Church",34.147618,-118.240677
+"4cc9bce946b437043c994ae1","330 N Brand Blvd.","Professional & Other Places::Office::Coworking Space",34.15129089355469,-118.25468444824219
+"4cceed46dd919eb0bd81139e","Voting at GLEN TERRA ASSISTED LIVING","Professional & Other Places::Voting Booth",34.158938,-118.252701
+"4ccf20d67f56a143819ec5a6","Starbucks","Food::Coffee Shop",34.12913699,-118.25881379
+"4cd0339a5b5ca35dc26e7af0","GUSD - Professional Development Center","College & University::College Administrative Building",34.15058318392279,-118.25841537138733
+"4cd4da8daeb1224b2d471fff","American Eagle Outfitters","Shop & Service::Clothing Store",34.144229888916016,-118.25667572021484
+"4cd8585a3ec4b1f71510be3f","In the car","Travel & Transport::General Travel",34.16386795043945,-118.29833221435547
+"4cdcb5f2a1bba35dbe419ce5","Rancho District","Outdoors & Recreation::Other Great Outdoors",34.159137070826866,-118.29958056939559
+"4cdedceaffcf370417991582","Glendale Pet Resort","Shop & Service::Pet Store",34.14296948831548,-118.25653672260077
+"4cdef7f341ed224bf66bdc3c","BevMo!","Shop & Service::Food & Drink Shop::Liquor Store",34.14429374374939,-118.25483507154873
+"4ce1de1069136dcbbf22ece6","Peter Young DMD","Professional & Other Places::Medical Center::Dentist's Office",34.1424592162501,-118.261544503495
+"4ce451f042f0b1f788a38cce","Dr Natalie Mansour","Professional & Other Places::Medical Center::Dentist's Office",34.13716388,-118.25821214
+"4ce73c38f3bda143473fb1e4","The Bridge Recording","Arts & Entertainment::Music Venue",34.148696,-118.271482
+"4ce82c36678aa093e5fae6ea","Crazy 8","Shop & Service::Clothing Store::Kids Store",34.14611406675627,-118.25735328068717
+"4ceada3a4cdf8eec8fcb51d1","L.A. Creamery","Food::Ice Cream Shop",34.14366145892889,-118.2559186220169
+"4ced58294cd4236a1e81a763","Clark Magnet High School","Professional & Other Places::School::High School",34.23726272583008,-118.25398254394531
+"4cf15a66cc61a35d215e149e","Monterey Garden West","Outdoors & Recreation::Garden",34.1574463502324,-118.24552137304624
+"4cf6d0c7e308236a7d38e8ac","Kitchen12000","Professional & Other Places::Event Space",34.13431167602539,-118.2579574584961
+"4cf7cfaa64e3721e0ba428c8","Disney Shuttle Parking Lot","Travel & Transport::Bus Station::Bus Line",34.16453196292812,-118.29096010974946
+"4cf9ee55d7206ea8f5163669","Harley-Davidson of Glendale","Shop & Service::Clothing Store::Accessories Store",34.12430762734672,-118.25610845631209
+"4cff2d45f1605481f0c497ea","DAVES","Nightlife Spot::Dive Bar",34.146053314208984,-118.24664306640625
+"4d0152fc85c6a14369245237","Glendale Chiro","Professional & Other Places::Medical Center::Doctor's Office",34.160348,-118.29925267142856
+"4d04116128926ea8707369c2","Robles Christmas Tree Lot","Shop & Service::Miscellaneous Shop",34.130316,-118.257341
+"4d046f92c2e537040dc2b867","Palladio","Professional & Other Places::Event Space",34.142168,-118.242242
+"4d0503ef9d33a1433e70be78","Archstone Pool/Spa","Shop & Service::Gym / Fitness Center::Gym Pool",34.161107415638895,-118.25895212439383
+"4d0bb67f5f86f04db17dcda0","Glendale Tire Co","Shop & Service::Automotive Shop",34.14185333251953,-118.25468444824219
+"4d0d32c93905b1f7d5fd984b","Adams Hill, Glendale","Professional & Other Places::Government Building::Monument / Landmark",34.13275632450745,-118.23847437572215
+"4d0d74765c46a093f8ad0eb4","Gadi's Restaurant","Food::Restaurant",34.14655303955078,-118.24011993408203
+"4d0e6ab426fba0937ad6fc72","Rafi's Restaurant","Food::Middle Eastern Restaurant",34.14766578081184,-118.2542811747707
+"4d141b718312236a3ced47ba","Juice Stop","Food::Juice Bar",34.164249,-118.280704
+"4d1bb1af6cf9721e2eb21f67","Board of Barbering and Cosmetology exam center","Professional & Other Places::Government Building",34.13520050048828,-118.2578125
+"4d1cec10b69c6dcb94224e95","Merle Norman Cosmetic Studio","Shop & Service::Cosmetics Shop",34.20608901977539,-118.22984313964844
+"4d1e3cd50901721e574080a5","Kyoto Seafood Buffet","Food::Seafood Restaurant",34.16790813981465,-118.2847542502811
+"4d1e83cd5c4ca1cd7e6d913d","76","Shop & Service::Gas Station / Garage",34.158763,-118.258336
+"4d2695158292236a781008bb","Leon Bakery and Cafe","Food::Restaurant",34.18373107910156,-118.22920227050781
+"4d2a45f0f7a9224b51d905a0","Max's Of Manila","Food::Asian Restaurant",34.1470832824707,-118.25860595703125
+"4d31f93a2c76a143cd986bc7","Shanto's Bakery","Food::Middle Eastern Restaurant",34.237686,-118.26108728333334
+"4d37296376b3236aac1cb879","Disney Toon Studios","Professional & Other Places::Office",34.16462707519531,-118.29075622558594
+"4d40e9ec00e8a35d3eacfffa","Sephora","Shop & Service::Cosmetics Shop",34.143789,-118.256777
+"4d4b16382c42a0932183f0e6","Windsor Mini Park","Outdoors & Recreation::Playground",34.1368861002902,-118.237588405609
+"4d5356f2f5daa09368446674","The Gun Gallery","Shop & Service::Miscellaneous Shop",34.13275909423828,-118.25785064697266
+"4d5b031a61393704ad88cdc6","California Highway Patrol","Professional & Other Places::Government Building::Police Station",34.15263218593559,-118.25823264657527
+"4d603328ef378cfa715d7aa6","The Americana Golden Statue","Outdoors & Recreation::Sculpture Garden",34.14389896593459,-118.25701637957134
+"4d6053c1e4fe5481f1de7e9e","Le Venus Nail Spa","Shop & Service::Cosmetics Shop",34.205265045166016,-118.22036743164062
+"4d61a29f14963704fbcef494","Superbad Movie Scene Locale","Arts & Entertainment::Movie Theater",34.161155700683594,-118.30033111572266
+"4d6bed9ab3e4a143912bec90","Comprehensive Community Health Center","Professional & Other Places::Medical Center::Doctor's Office",34.136959,-118.24039076
+"4d71ca645838a093daa401db","Ahn-Joo Truck","Food::Food Truck",34.143923285126434,-118.25702779995905
+"4d76e380de42721e876b472b","Triple R Stables","Outdoors & Recreation::Farm",34.16095,-118.30609
+"4d7ed334f635236a9e206f16","GCC Music Department","College & University::College Academic Building::College Arts Building",34.16666035004758,-118.22931398869378
+"4d839df461676dcbf9b05fe4","The Americana Valet","Professional & Other Places::Parking",34.143646240234375,-118.25631713867188
+"4d8767b0651041bdc7069b30","See's Candies","Shop & Service::Candy Store",34.144710540771484,-118.25878143310547
+"4d891bd499c2a1cd089874d7","GC3 Grand Central Cafe","Professional & Other Places::Office::Cafeteria",34.16072221345189,-118.28656978730837
+"4d925575b053b60c4aff77cb","Specialty's Cafe & Bakery","Food::Café",34.153787964295965,-118.25464189052582
+"4d964992744f3704667ab657","Pho Co.","Food::Asian Restaurant",34.146149417362004,-118.24703466937054
+"4d973bdb0caaa143ed4c8cb3","Chamlian Armenian School","Professional & Other Places::School",34.23884201049805,-118.26576232910156
+"4d97f1a20caaa143c323a1b3","XXI","Shop & Service::Clothing Store::Women's Store",34.14453421075897,-118.25763307941463
+"4d98e1040caaa1437417b8b3","Wrap Express","Food::Mediterranean Restaurant",34.16902542114258,-118.22836303710938
+"4d9b6df47668f04dc0f5d193","Metro 780","Travel & Transport::Bus Station::Bus Line",34.128673117757145,-118.25906632694387
+"4da1f1b97ccc816e92cb5d7b","Montrose Pet Hospital","Professional & Other Places::Medical Center::Veterinarian",34.2067376768108,-118.232312298853
+"4da604fc7ccc816ea8e7b37b","All For Health,Health for All","Professional & Other Places::Medical Center::Doctor's Office",34.14632034301758,-118.24927520751953
+"4daa110ecda1652a2b84b9dd","El Rey Apartments","Residence::Residential Building (Apartment / Condo)",34.133180379867554,-118.25082778930664
+"4daca2e01e72c4e8dcac1280","Irsfeld, Irsfeld & Younger","Professional & Other Places::Office",34.14638137817383,-118.2564697265625
+"4daf776b0f2c9a03677c69ff","Equilibrium Fitness (EQ-Fitness)","Shop & Service::Gym / Fitness Center",34.14070128143577,-118.25484078181546
+"4db1b10d6a231f2e4a6f6411","Disney Interactive Media Group","Arts & Entertainment::Arcade",34.15814550272192,-118.28943578435802
+"4db369704df05e5aaacb35bd","Europe Nails & Spa","Shop & Service::Salon / Barbershop",34.131658,-118.252114
+"4db4cb64f7b121c29f52fd38","the server room","Nightlife Spot::Speakeasy",34.157649993896484,-118.28990936279297
+"4db63a81a86e8d2707a81d4a","CrossFit 818","Shop & Service::Gym / Fitness Center::Gym",34.152229071390565,-118.25536612553914
+"4db6e8195da3a76f446fbd7b","Starbucks","Food::Coffee Shop",34.143106490089146,-118.25870658865308
+"4dbc4c280cb691071c9f5f79","Young Champions DoJo Karate Gym","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",34.14763524,-118.25038056
+"4dcaaaa9183817362fe82c7b","Camp Max Straus","Outdoors & Recreation::Campground",34.20796811267656,-118.24341415703847
+"4de6d0f688777d98818535f6","Walt Disney Company","::Professional & Other Places",34.15964436107519,-118.28350391636101
+"4de97236d4c00071b8092eb6","LAFCU","Shop & Service::Bank",34.14227042,-118.248778581619
+"4df79de918a8a7a743038d0a","Montrose Tire Company","Shop & Service::Automotive Shop",34.202429,-118.22812
+"4df9131818a801cd9f151471","City Of Glendale Office","::Professional & Other Places",34.14248347342018,-118.26630661288411
+"4dfa378c483b4bf3e57ae032","Metro 90","Travel & Transport::Bus Station::Bus Line",34.1336309909821,-118.251938223839
+"4dfbb6297d8b4baa033708af","Carol Liu's District Office","Shop & Service::Hobby Shop",34.15327835083008,-118.25789642333984
+"4dfd6365227185f38b98685e","Anoush Armenian Restaurant & Banquet Hall","Food::Eastern European Restaurant",34.14268546665818,-118.26104772904635
+"4e040ca1c65b59b611d99d39","The Derek Zoolander Center for Kids Who Can't Read Good and Wanna Learn to Do Other Stuff Good Too","Professional & Other Places::Building",34.14373779296875,-118.2550048828125
+"4e06411afa767637fd238de5","Gate@Villas","Professional & Other Places::Building",34.153404235839844,-118.2416763305664
+"4e078bfa18a8382643b53986","Cort Furniture Clearance Center","Shop & Service::Furniture / Home Store",34.15104,-118.258084
+"4e0b783c1f6edc06be278ff5","Social Security","Professional & Other Places::Building",34.13889694213867,-118.26040649414062
+"4e14a41152b1695f99311552","Belo Medical Services","Professional & Other Places::Medical Center::Doctor's Office",34.16322708129883,-118.25664520263672
+"4e14defc62844b405cab9969","Arnie's Smog Check","Shop & Service::Automotive Shop",34.121910095214844,-118.25262451171875
+"4e151cdcfa764fb14ae4e9c9","Villa Monaco","Residence::Residential Building (Apartment / Condo)",34.14974570274353,-118.23775329
+"4e190b1aae6092c276587768","76 Gas Station","Shop & Service::Gas Station / Garage",34.12369136663803,-118.25500066920644
+"4e1af668a8099b42ff8786db","CIGNA Healthcare Of California","Professional & Other Places::Office",34.153358459472656,-118.25460052490234
+"4e1b421c1f6e24238ddebbc8","Glendale Medical Arts Center","Professional & Other Places::Medical Center",34.133763,-118.251739
+"4e1f48d4ae60cd553def980a","Griffith Manor Park","Outdoors & Recreation::Park",34.16455685097593,-118.29270707262408
+"4e20bc63b0fbdf9ba7a2b5ea","Glendale Surgical Associates","Professional & Other Places::Medical Center::Dentist's Office",34.163085006399,-118.254917
+"4e235fdb62e1964dbb7b339c","2 South","::Travel & Transport",34.18661065274202,-118.21827975684864
+"4e2734ebe4cd60a2c62d514f","California Sea Lions","Arts & Entertainment::Zoo",34.14484807,-118.26837561
+"4e27665218384dd0a0d5e7fb","Beyond The Stars Palace","Arts & Entertainment::Performing Arts Venue",34.15248349224864,-118.25525192051902
+"4e28a6037d8b6133618ef44b","Angie's Panties","Nightlife Spot::Cocktail Bar",34.14554214477539,-118.26446533203125
+"4e29d8f245dd3272c800eec7","Foreign Exchange","Shop & Service::Clothing Store",34.145355224609375,-118.25887298583984
+"4e2a399ab61cd0108367ba87","Montrose Main Street","Shop & Service::Gift Shop",34.20536307353343,-118.22785764773357
+"4e2b8f7818a80bb0585b7732","Pizza Napoli","Food::Pizza Place",34.1371306440135,-118.239890651272
+"4e2f5883d1646b407b8d7aa6","Apple Store","Shop & Service::Electronics Store",34.14415260853108,-118.25701637957134
+"4e305e4f14953296330df7e9","Stephen's Hay & Grain","Shop & Service::Pet Store",34.16131591796875,-118.30642700195312
+"4e3392ccb61cd25ad4ab0ecd","The Crest","Nightlife Spot::Bar",34.236122131347656,-118.25892639160156
+"4e35be35fa7656ba31746ee7","Luigi's Fountains","Shop & Service::Furniture / Home Store",34.1551809276756,-118.27581901423189
+"4e375ba918a8470916ca7328","12 Oaks Lodge","Professional & Other Places::Building",34.21037081,-118.24161507
+"4e38a859fa763bfcc366ee87","Rock Haven Sanitarium","Professional & Other Places::Medical Center",34.2276689194723,-118.257438933407
+"4e39a025b0fb2f7ee8696eb8","Cosmic/Hazel Tunnel","Outdoors & Recreation::Hiking Trail",34.16053215455917,-118.29279841659475
+"4e39bbde6284250071c13ac5","The GR","Professional & Other Places::Office::Tech Startup",34.145342,-118.258393
+"4e3adf21c65b8a6b56b2be0d","Pierre Garden","Food::French Restaurant",34.14783477783203,-118.25408172607422
+"4e3b08ebb61cb577be5703c7","Dr Dan La, Rheumatology","Professional & Other Places::Medical Center::Doctor's Office",34.136474,-118.240084
+"4e3dcf6ad4c058f9dc0b0e95","Water & Ice","Shop & Service::Food & Drink Shop::Grocery Store",34.139804,-118.234302
+"4e3f0ff9fa76455375ce0445","KFC - Kim Fun Center","Outdoors & Recreation::Playground",34.17322803214138,-118.28450103520923
+"4e40764cae60920b016f3440","Ortho Mattress","Shop & Service::Furniture / Home Store",34.14736966988131,-118.25836969020261
+"4e42e6eea8090a19946155b3","The Patio","Food::Café",34.1649055480957,-118.29078674316406
+"4e42ed85814dfebd20e28659","Michael Kors","Shop & Service::Clothing Store",34.145730365798414,-118.25835943222046
+"4e449c4dd4c02cf15f653430","The Hudson on Adams Hill","Residence::Residential Building (Apartment / Condo)",34.132263,-118.240818
+"4e4d6f11a8091e4d0c41b00e","Mayhall's Sewing And Vacuum Center","Shop & Service::Arts & Crafts Store",34.20505142211914,-118.22686004638672
+"4e4db9de1f6eae4d2502e953","Cell Tower","Professional & Other Places::Building",34.150787353515625,-118.22435760498047
+"4e4dbb141f6eae4d2502fbd6","Jaurigue Law","::Professional & Other Places",34.15168557022476,-118.2582783277966
+"4e4e5d67bd4101d0d7a88e21","Billy's Delicatessen Rstrnt","Food::Deli / Bodega",34.148718,-118.256204
+"4e5015d11495fc2ca408b470","War Dancers Hair Salon","Shop & Service::Salon / Barbershop",34.16189,-118.301483
+"4e515e55e4cdc76dc9cc3418","Crescenta Valley Community Church","Professional & Other Places::Spiritual Center::Church",34.21421762566764,-118.24018210172653
+"4e5edf18d22d7239c1a93d2d","Angelique's House","Residence::Residential Building (Apartment / Condo)",34.147123,-118.24088
+"4e6071b0d22d509a38bfde4a","The 1033","Nightlife Spot::Speakeasy",34.17275619506836,-118.29512023925781
+"4e655375fa76cd64cf772ee0","Laundry","Shop & Service::Laundry Service",34.13482,-118.240254
+"4e66b247227151796fdff3b4","Halloween Store","Shop & Service::Design Studio",34.14612579345703,-118.2549819946289
+"4e682750483bc7763051ab20","Stone Oven","Food::Sandwich Place",34.145145,-118.258877
+"4e6a75bdae609509557f3dae","Baxter BioScience - Cafeteria","Shop & Service::Food & Drink Shop::Food Court",34.14700326085125,-118.2578957471913
+"4e6fbdd5b0fb27effc57a2d9","The Frogs","Outdoors & Recreation::Plaza",34.144971,-118.255134
+"4e7395ea1f6eaf402bd046eb","Baghdad Two","Travel & Transport::Hotel::Hostel",34.1624611550114,-118.270223548215
+"4e78d283d22dc865f1235f63","City Wide Transportation","Shop & Service::Automotive Shop",34.15816879272461,-118.26014709472656
+"4e79d38d1838221da8e6806a","With Jesus","Outdoors & Recreation::Lighthouse",34.172758,-118.295265
+"4e7e384a6da1d5b754fca632","Ice Cream Truck","Food::Dessert Shop",34.1566162109375,-118.23677062988281
+"4e7e932446909503fdaf2151","Glendale College Sartoris Field","College & University::College Stadium::College Football Field",34.16575534647401,-118.2299136549127
+"4e809d0f61af5299ac99d16e","Kildonan Trail","Outdoors & Recreation::Hiking Trail",34.176161487775744,-118.23942236790869
+"4e8347f693ad9516fc9dfcb9","Ascencia","Professional & Other Places::Office",34.12850570678711,-118.26139831542969
+"4e8b25b549018e0360faf0b1","North Brand Dentistry","Professional & Other Places::Medical Center::Dentist's Office",34.1628532409668,-118.25482177734375
+"4e8cc8f20cd613d103ae9906","Neat","Nightlife Spot::Whisky Bar",34.16157254684207,-118.26458823663415
+"4e8ce4096da1d5bdcefec333","Budget","Travel & Transport::Rental Car Location",34.138730170775254,-118.25536041528996
+"4e91e0bf5c5c4562f088abee","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",34.20700185730869,-118.23280344562231
+"4e94ecf09adf645ac39fc0fe","Kurry & Kabab","Food::Indian Restaurant",34.168460845947266,-118.22888946533203
+"4e9914098b81f31913175616","Americana Smoking Section","Outdoors & Recreation::Field",34.14412045685544,-118.25709061207762
+"4e9de6202fb6dde27aea9ce7","Hilton Los Angeles North/Glendale & Executive Meeting Ctr","Travel & Transport::Hotel",34.15864944458008,-118.25657653808594
+"4ea03a354fc673906c95ade4","Cadillac Culinary Challenge","Food::American Restaurant",34.14269256591797,-118.2549819946289
+"4ea629dcd3e35f3cd503cbb3","Body & Brain Center: Burbank Holistic Wellness","Shop & Service::Gym / Fitness Center::Yoga Studio",34.15144148298608,-118.24572695370868
+"4eaed97b7ee59f1609895e80","Chi Dynasty Glendale","Food::Chinese Restaurant",34.143565015344954,-118.255482
+"4eb499a3d3e3644ca5df4a84","U.S. Bank","Shop & Service::Bank",34.1557102245663,-118.244904629579
+"4eb71f4f722e578a50312230","Ahn-Joo","Food::Korean Restaurant",34.143802642822266,-118.25707244873047
+"4eb952502c5b53141bf6b664","City Of Glendale - Brand Blvd Of Cars","Shop & Service::Automotive Shop",34.1316874138401,-118.254869333146
+"4ebaefef0aafc46b983eb996","DPSS office","Professional & Other Places::Government Building",34.13711166381836,-118.26476287841797
+"4ec7f9110e017e2f9a7fb5bb","Glendale Gun Show","Professional & Other Places::Convention Center",34.166569535269375,-118.23108442578277
+"4ec9b4536c251306ce195410","Goodie Girls Cupcakery","Food::Cupcake Shop",34.14640426635742,-118.25072479248047
+"4eda638f0aaf49e0298e999a","Bathroom in La Casa De Blake","Arts & Entertainment::Performing Arts Venue::Theater",34.13996096469091,-118.23248099686134
+"4edabaa5e5fa78b16e9b5832","Montrose-Glendale Christmas Parade","Arts & Entertainment::General Entertainment",34.2066535949707,-118.23118591308594
+"4ee001d7d3e38ddb2a5a329a","Americana @ Brand - Radio Disneys NBT","Arts & Entertainment::Music Venue",34.14419398908336,-118.25641596053806
+"4efb9543a69dcb20b780432a","Vegas Seafood Buffet","Food::Seafood Restaurant",34.14538172155041,-118.25460095044892
+"4f051654b8f7dcbb3f8f0efc","adoration","Professional & Other Places::Spiritual Center::Shrine",34.140963454198186,-118.253219058409
+"4f0f3abfe4b0c6e467dc4124","Nestlé Employee Dining Center (EDC)","Shop & Service::Food & Drink Shop::Food Court",34.157820411664595,-118.25433827761421
+"4f0f6cf4e4b0ad088942f6da","Anoush Headquarters","Professional & Other Places::Office",34.144643,-118.254497
+"4f13798de4b0804e8c7602a7","Papaya","Shop & Service::Clothing Store::Women's Store",34.14408493041992,-118.2585220336914
+"4f15d65ae4b00050306fbd75","Hot Spot Cafe","Food::Diner",34.146358489990234,-118.24958038330078
+"4f2301ffe4b0d609c50bba33","Montrose Wine & Kabob","Food::Middle Eastern Restaurant",34.20449746269945,-118.22782909190506
+"4f4475b9e4b0bed366a03452","Glendale Galleria Food Court","Shop & Service::Food & Drink Shop::Food Court",34.14513396308885,-118.25900351555079
+"4f593d31e4b00e135e45b992","Fetiche Beauty Lounge","Shop & Service::Cosmetics Shop",34.14799499511719,-118.25413513183594
+"4f8339c6bb3d8e59d411af73","Eden Burger Bar","Food::Burger Joint",34.1508979719172,-118.2363224029541
+"4f85fea17bebf1ddab69b3b5","Wingstop","Food::Wings Joint",34.14305588155658,-118.24930173356958
+"4faac2a9e4b0eeffb598066e","somewhere between","Outdoors & Recreation::Scenic Lookout",34.128703110892594,-118.25948316560427
+"4fde1454e4b014c45bf82431","Katy's Garden @ Monterey West","Outdoors & Recreation::Garden",34.15746137946811,-118.24556134708325
+"4fde7c4de4b044d93c0c3e6b","The Glendale Tap","Nightlife Spot::Bar",34.130674,-118.261178
+"4fe65a33e4b05d1edc21ee96","Verdugo Woodlands","Outdoors & Recreation::Other Great Outdoors",34.17768677472163,-118.22611573351172
+"4ff88970e4b0d27dd839de23","Osaka Seafood Buffet","Food::Asian Restaurant",34.148293903387675,-118.22803469376433
+"5010b1a2e4b00c72b54c7fcb","The Famous","Nightlife Spot::Cocktail Bar",34.144570119066216,-118.25494927684706
+"501ae188e4b0d11883b52d9a","The Plate California Bistro","Food::Burger Joint",34.15380828254844,-118.25523478975941
+"502a816bd63e645b656beb86","Disney Baby","Shop & Service::Clothing Store",34.14409655513857,-118.25621366500854
+"50356877e4b0cf4240652cf4","C Plus Craft Coffee","Food::Café",34.12962,-118.254679
+"505226ece4b03cb4fd403190","Wundabar Pilates","Shop & Service::Gym / Fitness Center::Gym",34.20572878074507,-118.22838878527855
+"505bae6ce4b08ab5c1957a83","Tiffany's Design Desk","Arts & Entertainment::Theme Park",34.15989353243173,-118.28590751818176
+"506d96d3e4b025943b716c7f","GC3 Disney Interactive","Professional & Other Places::Office",34.16084283754594,-118.28634141893491
+"5077231ae4b0dcb91554b055","Disney Interactive","Professional & Other Places::Office::Coworking Space",34.160766457404044,-118.28639851105697
+"5081e6dbe4b091f169d2d9b5","City of Glendale, CA","Outdoors & Recreation::Other Great Outdoors",34.149942825702404,-118.23025060929804
+"50873fe4e4b01747fa714164","Mission Wine & Spirit","Shop & Service::Food & Drink Shop::Wine Shop",34.1387750565006,-118.25083212770126
+"508af8a7e4b07c9fb051e0df","Ahn Joo Korean Restaurant","Food::Korean Restaurant",34.14389267440752,-118.25713629360386
+"50913340e4b0e45182c68522","Starbucks","Food::Coffee Shop",34.16076289789756,-118.2866211701502

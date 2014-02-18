@@ -1,0 +1,552 @@
+"43e9be7bf964a520152f1fe3","the Bistro","Arts & Entertainment::Music Venue",37.67280699353905,-122.08242774009705
+"4788a5ddf964a520384d1fe3","Starbucks","Food::Coffee Shop",37.65193786,-122.0907586812973
+"4813c5a2f964a520504f1fe3","Hayward BART Station","Travel & Transport::Train Station",37.66992814274733,-122.0870840549469
+"4813c605f964a520514f1fe3","South Hayward BART Station","Travel & Transport::Train Station",37.63479547217482,-122.05759048461914
+"4838e066f964a52004501fe3","Costco Business Center","Shop & Service::Department Store",37.667535,-122.103008
+"4840c68ff964a5202a501fe3","Mimi's Cafe","Food::American Restaurant",37.649968437139556,-122.10784435272217
+"4a05bc18f964a5206c721fe3","Chabot College","College & University::Community College",37.64200004350774,-122.10614919662476
+"4a062234f964a520bc721fe3","Jack in the Box","Food::Fast Food Restaurant",37.644045,-122.10437865
+"4a0b1b8cf964a520cc741fe3","Century Theatres at Hayward","Arts & Entertainment::Movie Theater::Multiplex",37.673660635604655,-122.0813449524242
+"4a246bdbf964a5201d7e1fe3","Bijou Restaurant & Bar","Food::French Restaurant",37.6734701,-122.08215931666666
+"4a2ac5cdf964a5204c961fe3","Hayward Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",37.67123740107695,-122.08479583951473
+"4a32a443f964a520709a1fe3","Bronco Billy's Pizza Palace","Food::Pizza Place",37.655535,-122.048831
+"4a56b009f964a520a4b51fe3","Hayward City Hall","Professional & Other Places::Government Building::City Hall",37.67098148362804,-122.08546159287354
+"4a6208c7f964a520ddc21fe3","Hayward Ace","Shop & Service::Hardware Store",37.671998,-122.08494901657104
+"4a69f2edf964a52043cc1fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.67227081,-122.0842838287318
+"4a7cc24cf964a52084ed1fe3","B Street Bar & Grill","Nightlife Spot::Bar",37.6719903945923,-122.084702333333
+"4a7cc510f964a52093ed1fe3","Buffalo Bill's Brew Pub","Food::Brewery",37.67394418015952,-122.08150030018449
+"4a7ceb02f964a52015ee1fe3","China Best","Food::Chinese Restaurant",37.65558,-122.048693
+"4a862ad1f964a520a50020e3","Turf Club","Nightlife Spot::Gay Bar",37.67363920688155,-122.08366423845291
+"4a870099f964a5200f0220e3","Eon Coffee","Food::Coffee Shop",37.64523453749902,-122.10498853814806
+"4a934ec0f964a520861f20e3","Ray's Sushi","Food::Sushi Restaurant",37.66551476023071,-122.11612064853048
+"4aa42d23f964a520b04520e3","Emil Villa's California Barbecue","Food::BBQ Joint",37.66680562557693,-122.07964720882534
+"4aaafdccf964a5206b5820e3","Kenkoy's Grill","Food::Burger Joint",37.64783336666667,-122.09176335
+"4aac0d2af964a520eb5b20e3","Pakwan","Food::Indian Restaurant",37.657872,-122.071641
+"4aac2ae4f964a520a35c20e3","Chase","Shop & Service::Bank",37.67791052234558,-122.08318948745728
+"4aac2d48f964a520af5c20e3","Starbucks","Food::Coffee Shop",37.67909,-122.0834832
+"4abec8f3f964a520e08f20e3","Favorite Indian Restaurant","Food::Indian Restaurant",37.667703929959515,-122.07968049817093
+"4ac6e923f964a52090b620e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.653375019548335,-122.09150866528003
+"4acced5ef964a52013ca20e3","The Hayward Ranch","Food::American Restaurant",37.668884,-122.081472
+"4ada336ef964a520e21f21e3","Mi Pueblo Food Center","Shop & Service::Food & Drink Shop::Grocery Store",37.66457016083334,-122.11649780010843
+"4ada3de7f964a5206e2021e3","Target","Shop & Service::Department Store",37.66595361654867,-122.11994647979736
+"4ada446ff964a520b52021e3","Panera Bread","Food::Bakery",37.65380343212567,-122.10536572855341
+"4adb8b8cf964a520d82821e3","Ono Hawaiian BBQ","Food::BBQ Joint",37.6659577,-122.1185512
+"4ae23accf964a520108c21e3","Caspers Hot Dogs","Food::Hot Dog Joint",37.67135,-122.08222389221191
+"4ae76960f964a52011ab21e3","Hayward Executive Airport (HWD)","Travel & Transport::Airport",37.66161774092241,-122.11941513402286
+"4ae7a233f964a520eeac21e3","Val's Burgers","Food::Burger Joint",37.683564,-122.06341568
+"4aee2723f964a5208ed221e3","All Saints Catholic Church","Professional & Other Places::Spiritual Center::Church",37.67302748637964,-122.07684531895295
+"4af639f9f964a5206d0222e3","Target","Shop & Service::Department Store",37.60765311561846,-122.0626974105835
+"4af78bc4f964a520cb0922e3","Southland Mall","Shop & Service::Mall",37.651620008127594,-122.10241473322702
+"4afe124ef964a520ae2d22e3","Denny's","Food::Diner",37.60807886674618,-122.06585344449387
+"4aff4e4ff964a520293722e3","Shark Shack","Food::Mexican Restaurant",37.672,-122.08418368333334
+"4aff4fc2f964a520383722e3","Garin/Dry Creek Pioneer Regional Parks","Outdoors & Recreation::Park",37.62860985834204,-122.02866554260254
+"4aff64eef964a520253822e3","St Rose Hospital","Professional & Other Places::Medical Center::Hospital",37.63346147244294,-122.08799141834618
+"4b0059e5f964a520303d22e3","New West Lake Restaurant","Food::Chinese Restaurant",37.6608615,-122.085465
+"4b01dd80f964a5201c4622e3","Hayward DMV Office","Professional & Other Places::Government Building",37.65937975333442,-122.08701500147656
+"4b035edaf964a520fd4e22e3","Quiznos","Food::Sandwich Place",37.678439,-122.083341
+"4b044269f964a520a35222e3","Caspers Famous Hot Dogs","Food::Hot Dog Joint",37.682511,-122.08822398333334
+"4b0ec6f8f964a520e35a23e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.65278787068936,-122.09111478368214
+"4b131724f964a520f99323e3","Kohl's","Shop & Service::Department Store",37.651244196629534,-122.10350749839785
+"4b19a06df964a520b6e023e3","Naked Fish Japanese Cuisine","Food::Japanese Restaurant",37.653712,-122.090997
+"4b19ffdaf964a520e5e623e3","Funky Monkey","Nightlife Spot::Bar",37.6734,-122.08295345306396
+"4b1c6193f964a520be0624e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.68366947593422,-122.0908595920233
+"4b1c6479f964a520e00624e3","Chevron Station","Shop & Service::Gas Station / Garage",37.68325482839211,-122.09014394264341
+"4b1d4a9df964a520460e24e3","Sears","Shop & Service::Electronics Store",37.653060555598145,-122.1022483213192
+"4b1ebb32f964a520a31e24e3","jack in the box - Hayward/San Lorenzo","Food::Fast Food Restaurant",37.660709381103516,-122.06705474853516
+"4b22c473f964a5202c4d24e3","Ross Dress For Less","Shop & Service::Department Store",37.652411,-122.101255
+"4b240209f964a520fc5e24e3","Panda Express","Food::Chinese Restaurant",37.608866033333335,-122.06512
+"4b2483dbf964a5204d6824e3","Olive Garden","Food::Italian Restaurant",37.647821,-122.106669
+"4b26b080f964a5208d7f24e3","Subway","Food::Sandwich Place",37.61849,-122.036049
+"4b295644f964a520209d24e3","Panda Express","Food::Chinese Restaurant",37.672714,-122.0851938
+"4b298b5ff964a520a6a024e3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",37.65151444434044,-122.10033416748047
+"4b299592f964a5204ca124e3","McDonald's","Food::Fast Food Restaurant",37.63134586642251,-122.09649324417114
+"4b2aa660f964a520feac24e3","Starbucks","Food::Coffee Shop",37.65403,-122.110495
+"4b2d6a87f964a52036d624e3","Red Chili "Thai & Vietnamese Cuisine"","Food::Vietnamese Restaurant",37.630151,-122.048012
+"4b2fe816f964a5205af224e3","Taco Bell","Food::Taco Place",37.6600745544883,-122.101926590905
+"4b30f8e6f964a52082fd24e3","Kaiser Permanente Hayward Medical Center","Professional & Other Places::Medical Center::Hospital",37.63051848774177,-122.09545849732315
+"4b3198e8f964a520830925e3","California State University, East Bay (CSUEB)","College & University::University",37.65715347239016,-122.05496589775973
+"4b327140f964a520cf0b25e3","Hutch's Touch-Less Car Wash","Shop & Service::Automotive Shop",37.67798521666667,-122.07724571228027
+"4b32e233f964a5208b1525e3","Tomodachi Sushi Bistro","Food::Sushi Restaurant",37.651637613859606,-122.10988014936447
+"4b36ea0af964a5201f3e25e3","Dirty Bird Lounge","Nightlife Spot::Dive Bar",37.632937,-122.04992
+"4b387f2ff964a5204c4e25e3","1/4 lb Giant Burger","Food::Burger Joint",37.666174,-122.078336
+"4b3ac964f964a520696e25e3","Wakamatsu","Food::Sushi Restaurant",37.672039,-122.079845
+"4b3ad248f964a520e46e25e3","Los Pericos","Food::Mexican Restaurant",37.65256542200322,-122.10497189736462
+"4b3d1f8af964a520708e25e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.679519478364284,-122.08365295338199
+"4b416ac0f964a52070c625e3","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",37.65443801879883,-122.10562348365784
+"4b42334bf964a520c7ce25e3","US Post Office","Professional & Other Places::Post Office",37.655495644540004,-122.09578024695948
+"4b426ceff964a520add325e3","Tacos Uruapan","Food::Mexican Restaurant",37.62213443256471,-122.05710242898424
+"4b43cbf6f964a52036ea25e3","Rigatoni's Restaurant","Food::Italian Restaurant",37.6652818,-122.1180973
+"4b440440f964a5203ff025e3","La Piñata","Food::Mexican Restaurant",37.679122033333336,-122.092152
+"4b4524e0f964a5202c0626e3","Starbucks","Food::Coffee Shop",37.665783,-122.11878776550293
+"4b4531f2f964a520a00726e3","SONIC Drive In","Food::Burger Joint",37.61912049266664,-122.03541330064124
+"4b454ff4f964a520670a26e3","Subway","Food::Sandwich Place",37.6442598240606,-122.104496955872
+"4b46949ef964a520db2426e3","Smart & Final","Shop & Service::Food & Drink Shop::Grocery Store",37.66149087560342,-122.11650889278198
+"4b47a2aef964a5205f3826e3","Cheese Steak Shop","Food::Sandwich Place",37.667392644781906,-122.11964252746395
+"4b48e511f964a520365c26e3","Chuck E. Cheese's","Food::Pizza Place",37.652184,-122.11127098333333
+"4b495d3af964a5206b6e26e3","Wingstop","Food::Wings Joint",37.67390367599095,-122.0813172117293
+"4b4bcaabf964a520d6a726e3","Marie Calenders","Food::Restaurant",37.654002,-122.106784
+"4b4c18b1f964a52037ae26e3","Chavez Supermarket & Taqueria","Shop & Service::Food & Drink Shop::Grocery Store",37.632055,-122.0763465
+"4b4ced71f964a5208ec426e3","Los Compadres","Food::Mexican Restaurant",37.671491503715515,-122.08262622356415
+"4b4d4e85f964a52076d026e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.65220068410177,-122.09086513967446
+"4b4e3b86f964a52033e626e3","Citibank","Shop & Service::Bank",37.67546027992002,-122.07915896391582
+"4b4fa0f8f964a5203d0e27e3","Hayward Main Library","Professional & Other Places::Library",37.67038374353242,-122.0834032921865
+"4b4fc9e7f964a520711527e3","GameStop","Shop & Service::Video Game Store",37.65187603308171,-122.10389578793344
+"4b50bb9ff964a520e32f27e3","Costco","Shop & Service::Miscellaneous Shop",37.616118107210944,-122.08917617797852
+"4b5397d4f964a520d3a327e3","Wendy's","Food::Fast Food Restaurant",37.66776453526743,-122.08053492121175
+"4b53d0a5f964a52039ac27e3","Wingstop","Food::Wings Joint",37.60580020781013,-122.06484317779541
+"4b552043f964a52012dc27e3","Elephant Bar","Food::American Restaurant",37.65364520508551,-122.10608682419773
+"4b5675f0f964a520651128e3","Jack in the Box","Food::Fast Food Restaurant",37.620124,-122.036869
+"4b576a6cf964a520793628e3","Tacos el Grullense","Food::Burrito Place",37.68286406993866,-122.06500537
+"4b57bc3bf964a520873e28e3","Nation's Giant Hamburgers","Food::Burger Joint",37.648768416981255,-122.09066542405417
+"4b5b7dc6f964a520330229e3","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.67208894933627,-122.08554481175592
+"4b5bc8a3f964a520011629e3","Macy's","Shop & Service::Department Store",37.650036394176304,-122.10455060005188
+"4b5fbc90f964a5209fca29e3","Hayward Japan Grill & Sushi Bar","Food::Japanese Restaurant",37.671284,-122.082822033333
+"4b60c12bf964a5207ff729e3","Ohana Hawaiian BBQ","Food::BBQ Joint",37.6483333110809,-122.089986205101
+"4b60e0e9f964a52060ff29e3","As Seen on TV","Shop & Service::Gift Shop",37.652024030685425,-122.1014833
+"4b60e24af964a520a8ff29e3","Basic","Shop & Service::Clothing Store::Women's Store",37.6502597241799,-122.103407652292
+"4b60e2a5f964a520bbff29e3","Bath & Body Works","Shop & Service::Cosmetics Shop",37.651149,-122.101974016667
+"4b62337af964a520cd3b2ae3","Cinnabon","Food::Dessert Shop",37.6506318666667,-122.103627
+"4b6233c8f964a520e13b2ae3","Claire's","Shop & Service::Clothing Store::Accessories Store",37.65146877368064,-122.10145508770847
+"4b6233f1f964a520f83b2ae3","Crazy 8","Shop & Service::Clothing Store::Kids Store",37.650778,-122.1026354
+"4b637394f964a520da7a2ae3","Dairy Queen/Orange Julius","Food::Restaurant",37.651614,-122.102392
+"4b637527f964a5204f7b2ae3","Eye Spy Optometric","Professional & Other Places::Medical Center::Optical Shop",37.651561,-122.101602
+"4b6376edf964a520dd7b2ae3","Foot Locker","Shop & Service::Clothing Store::Shoe Store",37.651289105415344,-122.101972
+"4b63771bf964a520ea7b2ae3","Forever 21","Shop & Service::Clothing Store::Women's Store",37.65123,-122.10237064044237
+"4b63781ff964a5203d7c2ae3","Great Khan's","Food::Asian Restaurant",37.651291,-122.101265
+"4b6468b5f964a520ddb02ae3","The Raider Image","Shop & Service::Gift Shop",37.652138,-122.101196
+"4b6480ddf964a520cbb82ae3","Airport Home Appliance","Shop & Service::Hardware Store",37.666498180289466,-122.1180840408657
+"4b65c5a0f964a520b5fe2ae3","Valero","Shop & Service::Gas Station / Garage",37.64949273614129,-122.09080696105957
+"4b65e977f964a520db072be3","Taqueria Senaida's","Food::Mexican Restaurant",37.633596424624315,-122.06417765461899
+"4b676b9ef964a520db4d2be3","Zuckersüss","Food::Café",37.67381855,-122.08137506666667
+"4b678d50f964a520f3542be3","Valero","Shop & Service::Gas Station / Garage",37.62816568085747,-122.04669684883392
+"4b6a8de4f964a5207ed82be3","76","Shop & Service::Gas Station / Garage",37.62802874390043,-122.0449153137172
+"4b6b8e13f964a520a10f2ce3","IHOP","Food::Breakfast Spot",37.68045268470963,-122.08531179872429
+"4b6c5b48f964a52044332ce3","Carl's Jr.","Food::Fast Food Restaurant",37.62986612796653,-122.09653469063386
+"4b6cd0ddf964a52072562ce3","Arco","Shop & Service::Gas Station / Garage",37.65684345531874,-122.07178508895956
+"4b6f044af964a5201fd72ce3","Korea House","Food::Korean Restaurant",37.672221064567566,-122.087896
+"4b6f04a2f964a5203dd72ce3","Starbucks","Food::Coffee Shop",37.67254374043649,-122.08539962768555
+"4b6f2635f964a5206ae02ce3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.618721,-122.034993
+"4b7071a7f964a520d01a2de3","Rite Aid","Shop & Service::Drugstore / Pharmacy",37.64917,-122.106188
+"4b70d830f964a52048312de3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.645818,-122.063405
+"4b71d257f964a520745e2de3","Bank of America","Shop & Service::Bank",37.67690420150757,-122.08034
+"4b72cc69f964a52034892de3","Starbucks","Food::Coffee Shop",37.617864,-122.069773
+"4b733363f964a52083a12de3","Street Beat","Shop & Service::Automotive Shop",37.647265,-122.087448
+"4b74b639f964a520f3ed2de3","Chef's Experience China Bistro","Food::Chinese Restaurant",37.67583009125454,-122.0817518234253
+"4b74c454f964a520f3f02de3","Hometown Buffet","Food::American Restaurant",37.6498623831143,-122.10361843840735
+"4b770e23f964a520a9782ee3","Reptile Room","Shop & Service::Pet Store",37.67643,-122.079715
+"4b7b8e33f964a52034672fe3","Donut Express","Food::Donut Shop",37.66330996,-122.084369659424
+"4b7c2632f964a5201a802fe3","Jamba Juice","Food::Juice Bar",37.672768779436936,-122.0849946141243
+"4b7c3fd9f964a5204d872fe3","Subway","Food::Sandwich Place",37.64458685,-122.062246799469
+"4b7c964bf964a5207c9c2fe3","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.64791270738687,-122.09042072296143
+"4b7da1aef964a5200dcb2fe3","La Imperial","Food::Mexican Restaurant",37.67167,-122.082654305151
+"4b7df2d8f964a520a7db2fe3","Subway","Food::Sandwich Place",37.6484084129333,-122.090147137642
+"4b840cbcf964a5205c1d31e3","Cafe Vasiliki","Food::Café",37.643505334854126,-122.10412433
+"4b85c0e5f964a5200b7131e3","CSUEB Library","College & University::University",37.65591444252159,-122.05606698989867
+"4b85c20ef964a520477131e3","Chabot College Library","College & University::College Library",37.641732,-122.10567295
+"4b85f7e6f964a520f17b31e3","Chevron Station","Shop & Service::Gas Station / Garage",37.60845,-122.065874
+"4b888896f964a520d7fe31e3","Buon Appetito","Food::Italian Restaurant",37.67333738966862,-122.08441302948206
+"4b899578f964a520d64332e3","Pioneer Heights","College & University::College Residence Hall",37.6532062782787,-122.052834874144
+"4b8a9ceff964a520417532e3","el rancho verde","Professional & Other Places::School::High School",37.6145589351654,-122.027677
+"4b8c79eef964a520a9d232e3","Chevron Station","Shop & Service::Gas Station / Garage",37.667079,-122.0790914
+"4b8c905df964a520c0d632e3","Industrial Gas","Shop & Service::Gas Station / Garage",37.61790633201599,-122.070301
+"4b8d7f39f964a5204cff32e3","Bank of America","Shop & Service::Bank",37.647368042785615,-122.10621994902192
+"4b8dcd5af964a520550e33e3","Bally Total Fitness","Shop & Service::Gym / Fitness Center::Gym",37.66632729901675,-122.08106517791748
+"4b8de91af964a5200b1333e3","Tg California Automotive Sealing","Professional & Other Places::Office",37.619652,-122.058663
+"4b8e04d5f964a520101633e3","7-Eleven","Shop & Service::Convenience Store",37.63352591675774,-122.06625851564954
+"4b91684cf964a520f6b933e3","Chase","Shop & Service::Bank",37.65300189766412,-122.10474447306743
+"4b917f48f964a520e3c033e3","Juicy Dog","Food::Hot Dog Joint",37.627556,-122.120898
+"4b918d90f964a52007c533e3","Bank of America","Shop & Service::Bank",37.645361343569185,-122.06290692254537
+"4b93f6b8f964a520535d34e3","Alden E. Oliver Sports Park","Outdoors & Recreation::Park",37.61044268268835,-122.08743663711302
+"4b93fa23f964a520715e34e3","Bay Area Dream Center","Professional & Other Places::Spiritual Center::Church",37.668893149306236,-122.11426814961423
+"4b9407e3f964a520a86234e3","Starbucks","Food::Coffee Shop",37.60683374156287,-122.06387800734704
+"4b943e17f964a520c07034e3","Jack in the Box","Food::Fast Food Restaurant",37.63165687692431,-122.0749477603572
+"4b94679ef964a520107834e3","Grand Taipei","Food::Asian Restaurant",37.644439,-122.10452914238
+"4b948b52f964a520f97c34e3","Popeyes Louisiana Kitchen","Food::Fried Chicken Joint",37.648867,-122.090935
+"4b96f3e7f964a520fcef34e3","Taqueria La Placita","Food::Mexican Restaurant",37.63194501399994,-122.07536049
+"4b980795f964a5205f2735e3","Mr. Phở","Food::Asian Restaurant",37.665540883333335,-122.117442
+"4b980a96f964a5203a2835e3","Straw Hat Pizza","Food::Pizza Place",37.646615,-122.105762
+"4b980e47f964a5204c2935e3","Mountain Mike's Pizza","Food::Pizza Place",37.6471263170242,-122.087808251381
+"4b985ab8f964a5208c3d35e3","El Taquito #1","Food::Mexican Restaurant",37.674383,-122.08637595176697
+"4b9aa73cf964a52009ca35e3","City View Apartments","Professional & Other Places::Building",37.6602122585082,-122.066924571991
+"4b9aa9cdf964a520f3ca35e3","Los Portales Taqueria","Food::Burrito Place",37.608668,-122.064514883333
+"4b9ab3ebf964a52088ce35e3","Hayward Regional Shoreline","Outdoors & Recreation::Other Great Outdoors",37.66143530690984,-122.14908599853516
+"4b9acc93f964a520d8d635e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.6539268308419,-122.11016178131104
+"4b9bf04ef964a5203b3836e3","Cold Stone Creamery","Food::Ice Cream Shop",37.652549743652344,-122.10441578
+"4b9c08fbf964a520364336e3","Taqueria Los Gallos","Food::Mexican Restaurant",37.6192536641416,-122.037028479347
+"4b9d5f42f964a520a6a736e3","Hayward Convalescent  Hospital","Professional & Other Places::Medical Center",37.6825181722448,-122.067495915439
+"4b9d69f4f964a5200bab36e3","Los Dos Hermanos Mexican Restaurant","Food::Mexican Restaurant",37.638121,-122.056324481964
+"4b9e8e74f964a520d9ee36e3","Kmart","Shop & Service::Electronics Store",37.649814114773136,-122.06771232023176
+"4b9edb6cf964a520990637e3","Sizzler","Food::American Restaurant",37.65221331,-122.10999115
+"4ba044fdf964a5203e6537e3","DOLLAR TREE","Shop & Service::Miscellaneous Shop",37.66514,-122.116635
+"4ba30d82f964a520c72938e3","7-Eleven","Shop & Service::Convenience Store",37.649616,-122.0768544615608
+"4ba3bf8cf964a520f15a38e3","Hutch's Quik Lube","Shop & Service::Automotive Shop",37.6775059666667,-122.076796
+"4ba3d74bf964a520626538e3","T-Mobile","Shop & Service::Electronics Store",37.608702,-122.064748
+"4ba6894cf964a520135c39e3","Blockbuster Video","Shop & Service::Video Store",37.6487924139262,-122.106685884616
+"4ba68b17f964a520b85c39e3","Charley's Steakery","Food::Steakhouse",37.65048323,-122.10348353
+"4ba7a5d9f964a520eba539e3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",37.65096712440803,-122.1019154967359
+"4ba7b815f964a520c9ac39e3","TK Noodle","Food::Asian Restaurant",37.65158,-122.101859379695
+"4ba7b853f964a520e2ac39e3","Tip Thai & Tea House","Food::Thai Restaurant",37.6514289981877,-122.101438446382
+"4ba7bbb6f964a52035ae39e3","Styles For Less","Shop & Service::Clothing Store::Women's Store",37.6518202441499,-122.10537135601
+"4ba7e71bf964a52049bd39e3","Robert Wayne Footwear","Shop & Service::Clothing Store::Shoe Store",37.650739,-122.10283861
+"4ba8f9a7f964a520adff39e3","McDonald's","Food::Fast Food Restaurant",37.608606005541404,-122.06638614049517
+"4ba967e2f964a52017253ae3","Baskin-Robbins","Food::Ice Cream Shop",37.651787,-122.090809
+"4bacc559f964a520e50a3be3","Mesa Energy Systems","Professional & Other Places::Office",37.66067,-122.09577
+"4baccf1df964a520060e3be3","World's Fare Donuts","Food::Donut Shop",37.6652491282173,-122.116458975742
+"4bae261df964a520388a3be3","Country Waffles","Food::Breakfast Spot",37.60880323746746,-122.06482688753917
+"4baead69f964a520d8cd3be3","Siam Palace","Food::Thai Restaurant",37.6744,-122.0815409
+"4bafe01af964a5201a283ce3","Carmen's Family BBQ","Food::BBQ Joint",37.665768,-122.11299955844879
+"4bb105b4f964a520a1733ce3","Goodwill","Shop & Service::Thrift / Vintage Store",37.66511645986372,-122.1169858766674
+"4bb189e8f964a520c5983ce3","821 lounge","Nightlife Spot::Bar",37.663026,-122.076869
+"4bb229ebf964a52026bf3ce3","Public Works Agency","Professional & Other Places::Building",37.647084,-122.098464
+"4bb3b2bca32876b02f1502fe","Phở Hoa Ty","Food::Vietnamese Restaurant",37.6785013,-122.0917555
+"4bb4131587aa95215ae6acd1","Matt Jimenez Community Center","College & University::College Rec Center",37.630787602912,-122.067862138682
+"4bb4dcaf2ba29c746f64ef2d","Gym","College & University::College Gym",37.658034,-122.057933
+"4bb61f1d941ad13a69e91ee3","McDonald's","Food::Fast Food Restaurant",37.66683579672807,-122.106075730455
+"4bb9553953649c74ccf747fb","Pops Deli","Food::Deli / Bodega",37.61238824400725,-122.05448864089195
+"4bba38f53db7b7139e0d239a","Life Chiropractic College West","College & University::University",37.6380265404545,-122.11756823785932
+"4bba6e68935e952157262890","Motorsport techniques","Shop & Service::Automotive Shop",37.6527962902204,-122.118943707072
+"4bba7b4c53649c74a71d49fb","Burger King","Food::Fast Food Restaurant",37.638012170791626,-122.10143728333334
+"4bbb45f47421a593af9bc440","AutoWest Toyota Scion of Hayward","Shop & Service::Car Dealership",37.6609073582139,-122.075197441016
+"4bbb9cf8e5b0d13af5466e7c","Hayward Flight - Pilot Training Bay Area","College & University::Trade School",37.664357,-122.12257
+"4bbcba9b8a4fb71369103c9d","L'Amour Shoppe","Shop & Service::Miscellaneous Shop",37.673379778862,-122.083736
+"4bbd05618a4fb713107e3c9d","Mission Hills Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.62631037130841,-122.04998789462229
+"4bbd0c6b8ec3d13a819a1b28","Tin Fu Restaurant","Food::Chinese Restaurant",37.64687208,-122.088696483333
+"4bbde6eb4e069c74c8439fe3","7-Eleven","Shop & Service::Convenience Store",37.63348911568878,-122.09735569689526
+"4bbdf1148ec3d13a50a41c28","Skywest Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.66282819860311,-122.13194131851196
+"4bbeab3d98f495210eadd163","Arthur Murray","Arts & Entertainment::General Entertainment",37.6758708,-122.08298585
+"4bc0056d4cdfc9b682699221","Phở Tien Hung","Food::Vietnamese Restaurant",37.66602591,-122.10841245
+"4bc099cb920eb7133a24192c","Mesa Verde Clubhouse","Arts & Entertainment::General Entertainment",37.6880860176568,-122.090754186598
+"4bc14514b492d13a32e9a560","La Victoria Taqueria","Food::Mexican Restaurant",37.644487705386155,-122.0624407987573
+"4bc21d06920eb713ceaa1b2c","Tennyson High School","Professional & Other Places::School::High School",37.64172818557574,-122.06750392913818
+"4bc23a3cb492d13ada36a760","Golden Mountain Resturant","Food::Chinese Restaurant",37.680824,-122.086707
+"4bc249c0b492d13a9f53a760","Great River Resturant","Food::Chinese Restaurant",37.680611,-122.085600716667
+"4bc27d5cf8219c743801b510","Celias Mexican Restaurant","Food::Mexican Restaurant",37.6446372270584,-122.104605183333
+"4bc2a62c920eb7131c8c1c2c","Quickly 快可立","Food::Café",37.6444659,-122.10456775
+"4bc348be74a9a593024bd4f6","Manheim San Francisco Auto Auction","Shop & Service::Automotive Shop",37.6155229703788,-122.068500251987
+"4bc35257dce4eee1168c719d","Fairfield Inn & Suites","Travel & Transport::Hotel",37.6333978009923,-122.112121651587
+"4bc3b255dce4eee110b7719d","Best Western","Travel & Transport::Hotel",37.6660006430905,-122.106547213518
+"4bc3cba3b492d13a7454a960","Lee's Sandwiches","Food::Vietnamese Restaurant",37.65368066255831,-122.09011065651067
+"4bc3dce6dce4eee15cc8719d","Budget Inn","Travel & Transport::Hotel::Motel",37.6833448,-122.089218
+"4bc3dce8dce4eee15ec8719d","Super 8 Motel Hayward Downtown","Travel & Transport::Hotel::Motel",37.6818008422852,-122.087303161621
+"4bc3dcf1dce4eee163c8719d","Comfort Inn","Travel & Transport::Hotel",37.659309,-122.073686833333
+"4bc4bb5b4cdfc9b662129921","Valero","Shop & Service::Gas Station / Garage",37.633386,-122.097909450531
+"4bc4d117f8219c747cefb710","T-Mobile Kiosk","Shop & Service::Mobile Phone Shop",37.65146400621497,-122.10136078682264
+"4bc62ae8b387d13aa06ac1e8","Provident Credit Union","Shop & Service::Bank",37.6789051294327,-122.08342
+"4bc67971db8fa5939c7e9c37","Pet Club","Shop & Service::Pet Store",37.63006402961682,-122.09723920314258
+"4bc73e060050b713b345b83b","76","Shop & Service::Gas Station / Garage",37.68412897008601,-122.09027708707197
+"4bc7c50815a7ef3bd4237ada","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.67464761423466,-122.08217162187539
+"4bc7d87214d79521e04268e9","Wells Fargo","Shop & Service::Bank",37.67639345441031,-122.08105090069728
+"4bc8cd746501c9b63cf34029","Marinello School Of Beauty","Shop & Service::Cosmetics Shop",37.672042900249,-122.082304776097
+"4bc90e8268f976b0d4b25c83","Futsal Republic","Outdoors & Recreation::Athletic & Sport::Soccer Field",37.66065001487732,-122.1157032251358
+"4bca229c511f95210021afc7","Heald College","College & University::Trade School",37.636794,-122.114442
+"4bca39fa3740b71362616065","Hayward Car Wash","Shop & Service::Car Wash",37.657747864723206,-122.086384
+"4bca5d66fb84c9b680191d3e","Pizza Hut","Food::Pizza Place",37.665645534826886,-122.11896589191551
+"4bca6b80fb84c9b6a23b1d3e","Sapporo Japanese Cuisine","Food::Sushi Restaurant",37.673661,-122.083692
+"4bca7aea0687ef3bda3ddccc","Hayward High School","Professional & Other Places::School::High School",37.67183779430591,-122.06955451792672
+"4bcaa160937ca593365aa892","Stein Room","Nightlife Spot::Bar",37.67240774613647,-122.08336445594888
+"4bcb52da937ca593ba51a992","Taco Bell","Food::Taco Place",37.65265442037204,-122.09004408421458
+"4bcb7e49b6c49c749c5a9291","Industrial Park","Outdoors & Recreation::Park",37.6219822861263,-122.05685270672257
+"4bcb8121937ca59384bfa992","Sister House","Food::Korean Restaurant",37.678265,-122.09195432
+"4bcb961b511f952128d4b1c7","Eden Shores Clubhouse","Professional & Other Places::Event Space",37.606587409973145,-122.0925235748291
+"4bccaa83cc8cd13a3f59c1cf","Ono Hawaiian BBQ","Food::BBQ Joint",37.6066161,-122.063912
+"4bccc36868f976b02d396383","CSUEB Old University Union","College & University::College Quad",37.654895161126944,-122.05568075180054
+"4bccebac68f976b04e906383","Science Building","College & University::College Academic Building::College Science Building",37.65688273483388,-122.05417231832517
+"4bce1e15937ca5930ff6ad92","Metro Taqueria","Food::Mexican Restaurant",37.666212,-122.105091
+"4bce506aef1095215efd8386","California State East Bay - Theatre","Arts & Entertainment::Performing Arts Venue::Theater",37.659500717993204,-122.05756302631751
+"4bd082eb046076b087197071","Meiklejohn Hall","College & University::College Academic Building::College Communications Building",37.65378216227959,-122.05530441589596
+"4bd08b2277b29c74e3f48a82","Arts & Education Building","College & University::College Academic Building::College Arts Building",37.658059134759725,-122.0552060008049
+"4bd0e5f19854d13a96bbf84d","Buddy's Bites & Brews","Food::American Restaurant",37.65066581666667,-122.10918243
+"4bd101c8046076b013417171","La Salsa","Food::Mexican Restaurant",37.671628,-122.085242
+"4bd10be69854d13a1412f94d","T-Mobile","Shop & Service::Electronics Store",37.6660519838333,-122.1189057827
+"4bd1b157046076b02c3d7271","Glassbrook Elementary","College & University::College Classroom",37.6415187598303,-122.081749965762
+"4bd1e0d9caff95214d8ad1f0","Gentle Dental Hayward","Professional & Other Places::Medical Center::Dentist's Office",37.651655,-122.109216
+"4bd1f7cba8b3a59377d3665f","Little Caesars","Food::Pizza Place",37.6329938846296,-122.06540398021
+"4bd26f89b221c9b649d0d7d0","A Street Cafe","Food::French Restaurant",37.6764643192291,-122.080083489418
+"4bd34cd377b29c74c37b9082","Le Paradis","Food::Vietnamese Restaurant",37.669721,-122.082031
+"4bd353b4a8b3a59365b4695f","Secret Sidewalk Tattoos","Shop & Service::Tattoo Parlor",37.64113,-122.059294
+"4bd35cea77b29c74d2a99082","Dairy Belle","Food::Ice Cream Shop",37.63142125961009,-122.09589674228177
+"4bd4fa8f29eb9c7475c392e1","Walgreens","Shop & Service::Drugstore / Pharmacy",37.65313958757314,-122.088943
+"4bd50af24e32d13a7564c080","Blaize Hookah Lounge","Nightlife Spot::Hookah Bar",37.6469612760087,-122.06445693969727
+"4bd5d875cfa7b713508826da","Kennedy Park","Outdoors & Recreation::Playground",37.668358723359646,-122.12087377144339
+"4bd657b26798ef3bd219658d","Bob's Hoagy Steaks","Food::Sandwich Place",37.6295149326324,-122.048202
+"4bd68cbb637ba5930e66f870","ampm","Shop & Service::Gas Station / Garage",37.636504547400726,-122.05528221801767
+"4bd7401e35aad13a497c8ef3","La Casita","Food::Mexican Restaurant",37.6689692718306,-122.09518667361
+"4bd772d935aad13a0cf48ef3","Costco Gas Station","Shop & Service::Gas Station / Garage",37.615234257559116,-122.08788871765137
+"4bd8c07b0115c9b6e6237580","Office Depot","Shop & Service::Paper / Office Supplies Store",37.65448769692882,-122.11054086997873
+"4bd8d1510115c9b66a777580","Toys"Я"Us","Shop & Service::Toy / Game Store",37.65271798227119,-122.11120091844282
+"4bd99b01e914a593d51357fa","Hayward Amtrak Station (HAY)","Travel & Transport::Train Station",37.665958,-122.09924578
+"4bd9ebcaffafd13a70f29a85","Caffino","Food::Coffee Shop",37.6329041166667,-122.09711097
+"4bd9f1a02a3a0f479401a9b6","CSU East Bay, Rec Department","College & University::College Academic Building::College Arts Building",37.660817,-122.0654
+"4bd9f7a93904a5937376449e","Food Maxx","Shop & Service::Food & Drink Shop::Grocery Store",37.63221253120524,-122.09649324417114
+"4bda0fb963c5c9b672822268","Curly's Place","Nightlife Spot::Cocktail Bar",37.6795760528241,-122.064743652766
+"4bdc8086c79cc928cdd886e9","Subway","Food::Sandwich Place",37.6753347075314,-122.07959172656
+"4bdc84642a3a0f47ff35b3b6","Misson Hand Car Wash","Shop & Service::Car Wash",37.661124,-122.067587
+"4bdc8ef6fed22d7f3fbc58c9","Jamba Juice","Food::Juice Bar",37.667317,-122.11945295333862
+"4bdde2b36198c9b6c41212ff","U - Save Rockery","Shop & Service::Miscellaneous Shop",37.609642,-122.065516
+"4bde0e1bffdec9289190e7a1","MaggieMoo's Ice Cream and Treatery","Food::Ice Cream Shop",37.6673397,-122.119579
+"4bde376d6198c9b6ac6e13ff","Waterford","Residence::Residential Building (Apartment / Condo)",37.63693991878542,-122.11232687417103
+"4bdeef446198c9b6d35d15ff","Robinson Hall","College & University::College Academic Building::College Arts Building",37.65914,-122.05799145
+"4be125fa0f03a59325a018b4","Berkeley Farms","Professional & Other Places::Building",37.630209009058,-122.119914289729
+"4be2eb041dd22d7f802395bd","76","Shop & Service::Gas Station / Garage",37.60694511859894,-122.0643163799279
+"4be2f775660ec928b0bbca3b","Shortcutz","Shop & Service::Salon / Barbershop",37.674557,-122.08253664
+"4be3009621d5a59304e91711","Kaiser Permanente Hayward Medical Center","Professional & Other Places::Medical Center::Hospital",37.63051848774177,-122.09545849732315
+"4be32235b02ec9b663a94ec0","Wayne & Gladys Valley Business and Technology Center (VBT)","College & University::University",37.657902000995996,-122.05531597137451
+"4be47cfb2468c928d0d8fe42","Comcast","Professional & Other Places::Office",37.64805721851043,-122.12054100418399
+"4be49249bcef2d7f15bf02e5","TPC Stonebrae","Outdoors & Recreation::Athletic & Sport::Golf Course",37.64648230904227,-122.00137242363276
+"4be526b0cf200f47b7ee123c","The Pizza House","Food::Pizza Place",37.6726075276526,-122.083225754987
+"4be591cc910020a1891dd314","St. Bede Catholic Church","Professional & Other Places::Spiritual Center::Church",37.63814459381686,-122.07908128838669
+"4be5b319cf200f474194133c","Arco","Shop & Service::Gas Station / Garage",37.667686128495816,-122.09675073623657
+"4be5f1b5910020a1e1bed314","jcpenney","Shop & Service::Department Store",37.65113716450921,-122.10094475252204
+"4be65bba910020a1704cd414","Karaoke Box","Nightlife Spot::Karaoke Bar",37.67798273288887,-122.0915530462154
+"4be728c3d4f7c9b6418b2720","Eden Shore Community Park","Outdoors & Recreation::Park",37.61060362538944,-122.09678986892234
+"4be744792457a593c5c6ad15","Oil Changers","Shop & Service::Automotive Shop",37.653013,-122.109642
+"4be9dbd5a9900f47c6d91540","Hayward Body Shop","Shop & Service::Automotive Shop",37.658405,-122.072855
+"4beac34fb3352d7f6e8a55d2","Moreau Catholic High School","Professional & Other Places::School::High School",37.6441777246632,-122.06003800988917
+"4bec3daf415e20a1a94ae7bb","7-Eleven","Shop & Service::Convenience Store",37.66135927253227,-122.08281519909855
+"4bec9f7e0ddaa593ced61dc3","The Book Shop","Shop & Service::Bookstore",37.6729561333333,-122.08249195
+"4becb7612cf820a1062eb91c","Asian Buffet","Food::Asian Restaurant",37.6665455102921,-122.078640460968
+"4bed873b6e8c20a1077f7061","Hayward Yard (OHY)","Professional & Other Places::Office::Coworking Space",37.612173108710564,-122.0401333704209
+"4bed9b486e8c20a130a07061","Fohl and McClellan Real Estate","Professional & Other Places::Office",37.675498723983765,-122.08490073680878
+"4bedbf85946c0f4709dea263","Wienerschnitzel","Food::Hot Dog Joint",37.674156,-122.083709
+"4bee0217e24d20a11f687214","Panda Express","Food::American Restaurant",37.65245059,-122.104441
+"4beed0f83686c9b646ff246e","7-Eleven","Shop & Service::Convenience Store",37.6639334451655,-122.076406996962
+"4bf0170ac8d920a102669430","Caffe Caribe","Food::Café",37.6550015833333,-122.04862365
+"4bf3370f94af2d7f77493972","Dollar Tree","Shop & Service::Miscellaneous Shop",37.61967557,-122.037306
+"4bf5a70494b2a5936905acee","Impax Labs","Professional & Other Places::Building",37.62084664773549,-122.04069723269673
+"4bf5d61f5efe2d7f0b2c6634","Green Tea House","Food::Chinese Restaurant",37.629706,-122.048038
+"4bf5ebf59abec9b6ae0925e8","Jo-Ann Fabric & Craft","Shop & Service::Arts & Crafts Store",37.652418,-122.109427
+"4bf6d68e508c0f4712f73c31","Pot Pie Paradise & Deli","Food::American Restaurant",37.6211872919418,-122.112007141113
+"4bf951cd508c0f47f83a3f31","St. Joachims Catholic Church","Professional & Other Places::Spiritual Center::Church",37.663507716740654,-122.11574349563645
+"4bfd6e82b68d0f476ec7e857","Arteaga's Food Center","Shop & Service::Food & Drink Shop::Grocery Store",37.658375587323484,-122.08643802373706
+"4bff02264e5d0f4799877d1f","Southgate Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.63699712842509,-122.09377206980106
+"4c00716aad15a59367f78d73","Karavan Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.6303432416133,-122.097373008728
+"4c00be33379020a1c006477f","McDonald's","Food::Fast Food Restaurant",37.667278,-122.08112578
+"4c018bb51747a5938cb05dca","Japanese Gardens","Outdoors & Recreation::Garden",37.679344953088794,-122.07853755812522
+"4c018fa8b58376b00360443c","Short Cutz","Shop & Service::Salon / Barbershop",37.67453,-122.08258646666667
+"4c02d19e310fc9b6ff09c561","Hayward Interpretive Center","Outdoors & Recreation::Other Great Outdoors",37.623731921832395,-122.13436662002252
+"4c03f67f3f03b71313105241","Lab17","Shop & Service::Design Studio",37.61205783615482,-122.05561101436615
+"4c05689391d776b07f60f7f9","The Home Depot","Shop & Service::Hardware Store",37.663108472431524,-122.11840152740479
+"4c08141c7e3fc92840c0ef82","Mi Cocina","Food::Mexican Restaurant",37.662801343975,-122.083802
+"4c0a89c2009a0f47ba8ce9bf","Oil Changers","Shop & Service::Automotive Shop",37.65150717,-122.06679324
+"4c0b2198a1b32d7f5aa99af0","Taco Bell","Food::Mexican Restaurant",37.63181392,-122.09609
+"4c0c34db009a0f47e555ecbf","Cold Stone Creamery","Food::Ice Cream Shop",37.67267207,-122.08500322
+"4c0e790d2466a593831a7921","CSUEB Recreation and Wellness Center","College & University::College Gym",37.65433455039579,-122.05359935760498
+"4c0e9916d64c0f476075285d","Mt. Eden High School","Professional & Other Places::School::High School",37.624515886832505,-122.09112033132023
+"4c0eeed31281c9b658e41d1d","L&L Hawaiian Barbecue","Food::BBQ Joint",37.631736716497336,-122.09587097167969
+"4c0fa444d64c0f47d50e2a5d","Kono BBQ & Grill","Food::Diner",37.61223167779197,-122.02753132907034
+"4c11a675a9420f476f3b7d51","Hayward Police Department","Professional & Other Places::Government Building::Police Station",37.6578864266592,-122.097022857269
+"4c1288b78aedd13add4f5137","Jack in the Box","Food::Fast Food Restaurant",37.65268344076669,-122.11962588893573
+"4c12970e7f7f2d7fc496dd68","Best Burger","Food::Burger Joint",37.66818574,-122.09609
+"4c140b231b5cef3b770deec4","PhotoCentral Gallery","Arts & Entertainment::Art Gallery",37.6710125653179,-122.076934092811
+"4c141119a1010f47f3d74b18","Subway","Food::Sandwich Place",37.6727313786191,-122.085174322128
+"4c1536d8a5eb76b058f8c2b7","Quiznos","Food::Sandwich Place",37.617898,-122.069739
+"4c17ce494ff90f479a780d49","Superior Court of California County of Almeda - Hayward Hall of Justice","Professional & Other Places::Government Building::Courthouse",37.65748835240193,-122.09415484677254
+"4c17db4dd4d9c928c192ee29","Hot Dog on a Stick","Food::Hot Dog Joint",37.651296345924806,-122.10127203297272
+"4c1982264ff90f4762261049","El Pollo Loco","Food::Fast Food Restaurant",37.666100906438366,-122.07925883237158
+"4c1ac05e63750f4712dbb367","Hayward Street Fair","Nightlife Spot::Other Nightlife",37.671963572502136,-122.0843106508255
+"4c1cc9d2b4e62d7f368bdb93","Hayward Plunge","Professional & Other Places::Building",37.665815906444,-122.077549959455
+"4c1d2046b306c928ed0565b7","Frannie's Restaurant","Food::Chinese Restaurant",37.64945,-122.07503020763397
+"4c1e4c9db4e62d7fc7ffdd93","Westminster Hills Presbyterian Church","Professional & Other Places::Spiritual Center::Church",37.634063959121704,-122.07968652248383
+"4c1fbcb2eac020a1248d4bc2","Main Street Diner","Food::Diner",37.673065,-122.082160666667
+"4c214c4c13c00f478ac785de","Cecil's Burgers","Food::American Restaurant",37.6325943137521,-122.067573666573
+"4c24fabe136d20a1e4c2e261","GameStop","Shop & Service::Electronics Store",37.6657560333333,-122.118755
+"4c27c33ced0ac9b67c3e5faa","Quiznos","Food::Sandwich Place",37.6065923741482,-122.064306735992
+"4c28c734e19720a1956af858","Cafe De Lagniappe","Food::Café",37.658484,-122.094087
+"4c2a0425e19720a19e58fa58","Superior Court of California County of Almeda - Hayward Hall of Justice","Professional & Other Places::Government Building::Courthouse",37.65748835240193,-122.09415484677254
+"4c2a38ab8ef52d7f588a2fba","Aaron's Body Shop","Shop & Service::Automotive Shop",37.6215718,-122.10083188333333
+"4c2e2417e116e21e0ac68f60","Ariat","Professional & Other Places::Office::Coworking Space",37.616982,-122.052788
+"4c2e804eed37a5931dbe6503","Snappy's Cafe","Food::Café",37.673742,-122.084319
+"4c2ec4c6213c2d7ff8df2f5d","76","Shop & Service::Gas Station / Garage",37.631625381795075,-122.08925076120495
+"4c303452a0ced13a9bea116e","Hookah Palace","Arts & Entertainment::General Entertainment",37.6575011014938,-122.071549
+"4c356467a0ced13a91d3196e","Chevron Station","Shop & Service::Gas Station / Garage",37.650384673013555,-122.10826277732849
+"4c37a7f60a71c9b6c7453fc9","AAA","Shop & Service::Automotive Shop",37.643982,-122.103624816667
+"4c39e0e293db0f4785122492","Pioneer Stadium","College & University::College Stadium",37.65729045020922,-122.06072330474854
+"4c3d22b3b169c9b650bf4668","True Fight Club","College & University::College Gym",37.660486,-122.115791
+"4c40cdc3cc410f476e35aa61","Greenbelt Trail","Outdoors & Recreation::Park",37.665118557891674,-122.04876139509777
+"4c4113a2da3dc9289d72c8b9","NATIONS","Food::Breakfast Spot",37.648803,-122.090415358543
+"4c44f507f0bdd13aec5ecacc","Hawaiian Drive In","Food::BBQ Joint",37.65079622975946,-122.10961457668473
+"4c44fa39f0bdd13aff67cacc","Straw Hat Pizza","Food::Pizza Place",37.617977,-122.067977483333
+"4c45df2c56a7ef3b52bace21","Walker Zanger","Shop & Service::Furniture / Home Store",37.617220861207215,-122.05696924384942
+"4c4649c037f6d13ad5c46296","Taco Bell","Food::Taco Place",37.61965454,-122.036123
+"4c48e9fc1b430f47a120d0c2","Turf Club","Nightlife Spot::Gay Bar",37.67363920688155,-122.08366423845291
+"4c48f26520ab1b8df03a1a16","Ballet Petit","College & University::College Theater",37.626792,-122.042755
+"4c4a2e1346240f47aa0173f1","Church's Chicken","Food::American Restaurant",37.639095306396484,-122.08090209960938
+"4c524642048b1b8dedda4a30","Tastegood Thursday","Nightlife Spot::Speakeasy",37.675673,-122.078306
+"4c533cfb30f92d7f735971b8","Raja Restaurant","Food::Indian Restaurant",37.653472,-122.115151
+"4c5346e84623be9a8a47d4f0","Castillo Dentistry","Professional & Other Places::Medical Center::Dentist's Office",37.618518,-122.088185
+"4c5365e01b46c9b61be8dccc","ME Restaurant & Lounge","Food::American Restaurant",37.67255902290344,-122.08377420902252
+"4c546a14fd2ea5939fba102a","Enterprise","Travel & Transport::Rental Car Location",37.65258193016052,-122.06767
+"4c552370f5f3d13a162142fb","Jack in the Box","Food::Fast Food Restaurant",37.66511161774666,-122.07823240219261
+"4c55b745a724e21e1cc58cf8","St. Clement Catholic Church","Professional & Other Places::Spiritual Center::Church",37.642339864523706,-122.05937147140503
+"4c57616cd12a20a1c8b266bd","Prince Beef","Food::Chinese Restaurant",37.6723337173462,-122.086904
+"4c57648ed12a20a142bc66bd","Food Source","Shop & Service::Food & Drink Shop::Grocery Store",37.64481690417401,-122.06367269299834
+"4c593682b8b3c9b6e69988b6","City of Hayward","Outdoors & Recreation::Other Great Outdoors",37.66493447298267,-122.08608627319336
+"4c5d8ebbd25320a1ef41c67a","Mt. Eden Park","Outdoors & Recreation::Park",37.63085305252868,-122.09906816482544
+"4c600a2023e303bb81d07407","Walgreens","Shop & Service::Drugstore / Pharmacy",37.65313958757314,-122.088943
+"4c621985fa7bc928b08b0d27","Sunset Gym","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.672814,-122.096986
+"4c66fb0c19f3c9b6058fa1ff","Charley's Grilled Subs","Food::Sandwich Place",37.651313,-122.101411
+"4c6787909cedd13a1ffa78a1","Club17","Nightlife Spot::Nightclub",37.61207158333333,-122.054762
+"4c686376832bc928931eb4a8","Fiesta Mexicana","Food::Mexican Restaurant",37.6583450348191,-122.096296153864
+"4c6954672c29d13a56e00a41","Stonybrook Park","Outdoors & Recreation::Other Great Outdoors",37.63012647628784,-122.04409073333333
+"4c6ae10d96eaa593812321df","Bluebird II","Nightlife Spot::Bar",37.6632163666667,-122.08512495
+"4c6b324f7c052d7fa03729cf","César Chávez Middle School","Professional & Other Places::School::Middle School",37.635803,-122.062445
+"4c6b432423971b8d4b309a8a","Mi Pueblo Food Center","Shop & Service::Food & Drink Shop::Grocery Store",37.64860182053231,-122.07533615224447
+"4c6bfe48f2846dcb969b61e9","Hayward Unified School District Office","College & University::College Administrative Building",37.656809,-122.092922
+"4c6c228e23c1a1cd9db618cf","Honda of Hayward","Shop & Service::Automotive Shop",37.6599765932151,-122.074326330446
+"4c6c72896af58cfa5ae68617","Bldg 1700 - Mathematics/Physics","College & University::College Academic Building",37.6408095957502,-122.106398642063
+"4c6d5c3ea437224b88c82cb1","Alameda County Office of Education","Professional & Other Places::Office",37.65873315,-122.098431
+"4c6d9e1a920bef3bdef14852","Shell","Shop & Service::Gas Station / Garage",37.670703,-122.08018
+"4c6dd27765eda093adeb4fd0","United Capoeira Association-Hayward","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.66069293022156,-122.11577296257019
+"4c700231d7fab1f7e1035dc9","Hayward Zucchini Festival","Arts & Entertainment::General Entertainment",37.668345,-122.120662
+"4c714ba2d97fa143e75ff8ca","Fairway Greens Park","Outdoors & Recreation::Park",37.62530013333333,-122.03961683333333
+"4c71f048376da0930b56a5c6","Art's Crab Shak","Food::Seafood Restaurant",37.6725720666667,-122.0806607
+"4c75c2f266be6dcbc684c10f","Claudia's Body & Skin Care Center","Shop & Service::Cosmetics Shop",37.652938,-122.105499
+"4c781ba0a868370413250c4d","Social Security Office Etc.","Professional & Other Places::Office",37.653532,-122.10515828333332
+"4c78711b794e224b31626228","Something Sweet","Food::Cupcake Shop",37.673444,-122.081824933333
+"4c798b0481bca0937fd8fd14","KFC","Food::Fried Chicken Joint",37.631650539141134,-122.07905909536815
+"4c7aaa0d2d3ba1439ffd91d0","Anna's Family Coffee Shop‎","Food::Breakfast Spot",37.662791,-122.084672533393
+"4c7e82edad149eb0a24d2a48","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",37.66600568,-122.118883
+"4c7f48c9e4b06dcb15be46d7","Nuevo Mercado Mexico","Food::Mexican Restaurant",37.6391253285714,-122.05491974
+"4c859c43d34ca143554a4980","Taj Mahal","Nightlife Spot::Speakeasy",37.662123,-122.064935
+"4c869cdcd4e23704dacc8c88","Bldg 500 - Social Sciences","College & University::College Academic Building",37.64151817123479,-122.10466681588089
+"4c86d22f47cc224b7d8cac9f","Dream Courts","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.67102751806463,-122.10633643310865
+"4c87f3bbb446224bd4a57e6f","San Francisco Bay Trail (Hayward)","Outdoors & Recreation::Hiking Trail",37.62056285133098,-122.14440336204046
+"4c8c0a22f87e224b4c493105","Sizewise 76","Shop & Service::Gas Station / Garage",37.63034024739304,-122.11989210508013
+"4c8ea5161664b1f78f11a22f","Winton Middle School","College & University::College Academic Building",37.6604879649383,-122.089755603792
+"4c93928482b56dcb00e8c6aa","Optometry Center","Professional & Other Places::Building",37.6786795231377,-122.072617379842
+"4c93e7faf7cfa1cd80c2ae15","Spirit Halloween Store","Shop & Service::Miscellaneous Shop",37.605816,-122.06445918333333
+"4c9bb2ffd4b1b1f71142db35","Books On The Run","Shop & Service::Bookstore",37.655673,-122.04867356666666
+"4c9e57ee2fb1a14336a1e940","Smiling Jack's","Food::Pizza Place",37.6103454,-122.02547342
+"4c9e59407c096dcb3c58d4d1","Allstate Insurance Claims","Professional & Other Places::Office",37.682912,-122.089651
+"4ca0d2e646978cfa91ffb67f","Sunrise Donuts","Food::Donut Shop",37.66996,-122.0917595
+"4ca381cbd5a2a1439e064a90","76 Gas & Propane","Shop & Service::Gas Station / Garage",37.63619292493121,-122.0542000659556
+"4ca50666a6e08cfaf26c6d94","Noble Veternary Clinic","Professional & Other Places::Building",37.657231,-122.087771
+"4cab6781a6e08cfade71a594","Hot Box Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.67602965340378,-122.08314253432415
+"4caf734775ebb60ca95bbcad","Phở Tỷ II","Food::Vietnamese Restaurant",37.62945956107554,-122.09715843200684
+"4cb09837aef16dcb422bb254","Performing Arts Center","College & University::College Theater",37.63975718581605,-122.1051836013794
+"4cb20ffdeb65b1f76eab79cd","Hutch's Touch-Less Car Wash","Shop & Service::Automotive Shop",37.67798521666667,-122.07724571228027
+"4cb36f651168a09301374223","Alta Vista Veterinary Clinic","Shop & Service::Pet Store",37.64135392,-122.05957021
+"4cb48cd9562d224b8b353588","Amador Village Apartments","Professional & Other Places::Building",37.6601580349647,-122.094332366068
+"4cb7940df50e224beb38e0fb","Homestyle Pizza","Food::Pizza Place",37.651321,-122.10142986
+"4cbcfc45a33bb1f7e6f29cfd","Church's Chicken","Food::Fried Chicken Joint",37.63288662519675,-122.06593667841628
+"4cbd0b6fd78f46883cb0cb73","Chabot College Swimming Pool","College & University::College Gym",37.6432122,-122.107349
+"4cbd1cc990c9a143466f9fd6","Impax Pharmaceuticals","Professional & Other Places::Office::Coworking Space",37.60884303601994,-122.04841175695384
+"4cbf916997bc721ed67b8667","Subway","Food::American Restaurant",37.63234847770509,-122.09642887115479
+"4cc1cdc301fb236a08e69aba","Hill's Coffee Shop","Food::Diner",37.68437147140503,-122.09073722362518
+"4cc1e858d43ba14319c554f8","Dream Girl's Hair Salon","Shop & Service::Salon / Barbershop",37.67111772,-122.08255916666667
+"4cc1fd88b2beb1f7eff60c4c","Fry's Metals","Professional & Other Places::Building",37.65315,-122.126647
+"4cc474fabe40a35da1b07e4c","Calderon Tires & Wheels","Shop & Service::Automotive Shop",37.605846,-122.059932
+"4cc7338942d1b60c9cb02d13","CSUEB Library","College & University::College Library",37.6557380638346,-122.056186777887
+"4cc7892e3c40a35dd6b66f2e","Eden Greenway","Outdoors & Recreation::Playground",37.64272043,-122.08919146666666
+"4cccf3bc72106dcbb2df9f99","R&H Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.676187,-122.080155
+"4cced55dee23a143ef602ea8","All Saints Catholic School","Professional & Other Places::School",37.6727645334244,-122.0765376091
+"4ccf29755b5ca35d5e6374f0","Bldg 800","College & University::College Academic Building",37.6408467643451,-122.104829549789
+"4cd1c618f6378cfa2089bdd6","Bldg 2200 - Health Sciences/Dental Health","College & University::College Academic Building::College Science Building",37.6416177430067,-122.106369137764
+"4cdc214ec409b60c43b6d81a","US Post Office","Professional & Other Places::Post Office",37.670635,-122.08358
+"4cdefb74df986ea82f51df16","Kokyo Sushi Buffet","Food::Sushi Restaurant",37.67381,-122.081268
+"4ce4c7cbc850721e5c43c58a","Valero","Shop & Service::Gas Station / Garage",37.66637587616201,-122.11040775047258
+"4ce576b4023676eb05d3eab9","Toys"Я"Us","Shop & Service::Toy / Game Store",37.65271798227119,-122.11120091844282
+"4cefc75bd7268cfa334cd14e","Coco's Bakery & Restaurant","Food::American Restaurant",37.6664686433303,-122.118921522223
+"4cf436286c29236a5e0275a2","Bldg 700","College & University::College Administrative Building",37.641380310058594,-122.10426330566406
+"4cf467347e0da1cde420a297","KJ's Barber & Hair Creations","Shop & Service::Salon / Barbershop",37.677522,-122.090623
+"4cf9666bee9cb60cbfe283ad","AERC Recycling Solutions","Professional & Other Places::Office::Coworking Space",37.618349,-122.057158
+"4cf980bbdccef04d9b80af9c","Western Pacific Distributors","Professional & Other Places::Office::Coworking Space",37.6569244438741,-122.128787783951
+"4d0be5f48eb0b1f71fdf515e","Caspers Famous Hot Dogs","Food::American Restaurant",37.682518005371094,-122.08807373046875
+"4d0eb5c88010a1cddcdce07e","Lids","Shop & Service::Clothing Store::Accessories Store",37.6513478018018,-122.101421805052
+"4d127d9c1f95236a774b3e06","Tilt","Arts & Entertainment::Arcade",37.6513447421989,-122.101538294304
+"4d1557da816af04d40d842c2","Golden Peacock","Professional & Other Places::Event Space",37.64786085,-122.091442
+"4d2e4d6d73e5a093a0b750cf","Bayshore International","Shop & Service::Automotive Shop",37.6429152489,-122.120584845543
+"4d322a27c75a6ea86d860bae","Pupuseria Las Cabanas","Food::Mexican Restaurant",37.6271170377731,-122.0433106
+"4d36aa204754f04d4a319c7e","IMPRM Clothing","Professional & Other Places::Office",37.63442,-122.111653
+"4d38ef629ae66dcb01771be7","Kaiser Permanente","Professional & Other Places::Medical Center::Emergency Room",37.6303891488796,-122.095258790172
+"4d41f02eaed776eb04446997","Domino's Pizza","Food::Pizza Place",37.6510836540973,-122.120052943683
+"4d41f031aed776ebe1456997","Domino's Pizza","Food::Pizza Place",37.629662,-122.04813512
+"4d46fe57befe236aa2580ee3","Mattress discounters","Shop & Service::Furniture / Home Store",37.653773059133385,-122.11005831098926
+"4d5edc905c39b1f787c5f049","Bank Of American","Shop & Service::Bank",37.6737928390503,-122.08167655
+"4d63d35ffbc441bd49c72541","Vitamin World","Shop & Service::Drugstore / Pharmacy",37.6516784677182,-122.1020264383774
+"4d65cbef84f28cfa2efd6369","The Mexican Restaurant & Bar","Food::Mexican Restaurant",37.66746483,-122.11876
+"4d69683067a8f04d96470dbe","Jerong Marble","Shop & Service::Hardware Store",37.647547,-122.140380616667
+"4d6eaac624b56ea80e5f03fc","Martin Luther King Jr. Middle School","Professional & Other Places::School",37.636362981420675,-122.09331162614453
+"4d72e3005f0037042033e8a0","Wing Fiesta","Food::Wings Joint",37.67149131666667,-122.08549288333333
+"4d74364b9d2fa1438b79eed6","City View Gym","Shop & Service::Gym / Fitness Center",37.66107214057314,-122.06503774867838
+"4d7834724b30a143a5538fcb","Sorensen Bros. Chapel","Professional & Other Places::Building",37.6742991074009,-122.080546017571
+"4d7a652a54f18cfac9a8b356","Stone Etc.","Professional & Other Places::Office",37.6450704,-122.121361
+"4d8170e159d16dcb3a93f91b","Digger's Diner","Food::Diner",37.658813712430565,-122.09590783706781
+"4d862de57e8ef04d0b632fbe","Donut Land","Food::Donut Shop",37.6299326575975,-122.047901172249
+"4d8da18bcb9b224b34377141","Luegers House","College & University::College Residence Hall",37.671171,-122.073746
+"4d90ba461d06b1f76ad97a3b","Kaiser Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",37.6307979200306,-122.095647109295
+"4d93a34a484d6ea8b9a47f30","Jupiter Systems","Professional & Other Places::Office",37.610442,-122.055126
+"4d94b2dfcf46224b20f79a94","Bldg 1000","College & University::College Academic Building::College Arts Building",37.6397656816169,-122.105044126511
+"4d95e474e07ea35d4cb9b102","Gary G. Fong DDS","Professional & Other Places::Medical Center::Dentist's Office",37.6752699130983,-122.080024487477
+"4d98c5939079b1f720aa330a","76","Shop & Service::Gas Station / Garage",37.66663946880957,-122.10664150988435
+"4d9fba7cc41ca143a8d937a3","Fu Zhou Kitchen","Food::Asian Restaurant",37.6178956031799,-122.069476633333
+"4da4beffb1c937045c2117a2","Family House of Fish & Poultry","Food::Southern / Soul Food Restaurant",37.658092334808046,-122.07204032550857
+"4da70d195da37feee895901e","Bay Hills Community Church","Professional & Other Places::Spiritual Center::Church",37.648327,-122.08088032662775
+"4dacf3786a23fc68ff3ef373","Starbucks","Food::Coffee Shop",37.65582950293978,-122.05630302429199
+"4db3346c1e7248d13587a12b","Ecothrift","Shop & Service::Thrift / Vintage Store",37.65253,-122.0688488
+"4db73c398154d78113bcb5e9","The Mexican Restaurant & Grill","Food::Mexican Restaurant",37.66377,-122.11885
+"4db891c98154ce84dc15efb0","Fresh & Easy Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",37.61956483997423,-122.03709508414036
+"4dbae12a4df044e524bbae05","Third Ear Sound Company","Professional & Other Places::Office",37.61273,-122.051656
+"4dbfe8e5a86e2f4250b46cea","The Sweet Art Of Cake","Food::Bakery",37.6148413459897,-122.064693711872
+"4dc1a42c45dd472e9b7c97c1","The Cutz Barbershop","Shop & Service::Salon / Barbershop",37.64518976211548,-122.10450768470764
+"4dc4a958d4c0ad9c0f751ad1","Big Jorges Hollow Leg","Nightlife Spot::Bar",37.6469546556473,-122.1062304
+"4dc59a0ee4cd169dc65158c9","Bi Bett Education Program","Professional & Other Places::School",37.6584720611572,-122.114528417587
+"4dcb270ffa76d745f04efb50","Fitness 19","Shop & Service::Gym / Fitness Center::Gym",37.644626714684385,-122.06341743678045
+"4dd002527d8b975f18f52234","New Bridges Presbyterian Church","Professional & Other Places::Spiritual Center::Church",37.63722035177528,-122.10205417377
+"4dd1f6ddd4c0febf0fdb9834","Perry's Liquor","Shop & Service::Food & Drink Shop::Liquor Store",37.6322438667542,-122.096945194543
+"4dd2b3f3b0fb0becaf9ebcb1","DMV","Professional & Other Places::Government Building::City Hall",37.66733169555664,-122.08195495605469
+"4dd41d19183859a5899ad99e","Alameda County Public Works","Professional & Other Places::Government Building",37.656198,-122.09459
+"4de082fcd22d2a795571231b","The Rave Cave","Nightlife Spot::Strip Club",37.6738828,-122.0755462
+"4de29e5a8877bcb686491a59","Lechon Manila","Food::Asian Restaurant",37.6153911246675,-122.088135661002
+"4de3152b52b1d38d297ea724","Grand Gasoline","Shop & Service::Gas Station / Garage",37.649638792572944,-122.07747783110995
+"4de55a7fe4cde71744a6d087","Seattle's Best Coffee @ Southland Mall","Food::Coffee Shop",37.650494,-122.103536
+"4df3b07862e1288ed304e42c","Smalley Street Adopt-A-Block","Professional & Other Places::Spiritual Center::Church",37.670641828382976,-122.09398842216854
+"4df652bbd22d8c5470e6f407","Skywest Commons Plaza","Shop & Service::Mall",37.66735,-122.119447
+"4df8ff66483bc58a610b9a57","Orange Julius DQ","Food::Juice Bar",37.650870680809,-122.102214066667
+"4e0027f4ae6001fafcac6ada","Pepsi Bottling Group","Professional & Other Places::Building",37.6127027204582,-122.084956730284
+"4e023b4362843b639cfe1408","Kaiser Permanente Hayward Farmers' Market","Shop & Service::Food & Drink Shop::Farmers Market",37.63052933073197,-122.09533645410758
+"4e1227b6483bee47ff3850f9","Mk Motor","Shop & Service::Automotive Shop",37.641866,-122.059549
+"4e1a00e8d1648b8348416f08","Temple De La Cruz","Professional & Other Places::Spiritual Center::Church",37.6644418,-122.08111345
+"4e2693f7a809510950d86cad","Sunhill Apartmemts","Residence::Residential Building (Apartment / Condo)",37.660619,-122.053801
+"4e273823a809510950df237d","Jackson Winton Coin Laundry","Shop & Service::Laundry Service",37.6634019613266,-122.08416044712067
+"4e288c0fb0fba988bb6d2b50","East Avenue Elementary School","Professional & Other Places::School",37.6616375714203,-122.057002540148
+"4e2ccda262e144b5d3bb4d4d","Alden Oliver Snack Bar","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.61047492539622,-122.08755314140754
+"4e2dde9562e1fbac60fbbaa3","Verizon Wireless Service","Professional & Other Places::Office",37.65153,-122.104620388435
+"4e2f11e7aeb7e1b8afa18f06","Pick A Deli","Food::Deli / Bodega",37.63978947818074,-122.13464943603867
+"4e31e16662e1d3ed651361ba","New York  Pizza","Food::Pizza Place",37.63245186666694,-122.0685058007817
+"4e346f58d4c0634348235763","Banana Yams Waffle House","Residence::Residential Building (Apartment / Condo)",37.633482,-122.046211
+"4e43daa8a809d4ed1bb47a56","Fresh & Easy","Shop & Service::Food & Drink Shop::Grocery Store",37.66581058502088,-122.1198445558548
+"4e498c94483b16676e340d45","Cosmo Prof","Shop & Service::Cosmetics Shop",37.6179110794633,-122.067579148103
+"4e4d7259bd413c4cc6712210","Hayward Japan Grill","Food::Japanese Restaurant",37.671346,-122.082751
+"4e518f471495fc2ca41cef34","Gymnasium","College & University::College Gym",37.6432246130629,-122.106913304833
+"4e57f65f1f6e2a1922de7679","Costco Food Court","Shop & Service::Food & Drink Shop::Food Court",37.61598968443456,-122.08948376576826
+"4e592fcfd164da2b275f4e97","Growers Choice Hydroponics","Shop & Service::Flower Shop",37.666463,-122.080475
+"4e5a85461f6e804280d41bdf","Bay Area Dream Center","Professional & Other Places::Spiritual Center::Church",37.668893149306236,-122.11426814961423
+"4e6c0881aeb750adf623e479","Pioneer Gym","Arts & Entertainment::Stadium::Basketball Stadium",37.657085,-122.05833
+"4e6ea749149506c77aafa050","Home Depot Nursery","Shop & Service::Flower Shop",37.663389,-122.117601
+"4e7a593efa768764321ded2b","Subway","Food::Sandwich Place",37.6544961077691,-122.055371009504
+"4e7f93ef61afedef5c45b614","Kaiser Hayward Emergency Department","Professional & Other Places::Medical Center::Emergency Room",37.6308465522565,-122.094448862948
+"4e84daaf4fc6b725b192899a","Zach Rice's Super Professional Recording Studio 6000 for Professionals","Arts & Entertainment::Music Venue",37.67731611941512,-122.06829786300659
+"4e94eb0fb803b9521a69bd42","Five Guys","Food::Burger Joint",37.667301,-122.119636
+"4e95fd0af9f4f88647cdf808","s.h.a.p.e.s Brow Bar","Shop & Service::Salon / Barbershop",37.651242621230445,-122.10147142410278
+"4e963ad4dab4ae961782382a","St. Joachims Gym","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.663065,-122.115466
+"4ea0a05cf9f48d8d686bd945","The Cupcake Shoppe","Food::Bakery",37.6476578608913,-122.090742588043
+"4eb178ca775b7cb808eaac2a","Hayward Unified School District M & O","Professional & Other Places::Building",37.657397,-122.092662
+"4ebef5d0e3005ff9295c7bd8","Taylor Made Cutz","Shop & Service::Salon / Barbershop",37.673777071610544,-122.08565577016637
+"4ebf7817e5fae1646459f58c","Crestview Terrace Apts","Residence::Residential Building (Apartment / Condo)",37.63936752023698,-122.05525447066347
+"4ec154b9b8f7963bce6250aa","Auto Driveaway","Professional & Other Places::Office",37.618933,-122.08577
+"4ec4766db8f7a2448500c1be","Best Buy","Shop & Service::Electronics Store",37.6514747571055,-122.101368160419
+"4ec5804f6c254debeb5a6e45","The Hill and Valley Club","Arts & Entertainment::Historic Site",37.6815475957448,-122.068072993928
+"4ec5c83499115348d71990a7","Pepsi Fields","Outdoors & Recreation::Athletic & Sport::Soccer Field",37.61111190205936,-122.08606076740065
+"4ed7e5da722ec4ce1f903818","Chabot College Art Gallery","Arts & Entertainment::Art Gallery",37.6403167418913,-122.104716738364
+"4eefcd6c77c8053fbc38f95d","Toys"Я"Us","Shop & Service::Toy / Game Store",37.65271798227119,-122.11120091844282
+"4f05bd5e6da1a1d64a4c0deb","Hayward BART Garage","Professional & Other Places::Parking",37.6696901977089,-122.087320132693
+"4f0f8c0ce4b0297e54593952","Avocado Freddy's","Food::Café",37.6702245109674,-122.079935716148
+"4f0f8e34e4b0d3f8a38bbb2f","Pioneer Heights Dining Commons","College & University::College Cafeteria",37.652971270074,-122.053656211109
+"4f11e5b9e4b0044a23bbc8a8","Fairway Park Shopping Center","Shop & Service::Mall",37.6192671438938,-122.03609600796503
+"4f36f1e3e4b0f4cfde1aeee2","City of Hayward","Outdoors & Recreation::Other Great Outdoors",37.66493447298267,-122.08608627319336
+"4f3be0e4e4b022039c531e39","Chabot College Parking Lot H","Professional & Other Places::Parking",37.6398508118879,-122.103463122362
+"4f4f9f40e4b07dc4f06eb233","Kaiser Medical Offices","Professional & Other Places::Medical Center::Doctor's Office",37.63229978697944,-122.0946152868445
+"4f96b3ece4b0dff9a11bf182","AC TRANSIT TRANSBAY LINE S","Travel & Transport::Bus Station::Bus Line",37.63963825492438,-122.10215402112453
+"504e9b0be4b0503cd9b9ca36","Off the Grid: Hayward","Food::Food Truck",37.66993482043634,-122.08141707819775
+"510db154e4b0a7d1403f70af","San Mateo Bridge","Travel & Transport::General Travel",37.61242894267299,-122.17013972764069

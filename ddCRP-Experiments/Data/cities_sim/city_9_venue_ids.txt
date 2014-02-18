@@ -1,0 +1,1114 @@
+"40a40c00f964a52014f31ee3","Antonio's Nut House","Nightlife Spot::Bar",37.427091,-122.143896
+"40e35400f964a520e8091fe3","University Cafe","Food::New American Restaurant",37.44568447463292,-122.16192937550616
+"4202bb00f964a520621f1fe3","Tamarine Restaurant","Food::Vietnamese Restaurant",37.448966,-122.15846834730408
+"42605580f964a52020211fe3","Trader Vic's","Food::Restaurant",37.40722140631512,-122.12046146392822
+"4283ee00f964a520c7221fe3","The Old Pro","Nightlife Spot::Sports Bar",37.444885161536085,-122.16130844560504
+"429cfa80f964a5209f241fe3","Rudy's Pub","Nightlife Spot::Bar",37.44385462923839,-122.16376442418239
+"429cfa80f964a520b2241fe3","The Rose & Crown Pub","Nightlife Spot::Pub",37.44437571796183,-122.16172979128585
+"42b9fb80f964a52097251fe3","Patxi's Chicago Pizza","Food::Pizza Place",37.44500594121503,-122.16348722850391
+"42b9fb80f964a52098251fe3","Aquarius Theatre","Arts & Entertainment::Movie Theater::Indie Movie Theater",37.4449785599306,-122.16344118118286
+"42bdf000f964a520aa251fe3","Sundance the Steak House","Food::Steakhouse",37.42850002585611,-122.14968198066202
+"4328b980f964a520c6271fe3","Palo Alto Art Center","Arts & Entertainment::Museum",37.443894487745276,-122.13869750559796
+"4328b980f964a520cb271fe3","Jing Jing","Food::Chinese Restaurant",37.4451045,-122.1632812
+"43616a00f964a52037291fe3","Coupa Café","Food::Café",37.444808199215785,-122.16147780418396
+"43655e80f964a5206b291fe3","Kan Zeman","Food::Mediterranean Restaurant",37.445747,-122.161704
+"43825f80f964a520f82a1fe3","Printers Inc Cafe","Food::Coffee Shop",37.42731434831471,-122.14405417442322
+"43999d96f964a520bd2b1fe3","Palo Alto Medical Foundation","Professional & Other Places::Medical Center::Doctor's Office",37.4395651585563,-122.16127395629883
+"439ab032f964a520ce2b1fe3","Gordon Biersch - Palo Alto","Food::Pizza Place",37.443415,-122.160856
+"439ab18cf964a520d02b1fe3","Pasta?","Food::Italian Restaurant",37.4463136120684,-122.16109222810204
+"439abdf9f964a520d42b1fe3","Douce France","Food::Café",37.438926,-122.158871
+"439bf628f964a520eb2b1fe3","The Westin Palo Alto","Travel & Transport::Hotel",37.44069983653923,-122.16322111998068
+"439d83d1f964a520042c1fe3","Cubberley Community Center & Theatre","Professional & Other Places::Event Space",37.41711488274526,-122.1075290010672
+"43a01419f964a5201a2c1fe3","Zibibbo","Food::Mediterranean Restaurant",37.44797623098111,-122.1607152324423
+"43a3c20df964a5203f2c1fe3","Stanford Memorial Church","Professional & Other Places::Spiritual Center::Church",37.42704170664359,-122.17037200927734
+"43a44a82f964a520462c1fe3","California Pizza Kitchen","Food::Pizza Place",37.448049,-122.15882
+"43b19c1ef964a5209d2c1fe3","Apple Store","Shop & Service::Electronics Store",37.44782778538718,-122.15984165668488
+"43b1ae28f964a5209f2c1fe3","Bella Luna","Food::Italian Restaurant",37.445333725000005,-122.1621698141098
+"43c4f619f964a5205e2d1fe3","Palo Alto Junior Museum & Zoo","Arts & Entertainment::Museum",37.443567,-122.144536
+"43caa4cbf964a520b42d1fe3","Borders","Shop & Service::Bookstore",37.447656,-122.159757
+"43d0231bf964a520ea2d1fe3","SAP Labs","Professional & Other Places::Office",37.398638988346896,-122.14586166173112
+"43d7afbff964a520582e1fe3","Empire Tap Room","Food::American Restaurant",37.443383,-122.16050975
+"43f8f151f964a520cd2f1fe3","The Cheesecake Factory","Food::American Restaurant",37.44708,-122.160559581
+"442fe898f964a520e5311fe3","Stanford Shopping Center","Shop & Service::Mall",37.442376257720035,-122.1711015701294
+"445a7fbff964a520e6321fe3","Three Seasons Restaurant","Food::Vietnamese Restaurant",37.44534819992158,-122.161442
+"446f1af3f964a5207c331fe3","Watercourse Way","Shop & Service::Spa / Massage",37.441153911737594,-122.15840887730222
+"44ca82f1f964a52005361fe3","Stanford Theatre","Arts & Entertainment::Movie Theater",37.44505096311692,-122.16270625591278
+"44cf855ff964a52021361fe3","Palo Alto Airport (PAO)","Travel & Transport::Airport",37.45428392462384,-122.113938331604
+"44e19caaf964a5201e371fe3","Il Fornaio","Food::Italian Restaurant",37.44788872418851,-122.15870826273179
+"44f09bfbf964a520f9371fe3","Siam Royal Authentic Thai","Food::Thai Restaurant",37.44637370109558,-122.16106456666667
+"4502c992f964a520ce381fe3","Bistro 412","Nightlife Spot::Nightclub",37.44508400055713,-122.16390856565295
+"4502cb26f964a520cf381fe3","Dan Brown's Lounge & Sports","Nightlife Spot::Sports Bar",37.412708216666665,-122.12489356666667
+"45126099f964a5209f391fe3","Darbar Indian Cuisine","Food::Indian Restaurant",37.444705,-122.165033
+"451ea072f964a520973a1fe3","Zao Noodle Bar","Food::Ramen /  Noodle House",37.445564,-122.162041
+"451fa5eef964a520a83a1fe3","Fry's Electronics","Shop & Service::Electronics Store",37.42336946739208,-122.13680148124695
+"45295094f964a520253b1fe3","Sushi Tomo","Food::Sushi Restaurant",37.44476077579488,-122.16285521968659
+"45367f64f964a520ac3b1fe3","Pizza My Heart","Food::Pizza Place",37.44481111730196,-122.1624061585341
+"45451dfcf964a520703c1fe3","The Counter","Food::Burger Joint",37.42680311279597,-122.14425919445942
+"454b2533f964a520aa3c1fe3","Fuki Sushi","Food::Japanese Restaurant",37.41385851,-122.125736
+"454b53a5f964a520b53c1fe3","Mantra","Food::Indian Restaurant",37.443498373031616,-122.161077
+"454dcda7f964a520ce3c1fe3","China Delight","Food::Chinese Restaurant",37.44485881286079,-122.16316013668472
+"45c4b49cf964a52049421fe3","Miyake","Food::Sushi Restaurant",37.44404793,-122.16338388333334
+"4625d98ff964a520b8451fe3","The Prolific Oven","Food::Bakery",37.446617,-122.159819
+"464f9c8ff964a520c9461fe3","Wahoo's Fish Taco","Food::Taco Place",37.425733966533855,-122.14652703906486
+"4651f8d5f964a520e0461fe3","Mike's Bikes Of Palo Alto","Shop & Service::Bike Shop",37.422306,-122.13979521
+"46b880b3f964a520c1491fe3","Su Hong Eatery","Food::Chinese Restaurant",37.40718731701597,-122.12106227874756
+"47b78030f964a520b34d1fe3","Bistro Basia","Nightlife Spot::Wine Bar",37.42925047874342,-122.14172601699474
+"481ef675f964a520834f1fe3","Danger","Professional & Other Places::Office",37.42537511415575,-122.13689530161058
+"481f5aadf964a520854f1fe3","Evvia Estiatorio","Food::Greek Restaurant",37.44518730195012,-122.16376442418239
+"48277a1cf964a520b74f1fe3","P.F. Chang's","Food::Chinese Restaurant",37.44361992244108,-122.1680599451065
+"485ce5d2f964a520d0501fe3","CineArts at Palo Alto Square","Arts & Entertainment::Movie Theater",37.420570850372314,-122.14148
+"485ce823f964a520d2501fe3","Pampas","Food::Brazilian Restaurant",37.44276809952013,-122.16286182403564
+"49bac948f964a520a8531fe3","Nokia Research Center - Palo Alto","Professional & Other Places::Event Space",37.41944142048881,-122.14450478553772
+"49bbe9c7f964a520f9531fe3","Izzy's Brooklyn Bagels","Food::Bagel Shop",37.4254058357664,-122.14548110961914
+"49bd2a1af964a5204f541fe3","The Wine Room","Nightlife Spot::Wine Bar",37.444992,-122.161891
+"49bd5717f964a52069541fe3","Mayfield Bakery & Cafe","Food::Bakery",37.438142531766424,-122.15874195098877
+"49be9947f964a520c2541fe3","Vivre","Shop & Service::Gym / Fitness Center::Gym",37.4437738,-122.161027
+"49beb5ddf964a520cc541fe3","Boston Market","Food::American Restaurant",37.420071,-122.13588085
+"49c24cc7f964a520e3551fe3","Fraiche Yogurt","Food::Dessert Shop",37.44388185139256,-122.16150803060685
+"49cd1e27f964a520bc591fe3","Funny or Die HQ","Professional & Other Places::Office::Tech Startup",37.421782066666665,-122.13784893333333
+"49d52eeff964a520755c1fe3","Häagen-Dazs","Food::Ice Cream Shop",37.4422732997203,-122.17094354341998
+"49d94471f964a520195e1fe3","Ming's Chinese Cuisine and Bar","Food::Dim Sum Restaurant",37.44965906882686,-122.11909890174866
+"49da810ff964a5208f5e1fe3","Institute For The Future","Professional & Other Places::Office::Conference Room",37.443851,-122.163561
+"49e3d406f964a520e2621fe3","Starbucks Coffee","Food::Coffee Shop",37.44368551863707,-122.17192474488101
+"49e4bd94f964a5202b631fe3","TechCrunch HQ","Professional & Other Places::Office",37.44648197642175,-122.16329097747803
+"49e4f397f964a52077631fe3","Starbucks","Food::Coffee Shop",37.42688742881168,-122.14403739780434
+"49e5a5e9f964a520de631fe3","Palo Alto Caltrain Station","Travel & Transport::Train Station",37.44350066781593,-122.16490030288696
+"49e6233bf964a5200f641fe3","Sprout Cafe","Food::Sandwich Place",37.444377,-122.16295838356018
+"49ed372ff964a520d2671fe3","California Ave Caltrain Station","Travel & Transport::Train Station",37.42890851157328,-122.14143679797976
+"49ee22c9f964a52028681fe3","Equinox","Shop & Service::Gym / Fitness Center",37.42168,-122.13798
+"49efa9eef964a520f2681fe3","Googleplex - 2350","Professional & Other Places::Building",37.424227801511186,-122.09976320638896
+"49efe007f964a52016691fe3","Facebook","Professional & Other Places::Office::Tech Startup",37.41613399887693,-122.15248895717846
+"49f169a2f964a520ab691fe3","Palo Alto Bowl","Arts & Entertainment::Bowling Alley",37.40561919248851,-122.11841225624084
+"49f2208cf964a520ed691fe3","Cho's Restaurant","Food::Dim Sum Restaurant",37.428184,-122.14323083
+"49f220bcf964a520ef691fe3","Mollie Stone's Markets","Shop & Service::Food & Drink Shop::Grocery Store",37.428832,-122.143294
+"49f66210f964a520376c1fe3","Reposado","Food::Mexican Restaurant",37.44419960186351,-122.16106450787791
+"49f7a66df964a520cc6c1fe3","Sprinkles Cupcakes","Food::Cupcake Shop",37.442309,-122.17308059
+"49f9ce05f964a520856d1fe3","Socialtext HQ","Professional & Other Places::Office::Tech Startup",37.442922,-122.161165
+"49fb5ba6f964a5203a6e1fe3","Bistro Maxine","Food::French Restaurant",37.4446458,-122.1613285
+"49fb6c1bf964a520446e1fe3","Junnoon","Food::Indian Restaurant",37.444051,-122.163035
+"49fd3a77f964a520166f1fe3","La Morenita Restaurant","Food::Mexican Restaurant",37.442246,-122.159088
+"49ff4391f964a520f96f1fe3","Mayfield Soccer Complex","Outdoors & Recreation::Athletic & Sport::Soccer Field",37.42305017944928,-122.1432056562833
+"49ff43f9f964a520fa6f1fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",37.4422831742727,-122.15936801657234
+"4a067430f964a520f8721fe3","Café Venetia","Food::Coffee Shop",37.44744708,-122.160304
+"4a072900f964a5202e731fe3","Kara's Cupcakes","Food::Cupcake Shop",37.438099937732964,-122.1604585647583
+"4a07a75ef964a5208a731fe3","Salon Legar","Shop & Service::Salon / Barbershop",37.427028,-122.14422
+"4a0dd074f964a5209d751fe3","Illusions Fayrouz Dining & Entertainment","Nightlife Spot::Nightclub",37.427955062585816,-122.14396531379319
+"4a0dd1bbf964a5209f751fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.442081466041714,-122.15957869341747
+"4a0f420df964a52044761fe3","Jamba Juice","Food::Juice Bar",37.43790864944458,-122.15971827507019
+"4a15a619f964a520ae781fe3","TIBCO Software","Professional & Other Places::Office",37.407574132407866,-122.14412057160348
+"4a160247f964a520e5781fe3","Sheraton Palo Alto Hotel","Travel & Transport::Hotel",37.4414610942076,-122.1635149481039
+"4a16414df964a520f9781fe3","Como Esta Taqueria","Food::Mexican Restaurant",37.434145,-122.130161
+"4a170b58f964a5202f791fe3","Keeble & Shuchat Photography","Shop & Service::Miscellaneous Shop",37.42755,-122.14388450244321
+"4a1c0f52f964a520097b1fe3","Stanford University Medical Center","Professional & Other Places::Medical Center::Hospital",37.43337037201204,-122.17572750885947
+"4a1c4571f964a520327b1fe3","Taqueria El Grullense","Food::Mexican Restaurant",37.418218069092084,-122.13316880279423
+"4a1d92e7f964a5207e7b1fe3","Canteen @ VA Palo Alto","Professional & Other Places::Office::Cafeteria",37.40489146742347,-122.14017251783507
+"4a1da270f964a520847b1fe3","Lotus Thai Bistro","Food::Thai Restaurant",37.42612053020301,-122.14486913290754
+"4a1dc9f8f964a520967b1fe3","Lucile Packard Children's Hospital","Professional & Other Places::Medical Center::Hospital",37.436000021825855,-122.17504978179932
+"4a1dfd5df964a520b57b1fe3","Sushi House","Food::Sushi Restaurant",37.43916364336883,-122.15829799359845
+"4a1eeee1f964a520eb7b1fe3","Pluto's","Food::Salad Place",37.44802649761261,-122.15952325218242
+"4a1ef955f964a520f27b1fe3","Red Mango","Food::Ice Cream Shop",37.44761,-122.160082
+"4a1f090ff964a520f87b1fe3","L & L Hawaiian BBQ","Food::BBQ Joint",37.41665976794613,-122.13039602671635
+"4a2023f8f964a5204e7c1fe3","Joanie's Cafe","Food::Café",37.42647938006118,-122.14466571807861
+"4a25c2b3f964a520917e1fe3","Lucie Stern Community Theatre","Arts & Entertainment::Performing Arts Venue",37.44425399165558,-122.14543470911164
+"4a26dd28f964a520e77e1fe3","Mediterranean Wraps","Food::Mediterranean Restaurant",37.426080522723886,-122.14499112018298
+"4a26e75ff964a520ea7e1fe3","Ace of Sandwiches","Food::Sandwich Place",37.417094,-122.13125462
+"4a2718b4f964a52058911fe3","ZombieRunner","Shop & Service::Sporting Goods Shop",37.42613241013077,-122.14494676118971
+"4a276803f964a5207d911fe3","Palo Alto Baking Company","Food::Bakery",37.4267347700302,-122.1443534578996
+"4a2b07e4f964a5208d961fe3","Max's Restaurant","Food::American Restaurant",37.44280217262315,-122.173011302948
+"4a2ca363f964a5207c971fe3","Cafe Epi","Food::Café",37.44729940989582,-122.16041585259526
+"4a2da4a8f964a520db971fe3","Tandoori Oven","Food::Indian Restaurant",37.426869,-122.144266
+"4a2ffda7f964a52003991fe3","Julian Chase Salon","Shop & Service::Salon / Barbershop",37.427756,-122.144506
+"4a306a0ff964a52063991fe3","Gyros Gyros","Food::Mediterranean Restaurant",37.448304147524624,-122.15922941315989
+"4a316251f964a520ba991fe3","JJ & F Market","Food::Deli / Bodega",37.42593834974143,-122.14798897504807
+"4a31a25cf964a5200a9a1fe3","Quiznos Sub #828","Food::Sandwich Place",37.42537727,-122.145595
+"4a33f2edf964a520799b1fe3","Plug and Play Tech Center - Palo Alto","Professional & Other Places::Office::Coworking Space",37.4486434709424,-122.15876924855056
+"4a357941f964a520069d1fe3","Lulu's Taqueria","Food::Mexican Restaurant",37.43837476,-122.160323
+"4a3673eaf964a5208e9d1fe3","HighWire Press","Professional & Other Places::Office",37.416427790230856,-122.14843443131879
+"4a380415f964a520a59e1fe3","Village Cheese House","Food::Sandwich Place",37.4388155142773,-122.15835571289062
+"4a393cc6f964a520499f1fe3","Country Sun Natural & Organic Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.42607848516829,-122.14527945319428
+"4a39896af964a5208e9f1fe3","Berman Skin Institute","Professional & Other Places::Medical Center::Doctor's Office",37.436807,-122.178296
+"4a3a8c6bf964a520f89f1fe3","Macy's","Shop & Service::Department Store",37.44243482338738,-122.17186376652012
+"4a3a9535f964a520fd9f1fe3","Simply Sandwiches","Food::Sandwich Place",37.426388,-122.144248
+"4a3b2217f964a52093a01fe3","Joya Restaurant & Lounge","Food::Tapas Restaurant",37.446542026098044,-122.16124746122509
+"4a3c3553f964a52042a11fe3","Thaiphoon","Food::Thai Restaurant",37.444235,-122.161846
+"4a3ff2aff964a52021a41fe3","Beckman Center","College & University::Medical School",37.4319917023441,-122.17649817466736
+"4a3ffce9f964a5202aa41fe3","Caffe Riace","Food::Café",37.42651496347808,-122.14077138922514
+"4a401daff964a5204da41fe3","Hair International","Shop & Service::Salon / Barbershop",37.44235922107346,-122.17062950134277
+"4a413bf6f964a52001a51fe3","Hyderabad House","Food::Indian Restaurant",37.44760632481655,-122.15972363948822
+"4a415d2bf964a5202fa51fe3","Satura Cakes","Food::Dessert Shop",37.446172,-122.16135935
+"4a41a82bf964a52083a51fe3","Stanford Graduate School of Business","College & University::College Academic Building",37.427893708569165,-122.16198205947876
+"4a428d06f964a520f6a51fe3","Hunan Garden","Food::Chinese Restaurant",37.42020842,-122.136103
+"4a43cb01f964a520d2a61fe3","La Bodeguita del Medio","Food::Cuban Restaurant",37.42549690578422,-122.14529608776755
+"4a4561f9f964a5201da81fe3","Apple Store","Shop & Service::Electronics Store",37.443066238645564,-122.1714985370636
+"4a46602ef964a520c7a81fe3","Starbucks","Food::Coffee Shop",37.446783027130195,-122.16053227819029
+"4a46b035f964a5204ea91fe3","Vino Locale","Nightlife Spot::Wine Bar",37.44837738015318,-122.1603714999545
+"4a46c5ecf964a52072a91fe3","Cafe 220","Food::Mediterranean Restaurant",37.44498517612752,-122.16238398262618
+"4a47b2aaf964a520f9a91fe3","L'Amour Frozen Yogurt Cafe","Food::Ice Cream Shop",37.445736,-122.16177
+"4a47ea14f964a52049aa1fe3","Peet's Coffee & Tea","Food::Coffee Shop",37.447598,-122.159876
+"4a4a7282f964a520d4ab1fe3","Venrock","Professional & Other Places::Office",37.405232190161314,-122.14628861265922
+"4a4a86b7f964a520e9ab1fe3","VMware, Inc.","Professional & Other Places::Office",37.402255567866234,-122.14451980494594
+"4a4ab0f3f964a5201cac1fe3","House of Bagels","Food::Bagel Shop",37.44870404991965,-122.15889676424175
+"4a4d2026f964a52090ad1fe3","SoftTech VC Offices","Professional & Other Places::Office",37.446951,-122.161991
+"4a4d47bdf964a520d0ad1fe3","Palo Alto Creamery Fountain & Grill","Food::Diner",37.443854172044226,-122.17006623744965
+"4a4e66f0f964a52069ae1fe3","MacArthur Park","Food::American Restaurant",37.443083,-122.165492
+"4a552793f964a520c0b31fe3","Jordan Hall","College & University::College Academic Building",37.42869458153818,-122.1708333492279
+"4a554904f964a52005b41fe3","Coconuts Caribbean Restaurant & Bar","Food::Caribbean Restaurant",37.443928,-122.160166
+"4a564e1bf964a520f3b41fe3","Lytton Plaza","Outdoors & Recreation::Plaza",37.444739,-122.162487
+"4a56a8adf964a52099b51fe3","J. Henry Meyer Memorial Library","College & University::College Library",37.42569552383859,-122.16749668121338
+"4a56c076f964a520c0b51fe3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.446427088223324,-122.16055445447982
+"4a57a2d8f964a52082b61fe3","McDonald's","Food::Fast Food Restaurant",37.421263,-122.139437
+"4a57a2d9f964a52083b61fe3","Tapulous","Professional & Other Places::Office::Tech Startup",37.444415,-122.160999
+"4a590e55f964a52089b81fe3","SimplyBe Salon and Spa","Shop & Service::Salon / Barbershop",37.448616,-122.15887579000002
+"4a5a7057f964a52053ba1fe3","Congregation Etz Chayim","Professional & Other Places::Spiritual Center::Synagogue",37.411376,-122.11231
+"4a5bb1c0f964a520a4bb1fe3","Michael's Gelato & Cafe","Food::Ice Cream Shop",37.44758145190081,-122.15990579612296
+"4a5ce2f0f964a520c4bc1fe3","Jin Sho Restaurant","Food::Japanese Restaurant",37.425869482285854,-122.14547906790408
+"4a5e4a6cf964a52051be1fe3","Form Fitness","Shop & Service::Gym / Fitness Center::Gym",37.44671195814992,-122.16266870498657
+"4a5f7a8bf964a520abbf1fe3","Stanford Parking & Transportation","Professional & Other Places::Building",37.428861,-122.158835
+"4a60200df964a520b7c01fe3","Peking Duck Restaurant","Food::Chinese Restaurant",37.42840141615539,-122.14249035344253
+"4a60e8a2f964a52072c11fe3","Accel Partners","Professional & Other Places::Office",37.447433,-122.159992
+"4a635e31f964a520e1c41fe3","Know Knew Books","Shop & Service::Bookstore",37.426282916666665,-122.14469494838622
+"4a64b53bf964a52087c61fe3","Philz Coffee","Food::Coffee Shop",37.42950396572758,-122.12268501520157
+"4a6555f3f964a5207fc71fe3","Scotty's Bar","Nightlife Spot::Bar",37.44404362388145,-122.16192937550616
+"4a6621daf964a52012c81fe3","Peers Park","Outdoors & Recreation::Park",37.43187255620095,-122.1476858947791
+"4a677e0df964a5208ac91fe3","YogaSource Palo Alto","Shop & Service::Gym / Fitness Center::Yoga Studio",37.44347,-122.16182137999999
+"4a67816cf964a52098c91fe3","Peninsula Creamery","Food::Diner",37.44089980128839,-122.15833680290777
+"4a67d779f964a52025ca1fe3","Bistro Elan","Food::French Restaurant",37.42591825,-122.145357
+"4a688daaf964a5208bca1fe3","Palo Alto Creamery","Food::Diner",37.443896762802375,-122.16169238090515
+"4a68a898f964a520c8ca1fe3","PubMatic","Professional & Other Places::Office",37.444295,-122.163787
+"4a68c6a7f964a520fdca1fe3","St. Michael's Alley","Food::Breakfast Spot",37.4422,-122.158996
+"4a69d6c7f964a52019cc1fe3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.43269312985264,-122.1274290774254
+"4a6a1c83f964a520a3cc1fe3","the Oaxacan Kitchen","Food::Mexican Restaurant",37.42785573005676,-122.1445593
+"4a6a3862f964a520dccc1fe3","Mediterranean Wraps","Food::Mediterranean Restaurant",37.44495213031769,-122.162721
+"4a6a40aff964a520f2cc1fe3","Starbucks","Food::Coffee Shop",37.43322360697383,-122.1286879611963
+"4a6b91c4f964a5202ecf1fe3","AT&T","Shop & Service::Mobile Phone Shop",37.42330458371261,-122.14156987923789
+"4a6d172cf964a52084d21fe3","Bangkok Cuisine","Food::Thai Restaurant",37.448094,-122.16157426666666
+"4a6f8705f964a52067d61fe3","Starbucks","Food::Coffee Shop",37.42736136461416,-122.14926613248603
+"4a6fdb09f964a52011d71fe3","Hookah Nites","Nightlife Spot::Hookah Bar",37.44542218184563,-122.1625281259461
+"4a73584cf964a5203bdc1fe3","Homma's Brown Rice Sushi","Food::Sushi Restaurant",37.427828907966614,-122.14427411556244
+"4a736621f964a52059dc1fe3","SGN","Professional & Other Places::Office::Tech Startup",37.428767,-122.15027
+"4a73b16cf964a52037dd1fe3","Celia's Mexican Restaurant","Food::Mexican Restaurant",37.41757740698844,-122.13200424551879
+"4a74c3a0f964a52081df1fe3","Modernbook","Arts & Entertainment::Art Gallery",37.448241,-122.159354
+"4a760954f964a52005e21fe3","Café Brioche","Food::French Restaurant",37.425856638836194,-122.14507429324617
+"4a761b02f964a5203ce21fe3","Cold Stone Creamery","Food::Ice Cream Shop",37.438506,-122.16054028
+"4a7688a0f964a52021e31fe3","Nola","Food::Cajun / Creole Restaurant",37.444991,-122.16141870000001
+"4a7722a2f964a520b1e31fe3","IDEO Palo Alto","Professional & Other Places::Office",37.442146841237175,-122.16109777214598
+"4a789e21f964a5200de61fe3","Driftwood Deli & Market","Food::Sandwich Place",37.419048910115116,-122.13515406669647
+"4a79b669f964a5206ee71fe3","Hobee's","Food::American Restaurant",37.43791478972015,-122.15977273751527
+"4a7a1013f964a5205be81fe3","Citibank","Shop & Service::Bank",37.44512,-122.161782
+"4a7a1391f964a5206ce81fe3","Wells Fargo","Shop & Service::Bank",37.446319,-122.15884868571429
+"4a7a15b6f964a52077e81fe3","US Post Office","Professional & Other Places::Post Office",37.44607925367069,-122.15953988455594
+"4a7a87d7f964a52063e91fe3","Sushi Tomo","Food::Sushi Restaurant",37.41389751434326,-122.124844
+"4a7b329af964a52045ea1fe3","Janta Indian Cuisine","Food::Indian Restaurant",37.447669,-122.16215
+"4a7b3558f964a52052ea1fe3","Palo Alto Sol","Food::Mexican Restaurant",37.42660292186936,-122.14496076107025
+"4a7b5cb8f964a520cbea1fe3","Round Table Pizza","Food::Pizza Place",37.445651772569164,-122.16200144749476
+"4a7b5e03f964a520d0ea1fe3","Gelato Classico","Food::Ice Cream Shop",37.445054,-122.163499
+"4a7b85c1f964a52048eb1fe3","Crate & Barrel","Shop & Service::Furniture / Home Store",37.439383,-122.17249728
+"4a7b9270f964a52072eb1fe3","Fleming's Prime Steakhouse & Wine Bar","Food::Steakhouse",37.44353658551637,-122.16973833739758
+"4a831504f964a5200efa1fe3","TeaTime dupe","Food::Sandwich Place",37.444794,-122.161359
+"4a836ea9f964a52023fb1fe3","Cobb Track & Angell Field","College & University::College Stadium::College Track",37.43181279253838,-122.1625828742981
+"4a837ac9f964a52040fb1fe3","Wallenberg Hall","College & University::College Academic Building",37.42828562619893,-122.16900944709778
+"4a845c3bf964a52060fc1fe3","Palo Alto Internet Exchange","Arts & Entertainment::Historic Site",37.44562294870612,-122.16117538873151
+"4a846249f964a5206afc1fe3","Booyah HQ","Professional & Other Places::Office::Tech Startup",37.444507,-122.163063
+"4a8465f2f964a52076fc1fe3","Palo Alto ACE Hardware","Shop & Service::Hardware Store",37.440648020300564,-122.15895220579951
+"4a8467c4f964a5207dfc1fe3","Stanford Blood Donor Center","Professional & Other Places::Medical Center",37.437684,-122.17693781814074
+"4a847153f964a5209efc1fe3","Garden Court Hotel","Travel & Transport::Hotel",37.44792148004665,-122.15884923934938
+"4a85fb88f964a520edff1fe3","Crowne Plaza Cabana Hotel","Travel & Transport::Hotel",37.40568737249825,-122.12174892425537
+"4a860bc4f964a5202f0020e3","Palo Alto Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.45342886523999,-122.11590434041398
+"4a8647e3f964a520e60020e3","INDO Restaurant & Lounge","Food::Malaysian Restaurant",37.42096665189162,-122.13692486286163
+"4a86eafdf964a520a00120e3","Hobee's Restaurant","Food::American Restaurant",37.408968,-122.122405
+"4a8723a4f964a520cf0220e3","Stanford Dish Trail","Outdoors & Recreation::Hiking Trail",37.40548283228286,-122.16487884521483
+"4a8737b7f964a5204d0320e3","Auto Pride Car Wash","Shop & Service::Car Wash",37.438824,-122.160922
+"4a876fe9f964a5205b0420e3","So Gong Dong Tofu House","Food::Korean Restaurant",37.413715134870195,-122.12501049041748
+"4a886a9ef964a520560620e3","lululemon athletica","Shop & Service::Clothing Store",37.447458,-122.16006
+"4a89f50cf964a520800920e3","Palo Alto Bicycles","Shop & Service::Bike Shop",37.444547,-122.163119
+"4a89fea7f964a5209c0920e3","Wilson Sonsini Goodrich & Rosati","Professional & Other Places::Office",37.421378576539986,-122.14421483516492
+"4a8b07e6f964a5203d0b20e3","Cafe Pro Bono","Food::Italian Restaurant",37.427202,-122.14345
+"4a8b51ccf964a520280c20e3","University Club Palo Alto","Professional & Other Places::Building",37.40594218081122,-122.14862295081274
+"4a8b6239f964a520530c20e3","Sony Store","Shop & Service::Electronics Store",37.44218672480867,-122.17271089553833
+"4a8c0c16f964a520e90c20e3","Palo Alto Baylands Park","Outdoors & Recreation::Park",37.45114476907438,-122.10597588671914
+"4a8c1a0af964a520f70c20e3","Palo Alto High School","Professional & Other Places::School::High School",37.435961687655656,-122.15627434594225
+"4a8c1d07f964a520ff0c20e3","Peet's Coffee & Tea","Food::Coffee Shop",37.438086,-122.15921938419342
+"4a8c2ee8f964a520300d20e3","Jordan Middle School","Professional & Other Places::School::Middle School",37.4385429144958,-122.13468790054321
+"4a8c86ccf964a5205b0e20e3","Voltage Security","Professional & Other Places::Office",37.401069,-122.137459
+"4a8da6dbf964a520691020e3","Loving Hut Vegan Cuisine","Food::Vegetarian / Vegan Restaurant",37.44436100551867,-122.16313241699334
+"4a8dafe1f964a520861020e3","Spot A Pizza Place","Food::Pizza Place",37.443062,-122.162455
+"4a8dc175f964a520ba1020e3","California Pizza Kitchen","Food::Pizza Place",37.443514,-122.17223346233368
+"4a8dffcaf964a520b41120e3","Starbucks","Food::Coffee Shop",37.41310669129311,-122.12524384260178
+"4a90a4fbf964a520ec1820e3","Tai Pan","Food::Chinese Restaurant",37.446404,-122.159609
+"4a9179c6f964a520511a20e3","California Ave Farmers' Market","Shop & Service::Food & Drink Shop::Farmers Market",37.42597938971599,-122.14510201758628
+"4a92c1bef964a520931d20e3","Lacoste","Shop & Service::Clothing Store::Boutique",37.443333333333335,-122.171372
+"4a92d4eaf964a520d61d20e3","Arbuckle Dining Pavilion","College & University::College Cafeteria",37.428307,-122.162613
+"4a9416aaf964a5205c2020e3","Nike Running Stanford","Shop & Service::Clothing Store::Shoe Store",37.443919,-122.170909
+"4a94c00ff964a520692220e3","Lavanda","Food::Mediterranean Restaurant",37.444732,-122.16309249401093
+"4a96f062f964a5209a2720e3","Alta Mesa Memorial Park","Outdoors & Recreation::Cemetery",37.39929522684894,-122.13035345077513
+"4a9719e3f964a520742820e3","Stanford Dish Trail","Outdoors & Recreation::Hiking Trail",37.40548283228286,-122.16487884521483
+"4a976329f964a520862920e3","Palantir","Professional & Other Places::Office::Tech Startup",37.442654357701194,-122.162245383098
+"4a97ee14f964a520e72920e3","Enid W. Pearson Arastradero Open Space Preserve","Outdoors & Recreation::Hiking Trail",37.38709196159546,-122.1746243885563
+"4a9828eaf964a520b92a20e3","Norwest Venture Partners","Professional & Other Places::Office",37.4486921133877,-122.159096353716
+"4a983497f964a520f02a20e3","Stanford University","College & University::University",37.42893313778773,-122.16981410980225
+"4a984d7ff964a520642b20e3","Calafia Cafe","Food::Breakfast Spot",37.43825327613993,-122.15829133987427
+"4a984df9f964a520662b20e3","Schaub's","Shop & Service::Food & Drink Shop::Butcher",37.44242327887786,-122.17301680603296
+"4a98c892f964a520362d20e3","Taco Bell","Food::Taco Place",37.41727943,-122.131395
+"4a99f490f964a5203d3120e3","J. Crew","Shop & Service::Clothing Store",37.441566,-122.172193
+"4a9af485f964a520c33320e3","Sunglass Hut - Stanford","Shop & Service::Clothing Store::Accessories Store",37.442983,-122.171092
+"4a9afa8ff964a520e03320e3","Bloomingdale's Stanford","Shop & Service::Department Store",37.443400977401076,-122.17051114671315
+"4a9b02e5f964a520fa3320e3","Day one","Shop & Service::Clothing Store::Kids Store",37.43860493171099,-122.15931811936441
+"4a9b0be9f964a5202e3420e3","Mitchell Park","Outdoors & Recreation::Park",37.42217658990169,-122.11512923240662
+"4a9b60dbf964a520043520e3","Rugby by Ralph Lauren","Shop & Service::Clothing Store",37.442098,-122.172366
+"4a9c14e5f964a520ee3520e3","Stanford School of Medicine","College & University::Medical School",37.43164687215078,-122.17582728802695
+"4a9c5fc7f964a520f93620e3","The North Face","Shop & Service::Sporting Goods Shop",37.445718115123775,-122.16722930989881
+"4a9d7d8ff964a5205a3820e3","Fambrini's Terrace Cafe","Food::Sandwich Place",37.42405,-122.144222
+"4a9dd2e3f964a5208d3920e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.41132,-122.124952
+"4a9dd312f964a5208e3920e3","Dohatsuten Ramen & Tapas","Food::Ramen /  Noodle House",37.42034,-122.10222688333333
+"4a9dec60f964a520d83920e3","Piazza's Fine Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.41860636443823,-122.10986137390137
+"4aa082dcf964a520e53f20e3","Palo Alto Family YMCA","Shop & Service::Gym / Fitness Center::Gym",37.42835378557727,-122.11647033691406
+"4aa18687f964a520de4020e3","Aha Mobile","Professional & Other Places::Office::Tech Startup",37.405107840437736,-122.14616775512695
+"4aa1a1b6f964a520564120e3","Volkswagen ERL","Professional & Other Places::Office::Coworking Space",37.400779,-122.136918
+"4aa1b9c0f964a520834120e3","LaBelle Day Spas & Salons","Shop & Service::Spa / Massage",37.444741,-122.17147171497345
+"4aa2c27bf964a520334220e3","Eleanor Pardee Park","Outdoors & Recreation::Park",37.44920495555102,-122.14274542321705
+"4aa304fbf964a520024320e3","Peet's Coffee & Tea","Food::Coffee Shop",37.41930508544309,-122.11049437522888
+"4aa32eeef964a5209f4320e3","Jade Palace","Food::Chinese Restaurant",37.42834389209747,-122.142561
+"4aa4385bf964a520de4520e3","Olive Garden","Food::Italian Restaurant",37.424634266666665,-122.144301
+"4aa440fff964a5200c4620e3","McDonald's","Food::Fast Food Restaurant",37.44312586632809,-122.17112302780151
+"4aa442a4f964a520154620e3","Gleim the Jeweler","Shop & Service::Jewelry Store",37.44356032902644,-122.17138702541537
+"4aa45624f964a5207a4620e3","Stanford Squash Courts","College & University::College Gym",37.43013799531068,-122.16439088378479
+"4aa59da6f964a520f74820e3","Sigona's Farmers Market","Shop & Service::Food & Drink Shop::Grocery Store",37.44261479051816,-122.17289485051552
+"4aa6871af964a520124a20e3","Waze","Professional & Other Places::Office",37.44430898396337,-122.16093145070276
+"4aa6da74f964a520324b20e3","Mission 6 Salon","Shop & Service::Salon / Barbershop",37.42643415927887,-122.146159
+"4aa6fd7cf964a520b44b20e3","Shokolaat","Food::French Restaurant",37.448452,-122.158994
+"4aa7c9a0f964a520324d20e3","Nine Minute Oil & Lube","Shop & Service::Automotive Shop",37.417742,-122.1309757232666
+"4aa80ccdf964a520fe4e20e3","Thai Garden","Food::Thai Restaurant",37.405518,-122.1185302734375
+"4aa83464f964a520095020e3","Palo Alto Cafe","Food::Café",37.433905,-122.129547
+"4aab08e3f964a520a45820e3","Mango Caribbean Restaurant & Bar","Food::Caribbean Restaurant",37.44691550731659,-122.158748
+"4aab0ce7f964a520b75820e3","Kanpai Sushi","Food::Sushi Restaurant",37.447064,-122.16235756874084
+"4aac0b26f964a520d85b20e3","Jiffy Lube","Shop & Service::Automotive Shop",37.416312166666664,-122.10305088
+"4aac1d57f964a5205b5c20e3","Great Clips","Shop & Service::Salon / Barbershop",37.419347,-122.110618
+"4aac68acf964a520de5d20e3","Scott's Seafood","Food::Seafood Restaurant",37.438479,-122.16078917
+"4aac69d3f964a520e35d20e3","Ramen Noodle House","Food::Ramen /  Noodle House",37.427096,-122.148332
+"4aad335af964a520f75e20e3","Elizabeth Gamble Garden","Outdoors & Recreation::Garden",37.43987699735803,-122.14834571614868
+"4aaeb83cf964a520096320e3","Talenthouse","Professional & Other Places::Office::Tech Startup",37.44358049003698,-122.16270553284399
+"4aaed176f964a5206d6320e3","Happy Donuts","Food::Donut Shop",37.416535,-122.12996
+"4aafe344f964a520036520e3","Campus Barber Shop","Shop & Service::Salon / Barbershop",37.425443,-122.14554253333333
+"4ab02889f964a520436620e3","Stanford Federal Credit Union","Shop & Service::Credit Union",37.448851,-122.158914
+"4ab12cdff964a520526820e3","Cooliris Office","Professional & Other Places::Office",37.4213314894097,-122.14102646306644
+"4ab13ef2f964a520b36820e3","Ning HQ","Professional & Other Places::Office",37.4451161,-122.160463
+"4ab18fc9f964a520ff6920e3","Subway","Food::Sandwich Place",37.433434,-122.129118
+"4ab25a7bf964a520f76a20e3","SayNow","Professional & Other Places::Office::Tech Startup",37.4490274,-122.1587372
+"4ab26fb4f964a520316b20e3","Ning Dining Hall","Food::Restaurant",37.44355,-122.162038
+"4ab39a91f964a520da6d20e3","Carlsen Audi","Shop & Service::Automotive Shop",37.449949860046644,-122.11825597465402
+"4ab3b802f964a520286e20e3","Stanford Cancer Center","Professional & Other Places::Medical Center::Doctor's Office",37.43537512493174,-122.17640933132414
+"4ab3d60ff964a520ad6e20e3","Spalti Ristorante","Food::Italian Restaurant",37.426256716666664,-122.14463601
+"4ab3e7abf964a5200d6f20e3","Cool Café","College & University::College Cafeteria",37.432616,-122.17049
+"4ab3fbacf964a520616f20e3","For Eyes T&C","Shop & Service::Cosmetics Shop",37.438270391795356,-122.15934584003834
+"4ab53a1bf964a520677320e3","Palo Alto Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",37.445488,-122.159074
+"4ab576baf964a520c77420e3","Subway","Food::Sandwich Place",37.41327225,-122.125179
+"4ab5788af964a520d17420e3","Jamba Juice","Food::Juice Bar",37.415634,-122.128994
+"4ab5878bf964a520337520e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.438406614232655,-122.15895652770996
+"4ab5a6fcf964a520c57520e3","Buca di Beppo","Food::Italian Restaurant",37.443495,-122.16126
+"4ab645bff964a520647620e3","7-Eleven","Shop & Service::Convenience Store",37.44794952043696,-122.16133616576631
+"4ab66826f964a520ef7620e3","Bol Park","Outdoors & Recreation::Park",37.41097784746754,-122.1391522107695
+"4ab67ad3f964a520527720e3","Robert Crown Law Library","College & University::College Library",37.42416186836296,-122.16825842857361
+"4ab67c7af964a520607720e3","Books Inc.","Shop & Service::Bookstore",37.43803214673351,-122.15954542867988
+"4ab6a481f964a520607820e3","Anthropologie","Shop & Service::Clothing Store::Women's Store",37.43981900764039,-122.15774911758285
+"4ab6e376f964a520677920e3","Palo Alto Foothills Park","Outdoors & Recreation::Park",37.36440391900633,-122.17952459518244
+"4ab7228df964a520c57920e3","Culture Organic Frozen Yogurt","Food::Dessert Shop",37.427045702934265,-122.144366
+"4ab7cbfcf964a520d27a20e3","Olives@Bldg. 160","Food::Café",37.428189,-122.169018
+"4ab7e17bf964a520467b20e3","Mac's Smoke Shop","Shop & Service::Smoke Shop",37.4442546314928,-122.16211787137436
+"4ab84097f964a520bb7c20e3","Bowman International School","Professional & Other Places::School::Elementary School",37.40276409888513,-122.1280038356781
+"4ab8d7d5f964a5202d7d20e3","Sports Medicine Institute (SMI)","Shop & Service::Spa / Massage",37.42628747573244,-122.14057176579803
+"4ab90343f964a520aa7d20e3","Taube Family Tennis Stadium","College & University::College Stadium",37.430741,-122.162408
+"4ab92928f964a5204b7e20e3","El Carmelo Elementary School","Professional & Other Places::School::Elementary School",37.42559945965099,-122.13025184041179
+"4ab93bd7f964a5209d7e20e3","Frank, Rimerman + Co. LLP","Professional & Other Places::Office",37.40753485644774,-122.15389027387589
+"4aba62e9f964a5201c8120e3","Williams-Sonoma","Shop & Service::Furniture / Home Store",37.443142492908564,-122.17225735351336
+"4aba6975f964a520358120e3","Gap","Shop & Service::Clothing Store",37.442688925123456,-122.17135376432918
+"4aba72fdf964a5205b8120e3","Anderson Honda","Shop & Service::Automotive Shop",37.45040665533001,-122.11776235755924
+"4aba999bf964a5200f8220e3","Palo Alto Sports Shop & Toy World","Shop & Service::Toy / Game Store",37.446704,-122.159868
+"4abbbb8ef964a520998420e3","Cafe Sophia","Food::Middle Eastern Restaurant",37.433289,-122.1294093132019
+"4abbd076f964a520148520e3","Vero","Food::Italian Restaurant",37.4454538663738,-122.16108668405778
+"4abbd605f964a520268520e3","Pet Food Express","Shop & Service::Pet Store",37.419201,-122.110063
+"4abbd76cf964a5202b8520e3","New York Pizza","Food::Pizza Place",37.445437764791535,-122.16007766324779
+"4abbfbdef964a520cb8520e3","E*Trade Financial - Palo Alto","Shop & Service::Bank",37.443927526474,-122.163442
+"4abc1e9af964a520748620e3","A.G. Ferrari","Shop & Service::Food & Drink Shop::Gourmet Shop",37.44392216205597,-122.161376
+"4abcf215f964a520c78720e3","Dinah's Garden Hotel","Travel & Transport::Hotel",37.40809842750518,-122.11973681240895
+"4abcfc57f964a520f48720e3","Mercedes-Benz R&D North America","Professional & Other Places::Office",37.41854197720367,-122.14051631478046
+"4abd9ca8f964a520228b20e3","Henry M. Gunn High School","Professional & Other Places::School::High School",37.40183253197419,-122.13319653019524
+"4abe5fc2f964a5200e8d20e3","Ramos Park","Outdoors & Recreation::Park",37.42522481508962,-122.10854406018093
+"4abe81e8f964a5201d8e20e3","Village Stationers","Shop & Service::Gift Shop",37.427243,-122.144207
+"4abe9ffaf964a520ee8e20e3","Gryphon Stringed Instruments","Shop & Service::Music Store",37.423674,-122.134299
+"4abf002af964a520b39020e3","7-Eleven","Shop & Service::Convenience Store",37.43319145,-122.12789154
+"4abfa1f7f964a5205f9120e3","Blossom Birth","Professional & Other Places::Event Space",37.42737700786226,-122.14313357171596
+"4ac0cc64f964a5208e9420e3","Quality Inn Palo Alto","Travel & Transport::Hotel::Motel",37.417278583333335,-122.12904884799516
+"4ac16019f964a520fc9620e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.434426,-122.13031342
+"4ac160fbf964a520fe9620e3","The UPS Store","Professional & Other Places::Post Office",37.433996183333335,-122.1299
+"4ac234acf964a5202e9820e3","Center for Clinical Sciences Research","College & University::College Lab",37.432213698531555,-122.17739602609223
+"4ac242aff964a520759820e3","Stanford Medical Center","Professional & Other Places::Medical Center::Doctor's Office",37.437679271118284,-122.16660286682662
+"4ac24343f964a5207b9820e3","Goodwill Palo Alto","Shop & Service::Thrift / Vintage Store",37.4150768552938,-122.12603707872195
+"4ac27707f964a5203d9920e3","True Ventures","Professional & Other Places::Office",37.449166,-122.15997
+"4ac2d6f7f964a520d89a20e3","The Fish Market","Food::Seafood Restaurant",37.421011,-122.13903
+"4ac37eadf964a5207f9b20e3","AAA: American Automobile Association","Shop & Service::Automotive Shop",37.445817,-122.157065
+"4ac3b3ecf964a520719c20e3","Vittoria Management","Professional & Other Places::Office",37.44711,-122.158453
+"4ac3bf84f964a520a99c20e3","Charleston Cleaners","Shop & Service::Laundry Service",37.419551610946655,-122.11028981666666
+"4ac3e2aaf964a520459d20e3","Palo Alto City Hall","Professional & Other Places::Government Building",37.444584815016384,-122.16034932362726
+"4ac64f4bf964a520a4b320e3","Stanford Center for Entrepreneurial Studies","College & University::Student Center",37.429672,-122.166433
+"4ac6567df964a520d3b320e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",37.427891,-122.142303
+"4ac6e37af964a52086b620e3","Ernie's Wines and Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.417058,-122.13114
+"4ac79eb4f964a52088b820e3","Black Diamond Sports","Shop & Service::Sporting Goods Shop",37.444151,-122.16317296028137
+"4ac8eebff964a52061bd20e3","Palo Alto Heritage Park","Outdoors & Recreation::Playground",37.443824358499114,-122.156982421875
+"4aca54f5f964a52077c120e3","Jack in the Box","Food::Fast Food Restaurant",37.42547929286957,-122.147108
+"4aca6ae5f964a520d4c120e3","Bank of America - Palo Alto","Shop & Service::Bank",37.449166713352035,-122.16028833870381
+"4acb996cf964a52081c420e3","Luttickens (@CCSR)","Food::Deli / Bodega",37.432102455819084,-122.17710971832275
+"4acd2d5bf964a52041cb20e3","Ronald McDonald House","Professional & Other Places::Building",37.442709,-122.174159
+"4ace331cf964a52009cf20e3","Sancho's Taqueria","Food::Mexican Restaurant",37.448943,-122.16076
+"4acfd7fbf964a52064d620e3","Baskin-Robbins","Food::Ice Cream Shop",37.43413,-122.129975
+"4ad02baef964a520aed720e3","Rinconada Park","Outdoors & Recreation::Park",37.443860155302914,-122.14300603736334
+"4ad24a62f964a520bae020e3","Nordstrom","Shop & Service::Department Store",37.43921915900995,-122.17357669095085
+"4ad375caf964a52085e420e3","New York New York","Food::Deli / Bodega",37.44389765143796,-122.16365908990868
+"4ad3d037f964a52074e620e3","Palo Alto Bimmer","Shop & Service::Automotive Shop",37.441487,-122.160257
+"4ad73e31f964a520150921e3","Creekside Inn","Travel & Transport::Hotel",37.4189329191577,-122.13553669716028
+"4ad779b6f964a5201f0b21e3","Magnussen's Toyota of Palo Alto","Shop & Service::Automotive Shop",37.41542717868589,-122.1026698976554
+"4ad7d60af964a520370f21e3","Tugboat Ventures","Professional & Other Places::Office",37.4285419,-122.14446166666667
+"4ad7dcaff964a5209a0f21e3","A-1 Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.417127,-122.131292
+"4ad8e301f964a520ad1521e3","Vaden Student Health Center","Professional & Other Places::Medical Center::Doctor's Office",37.42219611666667,-122.163777
+"4ad8f99ff964a5209e1621e3","Escondido Elementary School","Professional & Other Places::School::Elementary School",37.42163416981837,-122.15554249687635
+"4ad94853f964a520921921e3","Rains","College & University::College Residence Hall",37.4223725,-122.157631
+"4ad9f4bef964a520591c21e3","President Barber Shop","Shop & Service::Salon / Barbershop",37.448117386682675,-122.15938568115234
+"4adb722af964a520932721e3","Laird Q. Cagan Stadium at Maloney Field","College & University::College Stadium::College Soccer Field",37.43300282700456,-122.15833680290777
+"4adcc17ff964a520732f21e3","Uzumaki Sushi","Food::Sushi Restaurant",37.42572021484375,-122.14508056640625
+"4adf29dff964a520f17721e3","Pacific Business Centers","Professional & Other Places::Office::Coworking Space",37.44999883821272,-122.12132300561763
+"4adfbd8cf964a520247d21e3","West Valley Flying Club","Travel & Transport::Airport::Plane",37.454162,-122.114604
+"4adfbd92f964a520267d21e3","Milestones Preschool at Abilities United","Professional & Other Places::School::Nursery School",37.42126636306815,-122.11160027354043
+"4ae0bad1f964a520028221e3","Stanford Barn","College & University::College Academic Building",37.43730940424528,-122.17306669688655
+"4ae20384f964a520cf8921e3","Quora HQ","Professional & Other Places::Office::Tech Startup",37.444701957087105,-122.16105341978624
+"4ae2731af964a5205c8e21e3","California Cafe","Food::American Restaurant",37.437394,-122.1733113
+"4ae35485f964a520869321e3","Century Store Wine & Liquors","Shop & Service::Food & Drink Shop::Liquor Store",37.42970874,-122.12317049503326
+"4ae36ed1f964a5200c9521e3","Wilbur Field","Outdoors & Recreation::Field",37.4231053318716,-122.16423511505127
+"4ae3ae05f964a520129821e3","Rangoon","Food::Chinese Restaurant",37.44534098333333,-122.160462
+"4ae5bc18f964a520b9a121e3","Superior Court of California (Palo Alto Courthouse)","Professional & Other Places::Government Building::Courthouse",37.42700419379604,-122.1423350932843
+"4ae5e472f964a520eda221e3","Zoove","Professional & Other Places::Office::Tech Startup",37.45081466640267,-122.11959815804963
+"4ae646e3f964a52023a621e3","Wilmer Hale","Professional & Other Places::Office",37.42100405,-122.14881061666667
+"4ae7435ef964a520dba921e3","Mobclix HQ","Professional & Other Places::Office",37.448648,-122.158756
+"4ae88307f964a52002b021e3","Ooma, Inc.","Professional & Other Places::Office::Tech Startup",37.450967010741756,-122.11335852774663
+"4ae8fd0ff964a520dcb321e3","Pottery Barn Kids","Shop & Service::Furniture / Home Store",37.44373525674591,-122.17128169860715
+"4ae9c732f964a52053b621e3","VMware, Inc.","Professional & Other Places::Office",37.39385382797189,-122.14792986281513
+"4aea34fcf964a52031ba21e3","Diddam's Amazing Party Store","Shop & Service::Gift Shop",37.444073,-122.161611
+"4aea6989f964a52070bb21e3","Ray's Café","Food::Restaurant",37.42367635199149,-122.15842550984794
+"4aeb442af964a52055c021e3","Winter Lodge","Outdoors & Recreation::Athletic & Sport::Skating Rink",37.43152312813672,-122.12462425231934
+"4aec6d2af964a520fac621e3","True Salon","Shop & Service::Salon / Barbershop",37.42732712836869,-122.1437457203865
+"4aec97faf964a52033c921e3","Supercuts","Shop & Service::Salon / Barbershop",37.407981,-122.122192
+"4aef157cf964a5207fd521e3","OnLive","Professional & Other Places::Office",37.44564330484408,-122.16433544502904
+"4aef5c3df964a520d6d721e3","Tibco Cafe","Professional & Other Places::Office::Cafeteria",37.40783324044875,-122.14398194856926
+"4aefa2e5f964a520b3d921e3","Cardinal Hotel","Travel & Transport::Hotel",37.444484,-122.161391
+"4af243b9f964a520ffe621e3","AT&T","Shop & Service::Mobile Phone Shop",37.42330458371261,-122.14156987923789
+"4af4546ff964a52062f121e3","Walter Hays Elementary School","Professional & Other Places::School::Elementary School",37.44319423344701,-122.1434939940707
+"4af49f4ef964a5206df421e3","Stanford Terrace Inn","Travel & Transport::Hotel",37.427012099251975,-122.149486
+"4af4cbf4f964a52048f621e3","We Fix Macs","Shop & Service::Electronics Store",37.42147101866095,-122.13844242624775
+"4af62737f964a520be0122e3","Rice Thai","Food::Thai Restaurant",37.41651,-122.129831
+"4af8d36ef964a5202c1022e3","Armani Exchange","Shop & Service::Clothing Store",37.44320525,-122.171587
+"4afadc37f964a5201a1922e3","Park Avenue Motors","Shop & Service::Car Dealership",37.424281,-122.134976
+"4afb73c6f964a5201b1e22e3","Society of Kauffman Fellows","Professional & Other Places::Office::Tech Startup",37.438653,-122.160549
+"4afb9fd8f964a520d41e22e3","TIBCO Software","Professional & Other Places::Office",37.407364720811835,-122.1443645477107
+"4afc8deff964a520d32322e3","Bank of America","Shop & Service::Bank",37.42388177257491,-122.14419265551082
+"4afdb751f964a5201e2a22e3","docomo","Professional & Other Places::Office",37.407744699999995,-122.1461658625
+"4afdce7af964a5200d2b22e3","Juicy Couture","Shop & Service::Clothing Store::Boutique",37.443473,-122.171342
+"4afddbf9f964a520872b22e3","Rick's Rather Rich Ice Cream","Food::Ice Cream Shop",37.41858178881181,-122.10928732146868
+"4afe2e0af964a5208a2e22e3","Rains Houses","College & University::College Residence Hall",37.42151572860106,-122.15851421671496
+"4afefa9bf964a5206f3222e3","Snip-Its","Shop & Service::Salon / Barbershop",37.438726862054054,-122.15884132265545
+"4aff7427f964a520bb3822e3","First United Methodist Church","Professional & Other Places::Spiritual Center::Church",37.44918630423907,-122.156740065485
+"4b0096b6f964a520bd3f22e3","Neiman Marcus","Shop & Service::Department Store",37.44125580921541,-122.17270637353462
+"4b01dae0f964a520fc4522e3","Lytton Roasting Co.","Food::Café",37.448057,-122.16170591
+"4b020dc4f964a520724722e3","Medallia HQ","Professional & Other Places::Office",37.425559200179514,-122.13889360427855
+"4b02fdfcf964a520b54b22e3","Howie's Artisan Pizza","Food::Pizza Place",37.43799,-122.16013851835095
+"4b035ed0f964a520fc4e22e3","International School of the Peninsula","Professional & Other Places::School",37.427032127745576,-122.12346932088623
+"4b037200f964a520714f22e3","Green Elephant Gourmet","Food::Chinese Restaurant",37.418727,-122.10927654
+"4b03790af964a5208a4f22e3","Palo Alto Children's Library","Professional & Other Places::Library",37.444742580140336,-122.14499112018298
+"4b049bc8f964a5209b5522e3","Keys School - Middle Campus","Professional & Other Places::School::Middle School",37.416339215304625,-122.12811120569606
+"4b057cb7f964a520bb5822e3","Morgan, Lewis & Bockius LLP","Professional & Other Places::Office",37.42221234145567,-122.14157542428674
+"4b05f0fdf964a52048e622e3","Chipotle Mexican Grill","Food::Mexican Restaurant",37.42394819416531,-122.14317238648898
+"4b073afdf964a52034fa22e3","Cardinal Barber Shop","Shop & Service::Salon / Barbershop",37.444703,-122.16127923333333
+"4b08223ef964a520820423e3","Hoover Park","Outdoors & Recreation::Park",37.42987031569431,-122.12888360023499
+"4b09bc88f964a520a61c23e3","Tiffany & Co.","Shop & Service::Clothing Store::Accessories Store",37.443050384521484,-122.17173767089844
+"4b09ccdef964a520e31d23e3","Juana Briones Park","Outdoors & Recreation::Park",37.407650942289415,-122.12720724616482
+"4b0b1accf964a520f42c23e3","Design Within Reach","Shop & Service::Furniture / Home Store",37.44772131404083,-122.1601527929306
+"4b0dffc3f964a520b25323e3","Szechwan Cafe","Food::Chinese Restaurant",37.426634588217624,-122.14488576754414
+"4b103099f964a520de6a23e3","Louis Vuitton","Shop & Service::Clothing Store::Boutique",37.44238787107487,-122.17230724471946
+"4b1031e3f964a520036b23e3","See's Candies","Shop & Service::Candy Store",37.44312095394477,-122.17212431018392
+"4b11a148f964a520ee8023e3","Box HQ","Professional & Other Places::Office::Tech Startup",37.424266,-122.13641373
+"4b12b6b2f964a520aa8c23e3","St. Mark's Episcopal Church","Professional & Other Places::Spiritual Center::Church",37.43161030294446,-122.12937008151249
+"4b13087ff964a520049323e3","Addison Elementary School","Professional & Other Places::School::Elementary School",37.44561104050617,-122.15090733728674
+"4b14503ff964a520fea023e3","Restoration Hardware - Palo Alto","Shop & Service::Furniture / Home Store",37.44587125,-122.16174
+"4b146d6af964a520fca223e3","Rojoz Gourmet Wraps","Food::Burrito Place",37.41924462382113,-122.11040775047258
+"4b159d50f964a5202fb123e3","Downtown Branch Library","Professional & Other Places::Library",37.44381886751997,-122.1592737662713
+"4b15a591f964a520b9b123e3","US Post Office","Professional & Other Places::Post Office",37.45159864425659,-122.1249407529831
+"4b15bd38f964a5208ab323e3","HP Headquarters","Professional & Other Places::Building",37.41523196148408,-122.14625358581543
+"4b16cd3ef964a520afbd23e3","Tootsies","Food::Italian Restaurant",37.437224,-122.173211
+"4b16cd91f964a520b7bd23e3","HP Labs","Professional & Other Places::Office",37.41185740649603,-122.14969754219055
+"4b16def8f964a520b9be23e3","McClatchy Hall","College & University::College Academic Building::College Communications Building",37.42828562619893,-122.16914892196655
+"4b177345f964a520a0c523e3","Schwab Residential Center","College & University::College Residence Hall",37.42651823417454,-122.16164108706907
+"4b181bf1f964a5200dcd23e3","Cubberley Café","College & University::College Cafeteria",37.42672395451706,-122.16833250608417
+"4b186101f964a520c8d123e3","DS Newman Salon","Shop & Service::Salon / Barbershop",37.434285,-122.129144
+"4b1adda2f964a52089f323e3","Sephora","Shop & Service::Cosmetics Shop",37.44222292776141,-122.17247486114502
+"4b1aef80f964a52004f523e3","Lucy","Shop & Service::Clothing Store::Women's Store",37.443864,-122.17155
+"4b1c3b82f964a520bf0424e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",37.4382021633725,-122.15822696685791
+"4b1d6754f964a5200f1024e3","Stanford Blood Center","Professional & Other Places::Medical Center::Hospital",37.40624270455774,-122.14498557530983
+"4b1d6b76f964a520491024e3","Han Fine Korean Cuisine & More","Food::Korean Restaurant",37.447737,-122.159844
+"4b1d6d85f964a520641024e3","Peery Foundation","Professional & Other Places::Office",37.448184,-122.12125
+"4b1ec667f964a5205c1f24e3","Babbo's Mediterranean Bistro","Food::Italian Restaurant",37.44275467875742,-122.17266202596164
+"4b1ecbeff964a520a71f24e3","Wealthfront","Professional & Other Places::Office::Tech Startup",37.443422,-122.160395
+"4b201476f964a520f12c24e3","Koret Pavillion","College & University::Student Center",37.42211292085477,-122.16813847742449
+"4b20409af964a520662f24e3","Palo Alto Police Department","Professional & Other Places::Government Building::Police Station",37.44410102369628,-122.15971729638015
+"4b217b8ff964a5208d3c24e3","WePay HQ","Professional & Other Places::Office::Tech Startup",37.42266508062309,-122.13788235860135
+"4b2289e8f964a5209e4824e3","Tesla Motors HQ","Professional & Other Places::Office::Tech Startup",37.394129974884336,-122.15024471282959
+"4b22b37af964a520104c24e3","Subway","Food::Sandwich Place",37.42614709418629,-122.1447890996933
+"4b22d2c7f964a5203a4e24e3","Cibo Restaurant & Bar","Food::Mediterranean Restaurant",37.4194005914162,-122.135503425
+"4b23ea3af964a520c75c24e3","Women's Club of Palo Alto","Professional & Other Places::Event Space",37.44590652799612,-122.15589178909653
+"4b240b86f964a520cd5f24e3","US Post Office- Cambridge Station","Professional & Other Places::Post Office",37.42869444662945,-122.14395422394105
+"4b248264f964a5203f6824e3","Blockbuster - Palo Alto","Shop & Service::Video Store",37.415502,-122.12880849838257
+"4b2555cbf964a5203a7024e3","Palo Alto Hills Golf & Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",37.37393648446696,-122.1718803969856
+"4b26aaf9f964a520307f24e3","Café Venetia","Food::Coffee Shop",37.44338141300074,-122.16496467590332
+"4b27b24ff964a520a78824e3","Stanford Medicine Imaging Center","Professional & Other Places::Medical Center::Hospital",37.42525237,-122.144343
+"4b292743f964a520dc9924e3","K9 Ventures","Professional & Other Places::Building",37.44870510351263,-122.1590530872345
+"4b294e55f964a520a89c24e3","Russo Café","College & University::College Cafeteria",37.42299,-122.167448
+"4b2a65e1f964a52055a824e3","Stanford Federal Credit Union","Shop & Service::Bank",37.42920577257065,-122.15595245361328
+"4b2af448f964a520cbb224e3","La Strada","Food::Italian Restaurant",37.44637446666667,-122.161229
+"4b2baf67f964a5201cb924e3","Waverley Surgery Center","Professional & Other Places::Medical Center",37.445652366666664,-122.15743201
+"4b2baf9ff964a52023b924e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.44733987,-122.125978
+"4b2be61ef964a52042bd24e3","Baja Fresh Mexican Grill","Food::Mexican Restaurant",37.41564649,-122.12889969348907
+"4b2d287cf964a520c2cf24e3","Footwear etc.","Shop & Service::Clothing Store::Shoe Store",37.44801607,-122.15974213
+"4b2d5b94f964a520fed424e3","Carlsen Volvo","Shop & Service::Car Dealership",37.4110899989207,-122.12429012268639
+"4b2d911ef964a520fdd824e3","Palantir Finance HQ","Professional & Other Places::Office::Tech Startup",37.44414,-122.163164
+"4b2da5c4f964a520f9d924e3","Banana Republic","Shop & Service::Clothing Store",37.44293846488013,-122.17165946960449
+"4b2e74abf964a52073e024e3","St. Michael's Alley Annex","Food::American Restaurant",37.442161560058594,-122.15897369384766
+"4b2e75cef964a52088e024e3","Oshman Family JCC","Shop & Service::Gym / Fitness Center",37.42359952015076,-122.10278034210205
+"4b2eace6f964a520cbe424e3","Stanford Grill @Stanford Golf Course","Food::American Restaurant",37.421417236328125,-122.18402099609375
+"4b2ebfeef964a52023e624e3","Kiehl's","Shop & Service::Cosmetics Shop",37.44274318170348,-122.17198017972451
+"4b2f1a77f964a52088e924e3","Bell's Book Store","Shop & Service::Bookstore",37.44432,-122.16216834
+"4b3142f9f964a520750325e3","Peninsula Pediatric Dentistry","Professional & Other Places::Medical Center::Dentist's Office",37.441555,-122.1583
+"4b327498f964a520350c25e3","Mike's Cafe","Food::American Restaurant",37.43344598,-122.130027
+"4b3284a0f964a520a30d25e3","Happy Feet Foot Spa","Shop & Service::Spa / Massage",37.417982,-122.1319842338562
+"4b3284b3f964a520a40d25e3","Sam Samudio & Associates","Professional & Other Places::Medical Center::Dentist's Office",37.43824,-122.175284
+"4b3297d1f964a520740f25e3","Foothill College - Middlefield Campus","College & University::Community College",37.41709766572299,-122.1080282116578
+"4b32b2a6f964a520201225e3","Macy's Mens Store","Shop & Service::Department Store",37.44489763863941,-122.1717882156372
+"4b32d4e3f964a520af1425e3","Sur La Table","Shop & Service::Food & Drink Shop::Gourmet Shop",37.43814806666666,-122.16024935245514
+"4b3300cbf964a520f01625e3","Pizz'a Chicago","Food::Pizza Place",37.414330066896106,-122.12602598702675
+"4b33bfecf964a520731e25e3","Dr. Edith Eugenie Johnson Park","Outdoors & Recreation::Park",37.44962325888747,-122.16371452901298
+"4b33ee4ff964a520342225e3","Coach","Shop & Service::Clothing Store::Women's Store",37.442124,-122.1723862
+"4b38109bf964a520164b25e3","Mandarin Gourmet","Food::Chinese Restaurant",37.445703,-122.163125
+"4b38ed4ff964a520655225e3","Designer's Tailoring","Shop & Service::Miscellaneous Shop",37.427143,-122.148114
+"4b3923def964a520035725e3","Howard's Shoes for Children","Shop & Service::Clothing Store::Shoe Store",37.442695694124666,-122.17108011245728
+"4b3a7bfef964a5205b6825e3","Title Nine","Shop & Service::Clothing Store::Women's Store",37.443936,-122.161447
+"4b3bc6aaf964a520ec7a25e3","Uptake HQ","Professional & Other Places::Office::Tech Startup",37.442633,-122.161603
+"4b3bc94ef964a520307b25e3","Teavana","Shop & Service::Food & Drink Shop",37.44401794278005,-122.17060538716923
+"4b3be870f964a520137e25e3","City of Palo Alto Animal Services","Professional & Other Places::Animal Shelter",37.437806725502014,-122.109921
+"4b3cfeeef964a5206f8b25e3","Patagonia","Shop & Service::Clothing Store",37.443107322698694,-122.16297
+"4b3d33f1f964a5202b9025e3","La Baguette","Food::Bakery",37.443001,-122.171823
+"4b3f925ff964a52058a925e3","Juut SalonSpa","Shop & Service::Spa / Massage",37.445192,-122.162046
+"4b3faabdf964a520a7ab25e3","Hlaska","Shop & Service::Clothing Store::Men's Store",37.444315,-122.17067778110504
+"4b4026cdf964a52047b625e3","ARCO","Shop & Service::Gas Station / Garage",37.41611818304167,-122.10389614105225
+"4b40ffadf964a52016bf25e3","Ambassador Toys","Shop & Service::Toy / Game Store",37.438544,-122.159469
+"4b4112ebf964a5208fc025e3","Teuscher Cafe","Food::Café",37.442800998687744,-122.171911
+"4b411bc7f964a5204bc125e3","Gap Kids/Baby/Maternity","Shop & Service::Clothing Store::Kids Store",37.44245718173817,-122.17111766338348
+"4b428be1f964a52030d625e3","VMware Gym","Shop & Service::Gym / Fitness Center::Gym",37.40060582752576,-122.14354944355676
+"4b42a2aaf964a520e8d725e3","Palo Alto Little League","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.423125,-122.113998
+"4b43bbaff964a520e8e725e3","Ralph Lauren","Shop & Service::Clothing Store",37.444518,-122.17130541801453
+"4b43da03f964a52004ec25e3","VTA Rapid 522 Bus","Travel & Transport::Bus Station",37.40936900089054,-122.12213516235352
+"4b43e8c7f964a520c9ed25e3","Paul's European Cobblery","Shop & Service::Clothing Store::Shoe Store",37.426488,-122.144782
+"4b4641acf964a520b21b26e3","The Bar Method - Palo Alto","Shop & Service::Gym / Fitness Center::Gym",37.43887057636556,-122.15844214239107
+"4b4674fcf964a520a42126e3","Palo Alto City Library - Main","Professional & Other Places::Library",37.445245764184016,-122.13917439146051
+"4b46846cf964a520362326e3","My Gym","Shop & Service::Gym / Fitness Center::Gym",37.434013,-122.12970435619354
+"4b468c17f964a520fd2326e3","Jive Software","Professional & Other Places::Office::Tech Startup",37.442851,-122.159465
+"4b47b576f964a5205e3b26e3","FanSnap.com","Professional & Other Places::Office",37.44588825758074,-122.16716832887508
+"4b47ce7ef964a520863f26e3","HSBC Bank","Shop & Service::Bank",37.449230862111236,-122.158387
+"4b483d51f964a520834a26e3","Taco Bell","Food::Taco Place",37.42162622138096,-122.10085599833096
+"4b48d079f964a5203e5826e3","Bale Hair & Nails","Shop & Service::Salon / Barbershop",37.432593123571955,-122.12848276968877
+"4b49579df964a520df6d26e3","Foothills Tennis & Swimming Club","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.4054468039408,-122.1476748053098
+"4b4a2271f964a520d27b26e3","Peninsula Beauty","Shop & Service::Cosmetics Shop",37.44536,-122.162065
+"4b4a31f2f964a5203a7e26e3","Bosch Healthcare/Health Hero","Professional & Other Places::Office",37.451485991477966,-122.1223497390747
+"4b4a66dff964a520878626e3","University Art","Shop & Service::Arts & Crafts Store",37.444651,-122.16092
+"4b4a8345f964a520a68926e3","The Body Shop","Shop & Service::Cosmetics Shop",37.44427,-122.170637
+"4b4bf3d1f964a52000ac26e3","Terman Middle School","Professional & Other Places::School::Middle School",37.40342887666431,-122.12724208831787
+"4b4d301df964a520bacd26e3","Pillsbury Winthrop","Professional & Other Places::Office",37.41902885666781,-122.14915523936801
+"4b4d3bd9f964a520f1ce26e3","PARC (Palo Alto Research Center)","Professional & Other Places::Office",37.40243147838405,-122.14820709854915
+"4b4e5a5df964a52083ea26e3","Margaret Jacks Hall","College & University::College Academic Building",37.42863217964974,-122.17032266555314
+"4b4e959ff964a5201af226e3","Varian Medical Systems, Inc.","Professional & Other Places::Office",37.4165627797739,-122.14381560069292
+"4b4f5ae3f964a520d30227e3","Lucas Center for Magnetic Resonance Spectroscopy & Imaging","College & University::College Academic Building",37.43304687415111,-122.17923635392029
+"4b4f82aaf964a5207b0927e3","Cafe Piazza","Food::Deli / Bodega",37.42054061272713,-122.14223027229309
+"4b4fabacf964a520211027e3","Lemon HQ","Professional & Other Places::Office",37.446616,-122.160768
+"4b4fc886f964a520441527e3","Herrin Labs","College & University::College Academic Building::College Science Building",37.430442,-122.170954
+"4b4fcbf0f964a520c21527e3","di Pietro Todd","Shop & Service::Cosmetics Shop",37.427963,-122.144646
+"4b50b2d1f964a5201d2e27e3","Palo Alto Central Nails","Shop & Service::Nail Salon",37.42831193279357,-122.14277869314314
+"4b51866bf964a520f34e27e3","The Café at the Arrillaga Alumni Center","Food::Café",37.430798962228586,-122.16467499732971
+"4b5228bef964a520596c27e3","White House Black Market","Shop & Service::Clothing Store::Women's Store",37.4441199814334,-122.171736266199
+"4b523a4df964a520257127e3","Steuber Rugby Stadium","College & University::College Stadium",37.43159379136957,-122.15649057312334
+"4b5282d6f964a520888027e3","Parker Palo Alto","::Residence",37.44433155512719,-122.12041344312948
+"4b53906df964a52088a227e3","Empire Vintage","Shop & Service::Thrift / Vintage Store",37.44753818297062,-122.1609091758728
+"4b54c97ff964a52070cc27e3","Shell","Shop & Service::Gas Station / Garage",37.444521,-122.165394
+"4b54dd3bf964a52052d027e3","VMware Cafe","Professional & Other Places::Office::Cafeteria",37.402040021224025,-122.14390986452105
+"4b562960f964a520200328e3","Red Door Movies","Arts & Entertainment::General Entertainment",37.4271689666667,-122.1491728
+"4b57ae50f964a5207d3b28e3","Barbeques Galore Palo Alto","Shop & Service::Furniture / Home Store",37.427308559417725,-122.14905917644501
+"4b57d0e0f964a520774228e3","Dragon Theatre","Arts & Entertainment::Performing Arts Venue::Theater",37.44296777,-122.162679
+"4b57da13f964a520d04328e3","VA Palo Alto Health Care System","Professional & Other Places::Medical Center::Hospital",37.404204443285835,-122.14030981063843
+"4b588f07f964a520f75d28e3","Chevron Station","Shop & Service::Gas Station / Garage",37.41723301525131,-122.1300232
+"4b58ca9ef964a520706b28e3","Monique's Chocolates","Food::Dessert Shop",37.445502,-122.160753
+"4b5912b9f964a5203e7b28e3","School of Education","College & University::College Academic Building",37.426412,-122.168233
+"4b5a00d9f964a5200da728e3","Montag Hall","College & University::College Administrative Building",37.42956,-122.164633
+"4b5a0da3f964a5204aaa28e3","Peninsula Creamery","Food::Diner",37.44382858276367,-122.17015838623047
+"4b5a1322f964a520a9ab28e3","Pinkberry","Food::Dessert Shop",37.44413952966084,-122.17085480690002
+"4b5a2fa9f964a520d0b228e3","Palo Alto Coffee Roasting Company","Food::Coffee Shop",37.434094,-122.129781
+"4b5a4684f964a52066b928e3","Jiffy Lube","Shop & Service::Automotive Shop",37.410847,-122.123225
+"4b5a6cd8f964a52063c428e3","Otero House","College & University::College Residence Hall",37.423646382663094,-122.16376841068268
+"4b5b7ab9f964a5205c0129e3","A Dog's Life","Outdoors & Recreation::Dog Run",37.422661,-122.10033416748047
+"4b5df1d1f964a520437529e3","The Quad","College & University::College Quad",37.42746770881841,-122.17041492462158
+"4b5f2ff0f964a520dcab29e3","Silicon Valley Bank","Shop & Service::Bank",37.41234779753665,-122.1510126840382
+"4b5f5eb8f964a5207eb629e3","Abundant Air Cafe","Food::Café",37.454272,-122.115204
+"4b5ff1d0f964a52057d129e3","Baumé","Food::Gastropub",37.42822066173368,-122.14308589696884
+"4b60757ff964a5203be729e3","Blippy HQ","Professional & Other Places::Office::Tech Startup",37.425604,-122.143833
+"4b60c15cf964a5208cf729e3","Bank of the West","Shop & Service::Bank",37.42635615,-122.14477837085724
+"4b634daaf964a520dc702ae3","Bryant Street Gallery","Arts & Entertainment::Art Gallery",37.445608,-122.161162
+"4b6378aaf964a520757c2ae3","Fairmeadow Elementary","Professional & Other Places::School::Elementary School",37.42198679176804,-122.11642569770262
+"4b639e0bf964a52057872ae3","HP Garage - Birthplace of Silicon Valley","Arts & Entertainment::Historic Site",37.442873536871545,-122.15452233533316
+"4b649e2df964a520a1c22ae3","SliderBar Cafe","Food::Burger Joint",37.446284,-122.161204
+"4b65f34ff964a520830a2be3","Dinah's Poolside Grill","Food::Breakfast Spot",37.4078451,-122.12006165
+"4b6639b5f964a520bb192be3","Stern Dining Hall","College & University::College Cafeteria",37.424330145984214,-122.1656459569931
+"4b670618f964a5208e352be3","Blake Wilbur Building - Stanford Hospital and Clinics","Professional & Other Places::Medical Center::Doctor's Office",37.435381385368224,-122.17694702566386
+"4b671412f964a520e7382be3","Globespan Capital Partners","Professional & Other Places::Office",37.445115,-122.16022422500001
+"4b67ab43f964a520385a2be3","Stanford University Medical Center","Professional & Other Places::Medical Center::Hospital",37.43337037201204,-122.17572750885947
+"4b6b51b4f964a520a0002ce3","Stanford GSB - Knight Bldg","College & University::College Academic Building",37.428077894711265,-122.16316013668472
+"4b6b659ff964a52000062ce3","Massage Therapy Center","Shop & Service::Spa / Massage",37.426842,-122.14447
+"4b6b80b1f964a520c20c2ce3","Shopkick","Professional & Other Places::Office::Tech Startup",37.446416,-122.159542
+"4b6c459bf964a520fa2c2ce3","HP Building 3","Professional & Other Places::Office",37.4116358394863,-122.14863538742065
+"4b6d0c31f964a520ad642ce3","naan studio Inc.","Professional & Other Places::Office::Tech Startup",37.407347,-122.118039
+"4b6f19a4f964a520f1dc2ce3","Robles Park","Outdoors & Recreation::Park",37.415628,-122.121939
+"4b6f50fdf964a520ebea2ce3","Jack in the Box","Food::Fast Food Restaurant",37.4174058437347,-122.130610942841
+"4b706a51f964a52006192de3","Varian Cafe","Shop & Service::Food & Drink Shop::Food Court",37.416533592153236,-122.14368252220699
+"4b709470f964a5202d232de3","Addison Avenue Federal Credit Union","Shop & Service::Bank",37.4112206697464,-122.148106
+"4b72e92bf964a520108f2de3","Valero","Shop & Service::Gas Station / Garage",37.41667091846466,-122.103617
+"4b743a06f964a5204fce2de3","Sports Cafe","Food::American Restaurant",37.42985327620073,-122.16194987297058
+"4b75b96df964a520f71f2ee3","Better Place","Professional & Other Places::Office::Tech Startup",37.394414,-122.146995
+"4b75cd31f964a520c0252ee3","Chase Bank","Shop & Service::Bank",37.44519039173435,-122.16007766324779
+"4b75d69ef964a5206a282ee3","Tiffany & Co.","Shop & Service::Jewelry Store",37.44296934276308,-122.17216865797869
+"4b771d48f964a520d37e2ee3","Irontail Cafe","Food::Coffee Shop",37.423294,-122.137643
+"4b77a8caf964a520e9a52ee3","Branner Hall","College & University::College Residence Hall",37.425418616146146,-122.16287791728973
+"4b789023f964a52002d72ee3","Byxbee Park","Outdoors & Recreation::Park",37.451183684561606,-122.10741519927979
+"4b78aad5f964a520fddc2ee3","Space Systems Loral","Professional & Other Places::Office",37.4272291478991,-122.10428237915
+"4b7b12aef964a520d24f2fe3","Chase Bank","Shop & Service::Bank",37.4324021987459,-122.128066839761
+"4b7b1799f964a52005512fe3","Stanford Federal Credit Union","Professional & Other Places::Office",37.4523079622916,-122.115054130554
+"4b7b5b35f964a520b65f2fe3","Cooley LLP","Professional & Other Places::Office",37.4143507892941,-122.141852676366
+"4b7cace1f964a5209ea02fe3","Stanford Hospital Emergency Department","Professional & Other Places::Medical Center::Emergency Room",37.434385644791455,-122.17462062835693
+"4b7ceb1ef964a52035a92fe3","Falk Cardiovascular Medicine Research Center","College & University::College Lab",37.4333628,-122.175569966667
+"4b7da6e5f964a5205ccc2fe3","Burberry","Shop & Service::Clothing Store::Boutique",37.44303278473434,-122.1717584401789
+"4b7db4b8f964a52091cf2fe3","Indochine","Food::Thai Restaurant",37.43325537,-122.129396
+"4b7dbe37f964a520d1d12fe3","Edwards Building- Stanford University","College & University::College Academic Building",37.43258786138914,-122.17644813409854
+"4b7dc45ff964a5205fd32fe3","Crossroads World Market","Shop & Service::Food & Drink Shop::Grocery Store",37.417191,-122.102591
+"4b803172f964a520155b30e3","Bose","Shop & Service::Electronics Store",37.44309,-122.172108
+"4b81ba19f964a5204bba30e3","Premier","Shop & Service::Clothing Store::Shoe Store",37.444836,-122.161634
+"4b8321f0f964a52097f930e3","SummerWinds Nursery","Shop & Service::Flower Shop",37.41717481811686,-122.10381031036377
+"4b8330cdf964a520a9fc30e3","All Saints Episcopal Church","Professional & Other Places::Spiritual Center::Church",37.44683788110021,-122.15920723659733
+"4b833ab9f964a5205bfe30e3","Fountain Grill","Food::American Restaurant",37.4438309669495,-122.17014
+"4b83fdb0f964a520fa1931e3","Union Bank Mid-Peninsula","Shop & Service::Bank",37.44704575512325,-122.1601109278209
+"4b859030f964a520a36531e3","Mary L. Johnson Pediatric Ambulatory Care Center","Professional & Other Places::Medical Center",37.437720849767324,-122.17441141605377
+"4b85c91ff964a520e07231e3","The Market at Munger","Shop & Service::Food & Drink Shop::Grocery Store",37.42296246637736,-122.16739562160595
+"4b880164f964a52068d831e3","Enterprise Rent-a-Car","Travel & Transport::Rental Car Location",37.42075113116822,-122.10159931243375
+"4b881f35f964a52057e131e3","Page Mill YMCA","Shop & Service::Gym / Fitness Center::Gym",37.419697048030535,-122.1425199508667
+"4b8a1a32f964a520166032e3","Triangulate HQ","Professional & Other Places::Office::Tech Startup",37.42808114769156,-122.14324951171875
+"4b8bf46ef964a52081b432e3","Cowper Inn","Travel & Transport::Hotel",37.44683165436088,-122.1563907760168
+"4b8c20abf964a5209dbf32e3","SAP Labs Bldg 3","Professional & Other Places::Office",37.3969865310931,-122.144774869918
+"4b8c7552f964a520c9d132e3","Portola Pastures","Outdoors & Recreation::Farm",37.38702130639952,-122.18133717154885
+"4b8d3e81f964a52088ef32e3","Auditude HQ Palo Alto","Professional & Other Places::Office",37.444032,-122.161504
+"4b901638f964a520b97433e3","Free People","Shop & Service::Clothing Store",37.44193330364897,-122.17230319976807
+"4b9042ebf964a520ac7f33e3","Boyd & Jill Smith Family Stadium","College & University::College Stadium::College Baseball Diamond",37.4311823450526,-122.157196998596
+"4b90707bf964a520638a33e3","Maloney Field","College & University::College Stadium::College Hockey Rink",37.433039594047614,-122.157883644104
+"4b91e3bef964a520d3dd33e3","Grace Lutheran","Professional & Other Places::Spiritual Center",37.42679,-122.127476
+"4b931eb1f964a520373634e3","Hoya","Food::Tapas Restaurant",37.44569778442383,-122.1617431640625
+"4b940468f964a520ae6134e3","El Camino Park","Outdoors & Recreation::Field",37.44524687726982,-122.16880559921265
+"4b9440bef964a520547134e3","Cocola Bakery","Food::Café",37.44272376666667,-122.172815
+"4b9448c0f964a520df7234e3","Frette","Shop & Service::Furniture / Home Store",37.44189178032088,-122.17200235365392
+"4b955e98f964a520e49e34e3","Good Earth Fresh Deli","Food::Deli / Bodega",37.415023,-122.150057
+"4b957060f964a520a5a234e3","Nine West","Shop & Service::Clothing Store::Shoe Store",37.443179,-122.171474
+"4b9617a0f964a5207fbc34e3","The Zen Hotel","Travel & Transport::Hotel",37.411983871437236,-122.1252717490801
+"4b968895f964a520bfd234e3","Silicon Valley Bank - Hanover Office","Professional & Other Places::Office",37.41857228032001,-122.15045928955078
+"4b96aa54f964a52089dc34e3","Nova IVF","Professional & Other Places::Medical Center::Doctor's Office",37.43056932579588,-122.15175565293865
+"4b97fd99f964a520792435e3","Innovation Center Denmark","Professional & Other Places::Office::Coworking Space",37.4261582195293,-122.139728907254
+"4b983783f964a520e23435e3","Essex Property Trust","Professional & Other Places::Office::Coworking Space",37.42867589753316,-122.10771759200554
+"4b98405df964a520513735e3","Bare Escentuals","Shop & Service::Cosmetics Shop",37.4436122105645,-122.172007897136
+"4b98710ff964a520684235e3","Juana Briones Elementary School","Professional & Other Places::School::Elementary School",37.40727815068322,-122.13011319955268
+"4b993458f964a520926935e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.425855843328236,-122.14749737364569
+"4b99407af964a520a46d35e3","Palo Alto High School - Haymarket Theater","Arts & Entertainment::Performing Arts Venue::Theater",37.43691370541653,-122.15752734870192
+"4b9c47fff964a520955b36e3","First Congregational Church","Professional & Other Places::Spiritual Center::Church",37.44420421125459,-122.13298025627853
+"4b9c4c87f964a520415d36e3","RadioShack","Shop & Service::Electronics Store",37.425467694437245,-122.14603355126923
+"4b9d8598f964a520b6b136e3","Stanford Soccer Fields","College & University::College Stadium::College Soccer Field",37.43203869001217,-122.1548716308627
+"4b9defdff964a52072c336e3","Facebook 1050 Building 2","Professional & Other Places::Office::Tech Startup",37.41913657,-122.147039
+"4b9e97c3f964a52043f236e3","Palo Alto University","College & University::University",37.3821129977999,-122.187221987653
+"4b9ecceff964a520e90237e3","Williams-Sonoma","Shop & Service::Furniture / Home Store",37.443142492908564,-122.17225735351336
+"4b9f0765f964a520c01037e3","Greer Park","Outdoors & Recreation::Park",37.442848969344716,-122.1189437070717
+"4b9fc640f964a520703d37e3","SecondMarket","Professional & Other Places::Office::Tech Startup",37.447193,-122.163163
+"4ba0067df964a520625337e3","Lulu's Mexican Take Out Restaurant","Food::Mexican Restaurant",37.438287,-122.16038
+"4ba0141ff964a520265837e3","Henry W. Seale Park","Outdoors & Recreation::Park",37.435877988283224,-122.11834471456677
+"4ba0cb88f964a520147e37e3","Rains Apartments","College & University::College Residence Hall",37.42127224212431,-122.15832017034835
+"4ba12927f964a520979d37e3","Bay Cafe & Deli","Food::Café",37.453789,-122.115812
+"4ba1456ff964a520e8a737e3","Darshana Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.442966,-122.161719
+"4ba3cd12f964a520f86038e3","SAP Building 1 Cafeteria","Professional & Other Places::Office::Cafeteria",37.39876912140571,-122.14654367344556
+"4ba40dfaf964a520777c38e3","CafeX","Shop & Service::Food & Drink Shop::Food Court",37.416044,-122.152071
+"4ba5671bf964a520a50339e3","Rocket","Shop & Service::Cosmetics Shop",37.441206,-122.157189
+"4ba7016ff964a5204d7c39e3","Russian Ridge Open Space Preserve","Outdoors & Recreation::Hiking Trail",37.31529445440705,-122.18861103057861
+"4ba80460f964a520a8c639e3","Stanford University Hospital Cafeteria- Starbucks & Mrs. Fields Coffee Stand","College & University::College Cafeteria",37.43452153147709,-122.17550023374324
+"4ba8e7fbf964a520d7f839e3","Cloudflare","Professional & Other Places::Office::Tech Startup",37.44420838333333,-122.16213573333333
+"4ba96c71f964a5204e263ae3","Lantana House","College & University::College Residence Hall",37.42566996317143,-122.16066241264343
+"4baa7302f964a520486b3ae3","Andronico's","Shop & Service::Food & Drink Shop::Grocery Store",37.438541,-122.17227421666666
+"4baa81acf964a520ee6f3ae3","American Apparel","Shop & Service::Clothing Store",37.444364,-122.162956
+"4baa87e5f964a5200a723ae3","Lytton Gardens","Professional & Other Places::Building",37.45021790201105,-122.15816493300319
+"4babd2a7f964a5208ecc3ae3","HP Building 5","Professional & Other Places::Office",37.41130348774292,-122.14769124984741
+"4babdf59f964a520f3d03ae3","Purple Parking Garage","Professional & Other Places::Parking",37.44387,-122.162888
+"4babeedff964a520b8d63ae3","Arizona Cactus Garden","Outdoors & Recreation::Garden",37.43591057176686,-122.17108011245728
+"4babf45ef964a520dcd83ae3","Janie and Jack","Shop & Service::Clothing Store::Kids Store",37.4427915119246,-122.17088810804192
+"4bac08d8f964a520a8df3ae3","Gordon Biersch Brewery Restaurant","Food::Brewery",37.4433779,-122.16098427772522
+"4bacbb42f964a520a1073be3","Super 8 Motel","Travel & Transport::Hotel::Motel",37.420523,-122.13871
+"4bad37bff964a520703a3be3","Garden Fresh Vegan Cuisine","Food::Chinese Restaurant",37.445596,-122.16268
+"4bad3bf8f964a520523c3be3","Victoria's Secret","Shop & Service::Clothing Store::Lingerie Store",37.441866,-122.17221703343317
+"4bad719af964a52072513be3","Kirk's Steakburger","Food::Burger Joint",37.438017,-122.15941786766052
+"4bae9e0ff964a52040c73be3","Kim's Nail Salon","Shop & Service::Nail Salon",37.44425550904594,-122.16201807948529
+"4bafc6a3f964a520e71f3ce3","Nordstrom cafe","Food::American Restaurant",37.439125061035156,-122.17366790771484
+"4bafe179f964a5207b283ce3","Frog Fountain","Outdoors & Recreation::Plaza",37.441979,-122.172391
+"4bb0d978f964a5200b633ce3","Coupa Café at Green Library","Food::Café",37.426125,-122.167036
+"4bb287f4eb3e95218b2bca0a","Delight","Shop & Service::Hardware Store",37.416563630104065,-122.1046793460846
+"4bb2cbd742959c74d157212c","JL Stanford Middle School","Professional & Other Places::School::Middle School",37.42070617821446,-122.11810067963137
+"4bb3662ba32876b0809e01fe","mopay","Professional & Other Places::Office",37.439108,-122.158118
+"4bb39a994019a593282d38b8","Wells Fargo","Shop & Service::Bank",37.42475829366975,-122.14596390724182
+"4bb3a32414cfd13a175516ab","Crepevine","Food::Restaurant",37.446926645489896,-122.1608538339413
+"4bb3a65835f0c9b694b0bc83","SAP Labs Building 2","Professional & Other Places::Office",37.3980678724876,-122.145116329193
+"4bb4b3cef1b976b0ba2c1f20","Townsend and Townsend and Crew","Professional & Other Places::Office",37.44797,-122.161987
+"4bb4c6e986a8d13a9cd6de7f","Ford Plaza","Outdoors & Recreation::Plaza",37.429471779770644,-122.1640970580538
+"4bb53aa66edc76b08e7a2f1c","SAP Labs Bldg 1","Professional & Other Places::Office",37.405619,-122.154992222786
+"4bb58cba6edc76b0aae22f1c","Moxsie Street Eats","Food::Food Truck",37.446186,-122.167336
+"4bb6566ef562ef3b50003097","Silicon Valley Bank SVB","Shop & Service::Bank",37.421497,-122.142344
+"4bb7792dcf2fc9b6c43c9e02","Greenmeadow Pool","Outdoors & Recreation::Pool",37.414549956451225,-122.1126319340491
+"4bb7aa551261d13aa5aae798","Michael Kors - Stanford Shopping Center","Shop & Service::Clothing Store",37.4432036184486,-122.171475721595
+"4bb7b2421261d13a5ab9e798","Lux Eyewear","Professional & Other Places::Medical Center::Optical Shop",37.42941806851202,-122.15059129641422
+"4bba37137421a5931389c340","Stanford @ Porter Drive","Professional & Other Places::Office",37.40871544853102,-122.15114575347174
+"4bbb69fc1261d13a9aa5eb98","Gentle Dental Palo Alto","Professional & Other Places::Medical Center::Dentist's Office",37.418927,-122.11011350154877
+"4bbb8c9ae45295210cd654a4","BenchPress","Professional & Other Places::Office",37.416354,-122.147966
+"4bbca18ba8cf76b035b4b0fd","Jungle Digital Imaging","Professional & Other Places::Building",37.4440673224873,-122.162195487224
+"4bbe7ce185fbb71391ea7067","Hewlett Auditorium","College & University::College Auditorium",37.429256,-122.172878
+"4bbf81bab492d13a59c4a260","Parc Auditorium","Professional & Other Places::Auditorium",37.40244553524761,-122.14819600913351
+"4bc0e01a920eb7139bc0192c","Palantir 151 University","Professional & Other Places::Office::Tech Startup",37.444208,-122.163349
+"4bc0e648461576b02f037b32","Town & Country Village","Shop & Service::Mall",37.438326196666154,-122.15926822213339
+"4bc212d0b492d13acde5a660","Unitarian Universalist Church of Palo Alto","Professional & Other Places::Spiritual Center",37.41950381393889,-122.11256537560364
+"4bc3db31dce4eee1dac7719d","Holiday Inn Express Hotel & Suites Mountain View (Palo Alto Area)","Travel & Transport::Hotel",37.41077995035622,-122.12361906222037
+"4bc3fd77b492d13aa18fa960","Advantage Aviation","Travel & Transport::Airport",37.45392590346073,-122.11432916056316
+"4bc49905abf49521563ec593","GameStop","Shop & Service::Video Game Store",37.44672018011778,-122.16050455782195
+"4bc4b172abf49521f369c593","TCV","Professional & Other Places::Office",37.444405,-122.162578
+"4bc4c03e461576b0c2648032","Stanford University - Division of General Surgery","College & University::College Academic Building",37.43736523333333,-122.172441
+"4bc4e4d0f8219c74690eb810","Stanford IT","Professional & Other Places::Office",37.4175439077014,-122.151129119802
+"4bc586084a9aa5935694067b","Olark Offices","Professional & Other Places::Office::Tech Startup",37.447345,-122.16497513333333
+"4bc629de4241952104b2031d","Walgreens","Shop & Service::Drugstore / Pharmacy",37.445689811724414,-122.16156899929047
+"4bc76f5e0050b7135db1b83b","Osteria","Food::Italian Restaurant",37.4444811,-122.1609848
+"4bc8b03d92b376b0def6513a","Express","Shop & Service::Clothing Store::Women's Store",37.4429,-122.17094
+"4bc8e4350687ef3b25d8d8cc","Baylands Nature Preserve","Outdoors & Recreation::Park",37.45534868616926,-122.10815578732799
+"4bc8f715511f952169d0acc7","Alain Pinel Realtors","Shop & Service::Bank",37.449166,-122.158223
+"4bcb806c511f9521fda2b1c7","Lucy Evans Nature Center","Outdoors & Recreation::Other Great Outdoors",37.45944903837195,-122.10589823041643
+"4bcc87d70687ef3ba761dfcc","Norwest Venture Partners","Professional & Other Places::Office",37.4486921133877,-122.159096353716
+"4bcc8930cc8cd13a7a12c1cf","FedEx Office Ship Center","Shop & Service::Paper / Office Supplies Store",37.421581431881215,-122.1411983603148
+"4bcca57568f976b05e006383","Tomorrow Ventures","Professional & Other Places::Office",37.446995,-122.162513136864
+"4bccceca8920b71325c99edc","University Chiropractic","Professional & Other Places::Medical Center::Doctor's Office",37.4453002925761,-122.16069860025
+"4bcd4d66937ca593e4a4ac92","Delta Delta Delta (ΔΔΔ)","College & University::Sorority House",37.42197209470951,-122.1616280078888
+"4bcde4c2511f9521d660b5c7","AJ's Cleaners","Shop & Service::Laundry Service",37.42651346058034,-122.14455842971802
+"4bce0477c564ef3b6b80edf0","Facebook","Professional & Other Places::Office",37.41599385,-122.15251588333334
+"4bcf421a0ffdce72e051b2c0","Best Western Riviera Hotel","Travel & Transport::Hotel",37.447005967813006,-122.17231278818538
+"4bd06a4c9854d13a6a9ef74d","Peninsula Grille Creamery","Food::American Restaurant",37.44392395019531,-122.16163635253906
+"4bd0aa3d41b9ef3b9b8efae5","Valero","Shop & Service::Gas Station / Garage",37.41608833566067,-122.12897079209438
+"4bd0eca1a8b3a593cffa645f","Jos. A. Bank Clothiers Inc.","Shop & Service::Clothing Store",37.445564,-122.161783
+"4bd110af41b9ef3b097afbe5","Cafe Renzo","Food::Italian Restaurant",37.448081484628524,-122.15963274526467
+"4bd36a24b221c9b641b8d9d0","Barron Park Garden Railway","Arts & Entertainment::General Entertainment",37.414710129095155,-122.13578069268944
+"4bd46f9a7b1876b0a0f98886","St. Albert the Great Catholic Church","Professional & Other Places::Spiritual Center::Church",37.4491589379093,-122.14515192138056
+"4bd48d406798ef3b62dc618d","Rinconada Pool","Outdoors & Recreation::Pool",37.44389261116599,-122.14081574993655
+"4bd510b74e32d13a186cc080","vance brown","Professional & Other Places::Office",37.424570846228114,-122.13543891906738
+"4bd63862637ba593eeeef770","Purple Zone Parking Lot","Professional & Other Places::Parking",37.44477838605079,-122.16380596160889
+"4bd6df554e32d13a8b37c380","Stanford West Fitness","Shop & Service::Gym / Fitness Center::Gym",37.439079594368685,-122.17858225107193
+"4bd860215cf276b047109d00","Li Ka Shing Center for Learning and Knowledge","College & University::College Academic Building::College Science Building",37.431754220782864,-122.1758396923542
+"4bd9c988e914a59319e957fa","Zimbra","Professional & Other Places::Office",37.400401,-122.14301
+"4bdb235d3904a5932ff1489e","Groupon Palo Alto","Professional & Other Places::Office::Tech Startup",37.42571805235191,-122.14362707278936
+"4bdc8c1bc79cc928771087e9","Baylands Baseball Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",37.453043,-122.121316
+"4bdc96f22a3a0f47ed8ab3b6","Cubberley Football Field","Outdoors & Recreation::Athletic & Sport",37.41608952135145,-122.11770689482344
+"4bdd109fb0f5c9281caa4be3","Stanford EV Studio One","College & University::College Residence Hall",37.423097315628915,-122.15917951588771
+"4bdf0b1bc3392d7f38fe9bd5","Blue White Cleaners","Shop & Service::Laundry Service",37.433231,-122.129291
+"4be0562ef92c20a13628bad3","Stanford Clock Tower","College & University::General College & University",37.42608745297573,-122.16895580291748
+"4be23431d27a20a1df3c8f5b","Paul Brest Hall at Munger","College & University::College Auditorium",37.423181,-122.167201
+"4be253052fc7d13a1a5e083a","The Quad","College & University::College Quad",37.42746770881841,-122.17041492462158
+"4be25689660ec9289065c93b","GENWI","Professional & Other Places::Office::Tech Startup",37.4213173387167,-122.102226133045
+"4be4ce8dbcef2d7fc02703e5","Thai City Restaurant","Food::Thai Restaurant",37.418527,-122.132849
+"4be62b652468c928c3280143","California ave. Cal Train station","Arts & Entertainment::Arcade",37.428916931152344,-122.14070892333984
+"4be6db3e8a8cb7139984c4a0","Abercrombie & Fitch","Shop & Service::Clothing Store",37.443818,-122.17174295336008
+"4be6ea0b2457a593ff44ad15","Classroom 160","College & University::College Academic Building::College Communications Building",37.427893708569165,-122.16221809387207
+"4be864e76af1ef3b96a61b96","Ermenegildo Zegna","Shop & Service::Clothing Store::Men's Store",37.4424709911826,-122.17233496204616
+"4be86de96af1ef3b99a71b96","Ilori - Stanford Shopping Center","Shop & Service::Miscellaneous Shop",37.442982,-122.171514
+"4be880126af1ef3b85a91b96","Max Mara","Shop & Service::Clothing Store::Women's Store",37.44327834920247,-122.17140919946715
+"4bec6d6a976ac928a1fd600b","Addison Elementary School","Professional & Other Places::School::Elementary School",37.44561104050617,-122.15090733728674
+"4bf14f31d258d13a9745f940","Caffe Del Doge","Food::Coffee Shop",37.4437880516052,-122.164914
+"4bf1b3893fa220a1f09a1820","Palo Alto Buddhist Temple","Professional & Other Places::Spiritual Center::Temple",37.43805810541005,-122.12338058518284
+"4bf1b38952bda59342dcb1b7","Palo Alto Buddhist Temple","Professional & Other Places::Spiritual Center::Temple",37.43805810541005,-122.12338058518284
+"4bf1df1c25afb713f5174b6f","Special Collections & University Archives, Green Library","College & University::University",37.42691390551847,-122.16759324073792
+"4bf33b9198ac0f471fb562a8","Häagen-Dazs","Food::Ice Cream Shop",37.44481,-122.16268496666666
+"4bf40ab3706e20a110d9a898","Dr. Nakamitsu DDS","Professional & Other Places::Medical Center::Dentist's Office",37.432991,-122.129113
+"4bf41ce86a31d13a675d952e","Bosch Research & Technology Center","Professional & Other Places::Office",37.4007298332075,-122.13735001438
+"4bf46c5b98ac0f47dcfd63a8","DayOne","Shop & Service::Miscellaneous Shop",37.43874736442502,-122.15848445892334
+"4bf4ba2b370e76b06a98bd4a","Giants Dugout - Stanford","Shop & Service::Sporting Goods Shop",37.44443766332167,-122.17092990875244
+"4bf55c0e706e20a16e58aa98","SolutionSet","Professional & Other Places::Office::Tech Startup",37.445274,-122.166792
+"4bf58ef25e800f474ab6e5d4","Uzumaki","Food::Sushi Restaurant",37.425716824387884,-122.14513376355171
+"4bf5f3c094b2a59318bfacee","St Michael's Alley","Food::American Restaurant",37.44164,-122.159713
+"4bf6e6f55317a593a20efd7e","Tofu house","Food::Korean Restaurant",37.41356658935547,-122.12529754638672
+"4bf86d4d4a67c928106d25cf","Rudy's Pub","Nightlife Spot::Bar",37.44385462923839,-122.16376442418239
+"4bf9a56ab182c9b66a4f795a","Sigona's Farmers Market","Shop & Service::Food & Drink Shop::Grocery Store",37.44261479051816,-122.17289485051552
+"4bf9b5604a67c9289d5827cf","Accent Arts","Shop & Service::Arts & Crafts Store",37.42657310145155,-122.1448266506195
+"4bf9d4275ec320a1e9ee8ad3","Munger Hall Stanford","College & University::College Academic Building",37.42317365162698,-122.16736235928508
+"4bfac3515ec320a1041d8cd3","2010 Mobile Health","Professional & Other Places::Building",37.420344,-122.163426
+"4bfb001a565f76b0d6f904db","Stanford IT Dept.","Professional & Other Places::Office",37.4156659796744,-122.149709703817
+"4bfb0608f214a593b7aaae0e","Zen Garden Nail Spa","Shop & Service::Nail Salon",37.426372,-122.144572
+"4bfb234fd2b720a186ab326a","Vans","Shop & Service::Clothing Store",37.44484653041043,-122.16256141662598
+"4bfc93d0b68d0f47b4a7e757","Restaurant Soleil","Food::American Restaurant",37.44044,-122.163512
+"4bfd2ef6e529c928d97fba8c","California Ave Caltrain Station","Travel & Transport::Train Station",37.42890851157328,-122.14143679797976
+"4bfddb7af61dc9b6b0ba9fde","CrossFit Palo Alto","Shop & Service::Gym / Fitness Center::Gym",37.428074,-122.141683
+"4c001b79147bd13a8c832a4d","Stanford Auxiliary Library","College & University::College Library",37.429954859243786,-122.15530963476672
+"4c0402c40d0e0f47425a039a","Gates of Hell","Outdoors & Recreation::Sculpture Garden",37.43249009169102,-122.17078238725662
+"4c0469a89a7920a1db4dd179","Da Sichuan Restaurant","Food::Asian Restaurant",37.41790286,-122.13168902
+"4c09d67a6071a59329b8de32","Baklava","Food::Mediterranean Restaurant",37.445039,-122.16311732862916
+"4c0b08cd009a0f473e8feabf","Douvos Pizza","Food::Pizza Place",37.448597,-122.145915
+"4c0bcad07e3fc9285ec3f582","Highway Community, at Haymarket Theatre","Professional & Other Places::Spiritual Center::Church",37.436859088431675,-122.15724459271614
+"4c0c377ea1b32d7f24459cf0","Mitchell Dog Park","Outdoors & Recreation::Dog Run",37.41979503835682,-122.11389005184174
+"4c0d337bb1b676b0383ae086","Renal / Hospital Administration at Lucile Packard Children's Hospital","Professional & Other Places::Medical Center::Hospital",37.43794083595276,-122.17616558074951
+"4c0ea8d5cd8eb713bba6ef94","Financial Engines","Professional & Other Places::Office",37.451439203711374,-122.1156656742096
+"4c0ee2ed336220a14500cd77","Jive","Professional & Other Places::Office::Tech Startup",37.44722906451269,-122.16270553284399
+"4c0fc1a77189c9285694dab6","Absolute Mortgage Banking","Professional & Other Places::Office",37.425578,-122.147922
+"4c10f5c2f1b6a59318ab7c27","Patio Cafe at Sheraton Palo Alto","Food::Café",37.441555,-122.163404
+"4c11b7ab416620a1d9b0d9e4","Valero","Shop & Service::Gas Station / Garage",37.42805808805875,-122.14923286456262
+"4c125167b2510f475e63c498","Facebook 1050 Building 1","Professional & Other Places::Office::Tech Startup",37.419117624349965,-122.14629650115967
+"4c13bee6a5eb76b00a73c0b7","Siam Orchid Organic Fine Dining","Food::Thai Restaurant",37.447350025177,-122.15793192386627
+"4c143f18b7b9c928d51dab37","Greer Skate Park","Outdoors & Recreation::Athletic & Sport::Skate Park",37.44073765094487,-122.11615947301839
+"4c14994b77cea59326ebd060","Sopkin HQ","Professional & Other Places::Building",37.441591,-122.146187
+"4c17d1986a21c9b64b1ac897","Bottlenotes","Professional & Other Places::Office::Tech Startup",37.448274,-122.15743
+"4c1a491deac020a1aefc42c2","Pacific Graduate School of Psychology","College & University::College Academic Building::College Science Building",37.3821707745922,-122.187234761836
+"4c1a7861eac020a1e55243c2","Milo, Inc","Professional & Other Places::Office::Tech Startup",37.444432,-122.163011
+"4c1bb16c63750f47ec4bb567","Stanford Medical Center","Professional & Other Places::Medical Center::Doctor's Office",37.437679271118284,-122.16660286682662
+"4c1cf4bdb306c9281dab64b7","Redbox","Arts & Entertainment::General Entertainment",37.4475898541671,-122.160876010165
+"4c1edcd8b4e62d7f85f3de93","Stanford Memorial Court","College & University::University",37.42821746675852,-122.17000186443329
+"4c2130edaa8e9c74d72df4d4","Wells Fargo Bank","Shop & Service::Bank",37.4435305595398,-122.168675
+"4c2134e011de20a1f0f982ce","Wildfire HQ","Professional & Other Places::Office::Tech Startup",37.443761,-122.162045
+"4c23a140136d20a1d384e061","Stanford PFS","Professional & Other Places::Office",37.4169135572003,-122.149510096944
+"4c24df5dc11dc9b6da2b2624","Nicira Networks","Professional & Other Places::Office",37.434472703649355,-122.10879366342182
+"4c2663fa905a0f471b386360","Stanford Parking","Professional & Other Places::Parking",37.432777,-122.163219
+"4c281589ce3fc928a1c16c88","1000 Clark Way Pool","Shop & Service::Gym / Fitness Center",37.43813694099116,-122.1801675921341
+"4c292c6897d00f470a0b41ea","Arrillaga Family Sports Center","College & University::College Administrative Building",37.4298572646491,-122.161474766466
+"4c2954f0d26eb713a36a14d1","B4Twelve","Nightlife Spot::Lounge",37.445113,-122.1638810634613
+"4c2a1a1efe6e2d7f6ed4553c","Attensity","Professional & Other Places::Office::Tech Startup",37.448908322474004,-122.11879950547583
+"4c2aac86d1a10f47f1e1f664","Stanford Motor Inn","Travel & Transport::Hotel",37.42068,-122.13655366
+"4c2bbc0fd1a10f475969f864","Wells Fargo","Shop & Service::Bank",37.42475829366975,-122.14596390724182
+"4c2e27803a4d0f477412e586","El Palo Alto Redwood Tree","Outdoors & Recreation::Other Great Outdoors",37.44679089521995,-122.16974613289503
+"4c31e2787cc0c9b6955fef9a","iD Tech Stanford Campus","College & University::University",37.42796838283539,-122.153707
+"4c322e0c213c2d7f7706355d","Tea Time","Food::Tea Room",37.44472390693785,-122.16144150231405
+"4c33c85d7cc0c9b6a467f29a","Verizon Wireless","Shop & Service::Electronics Store",37.44508877573357,-122.16263900529154
+"4c34a449213c2d7f17c9385d","The 3rd Door","Shop & Service::Gym / Fitness Center::Gym",37.444952,-122.1650127
+"4c34f4c266e40f47d46dca8b","Congdon & Crome Stationers & Office Products","Shop & Service::Paper / Office Supplies Store",37.446448,-122.159659
+"4c3555f3ed37a593c27a7003","Rape Alley","Outdoors & Recreation::Other Great Outdoors",37.444344,-122.162209
+"4c38c6fedfb0e21e513dafa8","ACGA Clay / Glass Festival","Arts & Entertainment::General Entertainment",37.443922162056,-122.139481
+"4c3a0aad18e72d7f4b341bf5","Peets Coffee","Food::Café",37.438106536865234,-122.15933990478516
+"4c3a7ee9ae2da593f46c04c6","LiveGreene","Shop & Service::Gift Shop",37.444174,-122.163211
+"4c3b504f5810a5933274ba3c","Classy Salon","Shop & Service::Cosmetics Shop",37.434304,-122.129136
+"4c40992aa5c5ef3b0408b06f","Palo Alto Weekly Moonlight Run","Outdoors & Recreation::Other Great Outdoors",37.451295,-122.119973
+"4c40f0f1af052d7f59a17c79","Lucile Packard Primary Care Clinic","Professional & Other Places::Medical Center",37.437763,-122.174351
+"4c411af73735be9af40218a4","Pulse HQ","Professional & Other Places::Office::Tech Startup",37.445188,-122.165513
+"4c41d255d691c9b612498d0a","Open Web Camp II","Professional & Other Places::Event Space",37.428116,-122.168626
+"4c4215d6520fa59337abcaac","St. Thomas Aquinas Church","Professional & Other Places::Spiritual Center::Church",37.44505259935035,-122.15693965895802
+"4c42b43ad7fad13a389a09da","The Original Facebook House","::Professional & Other Places",37.41191279814607,-122.13483273983002
+"4c437da0f0bdd13a854ec8cc","Kirkland & Ellis LLP","Professional & Other Places::Office",37.4198676380115,-122.145318267195
+"4c461ef2342c1b8d05acb589","Flipboard HQ","Professional & Other Places::Office::Tech Startup",37.442401304059985,-122.15875261605795
+"4c47cd7119fde21ecd960976","Hotel California","Travel & Transport::Hotel",37.42659363333334,-122.14432323999999
+"4c4cce1074e81b8d0c4fcc06","PAMF- Urgent Care","Professional & Other Places::Medical Center::Emergency Room",37.43994851660052,-122.16156347081943
+"4c4f7272eaa1be9aa4b0eb45","Always On","Professional & Other Places::Event Space",37.430641,-122.164515
+"4c51e41a2543a5937f4da084","Bank of the West Classic","College & University::College Stadium",37.430769,-122.162497
+"4c5365811b46c9b6156cdccc","Hotel Keen","Travel & Transport::Hotel",37.444759,-122.164018
+"4c560b1773fd2d7f1274d9ce","Bistro 412","Nightlife Spot::Nightclub",37.44508400055713,-122.16390856565295
+"4c5611aac4e79521f3873e1c","Club FuZ","Nightlife Spot::Gay Bar",37.42800946,-122.143974
+"4c58cc4bb8b3c9b6d6d887b6","Morrison & Foerster LLP","Professional & Other Places::Office",37.419183,-122.14205575
+"4c5b83a9d25320a1e1f9c07a","Pattaya Thai Cuisine","Food::Thai Restaurant",37.40543249,-122.118481993675
+"4c5ef4066147be9abf259609","The Fallen Angel At Stanford","College & University::General College & University",37.4373417598814,-122.168794870377
+"4c61aad3ec94a593957327ca","Pinnacle Physical Therapy","Shop & Service::Gym / Fitness Center",37.419249053585716,-122.10152165299019
+"4c62f57969a1c9b60bf139a4","Iris & B. Gerald Cantor Center for Visual Arts","Arts & Entertainment::Museum::Art Museum",37.43277112183242,-122.17043908042626
+"4c642e57edd320a13134b129","Lunch Truck (taqueria)","Food::Food Truck",37.422974,-122.142159
+"4c644018263fc9281d29e891","Stanford General Clinical Research Center","Professional & Other Places::Medical Center",37.43549351681105,-122.17785611100454
+"4c64a262cdb6e21ed82a333e","Downtown Palo Alto","Outdoors & Recreation::Other Great Outdoors",37.44602201084447,-122.16148853302002
+"4c6575640f880f47c3e7f9e6","Stanford Cafeteria","College & University::College Cafeteria",37.434184340014845,-122.17519535173489
+"4c65d186f7a80f4797729c7a","Healthtap","Professional & Other Places::Office::Tech Startup",37.443682,-122.162907
+"4c69e7e11a6620a123ed648c","Innovation Endeavors","Professional & Other Places::Office::Tech Startup",37.4435581656054,-122.162293195724
+"4c6c7b09e6b7b1f74746a78e","RR Donnelley","Professional & Other Places::Office",37.422564,-122.147559
+"4c6dace8f338236a5a5a081b","Palo Alto Community Donkey Corral","Outdoors & Recreation::Stables",37.40822725147575,-122.13841470019507
+"4c6ddf12f338236afb1a091b","Cubberley Community Center & Theatre","Professional & Other Places::Event Space",37.41711488274526,-122.1075290010672
+"4c6df30410faa143e99def68","Alphonso Labs","Professional & Other Places::Office::Tech Startup",37.445159,-122.162258
+"4c6eb5bb06ed6dcb1d7ca722","Escondido Village Front Desk","Professional & Other Places::Office",37.42380395,-122.155797
+"4c73391a376da093a1b3a8c6","Madame Tam Asian Bistro","Food::Asian Restaurant",37.446223620703364,-122.16120310892705
+"4c752a593adda143667a06af","AOL-Stanford","Professional & Other Places::Office",37.425343,-122.139158
+"4c75a7c4d8948cfa5f6668da","Shipwire","Professional & Other Places::Office::Tech Startup",37.4302903125,-122.14441375555553
+"4c76afc8c219224b39faa528","Angell Court","College & University::College Residence Hall",37.42529890011746,-122.15430055980573
+"4c76d058a5676dcbaeb11621","See's Candies","Shop & Service::Candy Store",37.44312095394477,-122.17212431018392
+"4c7823febd346dcbe01ff1ef","Wall Street Journal","Professional & Other Places::Office",37.4086190542248,-122.152948379517
+"4c793d97df08a1cd5debd95d","Ananda Church","Professional & Other Places::Spiritual Center::Temple",37.42691682958266,-122.14773579737688
+"4c7954a781bca0934cfdfc14","Palo Alto Festival of the Arts","Arts & Entertainment::General Entertainment",37.44566425788486,-122.16174602508545
+"4c79aefe566db60c7cf0450e","Coral Zone Parking","Professional & Other Places::Parking",37.445340575161595,-122.16352701187134
+"4c79b329bd346dcb487ef6ef","Wells Fargo Private Bank","Shop & Service::Bank",37.44607837,-122.161316816667
+"4c7a034d4dc1ef3b3ed8319e","Byers Eye Institute At Stanford","College & University::General College & University",37.44845239865713,-122.12031915877498
+"4c7a8c3676ce9c745a9bb10c","Bon Vivant Cafe","Food::French Restaurant",37.445579,-122.160925
+"4c7bbe992d3ba143a0d394d0","Aol.","Professional & Other Places::Office",37.425336233255095,-122.13916330111559
+"4c7d582cb33a224becc9d781","Edge Hair Salon","Shop & Service::Salon / Barbershop",37.44498281894349,-122.16221809387207
+"4c7e82601009a093759d444e","Spirit Halloween Superstore","Shop & Service::Clothing Store::Boutique",37.444747,-122.161356
+"4c7ecb981009a093778c454e","Twain House East","College & University::College Residence Hall",37.42466030983836,-122.16506659984589
+"4c7efa89171b224b9da90fb1","Varsity Field Hockey Turf","College & University::College Stadium",37.430551892257085,-122.15795874595642
+"4c81205447cc224b5a10799f","The Feral Farm","Outdoors & Recreation::Farm",37.44060092106786,-122.14955999869676
+"4c81782f74d7b60cc92f77d8","Fundly.com HQ","Professional & Other Places::Office::Tech Startup",37.425087690353394,-122.14613556861877
+"4c82fc5874d7b60cda3786d8","Stealth R Us","Professional & Other Places::Office::Tech Startup",37.445256,-122.161243
+"4c83d149e602b1f7040aa97a","Snip-Its","Shop & Service::Salon / Barbershop",37.438726862054054,-122.15884132265545
+"4c875b9ae602b1f73cffc67a","Dohrmann Grove","College & University::College Academic Building::College Arts Building",37.42834526565838,-122.16761469841003
+"4c8826bfbbec6dcb2ac3d158","Stanford Floral Design","Shop & Service::Flower Shop",37.446964,-122.158872
+"4c89711e1797236afc145988","Jimmy V Sports Cafe","College & University::College Cafeteria",37.4292398518487,-122.160995006561
+"4c8b10566418a1438038e6ce","Illusions Fayrouz Dining & Entertainment","Nightlife Spot::Nightclub",37.427955062585816,-122.14396531379319
+"4c8d654ec37a6dcbd8d4ff7a","Mitchell Park Library Cubberley","Professional & Other Places::Library",37.417584930257526,-122.10694658579972
+"4c8ed8471992a1cd035ee1fb","Edgewood Eats","Food::Food Truck",37.44798742885536,-122.12573760255155
+"4c913446238c6dcb6109be55","Vince.","Shop & Service::Clothing Store",37.4436338953176,-122.17118191522
+"4c9163271adc37046fd12fd1","Salon 454","Shop & Service::Salon / Barbershop",37.426551,-122.14608
+"4c925305ae45224b114cef97","The Princeton Review","College & University::General College & University",37.431252,-122.160686
+"4c9a7d3f553cef3be0dcd477","Nacho Wednesdays @ Facebook","Professional & Other Places::Office::Cafeteria",37.42092,-122.143887877464
+"4c9d4704542b224b94ade89f","Caltrain 372 @ Palo Alto","Travel & Transport::Train Station::Train",37.44361877441406,-122.16517639160156
+"4c9e79a2542b224bb596f49f","La Jolie Nail Spa","Shop & Service::Nail Salon",37.42695576175135,-122.14460852326566
+"4c9fd9ac19e4236a93be5c89","Spirt Of Halloween","Shop & Service::Miscellaneous Shop",37.444686,-122.162594
+"4ca2807c1ee76dcb6b48f1dd","Starbucks","Food::Coffee Shop",37.443302154541016,-122.17256927490234
+"4ca4eefe44a8224b8658f53f","The Ring","Outdoors & Recreation::Sculpture Garden",37.426153,-122.167281
+"4ca66887f47ea1435e556021","Doctor Michael Taymor","Professional & Other Places::Medical Center::Doctor's Office",37.430277,-122.14172
+"4caba12444a8224b167c2f40","Stripe HQ","Professional & Other Places::Office",37.444846,-122.161561
+"4cacec5c97c8a1cd6efaa4a5","Palo Alto Square","Professional & Other Places::Office",37.421622310001354,-122.14178059089399
+"4caf3771db32f04d2777b54d","Encina Modular B","College & University::College Administrative Building",37.426761,-122.163853
+"4cb0db6e39458cfaa8b406a0","Stanford Lot 10","Professional & Other Places::Parking",37.43565478830663,-122.16610947104198
+"4cb60877e262b60c07fd6be0","Google Ventures StartUp Lab","Professional & Other Places::Office::Tech Startup",37.4274932660787,-122.10152165299
+"4cb610a08db0a14358256716","Startup Lab (Google Ventures)","Professional & Other Places::Office::Tech Startup",37.43152312813672,-122.10099935531616
+"4cb6366455af224b3637987e","Skype","Professional & Other Places::Office",37.407417419484126,-122.14738011360168
+"4cba6a524352a1cd741093f5","Anatolian Kitchen","Food::Mediterranean Restaurant",37.427828925,-122.14459153333334
+"4cbc75120180721e1ab0a461","ShareThis PA HQ","Professional & Other Places::Office::Tech Startup",37.42894857231769,-122.14446990085901
+"4cbf7cf00d22ef3b86b62c70","Studio Kicks Palo Alto","Shop & Service::Gym / Fitness Center",37.41988,-122.10166
+"4cc066b1021ca1433936620c","Cibo Restaurant & Bar","Food::Restaurant",37.4194221496582,-122.13550567626953
+"4cc1bb7156bda093d0e1ed35","Celia Ghee's Taqueria Y Cantina","Nightlife Spot::Speakeasy",37.450394,-122.14815971
+"4cc300b8bde8f04da218a24b","National Car Rental","Travel & Transport::Rental Car Location",37.409355,-122.122923
+"4cc6e855b2beb1f7fa032b4c","Stanford University Press","Professional & Other Places::Office",37.41651067438874,-122.14920514128525
+"4cc897235c7e8cfa2d043f66","Mimi & Taylor","Shop & Service::Cosmetics Shop",37.4456017,-122.1611657
+"4cc9c2665c17b60c82230b05","FRST - Functional Rehabilitation & Sports Therapy","Shop & Service::Gym / Fitness Center::Gym",37.421702,-122.13581
+"4cceed8bdd919eb04399139e","Voting at 330 Everett Ave","Professional & Other Places::Voting Booth",37.447893,-122.163686
+"4cceed8bdd919eb04599139e","Voting at 301 Alma St","Professional & Other Places::Voting Booth",37.445067,-122.166504
+"4cd029fa2fd9b60c18a47feb","Polling Place","Professional & Other Places::Voting Booth",37.414754,-122.105907
+"4cd4a08fa5b34688b3298950","Pulse World HQ","Professional & Other Places::Office::Tech Startup",37.445132,-122.165572
+"4cd5aed12944b1f7d7a55eec","SliderBarCafe","Food::American Restaurant",37.4520149230957,-122.15472412109375
+"4cd7451776ab721e798c776a","ARCO","Shop & Service::Gas Station / Garage",37.42166197367092,-122.10141071083125
+"4cdac0dd22bd721ebf6ff147","Yummly HQ","Professional & Other Places::Office::Tech Startup",37.4430024804636,-122.163143504871
+"4cdd8bb4f8cdb1f7af588512","Harman / Aha Radio","Professional & Other Places::Office::Tech Startup",37.4468846,-122.1604877
+"4cdd97bddb125481fb4f2bce","Halo A Blow Dry Bar","Shop & Service::Salon / Barbershop",37.437965,-122.159611
+"4ce30afe7e9b721e553234f1","SAP Labs Bldg 3 Cafeteria","Professional & Other Places::Office::Cafeteria",37.3972153674812,-122.144996665056
+"4ce7ec0c0f196dcb90b541ae","TedxYouthCastilleja","Arts & Entertainment::General Entertainment",37.439025,-122.151848
+"4cec261ff9916dcb5fdb6a35","Bing wing of the Stanford Green Library","College & University::College Library",37.426877,-122.167653014452
+"4ced44ecb80da093b4ef2000","FLOODGATE","Professional & Other Places::Office::Tech Startup",37.442572,-122.158222
+"4cf15f0be3b9a0932c423e53","Hewett Research","Professional & Other Places::Office",37.404301,-122.128052
+"4cf2f829a41a60fc59462dc0","WilmerHale","Professional & Other Places::Office",37.42023256086732,-122.1462497990084
+"4cf40ae46195721e611f50c1","Gravity Bistro & Wine Bar","Nightlife Spot::Wine Bar",37.4440665233206,-122.16197927150341
+"4cf938b8d1dd721ef08da79b","Kato and Cabreza DDS","Professional & Other Places::Medical Center::Dentist's Office",37.42812,-122.142417
+"4cfd443cd8468cfa8925ff6b","Archimedes Ventures","Professional & Other Places::Office",37.41506153305926,-122.12333679199219
+"4cfe62b6ee9cb60c7d7e9fad","Stanford Hospitals & Clinics - EAST Team","Professional & Other Places::Office",37.417606,-122.151107
+"4d0139b47212b60c0846d3bf","Kanpai Sushi","Food::Sushi Restaurant",37.447109,-122.162342
+"4d01d33318ff8cfa2129c157","Shazam","Professional & Other Places::Office",37.444374,-122.163041
+"4d084a911657a35d8b102ce7","ALL Saints' Episcopal Church","Professional & Other Places::Building",37.44683837890625,-122.15921020507812
+"4d10d65f38bb6ea835cdc6aa","Seattle's Best Coffee @ Borders Palo Alto","Food::Café",37.4471223,-122.15958805
+"4d1412d78312236a2d9f47ba","Christmas Tree Lane","Outdoors & Recreation::Scenic Lookout",37.44117630657834,-122.14013924710477
+"4d24597dbda959411386c07d","Sony Ericsson Tennis Hotspot","Arts & Entertainment::Stadium",37.4309097174683,-122.162218093872
+"4d2a6a2d4ab78eec54b33026","uforia studios","Shop & Service::Gym / Fitness Center",37.4427567299208,-122.158048504847
+"4d2e19da5055a35dfcdb8fca","Center For Education Research at Stanford","College & University::College Academic Building",37.42463,-122.166935
+"4d37b4333ffba1431c365556","Elks Lodge","Professional & Other Places::Event Space",37.408428,-122.120914
+"4d3f36f8d2c8f04dd1fd7972","Bistro Elan on Birch Street","Food::French Restaurant",37.427716891937976,-122.1444144518464
+"4d4c47539bbb721e0b3791a0","Next Issue Media","Professional & Other Places::Office::Tech Startup",37.4247056397737,-122.145412
+"4d509341529dcbff834dd9c4","Yoga Studio","Shop & Service::Gym / Fitness Center::Yoga Studio",37.423872174356845,-122.10284471511841
+"4d53682d8652224b08e4cfd7","The Workshop","Food::Burger Joint",37.445263,-122.162517
+"4d6056f01ee8721ecd9fa921","Vi at Palo Alto","Professional & Other Places::Building",37.44015342,-122.17594441
+"4d66f7926d6a236a53dd2b2a","Stanford University Medical Center - Planning, Design & Construction","Professional & Other Places::Office::Coworking Space",37.44190686,-122.17291793
+"4d718aa60d0ca143fb3e9983","Zara Fine Turkish Cuisine","Food::Mediterranean Restaurant",37.4279235284609,-122.143946886063
+"4d7685a7d6688cfadbb61e15","Aol Headquarters","Professional & Other Places::Office",37.42167387155319,-122.13106155395508
+"4d79c2c7c307a35db4264a31","Original Facebook Campus","Arts & Entertainment::Historic Site",37.443392,-122.161987
+"4d7e99194219a1cd53b365d3","Solstice Sunglass Boutique","Shop & Service::Clothing Store::Accessories Store",37.443349,-122.171372
+"4d7ff13ea4e23704e1feaacc","Pinewood School Gym","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.430784184390006,-122.1047111914229
+"4d81623cbede5481f57afed0","Jamba Juice","Food::Juice Bar",37.44362844062133,-122.1719813346863
+"4d823a7b6282721eba58ee4d","Stanford Hospital Dept of Clinical Nutrition","College & University::Medical School",37.4341185664314,-122.175123288588
+"4d8a3fe826a36ea8d7e4f0ad","Color Labs HQ","Professional & Other Places::Office::Tech Startup",37.444192658562585,-122.16156347081943
+"4d95359f942ba093eab3368c","Tory Burch","Shop & Service::Clothing Store::Boutique",37.443218,-122.171487
+"4d960ea0af3d236a95cf00c7","President Hotel, Rooftop Garden","Professional & Other Places::Building",37.448045,-122.159182
+"4d9bfc28e115721e98a4430b","Xtreme Labs","Professional & Other Places::Office::Tech Startup",37.4443585,-122.162985
+"4d9d0258ef8f3704c68712ae","Keys School - Lower Campus","Professional & Other Places::School",37.4312334609428,-122.126469653946
+"4d9e83799bf0a35dc024fd0a","Palo Alto Gardens Apartments","Residence::Residential Building (Apartment / Condo)",37.412845,-122.101805
+"4d9fada9e357a143d52ae174","Yoga Belly","Nightlife Spot::Gay Bar",37.4411012,-122.16042763
+"4da4cbf3c6e96ea876ac045e","Bass Center","College & University::College Library",37.428481584244444,-122.1621322631836
+"4da50aa70437bc50a6e46f1a","University Ave","::Shop & Service",37.44431080970666,-122.1632543835821
+"4da5254cf7b16558260cde86","StylePage HQ","Professional & Other Places::Office::Tech Startup",37.441462,-122.158777
+"4da743dd5da37feee89acc65","Bre.ad Labs","Professional & Other Places::Office::Tech Startup",37.447218,-122.15846
+"4da9bb390437dccbd7f29210","Masters Grove","College & University::College Stadium::College Football Field",37.432702,-122.157551
+"4da9eb266a2303012f018c93","Stanford Splash 2011, Stanford University","College & University::University",37.4284615333333,-122.159406466667
+"4dac76304df01c19b1b4e30a","Coupa Cafe - GSB","Food::Coffee Shop",37.428311,-122.161542
+"4db1d4cfa86e63d21174a716","Panda Express","Food::Chinese Restaurant",37.42530236666666,-122.14673891
+"4db3897e90a0843f29629cba","Bicycle Exchange","Shop & Service::Bike Shop",37.4253060515374,-122.099668904029
+"4db6dbd25da3a76f446e9804","Fisker Silicon Valley","Shop & Service::Car Dealership",37.4105748652995,-122.123921513557
+"4db7142443a1369cb5f49fc1","Cemex Auditorium","College & University::College Auditorium",37.428641,-122.163175
+"4db870e36a2334682d9301b2","Disney Playdom","Professional & Other Places::Office::Tech Startup",37.425408065476574,-122.13913557524822
+"4db9b5d80cb6ddfae43adf92","Facebook 1050 Building 4","Professional & Other Places::Office::Tech Startup",37.419613,-122.148183
+"4dba2e4ccda173a95d13a4a4","Pampas","Food::Brazilian Restaurant",37.4173709490363,-122.123624608192
+"4dbeea63a86e0e98a21c45f5","Nasa Ames 210","Professional & Other Places::Government Building",37.4057188150239,-122.057379897491
+"4dbfae21ced7c88a6ebaef2b","Core Studio","Shop & Service::Gym / Fitness Center",37.43457306765862,-122.12783217430115
+"4dc065dd4df0f8fd6b9bfb66","SSE Labs","Professional & Other Places::Office::Coworking Space",37.4254885372113,-122.139207662489
+"4dc0adbce4cda3b87f112528","ABI BG","Professional & Other Places::Office::Tech Startup",37.4431088298522,-122.160378098488
+"4dc43da618387d1bd51e3e10","1185 Designs","Professional & Other Places::Office",37.441267,-122.156952
+"4dc57029e4cd169dc64c387a","John & Cynthia Fry Gunn Building (SIEPR)","College & University::College Academic Building",37.428277239022705,-122.16348722850391
+"4dc84e487d8b9580aa3fe6f8","Yogurtland","Food::Dessert Shop",37.44831098760956,-122.15940767610071
+"4dcb24c92271f5e21d709999","Keeble & Shuchat (261)","Shop & Service::Electronics Store",37.4277829488672,-122.143270969391
+"4dd1580eb3adb047f5024231","Philz Coffee","Food::Coffee Shop",37.442086282055726,-122.16159119091502
+"4dd986051838b8561d1ba80e","Matadero Trail","Outdoors & Recreation::Hiking Trail",37.39742892371118,-122.15776575023051
+"4de2b2aa52b1d38d2974f414","AOL Fitness Center","Shop & Service::Gym / Fitness Center::Gym",37.425453867399106,-122.1397233621098
+"4de5205ad4c0704405ab7e0a","Mobclix HQ","Professional & Other Places::Office::Tech Startup",37.443549,-122.163674
+"4de5c532c65b98fadaecd719","Mark Zuckerberg's House","Professional & Other Places::Building",37.4556733734624,-122.142013482245
+"4de926a0c65b72347a226ccc","Stanford Parking Lot C","Professional & Other Places::Parking",37.4384825893571,-122.170998978769
+"4ded76c0fa76b21ed9857bb8","Building 170","Professional & Other Places::Office",37.42805132786258,-122.16910064220428
+"4ded7ae88877aa0c3ca0c75f","Citi Ventures","Professional & Other Places::Office::Coworking Space",37.443304,-122.158097
+"4def9656d164e99c7b3e99b7","Palo Alto German Car","Shop & Service::Automotive Shop",37.416510480381,-122.129098343041
+"4df3c510c65bf55ee52d0932","Bliss in the Moment Sculpture","Outdoors & Recreation::Sculpture Garden",37.43291826116491,-122.1070242413499
+"4df45b45d1649c8a28e66d4a","Hookah Nites","Nightlife Spot::Hookah Bar",37.445309,-122.162509
+"4df655b8aeb7170aa2fa436f","Nordstrom E Bar","Food::Coffee Shop",37.439086,-122.173122
+"4df7ce8315205e0e3f6b06a4","Oren's Hummus Shop","Food::Mediterranean Restaurant",37.44563018608518,-122.16211080551147
+"4dfa3857fa7667368a6e2234","LYFE Kitchen","Food::American Restaurant",37.443658254244504,-122.16193377971649
+"4dfe35eb52b1267800cd7e6b","Yoppi Yogurt","Food::Ice Cream Shop",37.447536,-122.160027
+"4e02cc8845ddd36826978381","Banjo","Professional & Other Places::Office::Tech Startup",37.445242,-122.161356
+"4e06a88a7d8b2a01805641fd","Stanford Parking Lot - Maples Pavilion","Professional & Other Places::Parking",37.429171979556074,-122.15942345788737
+"4e06c161636520fa74e6116f","The Venue Formerly Known as Science Exchange HQ","Professional & Other Places::Office",37.4524783059281,-122.160013318062
+"4e0d00c7d4c0f6d6b3ec34db","SoftTech VC HQ","Professional & Other Places::Office",37.425583,-122.139458
+"4e0e66b6636543436008cc23","appbackr HQ","Professional & Other Places::Office",37.4450424450986,-122.16549038887
+"4e1c6880c65bc4a776ba4f92","Menlo Dog Park","Outdoors & Recreation::Dog Run",37.44340830540519,-122.16467916485409
+"4e1f9df388774a43b75765ab","Stanford Hospital E Ground","Professional & Other Places::Medical Center::Hospital",37.434929,-122.175659
+"4e21c9a5ae6015b212a9714f","Walgreens","Shop & Service::Drugstore / Pharmacy",37.43602,-122.155622
+"4e23902d483b041af20232b3","O Sushi House","Food::Sushi Restaurant",37.447189,-122.160534
+"4e25d275fa76a490d3be9cdb","Facebook Headquarters 1601 Cal Ave","Professional & Other Places::Office::Tech Startup",37.416202545166016,-122.15265655517578
+"4e25fe18b0fbe53aad047288","Palo Alto Staffing","Professional & Other Places::Office",37.44832386,-122.11788409
+"4e27277c18380c0d4dfe3697","VMware - Building G","Professional & Other Places::Office",37.399243935384746,-122.14363261773241
+"4e28b4e61f6e88a154654973","StartX","Professional & Other Places::Office::Tech Startup",37.4250139030611,-122.139194011688
+"4e2c98036284b96d7b8c5cd5","Alison Bakery","Food::Bakery",37.41305044836,-122.125353813171
+"4e2e070e8877341a5144e33f","CloudOn","Professional & Other Places::Office::Tech Startup",37.4256500038836,-122.139590278573
+"4e32c99a1850ad3b6cb6f45d","University Mission Medical Clinic","Shop & Service::Spa / Massage",37.41732819938873,-122.10243701934814
+"4e33027045dd6987a1746851","Mobile First Crunchup","Professional & Other Places::Convention Center::Meeting Room",37.425316,-122.139139
+"4e3761e8483bda3eb1110df7","Giants Dugout","Shop & Service::Miscellaneous Shop",37.4475286286068,-122.160216265568
+"4e382e77b61c5cb3c387f06c","DOCOMO Innovations, Inc.","::Professional & Other Places",37.40785534708188,-122.14611672352794
+"4e3bf1b8b61cb577be621a7b","2011 Teens in Tech Conference","Professional & Other Places::Event Space",37.402696,-122.148764
+"4e3ec58ed164b52911be40a5","USA Swimming Junior Nationals","Shop & Service::Gym / Fitness Center::Gym Pool",37.431288,-122.159977
+"4e3ffbbe483b04e17ab617c1","1824 Oak Creek","Residence::Residential Building (Apartment / Condo)",37.43106905470668,-122.18965689256389
+"4e4023206365a251c704a191","Speck: The Store","Shop & Service::Electronics Store",37.4424699592067,-122.158736586571
+"4e432355ae60167bcf51b6c8","Apigee Corp.","Professional & Other Places::Office::Tech Startup",37.426328,-122.14085486
+"4e4441102271bdbcf671e0af","Patio at Rudy's","Nightlife Spot::Bar",37.445134112373694,-122.16389747785438
+"4e44adf27d8bee2823a0e91e","Websterwood Apartments","Residence::Residential Building (Apartment / Condo)",37.447018,-122.151722
+"4e45408262e148603b617583","AT&T Foundry - Palo Alto","Professional & Other Places::Office::Tech Startup",37.443192,-122.1582587
+"4e45cdf21f6e29f10d9e08a2","Borders","Shop & Service::Bookstore",37.447721,-122.15968
+"4e498b6518a83cda37d12e2a","Stanford Cardinal Football","College & University::College Stadium::College Football Field",37.4346855139437,-122.160792849304
+"4e4becf1a8097d9c84c1d13e","Player Capital Tennis","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.43286153884006,-122.18693545584631
+"4e4c160cc65bba8554cb2e0e","Cantor Arts Center, Stanford","College & University::General College & University",37.4326488402903,-122.170549951617
+"4e4c774abd413c4cc669996e","Max's Opera Cafe Palo Alto","Food::Café",37.442874908447266,-122.17283630371094
+"4e4c7ff7bd413c4cc669d796","Straits Cafe","Food::Asian Restaurant",37.42075729370117,-122.13703155517578
+"4e4ccec0bd413c4cc66c51b9","Pasta?","Food::Italian Restaurant",37.44633102416992,-122.16106414794922
+"4e4cd160bd413c4cc66c66b5","Jing Jing Szechwan & Hunan Gourmet","Food::Chinese Restaurant",37.4448708050265,-122.163287647173
+"4e4de77ebd4101d0d79dd1b2","The HoneyBaked Ham Company","Shop & Service::Food & Drink Shop::Gourmet Shop",37.4146041822378,-122.126081445491
+"4e4e05442271a1bdc3caaa88","Facebook","Professional & Other Places::Office",37.4423690111187,-122.163243295716
+"4e4e57f9bd4101d0d7a82752","Vero Ristorante Italiano","Food::Italian Restaurant",37.445496,-122.161168
+"4e4e5b88bd4101d0d7a86c97","Fleming's Prime Steakhouse & Wine Bar","Nightlife Spot::Wine Bar",37.4083850064969,-122.138686415204
+"4e4ea666ae6051db8dc08ad5","Stanford Well Baby Nursery","Professional & Other Places::Medical Center::Hospital",37.4354158019926,-122.176747469316
+"4e4ed3fcd4c0b6da5d7561d3","PAMF - Clinical Laboratory","Professional & Other Places::Medical Center",37.4399397510808,-122.161291813505
+"4e4fd06eae6051db8dd0da97","Stanford Dish Trail","Outdoors & Recreation::Hiking Trail",37.40548283228286,-122.16487884521483
+"4e4ffa2018383eb2af292ecc","Stanford Athletic Complex","::College & University",37.43262912667065,-122.15580308006857
+"4e540a7c6365676e99de4a1d","Subway","Food::Sandwich Place",37.444829494326335,-122.1627116203308
+"4e542a36e4cd76151a3a3da5","Groupon  / Palo Alto","Professional & Other Places::Office::Tech Startup",37.42528501334083,-122.13632968061229
+"4e5702d9c65b270b63323ca4","Taube Family Tennis Stadium","College & University::College Stadium",37.430741,-122.162408
+"4e5bb546a8098920b3db5304","STIC Investments","Professional & Other Places::Office",37.44401,-122.1612
+"4e5fabac52b171e17dbc254c","RushCard WestCoast HQ","Professional & Other Places::Office",37.4493660082907,-122.159856029104
+"4e61470bae60e9edf53f253d","Imaginek12","Professional & Other Places::Office::Tech Startup",37.42558,-122.139735755556
+"4e62798afa76cd64ce41f327","Stanford Football Fan Fest 2011","Arts & Entertainment::General Entertainment",37.432519,-122.161433
+"4e6675348877dfcf2fc40bd0","Disney Interactive Media Group","Professional & Other Places::Office",37.4252537100211,-122.138996945805
+"4e67d90318a8bf0571c81ec7","TIBCO Purified Water Spigot","Food::Tea Room",37.407066,-122.144474
+"4e6921942271a177695c3ce5","Inadco","Professional & Other Places::Office::Tech Startup",37.425492597054,-122.144103936849
+"4e736330b61c804a2defef04","Color Headquarters","Professional & Other Places::Office::Tech Startup",37.444016,-122.161615
+"4e739c3ab993272e52422d00","McCaw Hall","College & University::College Administrative Building",37.430292,-122.164833
+"4e76202e62e1263516b71509","Hertz","Professional & Other Places::Office",37.4095253392807,-122.122820439373
+"4e7ac120ae60a0e3b07026f4","Paris Baguette","Food::Bakery",37.447202,-122.160496
+"4e80f0e1a17c6c6e463fee58","Join the Journey | Palo Alto","Professional & Other Places::Auditorium",37.4014600945723,-122.14466571807861
+"4e84d5b077c8ab00ba292deb","Pinterest","Professional & Other Places::Office::Tech Startup",37.443197,-122.16147
+"4e866d4d2c5b552f27fe0729","Caltrain 382 SF->SJ","Travel & Transport::Train Station::Train",37.44352888,-122.16486
+"4e87bf2182317891627283f2","Stanford Parking Lot 8","Professional & Other Places::Parking",37.43770539147903,-122.16396954852465
+"4e89471d1081c38019b6644e","McLaren San Francisco","Shop & Service::Car Dealership",37.41042147019781,-122.12373912334442
+"4e89f4275c5c370ff48059bd","AOL First Floor Labs","Professional & Other Places::Office::Coworking Space",37.4251064384195,-122.139490465812
+"4e8d6a24cc217a2e5c08b6f5","Steve Jobs","Professional & Other Places::Building",37.434746244007094,-122.1405606755968
+"4e8e1d75b8f7c0829574f9bc","Urban Outfitters","Shop & Service::Clothing Store",37.444302,-122.171205
+"4e8fa18eb63456ab951c7a6c","NetSuite Open Pro Squash Tournament at Stanford","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.4307969063964,-122.16462372624692
+"4e95c9df30f82cbde9ec9a94","Walden International","Professional & Other Places::Office",37.447543,-122.162295
+"4e9894307ee571e1ee39012f","Borel Private Bank & Trust","Shop & Service::Bank",37.44589602761231,-122.16276097243959
+"4ea33610b6347b99682318a2","Stanford Lot 4","Professional & Other Places::Parking",37.432288,-122.155511
+"4ea4a2bc5c5cd12b3692b572","Recruiting Innovation Summit #RIS11","Professional & Other Places::Event Space",37.4196535348892,-122.148104310036
+"4ea7554ed5fbe8dfe8929386","Zambrano Hall","College & University::General College & University",37.428634942357,-122.162990570068
+"4eaf55a49adff29daed507d6","Amber Dhara","Food::Indian Restaurant",37.4439095400251,-122.16293692588806
+"4eb2f5109adfed3c00a86be7","GroundUp AOL","Food::Café",37.425226565339,-122.139224297999
+"4eb96fd00039f4f9edfdcb06","Chalateco","Food::Latin American Restaurant",37.4171236909564,-122.131447792053
+"4ebf701e8231b62f423953cb","Escondido Village","College & University::College Quad",37.424818470768614,-122.1555591298649
+"4ec42ecd9adf106751d1aea4","Asian Box","Food::Asian Restaurant",37.438645139530216,-122.15979337692261
+"4ed45040e5fa7b1a91cde46c","The Backplane","Professional & Other Places::Office::Tech Startup",37.4439574258766,-122.163830951039
+"4ed54580cc216e1a54021d2d","Cheese Steak Shop","Food::Sandwich Place",37.4256381164502,-122.146466046314
+"4ed68aae30f813e77b1178ed","American Express","Professional & Other Places::Building",37.4435479261917,-122.163553755532
+"4ed9d0fe7bebc29454c21e82","PASTIS  Bistro Français","Food::French Restaurant",37.4259532600782,-122.145003676414
+"4ee0f136c2eec58c0331c02e","PunchTab HQ","Professional & Other Places::Office::Tech Startup",37.42491165940928,-122.14621067047119
+"4ee291ae469093b95912873d","Nordstrom Café Bistro","Food::Restaurant",37.43904306006327,-122.17358223435131
+"4ee2f6acf790897ecefe7d17","Dogpatch Labs","Professional & Other Places::Office::Tech Startup",37.4449374993293,-122.164651445554
+"4ee6c4969a52c1dadc792e48","10gen Palo Alto","Professional & Other Places::Building",37.4492,-122.158677
+"4ee8f4180039139143ca8d53","The Melt","Food::Sandwich Place",37.443155680151534,-122.17268407344818
+"4eefed5da17c45b9f7e7ab61","Princess Pad","Nightlife Spot::Cocktail Bar",37.4536877345916,-122.143228054047
+"4ef230a502d5677fe3e898d4","Attensity Command Center","Professional & Other Places::Office",37.4481321504733,-122.118333622082
+"4ef91f319adf7bbf8a1701a6","Sunrise of Palo Alto","Professional & Other Places::Building",37.42379659363137,-122.14210774764922
+"4efa5d168231c11159143461","Technicolor Parking Lot","Professional & Other Places::Parking",37.4430061409453,-122.159262677995
+"4f0b3883e4b0aa2dc92b9bb7","DeLeon Realty","Professional & Other Places::Office",37.4242128108513,-122.144220380078
+"4f148687e4b000502f204bff","UpWestLabs Office","Professional & Other Places::Office::Tech Startup",37.4393508226257,-122.158176021392
+"4f28dd9ee4b0a2a2c36a26af","Nerd HQ","Nightlife Spot::Gay Bar",37.451655,-122.15626
+"4f34b5a6e4b03d9aaa70773e","Honolulu airport","Travel & Transport::Airport::Airport Gate",37.44686877372755,-122.16077621712385
+"4f3ee620e4b031299cf7cf61","Microsoft Store","Shop & Service::Electronics Store",37.443287927475005,-122.17134822081383
+"4f3f2586e4b0bc95aee3bfa3","Tava Indian Kitchen","Food::Indian Restaurant",37.439199,-122.158098
+"4f4a92b1e4b0927adaf9407c","Stanford Dish Trail","Outdoors & Recreation::Hiking Trail",37.40548283228286,-122.16487884521483
+"4f4c2be9e4b0ed3691fd1598","Asianbox","Food::Asian Restaurant",37.438751,-122.159887
+"4f4e48bae4b03af961b53cc4","Palo Alto Medical Foundation Employee Health","Professional & Other Places::Medical Center::Doctor's Office",37.4398614472021,-122.16136942995
+"4f55720ce4b088020bbbb05a","Yucca de Lac","Food::Dim Sum Restaurant",37.4431510855188,-122.17245137474
+"4f56b5d1e4b0ffe1977ea414","John's Cafe","Food::Café",37.447929024412915,-122.16178523138417
+"4f584a28e4b0db205092a663","Hoover Fountain","Outdoors & Recreation::Other Great Outdoors",37.42843703371516,-122.16680798575644
+"4f67e5c4e4b0cdd88f34b1bc","Social + Capital Partnership","Professional & Other Places::Office::Coworking Space",37.44610027565272,-122.16711289155081
+"4f6d0c28e4b01d94fc5249e9","The Stanford Shop","Shop & Service::Clothing Store",37.443198,-122.17228
+"4f774d4ae4b0b009ee2a4807","Super Happy Block Party","Arts & Entertainment::Arcade",37.443584221423,-122.162644549256
+"4f7754997716bb533004d1d9","Super Happy Block Party","Professional & Other Places::Event Space",37.4440803527832,-122.1632080078125
+"4f777b7de4b0f52db92b4a64","Hack The Future Hackathon","Professional & Other Places::Event Space",37.443753885983,-122.163448421052
+"4f77ec91e4b07024fb08c7a1","Science Exchange HQ","Professional & Other Places::Office::Tech Startup",37.44721984863281,-122.15861511230469
+"4f833c62e4b06fa518ed1b4d","Stanford Development Services","College & University::College Administrative Building",37.406701,-122.153575
+"4f85c642e4b0928ce8847c8a","Pure Barre","Shop & Service::Gym / Fitness Center",37.4276510951331,-122.1434995390206
+"4f903e34e4b040e3a833ca11","Arrillaga Family Sports Center","College & University::College Administrative Building",37.42999312307119,-122.16155792679947
+"4f9b244ee4b0b34c42e861b2","CardSpring HQ","Professional & Other Places::Office::Tech Startup",37.44695045697313,-122.16196060180664
+"4fa2e0c6e4b0ff8e8079635a","bistro@3160","Food::Café",37.406395721162994,-122.15174456388823
+"4fa301e1e4b0c2f1039ef16c","TrialPay HQ","Professional & Other Places::Office",37.42095482063008,-122.14745856043021
+"4fa6c29ee4b0ddd4972219dc","Bing Concert Hall","College & University::College Theater",37.432261502450814,-122.16649199156655
+"4fa98a4fe4b0b29e39870c6b","Stanford Hospital Level E2 Surgery Family Waiting Area","Professional & Other Places::Medical Center::Hospital",37.43471046132199,-122.17554458014513
+"4faedf85e4b0fd09a956a9c9","La Boulange de Palo Alto","Food::Café",37.444233037747495,-122.16332645468314
+"4fbc4ac7e4b015d2677eee89","VMware - Prom B","Professional & Other Places::Building",37.4022157965063,-122.1445586192198
+"4fc3ec73e4b0264dfd3b37cd","Starbucks","Food::Coffee Shop",37.41747209009788,-122.130556849675
+"4fea8b89e4b043a2b4badf3c","Rangoon Ruby","Food::Asian Restaurant",37.445084450750656,-122.16306034576229
+"5024405bebca64a1e58ea74c","VMware - Hilltop F","Professional & Other Places::Office",37.39677230996637,-122.14256286621092
+"502ae0d3e4b0210a2be8a61e","West Elm","Shop & Service::Furniture / Home Store",37.444668080767265,-122.1626722690729
+"503fca62e4b0aa9bdab64607","Sancho's Taqueria & Catering","Food::Mexican Restaurant",37.43353723235634,-122.12885433240255
+"5047d911e4b0424d58c63edb","VMware - Prom C","Professional & Other Places::Building",37.40239550006409,-122.14398749349408
+"5053be94e4b08e1d3ccd8c8c","StartupGrind HQ","Professional & Other Places::Office::Tech Startup",37.454132,-122.137677
+"506e2082e4b0f7e6854981b7","The Urban Nest","Shop & Service::Miscellaneous Shop",37.438491801926205,-122.159686088562
+"507f0ecde4b058f60a674e5e","Miki's Farm Fresh Market","Shop & Service::Food & Drink Shop::Grocery Store",37.41919197815344,-122.12431230643223
+"50960bd6e4b07ba8c6bac46f","Hookah Nights","Nightlife Spot::Hookah Bar",37.445451,-122.162454
+"50a8440be4b041c065a9e1b8","Curry Up Now","Food::Indian Restaurant",37.44540615416736,-122.16017745693624
+"50b7aaffe4b0a577af2f2b0d","Pac-12 Football Championship 2012","College & University::College Stadium",37.433241883013245,-122.16110331618967
+"50c787dae4b0e9cee782ce38","Figo","Food::Italian Restaurant",37.44625998365796,-122.16099243526179
+"50e64438e4b09ece44620e31","Tacolicious","Food::Taco Place",37.443568,-122.161033
+"50eb3034e4b05e3450958f2b","Freebirds World Burrito","Food::Burrito Place",37.425821,-122.146556

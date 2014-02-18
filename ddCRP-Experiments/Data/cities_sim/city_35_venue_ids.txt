@@ -1,0 +1,523 @@
+"3fd66200f964a52044f11ee3","The Fish Market Restaurant","Food::Seafood Restaurant",38.80434987422001,-77.04060673713684
+"40b13b00f964a52001f51ee3","St. Elmo's Coffee Pub","Food::Coffee Shop",38.82619581191293,-77.05878776394009
+"40b13b00f964a5201af51ee3","The Wharf","Food::Seafood Restaurant",38.804385517278675,-77.04129223033924
+"40b13b00f964a52026f41ee3","Bugsy's Pizza Restaurant and Sports Bar","Nightlife Spot::Sports Bar",38.804366595975736,-77.04080522060394
+"40b13b00f964a52048f71ee3","Chadwicks","Food::American Restaurant",38.802669317752496,-77.03993082046509
+"40b13b00f964a5204df71ee3","Laughing Lizard Lounge","Arts & Entertainment::Pool Hall",38.805949,-77.054544
+"40b13b00f964a52053f71ee3","Tiffany Tavern","Food::Burger Joint",38.80561653610638,-77.05215096473694
+"40b13b00f964a5205ff71ee3","King Street Blues","Food::Southern / Soul Food Restaurant",38.80549878776956,-77.04578441679054
+"40b13b00f964a52060f41ee3","Evening Star Cafe","Food::New American Restaurant",38.823936016666664,-77.058402
+"40b13b00f964a52094f41ee3","Laporta's","Nightlife Spot::Cocktail Bar",38.80396527275491,-77.05827713012695
+"40b13b00f964a520adf41ee3","Monroe's","Food::Italian Restaurant",38.82025166389997,-77.0628633191689
+"40b13b00f964a520bbf41ee3","Nick's Night Club","Nightlife Spot::Nightclub",38.804262186469195,-77.13144682575168
+"40b13b00f964a520cef41ee3","Ireland's Own Pub","Nightlife Spot::Pub",38.805116166876815,-77.04459251376421
+"40b13b00f964a520def41ee3","Ramparts Tavern & Grill","Nightlife Spot::Sports Bar",38.829428095508675,-77.08478808403015
+"40b13b00f964a520fbf41ee3","Shenandoah Brewing Company","Food::Brewery",38.804324,-77.132877
+"41083e00f964a520940b1fe3","Vermilion","Food::Italian Restaurant",38.80562489683609,-77.05229043960571
+"41366280f964a520c51a1fe3","The Rock It Grill","Nightlife Spot::Karaoke Bar",38.80602447206847,-77.05447033585658
+"428a8580f964a52093231fe3","AMC Hoffman Center 22","Arts & Entertainment::Movie Theater",38.802351596154224,-77.07079768180847
+"42bc9e80f964a520a4251fe3","ABC Store","Shop & Service::Food & Drink Shop::Liquor Store",38.814449100005426,-77.04344987869263
+"44ec0019f964a520cc371fe3","Union Street Public House","Nightlife Spot::Pub",38.80344689358245,-77.04055845737457
+"4547a8e6f964a520813c1fe3","Las Tapas","Food::Spanish Restaurant",38.80508698566864,-77.04764533620123
+"45ffd7f7f964a52091441fe3","Landini Brothers Restaurant","Food::Italian Restaurant",38.804353,-77.041071
+"462b7c93f964a520dd451fe3","Thai Lemon Grass","Food::Thai Restaurant",38.80625929636048,-77.13293562576955
+"468e133bf964a52079481fe3","Hard Times Cafe","Food::Hot Dog Joint",38.805942603838474,-77.0548814535141
+"469475aff964a520d6481fe3","Restaurant Eve","Food::New American Restaurant",38.8041233438641,-77.04490735721623
+"4699fcb1f964a52001491fe3","Cameron Run Deli","Food::Deli / Bodega",38.804566099999995,-77.0926489
+"47203515f964a520c44b1fe3","Chart House Restaurant","Food::Seafood Restaurant",38.805303008033626,-77.03890085220337
+"4720360af964a520c54b1fe3","Don Pablo's Mexican Kitchen","Food::Mexican Restaurant",38.83668241363242,-77.05130338668823
+"4776454df964a520144d1fe3","Casablanca","Food::Middle Eastern Restaurant",38.806279,-77.056166
+"49e49e16f964a52011631fe3","Flying Fish","Nightlife Spot::Karaoke Bar",38.805335279199696,-77.04865730450607
+"49e7935df964a520c7641fe3","Southside 815","Food::Southern / Soul Food Restaurant",38.79655710903461,-77.04893231391907
+"49f4f8b1f964a5207e6b1fe3","Founders Park","Outdoors & Recreation::Park",38.80737644807902,-77.03909397125244
+"49f880d0f964a520fb6c1fe3","Rustico","Food::Italian Restaurant",38.82153776740927,-77.0472639799118
+"4a0f0a7ef964a5201a761fe3","Regal Kingstowne Stadium 16","Arts & Entertainment::Movie Theater",38.771919009284,-77.13840007781982
+"4a2324aff964a520bc7d1fe3","Indigo Landing Restaurant","Food::Seafood Restaurant",38.833251748188474,-77.0422214269638
+"4a32578ef964a5203f9a1fe3","Starbucks","Food::Coffee Shop",38.82971017526444,-77.09193617105484
+"4a4a11dbf964a52088ab1fe3","Misha's Coffee","Food::Coffee Shop",38.805165,-77.050327
+"4a4f5a0af964a52043af1fe3","Grape + Bean","Food::Coffee Shop",38.80408292,-77.04371103333334
+"4a5c1fcdf964a52033bc1fe3","Hilton Alexandria Old Town","Travel & Transport::Hotel",38.80680779118845,-77.0597378022342
+"4a5d5276f964a52089bd1fe3","Potomac Yard Center","Shop & Service::Mall",38.837167122822585,-77.0505952835083
+"4a5e03f0f964a520e5bd1fe3","Jimmy John's","Food::Sandwich Place",38.803288,-77.061249
+"4a5f3aeef964a52049bf1fe3","The Motley Fool","Professional & Other Places::Office",38.80434151334068,-77.06401705741882
+"4a615722f964a52055c21fe3","Shoppers Food Warehouse","Shop & Service::Food & Drink Shop::Grocery Store",38.839189494509945,-77.05035924911499
+"4a623adff964a52073c31fe3","BRABO Tasting Room","Food::American Restaurant",38.8062310471268,-77.05695748329163
+"4a63484df964a520acc41fe3","Food Matters","Food::Breakfast Spot",38.80881444363992,-77.11677074432373
+"4a636a87f964a520fac41fe3","Majestic Cafe","Food::American Restaurant",38.80545437335968,-77.049525
+"4a63b044f964a52096c51fe3","Bastille","Food::French Restaurant",38.81746091666667,-77.04082
+"4a6bb115f964a520a2cf1fe3","Columbia Firehouse","Food::American Restaurant",38.804445,-77.046175
+"4a6c68baf964a52081d01fe3","Mai Thai","Nightlife Spot::Wine Bar",38.80423448333333,-77.03990746
+"4a75e6a9f964a52093e11fe3","The Dairy Godmother","Food::Ice Cream Shop",38.82645,-77.05877935
+"4a76e06cf964a5203de31fe3","Perk Up","Food::Coffee Shop",38.796168284589584,-77.0489913225174
+"4a79943af964a5202be71fe3","Table Talk","Food::Diner",38.804412580783804,-77.05950021743774
+"4a79ae42f964a52052e71fe3","Quattro Formaggi","Food::Pizza Place",38.80471775193969,-77.06098079681396
+"4a81ae2ff964a5203ef71fe3","Sam Phao","Food::Thai Restaurant",38.80569596299911,-77.05102980136871
+"4a830457f964a520d6f91fe3","Raw Silk","Food::Indian Restaurant",38.80513003,-77.047813
+"4a836ac9f964a52014fb1fe3","Trademark Bar","Nightlife Spot::Hotel Bar",38.80307949994959,-77.06560651183945
+"4a847052f964a5209cfc1fe3","Starbucks","Food::Coffee Shop",38.802603,-77.062002
+"4a874b28f964a520b10320e3","Momo Sushi & Cafe","Food::Sushi Restaurant",38.806651,-77.04155
+"4a8a06d7f964a520b10920e3","Los Tios Grill","Food::Mexican Restaurant",38.829064333333335,-77.05912470817566
+"4a8b2baef964a520a30b20e3","Pasara Thai","Food::Thai Restaurant",38.77192810560187,-77.13887378686145
+"4a904669f964a520fb1620e3","Chipotle Mexican Grill","Food::Burrito Place",38.80491841171345,-77.04584240913391
+"4a959f1df964a520e52320e3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",38.80404888194568,-77.06010103225708
+"4a95a1b8f964a520f42320e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",38.82767789833855,-77.08938759655267
+"4a981c4af964a520842a20e3","Hops Restaurant Bar & Brewery‎","Food::Brewery",38.83750140309922,-77.05139994621277
+"4a9c2462f964a520253620e3","Landmark Honda","Shop & Service::Automotive Shop",38.812932921023034,-77.12022123838351
+"4a9c25eff964a5202e3620e3","Target","Shop & Service::Department Store",38.834108385379196,-77.04986572265625
+"4a9d6fa9f964a520413820e3","Dairy Queen","Food::Ice Cream Shop",38.83096593898305,-77.12520360946655
+"4a9dde9af964a520b83920e3","Birchmere Music Hall","Arts & Entertainment::Music Venue::Rock Club",38.8397243269996,-77.06132411956787
+"4a9e9985f964a520923a20e3","Glynn Jones Salon","Shop & Service::Salon / Barbershop",38.80516,-77.047826
+"4a9e9d5ff964a5209c3a20e3","Alexandria Toyota","Shop & Service::Automotive Shop",38.8396650927781,-77.05301429336188
+"4a9e9e4cf964a520a03a20e3","Best Buy","Shop & Service::Electronics Store",38.836030558137175,-77.04988718032837
+"4a9e9ff7f964a520a73a20e3","Best Buy","Shop & Service::Electronics Store",38.813368698702334,-77.13463227335599
+"4a9ec448f964a520193b20e3","MOM's Organic Market","Shop & Service::Food & Drink Shop::Grocery Store",38.84104467749703,-77.06291198730469
+"4a9f36bdf964a520f03c20e3","Morrison House Hotel","Travel & Transport::Hotel",38.80469308633298,-77.04911830947698
+"4a9f372ef964a520f23c20e3","Hotel Monaco","Travel & Transport::Hotel",38.804583978443205,-77.04450130462646
+"4a9f37a4f964a520f43c20e3","Lorien Hotel & Spa","Travel & Transport::Hotel",38.80627707142857,-77.056935
+"4aa03333f964a520ad3e20e3","Regal Potomac Yard Stadium 16","Arts & Entertainment::Movie Theater",38.83710026657884,-77.04849243164062
+"4aa1d2f9f964a5209f4120e3","Starbucks","Food::Coffee Shop",38.804784638593716,-77.0457136631012
+"4aa5a3c6f964a5200a4920e3","Faccia Luna","Food::Italian Restaurant",38.796356425714976,-77.04902350902557
+"4aa82c09f964a520d04f20e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",38.810904501711626,-77.04484462738037
+"4aabc567f964a520055a20e3","Lavender Moon Cupcakery","Food::Cupcake Shop",38.80419937824178,-77.04362154006958
+"4aac1566f964a520235c20e3","BGR - The Burger Joint","Food::Burger Joint",38.805374444962425,-77.04693133123818
+"4aae78d7f964a520326220e3","Xsport Fitness","Shop & Service::Gym / Fitness Center::Gym",38.83718736899665,-77.10313362594592
+"4ab523caf964a520b87220e3","Ten Thousand Villages","Shop & Service::Gift Shop",38.805416,-77.04988212
+"4ab5b550f964a520e37520e3","Daniel O'Connell's Bar & Restaurant","Food::Restaurant",38.80416593464791,-77.04082131385803
+"4ab642ccf964a5205a7620e3","Clyde's at Mark Center","Food::American Restaurant",38.833360395427455,-77.1230497956276
+"4ab6bcb7f964a520cd7820e3","Kyoto Sushi","Food::Sushi Restaurant",38.828675877362066,-77.09226608276367
+"4ab90db2f964a520d87d20e3","Dee Campbell Rowing Center","Outdoors & Recreation::Harbor / Marina",38.812033107572645,-77.03786015510559
+"4abd4056f964a5203b8920e3","Sport & Health Clubs","Shop & Service::Spa / Massage",38.81244,-77.04063
+"4abe5430f964a520c08c20e3","Chipotle Mexican Grill","Food::Mexican Restaurant",38.770062025464455,-77.1396017074585
+"4ac09c55f964a520519420e3","Starbucks","Food::Coffee Shop",38.830795146302336,-77.12530041347331
+"4ac0ed89f964a520039520e3","Passport MINI","Shop & Service::Automotive Shop",38.8136748362314,-77.13333450866048
+"4ac1f2baf964a520b69720e3","Winkler Botanical Preserve","Outdoors & Recreation::Park",38.828089947623184,-77.1229013167207
+"4ac36176f964a5203c9b20e3","Eisenhower Avenue Metro Station","Travel & Transport::Subway",38.800520488807564,-77.07098007202148
+"4ac3ec63f964a5207f9d20e3","Bilbo Baggins Global Restaurant","Food::New American Restaurant",38.80657383328422,-77.0412826538086
+"4ac3ecd9f964a520829d20e3","Royal Restaurant","Food::Diner",38.812734,-77.04429745
+"4ac40cecf964a520019e20e3","Joe Theismann's Restaurant","Food::American Restaurant",38.80610563464175,-77.0601313070272
+"4ac41bd2f964a520389e20e3","Hilton Alexandria Mark Center","Travel & Transport::Hotel",38.832921626714075,-77.11756467819214
+"4ac4e1bbf964a520619f20e3","Five Guys","Food::Burger Joint",38.841445791783556,-77.10780143737793
+"4ac4f437f964a520b39f20e3","Potbelly Sandwich Works","Food::Sandwich Place",38.80335172910079,-77.06209881172332
+"4aca2dc5f964a520c3c020e3","Canal Center Plaza","Outdoors & Recreation::Plaza",38.81448253877206,-77.03812837600708
+"4ace7d6bf964a520d8d020e3","King Street Metro Station","Travel & Transport::Subway",38.80650430846576,-77.06079573544662
+"4ad0ae87f964a5200ed920e3","Austin Grill","Food::Mexican Restaurant",38.805261,-77.048124
+"4ad0dc87f964a52087da20e3","Torpedo Factory Art Center","Arts & Entertainment::Art Gallery",38.8048097210728,-77.03997373580933
+"4ad14de5f964a520f3dd20e3","George Washington Masonic National Memorial","Professional & Other Places::Building",38.80740152964564,-77.06543326377869
+"4ad26ba3f964a52089e120e3","Ted's Montana Grill","Food::American Restaurant",38.80167434275587,-77.07198858261108
+"4ad37b68f964a520ace420e3","Caboose Cafe & Bakery","Food::Bakery",38.827496,-77.05889945
+"4ad4f29bf964a5204d0021e3","Red Lobster","Food::Seafood Restaurant",38.805185,-77.1345026033
+"4ad502c2f964a520430121e3","Gadsby's Tavern","Food::American Restaurant",38.805645798656116,-77.04355180263519
+"4ad64228f964a520220621e3","Jackson 20","Food::American Restaurant",38.804625782687836,-77.04426527023315
+"4ada08def964a520911d21e3","Panera Bread","Food::Bakery",38.80873356666667,-77.08622669
+"4ada1632f964a520371e21e3","Al's Steak House","Food::Sandwich Place",38.8199919462204,-77.057608
+"4ada226ef964a520e91e21e3","Kaleidoscoops","Food::Dessert Shop",38.771720180301514,-77.1387558130265
+"4adab870f964a520192421e3","IHOP","Food::Breakfast Spot",38.83584252178859,-77.05116391181946
+"4adb57bdf964a5202f2621e3","Bumblefish","Food::Sushi Restaurant",38.80511907092211,-77.04674363136292
+"4adcd534f964a520563021e3","TopGolf Alexandria","Nightlife Spot::Bar",38.776330207489174,-77.13399743784251
+"4adf0a0cf964a520387721e3","Uptowner Cafe - Old Town Alexandria","Food::Coffee Shop",38.80656098063325,-77.0570956653617
+"4adf66ccf964a520467a21e3","Shooter McGee's","Food::Wings Joint",38.81274902851595,-77.1229013167207
+"4ae06354f964a520f67e21e3","USPTO - Madison Building","Professional & Other Places::Government Building",38.80131895585488,-77.06376273348356
+"4ae0e5baf964a5207c8321e3","California Tortilla","Food::Burrito Place",38.80174541285923,-77.07176864147186
+"4ae10d5ff964a520e68421e3","Five Guys","Food::Burger Joint",38.80600530900049,-77.05220460891724
+"4ae33a96f964a520fe9121e3","Le Pain Quotidien","Food::Bakery",38.80517550622274,-77.04711645841599
+"4ae398bff964a520189721e3","T.J. Maxx","Shop & Service::Clothing Store",38.83646235893134,-77.05029892393549
+"4ae50794f964a52019a021e3","Bertucci's","Food::Italian Restaurant",38.80529464726613,-77.04791307449341
+"4ae733c7f964a52056a921e3","Red Curry","Food::Thai Restaurant",38.80411576922762,-77.04044580459595
+"4ae97a31f964a520e8b421e3","Hampton Lane Metro Bus Stop","Travel & Transport::Bus Station::Bus Line",38.836495,-77.106612
+"4ae9931df964a5202cb521e3","Del Ray Service Center","Shop & Service::Gas Station / Garage",38.820786,-77.05755806
+"4aeb8e0cf964a52050c321e3","The Light Horse","Food::American Restaurant",38.80523194147864,-77.04765558242798
+"4aec8769f964a52050c821e3","Sportrock Climbing Center","Shop & Service::Gym / Fitness Center::Gym",38.80122283691424,-77.12608337402344
+"4aedbd93f964a5207ace21e3","Chicken Out Rotisserie","Food::Restaurant",38.79795351482092,-77.04869627952576
+"4aee2597f964a52083d221e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",38.812596354257195,-77.1192604409633
+"4aee646af964a520bad321e3","Chipotle Mexican Grill","Food::Mexican Restaurant",38.81277714165635,-77.11078405380249
+"4aee68d8f964a520cbd321e3","Harris Teeter","Shop & Service::Food & Drink Shop::Grocery Store",38.81269354270867,-77.1120285987854
+"4aeed3bdf964a52054d421e3","Starbucks","Food::Coffee Shop",38.773390500682616,-77.13706484191356
+"4aef2592f964a5200dd621e3","Panera Bread","Food::Bakery",38.77118291337289,-77.13857173919678
+"4aef6e8af964a52060d821e3","Thailand on Royal St","Food::Thai Restaurant",38.81360476594452,-77.04159379005432
+"4aef9bf1f964a5208ad921e3","Red Mei","Food::Asian Restaurant",38.804916729394314,-77.04602616927134
+"4af0378af964a520c5da21e3","Alexandria Volkswagen","Professional & Other Places::Building",38.836335,-77.060059
+"4af22189f964a5200de621e3","Noodles & Company","Food::Ramen /  Noodle House",38.77151750336501,-77.1384859085083
+"4af46fa6f964a5206ff221e3","Cheesetique","Shop & Service::Food & Drink Shop::Cheese Shop",38.827283,-77.05886664
+"4af9a567f964a520db1222e3","Fuddruckers","Food::Burger Joint",38.811731,-77.102932
+"4afdf87bf964a520902c22e3","Braddock Road Metro Station","Travel & Transport::Subway",38.81401439461022,-77.05366373062134
+"4afe03e8f964a520132d22e3","Cost Plus World Market","Shop & Service::Miscellaneous Shop",38.77037705530022,-77.13985689761807
+"4afedc4cf964a520fa3022e3","Old Town Farmers' Market","Shop & Service::Food & Drink Shop::Farmers Market",38.80506054537797,-77.04300999641418
+"4aff297ef964a5202b3522e3","The Butcher Block: a Market by RW","Food::Deli / Bodega",38.806314,-77.056941
+"4b0068a2f964a520dd3d22e3","Eamonn's, A Dublin Chipper","Food::Seafood Restaurant",38.805144153283464,-77.04806327819824
+"4b008deff964a5206d3f22e3","Starbucks","Food::Coffee Shop",38.838962155234974,-77.05177186482996
+"4b0598c5f964a520a4df22e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",38.76966890321033,-77.1410534729266
+"4b0717cff964a5201ef722e3","La Tasca","Food::Tapas Restaurant",38.805043823785084,-77.04612135887146
+"4b075ea2f964a520c6fc22e3","O'Shaughnessy's Pub","Nightlife Spot::Dive Bar",38.80583295437608,-77.0546277448034
+"4b07fc58f964a520ef0123e3","T.C. Williams High School","Professional & Other Places::School::High School",38.82461376202243,-77.08524942398071
+"4b089403f964a520c30e23e3","Pork Barrel BBQ Restaurant","Food::BBQ Joint",38.82675340444594,-77.05898451804762
+"4b0ac679f964a520a12723e3","Quiznos","Food::Sandwich Place",38.82880592656095,-77.1097363301237
+"4b0b057df964a520ab2b23e3","Cosi","Food::Sandwich Place",38.805038,-77.047077
+"4b0c2168f964a520773723e3","Giant","Shop & Service::Food & Drink Shop::Grocery Store",38.8313587523696,-77.12535381317139
+"4b0db438f964a520484e23e3","Unwined","Shop & Service::Food & Drink Shop::Wine Shop",38.82957853818419,-77.09205150604248
+"4b0ded6cf964a520c45223e3","The Little Theatre of Alexandria","Arts & Entertainment::Performing Arts Venue::Theater",38.80141514530766,-77.04690456390381
+"4b0f3c4bf964a520ae6023e3","Starbucks","Food::Coffee Shop",38.80155728596052,-77.07207441329956
+"4b113019f964a520b27823e3","Bruegger's","Food::Bagel Shop",38.8048097210728,-77.046217918396
+"4b1161bcf964a5204e7b23e3","Pho Viet Flare","Food::Asian Restaurant",38.806352152511074,-77.13283450031794
+"4b1167e2f964a520e87b23e3","Frizzles of Alexandria","Shop & Service::Salon / Barbershop",38.80181491235328,-77.0618008773614
+"4b11d555f964a520ae8523e3","La Madeleine Country French Café","Food::French Restaurant",38.80464668480096,-77.04493045806885
+"4b12edb5f964a520119123e3","Fontaine Caffe & Creperie","Food::French Restaurant",38.8040566108137,-77.04376042354757
+"4b145dd2f964a520eea123e3","Bombay Curry Company","Food::Indian Restaurant",38.833335,-77.06031
+"4b145ed8f964a52006a223e3","Lone Star Steakhouse","Food::Steakhouse",38.808513470226664,-77.08539962768555
+"4b147370f964a5204da323e3","Satay sarinah","Food::Malaysian Restaurant",38.80606326,-77.13221490383148
+"4b16acf6f964a520dbbb23e3","Burrito Grill","Food::Burrito Place",38.811524,-77.045471
+"4b1714b2f964a520fdc123e3","Planet Wine","Shop & Service::Food & Drink Shop::Wine Shop",38.82422601683749,-77.0583211743444
+"4b17babef964a5208ec723e3","Passport Infiniti","Shop & Service::Automotive Shop",38.809093,-77.122552
+"4b17f643f964a52059ca23e3","IHOP","Food::Diner",38.8169065171812,-77.1412894159375
+"4b182d10f964a5205dce23e3","Alexandria Professional Center","Professional & Other Places::Medical Center",38.82818059951979,-77.11044434318644
+"4b19ba1cf964a520e8e223e3","Galae Thai","Food::Thai Restaurant",38.80184156641565,-77.07126975059509
+"4b1a61d5f964a52092e923e3","Department of Motor Vehicles (DMV)","Professional & Other Places::Government Building",38.80383149784564,-77.079176902771
+"4b1ae6cef964a5204df423e3","Inova Alexandria Hospital","Professional & Other Places::Medical Center::Hospital",38.82245723624468,-77.10484027862549
+"4b1c5188f964a520fb0524e3","Cafe Pizzaiolo","Food::Italian Restaurant",38.833907,-77.060413
+"4b1d07ecf964a520460b24e3","CVS","Shop & Service::Drugstore / Pharmacy",38.81135594620186,-77.13312149047852
+"4b1d3e3bf964a520860d24e3","Starbucks","Food::Coffee Shop",38.80678076794664,-77.05978839577953
+"4b1d965cf964a520b41224e3","Books a million","Shop & Service::Bookstore",38.80482,-77.044998
+"4b1ef043f964a520ce2124e3","Pops Old Fashioned Ice Cream Company","Food::Ice Cream Shop",38.80431016003439,-77.0407435297966
+"4b1ef35bf964a520f52124e3","Fireflies","Arts & Entertainment::Music Venue::Rock Club",38.81979074391211,-77.05722570419312
+"4b1faf48f964a5200a2824e3","Bittersweet Catering~Cafe~Bakery","Food::Dessert Shop",38.80544514093089,-77.04901814460754
+"4b20150bf964a520f72c24e3","The Westin Alexandria","Travel & Transport::Hotel",38.803028843115676,-77.06544399261475
+"4b204f55f964a5206b3024e3","Society for Human Resource Management","Professional & Other Places::Office",38.80435648104513,-77.06107009184551
+"4b20fc69f964a520d43524e3","Exxon","Shop & Service::Gas Station / Garage",38.812148,-77.045034
+"4b21b807f964a5209b4024e3","Sheraton Suites Old Town Alexandria","Travel & Transport::Hotel",38.8132939536991,-77.04366484525028
+"4b233b1cf964a5208b5424e3","PX","Nightlife Spot::Speakeasy",38.80508980815607,-77.04807937145233
+"4b23ec11f964a520f95c24e3","Potomac Bead Company","Shop & Service::Arts & Crafts Store",38.805695,-77.051768
+"4b257f06f964a520db7224e3","Taqueria Poblano","Food::Mexican Restaurant",38.827137,-77.058849
+"4b28605ef964a520e79224e3","Fitness First","Shop & Service::Gym / Fitness Center::Gym",38.811572784751526,-77.13318843902401
+"4b28e559f964a520fb9524e3","Dunkin' Donuts","Food::Donut Shop",38.80643170263861,-77.05809473991394
+"4b29aa62f964a5204ca224e3","Pasara Thai","Food::Thai Restaurant",38.803778120285884,-77.06469024746396
+"4b2a6f7ff964a5201ca924e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",38.79948,-77.0444949
+"4b2bd010f964a52081bb24e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",38.81014141,-77.13320655
+"4b2bd351f964a520c6bb24e3","Let's Meat on the Avenue","Shop & Service::Food & Drink Shop::Butcher",38.82696568965912,-77.058694
+"4b2bdb67f964a52071bc24e3","Palm Beach Tan","Shop & Service::Tanning Salon",38.82946156250013,-77.09218638430356
+"4b2faf37f964a520fded24e3","Gap Outlet","Shop & Service::Clothing Store",38.80489332927264,-77.04668998718262
+"4b2fbb76f964a520c0ee24e3","Wendy's","Food::Fast Food Restaurant",38.81069549866393,-77.1325957775116
+"4b314147f964a520510325e3","Chili's Grill & Bar","Food::American Restaurant",38.76489951025473,-77.15526539771484
+"4b337d14f964a520e71925e3","Starbucks","Food::Coffee Shop",38.811281,-77.050304
+"4b367b92f964a5207e3625e3","Toys"Я"Us","Shop & Service::Toy / Game Store",38.76837229548071,-77.13985919952393
+"4b37adaff964a5202f4425e3","Afghan Restaurant","Food::Middle Eastern Restaurant",38.83057615,-77.0513832
+"4b37dca0f964a520a54725e3","Zikrayet","Food::Middle Eastern Restaurant",38.80176544189453,-77.0617446899414
+"4b3a4632f964a520826325e3","Chick-fil-A","Food::Fast Food Restaurant",38.815804,-77.131471
+"4b3ab069f964a520b86c25e3","Subway","Food::Sandwich Place",38.839022,-77.0516
+"4b3ba59ff964a520f37725e3","Cold Stone Creamery","Food::Ice Cream Shop",38.80205477601273,-77.0715594291687
+"4b3bc74cf964a520fb7a25e3","Waterfront Cafe","Food::Sushi Restaurant",38.81300354003906,-77.03999328613281
+"4b3bfc55f964a520d07f25e3","Pizzaiolo Cafe on Fern","Food::Pizza Place",38.829461,-77.08452522754669
+"4b3bfd23f964a520e17f25e3","Carousel30","Professional & Other Places::Office",38.80513596850245,-77.04819067573051
+"4b3cda00f964a5203a8825e3","Chicken Out Rotisserie","Food::American Restaurant",38.82807409712189,-77.09145069122314
+"4b3d2d6df964a520a78f25e3","King Street Blues","Food::Southern / Soul Food Restaurant",38.77340790733779,-77.13428020477295
+"4b3e058ef964a520d49725e3","Dunkin' Donuts","Food::Coffee Shop",38.807355,-77.08265254
+"4b3e2c4df964a520259925e3","Mancini's Cafe & Bakery","Food::Bakery",38.820350799174605,-77.05777287483215
+"4b3e973ef964a520689f25e3","BRABO Restaurant by Robert Wiedmaier","Food::New American Restaurant",38.806252,-77.056728
+"4b3fb27bf964a5207eac25e3","Mr. Wash","Shop & Service::Automotive Shop",38.80793586159157,-77.1326378672503
+"4b40b29df964a52001ba25e3","Giant Food","Shop & Service::Food & Drink Shop::Grocery Store",38.806975141811876,-77.13230609893799
+"4b43af65f964a52055e625e3","Giant","Shop & Service::Food & Drink Shop::Grocery Store",38.82896004959608,-77.09240555763245
+"4b467f01f964a5209c2226e3","Tropical Smoothie Café","Food::Sandwich Place",38.82180975159875,-77.04743169736362
+"4b468bd5f964a520ef2326e3","Taverna Cretekou","Food::Greek Restaurant",38.80519431797968,-77.0488652586937
+"4b46ac59f964a520a12626e3","Giant Food","Shop & Service::Food & Drink Shop::Grocery Store",38.81489216238959,-77.0432460308075
+"4b472ff3f964a520912c26e3","Labcorp","Professional & Other Places::Medical Center::Doctor's Office",38.81106512,-77.12099
+"4b48c69af964a520745626e3","Crate & Barrel Outlet","Shop & Service::Furniture / Home Store",38.805323,-77.059093
+"4b48d392f964a520dc5826e3","Giant","Shop & Service::Food & Drink Shop::Grocery Store",38.808530191005204,-77.08441257476807
+"4b48ee61f964a520ee5d26e3","Rocklands Real Barbeque","Food::BBQ Joint",38.806944,-77.087608
+"4b48fa6df964a520736026e3","Pacers","Shop & Service::Sporting Goods Shop",38.805967,-77.05366909503937
+"4b49feedf964a520797726e3","Robeks Fruit Smoothies - Kingstowne Center","Food::Ice Cream Shop",38.77454077,-77.135096
+"4b4a22baf964a520de7b26e3","Buzz Bakery","Food::Bakery",38.82153776740927,-77.04761803150177
+"4b4a65b1f964a520678626e3","Noodles & Company","Food::Ramen /  Noodle House",38.80826265807763,-77.0835542678833
+"4b4b93eff964a520dda026e3","US Post Office","Professional & Other Places::Post Office",38.80653203018258,-77.04693675041199
+"4b4b978df964a5204ba126e3","Starbucks","Food::Coffee Shop",38.80411576922762,-77.04020977020262
+"4b4bbb7ff964a520aaa526e3","Geranio","Food::Italian Restaurant",38.805027102188305,-77.04784870147705
+"4b4cd6c8f964a52013c126e3","Murphy's Grand Irish Pub","Nightlife Spot::Pub",38.80520267875893,-77.04754829406738
+"4b4d0b63f964a520fcc826e3","Sports Authority","Shop & Service::Sporting Goods Shop",38.83832038314109,-77.05035924911499
+"4b4d13dcf964a52021ca26e3","Holiday Inn Hotel & Suites","Travel & Transport::Hotel",38.81533522201766,-77.04312801361084
+"4b4e5ec1f964a5203aeb26e3","ann taylor","Shop & Service::Clothing Store::Women's Store",38.80549240112305,-77.0467529296875
+"4b4e6536f964a52026ec26e3","Atlantis Pizzeria & Family Restaurant","Food::Italian Restaurant",38.828120358454015,-77.09156256376764
+"4b4e6684f964a5205bec26e3","Banana Republic","Shop & Service::Clothing Store",38.80492677252509,-77.04684019088745
+"4b4f79daf964a520280827e3","Paper Source","Shop & Service::Paper / Office Supplies Store",38.80422446092689,-77.04115390777588
+"4b50fcc1f964a5201b3c27e3","Romano's Macaroni Grill","Food::Italian Restaurant",38.77102808022358,-77.13726146769218
+"4b51fa50f964a520c85e27e3","Dry Clean Outlet","Shop & Service::Laundry Service",38.80528628649764,-77.13013887405396
+"4b51fbbdf964a5204e5f27e3","US Post Office","Professional & Other Places::Post Office",38.80780283351098,-77.12399125099182
+"4b5219d7f964a520da6727e3","Old Town Ace Hardware","Shop & Service::Hardware Store",38.796766153558366,-77.04886794090271
+"4b522391f964a520dd6a27e3","Meridian at Eisenhower","Shop & Service::Gym / Fitness Center::Gym",38.80098919840546,-77.06874873979763
+"4b5237def964a520957027e3","Carafe Wine","Food::Winery",38.804976,-77.04960279
+"4b524adaf964a520537527e3","Uptown Market and Cafe","Food::Deli / Bodega",38.80139044105252,-77.06816976656762
+"4b526042f964a520327a27e3","Old Navy","Shop & Service::Clothing Store",38.83760168687603,-77.05010175704956
+"4b526763f964a520947b27e3","Los Toltecos","Food::Mexican Restaurant",38.81154256,-77.10214
+"4b5308d8f964a520238d27e3","Shell Gas Station","Shop & Service::Gas Station / Garage",38.80738547291753,-77.13311540413878
+"4b5328adf964a520a79027e3","Alfred Street Baptist Church","Professional & Other Places::Spiritual Center::Church",38.802886705398215,-77.05002665519714
+"4b539640f964a52088a327e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",38.82061208333333,-77.05445
+"4b53db57f964a5205fad27e3","T.G.I. Friday's","Food::American Restaurant",38.84185031438456,-77.10826971832594
+"4b54e1a5f964a5202ad127e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",38.807648,-77.084422
+"4b54e31af964a5206ad127e3","Oronoco Bay Park","Outdoors & Recreation::Park",38.81107170370827,-77.0396089553833
+"4b55edb0f964a5200ef727e3","The Warehouse Bar and Grill","Food::Cajun / Creole Restaurant",38.80433315246033,-77.0421302318573
+"4b5657bff964a5205c0c28e3","RedPeg Marketing","Professional & Other Places::Office",38.8128177894886,-77.04517722237902
+"4b575fd5f964a520623428e3","Land Rover Alexandria","Shop & Service::Automotive Shop",38.806389899453585,-77.07692384719849
+"4b577d7cf964a520103828e3","Cafe Monti","Food::Italian Restaurant",38.80799529,-77.08680158333334
+"4b57af4cf964a520c43b28e3","Overwood","Food::American Restaurant",38.806339735599174,-77.0412826538086
+"4b57b289f964a5207e3c28e3","The Pita House","Food::Middle Eastern Restaurant",38.805257023800245,-77.0477682352066
+"4b57bad3f964a5203c3e28e3","Baja Fresh","Food::Mexican Restaurant",38.80842150587457,-77.08653688430786
+"4b590686f964a520037928e3","Mango Mike's","Food::Caribbean Restaurant",38.81154822724551,-77.1107679605484
+"4b59f5d6f964a520e6a328e3","Le Tache","Shop & Service::Toy / Game Store",38.804474836811075,-77.04202875796445
+"4b5a45fef964a5203fb928e3","La Bergerie","Food::French Restaurant",38.806189243824015,-77.04123973846436
+"4b5a4d82f964a52088bb28e3","Bread & Chocolate Cafe","Food::Café",38.80509398855195,-77.04629302024841
+"4b5b21d5f964a52060e528e3","Yates Brushless Car Wash & Detail Center","Shop & Service::Automotive Shop",38.81648883604257,-77.04960823059082
+"4b5b32dcf964a5208aea28e3","Il Porto","Food::Italian Restaurant",38.80446692642775,-77.04136312007904
+"4b5b9278f964a520fe0729e3","Delia's Mediterranean Grill & Brick Oven Pizza","Food::Mediterranean Restaurant",38.802209457085816,-77.07126975059509
+"4b5c6ed4f964a520982f29e3","Royal Nails","Shop & Service::Cosmetics Shop",38.810948,-77.121381
+"4b5cb163f964a520ce3e29e3","Liberty Gas","Shop & Service::Gas Station / Garage",38.83755536827862,-77.10383043912798
+"4b5cdd8cf964a520324829e3","The Home Depot","Shop & Service::Hardware Store",38.80807872860713,-77.12576150894165
+"4b5e2cd9f964a520b68129e3","U.S. Bowling","Arts & Entertainment::Bowling Alley",38.810263,-77.121831
+"4b5e4ad1f964a520138829e3","Macy's - Landmark Mall","Shop & Service::Mall",38.816244089377314,-77.1308175914872
+"4b5f3029f964a520f0ab29e3","Virginia Theological Seminary","College & University::College Academic Building",38.820730827631515,-77.09231564400923
+"4b5f36a0f964a520bbad29e3","Hair Cuttery","Shop & Service::Salon / Barbershop",38.83959061925403,-77.05162525177002
+"4b5f471df964a52087b129e3","Firehook Bakery","Food::Bakery",38.800587379401684,-77.0476770401001
+"4b606492f964a52067e329e3","Capital Bagel Bakery","Food::Bagel Shop",38.828591080522116,-77.09094436003922
+"4b60d076f964a52030fb29e3","Asian Bistro","Food::Asian Restaurant",38.805357352998406,-77.04847633838654
+"4b6217c4f964a520ec342ae3","Balducci's","Shop & Service::Food & Drink Shop::Grocery Store",38.79796187644981,-77.04795598983765
+"4b62fbfef964a520385c2ae3","219 Restaurant","Food::Cajun / Creole Restaurant",38.80457561759133,-77.04215168952942
+"4b633f5ff964a5205d6d2ae3","Firehouse Subs","Food::Sandwich Place",38.771554874314326,-77.13848054029154
+"4b6474fcf964a520a5b42ae3","Sunoco","Shop & Service::Gas Station / Garage",38.83135915,-77.0850670337677
+"4b6476d1f964a5204eb52ae3","ParkFairfax Community Center","Professional & Other Places::Building",38.84227,-77.07794
+"4b64cfaff964a520e9d12ae3","Shiro Japanese Steak House","Food::Sushi Restaurant",38.773695,-77.137288
+"4b65a7b3f964a52010f82ae3","First Baptist Church Alexandria","Professional & Other Places::Spiritual Center::Church",38.81962217074248,-77.07843910165231
+"4b65a9b2f964a5206ef82ae3","Giant","Shop & Service::Food & Drink Shop::Grocery Store",38.77288400198507,-77.13662102825145
+"4b661340f964a52045122be3","Walmart","Shop & Service::Department Store",38.77001183604167,-77.13621139526367
+"4b672002f964a520553c2be3","Starbucks","Food::Coffee Shop",38.808346262225434,-77.08391904830933
+"4b6720bbf964a520813c2be3","Hana Tokyo Japanese Steakhouse","Food::Japanese Restaurant",38.8128046542635,-77.11173111811793
+"4b6764c6f964a5202b4c2be3","Northern Virginia Community College","College & University::Community College",38.840700549298134,-77.11438891077887
+"4b68f080f964a52009942be3","Magruder's Grocery Store","Shop & Service::Food & Drink Shop::Grocery Store",38.829375393416406,-77.10958461249442
+"4b69658af964a520f5a02be3","Embassy Suites","Travel & Transport::Hotel::Motel",38.805303008033626,-77.06128120422363
+"4b6b30f2f964a5209ef82be3","VCA Old Town Animal Hospital","Professional & Other Places::Medical Center",38.80976867675781,-77.05043029785156
+"4b6b5544f964a52084012ce3","CVS","Shop & Service::Drugstore / Pharmacy",38.829096916666664,-77.085769
+"4b6b96d4f964a52072112ce3","Crowne Plaza","Travel & Transport::Hotel",38.81417740944433,-77.04008638858795
+"4b6c3306f964a52009292ce3","Po Siam","Food::Thai Restaurant",38.83973,-77.062553
+"4b6c706ff964a5203c3a2ce3","ABC Store","Shop & Service::Food & Drink Shop::Liquor Store",38.82877731323242,-77.09204864501953
+"4b6cd341f964a52036572ce3","Illusions Thai Cafe","Food::Thai Restaurant",38.83127212524414,-77.1253890991211
+"4b6f1b7af964a52072dd2ce3","PetSmart","Shop & Service::Pet Store",38.835462268987854,-77.04999446868896
+"4b706a92f964a52019192de3","Pier 1 Imports","Shop & Service::Furniture / Home Store",38.83985803449393,-77.05050945281982
+"4b708711f964a520f21f2de3","Periwinkle","Shop & Service::Clothing Store::Women's Store",38.82179641723633,-77.04736328125
+"4b717a9af964a520c8482de3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",38.804935133335775,-77.04497337341309
+"4b71a64ff964a520a1532de3","Blockbuster","Shop & Service::Video Store",38.828805685043335,-77.0907304
+"4b743f95f964a520cccf2de3","thai peppers","Food::Thai Restaurant",38.824573,-77.058484
+"4b76b448f964a5208e592ee3","Blessed Sacrament Catholic Church","Professional & Other Places::Spiritual Center::Church",38.82700425302337,-77.08269596099854
+"4b76dac7f964a5206d642ee3","AT&T","Shop & Service::Miscellaneous Shop",38.838083226319924,-77.05135022328065
+"4b76e5d3f964a52057682ee3","Extra Perks Coffee Shop","Food::Breakfast Spot",38.81319513492301,-77.04082131385803
+"4b77046bf964a520de742ee3","Meridian at Braddock","Professional & Other Places::Building",38.81556032997546,-77.05100166515426
+"4b771ed0f964a520707f2ee3","Burger King","Food::Burger Joint",38.771560083333334,-77.136373
+"4b782812f964a520d9b82ee3","Nina's Dandy","Travel & Transport::Ferry::Boat or Ferry",38.80274874793072,-77.03894913196564
+"4b78415bf964a520efbf2ee3","McDonald's","Food::Fast Food Restaurant",38.81624641145766,-77.04975843429565
+"4b78a2e2f964a52053db2ee3","Four Seasons Cafe","Food::Chinese Restaurant",38.770633697509766,-77.1407470703125
+"4b797d09f964a52039fc2ee3","Dunkin' Donuts","Food::Donut Shop",38.83503604914798,-77.05111026763916
+"4b7989f3f964a520e0ff2ee3","Hank's Oyster Bar","Food::Seafood Restaurant",38.80550366615912,-77.05117464065552
+"4b79c5ebf964a52019112fe3","Johnny Rockets","Food::Burger Joint",38.77167852423935,-77.13861532509327
+"4b7eab38f964a52035f82fe3","Anne Welsh Salon","Shop & Service::Salon / Barbershop",38.825095,-77.058664
+"4b7ed1b0f964a520c60130e3","Merchant's Tire & Auto Centers","Shop & Service::Automotive Shop",38.843129,-77.109997
+"4b7ee7a4f964a5204b0830e3","Alexandria City Hall","Professional & Other Places::Government Building::City Hall",38.80540333716701,-77.04292416572571
+"4b828a81f964a52075d730e3","Entrepreneurs' Organization - Global Offices","Professional & Other Places::Office",38.81351,-77.043177
+"4b82acf4f964a520dbdd30e3","Williams-Sonoma","Shop & Service::Furniture / Home Store",38.796302073885315,-77.04901814460754
+"4b82c225f964a520eae230e3","Tokyo Japanese Steak House","Food::Japanese Restaurant",38.813626,-77.038672
+"4b88422af964a520e0ea31e3","McDonald's","Food::Burger Joint",38.806932868880715,-77.13389631328985
+"4b894566f964a5207a2732e3","Bistro Lafayette","Food::French Restaurant",38.805599814644,-77.0522153377533
+"4b896b80f964a520993432e3","Red Barn Mercantile","Shop & Service::Thrift / Vintage Store",38.80492,-77.04821383
+"4b89a809f964a520954932e3","Ichiban Sushi House","Food::Sushi Restaurant",38.80446901664401,-77.04181909561157
+"4b8a914df964a520a17232e3","Restaurant Depot","Food::Restaurant",38.803321838378906,-77.11588287353516
+"4b8bc6cdf964a520d2aa32e3","Marino's Pizza & Subs","Food::Italian Restaurant",38.833824157714844,-77.0516128540039
+"4b8edca6f964a520713b33e3","salon dezen","Shop & Service::Salon / Barbershop",38.805564,-77.05074098
+"4b9289a0f964a520220234e3","Market Square","Outdoors & Recreation::Plaza",38.80470103026635,-77.04304218292236
+"4b92b596f964a520e51334e3","U. S. Post Office","Professional & Other Places::Post Office",38.81226718654926,-77.05033779144287
+"4b945618f964a520277534e3","The Creamery","Food::Ice Cream Shop",38.804203558689906,-77.04071134328842
+"4b965fa5f964a520bbc834e3","Shell Gas Station","Shop & Service::Gas Station / Garage",38.834361666666666,-77.051762
+"4b9e7250f964a5208ee436e3","Phase One Consulting Group","Professional & Other Places::Office::Coworking Space",38.81513595581055,-77.03865814208984
+"4b9ea70df964a520f3f636e3","NTB - National Tire & Battery","Shop & Service::Automotive Shop",38.83150971514228,-77.0513614670744
+"4b9ec898f964a520970137e3","Nail Chateau","Shop & Service::Cosmetics Shop",38.833437,-77.060482
+"4b9f7df1f964a520472637e3","Hairy Situations Dog Grooming","Shop & Service::Pet Store",38.8216051,-77.04736611666667
+"4b9f9cf1f964a520ea2e37e3","Eye2eye","Professional & Other Places::Medical Center::Doctor's Office",38.819962,-77.05768845
+"4b9faff7f964a520013537e3","Ritz Camera & Image - Alexandria","Shop & Service::Miscellaneous Shop",38.80481719970703,-77.04600524902344
+"4ba01a5ff964a520445a37e3","7-Eleven","Shop & Service::Food & Drink Shop::Grocery Store",38.825202,-77.058794
+"4ba135e9f964a52078a237e3","Bishop Ireton High School","Professional & Other Places::School::High School",38.80904426420553,-77.08088405224099
+"4ba187c6f964a52071be37e3","Wells Fargo","Shop & Service::Bank",38.84209378660442,-77.10738187564102
+"4ba23d30f964a52014e637e3","MOAA","Professional & Other Places::Office",38.806339735599174,-77.04640030860901
+"4ba25a05f964a5201ef037e3","Picca Deli","Food::Deli / Bodega",38.805822,-77.04158
+"4ba26613f964a520edf437e3","Walgreens","Shop & Service::Drugstore / Pharmacy",38.80518595719943,-77.04637885093689
+"4ba2976ef964a520370738e3","Media Star Promotions","Professional & Other Places::Office::Coworking Space",38.80893296993346,-77.03999907937349
+"4ba3ac97f964a520d95238e3","Mr. Wash","Shop & Service::Automotive Shop",38.83613772942753,-77.06056416081589
+"4ba3dd9ff964a5201a6838e3","Liberty Gas","Shop & Service::Gas Station / Garage",38.798329787149584,-77.0515501499176
+"4ba3fc87f964a5209e7438e3","Papyrus","Shop & Service::Gift Shop",38.805233001708984,-77.04781341552734
+"4ba40023f964a5205a7638e3","Carlyle Dog Park","Outdoors & Recreation::Dog Run",38.803764610296845,-77.0674180984497
+"4ba4fe8ff964a520b5cd38e3","Alexandria Cupcake","Food::Cupcake Shop",38.805470223177466,-77.05100297927856
+"4ba7ddb0f964a52032ba39e3","American Day School - Infant Room","Professional & Other Places::School",38.81011,-77.04958
+"4baa3d0df964a52086563ae3","Subway","Food::Sandwich Place",38.804527282714844,-77.06082153320312
+"4baa7aacf964a520ad6d3ae3","Courtyard by Marriott Alexandria","Travel & Transport::Hotel",38.80222617934387,-77.0792305469513
+"4bae35acf964a5208e923be3","Charles Beatley Jr. Alexandria Central Library","Professional & Other Places::Library",38.81243948898775,-77.11782765855044
+"4bae61d9f964a520f8aa3be3","Sunoco (Yates Kingstowne)","Shop & Service::Gas Station / Garage",38.7724291780464,-77.13504238653958
+"4bae62dcf964a5207eab3be3","Barnes & Noble","Shop & Service::Bookstore",38.83791925123699,-77.05033779144287
+"4bb17613f964a5200c953ce3","Au Domaine","Shop & Service::Food & Drink Shop::Wine Shop",38.81263920334004,-77.0409232378006
+"4bb20b22f964a52027b43ce3","800 Carlyle","Professional & Other Places::Building",38.79883344405757,-77.06214940427766
+"4bb3810d14cfd13a191f16ab","old town sandwich shop","Food::Sandwich Place",38.80567169189453,-77.05634307861328
+"4bb3934b35f0c9b61294bc83","Ruby Tuesday","Food::American Restaurant",38.77603431465469,-77.1344518661499
+"4bb3a132eb3e9521546acb0a","Alexandria Old Town Dental","Professional & Other Places::Medical Center::Dentist's Office",38.80226,-77.0476
+"4bb3e928bd4b9c745c1e32f5","DC Street Hockey","Outdoors & Recreation::Athletic & Sport::Skating Rink",38.82637285,-77.11293006666666
+"4bb4823a643cd13a78b8395c","St Mary's Catholic School","Professional & Other Places::School",38.79515075683594,-77.0467758178711
+"4bb4b51e6ebfc9b6033fedfa","Rite Aid","Shop & Service::Drugstore / Pharmacy",38.81268100285804,-77.11029052734375
+"4bb4d8ef86a8d13a83f9de7f","Greenstreet Gardens","Shop & Service::Flower Shop",38.82708121814134,-77.08674049029324
+"4bb4dd0e3548ef3bcff3a17d","State of Virginia","Travel & Transport::General Travel",38.83332860709085,-77.06227869626447
+"4bb526c3f562ef3bff922e97","Ross Dress For Less","Shop & Service::Clothing Store",38.77354990361057,-77.13584575485855
+"4bb5dfde1344b713e6ac9c04","Nannie J. Lee Memorial Recreation Center","Shop & Service::Gym / Fitness Center",38.797200964203704,-77.05289125442505
+"4bb630e31344b713a61d9d04","Franklin P. Backus Courthouse","Professional & Other Places::Government Building::Courthouse",38.80455053502983,-77.04533815383911
+"4bb639b82ea195215654ab2f","Residence Inn Alexandria Old Town","Travel & Transport::Hotel",38.80371639409686,-77.05774777260937
+"4bb787f2cf2fc9b616599e02","Washington Sailing Marina","Outdoors & Recreation::Harbor / Marina",38.832453603771874,-77.04216241836548
+"4bb7cbb2b35776b0da31c801","Bonefish Grill","Food::Seafood Restaurant",38.772105123240294,-77.13888823986053
+"4bb8c8947421a593bd17c240","Old Town Alexandria Waterfront","Outdoors & Recreation::Harbor / Marina",38.80473447360909,-77.03943729400635
+"4bb92d21cf2fc9b67d55a002","Alexandria-National Harbor Water Taxi","Travel & Transport::Ferry::Boat or Ferry",38.80557055207538,-77.03857898712158
+"4bbbe6f9ed7776b0fd213f51","Thai Old Town Restaurant","Food::Thai Restaurant",38.80445020469558,-77.04272031784058
+"4bbcacb98ec3d13a300b1b28","Starbucks","Food::Coffee Shop",38.803455254566785,-77.06536889076233
+"4bc3679f920eb7131c681d2c","Special Touch","Shop & Service::Salon / Barbershop",38.830917,-77.125218
+"4bc39af2dce4eee17cac719d","Holiday Inn","Travel & Transport::Hotel",38.80111414063622,-77.07381248474121
+"4bc3a85babf49521541ac493","Le Refuge","Food::French Restaurant",38.80585479736328,-77.04662322998047
+"4bc429bedce4eee1a0fb719d","Comfort Inn Landmark","Travel & Transport::Hotel",38.816726200309574,-77.14139053422794
+"4bc475162a89ef3b1648f688","OK Cleaners","Shop & Service::Laundry Service",38.82042261666667,-77.06295628333334
+"4bc5db020a30d13ab78e5a9c","MyEyeDr.","Professional & Other Places::Medical Center",38.812833,-77.11144355
+"4bc61b6751b376b0ecff1a6f","Solar Planet of Alexandria","Shop & Service::Tanning Salon",38.81424331665039,-77.04487609863281
+"4bc665c0db8fa593c75a9c37","Palm Beach Tan","Shop & Service::Tanning Salon",38.77450180053711,-77.13526153564453
+"4bc7036314d79521dc8b66e9","Alexandria Hyundai","Shop & Service::Automotive Shop",38.82197,-77.057522
+"4bc7438714d79521120367e9","The Gym at Foxchase","Shop & Service::Gym / Fitness Center::Gym",38.81518168027927,-77.10976442595988
+"4bc78c2414d795213b9867e9","City Marina","Outdoors & Recreation::Harbor / Marina",38.80510353333333,-77.039228
+"4bc87be98b7c9c74f92b38cf","TD Bank","Shop & Service::Bank",38.80409904741304,-77.04733371734619
+"4bcc5a17fb84c9b6d82e203e","ASCD","Professional & Other Places::Office",38.83164176189768,-77.12280018277934
+"4bcc8f1e937ca5937e4fab92","McEnearney Associates Inc., Realtors","Professional & Other Places::Office::Coworking Space",38.80448,-77.04489
+"4bcca60dcc8cd13a1850c1cf","Sears","Shop & Service::Electronics Store",38.815625069045296,-77.13304798728203
+"4bce001b29d4b7134ec2a7dc","Nails Excel","Shop & Service::Cosmetics Shop",38.829314866666664,-77.09249
+"4bd0f90920cd996057982e9e","Travelodge Alexandria","Travel & Transport::Hotel::Motel",38.81210834732758,-77.04583436250687
+"4bd37f17a8b3a5937a2b6a5f","RedRocks Pizza Napoletana","Food::Pizza Place",38.80527792572818,-77.04944729804993
+"4bd45aa777b29c74d2709282","Cameron Run Regional Park","Outdoors & Recreation::Park",38.80485198814476,-77.10177932422616
+"4bd48a286f649521af8d6dec","Taco Bell/KFC","Food::Taco Place",38.77195973075835,-77.13651428801067
+"4bd5065c6f6495210d986eec","MetroStage","Arts & Entertainment::Performing Arts Venue::Theater",38.817344665527344,-77.04045104980469
+"4bd5904acfa7b71354f225da","Paul Gibberman, DDS, Family Dentistry","Professional & Other Places::Medical Center::Dentist's Office",38.81309353887046,-77.11200645244317
+"4bd5be6629eb9c7436d193e1","Plaza Gourmet at Carlyle","Food::Restaurant",38.80366516113281,-77.06342315673828
+"4bd5c77e9649ce72d6a9511d","Hawthorn Suites","Travel & Transport::Hotel",38.819310488552865,-77.12853097121668
+"4bd63bf26798ef3bf7e7648d","7-Eleven","Shop & Service::Convenience Store",38.80238001898596,-77.06176714889666
+"4bd71d955631c9b6edfba630","Kabul Kabob House","Food::Middle Eastern Restaurant",38.80693817138672,-77.1371841430664
+"4bd7571435aad13a27aa8ef3","Martin Focus Group Center","Professional & Other Places::Office",38.8164876,-77.04013213333333
+"4bd8d4a311dcc9281809f833","Baskin-Robbins","Food::Ice Cream Shop",38.82897186279297,-77.08478546142578
+"4bd977fbe914a593578d56fa","Dunkin' Donuts","Food::Donut Shop",38.806221,-77.13323646666667
+"4bd982b211dcc92806fff933","Waterman Place","Professional & Other Places::Office",38.814263520032476,-77.04229862955813
+"4bd98cd0e914a593d4df56fa","Washington Square Office Complex","Professional & Other Places::Office",38.81122218516968,-77.04505920410156
+"4bdf25990ee3a593e31b33b0","Landmark Mall","Shop & Service::Mall",38.81602745009867,-77.13142435315643
+"4be2176ffe2995213160966c","San Antonio Bar & Grill","Food::Mexican Restaurant",38.80242728921923,-77.07125009699932
+"4be5f9292468c9285fdb0043","Potomac Yard Center","Shop & Service::Mall",38.837167122822585,-77.0505952835083
+"4be82ed2c5220f475a65a9ca","Jerry's Subs And Pizza","Food::American Restaurant",38.80194854736328,-77.06169128417969
+"4be8341c88ed2d7f3e90cb1d","Foster's Grille","Food::Burger Joint",38.80078805080731,-77.06372737884521
+"4be87fb69a54a593cf0b0a11","Duke's","Food::American Restaurant",38.8065185546875,-77.06085205078125
+"4be975569a54a59383140b11","Thomasville","Shop & Service::Furniture / Home Store",38.83978042351798,-77.05061937443875
+"4be9d58962c0c9286623e0d4","T. C. Williams High School Track","Shop & Service::Gym / Fitness Center::Track",38.82476196722694,-77.08657188282307
+"4beb46e018389521daf10acf","7-Eleven","Shop & Service::Food & Drink Shop",38.81251774012302,-77.12530041347331
+"4bec324c61aca593d2f08500","National Industries for the Blind (NIB)","Professional & Other Places::Office",38.81433206419846,-77.05252647399902
+"4bf946de5ec320a155ec89d3","Uno Chicago Grill","Food::American Restaurant",38.770747944036906,-77.13809967041016
+"4bf9caceb182c9b64e90795a","Hilton Alexandria Mark Center","Travel & Transport::Hotel",38.832921626714075,-77.11756467819214
+"4bfa693cb182c9b68c3a7a5a","Skyline Wellness Center","Professional & Other Places::Medical Center::Doctor's Office",38.836059,-77.10280083
+"4bfbda7a8f32ef3b012d05aa","The Salvation Army National Headquarters","Professional & Other Places::Office",38.82218975562626,-77.04317092895508
+"4bfc1703b5cd2d7ffc1131fb","Restoration Hardware","Shop & Service::Furniture / Home Store",38.804884968457074,-77.04655051231384
+"4bfe76ffb68d0f471e34ea57","National Media Center","Professional & Other Places::Office",38.82159170284226,-77.04618921136885
+"4bfe88c64cf820a17700eef4","Pepi's Pizza Box","Food::Pizza Place",38.80784606933594,-77.12419891357422
+"4bfef71dc30a2d7fea48101d","Urban Evolution","Shop & Service::Gym / Fitness Center",38.80071455748569,-77.1275983322062
+"4bffecce369476b04c858e1f","Wells Fargo","Shop & Service::Bank",38.81219194696208,-77.11140632629395
+"4c045a75f423a593cc8dd116","Market Square","Outdoors & Recreation::Plaza",38.80470103026635,-77.04304218292236
+"4c07fc11a1b32d7f2d4d95f0","Starbucks","Food::Coffee Shop",38.811388,-77.045501
+"4c0e72242466a5931a0c7921","Agudas Achim Synagogue","Professional & Other Places::Spiritual Center::Synagogue",38.83095681667328,-77.08029270172119
+"4c0ec09ad64c0f4739b5285d","Lee Center","Professional & Other Places::Building",38.79751968383789,-77.05378723144531
+"4c0edc98336220a19df2cc77","Popeye's","Food::Fried Chicken Joint",38.83575586,-77.06113999
+"4c0fea2af1b6a5931d0e7b27","Dukes Laundromat/ Lavanderia","Shop & Service::Laundry Service",38.81214719,-77.10409457
+"4c0ff99ace57c928242181d2","Greener Cleaner Of Del Ray","Shop & Service::Laundry Service",38.82578646635663,-77.05877089928735
+"4c11892ed41e76b0dea4310d","Union 206 Studio","Arts & Entertainment::General Entertainment",38.802677154541016,-77.0403823852539
+"4c12c25782a3c9b69552faf8","East Moon Asian Bistro","Food::Asian Restaurant",38.77198208621954,-77.1387558130265
+"4c139760a5eb76b0b320c0b7","Midas","Shop & Service::Automotive Shop",38.807547791604364,-77.08309851630236
+"4c13ccf377cea5939b76cf60","Aditi Indian Dining","Food::Indian Restaurant",38.7717339219107,-77.13867154593017
+"4c16a7d4127f9521c3432525","Grape & Bean","Shop & Service::Food & Drink Shop::Wine Shop",38.80399035552243,-77.0436429977417
+"4c1bfab7b9f876b0112d7b46","Staples","Shop & Service::Paper / Office Supplies Store",38.8350276918707,-77.04994082450867
+"4c1c1b15b306c928e76463b7","Ben & Jerry's","Food::Ice Cream Shop",38.80400707736256,-77.04043507575989
+"4c1d7b65b9f876b034c57d46","7-Eleven","Shop & Service::Convenience Store",38.828975677490234,-77.10964965820312
+"4c229267fbe5c9b68f209a21","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",38.83071914953677,-77.125592571851
+"4c27877e136d20a1b416e761","Alexandria, Virginia","Outdoors & Recreation::City",38.805470223177466,-77.05031633377075
+"4c2908713492a593254eb828","Cafe Monte Carlo","Food::Café",38.815425872802734,-77.04332733154297
+"4c2a419d2219c928c7cfa248","ASTD","Professional & Other Places::Office",38.80642318725586,-77.05816650390625
+"4c2c63e477cfe21e75eeb5f1","UPS","Professional & Other Places::Post Office",38.80060558995194,-77.12886806786362
+"4c2ce01a1683b7134a3a26ec","Grant Thornton","Professional & Other Places::Office",38.803854994292564,-77.06229556042643
+"4c2e675a66e40f47a92cc08b","Matthew Hayes","Travel & Transport::Ferry::Boat or Ferry",38.80515184,-77.03898
+"4c335bad7cc0c9b6f2a3f19a","A La Lucia","Food::Italian Restaurant",38.812694,-77.041669
+"4c37d0cd2c8020a180ce8900","Jedi-Ho's So-Called Housewarming","Nightlife Spot::Dive Bar",38.803241,-77.059722
+"4c37d44218e72d7fe65a17f5","MOD Bday BBQ","Nightlife Spot::Cocktail Bar",38.824909,-77.06967
+"4c41ea283735be9a7e2219a4","FedEx World Service Center","Shop & Service::Financial or Legal Service",38.803555,-77.115959
+"4c42fb4eaf052d7f25b27f79","Town Square at Mark Center Apartments","Professional & Other Places::Building",38.82900390235384,-77.12366543706912
+"4c430990d691c9b6d5258f0a","Four Mile Run Farmers and Artisans Market","Shop & Service::Food & Drink Shop::Farmers Market",38.843532747875734,-77.06398758601325
+"4c4321583735be9accf21aa4","St Rita Church","Professional & Other Places::Spiritual Center::Church",38.83883850850412,-77.06338405609131
+"4c43784456a7ef3bd3f5cd21","FitOne Studio","Shop & Service::Gym / Fitness Center::Gym",38.813341431986835,-77.04410970211029
+"4c45904d59d99c745024fcad","7-Eleven","Food::Fast Food Restaurant",38.84283405978944,-77.07543202530192
+"4c45954a36d6a5938f006ca8","2000 Duke Street","Professional & Other Places::Office::Coworking Space",38.8039962869899,-77.0639875860133
+"4c471cc31262ef3b6ac9cb41","Town Square at Mark Center Apartments","Professional & Other Places::Building",38.82900390235384,-77.12366543706912
+"4c47993b19fde21e66ed0876","VéloCity Bicycle Cooperative","Shop & Service::Bike Shop",38.825273843125416,-77.04251789978414
+"4c48ce991b430f47b0f8adc2","Old Virginia Tobacco Company","Shop & Service::Smoke Shop",38.7734260559082,-77.13690185546875
+"4c52e806384c76b093c9012b","Zipcar Van Dorn Street Metro","Travel & Transport::Rental Car Location",38.7994384765625,-77.12904357910156
+"4c6016b154ac0f47c7bbb421","Alexandria Visitor Center","Shop & Service::Gift Shop",38.804558,-77.042254
+"4c60224f1e5cd13a7df5a0ed","BB&T","Shop & Service::Bank",38.81132507324219,-77.13259887695312
+"4c60369c924b76b0ce4cedb9","Kearney & Company","Professional & Other Places::Office",38.80521942933137,-77.05940051138928
+"4c628b78ec94a593267229ca","Alexandria Station - AMTRAK/VRE (ALX)","Travel & Transport::Train Station",38.80645678453784,-77.06241846084595
+"4c629fd5fa7bc92821790e27","Historic Alexandria Museum Store","Shop & Service::Gift Shop",38.80441439,-77.03979373333334
+"4c62ae0bec94a593bfcc29ca","PNC Bank","Shop & Service::Bank",38.769587,-77.140334
+"4c630fd7ec94a59353d82aca","Sentinel Of Landmark","Professional & Other Places::Building",38.8129487902118,-77.1407051752484
+"4c647bd15f9b76b01aa70b0f","Higher Level Barber Shop","Shop & Service::Salon / Barbershop",38.8087763837441,-77.0866955283243
+"4c65a4829cb82d7fb26d8ed2","Alexandria Compounding Pharmacy","Shop & Service::Drugstore / Pharmacy",38.802267033279215,-77.04786459672043
+"4c6b17ae7c052d7fcde328cf","Finn & Porter","Food::American Restaurant",38.83268362799361,-77.11743996153696
+"4c706ceab3ce224b12fc73c6","Kingstowne Town Center","Shop & Service::Mall",38.77248780546737,-77.13706970214844
+"4c71b0a69e706dcb4b0d4962","BJ's Wholesale Club","Shop & Service::Miscellaneous Shop",38.8126331896586,-77.13232325366886
+"4c826a2551ada1cdbde71b10","Del Ray Pizzeria","Food::Pizza Place",38.826235292647034,-77.05849170684814
+"4c829620e602b1f717f19d7a","Masonic Temple","Professional & Other Places::Spiritual Center::Temple",38.806768762092965,-77.06269467823752
+"4c863638d92ea0939c086c72","CNA","Professional & Other Places::Office",38.83009251575205,-77.11599030070752
+"4c8e3b65d68c6dcb4961faa1","Ruby Tuesday","Food::American Restaurant",38.802125845736676,-77.07098007202148
+"4c9176f71adc3704799830d1","Nvcc-Alexandria (Tyler)","College & University::Community College",38.84004768465535,-77.11235483374347
+"4c9e8279d3c2b60c9e21ccbc","Medieval Madness at Renaissance Hall","Food::Restaurant",38.805712305374676,-77.05200798345408
+"4cab44e82776b60c7f874a0d","Grass Roots Station","Food::Restaurant",38.81240094561908,-77.05374956130981
+"4cab9570f47ea1439be38c21","Pizzeria Paradiso","Food::Italian Restaurant",38.80424536315774,-77.04113781452179
+"4cb09cd8aef16dcb8b5cb254","Rustico Oktoberfest","Nightlife Spot::Beer Garden",38.82201532,-77.04711386666666
+"4cb1441575ebb60ce816ccad","Boat US","Professional & Other Places::Office",38.802921295166016,-77.13862609863281
+"4cb58f50f6616dcb6038d808","Inova Alexandria Hospital - Surgery Department","Professional & Other Places::Medical Center::Hospital",38.82215118408203,-77.1053466796875
+"4cd3471a08f48cfa88699f85","Alexandria, Virginia","Outdoors & Recreation::City",38.805470223177466,-77.05031633377075
+"4ce1c99941ed224b8c3aec3c","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",38.82943312325284,-77.10907326647698
+"4ce68d17948f224b918ae45d","Alexandria Turkey Trot","Outdoors & Recreation::Other Great Outdoors",38.81490052203074,-77.05656051635742
+"4cead00abaa6a1cde60f3b6c","Artfully Gifts & Chocolate","Shop & Service::Gift Shop",38.80225937164491,-77.06181212018089
+"4ceb2d019f776ea8cbd36c22","Anchor Bar @ Fish Market","Nightlife Spot::Bar",38.804297,-77.040705
+"4d01036b202e224b81a7b62a","Port City Brewing Company","Food::Brewery",38.808257984321465,-77.10132976010794
+"4d0277c8c661f04db7c57612","Sunoco (Yates Kingstowne)","Shop & Service::Gas Station / Garage",38.7724291780464,-77.13504238653958
+"4d1735ee302da1cd9e4aba93","Fitness First","Shop & Service::Gym / Fitness Center::Gym",38.811572784751526,-77.13318843902401
+"4d5e817900942d43c8216ff3","Woodrow Wilson Bridge Pedestrian Trail (Old Town Alexandria to Fort Washington MD)","Outdoors & Recreation::Hiking Trail",38.79316214013487,-77.04381465911865
+"4d849fe7f974cbff2ae3f4ab","Kingstowne Thompson Center","Professional & Other Places::Event Space",38.75548553466797,-77.14994812011719
+"4d8f9b20d00a6ea8313bd34f","Quaker Hill","Residence::Housing Development",38.80971929999806,-77.08513870977387
+"4d964c82b188721e519cf336","Old Town Village Pool & Spa","Outdoors & Recreation::Pool",38.802356358078065,-77.0534021982919
+"4d9a4663ee3037046a870bdc","Kingstowne South Center Aerobics Studio","Shop & Service::Gym / Fitness Center::Yoga Studio",38.7567247123722,-77.1468339423687
+"4da0dded9935a0930de2936f","ProFeed","Shop & Service::Pet Store",38.82943498504081,-77.09175926428648
+"4da43fd77ccc816e46fe8c7b","Blue Line Metro","Travel & Transport::Light Rail",38.82820782650376,-77.04677581787108
+"4da9b9634b22f071eaa5df17","McDonald's","Food::Fast Food Restaurant",38.7997932434082,-77.1301040649414
+"4dab352e93a04642f090a49c","3 Sisters","Shop & Service::Clothing Store::Boutique",38.8045654296875,-77.04229736328125
+"4db18317a86e63d2116c6534","Mark Center","Professional & Other Places::Office",38.83196603610263,-77.11601839507647
+"4db1a7ef1e729fcc5656e118","Subway","Food::Sandwich Place",38.80447528729237,-77.0432460308075
+"4db36136cda1c57c8245b979","Nick's Country Bar","Nightlife Spot::Whisky Bar",38.80879592895508,-77.13787841796875
+"4dbc3c821e72b351caad1fdf","Killer E.S.P.","Food::Dessert Shop",38.805562,-77.050932
+"4dc090c54b2210e046122c24","T.J. Stone's","Food::New American Restaurant",38.81394751662163,-77.04446375370026
+"4dc9aff152b155ce6a134fbc","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",38.76966890321033,-77.1410534729266
+"4dd58e18d1647fcf3e1cdd4a","VRE Southbound Fredericksburg Line Trains","Travel & Transport::Train Station::Train",38.8061678082624,-77.0622730748766
+"4de6474645dda52a0608d90f","Virtue Feed & Grain","Nightlife Spot::Bar",38.80371444459402,-77.04020977020264
+"4df802a3e4cd2129701902b6","Aguaviva","Food::Latin American Restaurant",38.80510234934297,-77.04849243164062
+"4e0018dd18a8bb10c0f6209b","Alexandria, Virginia","Outdoors & Recreation::City",38.805470223177466,-77.05031633377075
+"4e0fad8862e1d5a30d0da4be","National Harbor","Nightlife Spot::Other Nightlife",38.79362106323242,-77.0190200805664
+"4e196d9988777e96477a1dae","3902","Residence::Residential Building (Apartment / Condo)",38.8419193,-77.06391291666667
+"4e19cdec636529dcc13b199d","Cameron Club Pool","Outdoors & Recreation::Pool",38.80881444363992,-77.11827278137207
+"4e513a89ae6051db8de4fdb8","King Street Cats","::Professional & Other Places",38.80537395075055,-77.07264971014992
+"4e52ddc68877849b513c9f58","Minute Clinic","Professional & Other Places::Medical Center",38.82048416137695,-77.0547866821289
+"4e5595dd7d8b47a8d2730b64","Rectum? Damn Near Killed 'Em!","Nightlife Spot::Speakeasy",38.81375503540039,-77.10833740234375
+"4e62c73681301b9322ad51a3","Bishop Boutique","Shop & Service::Clothing Store::Boutique",38.80540466308594,-77.04864501953125
+"4e6af711e4cdb37551d13ce0","The Black Hole","Nightlife Spot::Bar",38.77325439453125,-77.13453674316406
+"4e87e4c07ee60250514879ce","Hoffman Theater 11","Arts & Entertainment::Movie Theater::Multiplex",38.80229568481445,-77.07123565673828
+"4f14a661e4b045626a5bbf1c","Society Fair","Shop & Service::Food & Drink Shop::Gourmet Shop",38.803315650085565,-77.04745418568012
+"5072d189e4b015d050ee6738","King Street Station II","Professional & Other Places::Building",38.80649498644023,-77.06092393421063
+"50885204e4b0b55c2af131c4","THE TARDIS WITH THE DOCTOR","Residence::Residential Building (Apartment / Condo)",38.816607751337074,-77.10645469113204
+"5093efe3e4b076702bdf5d89","CMKling Lighting Design","Professional & Other Places::Building",38.80634382579807,-77.05506061834805

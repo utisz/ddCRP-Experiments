@@ -1,0 +1,1630 @@
+"40b13b00f964a520c7f61ee3","Mustard Seed Grill & Pub","Nightlife Spot::Dive Bar",47.55207897213938,-122.17795234513723
+"40b3de00f964a52041001fe3","The Goose Pub & Eatery","Nightlife Spot::Dive Bar",47.6197992,-122.17900335788727
+"41117880f964a520dd0b1fe3","T-Mobile USA HQ","Professional & Other Places::Office",47.57826273896927,-122.16604828834534
+"41117880f964a520de0b1fe3","Sideline Sports Bar","Nightlife Spot::Sports Bar",47.57734357030075,-122.16883778572083
+"4112ca00f964a520e80b1fe3","Dixie's BBQ","Food::BBQ Joint",47.63360745694307,-122.18656718730927
+"41351100f964a520bd1a1fe3","Pro Sports Club","Shop & Service::Gym / Fitness Center::Gym",47.65157049946027,-122.14466571807861
+"42af6f80f964a5205d251fe3","Tap House Grill","Food::American Restaurant",47.615392338209105,-122.19830989837646
+"43222200f964a5209f271fe3","Kiku Sushi","Food::Sushi Restaurant",47.6308893,-122.1330303
+"43543b00f964a520cb281fe3","Thai Kitchen","Food::Thai Restaurant",47.62720122519609,-122.15205994129403
+"43915a1bf964a520582b1fe3","Bellevue Square","Shop & Service::Mall",47.615826277473495,-122.20345973968506
+"43954e34f964a5208a2b1fe3","The Parlor Collection","Nightlife Spot::Nightclub",47.61675200253497,-122.20118522644043
+"43976c82f964a520a52b1fe3","Maggiano's Little Italy","Food::Italian Restaurant",47.61709914520768,-122.20097064971924
+"43fc738df964a520eb2f1fe3","Starbucks","Food::Coffee Shop",47.558535,-122.114935
+"440ae307f964a5206e301fe3","Chace's Pancake Corral","Food::Breakfast Spot",47.596367320324106,-122.19793992912737
+"443aaec4f964a52025321fe3","Courtyard by Marriott","Travel & Transport::Hotel",47.61759450562345,-122.19325078665001
+"4480b270f964a5200f341fe3","Mayuri Indian Cuisine","Food::Indian Restaurant",47.628445,-122.134139
+"44e9bf93f964a520ac371fe3","Red Robin Gourmet Burgers","Food::Burger Joint",47.61552252036655,-122.20200061798096
+"452d7812f964a5204b3b1fe3","Thai Chef","Food::Thai Restaurant",47.626398369799084,-122.1548009677515
+"454dc4d5f964a520cd3c1fe3","Tasty Thai","Food::Thai Restaurant",47.57736528313255,-122.16775417327881
+"455880cdf964a520463d1fe3","Red Robin Gourmet Burgers","Food::Burger Joint",47.575309761802785,-122.17127323150635
+"456ad005f964a520f63d1fe3","Shanghai Cafe","Food::Chinese Restaurant",47.57663848,-122.170345
+"45792d5af964a520c83e1fe3","King And I","Food::Thai Restaurant",47.60983765125275,-122.199714
+"4593fb5df964a52051401fe3","Marketplace at Factoria","Shop & Service::Mall",47.574701775242325,-122.17187404632568
+"45b5d7baf964a520ba411fe3","7 (Seven) Salon","Shop & Service::Salon / Barbershop",47.616540531112555,-122.20417008712978
+"45b5dcbcf964a520bb411fe3","Crossroads","Shop & Service::Mall",47.619529079384286,-122.13037490844727
+"45bb3023f964a520e9411fe3","Lincoln Square","Shop & Service::Mall",47.616578430334336,-122.20114231109619
+"45bb304ef964a520ea411fe3","Lincoln Square Cinemas","Arts & Entertainment::Movie Theater",47.61660735907445,-122.20101356506348
+"45bc84fef964a520fd411fe3","McCormick & Schmick's","Food::Seafood Restaurant",47.61694003843545,-122.20155000686646
+"45bc8554f964a520fe411fe3","Container Store","Shop & Service::Furniture / Home Store",47.616457,-122.201468
+"45c39a43f964a5203a421fe3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",47.57485015356599,-122.17219054698944
+"45c3a19cf964a5203c421fe3","Seattle's Best Coffee","Food::Coffee Shop",47.574238858743264,-122.1710671485722
+"45cd9976f964a5208e421fe3","Cheesecake Factory","Food::American Restaurant",47.61594199400247,-122.20200061798096
+"45d6f28df964a520d6421fe3","Wade's Eastside Guns","Shop & Service::Miscellaneous Shop",47.623703533333334,-122.159519
+"45f559fbf964a5200f441fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",47.61190742043093,-122.19875173906992
+"46059711f964a520c2441fe3","Mediterranean Kitchen","Food::Mediterranean Restaurant",47.611355,-122.20162218
+"460d486af964a52003451fe3","Applebee's","Food::American Restaurant",47.57881640364764,-122.16826915740967
+"460e4974f964a52010451fe3","Casa D's","Food::Mexican Restaurant",47.61119740632608,-122.20109939575195
+"46390e71f964a52016461fe3","Chipotle Mexican Grill","Food::Mexican Restaurant",47.613637,-122.199859
+"4642d845f964a5206b461fe3","Apple Store","Shop & Service::Electronics Store",47.61654950157821,-122.20408201217651
+"4643e329f964a52073461fe3","Taco Time","Food::Mexican Restaurant",47.628099001705145,-122.13313622779877
+"464a3c12f964a520ad461fe3","Burgermaster","Food::Burger Joint",47.64208013230936,-122.19884634017944
+"4651f8f6f964a520e1461fe3","JOEY Bellevue","Food::New American Restaurant",47.61774008747175,-122.20139041543007
+"465d9da4f964a52040471fe3","Bellevue District Court","Professional & Other Places::Government Building::Courthouse",47.60437565318379,-122.19134569632641
+"465f0fbbf964a5204a471fe3","Whole Foods Market","Shop & Service::Food & Drink Shop::Grocery Store",47.617706639339175,-122.18487739562988
+"466bf219f964a520ac471fe3","Mud Bay","Shop & Service::Pet Store",47.627762,-122.16156779
+"469e8f7ef964a52018491fe3","Mustard Seed Too","Nightlife Spot::Bar",47.62288213,-122.13171601295471
+"46b70af5f964a520b6491fe3","Saigon Deli","Food::Vietnamese Restaurant",47.5757892700334,-122.16860443353653
+"46cb2fcdf964a5202d4a1fe3","Emerald City Smoothie","Food::Juice Bar",47.611222,-122.202053
+"470016e0f964a5202f4b1fe3","The Orexi Restaurant","Food::Greek Restaurant",47.61098473333333,-122.2018749
+"47067d13f964a520594b1fe3","What the Pho","Food::Ramen /  Noodle House",47.61769652366638,-122.1968400478363
+"4707aeeef964a5205e4b1fe3","Skate King","Outdoors & Recreation::Athletic & Sport::Skating Rink",47.63065037226099,-122.156081199646
+"4739b37df964a520544c1fe3","Subway","Food::Sandwich Place",47.61025864,-122.20041993
+"47484ffdf964a5208d4c1fe3","Top Gun Seafood Restaurant","Food::Chinese Restaurant",47.57803475769408,-122.17238366603851
+"475d4069f964a520d74c1fe3","Gilbert's Main Street Bagel Deli","Food::Deli / Bodega",47.610163531857175,-122.20535068802971
+"477d2ee7f964a520284d1fe3","Lush Cosmetics","Shop & Service::Cosmetics Shop",47.61565270219988,-122.20356702804567
+"47a3319df964a5207c4d1fe3","Belle Pastry","Food::Bakery",47.610305,-122.20327734947205
+"47ea2b34f964a520624e1fe3","Pepper Tree Burrito Cafe","Food::Burrito Place",47.597827,-122.1882
+"47fcdcb0f964a520d64e1fe3","Skillet","Food::Food Truck",47.61572502530058,-122.19863176345825
+"47fd09d9f964a520d84e1fe3","Puget Sound Blood Center Bellevue","Professional & Other Places::Medical Center",47.61959604785272,-122.1910286826525
+"480c9166f964a520214f1fe3","Ooba Tooba","Food::Mexican Restaurant",47.61533447936843,-122.19650745391846
+"482996b7f964a520c34f1fe3","Toy's Cafe & Bakery","Food::Chinese Restaurant",47.61111061107878,-122.1992540359497
+"4838409df964a520ef4f1fe3","Toscano","Food::Italian Restaurant",47.620706,-122.196357
+"48577a76f964a520bb501fe3","Nissan of the Eastside","Shop & Service::Automotive Shop",47.61716,-122.182792
+"485bae80f964a520c5501fe3","Facing East","Food::Chinese Restaurant",47.61976049579698,-122.20268726348877
+"485bbde6f964a520c7501fe3","Bellevue Arts Museum","Arts & Entertainment::Museum::Art Museum",47.61544705787753,-122.20138775
+"4874cb1df964a5200e511fe3","Rolls & Rolls Plus Sushi","Food::Sushi Restaurant",47.6208549825226,-122.193557603533
+"4889fe6ff964a5204b511fe3","Key Center","Professional & Other Places::Office",47.615665435791016,-122.19805145263672
+"488db78ff964a52055511fe3","Bellevue Downtown Park","Outdoors & Recreation::Park",47.61209428211347,-122.20509052276611
+"48e3aeb7f964a5201f521fe3","Sushi Yama","Food::Sushi Restaurant",47.61279552,-122.19988703727722
+"49c7ee7ef964a520d5571fe3","Quiznos","Food::Sandwich Place",47.57637409,-122.16863223333333
+"49c8fbbdf964a52028581fe3","Chantanee Thai Restaurant & Bar","Food::Thai Restaurant",47.61579734830123,-122.19723701477051
+"49c9743ef964a52069581fe3","Rock Bottom Restaurant & Brewery","Food::Brewery",47.61562377293159,-122.1985673904419
+"49cac644f964a520de581fe3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",47.61487881478936,-122.19887697869567
+"49cdaafaf964a5200d5a1fe3","Twisted Cork","Food::Breakfast Spot",47.61819841513311,-122.20101356506348
+"49d27607f964a520ad5b1fe3","Goldbergs' Deli","Food::Deli / Bodega",47.57502748320617,-122.17112302780151
+"49dfc3d1f964a5200d611fe3","Garlic Crush","Food::Mediterranean Restaurant",47.61145477,-122.201277
+"49e3cfcaf964a520dc621fe3","Pho Tai","Food::Vietnamese Restaurant",47.62736774000878,-122.1443223953247
+"49e506f9f964a52083631fe3","Wells' Taphouse","Food::Brewery",47.622014,-122.20325955379823
+"49e53a8df964a520aa631fe3","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.61108167929767,-122.20255851745605
+"49ea41f6f964a5203d661fe3","Saigon City","Food::Vietnamese Restaurant",47.62728097160179,-122.13831424713135
+"49ea594bf964a52056661fe3","Fatburger","Food::Burger Joint",47.611882,-122.2012782
+"49ed7b0af964a520ec671fe3","Kelsey Creek Park","Outdoors & Recreation::Farm",47.60358780908342,-122.16311931610107
+"49ef9ffff964a520d3681fe3","Bellevue Aquatic Center","Shop & Service::Gym / Fitness Center::Gym Pool",47.616115568315756,-122.14925765991211
+"49efd778f964a52012691fe3","Jamba Juice","Food::Juice Bar",47.61372161,-122.199661
+"49f00f17f964a5202b691fe3","Panera Bread","Food::Bakery",47.620411348966016,-122.19944715499877
+"49f0a80ff964a52040691fe3","Top Pot Doughnuts","Food::Donut Shop",47.61814877416259,-122.19883936125518
+"49f931caf964a5206c6d1fe3","Eastgate Park & Ride","Travel & Transport::Bus Station",47.5804979104359,-122.15240294181345
+"49fe357af964a5207e6f1fe3","Meydenbauer Convention Center","Professional & Other Places::Convention Center",47.61585520662973,-122.19187259674072
+"49ff4d81f964a52003701fe3","The Brief Encounter Cafe","Food::Breakfast Spot",47.6345690156648,-122.20114231109619
+"4a010b42f964a520d0701fe3","Blue C Sushi","Food::Sushi Restaurant",47.61579734830123,-122.20205962657928
+"4a010c08f964a520d1701fe3","KCLS Bellevue Library","Professional & Other Places::Library",47.619847276687665,-122.19444751739502
+"4a06544bf964a520ed721fe3","Barnes & Noble","Shop & Service::Bookstore",47.61657953049113,-122.19819447067135
+"4a08d2f2f964a5201c741fe3","Pearl","Nightlife Spot::Cocktail Bar",47.6161680021096,-122.20087140798569
+"4a0df0d8f964a520b1751fe3","Lucky Strike Lanes","Arts & Entertainment::Bowling Alley",47.61672307387488,-122.200927734375
+"4a185322f964a520a5791fe3","P.F. Chang's","Food::Chinese Restaurant",47.61660735907445,-122.2020435333252
+"4a190198f964a520087a1fe3","Bellevue Goodwill","Shop & Service::Thrift / Vintage Store",47.62722312591712,-122.14642524719238
+"4a198a4ff964a520257a1fe3","Golden Steer Choice Meats","Shop & Service::Food & Drink Shop::Butcher",47.628453,-122.13524138
+"4a1c1b7cf964a520107b1fe3","Denny's","Food::Diner",47.63020209543038,-122.14354991912842
+"4a1ecf6bf964a520dd7b1fe3","Tully's Coffee","Food::Coffee Shop",47.61034005760637,-122.19586445152049
+"4a22f9edf964a520aa7d1fe3","AMC Loews Factoria 8","Arts & Entertainment::Movie Theater",47.57908780576332,-122.17013597488403
+"4a2eeabdf964a52081981fe3","Tully's Coffee","Food::Coffee Shop",47.61664171193257,-122.20132201910019
+"4a3945f1f964a5204d9f1fe3","Civica Center","Professional & Other Places::Office",47.61265120530487,-122.19647526741028
+"4a3a6bd3f964a520e19f1fe3","Nordstrom","Shop & Service::Department Store",47.61701927952827,-122.20439348150637
+"4a41c62ff964a52095a51fe3","Chuck E. Cheese's","Food::Pizza Place",47.6301731742125,-122.1448802947998
+"4a41c6acf964a52097a51fe3","Crossroads Park","Outdoors & Recreation::Park",47.617590926715444,-122.12325096130371
+"4a41c77df964a52099a51fe3","Newcastle Beach Park","Outdoors & Recreation::Beach",47.565858865823664,-122.19050615339586
+"4a41c902f964a5209aa51fe3","Uwajimaya","Shop & Service::Food & Drink Shop::Grocery Store",47.61589649261533,-122.18198456196664
+"4a42e4f0f964a5205ba61fe3","Sushiya","Food::Sushi Restaurant",47.61294743346477,-122.1935397141928
+"4a453455f964a520eda71fe3","ZenYai Noodle House","Food::Thai Restaurant",47.628129652336824,-122.13418709610102
+"4a45aedaf964a52074a81fe3","The Keg Steakhouse","Food::American Restaurant",47.57802390141811,-122.16900408267975
+"4a468088f964a520fca81fe3","Rudy's Barbershop","Shop & Service::Salon / Barbershop",47.61041262739476,-122.20189332962036
+"4a4801a8f964a5206aaa1fe3","Best Buy","Shop & Service::Electronics Store",47.613903168244555,-122.18170797885996
+"4a4afa3af964a5204eac1fe3","Palomino","Food::American Restaurant",47.61573948990871,-122.2014856338501
+"4a4d0b71f964a5207fad1fe3","Wibbley's Gourmet Burgers","Food::Burger Joint",47.63055318,-122.1543163061142
+"4a4e23d2f964a52023ae1fe3","Flint Men's Grooming","Shop & Service::Spa / Massage",47.610171,-122.203432
+"4a4ec6b1f964a52007af1fe3","Z'Tejas","Food::Mexican Restaurant",47.61679539549512,-122.2020274400711
+"4a54fe6ef964a52086b31fe3","El Gaucho","Food::Steakhouse",47.614784817189026,-122.19439387321472
+"4a553c15f964a520e8b31fe3","Hotel Bellevue","Travel & Transport::Hotel",47.605086807949945,-122.18968128777703
+"4a5796e2f964a5206ab61fe3","Taqueria Guadalajara","Food::Food Truck",47.632067799568176,-122.14373002
+"4a57f420f964a52022b71fe3","Silver Cloud Inn - Bellevue","Travel & Transport::Hotel",47.620739,-122.197814
+"4a5ba92af964a5209cbb1fe3","Specialty's Cafe & Bakery","Food::Bakery",47.61552252036655,-122.20367431640625
+"4a5cd03bf964a520a5bc1fe3","Boom Noodle","Food::Ramen /  Noodle House",47.61614449731197,-122.20230102539062
+"4a5d606ff964a5209cbd1fe3","The Westin Bellevue","Travel & Transport::Hotel",47.61586967120186,-122.2008204460144
+"4a5d6eadf964a520a3bd1fe3","Regal Crossroads Stadium 8","Arts & Entertainment::Movie Theater",47.62085970976899,-122.1289587020874
+"4a5df814f964a520d6bd1fe3","Bellevue Place","Shop & Service::Mall",47.61816948727327,-122.20054149627686
+"4a5f8793f964a520cfbf1fe3","Guitar Works","Professional & Other Places::Building",47.628394713253,-122.16286043809332
+"4a60dbedf964a52052c11fe3","520 Bar and Grill","Food::Breakfast Spot",47.61033544911679,-122.20443289854528
+"4a63fb21f964a52013c61fe3","Hyatt Regency Bellevue","Travel & Transport::Hotel",47.618185063094565,-122.20046615371734
+"4a648af7f964a52040c61fe3","Bellevue Corporate Plaza","Professional & Other Places::Office",47.61530752552599,-122.19575466035093
+"4a6498b1f964a52058c61fe3","Barrier Audi","Shop & Service::Car Dealership",47.62415721301901,-122.1806287765503
+"4a66220df964a52015c81fe3","Tully's Coffee","Food::Coffee Shop",47.581447135545865,-122.13998794555664
+"4a672af6f964a520f8c81fe3","Tully's Coffee","Food::Coffee Shop",47.618049,-122.200208
+"4a673ed5f964a5200cc91fe3","Bis on Main","Food::American Restaurant",47.609932740042424,-122.20388416599587
+"4a67b014f964a520e7c91fe3","Bellevue Transit Center","Travel & Transport::Bus Station",47.61562377293159,-122.19556331634521
+"4a68f79ef964a5205bcb1fe3","Ruth's Chris Steak House","Food::Steakhouse",47.616954502707486,-122.20277309417725
+"4a690156f964a5206fcb1fe3","Sheraton Bellevue Hotel","Travel & Transport::Hotel",47.61101588461177,-122.19012191577602
+"4a691d74f964a520a3cb1fe3","Bellevue Farmer's Market - Saturdays","Shop & Service::Food & Drink Shop::Farmers Market",47.61669414519878,-122.19539165496826
+"4a69272df964a520b0cb1fe3","Bikram Hot Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",47.61767047917174,-122.19137907028198
+"4a6c920ff964a520ddd01fe3","Cafe Pirouette","Food::Breakfast Spot",47.61068386568431,-122.20374405384064
+"4a6cdeeff964a520e2d11fe3","Elite Fitness","Shop & Service::Gym / Fitness Center::Gym",47.60950078993053,-122.2040022831471
+"4a6cf33ff964a52027d21fe3","Qfc","Shop & Service::Food & Drink Shop::Grocery Store",47.57860289966133,-122.16733574867249
+"4a6e52d8f964a52081d41fe3","The Home Depot","Shop & Service::Hardware Store",47.61266654830198,-122.18174969271978
+"4a6fe8b1f964a5201fd71fe3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",47.612933281022194,-122.20105648040771
+"4a705d2cf964a52055d71fe3","Bellevue Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",47.65671611611671,-122.15176820755005
+"4a70e461f964a520b4d81fe3","Paddy Coyne's","Nightlife Spot::Pub",47.61709914520768,-122.20114231109619
+"4a710027f964a520f2d81fe3","The UPS Store","Professional & Other Places::Post Office",47.57586609232354,-122.16848407868585
+"4a71028df964a520f7d81fe3","Target","Shop & Service::Department Store",47.574057591303664,-122.1731185913086
+"4a712063f964a52025d91fe3","Grand Cru Mixologie Lounge","Nightlife Spot::Cocktail Bar",47.61961982,-122.19628975
+"4a71a731f964a52055d91fe3","Embassy Suites","Travel & Transport::Hotel",47.58107442640932,-122.13416755199432
+"4a724c15f964a520ceda1fe3","Sushi Me","Food::Sushi Restaurant",47.621356010437,-122.13270522
+"4a730f5af964a5207fdb1fe3","The Coast Bellevue Hotel","Travel & Transport::Hotel",47.61591650422599,-122.18641733217564
+"4a73ac34f964a5201fdd1fe3","Bamboo Garden - Bellevue","Food::Chinese Restaurant",47.612152207653565,-122.19796584407511
+"4a75d1e1f964a5205be11fe3","Seattle Washington Temple--LDS","Professional & Other Places::Spiritual Center::Temple",47.58407999671771,-122.14087374508381
+"4a7632d7f964a52091e21fe3","Half Price Books","Shop & Service::Bookstore",47.61840090970385,-122.13144779205322
+"4a764d8bf964a520cfe21fe3","I Love Sushi","Food::Sushi Restaurant",47.618098855018616,-122.1828142
+"4a77448af964a52001e41fe3","Waggener Edstrom Worldwide","Professional & Other Places::Office",47.612925124730566,-122.19682332917255
+"4a7995dbf964a5202de71fe3","Starbucks","Food::Coffee Shop",47.612656699999995,-122.196446
+"4a7a4a24f964a52015e91fe3","Robinswood Park","Outdoors & Recreation::Park",47.59000126747792,-122.14090190112132
+"4a7b325bf964a52044ea1fe3","Firenze Ristorante Italiano","Food::Italian Restaurant",47.62089694,-122.13009
+"4a7caa14f964a52025ed1fe3","Jamba Juice","Food::Juice Bar",47.61605771027536,-122.20487594604492
+"4a7f6903f964a520f1f31fe3","Lowe's Home Improvement","Shop & Service::Hardware Store",47.631033573600085,-122.18122959136963
+"4a7f6c16f964a520fff31fe3","7-Eleven","Shop & Service::Gas Station / Garage",47.63120345282714,-122.1541860508861
+"4a7f8a36f964a52052f41fe3","I Love Pho","Food::Vietnamese Restaurant",47.57542556796632,-122.16895580291748
+"4a80a3aff964a520c7f51fe3","Daniel's Broiler","Food::Steakhouse",47.617807887674864,-122.20049858093262
+"4a80a6c6f964a520cff51fe3","Limeade World HQ","Professional & Other Places::Office::Tech Startup",47.60988151269013,-122.19663807808374
+"4a821f71f964a520aef81fe3","The Melting Pot","Food::Restaurant",47.61254633061172,-122.19609439373016
+"4a837b31f964a52043fb1fe3","Fred Meyer","Shop & Service::Food & Drink Shop::Grocery Store",47.62890062478131,-122.14406490325928
+"4a838621f964a52057fb1fe3","Super Supplements - Bellevue","Shop & Service::Miscellaneous Shop",47.61682564036542,-122.14353439035595
+"4a83909cf964a52070fb1fe3","The Pumphouse","Food::Burger Joint",47.617590926715444,-122.1829891204834
+"4a84bd01f964a5207cfd1fe3","Noble Court","Food::Chinese Restaurant",47.62505386652858,-122.15329170227051
+"4a84d782f964a520b6fd1fe3","Cafe Ori","Food::Chinese Restaurant",47.62723982334137,-122.14910627759127
+"4a85b6e5f964a52006ff1fe3","Applebee's","Food::American Restaurant",47.624574809611396,-122.15495198965073
+"4a85cb87f964a52049ff1fe3","Overlake Hospital Medical Center","Professional & Other Places::Medical Center::Hospital",47.62025225227291,-122.18719482421875
+"4a860c33f964a520300020e3","Sushi Ten","Food::Sushi Restaurant",47.63005828857422,-122.15459442138672
+"4a873ce0f964a520660320e3","Sushi Mojo","Food::Sushi Restaurant",47.62684712740629,-122.15445041656494
+"4a8787aaf964a5209e0420e3","California Pizza Kitchen","Food::Pizza Place",47.615234649140795,-122.19908073756092
+"4a8892a8f964a520f50620e3","The LEGO Store","Shop & Service::Toy / Game Store",47.61608663930356,-122.20436096191406
+"4a8ac2bbf964a5204e0a20e3","Bellevue Family YMCA","Shop & Service::Gym / Fitness Center::Gym",47.62594857,-122.14943485
+"4a8ad9f1f964a5209e0a20e3","Red Lion","Travel & Transport::Hotel",47.60909911163072,-122.18954214689354
+"4a8c4392f964a5207f0d20e3","Starbucks","Food::Coffee Shop",47.61538510585752,-122.19597101211548
+"4a8da490f964a5205e1020e3","Pho Than Brothers","Food::Vietnamese Restaurant",47.621223,-122.13320985637249
+"4a8dce82f964a520f01020e3","The Spot Off Main","Nightlife Spot::Sports Bar",47.61049761554348,-122.20233052968979
+"4a8dcfe5f964a520f41020e3","Monsoon East","Food::Vietnamese Restaurant",47.61019988479647,-122.20313445268363
+"4a8dd46cf964a520071120e3","Seastar Restaurant And Raw Bar","Food::Seafood Restaurant",47.612264252807215,-122.19636797904968
+"4a8dd62bf964a520101120e3","Macy's","Shop & Service::Department Store",47.61568163145217,-122.20240831375122
+"4a8dd6eef964a520181120e3","AT&T","Shop & Service::Mobile Phone Shop",47.61571056068843,-122.20273017883301
+"4a8dd7baf964a5201a1120e3","Denny's","Food::Diner",47.6167042740133,-122.186222
+"4a8ddaecf964a520251120e3","Cypress Lounge","Nightlife Spot::Cocktail Bar",47.61573948990871,-122.20131397247314
+"4a8ddea5f964a520321120e3","Gunnar Nordstrom Gallery","Arts & Entertainment::Art Gallery",47.61793806381839,-122.20097064971924
+"4a8ddf99f964a520381120e3","Starbucks","Food::Coffee Shop",47.6297952111418,-122.144181669702
+"4a8e1785f964a520001220e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",47.57547318935394,-122.171135
+"4a8e1880f964a520031220e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",47.57605208,-122.17097643875906
+"4a8ed2d2f964a520c91220e3","Emerald City Smoothie","Food::Juice Bar",47.575902880492755,-122.16920989061902
+"4a8f6d27f964a520411520e3","Billabong","Shop & Service::Clothing Store",47.616198849379074,-122.20455629740566
+"4a8f7260f964a5204d1520e3","Crossroads Barber","Shop & Service::Salon / Barbershop",47.61747521383562,-122.12887287139893
+"4a90bfc5f964a520591920e3","Nibbana -  A Thai Cookery","Food::Thai Restaurant",47.6151609024623,-122.19676494598389
+"4a92be4ef964a5208a1d20e3","Sandusky Seattle Radio","Professional & Other Places::Office",47.57804966697607,-122.1653938293457
+"4a943c54f964a520d92020e3","Teriyaki Time","Food::Asian Restaurant",47.575791079490116,-122.16873049736023
+"4a946e32f964a5208d2120e3","Red Mango","Food::Dessert Shop",47.61599985217092,-122.20423221588135
+"4a9575bef964a520472320e3","Bellevue Galleria","Shop & Service::Mall",47.61556783494134,-122.19886621123229
+"4a95d667f964a520f32420e3","Garlic Jim's","Food::Pizza Place",47.58194,-122.13937999
+"4a95f383f964a520a52520e3","O'Char Thai Cuisine","Food::Thai Restaurant",47.57670929,-122.13733634
+"4a9686bef964a520422620e3","Starbucks","Food::Coffee Shop",47.6164554830103,-122.19819188117981
+"4a96c0e3f964a520d22620e3","Bellevue City Center Plaza","Professional & Other Places::Office",47.614958395343585,-122.19406127929688
+"4a96c8d7f964a520f42620e3","Caffe Ladro","Food::Coffee Shop",47.613806,-122.196747
+"4a96e424f964a520692720e3","Taqueria El Rinconsito","Food::Mexican Restaurant",47.630577,-122.154268
+"4a97df98f964a520d52920e3","BMW Bellevue","Shop & Service::Automotive Shop",47.62769898635723,-122.15789906514837
+"4a9817ddf964a5206f2a20e3","Mercer Slough Environmental Education Center","Outdoors & Recreation::Other Great Outdoors",47.59577163729476,-122.1830089380452
+"4a982a61f964a520be2a20e3","Fuji Teriyaki","Food::Chinese Restaurant",47.617658,-122.1279126405716
+"4a98539ff964a520822b20e3","Wendy's","Food::Fast Food Restaurant",47.618986693153296,-122.20166802406311
+"4a998a32f964a520f52e20e3","Kings Chinese Restaurant","Food::Chinese Restaurant",47.62858206224666,-122.16416768743201
+"4a99ba75f964a520143020e3","Auntie Anne's","Food::Snack Place",47.615791,-122.2048008441925
+"4a99fc5ff964a520563120e3","QFC","Shop & Service::Food & Drink Shop::Grocery Store",47.61840774628804,-122.20532560615305
+"4a9a0d63f964a520773120e3","Quiznos - Bellevue Transit Center","Food::Sandwich Place",47.61542892456055,-122.19584655761719
+"4a9a14d0f964a520843120e3","Taco Time","Food::Mexican Restaurant",47.612210006901144,-122.1992540359497
+"4a9a28d3f964a520983120e3","Homestead Studio Suites","Travel & Transport::Hotel",47.63471360943092,-122.13101863861084
+"4a9adda8f964a5203f3320e3","Banana Republic","Shop & Service::Clothing Store",47.61623128420454,-122.20367431640625
+"4a9ae09bf964a5204c3320e3","Tall's Camera","Shop & Service::Electronics Store",47.615363408796796,-122.2035026550293
+"4a9ae376f964a520603320e3","Tiffany & Co.","Shop & Service::Jewelry Store",47.616346999837226,-122.20414638519287
+"4a9ae442f964a520663320e3","Sephora","Shop & Service::Cosmetics Shop",47.61585520662973,-122.20423221588135
+"4a9b4053f964a520d53420e3","Thai Grill","Food::Thai Restaurant",47.617437,-122.19706743333333
+"4a9bfc2ff964a520a03520e3","AccessLine Communications","Professional & Other Places::Office",47.601275008465244,-122.18894504659447
+"4a9c21d7f964a5201b3620e3","El Tapatio","Food::Mexican Restaurant",47.577394233560945,-122.1684730052948
+"4aa01dadf964a520603e20e3","International Food Corner","Shop & Service::Convenience Store",47.62308913333333,-122.13215556666667
+"4aa025f4f964a520843e20e3","3 Pigs BBQ","Food::BBQ Joint",47.620011,-122.18493103981018
+"4aa08c92f964a520044020e3","N Bellevue Community Center","Professional & Other Places::Event Space",47.64746159176693,-122.1450412273407
+"4aa4890df964a5200c4720e3","Tokyo Japanese Restaurant","Food::Japanese Restaurant",47.579406249118584,-122.16791778802872
+"4aa68dc5f964a520294a20e3","New York Cupcakes","Food::Cupcake Shop",47.61770307,-122.13139896
+"4aa68f8df964a5202f4a20e3","Starbucks","Food::Coffee Shop",47.61060254150638,-122.2007028934369
+"4aa69b86f964a5205b4a20e3","Egencia","Professional & Other Places::Office",47.6136802917676,-122.195896371402
+"4aa6ee6bf964a520824b20e3","Master Builders Association","Professional & Other Places::Event Space",47.60686876739331,-122.18606889755121
+"4aa828e7f964a520ba4f20e3","The Vitamin Shoppe - Bellevue","Shop & Service::Sporting Goods Shop",47.613620837350425,-122.20139367332405
+"4aa86f49f964a520495120e3","Blue Ginger Korean Grill","Food::Korean Restaurant",47.627570199064884,-122.15243339538574
+"4aa87253f964a520555120e3","Trophy Cupcakes","Food::Cupcake Shop",47.6166109264762,-122.19333095097707
+"4aa94e34f964a520fc5220e3","Expedia Corp HQ","Professional & Other Places::Office",47.61351912572729,-122.19679176807404
+"4aa9837df964a520055420e3","Wild Ginger","Food::Asian Restaurant",47.61568163145217,-122.1930742263794
+"4aa98a52f964a5202b5420e3","John Howie Steak","Food::Steakhouse",47.61672307387488,-122.1916151046753
+"4aa98cd0f964a520355420e3","Artisanal Brasserie & Wine Bar","Food::Italian Restaurant",47.617285,-122.191832
+"4aa991d6f964a520555420e3","Microsoft Bravern 1","Professional & Other Places::Office",47.61684602056975,-122.19158291816711
+"4aa9ac64f964a520cd5420e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",47.628540508660755,-122.134
+"4aaa887bf964a520565620e3","Acura of Bellevue","Shop & Service::Automotive Shop",47.62839839697423,-122.15996243261786
+"4aaac2bdf964a520425720e3","Toys"R"Us","Shop & Service::Toy / Game Store",47.6112716859256,-122.1942033206517
+"4aab10bcf964a520c85820e3","Greenwood Mandarin Restaurant","Food::Chinese Restaurant",47.580896,-122.13717699050548
+"4aac2e97f964a520b85c20e3","Neiman Marcus","Shop & Service::Department Store",47.617310370858114,-122.19270683969552
+"4aac4985f964a520505d20e3","Paper Source","Shop & Service::Arts & Crafts Store",47.61723518371582,-122.201567
+"4aad2595f964a520b65e20e3","Gene Juarez Salon & Spa","Shop & Service::Salon / Barbershop",47.61535979261912,-122.19929963350296
+"4aad28c1f964a520c35e20e3","David Barton Gym","Shop & Service::Gym / Fitness Center::Gym",47.61683878841923,-122.19148635864258
+"4aad2dedf964a520e85e20e3","Elizabeth Arden Red Door Spa","Shop & Service::Cosmetics Shop",47.61614364863871,-122.19336579674685
+"4aad43e3f964a5205a5f20e3","Purple Cafe & Wine Bar","Nightlife Spot::Wine Bar",47.61442319418312,-122.19820261001587
+"4aad4546f964a520675f20e3","Barrio - Bellevue","Food::Mexican Restaurant",47.61409049880899,-122.19805240631104
+"4aad6d22f964a520366020e3","Seattle Humane Society","Professional & Other Places::Animal Shelter",47.58095505195523,-122.16406670774846
+"4aad9e0cf964a520076120e3","Lil Jon Restaurant and Lounge","Food::Diner",47.58191030436747,-122.13870048522949
+"4aad9e91f964a520096120e3","Bellevue College","College & University::Community College",47.58539619170711,-122.14871744979575
+"4aaea51bf964a520bf6220e3","Crate & Barrel","Shop & Service::Furniture / Home Store",47.61707021673964,-122.20165729522705
+"4aaecc0df964a520536320e3","Tangerine Thai Cuisine","Food::Thai Restaurant",47.61372637497925,-122.19673970231125
+"4aaed71df964a520806320e3","Grand Cru Wine Shop","Shop & Service::Food & Drink Shop::Wine Shop",47.61973101763833,-122.1962662896458
+"4aaff542f964a5205e6520e3","Jimmy John's - Bellevue 106th","Food::Sandwich Place",47.61110295742944,-122.19961478707579
+"4ab011bcf964a520c26520e3","Hot Coffee Company","Food::Coffee Shop",47.623970542396734,-122.16046545977565
+"4ab14d29f964a520f16820e3","Sushi Maru","Food::Sushi Restaurant",47.61243461,-122.200433
+"4ab2f359f964a520176d20e3","Thai Ginger","Food::Thai Restaurant",47.57678627120331,-122.16994285583496
+"4ab364c8f964a520a46d20e3","Steve's Bar","Nightlife Spot::Dive Bar",47.62817745,-122.15027485
+"4ab36f36f964a520a66d20e3","Jack in the Box","Food::Fast Food Restaurant",47.62704486,-122.14280041
+"4ab3714bf964a520a86d20e3","Jack in the Box","Food::Fast Food Restaurant",47.610006255323114,-122.20121701407489
+"4ab461aaf964a520137120e3","Fairfield Inn by Marriott","Travel & Transport::Hotel",47.634754915469095,-122.1469624181129
+"4ab54f70f964a520e27320e3","Residence Inn","Travel & Transport::Hotel",47.603633915938346,-122.18576605349178
+"4ab688a9f964a520a67720e3","Azteca Mexican Restaurant","Food::Mexican Restaurant",47.611399928009625,-122.18994140625
+"4ab92fbaf964a5206b7e20e3","Jimmy John's","Food::Sandwich Place",47.615826277473495,-122.19654232263565
+"4ab97b92f964a520947f20e3","Ginza","Food::Japanese Restaurant",47.609833981008855,-122.20425367355347
+"4ab98765f964a520c37f20e3","Master Builders Association, Bellevue, WA","Professional & Other Places::Event Space",47.60700988769531,-122.185546875
+"4aba8165f964a520a48120e3","Bellevue Towers","Residence::Residential Building (Apartment / Condo)",47.61431109054351,-122.19808995723724
+"4abac1faf964a520d08220e3","La Cocina del Puerco","Food::Mexican Restaurant",47.61027212,-122.20307350158691
+"4abbcfd7f964a5200e8520e3","Gyro Express","Food::Greek Restaurant",47.615321,-122.19631987999999
+"4abc2463f964a520938620e3","Ivar's","Food::Seafood Restaurant",47.623468566666666,-122.13272452354431
+"4abceb1cf964a520b38720e3","Bellevue College - L building","College & University::College Academic Building::College Science Building",47.58555761564059,-122.1490216255188
+"4abd328bf964a520f88820e3","Tuna House Japanese Cuisine","Food::Japanese Restaurant",47.60837311666667,-122.142537
+"4abd6f27f964a520488a20e3","Jennifer's Nails","Shop & Service::Nail Salon",47.61220335960388,-122.20202808
+"4abd7a20f964a520908a20e3","Starbucks","Food::Coffee Shop",47.58184694439766,-122.13514878680357
+"4abd7d29f964a520a28a20e3","Sound Transit 550","Travel & Transport::Bus Station::Bus Line",47.61521876149503,-122.19534873962402
+"4abd8961f964a520e18a20e3","Pagliacci Pizza","Food::Pizza Place",47.617240171260136,-122.20241367816925
+"4abdbc73f964a5206a8b20e3","Kyoto Teriyaki","Food::Asian Restaurant",47.57677179582305,-122.17035859823227
+"4abe4373f964a5204c8c20e3","Puesta del Sol Elementary School","Professional & Other Places::School::Elementary School",47.57542293808476,-122.16376171003972
+"4abebf57f964a520ae8f20e3","Las Margaritas","Food::Mexican Restaurant",47.6148582460068,-122.19677277755615
+"4ac12579f964a520069620e3","KCLS Lake Hills Library","Professional & Other Places::Library",47.60370355269362,-122.13179111480713
+"4ac23711f964a520399820e3","Bellevue Botanical Garden","Outdoors & Recreation::Garden",47.6090274819287,-122.17981338500977
+"4ac39b27f964a520fc9b20e3","Bellevue College North Campus","College & University::University",47.642007015717134,-122.19769697589253
+"4ac3abb7f964a5204c9c20e3","Taco Bell","Food::Fast Food Restaurant",47.57727843175133,-122.16982752084732
+"4ac3d758f964a5200d9d20e3","TCBY","Food::Ice Cream Shop",47.57734718910668,-122.16756641864777
+"4ac59233f964a52053b220e3","U.S. Bank","Shop & Service::Bank",47.61749162974937,-122.20148467981308
+"4ac65c4cf964a520f5b320e3","The Art of Shaving","Shop & Service::Salon / Barbershop",47.615547,-122.20378
+"4ac6b638f964a520efb520e3","The Loft","Shop & Service::Clothing Store",47.6158,-122.20301449298859
+"4ac7f82cf964a520eaba20e3","Eastside Motosports","Shop & Service::Miscellaneous Shop",47.62785942492754,-122.16612339019775
+"4ac8dffef964a52000bd20e3","Newport Hills Park","Outdoors & Recreation::Park",47.54841156871969,-122.1804416953878
+"4ac8e515f964a52022bd20e3","The Crab Pot","Food::Seafood Restaurant",47.62027756314284,-122.18045711517334
+"4ac90ed9f964a5205cbe20e3","iHOP","Food::Diner",47.62717025,-122.14348018169403
+"4ac93d08f964a52051bf20e3","PUMA","Shop & Service::Clothing Store::Shoe Store",47.615487,-122.203856
+"4aca3977f964a520f1c020e3","Bellevue Club","Shop & Service::Gym / Fitness Center",47.605425208658524,-122.18957662582397
+"4aca6771f964a520c5c120e3","Mars Hill Church","Professional & Other Places::Spiritual Center::Church",47.61601431670302,-122.19824552536011
+"4aca90edf964a52063c220e3","Great Harvest Bread Company","Food::Sandwich Place",47.57832787629415,-122.1673196554184
+"4acb8e23f964a52045c420e3","Bank of America","Shop & Service::Bank",47.580061223112786,-122.14606583118439
+"4acb9716f964a52072c420e3","Microsoft City Center Plaza","Professional & Other Places::Office",47.614755887440595,-122.19436168670654
+"4acbb583f964a52012c520e3","Bellevue College - C Building","College & University::College Cafeteria",47.58463133843904,-122.14960098266602
+"4acbbad1f964a5202dc520e3","T-Mobile Newport 1","Professional & Other Places::Office",47.57913008318356,-122.16586613099824
+"4acd4f9bf964a520cdcb20e3","ampm","Shop & Service::Gas Station / Garage",47.61710703417054,-122.1849507540375
+"4acd8086f964a52035cc20e3","Bridle Trails","Outdoors & Recreation::Other Great Outdoors",47.64147124661837,-122.15369836750155
+"4acdf32ff964a520a6cd20e3","Barrier Volvo","Shop & Service::Car Dealership",47.614221,-122.184887
+"4ace0c72f964a52012ce20e3","Lexus of Bellevue","Shop & Service::Automotive Shop",47.60888281710111,-122.18599319458008
+"4ace9cd3f964a5206ad120e3","Tully's Coffee","Food::Coffee Shop",47.61605771027536,-122.20479011535645
+"4ace9d86f964a52073d120e3","GameStop","Shop & Service::Video Game Store",47.615421267605434,-122.20393180847168
+"4acf8dd5f964a5207ed420e3","Chinook Room Studio H","Professional & Other Places::Office::Conference Room",47.64240542095382,-122.14479446411133
+"4ad0f9a2f964a520a1db20e3","Pete's Wine's Eastside","Shop & Service::Food & Drink Shop::Wine Shop",47.61090392787042,-122.19994681093954
+"4ad0fe78f964a520cedb20e3","First Presbyterian Church of Bellevue","Professional & Other Places::Spiritual Center::Church",47.626344538404446,-122.205098124918
+"4ad21e8cf964a5207ddf20e3","Microsoft","Professional & Other Places::Office",47.61708468097567,-122.20135688781738
+"4ad25083f964a520dee020e3","OBC - One Bellevue Center","Professional & Other Places::Building",47.61412666145216,-122.19667911529541
+"4ad33547f964a52068e320e3","McDonald's","Food::Fast Food Restaurant",47.62753822047791,-122.15450777238101
+"4ad34d63f964a520b6e320e3","Wells Fargo","Shop & Service::Bank",47.629363177785365,-122.13269387372206
+"4ad36586f964a52024e420e3","Barrier Porsche","Shop & Service::Car Dealership",47.61887369488961,-122.17922950041266
+"4ad38b9df964a520dae420e3","Pepper Jacks","Food::Japanese Restaurant",47.614590525627136,-122.196212
+"4ad5ebb9f964a520fc0321e3","Specialty's","Food::Coffee Shop",47.61516394861398,-122.19509554638195
+"4ad64716f964a5204c0621e3","Ignition Partners","Professional & Other Places::Office",47.604848742485046,-122.18740403652191
+"4ad68ab9f964a520be0721e3","Sushi In Joy","Food::Sushi Restaurant",47.63407739386727,-122.20097064971924
+"4ad7983ef964a5208b0c21e3","Blazing Bagels","Food::Bagel Shop",47.6155604853096,-122.19659999704965
+"4ad7bb6cf964a520380e21e3","Szechuan Express","Food::Chinese Restaurant",47.63094,-122.152930259705
+"4ad9eef9f964a5200b1c21e3","Pediatric Associates","Professional & Other Places::Medical Center::Doctor's Office",47.634769005097056,-122.1885991418729
+"4ada3d73f964a520662021e3","Anthropologie","Shop & Service::Clothing Store",47.61622541984769,-122.19335888673521
+"4ada468bf964a520cd2021e3","Hard Drives Northwest + Computer Stop","Shop & Service::Electronics Store",47.62718279333896,-122.15008471891544
+"4adb6dbaf964a5205c2721e3","Danube Bistro","Food::German Restaurant",47.619558006491914,-122.1928596496582
+"4adb7c38f964a520092821e3","Cash and Carry","Shop & Service::Food & Drink Shop::Grocery Store",47.630081483333335,-122.15665027
+"4adcc0b7f964a5206c2f21e3","Safeway Gas","Shop & Service::Gas Station / Garage",47.62466479713298,-122.15408456247242
+"4adcfb7af964a520266321e3","Starbucks","Food::Coffee Shop",47.6177174873845,-122.20393180847168
+"4add067ef964a520906321e3","Little Hot Pot","Food::Asian Restaurant",47.61725664138794,-122.127952
+"4ade3382f964a520e17321e3","Soccer West","Shop & Service::Sporting Goods Shop",47.57733633268815,-122.1674108505249
+"4adf7af1f964a520fb7a21e3","Paula's Hallmark","Shop & Service::Gift Shop",47.615704774842456,-122.20324516296387
+"4ae0b4c6f964a520ce8121e3","Tewada Thai","Food::Thai Restaurant",47.617979,-122.200243
+"4ae1e00cf964a520428821e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",47.625816,-122.15466781666667
+"4ae21baaf964a520ce8a21e3","Taco Del Mar","Food::Fast Food Restaurant",47.61621714091718,-122.180921
+"4ae26628f964a520048e21e3","Spice Route","Food::Indian Restaurant",47.63069375368569,-122.145094871521
+"4ae32c27f964a5203f9121e3","John L Scott","Professional & Other Places::Office",47.61055000541878,-122.19230577171484
+"4ae36d9af964a520fa9421e3","Pottery Barn","Shop & Service::Furniture / Home Store",47.616099771037746,-122.20400152835758
+"4ae372a2f964a520379521e3","Baja Fresh Mexican Grill","Food::Mexican Restaurant",47.61177603762692,-122.20122814178467
+"4ae37be5f964a520b19521e3","Jiffy Lube","Shop & Service::Automotive Shop",47.610241,-122.19909295
+"4ae391b1f964a520c59621e3","Pier 1 Imports","Shop & Service::Furniture / Home Store",47.61855483055115,-122.20219723
+"4ae48707f964a520519b21e3","Little Gym","Outdoors & Recreation::Playground",47.626596,-122.166708
+"4ae4d0d4f964a5206b9e21e3","Pacific Fabrics & Crafts","Shop & Service::Arts & Crafts Store",47.62498155633185,-122.15492248535156
+"4ae528eaf964a52071a021e3","Eddie Bauer","Shop & Service::Clothing Store",47.61568163145217,-122.20457553863525
+"4ae5ce55f964a5202da221e3","Eastside Primary Care & Wellness (Med Spa)","Professional & Other Places::Medical Center::Doctor's Office",47.62512,-122.186043
+"4ae60b77f964a5204da421e3","Seagull Scientific","Professional & Other Places::Office",47.597332039850315,-122.14261097180818
+"4ae65ceff964a520a9a621e3","Don Bennett Drum Studios","Shop & Service::Music Store",47.625084,-122.162463
+"4ae7f232f964a520e6ad21e3","Earl's Restaurant & Bar","Food::New American Restaurant",47.61628914205288,-122.20131397247314
+"4ae89658f964a5209fb021e3","Taco Time","Food::Mexican Restaurant",47.57504738751606,-122.169049680233
+"4aeb78f2f964a52072c221e3","BECU Neighborhood Financial Center","Shop & Service::Credit Union",47.62816786766052,-122.1513819694519
+"4aeb840cf964a520efc221e3","Party City","Shop & Service::Arts & Crafts Store",47.617889,-122.13000983607336
+"4aebaf1af964a52060c421e3","Palace Korean Bar & Grill","Food::Korean Restaurant",47.61727366131773,-122.1273083884877
+"4aecddf7f964a520e2cb21e3","Dairy Queen","Food::Ice Cream Shop",47.58094053995521,-122.13945150375366
+"4aecfffff964a520a7cc21e3","Ace Hardware","Shop & Service::Hardware Store",47.616349570460756,-122.13310045632917
+"4aed00dcf964a520abcc21e3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",47.618082703597715,-122.13028907775879
+"4aed028af964a520b2cc21e3","Old Navy","Shop & Service::Clothing Store",47.618453,-122.13081856666666
+"4aee2712f964a5208dd221e3","QFC","Shop & Service::Food & Drink Shop::Grocery Store",47.6348124,-122.200995
+"4aef3f7bf964a520e9d621e3","The Talon Group","Professional & Other Places::Office",47.602043947241846,-122.1870559525233
+"4aef5014f964a52078d721e3","Subway","Food::Sandwich Place",47.61381388683366,-122.19280535434864
+"4af0eebdf964a52031e021e3","Chevron Station","Shop & Service::Gas Station / Garage",47.616906,-122.1814384
+"4af1df50f964a520fae321e3","Ebru Mediterranean Grill","Food::Falafel Restaurant",47.61912769039886,-122.13065555230622
+"4af27cb7f964a520c6e721e3","HYATT house Bellevue","Travel & Transport::Hotel",47.58053818617915,-122.15416624918167
+"4af312f2f964a5205dea21e3","Villa Firenze","Residence::Residential Building (Apartment / Condo)",47.62042628309351,-122.19629694691992
+"4af31d27f964a520c6ea21e3","Peking Wok","Food::Chinese Restaurant",47.5763483891798,-122.16836035251617
+"4af337a6f964a520cfeb21e3","Taj Palace","Food::Indian Restaurant",47.63089793837117,-122.15410038553301
+"4af3424af964a52029ec21e3","Pacific Northwest Ballet School - Bellevue Francia Russell Center","Shop & Service::Gym / Fitness Center::Gym",47.6249905141834,-122.1594517497621
+"4af37f39f964a52027ee21e3","Spiced Chinese Cuisine","Food::Chinese Restaurant",47.62135145590578,-122.13325023651123
+"4af492b7f964a520fbf321e3","Kidd Valley","Food::Burger Joint",47.62826726,-122.135597
+"4af4977df964a52023f421e3","Point Inside WHQ","Professional & Other Places::Office::Tech Startup",47.573153,-122.168288
+"4af50a2ef964a5201bf821e3","Temple De Hirsch Sinai Bellevue","Professional & Other Places::Spiritual Center::Temple",47.575629,-122.131943
+"4af5bcaaf964a5201cfc21e3","Backstage Dance Studio","Nightlife Spot::Nightclub",47.58229672908783,-122.16083407402039
+"4af63a1df964a5206e0222e3","Szechuan Chef","Food::Chinese Restaurant",47.6084657241048,-122.14191423173905
+"4af73f9df964a520a50722e3","Free People","Shop & Service::Clothing Store::Women's Store",47.61533447936843,-122.20448970794678
+"4af744bef964a520cd0722e3","Fuego","Shop & Service::Gift Shop",47.61605447720917,-122.20475601439485
+"4af748aef964a520fa0722e3","Something Silver","Shop & Service::Jewelry Store",47.61557143778503,-122.20312950021196
+"4af76a0cf964a520270922e3","Fireworks Gallery","Shop & Service::Gift Shop",47.615594843647294,-122.20358848571777
+"4af77193f964a5204b0922e3","Lucky Brand","Shop & Service::Clothing Store",47.615774221691545,-122.20397609800551
+"4af776ebf964a520690922e3","Sanrio - Bellevue Square","Shop & Service::Gift Shop",47.614676330549834,-122.20349192619324
+"4af77a76f964a5207d0922e3","Chutneys Bellevue","Food::Indian Restaurant",47.618278,-122.19372413333333
+"4af89a8af964a520a30e22e3","AMF Sun Villa Lanes","Arts & Entertainment::Bowling Alley",47.58265667097701,-122.14123027875598
+"4af8c805f964a520e10f22e3","Hungry Bear Market / ConocoPhillips 76","Shop & Service::Gas Station / Garage",47.63183973328167,-122.1435821056366
+"4af9c39df964a520081422e3","US Social Security Administration","Professional & Other Places::Government Building",47.614653764640494,-122.19983713338631
+"4af9cac8f964a520491422e3","Pogacha Restaurant & Café","Food::Italian Restaurant",47.6106404676525,-122.19939351081848
+"4afa0258f964a520f41522e3","Subway","Food::Sandwich Place",47.58173811666666,-122.140142
+"4afa34aff964a520541722e3","Oakwood Bellevue","Travel & Transport::Hotel",47.61856365931973,-122.19371789597503
+"4afb5385f964a520ff1c22e3","Jack in the Box","Food::Fast Food Restaurant",47.5815757,-122.135582
+"4afc5a23f964a520d62122e3","Starbucks","Food::Coffee Shop",47.625050251021115,-122.15462744235992
+"4afdd03df964a5201f2b22e3","Market Fresh","Shop & Service::Food & Drink Shop::Food Court",47.61522630228285,-122.19645923401453
+"4aff1a43f964a5203f3422e3","jcpenney","Shop & Service::Department Store",47.616196,-122.201699
+"4aff38b4f964a5200f3622e3","KidsQuest Children's Museum","Arts & Entertainment::Museum",47.573283112482144,-122.17217445373535
+"4b00ab45f964a5206a4022e3","evolution rehearsal spaces","Professional & Other Places::Event Space",47.625262,-122.162561
+"4b019581f964a520a04322e3","Les Schwab","Shop & Service::Automotive Shop",47.62156426906586,-122.16899335384369
+"4b01f775f964a520e14622e3","Chaplin's Bellevue Subaru-Volkswagen","Shop & Service::Automotive Shop",47.58147844588104,-122.13851054884246
+"4b034309f964a520104e22e3","Radio Shack","Shop & Service::Electronics Store",47.61007046637803,-122.20132248746516
+"4b039789f964a520d74f22e3","McDonald's","Food::Fast Food Restaurant",47.61527662046374,-122.20431804656982
+"4b0434c3f964a520195222e3","Courtyard Marriott","Travel & Transport::Hotel",47.635217194564625,-122.14620054765709
+"4b045cfbf964a520985322e3","Haggen","Shop & Service::Food & Drink Shop::Grocery Store",47.62236385985822,-122.12990283966064
+"4b061bc3f964a520b8e822e3","Alano Club Of The Eastside","Professional & Other Places::Office",47.61791897,-122.17669
+"4b06f88ef964a5208df422e3","Green Bamboo Wok","Food::Chinese Restaurant",47.61967371476228,-122.13058948516846
+"4b07032ff964a52065f522e3","Topolino's Pizza","Food::Pizza Place",47.617211242870134,-122.1983152627945
+"4b0745e8f964a52019fb22e3","Tillicum Middle School","Professional & Other Places::School::Middle School",47.59799862252984,-122.12610272916258
+"4b0768a6f964a5203dfd22e3","Jo-Ann Fabric and Craft Stores","Shop & Service::Arts & Crafts Store",47.61882036024843,-122.12992429733276
+"4b0768d4f964a52041fd22e3","Michaels","Shop & Service::Arts & Crafts Store",47.617909135814486,-122.12913036346436
+"4b084179f964a5207c0723e3","Chrysler Jeep Dodge - Bellevue","Professional & Other Places::Building",47.610387311749314,-122.18513488769531
+"4b085e35f964a520380a23e3","Interlake High School","Professional & Other Places::School::High School",47.62959474649393,-122.12432384490967
+"4b087586f964a520530c23e3","Pro Sports Club Bistro","Food::Café",47.651249,-122.1447574
+"4b08c68ff964a5201b1223e3","Sky High Sports","Shop & Service::Gym / Fitness Center",47.62310722977777,-122.18023092203535
+"4b08e7d6f964a520481323e3","Temple B'nai Torah","Professional & Other Places::Spiritual Center::Synagogue",47.61279074752858,-122.12979213794287
+"4b097408f964a5207c1723e3","Marinepolis Sushi Land","Food::Sushi Restaurant",47.611434729312215,-122.19711998710775
+"4b09d6c9f964a5208c1e23e3","Qfc","Shop & Service::Food & Drink Shop::Grocery Store",47.61978942277655,-122.13123321533203
+"4b0acaa7f964a520e42723e3","Dr. Heideh Eftehari","Professional & Other Places::Medical Center::Dentist's Office",47.63370931148529,-122.130277
+"4b0afb0df964a5200c2b23e3","Burger King","Food::Fast Food Restaurant",47.63179777,-122.144758
+"4b0b0546f964a520a82b23e3","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.57782848806589,-122.1674108505249
+"4b0b3458f964a5209a2e23e3","Paldo World","Shop & Service::Food & Drink Shop::Grocery Store",47.60418822627984,-122.13255286216736
+"4b0ba216f964a520b73223e3","Starbucks","Food::Coffee Shop",47.617391353742384,-122.19329126241189
+"4b0c1eaaf964a5203d3723e3","T-Mobile Newport 4","Professional & Other Places::Office",47.577734399895455,-122.16655254364014
+"4b0c4ef2f964a520e93a23e3","Taqueria Guaymas","Food::Mexican Restaurant",47.622337341308594,-122.13219451904297
+"4b0d8c87f964a520d14a23e3","Bellevue City Hall","Professional & Other Places::Government Building::City Hall",47.61456461458042,-122.19213810393065
+"4b0da0daf964a520a54c23e3","Harbor Freight Tools","Shop & Service::Hardware Store",47.62855717573316,-122.14619994163513
+"4b0db4aff964a520524e23e3","The Honey Baked Ham Company","Shop & Service::Food & Drink Shop::Butcher",47.628307,-122.15664446353912
+"4b0dced7f964a520795023e3","Jiffy Lube","Shop & Service::Gas Station / Garage",47.627704,-122.15346668333333
+"4b0dead1f964a520985223e3","Ricardo's Mexican Restaurant","Food::Mexican Restaurant",47.572754723161744,-122.17037200927736
+"4b0df208f964a5200d5323e3","Papa Murphy's Take 'n' Bake","Food::Pizza Place",47.62697463,-122.15447397
+"4b0f05e0f964a5204a5e23e3","Wilburton Hill Park","Outdoors & Recreation::Park",47.608507951026105,-122.17459262124123
+"4b1088fdf964a5205f7223e3","Chevron - Lakemont","Shop & Service::Gas Station / Garage",47.556096,-122.12076383
+"4b1173dff964a520e57c23e3","KCLS Library Connection - Crossroads","Professional & Other Places::Library",47.619478633622876,-122.13043669343128
+"4b130d1ef964a5205c9323e3","Zumiez","Shop & Service::Clothing Store",47.614958395343585,-122.20388889312744
+"4b132b19f964a5200b9523e3","Angelo's","Food::Italian Restaurant",47.627031,-122.166642
+"4b132cf7f964a520219523e3","Michael Kors","Shop & Service::Clothing Store",47.61603,-122.20416247844696
+"4b1342daf964a520fe9523e3","Armani Exchange","Shop & Service::Clothing Store",47.615655299270486,-122.20446858624318
+"4b13f76ef964a520099b23e3","Starbucks","Food::Coffee Shop",47.615609308291454,-122.19637870788574
+"4b145c01f964a520c9a123e3","Puget Sound Energy HQ","Professional & Other Places::Office",47.61337491131284,-122.19520712117368
+"4b1470d7f964a52031a323e3","Silver Platters","Shop & Service::Record Shop",47.617944,-122.130284
+"4b1560b1f964a520e5ab23e3","Verizon Wireless","Professional & Other Places::Office",47.579940887437,-122.13338079893171
+"4b157267f964a520fcac23e3","Bally Total Fitness","Shop & Service::Gym / Fitness Center::Gym",47.57820168274985,-122.14867311949874
+"4b16b6c0f964a52070bc23e3","Robert Half International - Bellevue","Professional & Other Places::Office",47.581188037513705,-122.1557777850956
+"4b16ee2af964a5209fbf23e3","Bank of America","Shop & Service::Bank",47.6143859953251,-122.19919622511341
+"4b171024f964a520b2c123e3","Nordstrom Rack","Shop & Service::Department Store",47.5753169996955,-122.17237830162048
+"4b19cb68f964a5204de423e3","Staples","Shop & Service::Paper / Office Supplies Store",47.62529012,-122.15454913
+"4b19e08cf964a5209de523e3","Hermès","Shop & Service::Clothing Store::Accessories Store",47.616999080798166,-122.19242121156654
+"4b1a98a1f964a52015ed23e3","Starbucks","Food::Coffee Shop",47.615999415405945,-122.18087929037311
+"4b1a9976f964a52020ed23e3","Big Apple Bagels","Food::Bagel Shop",47.616073456257645,-122.18093106016524
+"4b1aeeb9f964a520f3f423e3","Video Only","Shop & Service::Electronics Store",47.62713857596125,-122.14919924952223
+"4b1b27def964a520f4f823e3","Glendale Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",47.610181014159835,-122.16054920798888
+"4b1cd05ff964a520ea0924e3","Pinnacle Bellcenter Apartments","Residence::Residential Building (Apartment / Condo)",47.61248201938217,-122.19468123704269
+"4b1d3bc4f964a520660d24e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",47.611565,-122.200104
+"4b1d5a9cf964a520480f24e3","Microsoft Bravern 2","Professional & Other Places::Office",47.61686771701528,-122.19290256500244
+"4b1eac18f964a520931d24e3","Baskin-Robbins","Food::Ice Cream Shop",47.57657938091343,-122.13913085774797
+"4b1ee727f964a520582124e3","BECU Neighborhood Financial Ctr","Shop & Service::Credit Union",47.61226063641522,-122.2012710571289
+"4b1ee8ecf964a5206e2124e3","Wells Fargo - Civica","Shop & Service::Bank",47.61279042703201,-122.19620301287064
+"4b1ee937f964a520722124e3","Wells Fargo","Shop & Service::Bank",47.620642746061456,-122.20152287398538
+"4b1eea79f964a520872124e3","Teriyaki & More","Food::Japanese Restaurant",47.58159187624279,-122.13947296142578
+"4b1efe54f964a520a02224e3","Outback Steakhouse","Food::Steakhouse",47.57667046804911,-122.13629722595215
+"4b1f9e60f964a520682724e3","Pizza Hut","Food::Pizza Place",47.57758772886486,-122.13757291487251
+"4b2059dcf964a520fe3024e3","7-Eleven","Shop & Service::Food & Drink Shop",47.581358393081224,-122.13578047249455
+"4b205b45f964a5201b3124e3","Crossroads Bible Church","Professional & Other Places::Spiritual Center::Church",47.57521875142634,-122.12881737047566
+"4b20760cf964a5206d3224e3","Washington Square Tower 2","Residence::Residential Building (Apartment / Condo)",47.61866797880867,-122.19817162442268
+"4b21b8a8f964a5209f4024e3","Newport High School","Professional & Other Places::School::High School",47.56824477919143,-122.17209485196197
+"4b21d93af964a520f44124e3","Chevron Station","Shop & Service::Gas Station / Garage",47.634409,-122.201275
+"4b22824df964a520034824e3","US Post Office","Professional & Other Places::Post Office",47.6207559448442,-122.20190450922047
+"4b228457f964a5202a4824e3","Sturtevant's","Shop & Service::Sporting Goods Shop",47.62041469430746,-122.20023168333333
+"4b2284fef964a520374824e3","Sturtevant's Ski Mart - Bellevue","Shop & Service::Sporting Goods Shop",47.628567682913065,-122.16261356717754
+"4b22b118f964a520e74b24e3","Best Wok","Food::Chinese Restaurant",47.61026680469513,-122.14343254
+"4b22e04ff964a5204b4f24e3","Eton School","Professional & Other Places::School",47.6346482701269,-122.128432265284
+"4b24274ff964a520526224e3","Chipotle Mexican Grill","Food::Mexican Restaurant",47.62138038200507,-122.1318769454956
+"4b245dfaf964a520996624e3","World Wrapps","Shop & Service::Food & Drink Shop::Food Court",47.615913064894215,-122.20290184020996
+"4b25241cf964a520c76c24e3","Asian Food Center","Shop & Service::Food & Drink Shop::Grocery Store",47.627201460858096,-122.14640218027965
+"4b2569ecf964a520867124e3","McDonald's","Food::Fast Food Restaurant",47.581298798842575,-122.13619560460866
+"4b2569faf964a520897124e3","3-2-1 Bounce","Arts & Entertainment::General Entertainment",47.625240616666666,-122.15956248
+"4b258047f964a520ed7224e3","Cinnabon","Food::Bakery",47.61571056068843,-122.20444679260254
+"4b25ae7df964a520517524e3","Petco","Shop & Service::Pet Store",47.57296463188622,-122.1723461151123
+"4b26d086f964a520568124e3","Enatai Elementary","Professional & Other Places::School::Elementary School",47.58945715109358,-122.19785067228192
+"4b26fce9f964a520cc8324e3","Market Optical","Shop & Service::Cosmetics Shop",47.61561,-122.2036514
+"4b27029cf964a520008424e3","Godiva Chocolatier","Shop & Service::Food & Drink Shop",47.61576841911299,-122.20436096191406
+"4b27c9faf964a520f28924e3","RIM","Professional & Other Places::Office",47.5797027014516,-122.127714802431
+"4b27e3f9f964a520c98b24e3","Highland Community Center","Professional & Other Places::Event Space",47.62554918868681,-122.1504807472229
+"4b2803a2f964a520b08d24e3","GameStop","Shop & Service::Video Game Store",47.61747521383562,-122.12891578674316
+"4b282505f964a520bb8f24e3","Burger King","Food::Fast Food Restaurant",47.57432446666667,-122.1699159
+"4b293deef964a5208a9b24e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",47.610936551471426,-122.19848318258525
+"4b29b4f5f964a520bfa224e3","Chevron Station","Shop & Service::Gas Station / Garage",47.57623633859526,-122.14043184310437
+"4b2a2b1df964a520b6a524e3","WABrokers","Professional & Other Places::Office",47.57649958333333,-122.16865636666667
+"4b2a3b83f964a52056a624e3","South Bellevue Community Center","Outdoors & Recreation::Other Great Outdoors",47.56882347778563,-122.14579460962918
+"4b2aafe6f964a520aead24e3","Hilton Bellevue","Travel & Transport::Hotel",47.6073970134546,-122.18911659197832
+"4b2ad8d7f964a520bdb024e3","Wells Fargo - Factoria Branch","Shop & Service::Bank",47.57405573333333,-122.1690591
+"4b2b1ed0f964a52087b424e3","Chism Beach Park","Outdoors & Recreation::Beach",47.60017325737256,-122.211012840271
+"4b2c06bef964a520eabf24e3","Evergreen Integrative Medicine","Professional & Other Places::Medical Center::Doctor's Office",47.62799084186554,-122.18623995780945
+"4b2c18a8f964a52086c124e3","Bel-Red Auto License","Professional & Other Places::Government Building",47.620902,-122.13018
+"4b2c19ddf964a5209ec124e3","Petco","Shop & Service::Pet Store",47.62138038200507,-122.1298599243164
+"4b2c35a7f964a520d3c324e3","US Post Office","Professional & Other Places::Post Office",47.61682198319155,-122.13010983674963
+"4b2c3870f964a52012c424e3","Office Depot","Shop & Service::Paper / Office Supplies Store",47.61089147654987,-122.19499202109377
+"4b2c4b52f964a52066c524e3","Shakti Vinyasa Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",47.61006709749944,-122.20281244765944
+"4b2c8569f964a52092c724e3","Shell - Eastgate","Shop & Service::Gas Station / Garage",47.58009731769562,-122.13749
+"4b2d0c45f964a52012cd24e3","Gymnastics East","Shop & Service::Gym / Fitness Center::Gym",47.583201531581814,-122.16087474574744
+"4b2d21f7f964a5201ccf24e3","Michael's Toyota of Bellevue","Shop & Service::Automotive Shop",47.58196148290535,-122.14118464699084
+"4b2d384bf964a52062d124e3","Chase Bank","Shop & Service::Bank",47.574925,-122.17003641
+"4b2d4e25f964a520b1d324e3","PetSmart","Shop & Service::Pet Store",47.610815616868436,-122.19566544008738
+"4b2d78abf964a52060d724e3","Blockbuster Video","Shop & Service::Video Store",47.5778067754262,-122.16742694377899
+"4b2da921f964a5201fda24e3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",47.614784817189026,-122.20412492752075
+"4b2e83aff964a52096e124e3","Westminster Chapel","Professional & Other Places::Spiritual Center::Church",47.63266531792792,-122.1571610176315
+"4b2eaf36f964a520e7e424e3","The French Bakery","Food::Bakery",47.61941337079383,-122.13127613067627
+"4b2fbcbcf964a520d5ee24e3","Overlake Hospital Medical Center Outpatient Center","Professional & Other Places::Medical Center",47.620519,-122.19033
+"4b303555f964a520c9f724e3","Hunan Garden Restaurant","Food::Asian Restaurant",47.61750340461731,-122.182782
+"4b31374df964a520db0225e3","Samurai Sam's Teriyaki","Food::Japanese Restaurant",47.58150863647461,-122.14308166503906
+"4b316cdef964a520c30625e3","City of Bellevue","Outdoors & Recreation::City",47.61734035177918,-122.18889280147388
+"4b319390f964a520410925e3","Williams-Sonoma","Shop & Service::Furniture / Home Store",47.61597092309471,-122.20393180847168
+"4b329a05f964a520b40f25e3","Gap Kids","Shop & Service::Clothing Store::Kids Store",47.61472702026367,-122.2041015625
+"4b32b014f964a520eb1125e3","vans - bellevue","Shop & Service::Clothing Store::Women's Store",47.615867614746094,-122.2047119140625
+"4b32b193f964a5200b1225e3","Express","Shop & Service::Clothing Store",47.615428595135995,-122.20502353662748
+"4b32bd01f964a520f41225e3","Sur la Table","Shop & Service::Food & Drink Shop::Gourmet Shop",47.61693805960675,-122.1924367144936
+"4b32fd4ff964a520d71625e3","Claire's","Shop & Service::Clothing Store::Accessories Store",47.6155080556984,-122.20337390899658
+"4b343c62f964a520642625e3","Bartell Drugs","Shop & Service::Drugstore / Pharmacy",47.616737538206934,-122.13312149047852
+"4b367422f964a520ce3525e3","Burger King","Food::Fast Food Restaurant",47.61698453,-122.18334136557478
+"4b368336f964a520153725e3","Teavana","Shop & Service::Food & Drink Shop",47.61549,-122.203781
+"4b369483f964a520643825e3","US Post Office - Factoria Mall","Professional & Other Places::Post Office",47.57438330327433,-122.17153072357178
+"4b36b0a6f964a520aa3a25e3","O'Reilly Auto Parts","Shop & Service::Automotive Shop",47.57492115053166,-122.16874784828667
+"4b38f28ff964a520d35225e3","Elephant Car Wash","Shop & Service::Car Wash",47.621651,-122.168075
+"4b3904e0f964a5205f5425e3","Lakeshore Learning Store","Shop & Service::Toy / Game Store",47.61349395642033,-122.19239588455378
+"4b392839f964a520565725e3","New York Life","Professional & Other Places::Office::Coworking Space",47.602032479479846,-122.18810141086578
+"4b397b5df964a5201c5d25e3","Chase Bank","Shop & Service::Bank",47.612023430685966,-122.20156319161501
+"4b3a3235f964a520236225e3","Cougar Mountain Regional Wildland Park","Outdoors & Recreation::Hiking Trail",47.53452887903814,-122.12855892857439
+"4b3aa043f964a520756b25e3","Department Of Licensing","Professional & Other Places::Government Building",47.62160455973691,-122.16486793617628
+"4b3ab378f964a520f56c25e3","Cost Plus World Market","Shop & Service::Miscellaneous Shop",47.61800229549408,-122.20293557
+"4b3abea8f964a520c06d25e3","Mia & Maxx","Shop & Service::Salon / Barbershop",47.61589615718143,-122.20400096785589
+"4b3bb393f964a5202f7925e3","Ai Sushi - Crossroads","Food::Sushi Restaurant",47.61929766194728,-122.13067531585693
+"4b3be061f964a5204f7d25e3","Coach","Shop & Service::Clothing Store::Accessories Store",47.61556613537684,-122.20385809880764
+"4b3be500f964a520d07d25e3","Vetco Electronics","Shop & Service::Electronics Store",47.62852394,-122.170577
+"4b3becb0f964a5207f7e25e3","Tokyo Stop Teriyaki","Food::Japanese Restaurant",47.59694159030914,-122.14967608451843
+"4b3bfd1bf964a520e07f25e3","Toshi's Teriyaki","Food::Japanese Restaurant",47.604947780329454,-122.13226318359375
+"4b3d26faf964a5200b8f25e3","Starbucks","Food::Coffee Shop",47.57737613954508,-122.16902554035187
+"4b3d2c26f964a5208d8f25e3","Little Store","Shop & Service::Convenience Store",47.585502458540894,-122.11139872925932
+"4b3d4122f964a520079125e3","Albertsons","Shop & Service::Food & Drink Shop::Grocery Store",47.57665913911486,-122.13810071818543
+"4b3fc519f964a5205eae25e3","pedicure lounge","Shop & Service::Tanning Salon",47.61813994112328,-122.20413147116936
+"4b3fd09ef964a5207caf25e3","Salon Tewl","Shop & Service::Salon / Barbershop",47.618416,-122.193722
+"4b3fd3a3f964a520d5af25e3","Olson's Tack Shop","Shop & Service::Pet Store",47.628970910537966,-122.15429235537697
+"4b400b89f964a520cbb425e3","R&R Adult Toys","Shop & Service::Miscellaneous Shop",47.61258102692236,-122.19775167
+"4b401efdf964a520d7b525e3","T-Mobile","Shop & Service::Electronics Store",47.6164003854685,-122.2045169319629
+"4b405ceaf964a520dbb725e3","Ce Fiore","Food::Ice Cream Shop",47.613906,-122.20109683333334
+"4b40ec0ef964a52077bd25e3","7-Eleven","Shop & Service::Convenience Store",47.610034927434626,-122.14323651514829
+"4b412714f964a52031c225e3","Gregg's Bellevue Cycles","Shop & Service::Bike Shop",47.61171677226091,-122.20161792899778
+"4b4138bff964a52093c325e3","Barnes & Noble","Shop & Service::Bookstore",47.620599371706376,-122.1311902999878
+"4b424ddcf964a52024d125e3","City Soups","Food::Soup Place",47.61591908233839,-122.19588768850562
+"4b425144f964a52077d125e3","poppinjay's","Food::Café",47.63705773,-122.19427838333333
+"4b42b6f5f964a52018d925e3","Professional & Continuing Education","College & University::College Academic Building",47.632221118394156,-122.15488225221634
+"4b436b80f964a520eddf25e3","Starbucks","Food::Coffee Shop",47.61545019698576,-122.20363140106201
+"4b43a67af964a52029e525e3","Sacks Gourmet Sandwiches","Food::Deli / Bodega",47.57757517337569,-122.16733038425446
+"4b4416ebf964a52050f125e3","Sports Authority","Shop & Service::Sporting Goods Shop",47.61079236060622,-122.20075607299805
+"4b4430d8f964a52085f225e3","Belcarra Apartments","Residence::Residential Building (Apartment / Condo)",47.61968817827808,-122.19823479652405
+"4b44be3bf964a520e8fa25e3","Spotless Cleaners","Shop & Service::Laundry Service",47.57789113333333,-122.16990935
+"4b44e330f964a5204fff25e3","Acapulco Fresh - Microsoft Commons","Food::Mexican Restaurant",47.64447,-122.143105
+"4b4507bff964a520b70126e3","Café Pogacha","Food::Café",47.613307143699714,-122.19539178906717
+"4b45241bf964a520140626e3","Bartell Drugs","Shop & Service::Drugstore / Pharmacy",47.617822351706806,-122.20521926879883
+"4b452850f964a520910626e3","Seattle Sun Tan - Factoria","Shop & Service::Tanning Salon",47.577307382227744,-122.16792583465576
+"4b46367af964a5203c1a26e3","Brazen Sotheby's Internatiional RE","Professional & Other Places::Office",47.61024,-122.204289
+"4b4646f1f964a520431c26e3","120th Grocery Deli","Food::Deli / Bodega",47.62012642135734,-122.17910271480442
+"4b46800cf964a520b32226e3","Discount Tire","Shop & Service::Automotive Shop",47.62181427157391,-122.16756105422974
+"4b46817cf964a520e32226e3","Music Works Northwest","Professional & Other Places::School",47.58065829171401,-122.14906454086304
+"4b46de36f964a5200b2926e3","Old Country Buffet","Food::American Restaurant",47.574129,-122.171107269937
+"4b46de80f964a520102926e3","Old Navy","Shop & Service::Clothing Store",47.57375641,-122.171216
+"4b480186f964a520424626e3","Flo","Food::Sushi Restaurant",47.620587,-122.19918642500001
+"4b4928a6f964a520366826e3","Eastside Wine Storage","Shop & Service::Food & Drink Shop::Wine Shop",47.63454616069794,-122.20106230000003
+"4b4a2d27f964a5206f7d26e3","Montblanc Boutique","Shop & Service::Miscellaneous Shop",47.61595645855057,-122.20504760742188
+"4b4a6d57f964a5203d8726e3","Walgreens","Shop & Service::Drugstore / Pharmacy",47.61689240344544,-122.15398566083218
+"4b4a707af964a520b38726e3","E.E. Robbins","Shop & Service::Jewelry Store",47.611824,-122.20054407
+"4b4a7ee6f964a520438926e3","Starbucks","Food::Coffee Shop",47.608535619882346,-122.14221954345703
+"4b4a908df964a520b48a26e3","Romio's Pizza & Pasta","Food::Pizza Place",47.57798771381532,-122.1699857711792
+"4b4b7dbff964a520cc9d26e3","UW Physicians Factoria","Professional & Other Places::Medical Center::Doctor's Office",47.578942,-122.164285
+"4b4b8726f964a5203a9f26e3","Nordstrom Grill","Food::American Restaurant",47.617012,-122.204677
+"4b4b8c92f964a520ed9f26e3","Bank of America","Shop & Service::Bank",47.576076972864094,-122.1698784828186
+"4b4b9a22f964a520a1a126e3","HTC North American HQ","Professional & Other Places::Office",47.581267122593175,-122.15558866881828
+"4b4c0849f964a5205ead26e3","Impress","Shop & Service::Arts & Crafts Store",47.615576,-122.20328189000001
+"4b4ce284f964a520f0c226e3","Subway","Food::Sandwich Place",47.617355637688355,-122.1927913414312
+"4b4e6567f964a5202dec26e3","Seattle Wine Co.","Shop & Service::Food & Drink Shop::Wine Shop",47.62737735365105,-122.16675815816322
+"4b4f5d19f964a5203c0327e3","Bellevue Foursquare","Professional & Other Places::Spiritual Center::Church",47.59207220383423,-122.16459452488641
+"4b4f6e69f964a520500627e3","Ben Bridge Jeweler","Shop & Service::Jewelry Store",47.615658,-122.203756
+"4b4f6ed3f964a520650627e3","Group Health Medical Center","Professional & Other Places::Medical Center::Hospital",47.61856879503625,-122.1862477743397
+"4b4f7bd1f964a5206f0827e3","Bellevue Family Dentistry","Professional & Other Places::Medical Center::Dentist's Office",47.6208293437958,-122.133059366667
+"4b4f90d6f964a520b20b27e3","Loehmann's","Shop & Service::Mall",47.57951,-122.1691757440567
+"4b4fa2f7f964a520970e27e3","Bath & Body Works","Shop & Service::Cosmetics Shop",47.61511750814574,-122.20369577407837
+"4b50bffdf964a520c03027e3","University Bookstore","Shop & Service::Bookstore",47.618689,-122.204136
+"4b50dcd4f964a520d33527e3","US Bank Plaza Building","Professional & Other Places::Office",47.61841543993601,-122.19616002978069
+"4b50dd10f964a520df3527e3","Visible Technologies","Professional & Other Places::Office::Tech Startup",47.578808,-122.171249
+"4b50de33f964a520123627e3","Clearwire","Professional & Other Places::Office",47.62325482235187,-122.18178016575463
+"4b5117f4f964a520094227e3","2 a.m.","Nightlife Spot::Karaoke Bar",47.62684529271614,-122.145048138891
+"4b5139bdf964a520f94727e3","Build-A-Bear Workshop","Shop & Service::Toy / Game Store",47.61492223327556,-122.2035241127014
+"4b5286acf964a5200e8127e3","Peking Restaurant","Food::Chinese Restaurant",47.628148649189725,-122.15169310569763
+"4b53a391f964a520c3a527e3","South Gate Garden","Food::Korean Restaurant",47.57676116,-122.140577
+"4b54c78bf964a5201acc27e3","ArenaNet","Professional & Other Places::Office",47.596915,-122.188322
+"4b54dbe8f964a52010d027e3","I Love Teriyaki","Food::Japanese Restaurant",47.630381403374486,-122.1544109028471
+"4b553953f964a52023df27e3","Boba Express","Shop & Service::Food & Drink Shop",47.61908432309014,-122.1304714679718
+"4b55ccaef964a52096f027e3","7-Eleven","Shop & Service::Convenience Store",47.610232584409516,-122.20233015781186
+"4b55df28f964a520f2f327e3","Motricity","Professional & Other Places::Office",47.616014316703,-122.196915149689
+"4b560a28f964a5203cfd27e3","Keller Williams Realty","Professional & Other Places::Office",47.614661,-122.199178
+"4b57399df964a520f42b28e3","Ascentium","Professional & Other Places::Office",47.61759948730469,-122.2001953125
+"4b57468bf964a520cd2e28e3","Symetra Financial Center","Professional & Other Places::Building",47.61657947215488,-122.1965936543484
+"4b57b971f964a520eb3d28e3","Himitsu Teriyaki & Sushi","Food::Sushi Restaurant",47.62873840332031,-122.16578674316406
+"4b57c06ff964a520463f28e3","Shell Gas Station","Shop & Service::Gas Station / Garage",47.581659,-122.167687
+"4b5896f9f964a520f25f28e3","Eddie Bauer Corp. Office","Professional & Other Places::Office",47.61698749610642,-122.20098014365973
+"4b58e2a7f964a520e47028e3","Sunset Spa & Tanning","Shop & Service::Tanning Salon",47.59701156616211,-122.14995574951172
+"4b591f3af964a520ab7d28e3","Burney Brothers BBQ","Food::BBQ Joint",47.61929512023926,-122.130653
+"4b592e99f964a5206a8028e3","Common Folk Co","Shop & Service::Clothing Store::Kids Store",47.61873245239258,-122.13066864013672
+"4b5a0721f964a520aea828e3","Foundation Bank","Professional & Other Places::Building",47.62035913404655,-122.1901883362292
+"4b5a291ff964a5201ab128e3","Ivanhoe park","Outdoors & Recreation::Playground",47.623654110316465,-122.11786549370618
+"4b5a4a0cf964a5208dba28e3","Larsen Lake Blueberry Farm","Outdoors & Recreation::Farm",47.603484,-122.14256
+"4b5a5b90f964a520b9bf28e3","MOD Pizza","Food::Pizza Place",47.61334595231063,-122.20187040664338
+"4b5b36fdf964a520c2eb28e3","Starbucks","Food::Coffee Shop",47.61725197796365,-122.13037472672077
+"4b5b4fb4f964a520a5f328e3","Popcorn Pavilion","Food::Snack Place",47.61568163145217,-122.20436096191406
+"4b5b52e0f964a52094f428e3","Washington State Emissions Testing Facility","Professional & Other Places::Government Building",47.57712295632356,-122.135335796318
+"4b5b88cbf964a5204d0529e3","Hungry Bear Market / Chevron","Shop & Service::Gas Station / Garage",47.5768296973201,-122.16906040906906
+"4b5beaf4f964a520311d29e3","Uncle's Games (Bellevue)","Shop & Service::Toy / Game Store",47.619488,-122.130504
+"4b5cb4e2f964a5209a3f29e3","Omega Photo","Shop & Service::Miscellaneous Shop",47.61249931774996,-122.2004771232605
+"4b5d1c0df964a5200d5329e3","Ristorante Luciano","Food::Italian Restaurant",47.61617342629216,-122.20212936401367
+"4b5d2005f964a5209e5329e3","Silver Cloud Inn - Eastgate","Travel & Transport::Hotel",47.579937,-122.143988
+"4b5dcd8bf964a520846c29e3","Crossroads P-Patch Community Garden","Outdoors & Recreation::Garden",47.621698568041,-122.13016033172607
+"4b5df28af964a5206e7529e3","Wonton City","Food::Chinese Restaurant",47.60506820678711,-122.13217163085938
+"4b5e0731f964a520e07929e3","Moghul Palace India Cuisine","Food::Indian Restaurant",47.616176,-122.18084335327148
+"4b5e2fc7f964a520838229e3","The Shops at The Bravern","Shop & Service::Mall",47.6164193219776,-122.19301521778107
+"4b5f495cf964a5200bb229e3","Hidden Valley Sports Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.62757238258847,-122.19222075140583
+"4b5f661ff964a5201ab829e3","HUGO BOSS","Shop & Service::Clothing Store",47.616207122802734,-122.2039794921875
+"4b5f85e7f964a52062bf29e3","Rite-Aid","Shop & Service::Drugstore / Pharmacy",47.57649676283762,-122.13797092437744
+"4b5fa4fbf964a5201cc629e3","Teriyaki House","Food::Asian Restaurant",47.55806998606995,-122.1149455312348
+"4b60f363f964a5202c032ae3","Villa Fresh Italian Kitchen","Food::Pizza Place",47.6155943491511,-122.20331351350842
+"4b61e5d5f964a520e9292ae3","Better Homes and Gardens Real Estate Executive","Professional & Other Places::Office",47.619433,-122.180519
+"4b61ea0ff964a520f92a2ae3","Sunset Hills Memorial Park","Outdoors & Recreation::Cemetery",47.599043914886416,-122.15379552394596
+"4b61ebd3f964a520682b2ae3","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.57691425,-122.137161
+"4b6236dff964a5209f3c2ae3","Togo's Sandwiches","Food::Sandwich Place",47.626182556152344,-122.1548843383789
+"4b631737f964a52046622ae3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",47.62339228136493,-122.15433146567754
+"4b631793f964a5206d622ae3","Extended Stay America","Travel & Transport::Hotel",47.61041624391456,-122.1870231628418
+"4b636011f964a5206d752ae3","Big 5 Sporting Goods","Shop & Service::Sporting Goods Shop",47.57346,-122.17022716999054
+"4b636d13f964a520e6782ae3","T-Mobile","Arts & Entertainment::General Entertainment",47.57875061035156,-122.17152404785156
+"4b6393e3f964a5208a842ae3","7-Eleven","Shop & Service::Convenience Store",47.61783981323242,-122.12181091308594
+"4b63b101f964a520618c2ae3","bellevue high school","Professional & Other Places::School::High School",47.60393503914573,-122.19818115234375
+"4b647e14f964a520afb72ae3","Bank of America - Lake Hills","Shop & Service::Bank",47.60392549,-122.13200032711
+"4b6494f2f964a5207bbf2ae3","El Comal","Nightlife Spot::Karaoke Bar",47.617561998519484,-122.12775707244873
+"4b64a978f964a5208fc62ae3","Ironworks Gym","Shop & Service::Gym / Fitness Center::Gym",47.628717,-122.171091
+"4b64b587f964a52025ca2ae3","West Coast Armory Indoor Range","Professional & Other Places::Building",47.582148,-122.163925
+"4b65b457f964a520a8fa2ae3","Peet's Coffee - Factoria QFC","Food::Café",47.57865905761719,-122.16737365722656
+"4b65dc83f964a5208d042be3","McDonald's","Food::Fast Food Restaurant",47.57315144700099,-122.16886147602276
+"4b66173af964a52024132be3","My Gym","Shop & Service::Gym / Fitness Center::Gym",47.617953,-122.127702
+"4b6620f8f964a5204e152be3","Abercrombie & Fitch","Shop & Service::Clothing Store",47.614958395343585,-122.20367431640625
+"4b662e9bf964a520e2172be3","Cougar Mountain Regional Wildland Park","Outdoors & Recreation::Hiking Trail",47.53452887903814,-122.12855892857439
+"4b663434f964a520ce182be3","Jamba Juice","Food::Juice Bar",47.574886,-122.171036
+"4b666e5ef964a52036212be3","QFC","Shop & Service::Food & Drink Shop::Grocery Store",47.59681636218688,-122.1491289138794
+"4b66ff02f964a52031342be3","112th & I-405 Park & Ride","Travel & Transport::Bus Station::Bus Line",47.55680847167969,-122.18919372558594
+"4b66ff80f964a52048342be3","Ascentium Corporation","Professional & Other Places::Office",47.6176068600409,-122.199865195169
+"4b670e1ff964a52058372be3","Samena Swim & Rec Club","Shop & Service::Gym / Fitness Center::Gym Pool",47.60230075279238,-122.13576337429325
+"4b671db8f964a520b13b2be3","Virginia Mason Medical Ctr","Professional & Other Places::Medical Center::Doctor's Office",47.61270196666667,-122.1901588
+"4b6798c1f964a520e2562be3","Shell Gas Station","Shop & Service::Gas Station / Garage",47.5960988769605,-122.149685111344
+"4b688362f964a5202f7d2be3","Sprint Store","Shop & Service::Electronics Store",47.61796474456787,-122.20175385475159
+"4b68dd75f964a520bc902be3","Tikka Masala","Food::Indian Restaurant",47.57577133178711,-122.16827392578125
+"4b69d7f6f964a520aeb72be3","Harbor Club - Bellevue","Professional & Other Places::Event Space",47.61696173484198,-122.19687759876251
+"4b69f0cbf964a52051bd2be3","Chase Bank","Shop & Service::Bank",47.62762687,-122.13319
+"4b6b7c63f964a520d00b2ce3","Pro Golf Discount","Shop & Service::Sporting Goods Shop",47.627049588479,-122.150416374207
+"4b6c531cf964a520be302ce3","Washington State Patrol","Professional & Other Places::Government Building::Police Station",47.585039505949,-122.133681987995
+"4b6c5939f964a52095322ce3","King County Metro #271 WB","Travel & Transport::Bus Station::Bus Line",47.616091278115,-122.196070949278
+"4b6c821bf964a520a13f2ce3","Subway - Bellevue (Palazzo)","Food::Sandwich Place",47.62043762207031,-122.19901275634766
+"4b6ca8fdf964a520254a2ce3","India Gate","Food::Indian Restaurant",47.581587129871345,-122.13957672292013
+"4b6dc36df964a5208d8d2ce3","Aritzia","Shop & Service::Clothing Store::Women's Store",47.61511038624995,-122.20390317709554
+"4b6dcde3f964a52062912ce3","Rosalie Whyel Museum of Doll Art","Arts & Entertainment::Museum",47.62087266352631,-122.19601720126691
+"4b6de7b8f964a520a59a2ce3","Merry Go Round","Shop & Service::Toy / Game Store",47.619281767855675,-122.18495231715572
+"4b6dfbcef964a5201da12ce3","Sweet Factory","Shop & Service::Candy Store",47.61566162109375,-122.20457458496094
+"4b6e0460f964a520afa32ce3","The Body Shop","Shop & Service::Cosmetics Shop",47.6159998521709,-122.204790115356
+"4b6e2193f964a520adac2ce3","Nick's Italian Cuisine","Food::Italian Restaurant",47.6302604675293,-122.15565490722656
+"4b6e2d61f964a520daaf2ce3","989 Elements","Residence::Residential Building (Apartment / Condo)",47.619020745725145,-122.19145108986073
+"4b6e3adef964a52010b32ce3","7-Eleven","Shop & Service::Miscellaneous Shop",47.577087,-122.16986
+"4b6f30dcf964a52031e32ce3","Carpet To Go","Shop & Service::Furniture / Home Store",47.621086835861206,-122.17052221298218
+"4b702b71f964a520e1092de3","Sammamish High School","Professional & Other Places::School::High School",47.607392746090966,-122.15099573135376
+"4b706ba2f964a5205d192de3","Boiling Point","Food::Chinese Restaurant",47.619799,-122.20254143
+"4b70a763f964a520cc272de3","Honda of Bellevue","Shop & Service::Automotive Shop",47.57909228819995,-122.1629109328633
+"4b70e1edf964a520e9322de3","Fidelity Investments - Bellevue","Shop & Service::Bank",47.61756692159301,-122.20014407538646
+"4b711639f964a52062392de3","Highland Middle School","College & University::College Academic Building",47.6264711261907,-122.141017913818
+"4b71bb38f964a5200e592de3","Andiamo","Food::Italian Restaurant",47.6191520690918,-122.19319915771484
+"4b72db20f964a520c28b2de3","City University of Bellevue","College & University::Trade School",47.611545,-122.182648
+"4b72f82cf964a520f7922de3","Chevron Station","Shop & Service::Gas Station / Garage",47.59568681065319,-122.15030170000256
+"4b73203ff964a520d99c2de3","Bel-Red Oral & Maxillofacial Surgery","Professional & Other Places::Medical Center::Dentist's Office",47.62586794272836,-122.14786556424238
+"4b732925f964a520079f2de3","US Post Office","Professional & Other Places::Post Office",47.61189899595359,-122.18644917011261
+"4b732bd3f964a520a99f2de3","Chevron Station","Shop & Service::Gas Station / Garage",47.60997376308679,-122.20638541869633
+"4b7476d9f964a52033de2de3","Broiler Bay Burgers","Food::Burger Joint",47.61045455932617,-122.197612
+"4b74eea5f964a5208af82de3","Harry and David","Shop & Service::Food & Drink Shop",47.61507411379315,-122.20307350158691
+"4b75dd77f964a5207a2a2ee3","Pier 1 Imports","Shop & Service::Furniture / Home Store",47.61803448200226,-122.130776
+"4b75f34ff964a52077312ee3","See's Candies","Shop & Service::Candy Store",47.617677,-122.203986
+"4b761035f964a520243a2ee3","Babies R Us","Shop & Service::Toy / Game Store",47.611287553664205,-122.19438258712552
+"4b76d982f964a520fa632ee3","Newport Covenant Church","Professional & Other Places::Spiritual Center::Church",47.564632546227976,-122.17041578826401
+"4b76dec5f964a520c9652ee3","Robinswood Park","Outdoors & Recreation::Park",47.59025293121944,-122.14058294813022
+"4b76ee18f964a5209f6b2ee3","Rice n Roll","Food::Japanese Restaurant",47.615913064894215,-122.20444679260254
+"4b770978f964a520ca762ee3","Factoria Mall Shoe Repair","Shop & Service::Clothing Store::Shoe Store",47.57556915283203,-122.17071533203125
+"4b771858f964a520d67c2ee3","Fran's Chocolates","Shop & Service::Candy Store",47.6101804578996,-122.206197229
+"4b772ab3f964a52022842ee3","Bel-Red Barber","Shop & Service::Salon / Barbershop",47.6281957922281,-122.13530152902217
+"4b774e94f964a520b4902ee3","7 Jean Store","Shop & Service::Clothing Store",47.616013,-122.204282
+"4b78547bf964a520e3c52ee3","Heart Home Thrift Store","Shop & Service::Thrift / Vintage Store",47.6307065,-122.14408758333333
+"4b7869adf964a52056cc2ee3","Canam Pizza","Food::Middle Eastern Restaurant",47.62834930419922,-122.13404846191406
+"4b786dacf964a52088cd2ee3","Kids' Cove","Outdoors & Recreation::Playground",47.61566716682801,-122.20352411270142
+"4b788970f964a5201dd52ee3","Taco Del Mar","Food::Mexican Restaurant",47.616446,-122.204838
+"4b797f2ff964a520cafc2ee3","Elite Sport & Spine","Professional & Other Places::Medical Center::Doctor's Office",47.619592,-122.1532932
+"4b79846bf964a5204cfe2ee3","GUESS","Shop & Service::Clothing Store",47.615653,-122.20480254
+"4b7a1d75f964a52072232fe3","ampm","Shop & Service::Gas Station / Garage",47.62670251187425,-122.14410781860352
+"4b7afc0ef964a520244a2fe3","SAM's at Civica","Shop & Service::Gift Shop",47.61261,-122.196471
+"4b7b0d55f964a5209d4e2fe3","Oh! Chocolate","Shop & Service::Candy Store",47.61576437418719,-122.20445871514512
+"4b7b0e07f964a520c54e2fe3","Southgate Oriental Grocery","Shop & Service::Food & Drink Shop::Grocery Store",47.575326,-122.16864931666667
+"4b7c19c8f964a520f37c2fe3","Pacific Tower Cleaners","Shop & Service::Laundry Service",47.61122607221587,-122.19851272854582
+"4b7cb412f964a52013a22fe3","Bellevue Grille","Food::American Restaurant",47.610992,-122.190301
+"4b7d75c6f964a520d5bf2fe3","LG Electronics MobileComm USA, Inc.","Professional & Other Places::Office::Coworking Space",47.5802585,-122.135348669741
+"4b7df10df964a52050db2fe3","Pasta & Co","Food::Deli / Bodega",47.617732,-122.20377624034882
+"4b7f2aa2f964a520dd1b30e3","FedEx Office","Professional & Other Places::Post Office",47.62213134765625,-122.1323471069336
+"4b7f345cf964a520de1e30e3","Marriott Courtyard - Lobby","Nightlife Spot::Hotel Bar",47.617441486583424,-122.19326837337766
+"4b803c1ff964a5204c5f30e3","Wellness One of Eastgate","Professional & Other Places::Medical Center",47.576642460402184,-122.13717172154368
+"4b808af2f964a520867b30e3","byblos deli","Food::Greek Restaurant",47.6282015629556,-122.150531
+"4b809c01f964a520bc8030e3","Brown Bear Car Wash","Shop & Service::Car Wash",47.57681522195182,-122.16866075992584
+"4b818d0ef964a5205fae30e3","Overlake Hospital Medical Center Emergency Room","Professional & Other Places::Medical Center::Emergency Room",47.61964478771867,-122.18689441680908
+"4b81b6e9f964a5207db930e3","Highland Skate Plaza","Outdoors & Recreation::Other Great Outdoors",47.62633547989561,-122.15113099214248
+"4b81d552f964a52069c030e3","Nail Touch","Shop & Service::Salon / Barbershop",47.5772444853456,-122.168309767049
+"4b82c5b7f964a520eee330e3","Swedish Medical Group - Factoria Primary Care","Professional & Other Places::Medical Center::Doctor's Office",47.5759241857143,-122.16777003
+"4b841e0bf964a520cf2131e3","RadioShack","Shop & Service::Electronics Store",47.57445526123047,-122.1713638305664
+"4b8485dcf964a520183a31e3","Kobe Wellbeing Tonkatsu","Food::Japanese Restaurant",47.617909135814486,-122.19324588775635
+"4b848d44f964a520553b31e3","Jimmy Choo","Shop & Service::Clothing Store::Shoe Store",47.617323574717,-122.190801464108
+"4b858b1cf964a520786431e3","Holistique Medical Center","Professional & Other Places::Medical Center::Doctor's Office",47.62702941894531,-122.1859130859375
+"4b858bddf964a520aa6431e3","Cold Stone Creamery","Food::Ice Cream Shop",47.57518,-122.171051
+"4b86ceadf964a520bb9e31e3","Quiznos - Bellevue Way","Food::Sandwich Place",47.61267852783203,-122.20159912109375
+"4b86f721f964a52086a831e3","Mrs. Fields","Food::Dessert Shop",47.616390228271484,-122.20404815673828
+"4b8723daf964a520c6b231e3","Pro Sports Club","Shop & Service::Gym / Fitness Center::Gym",47.65157049946027,-122.14466571807861
+"4b873686f964a520b8b631e3","Massage Center of Bellevue","Professional & Other Places::Medical Center",47.61073684692383,-122.20272827148438
+"4b873c9af964a520eeb731e3","Torero's","Food::Mexican Restaurant",47.619095170849626,-122.13071823120117
+"4b883e1cf964a520e8e931e3","Chase","Professional & Other Places::Office",47.61846147985706,-122.13225702742766
+"4b8845daf964a520d6eb31e3","Papaya Vietnamese Cuisine","Food::Vietnamese Restaurant",47.61902,-122.13074
+"4b884dc0f964a520d0ed31e3","U.S. Bank","Shop & Service::Bank",47.5736224651337,-122.16905772686
+"4b887bc4f964a5204dfb31e3","Larkspur Landing","Travel & Transport::Hotel",47.57540747327015,-122.1296238899231
+"4b888706f964a52062fe31e3","Thomasville Furniture","Shop & Service::Furniture / Home Store",47.616665216506675,-122.20122814178467
+"4b889306f964a520c10132e3","Shalimar Indian Restaurant","Food::Indian Restaurant",47.62710189819336,-122.15113830566406
+"4b89760af964a520663832e3","Happy Nails & Spa","Shop & Service::Nail Salon",47.6137231,-122.201115
+"4b8982fcf964a520863d32e3","Stod's Baseball","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.552106,-122.179561
+"4b8aca55f964a520328132e3","Champions Centre","Professional & Other Places::Spiritual Center::Church",47.58569243477467,-122.14344305194888
+"4b8acc2af964a520b88132e3","Gyro World - Factoria","Food::Greek Restaurant",47.573973,-122.17236757278442
+"4b8adbd0f964a520b88532e3","La Belle Reve","Shop & Service::Bridal Shop",47.61909484863281,-122.19645690917969
+"4b8ae9b0f964a520b68832e3","Cindy Nails - Bellevue","Shop & Service::Nail Salon",47.61694010116153,-122.17951763432085
+"4b8af5bbf964a520528b32e3","The Studio","Arts & Entertainment::Art Gallery",47.61947250366211,-122.20269012451172
+"4b8c2583f964a520a5c032e3","Microsoft Bravern 2, Cafeteria","Professional & Other Places::Office::Cafeteria",47.61712610112854,-122.19264797868621
+"4b8c39d1f964a5203bc532e3","Starbucks","Food::Coffee Shop",47.61675200253497,-122.20174312591553
+"4b8c46caf964a52004c832e3","Lake Hills Elementary","Professional & Other Places::School",47.601111,-122.149376
+"4b8c732bf964a52064d132e3","Aikido Eastside","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",47.58205,-122.16134
+"4b8c7dfff964a52086d332e3","China Spa","Shop & Service::Spa / Massage",47.628317,-122.149983
+"4b8d658cf964a52054f932e3","Neurological Associates-WA","Professional & Other Places::Medical Center::Doctor's Office",47.6249277591705,-122.184097540694
+"4b8d7b4bf964a52056fe32e3","Excell Data","Professional & Other Places::Office",47.594837,-122.18997338333334
+"4b8d82c2f964a5200a0033e3","Sports Authority","Shop & Service::Sporting Goods Shop",47.62135145590578,-122.13106155395508
+"4b8dace3f964a520ed0733e3","Intellectual Ventures","Professional & Other Places::Office",47.60362515506183,-122.19014801630036
+"4b8dc221f964a520540c33e3","California Closets","Shop & Service::Furniture / Home Store",47.61935551640258,-122.18517780303955
+"4b8dd608f964a520ec0f33e3","International School Bellevue","Arts & Entertainment::Performing Arts Venue",47.60456848144531,-122.17124938964844
+"4b8ea92df964a520382f33e3","Travelex Currency Services","Shop & Service::Bank",47.61759,-122.197602
+"4b8ebc61f964a520f43333e3","J Crew","Shop & Service::Clothing Store",47.61554978924947,-122.20437498503992
+"4b8ebfe4f964a520cb3433e3","Sport Clips","Shop & Service::Salon / Barbershop",47.62647931666667,-122.154759
+"4b8ecdccf964a520313833e3","Overlake Family Medicine","Professional & Other Places::Medical Center::Doctor's Office",47.581469,-122.13970693510416
+"4b8fe3b5f964a520996733e3","Pacific Cataract Laser Institute","Professional & Other Places::Medical Center::Optical Shop",47.617886,-122.199801
+"4b8ff38cf964a520b86b33e3","Cadillac of Bellevue","Shop & Service::Automotive Shop",47.615502368644464,-122.18462747312988
+"4b901bc0f964a5201d7633e3","The Nooner","Food::Sandwich Place",47.628261,-122.15595781803131
+"4b90a401f964a520059333e3","UltraLounge@TheParlor","Nightlife Spot::Other Nightlife",47.61680603027344,-122.201613
+"4b9166a9f964a52074b933e3","Lets Do Lunch","Food::Sandwich Place",47.6239407062531,-122.167505533333
+"4b917758f964a520a7be33e3","Les Schwab Tire Center","Shop & Service::Automotive Shop",47.62808357387027,-122.1436196565628
+"4b919df2f964a52039ca33e3","Mercer Slough Nature Park","Outdoors & Recreation::Park",47.58653099442834,-122.18962807394409
+"4b91ab9af964a520adce33e3","Made In Washington","Shop & Service::Gift Shop",47.6155765,-122.20328
+"4b920ab6f964a520a5e433e3","Parlor Live Comedy Club","Arts & Entertainment::Comedy Club",47.61701778385055,-122.20104843378067
+"4b928574f964a5208d0034e3","Bodily Veterinary Hospital","Professional & Other Places::Medical Center::Veterinarian",47.630724,-122.178867
+"4b929fb2f964a520f50a34e3","Albert Lee","Shop & Service::Furniture / Home Store",47.62001179839753,-122.18436241149902
+"4b92bdf2f964a5205f1734e3","Sunset Glass Company, Inc.","Professional & Other Places::Building",47.61745,-122.1842
+"4b92c559f964a5202e1a34e3","Wells Fargo","Shop & Service::Bank",47.626849,-122.15421064
+"4b92e895f964a520172634e3","New Balance","Shop & Service::Sporting Goods Shop",47.61598219819341,-122.20504602300107
+"4b92ec49f964a5205b2734e3","Papazzi Pizzeria","Food::Pizza Place",47.6194422979654,-122.13020324707031
+"4b92f2cdf964a5208b2934e3","Domino's Pizza","Food::Pizza Place",47.576725006103516,-122.1388168334961
+"4b92f6aff964a520d42a34e3","Lamborghini Bellevue","Shop & Service::Automotive Shop",47.6333961646486,-122.160614583874
+"4b92feb7f964a520612d34e3","Eastside Harley-Davidson","Shop & Service::Automotive Shop",47.62941398651901,-122.14778780937195
+"4b93e81cf964a520e75834e3","EastLake Community Church Bellevue Campus","Professional & Other Places::Spiritual Center::Church",47.56843,-122.173163
+"4b941886f964a520d86734e3","Janie and Jack","Shop & Service::Clothing Store::Kids Store",47.61566162109375,-122.20404052734375
+"4b941e8df964a5206e6934e3","Louis Vuitton","Shop & Service::Clothing Store::Accessories Store",47.61652057280609,-122.19221591949463
+"4b942956f964a520fc6b34e3","Grendelsweets","Shop & Service::Candy Store",47.618832,-122.13069140911102
+"4b94b3a4f964a520f88034e3","Matthew's Thriftway at Lakemont","Shop & Service::Food & Drink Shop",47.55801247872347,-122.11547474754724
+"4b967a7ef964a520bdce34e3","Bellevue Boys & Girls Club","College & University::Student Center",47.61240685513926,-122.20746472965133
+"4b96dd9ff964a520e3e934e3","7 For All Mankind","Shop & Service::Clothing Store",47.61628914205288,-122.2040605545044
+"4b96f4b9f964a5202ef034e3","The Artisanal Table","Food::Pizza Place",47.616455078125,-122.1917953491211
+"4b973c17f964a520f7fc34e3","Avalon Bellevue Park Building C","Professional & Other Places::Building",47.62069,-122.191862
+"4b97d4c5f964a5208d1835e3","Hopelink - Bellevue","Professional & Other Places::Building",47.610140064659,-122.141700516533
+"4b97ec7df964a520b41f35e3","Pine Lake Cleaners","Shop & Service::Laundry Service",47.5754796333333,-122.16929215
+"4b9822b9f964a520ce2e35e3","Nordstrom Cafe (Bellevue Square)","Food::Café",47.61663818359375,-122.2037582397461
+"4b99132bf964a520b95f35e3","Jonah's Restaurant","Nightlife Spot::Hotel Bar",47.608894166666666,-122.189453
+"4b997a93f964a520987d35e3","French Immersion School of Washington","Professional & Other Places::School",47.5699141515524,-122.102229858228
+"4b999b90f964a520288735e3","Domino's Pizza","Food::Pizza Place",47.61732482910156,-122.12787628173828
+"4b99a515f964a520748935e3","Edgewood Park Apartments","Professional & Other Places::Building",47.597663941256705,-122.15194096126352
+"4b99ad0df964a520578b35e3","Tosoni's Restaurant","Food::Italian Restaurant",47.62815937,-122.149536
+"4b9a9c8ff964a5203bc635e3","Dozo Cafe","Food::Ramen /  Noodle House",47.57728205056177,-122.16903626918793
+"4b9b267df964a5204af635e3","Chess4Life","Professional & Other Places::School",47.6275123537003,-122.17017889022827
+"4b9be9e6f964a520193536e3","T'Latte","Food::Coffee Shop",47.61080551147461,-122.20289611816406
+"4b9bf80ef964a520c43b36e3","Safelite AutoGlass","Shop & Service::Automotive Shop",47.621151,-122.17014332
+"4b9c0febf964a520144636e3","The UPS Store","Professional & Other Places::Post Office",47.6174173572997,-122.128915786743
+"4b9c1102f964a520994636e3","101 Yess","Food::Chinese Restaurant",47.63061702,-122.179051
+"4b9c1465f964a520e74736e3","Emerald City Smoothie","Food::Juice Bar",47.6285032689115,-122.154043048775
+"4b9c2531f964a520ba4e36e3","Pet Pros","Shop & Service::Pet Store",47.609831099033855,-122.19971640183766
+"4b9c6074f964a520116436e3","True Religion","Shop & Service::Clothing Store::Boutique",47.61653929572558,-122.20404803821165
+"4b9d353ef964a520909936e3","Yuen Lui Studios","Shop & Service::Miscellaneous Shop",47.61704128825562,-122.19410419464111
+"4b9d39aef964a5201c9b36e3","Glassybaby","Shop & Service::Gift Shop",47.61038007870549,-122.20343828201293
+"4b9d5082f964a520e0a236e3","Lake Sammamish","Outdoors & Recreation::Lake",47.603052491555026,-122.09647178649902
+"4b9d59a4f964a520d1a536e3","Pizzaria Guido","Food::Italian Restaurant",47.620915,-122.12976904832732
+"4b9e6ba7f964a52035e236e3","Bellegrove Ob/Gyn","Professional & Other Places::Medical Center::Doctor's Office",47.62167283868741,-122.1899271605126
+"4b9e7b43f964a520b5e736e3","Delphi Building","Professional & Other Places::Building",47.5786933675584,-122.156757116318
+"4b9e81e3f964a520ffe936e3","Teriyaki Town","Arts & Entertainment::Arcade",47.628910064697266,-122.13495635986328
+"4b9ed027f964a520df0337e3","Teriyaki Express","Food::Asian Restaurant",47.6230584,-122.167509
+"4b9fa749f964a520ef3137e3","Overlake Internal Medicine Associates","Professional & Other Places::Medical Center::Doctor's Office",47.621635011952,-122.190059310498
+"4b9fc207f964a520e13b37e3","Pediatric Associates - Factoria","Professional & Other Places::Medical Center::Doctor's Office",47.5723564624786,-122.168738
+"4b9ff81ef964a520964e37e3","Bellevue Chamber Of Commerce","Professional & Other Places::Building",47.61553128418464,-122.20401335596249
+"4ba01585f964a520b55837e3","Forest Ridge","Professional & Other Places::School",47.5585336179843,-122.155102532596
+"4ba016bdf964a5200b5937e3","Bellevue Way & NE 8th Intersection","Outdoors & Recreation::Other Great Outdoors",47.6174173572997,-122.20174312591553
+"4ba103acf964a520ff8e37e3","Samsung Telecommunications America","Professional & Other Places::Office::Coworking Space",47.5812155495984,-122.147390842438
+"4ba24658f964a520eae837e3","Amore Chocolates & Gifts","Food::Dessert Shop",47.60992431640625,-122.20478820800781
+"4ba24f04f964a520e6eb37e3","Microsoft Parking Garage 26/27/28","Professional & Other Places::Parking",47.6333026763338,-122.1324007957109
+"4ba28d86f964a520a30338e3","Social27 city center","Professional & Other Places::Office",47.615999,-122.194979
+"4ba29222f964a520580538e3","IceBreaker","Professional & Other Places::Office::Tech Startup",47.638052,-122.194351
+"4ba2ad27f964a5201d0f38e3","Jordan The Professional Man's Barber","Shop & Service::Salon / Barbershop",47.6152476909874,-122.195960283279
+"4ba2b021f964a5204a1038e3","S*** Creek w/o Paddle","Outdoors & Recreation::Hot Spring",47.57833,-122.167714
+"4ba2ccfbf964a5204e1a38e3","Evergreen Beauty College","College & University::College Academic Building::College Arts Building",47.6273980833333,-122.152491
+"4ba2cf0ef964a520e71a38e3","RootMetrics","::Professional & Other Places",47.641326778259625,-122.19316623462274
+"4ba2dda1f964a5201d1f38e3","Ashton Bellevue","Professional & Other Places::Building",47.6191940540595,-122.196860238837
+"4ba3b6fff964a5208c5738e3","Aditi Technologies","Professional & Other Places::Office",47.62886428833008,-122.13232421875
+"4ba3d541f964a5207e6438e3","Champs Sports","Shop & Service::Clothing Store",47.615653,-122.20296
+"4ba3e3b0f964a520846a38e3","Metro Base","Professional & Other Places::Building",47.62710760926988,-122.17807659844341
+"4ba3f836f964a520c17238e3","Zebra Club","Shop & Service::Clothing Store",47.61284648865584,-122.20337390899658
+"4ba42cc9f964a5201b8938e3","Chevron Station","Shop & Service::Gas Station / Garage",47.594988619379734,-122.19683027513346
+"4ba4303af964a520578a38e3","Baskin Robbins","Food::Ice Cream Shop",47.62253189086914,-122.13211822509766
+"4ba53aa8f964a520d5ee38e3","Bellefields Nature Park","Outdoors & Recreation::Park",47.59143648323559,-122.18328147783993
+"4ba5435df964a52056f338e3","The Men's Wearhouse","Shop & Service::Clothing Store::Men's Store",47.614798,-122.199158
+"4ba546c8f964a52007f538e3","Mercer Slough Blueberry Farm","Outdoors & Recreation::Farm",47.58926953342186,-122.19143351689837
+"4ba561fcf964a520850139e3","Northwest Pianos","Shop & Service::Music Store",47.6226473040479,-122.163088312105
+"4ba566daf964a5208e0339e3","Vera Bradley","Shop & Service::Department Store",47.61607,-122.20484
+"4ba64e93f964a5208c4439e3","Massage Envy","Professional & Other Places::Building",47.62736774000878,-122.14900016784668
+"4ba6d096f964a5203f7139e3","Apna Bazar","Shop & Service::Miscellaneous Shop",47.63079745109085,-122.14484277326088
+"4ba79194f964a520389e39e3","Rockwell Institute","College & University::Trade School",47.629642486572266,-122.163818359375
+"4ba7a57ef964a520c5a539e3","Coinstar","Professional & Other Places::Office",47.59593074471852,-122.19015442724285
+"4ba7ab33f964a5200ca839e3","T-Mobile USA HQ","Professional & Other Places::Office",47.57826273896927,-122.16604828834534
+"4ba7f618f964a52023c239e3","West Marine Bellevue","Shop & Service::Sporting Goods Shop",47.6280074365665,-122.163337733111
+"4ba8131df964a520d9ca39e3","US Health Works","Professional & Other Places::Medical Center",47.627354,-122.154068
+"4ba82ab6f964a520f6ce39e3","Residence Inn by Marriott","Travel & Transport::Hotel",47.63376347545612,-122.14699450966013
+"4ba897f6f964a5209be139e3","La Residence Suite Hotel","Travel & Transport::Hotel",47.61489918552127,-122.2074913794167
+"4ba905baf964a5206c043ae3","Microsoft Advanta-B","Professional & Other Places::Office",47.583610967236716,-122.13085770606995
+"4ba90607f964a52083043ae3","Mollie Michelle Boutique Salon","Shop & Service::Salon / Barbershop",47.63024794,-122.178331
+"4ba90fbcf964a520f6073ae3","LensCrafters","Shop & Service::Miscellaneous Shop",47.612599,-122.201564
+"4ba91525f964a520d5093ae3","Salon JBU","Shop & Service::Salon / Barbershop",47.619747,-122.20267
+"4ba91692f964a520510a3ae3","The Lakes Pool","Outdoors & Recreation::Pool",47.64833408,-122.144653
+"4ba92f39f964a52054123ae3","Smiles of Bellevue","Professional & Other Places::Medical Center::Dentist's Office",47.6235389470032,-122.190740704536
+"4ba95330f964a520fa1e3ae3","SQL Soft","College & University::College Classroom",47.626324132241244,-122.18968652071328
+"4ba958e7f964a520d6203ae3","Aloha Cleaners","Shop & Service::Laundry Service",47.62629999646316,-122.15460302501492
+"4ba972bbf964a520d3273ae3","A Masquerade","Shop & Service::Miscellaneous Shop",47.622771,-122.163212
+"4baa8748f964a520d8713ae3","Easy Choppers & Tattoos","Shop & Service::Tattoo Parlor",47.61777954809981,-122.19773959206232
+"4baa99d6f964a5207e783ae3","Cafe Habits","Food::Coffee Shop",47.61526107788086,-122.19878387451172
+"4baaa635f964a520b27c3ae3","Ottica","Shop & Service::Cosmetics Shop",47.610264,-122.203791
+"4baacd64f964a5207e873ae3","Nail Spa Esthetique","Shop & Service::Cosmetics Shop",47.618969,-122.193702
+"4baacf95f964a52007883ae3","Quadrant Homes","Professional & Other Places::Office",47.578208877215,-122.143405098394
+"4bab7822f964a520bbab3ae3","Dr. Eugene Kato, DDS","Professional & Other Places::Medical Center::Dentist's Office",47.622013092041016,-122.18382263183594
+"4bac2532f964a52011e73ae3","Buckle","Shop & Service::Clothing Store",47.6155080556984,-122.20264434814453
+"4bacdaa0f964a52039123be3","Bodyworks Auto Rebuild","Shop & Service::Automotive Shop",47.62839889526367,-122.16885375976562
+"4bad80b9f964a52013573be3","Cold Stone Creamery","Food::Ice Cream Shop",47.61898501435061,-122.13115990910585
+"4bae4567f964a5204b9b3be3","Mighty Dollar Store","Shop & Service::Miscellaneous Shop",47.60395288467407,-122.13235091
+"4bae759af964a5200bb53be3","KFC","Food::Fried Chicken Joint",47.57665599263684,-122.17157363891602
+"4bae79a7f964a52001b73be3","Macy's Home Store","Shop & Service::Furniture / Home Store",47.615785,-122.204744
+"4bafcb03f964a52030213ce3","Pacific Northwest School Of Music","Arts & Entertainment::Performing Arts Venue",47.58259582519531,-122.17149353027344
+"4bb0d3fbf964a520bd603ce3","Coinstar Cafe","Professional & Other Places::Office::Cafeteria",47.595958,-122.189615
+"4bb0d961f964a520fa623ce3","Oracle - One Bellevue Center","Professional & Other Places::Office",47.614464,-122.196353
+"4bb10043f964a520b8713ce3","Julep Nail Parlor","Shop & Service::Salon / Barbershop",47.612581323655945,-122.20204968757986
+"4bb10904f964a52092743ce3","Ashwood Urban Market","Food::Deli / Bodega",47.61851662053502,-122.19157218933105
+"4bb10e9df964a52087763ce3","Henry's Taiwan","Food::Chinese Restaurant",47.604329,-122.13247939
+"4bb17453f964a52095943ce3","Park Place LTD","Shop & Service::Automotive Shop",47.62855166535598,-122.15701835645265
+"4bb22248f964a520e1bb3ce3","New York Cafe Deli Market","Food::Café",47.6131647266282,-122.19672203064
+"4bb236dfa32876b0ad4a00fe","Root Sports","Professional & Other Places::Office",47.577041037241,-122.131791114807
+"4bb25bce2397b7135be836b3","Tully's Coffee","Food::Coffee Shop",47.60739422205651,-122.18923011320774
+"4bb26a37eb3e9521effdc90a","Boeing, Bellevue","Professional & Other Places::Office",47.58449172973633,-122.12645721435547
+"4bb291cceb3e9521643cca0a","CrossFit Bellevue","Shop & Service::Gym / Fitness Center",47.58283662971739,-122.16110229492188
+"4bb295dca32876b03ad500fe","O'Reilly Auto Parts","Shop & Service::Automotive Shop",47.631850578394406,-122.13325023651123
+"4bb2b2904019a593823b37b8","Redbox","Shop & Service::Video Store",47.576858992561085,-122.13820247022038
+"4bb2b7d7715eef3bf0a785bb","Seattle Sun Tan","Shop & Service::Tanning Salon",47.61025862060165,-122.19730536354085
+"4bb3711a42959c74aae9212c","Chevron Station","Shop & Service::Gas Station / Garage",47.61713697857895,-122.12202441001558
+"4bb3719d715eef3ba95086bb","Eastside Family Medicine Clinic","Professional & Other Places::Medical Center::Doctor's Office",47.62203512013413,-122.18955804416169
+"4bb3c4e214cfd13a888516ab","Topline Corporation","Professional & Other Places::Office",47.582582,-122.165215
+"4bb3d5bb715eef3b98e986bb","Toraya Teriyaki","Food::Asian Restaurant",47.62744140625,-122.1490249633789
+"4bb4085f643cd13a175d395c","Lewis Creek Park","Outdoors & Recreation::Park",47.550753072415425,-122.12672173976898
+"4bb4c66c613fb713b32894e6","Allergy and Asthma Associates","Professional & Other Places::Medical Center::Doctor's Office",47.6219482421875,-122.19025421142578
+"4bb508b5f562ef3bd6632e97","Seabell Bakery","Food::Bakery",47.576383,-122.16891
+"4bb54642941ad13aa60c1ee3","First Street Fitness","Shop & Service::Gym / Fitness Center::Gym Pool",47.61121015658608,-122.20585698262543
+"4bb58196f562ef3b51142f97","Chevron Station","Shop & Service::Gas Station / Garage",47.57623633859526,-122.14043184310437
+"4bb5f046ef159c74323075f7","Stay Fit - Hyatt Regency Bellevue","Shop & Service::Gym / Fitness Center::Gym",47.617764495555,-122.20170021057129
+"4bb60a7ef562ef3b49872f97","Bellevue College - A Building","College & University::College Academic Building::College Communications Building",47.58405964354876,-122.14897871017456
+"4bb61380ef159c74cc5d75f7","Microsoft Advanta-C","Professional & Other Places::Office::Coworking Space",47.5835639283684,-122.12970435619354
+"4bb61adb46d4a5931bb0c5c0","AV Performance Tennis Club","Shop & Service::Gym / Fitness Center",47.6241503710499,-122.163842253657
+"4bb640e32ea195217560ab2f","Golf Savings Bank","Professional & Other Places::Office",47.618125,-122.190419
+"4bb6557cef159c74bdc975f7","Square Lotus","Food::Vietnamese Restaurant",47.579304926442894,-122.16734379529953
+"4bb65c43ef159c7429d475f7","Bank of America Tower","Professional & Other Places::Office",47.61775003150703,-122.20020890235901
+"4bb6634c6edc76b0e4db301c","Bellevue College - B Building","College & University::College Administrative Building",47.584891855558666,-122.1489143371582
+"4bb66a21ef159c744fea75f7","Fuji Bakery","Food::Bakery",47.596920013427734,-122.15007019042969
+"4bb67e91f562ef3b2e433097","7-Eleven","Shop & Service::Convenience Store",47.6319951796825,-122.13320732116699
+"4bb6bc7d6edc76b0df76311c","Microsoft Advanta-A","Professional & Other Places::Office",47.583971335986206,-122.13040895510719
+"4bb7b76ccf2fc9b69fae9e02","Rose Nails","Shop & Service::Nail Salon",47.61655006,-122.131386
+"4bb7befa314e952142a3479d","Marmot Mountain Works","Shop & Service::Sporting Goods Shop",47.618104399530104,-122.20216155052185
+"4bb7c00798c7ef3ba14e3002","Robinswood Dog Park","Outdoors & Recreation::Dog Run",47.587741,-122.142127
+"4bb7f75e98c7ef3bf7a73002","Shell Gas Station","Shop & Service::Gas Station / Garage",47.57613800643458,-122.13975316906374
+"4bb7f79398c7ef3b4da83002","Eastside Bar & Grill","Food::American Restaurant",47.61637878417969,-122.18632507324219
+"4bb87235b35776b0bcebc801","Bellevue First Congregational Church, UCC","Professional & Other Places::Spiritual Center::Church",47.61679322486942,-122.19613177907277
+"4bb8afa198c7ef3b93483102","St. Louise Catholic Church","Professional & Other Places::Spiritual Center::Church",47.60855335537936,-122.13367250030527
+"4bba1b82b35776b00287ca01","SKCAR","College & University::College Academic Building",47.58194875196288,-122.17384760824267
+"4bba36e9935e9521a2e12790","Amazon Fresh","Professional & Other Places::Building",47.62294006347656,-122.17586517333984
+"4bba40b1cf2fc9b64555a102","Goodfellas Sandwich Shop & Espresso","Food::Sandwich Place",47.578712463378906,-122.15943908691406
+"4bba7d2c53649c74992049fb","CH2M Hill - Bellevue","Professional & Other Places::Office",47.619931481076705,-122.19022009181705
+"4bba88807421a5930ef4c340","Securitas Security USA","Professional & Other Places::Office",47.579187321101706,-122.15658214026593
+"4bbb6524935e952169202990","Coldwell Banker Bain","Professional & Other Places::Office",47.620474,-122.169958
+"4bbbc3d9e4529521622855a4","Watermark Credit Union","Shop & Service::Bank",47.60832011339213,-122.14236189328258
+"4bbbd283e436ef3b54e75564","Define Fitness Studio","Shop & Service::Gym / Fitness Center::Gym",47.62746899444256,-122.16786773291422
+"4bbbdbb351b89c7423d6862a","Microsoft","Professional & Other Places::Office",47.61708468097567,-122.20135688781738
+"4bbbea40e5b0d13abcc16e7c","Kung-Ho Chinese Restaurant","Food::Chinese Restaurant",47.57747022835928,-122.16727674007416
+"4bbbef7de4529521a86d55a4","Bellevue Fire Station #9","Professional & Other Places::Government Building::Fire Station",47.5415531030285,-122.17460526281228
+"4bbcc1e58a4fb713541d3c9d","Jazzed Espresso","Food::Coffee Shop",47.57670974731445,-122.16976928710938
+"4bbd28fbf57ba59362cfadb9","Cat Care Clinic","Professional & Other Places::Medical Center::Veterinarian",47.62011598806929,-122.20239812308579
+"4bbe57d64e9cd13a1ef4d92c","Symetra Financial Center","Professional & Other Places::Building",47.61677077146605,-122.19682832091289
+"4bbf7cb1920eb713226a172c","Baskin-Robbins","Food::Ice Cream Shop",47.6154791263501,-122.202429771423
+"4bbf8570920eb7136c7a172c","Chendu China Buffet","Food::Chinese Restaurant",47.631011962890625,-122.14522552490234
+"4bbf9c934cdfc9b6b2909121","O'Reilly Auto Parts","Shop & Service::Automotive Shop",47.577484130859375,-122.13642883300781
+"4bc0e78974a9a5938fefd0f6","Greenbaum Home Furnishings","Shop & Service::Furniture / Home Store",47.60098137698372,-122.18394251656544
+"4bc0ffe974a9a5934423d1f6","Power Play Bellevue","Arts & Entertainment::Arcade",47.61675200253497,-122.20135688781738
+"4bc116d82a89ef3b0dd0f188","Bellevue Badminton Club","Shop & Service::Gym / Fitness Center::Gym",47.58309,-122.161266
+"4bc266b0f8219c74d1dcb410","Bellevue Bridal Boutique","Shop & Service::Bridal Shop",47.61112323622661,-122.20263583699888
+"4bc3a8d5461576b0acfb7e32","Metro Route 545","Travel & Transport::Bus Station::Bus Line",47.634099886861534,-122.1472268964942
+"4bc42e11dce4eee1f0fe719d","Homestead Studio Suites","Travel & Transport::Hotel",47.5778840916695,-122.163291919174
+"4bc4c6b32a89ef3bafcff688","O'Char Thai","Food::Thai Restaurant",47.619066243485946,-122.1306324005127
+"4bc4cfb9f8219c745eedb710","URJ Camp Kalsman-Bellevue","Professional & Other Places::Office",47.64501,-122.19488261
+"4bc4dc9babf4952143aec593","Bellevue Vision Clinic","Professional & Other Places::Medical Center::Doctor's Office",47.62220001220703,-122.1611557006836
+"4bc4e0a2f8219c741e07b810","Supercuts - Factoria","Shop & Service::Salon / Barbershop",47.57697445078262,-122.17098355293274
+"4bc4e0e0abf4952129b5c593","Bellevue Paint & Decorating","Shop & Service::Furniture / Home Store",47.62231997047694,-122.16482974503124
+"4bc4e6de4cdfc9b6d9569921","Subway - Factoria","Food::Sandwich Place",47.5772205307505,-122.16902017593384
+"4bc5e2a60a30d13a559c5a9c","Car Wash @Barrier Audi","Shop & Service::Car Wash",47.624672,-122.181455
+"4bc63f38db8fa593cb069c37","Lake Hills Park","Outdoors & Recreation::Playground",47.59939996691919,-122.12259919646532
+"4bc72b6b0050b713fa1fb83b","Hungry Bear Market / ConocoPhillips 76","Shop & Service::Gas Station / Garage",47.63183973328167,-122.1435821056366
+"4bc77cc714d79521cf7a67e9","Microsoft City Center Floor 14","Professional & Other Places::Office::Coworking Space",47.61458230861382,-122.19406127929688
+"4bc7a2c714d795211ace67e9","Goldsmith Park","Outdoors & Recreation::Park",47.640464870061756,-122.1463389533788
+"4bc8999a14d79521066469e9","Paule Attar Salon And Spa","Shop & Service::Cosmetics Shop",47.6191497063461,-122.203227477196
+"4bc8b90a14d79521edb369e9","Baskin Robbins","Food::Dessert Shop",47.63042449951172,-122.15426635742188
+"4bc8c39315a7ef3b33d37bda","Dragon's Lair Comics & Fantasy","Shop & Service::Hobby Shop",47.62726651018664,-122.1439790725708
+"4bc8d3940687ef3be0aed8cc","DeLorean Motor Company","Shop & Service::Automotive Shop",47.62159832382324,-122.16497011046035
+"4bc9d27f511f95217748aec7","Shell Gas Station","Shop & Service::Gas Station / Garage",47.57613800643458,-122.13975316906374
+"4bca0e29fb84c9b653471c3e","Courter Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.587741,-122.15007606
+"4bcb5fc3cc8cd13aef42bfcf","Meydenbauer Beach Park","Outdoors & Recreation::Beach",47.611255269744255,-122.2115707397461
+"4bcb7d71cc8cd13aaf88bfcf","Factoria Transfer Station","Professional & Other Places::Government Building",47.58217145,-122.158622783333
+"4bcb9b1b937ca5936afaa992","Lacoste","Shop & Service::Clothing Store",47.616115568315756,-122.2040605545044
+"4bcc7845fb84c9b6c563203e","Bellevue Commons","Professional & Other Places::Office",47.62160217841856,-122.19015835155388
+"4bcca499511f9521945eb3c7","Weowna Park","Outdoors & Recreation::Hiking Trail",47.601199109309,-122.12259915818956
+"4bcca583511f95213860b3c7","Lake Hills Greenbelt","Outdoors & Recreation::Other Great Outdoors",47.59582000181722,-122.13190044925626
+"4bccc4818920b713d9b59edc","Cooley Smiles","Professional & Other Places::Medical Center::Dentist's Office",47.572706,-122.169023
+"4bccd613b6c49c74cf7b9491","Proliance Orthopaedics and Sports Medicine","Professional & Other Places::Medical Center",47.62156701,-122.18695
+"4bccec758920b7131c0b9fdc","7 (Seven) Salon","Shop & Service::Salon / Barbershop",47.616540531112555,-122.20417008712978
+"4bcd11f90687ef3b5f7fe0cc","Paula's Hallmark","Shop & Service::Gift Shop",47.618654,-122.130598
+"4bce244ec564ef3befbdedf0","Kemper Development","Professional & Other Places::Office",47.617315,-122.201723
+"4bce63d729d4b713109aa8dc","Academy Of Kempo Martial Arts","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",47.627207,-122.1663224
+"4bce756b29d4b713deb7a8dc","Crossroads Bar and Grill","Food::American Restaurant",47.6192361915184,-122.1311742067337
+"4bcfa2129854d13a3686f64d","Splash - Bellevue Club","Food::American Restaurant",47.605736810643926,-122.19004641408948
+"4bcfbae19854d13a82b8f64d","Bannerwood Sports Park","Arts & Entertainment::Stadium::Baseball Stadium",47.595595494320186,-122.16320609353886
+"4bd07f36b221c9b6f0c6d3d0","Bellevue Animal Hospital","Professional & Other Places::Medical Center::Veterinarian",47.609958,-122.200698
+"4bd0a0ac046076b0bd5c7071","Alvin Goldfarb Jeweler","Shop & Service::Jewelry Store",47.612975338266615,-122.2018446885345
+"4bd0c003b221c9b62154d4d0","Bellevue College-R Building","College & University::College Academic Building",47.58610225416789,-122.14939803556969
+"4bd0c5e477b29c7407728b82","Starbucks","Food::Coffee Shop",47.61302486269031,-122.20086152383286
+"4bd1a35db221c9b6e3d4d5d0","Verizon Wireless","Shop & Service::Electronics Store",47.61568163145217,-122.20483303070068
+"4bd1c047caff95214334d1f0","Bing Travel HQ","Travel & Transport::General Travel",47.61521911621094,-122.19491577148438
+"4bd1ec32a8b3a593a6b7665f","Companion Animal hospital","Professional & Other Places::Medical Center::Veterinarian",47.626936,-122.13266256666667
+"4bd34d13caff95215e8fd4f0","Verizon Wireless","Shop & Service::Electronics Store",47.61568163145217,-122.20483303070068
+"4bd35909b221c9b6cc89d9d0","Brooks Brothers Country Club","Shop & Service::Clothing Store",47.616385482972,-122.192968503098
+"4bd37074caff9521dcf1d4f0","Plato's Closet","Shop & Service::Clothing Store",47.62712478637695,-122.15129089355469
+"4bd38ae7462cb713d4c1de07","Meydenbauer Bay Yacht Club","Outdoors & Recreation::Harbor / Marina",47.60908734742877,-122.20652330094266
+"4bd3ab7641b9ef3b3ed000e6","Perry Ko's South China","Food::Chinese Restaurant",47.5520306709483,-122.17765386652603
+"4bd3b6b077b29c74d3949182","Chevron Station","Shop & Service::Gas Station / Garage",47.55140076134719,-122.17900154140615
+"4bd4c3c66f64952181166eec","Acorn Uniforms","Shop & Service::Clothing Store",47.6284294128418,-122.17133331298828
+"4bd4e1cb6798ef3bb19f628d","Avalon Bellevue","Residence::Residential Building (Apartment / Condo)",47.619619786892656,-122.19275241421607
+"4bd5b8336798ef3beecc638d","Dr. Mark Cohn OD","Professional & Other Places::Medical Center::Doctor's Office",47.63177557,-122.13117008333333
+"4bd5d141637ba593ba13f770","e-Dialog Seattle Office","Professional & Other Places::Office",47.613507,-122.198033
+"4bd5e05b4e32d13a4aa4c180","Chevron Station","Shop & Service::Gas Station / Garage",47.632139780570505,-122.13277816772461
+"4bd856ee5cf276b065f79c00","Eastside Chiropractic Group","Professional & Other Places::Medical Center",47.62116,-122.180218
+"4bd891cf2ecdce720bd5d0f2","Catalina Apartments","Residence::Residential Building (Apartment / Condo)",47.59123070584851,-122.16367721557617
+"4bd898f551170f47a9cb33e4","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.627163,-122.15035505
+"4bd8a5ce5cf276b0af8c9d00","MangoSpring","Professional & Other Places::Office",47.582388,-122.13555415
+"4bd8b9cff645c9b611f0a8e0","Bellevue Youth Theatre","Arts & Entertainment::Performing Arts Venue::Theater",47.6219516691867,-122.116953134537
+"4bd8d03a11dcc928fef2f733","Polaris","Food::American Restaurant",47.60531652,-122.189458
+"4bd8ec360115c9b626f07580","Tory Burch","Shop & Service::Clothing Store::Women's Store",47.616491644018,-122.192516326904
+"4bd902dc2e6f0f47018e0908","Maple Leaf Chinese Restaurant","Food::Chinese Restaurant",47.61631589,-122.143652
+"4bd9efbe2a3a0f47abf9a8b6","Public Storage","Shop & Service::Storage Facility",47.599588311847114,-122.18297807075915
+"4bd9ff173904a593bc96449e","Chicago Title - Bellevue","Professional & Other Places::Office",47.617836,-122.20004107
+"4bdb3eab2a3a0f47a119aeb6","Karen Millen","Shop & Service::Clothing Store::Women's Store",47.6167809311791,-122.192130088806
+"4bdb4e406547d13a71187c26","Affirma Consulting","Professional & Other Places::Office::Tech Startup",47.5804030895233,-122.145008516667
+"4bdc5d912a3a0f47a67eb2b6","Overlake Women's clinic","Professional & Other Places::Medical Center::Doctor's Office",47.620427,-122.185842
+"4bdc7162afe8c9b64d714f85","Bellevue Nursery","Shop & Service::Flower Shop",47.6017978196199,-122.201138755762
+"4bdc85a63904a593f7914e9e","University of Washington - Bellevue","College & University::College Classroom",47.618037408027874,-122.15587592289737
+"4bdc9260383276b0e1d37369","Foot Locker","Shop & Service::Clothing Store::Shoe Store",47.61632537841797,-122.20455169677734
+"4bdca5ec2a3a0f472dcab3b6","Trash Compactor #3","Professional & Other Places::Building",47.61752,-122.201707
+"4bdd8996f219c9b677bf1210","Newport Yacht Club","Outdoors & Recreation::Harbor / Marina",47.574531785128634,-122.18851908006927
+"4bddea0f587b2d7f90975509","Mars Hill Church","Professional & Other Places::Spiritual Center::Church",47.61601431670302,-122.19824552536011
+"4bddf878be5120a1b382fe70","Microsoft Shuttle Stop - Bravern","Travel & Transport::Bus Station",47.61701333065041,-122.19131407440942
+"4bded3120ee3a593b0f331b0","Bing HQ - City Center Plaza","Professional & Other Places::Office::Tech Startup",47.61466909809923,-122.19474792480469
+"4bdefec46198c9b6e49615ff","Microsoft","Professional & Other Places::Office",47.61708468097567,-122.20135688781738
+"4bdf1c58ffdec9285dc0eaa1","Subway","Food::Sandwich Place",47.61389923095703,-122.20079040527344
+"4bdf2bace75c0f47db23ca03","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",47.617455,-122.197159
+"4bdf2d9be75c0f47052bca03","Cigar Land","Shop & Service::Smoke Shop",47.61270906711453,-122.20190942287445
+"4bdf5596ffdec928079deba1","Bellevue Optometry","Professional & Other Places::Medical Center::Doctor's Office",47.62882933,-122.18514
+"4bdf9119e75c0f47a1c4cb03","Henredon & Schoener","Shop & Service::Furniture / Home Store",47.616817,-122.201658
+"4be057e298f2a5930ae5c15a","Cafe Aura","Food::Café",47.5806999206543,-122.15599060058594
+"4be0637398f2a5935e13c25a","Lincoln Plaza","Professional & Other Places::Office",47.604462819165754,-122.18987729421302
+"4be07bf5cb81c9b61b04668b","Subway","Food::Restaurant",47.630287170410156,-122.178955078125
+"4be0873398f2a593848bc25a","Oggi Finogi HQ","Professional & Other Places::Office",47.628898,-122.162162
+"4be196a44ed5c9b6e3bcccce","Mondos Coffee","Food::Coffee Shop",47.576283627651804,-122.13938607753296
+"4be1c56c87e42d7fc3d5870b","Kindering Center","College & University::College Academic Building",47.6180226,-122.1255939
+"4be1c77187e42d7fb2dc870b","Microsoft Lincoln Square Cafe","Professional & Other Places::Office::Cafeteria",47.6175619985195,-122.184534072876
+"4be1cd1eedbb0f47bdbca615","DataSphere","Professional & Other Places::Office",47.582300661639664,-122.13617042344104
+"4be2246a1dd22d7f808b93bd","Mills Music","Shop & Service::Music Store",47.62337559845427,-122.16029569330613
+"4be34a3c21d5a593a1bf1811","Ardmore Park","Outdoors & Recreation::Park",47.63600184256698,-122.11543900799661
+"4be3570f21d5a593a7ee1811","South Bellevue Park & Ride","Travel & Transport::Bus Station",47.586239361541786,-122.19082547438433
+"4be4850cd4f7c9b606442420","Bellevue Fingerprinting Service","Professional & Other Places::Building",47.61756896972656,-122.1751708984375
+"4be488f8bcef2d7f1cb102e5","Bath & Body Works","Shop & Service::Cosmetics Shop",47.5741372099725,-122.171530723572
+"4be49fc72468c928a60eff42","Barrier Mercedes-Benz","Shop & Service::Car Dealership",47.61782207371869,-122.18080469040525
+"4be5a0a978e8952155ad64ce","The Tux Shop","Shop & Service::Clothing Store::Men's Store",47.5745022296906,-122.171473
+"4be5a4252468c928bd4b0043","Surrey Downs Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.6037903602332,-122.19217300415039
+"4be5c4c7d4f7c9b619e52520","Bellevue American Music","Shop & Service::Miscellaneous Shop",47.62815856933594,-122.1488037109375
+"4be5ff56910020a145d5d314","Medina Nails","Shop & Service::Salon / Barbershop",47.620193,-122.20233988
+"4be70b30ec2bd13a62ad63a2","Sammamish View Apartments","Professional & Other Places::Building",47.576879159975775,-122.1261630681258
+"4be72964cf200f47785b153c","Starbucks","Food::Coffee Shop",47.615928649902344,-122.1883316040039
+"4be73d632468c92813480243","Delille Cellars","Food::Winery",47.650634765625,-122.14682006835938
+"4be803449a54a59337680911","MindBody OnSite","Shop & Service::Gym / Fitness Center",47.61380119676306,-122.19886779785156
+"4be838f7e1b39521ad3121c1","The Bravern Apartments","Professional & Other Places::Building",47.61639082602815,-122.19258789421876
+"4be86a08ee96c9280d10febf","10 Inc","Professional & Other Places::Office",47.58246946318805,-122.16694571424556
+"4be9b065415e20a11a24e4bb","Starbucks","Food::Coffee Shop",47.61912409819732,-122.13131904602051
+"4be9b1b5b3352d7fe34a54d2","The Daily Planet News","Shop & Service::Newsstand",47.6189285,-122.13069165
+"4bea33de61aca5934c8e8300","Bellevue College Parking Lot","College & University::General College & University",47.585200975608274,-122.14668334270353
+"4beb1911a9900f47295e1740","Unigard Park","Outdoors & Recreation::Park",47.630666642568684,-122.13092084154275
+"4beb23b26295c9b64d578708","Eastside Christian School","College & University::College Academic Building",47.59053245,-122.144123
+"4beb5e846295c9b6e5b78708","Lincoln Square Cinema Bathroom","Arts & Entertainment::Movie Theater::Multiplex",47.617083,-122.201595
+"4bec4735c43f2d7faca8dbd9","US Health Works","Professional & Other Places::Medical Center::Doctor's Office",47.6274181713462,-122.154029495684
+"4bec4ba92bc1b7130776bf3a","Ticor Title","Professional & Other Places::Office",47.6120457845325,-122.190286926691
+"4bec5c6749430f474e9f07d2","Dr Gary Burt DDS","Professional & Other Places::Medical Center::Dentist's Office",47.6228845171138,-122.18994140625
+"4bec689d49430f4720ae07d2","Subway","Food::Sandwich Place",47.620323181152344,-122.18560791015625
+"4beca7ef2cf820a12314b91c","Bellevue Farmers Market - Thursdays Only","Shop & Service::Food & Drink Shop::Farmers Market",47.6263843562953,-122.202687263489
+"4becb0cf8bbcc92802b28cb1","Bellevue Bone & Joint Physicians","Professional & Other Places::Medical Center::Doctor's Office",47.625434,-122.185024416667
+"4bed57d5bac3c9b60f1efee9","Bellevue City Center Tower","Professional & Other Places::Office",47.615408829329695,-122.19429918405861
+"4bed9fd5e3562d7f8e4dfff8","Crossroads Nails","Shop & Service::Cosmetics Shop",47.616799,-122.12794
+"4bedb08c4daaa593a5118f61","Bellevue Dental Care","Professional & Other Places::Medical Center::Dentist's Office",47.62406533315843,-122.18660408054767
+"4beee8b535dc0f476480405b","In Spa","Shop & Service::Spa / Massage",47.575019,-122.170986
+"4beef8e16faac9b6f79da9c6","Eastgate Freeway Station","Travel & Transport::Bus Station::Bus Line",47.579569,-122.15148643
+"4bef6522ac3cef3bead9f4f9","Crossroads Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",47.6195852695872,-122.129374444793
+"4bf176c925afb7139c064b6f","cadillac in bellevue","Shop & Service::Automotive Shop",47.61473114,-122.185015
+"4bf17b02333ed13ad9e097d4","Microsoft City Center Floor 25","Professional & Other Places::Office::Coworking Space",47.6148973381241,-122.19419796207006
+"4bf17e08408ec92817f56600","Microsoft City Center Floor 22","Professional & Other Places::Office::Coworking Space",47.61499942857684,-122.19379676040144
+"4bf1e143d39ad13afdc9aa0e","76 Station","Shop & Service::Gas Station / Garage",47.57760518975704,-122.13705520245225
+"4bf1ebf8189f0f4786deb762","Key's Locksmith","Shop & Service::Miscellaneous Shop",47.62847363948822,-122.14374873
+"4bf30a27c440c9b6477b0104","VZW Bellevue building 1","Professional & Other Places::Building",47.57987344476401,-122.13575146327983
+"4bf410406a31d13ac14b952e","Squire's Autowerke","Shop & Service::Automotive Shop",47.6234313240637,-122.1619815395205
+"4bf419a8cad2c928bf829b99","Projectline","Professional & Other Places::Office",47.6169400384355,-122.196711301804
+"4bf480add2fbef3b93cca4c5","Sound Transit 550","Travel & Transport::Bus Station::Bus Line",47.61521876149503,-122.19534873962402
+"4bf569d9e5eba59359bd2090","Rosenwald & Associates, DDS","Professional & Other Places::Medical Center::Dentist's Office",47.623946,-122.186673
+"4bf6f419c07c9c74c38cbbef","Lot No. 3","Nightlife Spot::Cocktail Bar",47.614385223622435,-122.19934523105621
+"4bf71f125ec320a1ba7686d3","Voletta","Shop & Service::Bridal Shop",47.618425,-122.202238
+"4bf727635ec320a1208c86d3","Nordstrom Shoe Shine","Shop & Service::Clothing Store::Shoe Store",47.6172148589198,-122.204468250275
+"4bf73b055317a5937ec9fd7e","T.J. Maxx","Shop & Service::Clothing Store",47.57454028,-122.172245
+"4bf83f1d5efe2d7f12686a34","Pho All Day Vietnamese Cuisine","Food::Vietnamese Restaurant",47.611439,-122.199916
+"4bf85bda8d30d13a4ba40018","Fumie's Gold Pastries Espresso","Food::Bakery",47.61141225610306,-122.20546267919893
+"4bf8a3cb8d30d13aca2e0118","Gap","Shop & Service::Clothing Store",47.61510304336556,-122.20401763916016
+"4bf9c5d98d30d13a89ce0218","Great Clips","Shop & Service::Salon / Barbershop",47.6112010166667,-122.199665
+"4bf9ca1ab182c9b6fe8e795a","Oil & Vinegar","Shop & Service::Food & Drink Shop::Gourmet Shop",47.615936208182084,-122.20498323440552
+"4bfa9633b182c9b678827a5a","Boeing 33-01","Professional & Other Places::Building",47.584686006743524,-122.12267842855633
+"4bfab6908f32ef3b3af204aa","Northwest Crossfit","Shop & Service::Gym / Fitness Center::Gym",47.63011533172871,-122.17912673950195
+"4bfb0d8cbbb7c928c2a50743","Clyde Beach Park","Outdoors & Recreation::Beach",47.61426407926828,-122.21757888793945
+"4bfb29fe565f76b02b4305db","Gymboree","Arts & Entertainment::General Entertainment",47.61559805816394,-122.20373525763588
+"4bfc5c78d6f2c9b6e11a4fc8","Burberry","Shop & Service::Clothing Store",47.61643378639368,-122.20401763916016
+"4bfd86b6b68d0f473eeae857","Re Max","Professional & Other Places::Office",47.601324809114885,-122.18707012387286
+"4bfd98082b83b713b9bea998","Chevron Station","Shop & Service::Gas Station / Garage",47.616881,-122.14265620571689
+"4bfdc217bf6576b085ceadb8","First United Methodist Church","Professional & Other Places::Spiritual Center::Church",47.627962798907596,-122.19532565982328
+"4bff1274c30a2d7fc17c101d","Extreme Fitness Studios","Shop & Service::Gym / Fitness Center",47.6170557524996,-122.196657657623
+"4bff185468c7a5938a354044","Seattle Pacific Mortgage","Professional & Other Places::Office",47.608399,-122.183881
+"4c008ff5ad15a593d62f8e73","Little Garden","Food::Chinese Restaurant",47.62765288352966,-122.14383465
+"4c02ac739a7920a12ac8ce79","Newport Hills Community Church","Professional & Other Places::Spiritual Center::Church",47.55130039134384,-122.17958597823743
+"4c0313ed9a7920a1d779cf79","Cefiore","Food::Dessert Shop",47.613887786865234,-122.20152282714844
+"4c056bb4761ac9b6be7f1f74","Eastside Autoworks","Shop & Service::Automotive Shop",47.578187166666666,-122.17287645
+"4c0599c7191f20a18e59e314","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.63401794433594,-122.20079803466797
+"4c05bb53191f20a1ee96e314","Zeeks Pizza","Food::Pizza Place",47.619166102045334,-122.2042385337239
+"4c0697f9d2d3ef3b50b978d9","Public Storage","Shop & Service::Storage Facility",47.6290196703821,-122.1758551390937
+"4c06beeb8a81c9b68c342690","Shell Gas Station","Shop & Service::Gas Station / Garage",47.617427,-122.153175
+"4c071cd52e80a5931f4075f9","Bellevue Meadows Apartments","Residence::Residential Building (Apartment / Condo)",47.649271196023875,-122.14496528307293
+"4c0811cf9803952193fcc196","The Pokémon Company International","Professional & Other Places::Building",47.6134735614154,-122.197257673559
+"4c093011bbc676b06fbc47d5","Overlake Cancer Center","Professional & Other Places::Medical Center::Hospital",47.62122581320166,-122.18688155391517
+"4c094e7fffb8c9b68faf6961","Jaguar Land Rover","Shop & Service::Automotive Shop",47.62733881722245,-122.15524435043335
+"4c095015340720a127938493","Lexus Of Bellevue Car Wash","Shop & Service::Automotive Shop",47.608726501464844,-122.18644714355469
+"4c095f7a340720a17bae8493","Inslee Best Doezie & Ryder, P.S.","Professional & Other Places::Office",47.6153860389201,-122.19685105951
+"4c099189340720a1270e8593","Lincoln Square Skybridge","Professional & Other Places::Building",47.6167866,-122.20155431666667
+"4c09a47ebbc676b0f69f48d5","Chase","Shop & Service::Bank",47.61762708693786,-122.19945788383484
+"4c0a7bd3bbc676b010de49d5","SE 32nd st. Park","Outdoors & Recreation::Field",47.58196848585621,-122.17243454761332
+"4c0ae0d76071a593b968e032","Bubble Me","Food::Juice Bar",47.57472229003906,-122.1716537475586
+"4c0b20d16071a593cce4e032","Sammamish High School Theater","College & University::College Theater",47.6098708,-122.15345
+"4c0c495dffb8c9b672a16e61","Surrey Downs Apartments","Residence::Residential Building (Apartment / Condo)",47.58733775861613,-122.16599464416504
+"4c0d02952466a59313df7621","Emerald Ridge Apartments","Professional & Other Places::Building",47.584131942064,-122.180144060754
+"4c0d248dc700c9b6d2f1a1dd","Lake Heights YMCA","Arts & Entertainment::General Entertainment",47.55240249633789,-122.1707992553711
+"4c0d2d1c7189c928089ad6b6","Patricia Cleavinger at Eastgate Corporate Center","Professional & Other Places::Medical Center::Dentist's Office",47.584805,-122.132073
+"4c0d5809c700c9b6d843a2dd","Intellectual Ventures","Professional & Other Places::Office",47.5874157134785,-122.164003692779
+"4c0d7171336220a1a1bcca77","Fat Burger","Food::Burger Joint",47.6116943359375,-122.20122528076172
+"4c0e4c16c700c9b60d9aa3dd","Dr Dodi Nov - Bellevue Smiles","Professional & Other Places::Medical Center::Dentist's Office",47.625873,-122.14781532857144
+"4c0e59b8b40eef3bcc33f6db","Evolution Fitness","Shop & Service::Gym / Fitness Center::Gym",47.627065,-122.14453915
+"4c0e96075ab6c9b6a002f0fe","Group Health Medical Center","Professional & Other Places::Medical Center",47.5790622070418,-122.160385803594
+"4c0e983698102d7fe4eae306","Bel-Red Auto-Rebuild","Shop & Service::Automotive Shop",47.6225094228876,-122.166934988372
+"4c0eadbfc6cf76b0961e8151","Intellectual Ventures STG","Professional & Other Places::Office",47.582604,-122.153742
+"4c0f0268c6cf76b0f7c18151","Pinkabella Cupcakes","Food::Cupcake Shop",47.616592894706415,-122.2038459777832
+"4c0fbb797189c9282e87dab6","German Car Specialists","Shop & Service::Automotive Shop",47.57877482579547,-122.17260428240381
+"4c1034f1ce57c9289c9281d2","ampm","Shop & Service::Gas Station / Garage",47.62782006090635,-122.16764461002451
+"4c113d336b7e2d7f1df12835","Sister's Cafe","Food::Café",47.5825761023694,-122.153849601746
+"4c114694d41e76b0cb1f310d","777 Cafe","Food::Deli / Bodega",47.61658172912926,-122.19655736245998
+"4c116cb572caa593a5805da4","Nail Design","Shop & Service::Cosmetics Shop",47.576916217804,-122.17060437
+"4c127e7582a3c9b612d3f9f8","Umpqua Bank","Shop & Service::Bank",47.61753053285371,-122.19139259300403
+"4c13ad17b7b9c92882e8a937","Killarney Glen Park","Outdoors & Recreation::Park",47.593836411557575,-122.20272210405389
+"4c13bf2aa1010f4710254b18","Namaste","Shop & Service::Spa / Massage",47.6105135679245,-122.204218
+"4c13c0207f7f2d7f4898df68","PostNet","Shop & Service::Mall",47.616245,-122.180966
+"4c1518bbf1e0b71335f134bc","Skyline Properties Inc.","Professional & Other Places::Office",47.614882594183356,-122.17995941930107
+"4c1659c1a5eb76b0fcacc4b7","Cbeyond","Professional & Other Places::Office",47.57817588907674,-122.1714448928833
+"4c16818c127f9521313c2525","Spherion- Bellevue Branch","Professional & Other Places::Office",47.63828865,-122.19699018
+"4c1690b2955976b09bbfa4f6","NW Pediatric Dentistry","Professional & Other Places::Medical Center::Dentist's Office",47.622108459472656,-122.18999481201172
+"4c17b146834e2d7fceb92780","Old Key Bank Building (Bellevue)","Professional & Other Places::Office",47.613487,-122.198144
+"4c1819eb2cddb713da18831e","Kinect for Xbox 360 Experience","Arts & Entertainment::General Entertainment",47.616485595703125,-122.20167541503906
+"4c192aca4ff90f47c2850f49","Microsoft Lincoln Square Floor 28","Professional & Other Places::Office::Cafeteria",47.6168902990379,-122.20147494359418
+"4c1a77ac0137952177b446f3","Bing HQ","Professional & Other Places::Office",47.61732864379883,-122.19314575195312
+"4c1ac54bb306c9283c3661b7","Made In Washington","Shop & Service::Gift Shop",47.6155765,-122.20328
+"4c1bac278b3aa593f193975f","Aveda","Shop & Service::Cosmetics Shop",47.61579734830123,-122.2038459777832
+"4c1bee028b3aa5938009985f","Anime Raku","Professional & Other Places::Spiritual Center::Temple",47.617162,-122.1982
+"4c1db231eac020a11bb948c2","Lucky Strike Skyn VIP Room","Nightlife Spot::Bar",47.616818,-122.20135385899904
+"4c1f322b82109c745814d459","St. Madeleine Sophie","Professional & Other Places::Spiritual Center::Church",47.56629988644484,-122.16565123280381
+"4c1fad31920076b09a20c5e9","Valve Software","Professional & Other Places::Office::Coworking Space",47.61411261564608,-122.19403144641616
+"4c1fbbc98b3aa5938ced9d5f","ExactTarget - Key Center","Professional & Other Places::Office",47.61555478206034,-122.19653193416772
+"4c200816b306c928626369b7","Crossroads Par 3 Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",47.62269538643352,-122.12757889030328
+"4c202072920076b088dfc5e9","Bulgogi Korean BBQ","Food::Korean Restaurant",47.62002182006836,-122.13054656982422
+"4c20ba998082d13a6b13f82a","Dex One","Professional & Other Places::Office",47.580998939527,-122.155351017316
+"4c21086f502b952145ae6d21","Cameras West","Shop & Service::Miscellaneous Shop",47.627689361572266,-122.1501693725586
+"4c214adc11de20a19a2483ce","Hewlett Packard","Professional & Other Places::Office",47.631156458651105,-122.14464912025211
+"4c2169a99390c9b67f11c9cd","Hollister Co.","Shop & Service::Clothing Store",47.61490776844135,-122.20359921455383
+"4c21903a9390c9b6354ac9cd","Yarrow Wood Highlands","Professional & Other Places::Building",47.643157958984375,-122.18855285644531
+"4c22a6729a67a593ece2dc87","Avalon Towers Skylounge","Professional & Other Places::Building",47.619225343788145,-122.20266580581665
+"4c2404e6f1272d7f9c7482c5","El Toreo's","Food::Mexican Restaurant",47.62233352661133,-122.13213348388672
+"4c240983b7b8a59322ec3be8","Subway","Food::Sandwich Place",47.6084198869639,-122.141618728638
+"4c24fb18a852c928c00de46c","American Laser Centers","Shop & Service::Cosmetics Shop",47.62193298339844,-122.18380737304688
+"4c253db3f1272d7f627c84c5","Bellevue Christian Reformed Church","Professional & Other Places::Spiritual Center::Church",47.620890165595945,-122.14371880758637
+"4c2584bf136d20a138dce361","Finish Line","Shop & Service::Clothing Store::Shoe Store",47.61568163145217,-122.20333099365234
+"4c266daa5c5ca593dc2846fe","Bellevue Strawberry Festival","Outdoors & Recreation::Park",47.61753559112549,-122.123662
+"4c28c055fe6e2d7f88b3533c","Savers, INC","Professional & Other Places::Office",47.60510783662952,-122.18737859892501
+"4c290f80fe6e2d7fc63d543c","Mail plus","Professional & Other Places::Post Office",47.576657,-122.138891
+"4c291107fe6e2d7f2a40543c","Fresh Cafe","Food::Sandwich Place",47.6201949,-122.190123
+"4c2a40fe2219c928e2cea248","Factoria Village","Shop & Service::Miscellaneous Shop",47.57820483905693,-122.16814041137695
+"4c2a582cd1a10f47324bf664","Overlake Obstetricians","Professional & Other Places::Medical Center",47.626089,-122.185216
+"4c2b5d1f77cfe21e9155b4f1","Overlake Medical Clinics Medical Tower","Professional & Other Places::Medical Center",47.621638477201834,-122.18699908383815
+"4c2c9e6a8abca593efee0120","Fitness Center - Westin Bellevue","Shop & Service::Gym / Fitness Center",47.61569609607231,-122.20146417617798
+"4c2cb66b2219c9281e82a648","Sterling Plaza I/II","Professional & Other Places::Building",47.578383054816,-122.170484523892
+"4c2cede176a7ef3b2da2deb8","Bartell Drugs","Shop & Service::Drugstore / Pharmacy",47.61690063,-122.18080242
+"4c2d1825e307d13abf3e0dda","Seattle Childrens Bellevue","Professional & Other Places::Medical Center::Doctor's Office",47.62348290583769,-122.18528661599423
+"4c2d32f476a7ef3b2bb1deb8","Shell Gas Station","Shop & Service::Gas Station / Garage",47.57613800643458,-122.13975316906374
+"4c2e5d01ed37a59330736503","Tully's Coffee - Bellevue City Center","Food::Café",47.615352898052805,-122.19417190407421
+"4c2f7e303896e21e6e05e490","Cougar Mountain - Summit / Radio Towers","Outdoors & Recreation::Scenic Lookout",47.539552,-122.116995
+"4c2fa9b1a0ced13a93f8106e","Seattle Team Shop","Shop & Service::Sporting Goods Shop",47.6160287812312,-122.204403877258
+"4c2ff20b213c2d7f60d5315d","Newport High School Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.56695813921622,-122.17315258474964
+"4c30c5c57cc0c9b692ceed9a","LDS Bellevue 1st Ward","Professional & Other Places::Spiritual Center::Church",47.62770841713248,-122.19769019695339
+"4c30d345452620a1ecb11f0f","The Church of Jesus Christ of Latter-day Saints","Professional & Other Places::Spiritual Center::Church",47.57098724266807,-122.17388052750813
+"4c311a45a0ced13a552c136e","Lake Sammamish Yacht Club","Outdoors & Recreation::Harbor / Marina",47.59789,-122.109851
+"4c3289fa452620a19653220f","Avalon Towers Bellevue","Professional & Other Places::Building",47.61875177093154,-122.2024776571217
+"4c337a9a66e40f474413c88b","Bsquare","Professional & Other Places::Office",47.61148452758789,-122.19329071044922
+"4c34a4cb66e40f4779d7c98b","Lamborghini Bellevue","Shop & Service::Automotive Shop",47.61949157714844,-122.20279693603516
+"4c34bced213c2d7fe5fb385d","Starbucks","Food::Coffee Shop",47.62648010253906,-122.20514678955078
+"4c34bf3d452620a164a2250f","I Am On A Boat b*tches","Travel & Transport::Ferry::Boat or Ferry",47.583152770996094,-122.20702362060547
+"4c34cdf67cc0c9b639f8f39a","Apptio","Professional & Other Places::Office::Tech Startup",47.612776683715964,-122.19664074650736
+"4c35248166e40f47aececa8b","Bellevue Boat Launch","Travel & Transport::Ferry::Boat or Ferry",47.5749521131912,-122.188930850165
+"4c36079993db0f479a5a1d92","Bellevue Collection","Shop & Service::Mall",47.61718593051575,-122.20174312591553
+"4c366d9c3849c9286a12bcb1","Wild Summer Nights","Arts & Entertainment::Music Venue::Jazz Club",47.61620235525636,-122.19281673431396
+"4c379b4d52dfef3b1019ef70","Bank of America","Shop & Service::Bank",47.61576843261719,-122.1932144165039
+"4c37bc6fdfb0e21ec262ada8","iGsm Wireless Services","Shop & Service::Electronics Store",47.610213718421726,-122.1984815597534
+"4c3aab6617689c749a3eaa08","Equiom, Inc.","Professional & Other Places::Office::Tech Startup",47.5818922119123,-122.134972214699
+"4c3c8705b36ac928bf2f0486","VZW Bellevue Building 3","Professional & Other Places::Office",47.580055236816406,-122.1324691772461
+"4c3c988715cb1b8d7fce7adc","Northwest Clinical Research Center","Professional & Other Places::Medical Center::Doctor's Office",47.627243,-122.13705
+"4c3d0630a9509c74a05a395b","Building 69 - Conf Room 3","Nightlife Spot::Lounge",47.570037841796875,-122.10209655761719
+"4c3f1756ca012d7fbe5830be","Panera Bread","Food::Bakery",47.57441225535145,-122.17165946960449
+"4c3f5eb5520fa593fb7dc6ac","Crossroads","Shop & Service::Mall",47.619529079384286,-122.13037490844727
+"4c40e1a23735be9abf9117a4","Vasa Park","Outdoors & Recreation::Beach",47.577117693351205,-122.11268004313354
+"4c4103b0d691c9b65d2b8c0a","Bullshit","Professional & Other Places::Building",47.63983,-122.19623386859894
+"4c433446ff711b8d95941405","Wildwood Park","Outdoors & Recreation::Park",47.608260753782915,-122.205069065094
+"4c4372db36d6a593702769a8","PRO Sports Club Coffee Shop","Food::Coffee Shop",47.651239,-122.144863
+"4c43771c2d3ec9b674922dae","Pro Sports Club","Shop & Service::Gym / Fitness Center::Gym",47.65157049946027,-122.14466571807861
+"4c44665ef799e21e19baada2","Aspect","Professional & Other Places::Office",47.6306266784668,-122.14701843261719
+"4c44762edcd61b8d59567b56","Microsoft City Center Floor 25","Professional & Other Places::Office::Coworking Space",47.6148973381241,-122.19419796207006
+"4c44c97d429a0f471c3c491e","Quantum Corporation","Professional & Other Places::Office",47.57930218334362,-122.15485308439534
+"4c452313429a0f471fcd491e","Vovito Caffé & Gelato","Food::Café",47.61624394061433,-122.1938681602478
+"4c462ed7f1d80f479535a33c","Chevron Station","Shop & Service::Gas Station / Garage",47.60964703,-122.143335
+"4c4725051ddec928e86c9c32","Kirmac Collision Services","Shop & Service::Automotive Shop",47.619510650634766,-122.17718505859375
+"4c47558f417b20a1e13ddda9","Boeing 33-11","Professional & Other Places::Office",47.5821996313292,-122.132199727553
+"4c477b21c047be9a33c73079","Bach's Barbershop","Shop & Service::Salon / Barbershop",47.617513,-122.197088
+"4c48ccb03013a593aec8dfe1","Bellevue Arts Fair","Arts & Entertainment::General Entertainment",47.62648010253906,-122.20514678955078
+"4c4b29959c8d2d7f5899976a","Lakemont Community Park","Outdoors & Recreation::Park",47.55699006937126,-122.11356124267164
+"4c4f225351c2c928d34c7e9f","Bellevue Laser and Cosmetic Center","Professional & Other Places::Medical Center::Doctor's Office",47.62227249145508,-122.18948364257812
+"4c4fc8491886c9b6596f9a27","Cantinetta","Food::Italian Restaurant",47.610125,-122.205052
+"4c5092ac0ef3a593375e957a","Picnic Table","Outdoors & Recreation::Other Great Outdoors",47.64167435,-122.198739
+"4c50bc540ef3a5932802d07a","DMC Northwest (new location)","Shop & Service::Automotive Shop",47.621853,-122.169926
+"4c522f647f6e20a155ea4aeb","Hot Yoga Bellevue","Shop & Service::Gym / Fitness Center::Yoga Studio",47.61121223251464,-122.19907117792432
+"4c52edaed797e21e70e74d7e","Commonwealth Land Title Co Of Puget Sound LLC","Professional & Other Places::Office::Coworking Space",47.632722,-122.147684
+"4c5327e1a724e21e39104ef4","Cilantro Cocina Mexicana Taco Truck","Food::Food Truck",47.5779153385347,-122.13741302490234
+"4c55b0b1479fc92810334b95","Yer Butt","Arts & Entertainment::Zoo",47.61059923333333,-122.14163953333333
+"4c5860516418a5939784810e","Cosmo Prof","Shop & Service::Cosmetics Shop",47.626826,-122.159801
+"4c5868496418a5932799810e","Bungie","Professional & Other Places::Office",47.61534549526519,-122.19857698462637
+"4c5896bff346c928e5964aca","UW Eastside Medical","Professional & Other Places::Medical Center::Doctor's Office",47.62580215930939,-122.185489
+"4c58cfd704f9be9a6004ee60","The Moon","Outdoors & Recreation::Athletic & Sport::Golf Course",47.6135921478271,-122.200496
+"4c59a34f6407d13a7aadb228","Serengeti Law","Professional & Other Places::Office",47.6117750892469,-122.196461939712
+"4c59b862ec2520a14ec14f12","T-Mobile Retail Store - Factoria","Shop & Service::Electronics Store",47.577394233560945,-122.16859102249146
+"4c59dab8b05c1b8dadd0d6b1","Top Of South Parking Garage @Bell Square","Professional & Other Places::Parking",47.614942,-122.20447435796625
+"4c5a3ef6d3aee21e256f6a55","Hidden Valley Park","Outdoors & Recreation::Athletic & Sport::Basketball Court",47.63043655178684,-122.19358871905726
+"4c5baa4f6147be9aeb5c8d09","Avalon Towers Fitness Center","Shop & Service::Gym / Fitness Center::Gym",47.61909,-122.202729
+"4c5c5b4f2815c928ead2b167","Coldwell Banker Bain","Professional & Other Places::Office",47.60809326171875,-122.2014389038086
+"4c5df164d25320a1e493c77a","Lids","Shop & Service::Clothing Store::Accessories Store",47.6161325338153,-122.204214298861
+"4c5f22ee13791b8d12ae4caf","Zach's Tennis","Shop & Service::Sporting Goods Shop",47.624289,-122.163825
+"4c5f604e90b2c9b6fbab3a22","Golden Boat Bakery","Food::Bakery",47.6310017423191,-122.144734175901
+"4c60167323e303bb22dd7407","Walgreens","Shop & Service::Drugstore / Pharmacy",47.62152043563556,-122.186917723597
+"4c6028111e5cd13a6805a1ed","Gene Juarez Salon & Spa - Corporate","Professional & Other Places::Office",47.57997375088,-122.130439750254
+"4c605f1ecd522d7fa6f7cd3f","Key Bank","Shop & Service::Bank",47.619937896728516,-122.20211791992188
+"4c60815213791b8d99ba4faf","Discount Gun Sales","Shop & Service::Sporting Goods Shop",47.6174309896137,-122.196755368828
+"4c61c080edb29c7487c51fa7","Sterling Bank - Home Loan Division","Shop & Service::Bank",47.61796699180625,-122.20030546188354
+"4c63510bfa7bc928e1791027","Brown Bear Car Wash","Shop & Service::Car Wash",47.6166236314838,-122.142613828182
+"4c66e4e1aebea593207974d0","Report Footwear","Shop & Service::Miscellaneous Shop",47.61555480957031,-122.20430755615234
+"4c674ab819f3c9b64ab1a2ff","Meydenbauer Theatre","Arts & Entertainment::Performing Arts Venue::Theater",47.61535730655397,-122.19215890662491
+"4c68401c5fae20a1610849a6","Westernco Donut","Food::Breakfast Spot",47.6226241891342,-122.131748199463
+"4c68804031ba2d7f9a10f872","Kinect XBOX 360 @ Macy's","Arts & Entertainment::General Entertainment",47.61552047729492,-122.20309448242188
+"4c6a9e8d3bad2d7f38d4b2ee","Dr. Bunce -  orthodontist","Professional & Other Places::Medical Center::Dentist's Office",47.5777745246887,-122.171091
+"4c6bff451fb2a1438e2cfae6","Agent Reboot","Arts & Entertainment::General Entertainment",47.61591720581055,-122.19185638427734
+"4c6da4b56af58cfa7b168a17","Edifecs","Professional & Other Places::Office",47.63377381139026,-122.18294745667886
+"4c6db97b10faa14388c8ee68","Verizon Wireless","Professional & Other Places::Office",47.579940887437,-122.13338079893171
+"4c6eb022e6b7b1f7a545ad8e","T-Mobile Sunset North","Professional & Other Places::Office::Coworking Space",47.583407900000005,-122.15432703495026
+"4c6ec0ee06ed6dcb6fa5a722","Intelius, Inc","Professional & Other Places::Office",47.615108490212634,-122.19418476999655
+"4c6f1d200d68ef3b597746e7","Lake to Lake Trail","Outdoors & Recreation::Hiking Trail",47.60429673467646,-122.16320514678955
+"4c700d0cd97fa143bfc5f4ca","The STOR-HOUSE Self Storage","Professional & Other Places::Building",47.597580657683,-122.182110218541
+"4c72f4398efc37047a5e147d","Microsoft Store","Shop & Service::Electronics Store",47.61610833606422,-122.2040605545044
+"4c7452446f789c74cc26444c","Foothill Commons Apartments","Professional & Other Places::Building",47.6199664354078,-122.156418266395
+"4c745eaf604a3704d7e57f49","Bellevue Fashion Week","Arts & Entertainment::General Entertainment",47.616024017333984,-122.20100402832031
+"4c759310ff1fb60c11a0f6a7","Amfek Productions, Inc.","Shop & Service::Electronics Store",47.613334,-122.20176994800568
+"4c75a83e3adda143a40b08af","Foreclosure Expeditors/Initiators, LLC","Professional & Other Places::Office::Coworking Space",47.578527836180825,-122.17063077788238
+"4c76ae4bb474a1cd09b4bcbf","Starbucks","Food::Coffee Shop",47.6348742333333,-122.201035433333
+"4c7805a081bca0932ea9f814","Expedia Tower","Professional & Other Places::Office::Coworking Space",47.6136007454819,-122.196574595999
+"4c79d2b493ef236a6c18b10f","Calendar Club","Shop & Service::Gift Shop",47.61861786730221,-122.20032691955566
+"4c7bec8a2d3ba1438a7095d0","1031 Exchange Coordinators","Professional & Other Places::Office",47.61865383,-122.15327125
+"4c7c0af23badb1f763ad5654","Microsoft Bravern 2, Cafeteria","Professional & Other Places::Office::Cafeteria",47.61712610112854,-122.19264797868621
+"4c7d0ed4aa3ba093925fac74","Routh Crabtree Olsen","Professional & Other Places::Office::Coworking Space",47.5786840453445,-122.158661137573
+"4c7d24d5d598a09334e4c162","Tweddle Group Technologies","Professional & Other Places::Office",47.62002944946289,-122.1904525756836
+"4c7d58245af8b60c74508f10","Deck Starz","Shop & Service::Gift Shop",47.615623474121094,-122.19751739501953
+"4c7e8356ad149eb0484e2a48","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",47.5741063570518,-122.171564808354
+"4c7eac8d2042b1f7fea9c0ad","Bellevue Galleria Parking","Professional & Other Places::Office",47.615293,-122.19931
+"4c7fd71847cc224b449f6d9f","Bing Mobile HQ","Professional & Other Places::Office",47.616780931179065,-122.19213008880615
+"4c7ffd11d92ea09382c13372","T-Mobile Newport 5","Professional & Other Places::Office",47.576699418861665,-122.16733574867249
+"4c818b982f1c236a271e3143","Bartell Drugs","Shop & Service::Drugstore / Pharmacy",47.57803837645223,-122.16753959655762
+"4c81a51351ada1cdf3471510","Ring Sports United Inc.","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",47.62670157752392,-122.16352613383549
+"4c8268b2e602b1f788c99b7a","barre3","Shop & Service::Gym / Fitness Center",47.6198400449523,-122.196046113968
+"4c834c94d8086dcb5f207f52","Sexual Gator","Nightlife Spot::Bar",47.617762,-122.20096
+"4c840f3551ada1cd23b42b10","Herban Therapies","Shop & Service::Spa / Massage",47.61939495,-122.192365
+"4c896f9d1797236a23045988","Bellevue Pediatric Dentistry And Orthodontics","Professional & Other Places::Medical Center::Dentist's Office",47.61811,-122.154042
+"4c8a3b816418a14325d1ddce","Zero Rez","Professional & Other Places::Office",47.62359953333333,-122.169597
+"4c8acbca2e333704db23c741","Your Sister's Closet","Shop & Service::Clothing Store::Boutique",47.618106842041016,-122.18242645263672
+"4c8ad8be1eafb1f7b85d7e35","Swarovski","Shop & Service::Jewelry Store",47.615577697753906,-122.20381164550781
+"4c8ee8fad68c6dcb6f6200a2","Tropical Tan","Shop & Service::Tanning Salon",47.6282241894364,-122.152348134984
+"4c918a84238c6dcbf540c155","Kukki Tae Kwon Do","Shop & Service::Gym / Fitness Center",47.582189180419974,-122.18318642064271
+"4c926be751d9b1f75de38846","The French Bakery","Food::Bakery",47.61821830302747,-122.19151586294174
+"4c941f9e034137047d616fef","Yoe's Noodles","Food::Soup Place",47.62242171092048,-122.13367938995361
+"4c951c3cbc279c746d146053","Bill the Butcher","Shop & Service::Food & Drink Shop::Butcher",47.610389709472656,-122.19823455810547
+"4c957c7f21c7199cf907177f","Cupcake Royale","Food::Cupcake Shop",47.610633234643714,-122.2019362449646
+"4c97b9bf72dd224bd0fbb691","Global Business Solutions, Inc.","Professional & Other Places::Office",47.6120692491531,-122.179534
+"4c9ab1f7db10b60cbe34956d","Zip Market","Shop & Service::Smoke Shop",47.6285828,-122.1351465
+"4c9aea40b8e9224bcf34523d","Clearwire IT","Professional & Other Places::Office::Tech Startup",47.578428,-122.171738
+"4c9d4561ca44236a24551f99","Wide Shoes Only","Shop & Service::Clothing Store::Shoe Store",47.5774998619565,-122.17424570386
+"4c9e3bbd0e9bb1f7ef32e55f","Lasik vision Institute","Professional & Other Places::Medical Center::Doctor's Office",47.61106651,-122.19017515
+"4c9fed622fb1a1430269f840","Choice Gallery","Arts & Entertainment::Art Gallery",47.617897033691406,-122.20188903808594
+"4ca11e310313370409be80d5","Cosmos Dentistry","Professional & Other Places::Medical Center::Dentist's Office",47.62377440929413,-122.1860522031784
+"4ca2bb32d7c337046f2b9b62","Avalon Towers Bellevue","Professional & Other Places::Building",47.61875177093154,-122.2024776571217
+"4ca3f72c1ee76dcbff20fedd","Max Muscle","Shop & Service::Drugstore / Pharmacy",47.61235428333333,-122.201872
+"4ca5482eb7106dcbde7753a5","Ground Zero","Arts & Entertainment::Music Venue",47.611167907714844,-122.2093734741211
+"4ca64475b7106dcb5a595ca5","Hyatt Grand Ballroom","Professional & Other Places::Event Space",47.61839596718464,-122.20057696556937
+"4ca670a1b0b8236ace5e9fe6","Lincoln Square Parking Garage","Professional & Other Places::Parking",47.61672966063401,-122.20154823761443
+"4ca6b103f47ea14323986321","Pee Time","Outdoors & Recreation::Dog Run",47.613614,-122.200589
+"4ca90ce0b7106dcba8ee78a5","Din Tai Fung Dumpling House 鼎泰豐","Food::Dumpling Restaurant",47.61709914520768,-122.20097064971924
+"4ca9dde35a1e952199428dce","Old Bellevue","Arts & Entertainment::General Entertainment",47.610300515157554,-122.2047472000122
+"4cab830036fa6dcb44a7d978","A Signature Spa","Shop & Service::Spa / Massage",47.61742293834686,-122.15125322341919
+"4cacca38d971b1f7afa133e1","Pagliacci Pizza","Food::Pizza Place",47.61044,-122.206511
+"4cad023ad971b1f7407335e1","Safeway Parking Lot","Professional & Other Places::Parking",47.61299133300781,-122.200927734375
+"4cad5a4f55238cfa1926b1fb","Bank Of America ATM","Professional & Other Places::Building",47.6140043817624,-122.199647987723
+"4cae4d0feb65b1f7f6d45acd","En Salon","Shop & Service::Salon / Barbershop",47.62877985,-122.16516939
+"4caf712875ebb60ce64abcad","Novilhos Brazilian Steakhouse","Food::Brazilian Restaurant",47.57703235205558,-122.17307031154633
+"4cb0ad07c5e6a1cd264dd7f6","Newport High School","Professional & Other Places::School::High School",47.56824477919143,-122.17209485196197
+"4cb49687cbab236a2075bf73","Bellevue Dental Excellence","Professional & Other Places::Medical Center::Dentist's Office",47.617467,-122.144658
+"4cb52a8b64998cfa6a490ca2","Combo Restaurant","Food::Chinese Restaurant",47.595706939697266,-122.14905548095703
+"4cb576201b0af04ddd55c925","12 Central Square Apartments","Residence::Residential Building (Apartment / Condo)",47.622395694888894,-122.20350195804942
+"4cb66e32f6616dcb5b3adf08","Hyatt Regency Club","Nightlife Spot::Hotel Bar",47.601931,-122.207437
+"4cb747f9e262b60cb32675e0","Beauty Works","Shop & Service::Cosmetics Shop",47.6150897561446,-122.20408124929
+"4cb78554c7228cfaee8600ce","Bellevue Wellness Center (massage, Chiropractic, Acupuncture, Naturopathic)","Professional & Other Places::Medical Center",47.6138176016878,-122.197667225143
+"4cb87e92c7228cfa20b708ce","Archstone Redmond Park Fitness center","Shop & Service::Gym / Fitness Center::Gym",47.64225286,-122.14712546000001
+"4cb8b04dbac93704b720df7c","Bella Vision","Shop & Service::Drugstore / Pharmacy",47.57532,-122.169222883333
+"4cbb520da33bb1f7899e93fd","Oh India","Food::Indian Restaurant",47.620994567871094,-122.13059997558594
+"4cbdce79dd41a35d3c3ffba0","NetApp Bellevue Office","Professional & Other Places::Office",47.61188919114296,-122.19258832687895
+"4cbf447800d837042ae6425c","Buns (on Wheels) - Wednesday","Food::American Restaurant",47.57975387573242,-122.13032531738281
+"4cbfca451c6c6dcb7644715e","Bellevue College Garage","Professional & Other Places::Parking",47.585612629076806,-122.14809419188389
+"4cc0c09922ce4688d54e3947","Piazza Sempione","Shop & Service::Clothing Store::Women's Store",47.61593246459961,-122.19348907470703
+"4cc2376a306e224bba028f6c","Padrino's Pizza","Food::Pizza Place",47.617530822753906,-122.12850952148438
+"4cc255f09eeab713ead8de40","Eastside Fire and Rescue Station 75","Professional & Other Places::Government Building::Fire Station",47.5699587089658,-122.102633975227
+"4ccf4af00d9b952198ff8da3","Microsoft - Civica Building 4th Floor","Professional & Other Places::Office",47.6124537570849,-122.196596091014
+"4ccf866706b5468887b4d594","Overlake Hospital Child Birth Center","Professional & Other Places::Medical Center::Hospital",47.621416275228626,-122.18684248216431
+"4cd0886af6378cfabacab5d6","Peak Sports and Spine Physical Therapy","Professional & Other Places::Medical Center::Doctor's Office",47.621586,-122.18356
+"4cd1b4d12fd9b60c8c7b88eb","Caspian Restaurant","Food::Mediterranean Restaurant",47.6263654232025,-122.15708413
+"4cd1ea1c86cbb7133571fb36","Fitness Forward","Shop & Service::Gym / Fitness Center",47.6107445,-122.19985636666667
+"4cd380462f662d4348ea2cef","Lululemon Athletica","Shop & Service::Clothing Store",47.61563823756774,-122.20410346984863
+"4cd71de9ab19a09377b148eb","O' Char Thai Cuisine","Food::Thai Restaurant",47.620269775390625,-122.12915802001953
+"4cdc43cdd5495481c8a640b2","Starbucks","Food::Coffee Shop",47.61563110068828,-122.20373118650821
+"4cdc9d7e7dc62c0f9445e8f2","NWEN Entrepreneur University","Outdoors & Recreation::Other Great Outdoors",47.618324,-122.200445
+"4cdda64670bba1cdcc3c5bc4","Microsoft Store","Shop & Service::Electronics Store",47.61610833606422,-122.2040605545044
+"4cddc958df986ea865b6d716","Kiehl's","Shop & Service::Cosmetics Shop",47.615617787406535,-122.20392350798359
+"4cdf496effcf3704b7dd1882","Skin And Soul","Shop & Service::Tattoo Parlor",47.61104551454876,-122.20097064971924
+"4ce04b2d7e2e236a17558a1b","Overlake - Labor & Delivery","Professional & Other Places::Medical Center::Hospital",47.6211788756581,-122.187263095752
+"4ce402a877ef224bb239467b","Car Toys","Shop & Service::Automotive Shop",47.62822723388672,-122.1560287475586
+"4ce6e6cc595cb1f75a19bf14","Athenix Institute","Shop & Service::Cosmetics Shop",47.62126658249771,-122.18360953366921
+"4ce6e7089f776ea8af905422","Chevrolet of Bellevue","Shop & Service::Automotive Shop",47.61465553127175,-122.18527124799536
+"4ce80d54595cb1f7cd66c614","ViaVita Café and Wine Bar","Food::Café",47.61937721180679,-122.19866394996643
+"4ce8348a0f196dcba8d943ae","Bellevue College Student Union","College & University::College Cafeteria",47.584822,-122.149458
+"4ce9bf91d99f721e4a12b873","Bose Entertainment Systems","Shop & Service::Electronics Store",47.61638,-122.204837
+"4cf6b6346658548142e0ca98","The SWAMP","Outdoors & Recreation::Lake",47.5949693050974,-122.192060791155
+"4cf84a0ba348f04db54bf75c","I Love Sushi","Food::Sushi Restaurant",47.61921720798899,-122.18191757798195
+"4cfd76b47945224b158b90e7","Northpoint Escrow + Title","Professional & Other Places::Office",47.61798095703125,-122.1961898803711
+"4d02c7b326adb1f77956c870","Sound Transit 532","Travel & Transport::Bus Station::Bus Line",47.6155255833333,-122.194772716667
+"4d02ce8330a58cfa3d5e94e7","The Old Ballyard","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.62613201,-122.15963872
+"4d0c1c2d95c1a1cdf760fafe","Bellevue Skate Park","Outdoors & Recreation::Playground",47.62589765326154,-122.15082294507417
+"4d0c1f2f3905b1f76c82924b","Carlson Theater","Arts & Entertainment::Performing Arts Venue::Theater",47.58301544189453,-122.14836883544922
+"4d0d25c61e8e2d4300131f06","Meydenbauer Dental","Professional & Other Places::Medical Center::Dentist's Office",47.62136459350586,-122.1668701171875
+"4d17b730cc216ea8b72671d3","State Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",47.62039566040039,-122.20079803466797
+"4d1929f8302da1cd0938c893","Bank of America","Shop & Service::Bank",47.6216063666049,-122.131477296352
+"4d1fa04b6e8c37046d1ff29f","Central Park East Apartments","Professional & Other Places::Building",47.6249183047811,-122.13565510035997
+"4d2618d95cc1a09309e098be","Bellevue Way Dry Cleaners","Shop & Service::Laundry Service",47.61120970011961,-122.2022012030709
+"4d2a1e6debacb1f759c10050","The Toy Place","Shop & Service::Toy / Game Store",47.6281286584875,-122.16494700406
+"4d2b3bc5849f37047aad8f41","Windermere Bellevue West","Professional & Other Places::Office",47.610585370591366,-122.19146497357089
+"4d2f8c155acfa35da0cbf0cb","The UPS Store","Professional & Other Places::Post Office",47.558074951171875,-122.11497497558594
+"4d31292d6c7c721e5164a356","Kids' Play Area","Outdoors & Recreation::Playground",47.61561803992949,-122.20365524976965
+"4d31acae2c76a14372ff67c7","Murray Franklyn","Professional & Other Places::Office",47.626365,-122.148363
+"4d369cdf26e0a1cd9e486b9e","148th Ave Coffee Shop","Food::Coffee Shop",47.58585731976651,-122.14342185998147
+"4d3dd74a84d46ea800130a5d","Piano Bash","Arts & Entertainment::Music Venue::Piano Bar",47.61599985217092,-122.20208644866943
+"4d3dd8243ec9a35d2a0d5581","Munchbar","Food::American Restaurant",47.616540389899136,-122.20166612379691
+"4d40b58c46775481fb4b5af4","Bellevue Masonic Center","Professional & Other Places::Building",47.6243782043457,-122.12284088134766
+"4d430eee9f7aba7af7d429f9","Pure Chiropractic Center","Professional & Other Places::Medical Center::Doctor's Office",47.60841369628906,-122.14232635498047
+"4d446aca1928a35db3a1b870","Marci Jewelry","Shop & Service::Jewelry Store",47.619924,-122.184976
+"4d44f61c1b62b1f7d9e0f8e2","Pure Barre","Shop & Service::Gym / Fitness Center::Gym",47.61800266076559,-122.19193199236531
+"4d45e37abbb1a1434f385772","sadhya palace","Food::Indian Restaurant",47.62715148925781,-122.15099334716797
+"4d4b3a4f6202f04d93ec0858","Amazon Grill","Food::Brazilian Restaurant",47.61509359234325,-122.19016528251585
+"4d4b5e082220b1f7cddf29d2","PRO Sports Club Physical Therapy","Professional & Other Places::Medical Center::Doctor's Office",47.651106045262,-122.145336745134
+"4d4c7349a33fb1f7e09abe80","Sea Mar","Professional & Other Places::Medical Center::Doctor's Office",47.626572388764,-122.132999787369
+"4d519e699b27721e14a6b946","QFC Corporate Office","Professional & Other Places::Office::Coworking Space",47.6187520479776,-122.205275582781
+"4d542da2b3d9a35d32bdca7b","UC4 Software Inc.","Professional & Other Places::Office",47.6303364755458,-122.146373511617
+"4d55af66143ca0930824b2fc","Trains Planes And Automobiles","Shop & Service::Hobby Shop",47.6278075852175,-122.143747071259
+"4d5755821270236a8aaf8859","Black Bottle Postern","Food::Gastropub",47.618445,-122.201645
+"4d58866b287059419c6bf86b","Café Cesura","Food::Coffee Shop",47.619471,-122.19635
+"4d5b42146b2e3704f7987fee","BHS","Professional & Other Places::Library",47.6047019148432,-122.198187414924
+"4d6210411939a35dac5c34ee","Hot Pass 2","Professional & Other Places::Factory",47.595279693603516,-122.18184661865234
+"4d62b127ef378cfa89659aa6","Ford Seattle Region Office","Professional & Other Places::Office",47.57532,-122.17082
+"4d62f88ce42cb1f7582df012","Beijing Herbal Foot Massage","Shop & Service::Spa / Massage",47.6114,-122.199689
+"4d6828978f70a093afbc1b35","Mariposa at Neiman Marcus","Food::American Restaurant",47.616646,-122.193067
+"4d6c47c97f1c548121226752","Chase Bank","Shop & Service::Bank",47.621253967285156,-122.13203430175781
+"4d713f610bcc224b42db1359","Proliance Sports Therapy & Rehabilitation","Professional & Other Places::Medical Center::Doctor's Office",47.6216560611417,-122.190534575679
+"4d728a4ed145a1cdce4fb6f3","Ballet Arts Center","Arts & Entertainment::Performing Arts Venue::Dance Studio",47.61219787597656,-122.20667266845703
+"4d73ea1f13f260fc89cecbbb","Better Homes and Gardens Real Estate Executive-Bellevue","Professional & Other Places::Office",47.632396,-122.185426
+"4d77e59378d5a093b2b58672","Command Center","Professional & Other Places::Office::Coworking Space",47.57860430060211,-122.1664352901229
+"4d79247f71a68cfae5b41186","Guidant Financial Group","Professional & Other Places::Office",47.61943963075337,-122.19102333566758
+"4d7bde46cf3f370477124540","Genki Sushi","Food::Sushi Restaurant",47.57484401,-122.171068
+"4d7c6ed6e04d6ea801c5fbd5","Sky Ultra Lounge","Nightlife Spot::Lounge",47.61557606316747,-122.19832619274699
+"4d7daecd564b8cfa889de364","Ashton Bellevue Fitness Center","Shop & Service::Gym / Fitness Center",47.619385955356485,-122.19665547656466
+"4d7e3c136174a35da60a8503","Unify Square, Inc.","Professional & Other Places::Office::Tech Startup",47.6288955449699,-122.129647075167
+"4d7e41efe7e1721ed50cdd0b","Laplink Software","Professional & Other Places::Office",47.61420440673828,-122.19554901123047
+"4d7fcbb0dd4a6ea8607e8125","Nine O","Nightlife Spot::Other Nightlife",47.5801310584225,-122.143868233519
+"4d817b34bede5481e15f00d1","Tony Maroni's","Food::Pizza Place",47.5768865405891,-122.17069637
+"4d817dcfd95df04d1e6b45bc","Kiku Sushi","Food::Sushi Restaurant",47.62871212,-122.16575118333333
+"4d8255381ec4224be441d992","Family Medicine Center","Professional & Other Places::Medical Center::Doctor's Office",47.623629,-122.186166
+"4d82e9769324236a07589a0e","Propel Fuels","Shop & Service::Gas Station / Garage",47.582112939438346,-122.16736793518066
+"4d83b67a5e70224b01acfd08","Lake Hills Medical Associates","Professional & Other Places::Medical Center::Doctor's Office",47.59960908,-122.14139616
+"4d84f1d9f1e56ea8ccc67f8a","Greek Express","Food::Greek Restaurant",47.57395045,-122.17208312
+"4d8697a440a7a35dd79838be","Snag Island","Outdoors & Recreation::Beach",47.22898702721359,-122.15030046401193
+"4d87ad4e76e1236a7f7de242","Panda Express","Food::Asian Restaurant",47.57471639,-122.17092375
+"4d8992e16daeb60c2f1f52e0","Project Bionic East","Professional & Other Places::Office::Tech Startup",47.65004348754883,-122.1447525024414
+"4d8ba5788169721e16af2afd","ArenaNet","Professional & Other Places::Office",47.58175180899973,-122.15416849360257
+"4d8babbccdfbb60cf64e5907","Blue Luna Fashion","Shop & Service::Clothing Store::Boutique",47.6159130648942,-122.20779418945312
+"4d91e797033ba35d17ba790d","Metro #271 Lake Hills stop","Travel & Transport::Bus Station",47.598283064138734,-122.15148428383515
+"4d928d7162ad5481506c6f4b","Tuscan Stone Pizza","Food::Pizza Place",47.60996245072032,-122.20188017885759
+"4d932978b053b60c3cda87cb","Moxie Software","Professional & Other Places::Office",47.619407,-122.182654
+"4d93ce6f8deb8cfa2b8132c0","Parlor Billiards","Nightlife Spot::Bar",47.61721485891975,-122.20189332962036
+"4d964987647d8cfafc0cb63d","Running Elements","Shop & Service::Sporting Goods Shop",47.610183189071684,-122.20513291659896
+"4d98032d77c18eec42376b92","Oma Bap","Food::Korean Restaurant",47.61189881439293,-122.20111
+"4d9cccf1ef8f370476080dae","Two Newport","Professional & Other Places::Office",47.5784971871827,-122.165510449341
+"4d9cdd4383f36ea8bb40ab94","Bank Of America Bellevue Village","Shop & Service::Bank",47.6182975769043,-122.20487976074219
+"4da0cd100f578cfa1fef7c18","Red Town Trailhead - Cougar Mountain","Outdoors & Recreation::Hiking Trail",47.5347454380687,-122.12878704071045
+"4da202b9b1c93704ab99dba1","Disney Store","Shop & Service::Toy / Game Store",47.615541202223675,-122.20314044864222
+"4da5f5e60437667c9b3802b3","Heaven","Outdoors & Recreation::Cemetery",47.57802796,-122.16251914
+"4da705bbced7e031f7c7266b","Ford and Lincoln of Bellevue","Shop & Service::Car Dealership",47.6140326385278,-122.186379432678
+"4da7ab911e72d9bb47356cf3","Bellevue College - D Buidling","College & University::College Classroom",47.58452873166793,-122.14992602575096
+"4daa03d8fa8cc764972a52c7","Brittany House Apartments","Residence::Residential Building (Apartment / Condo)",47.60675351787182,-122.20440389539404
+"4dacbbb9fa8ca548ba130d50","Eastgate Elementary","Professional & Other Places::School::Elementary School",47.570687685972,-122.137465979644
+"4dad03d05da32d679daf6435","Game Stop","Shop & Service::Video Game Store",47.61502358596086,-122.20376765812404
+"4dae000693a0096fba971c45","Sola Salon","Shop & Service::Salon / Barbershop",47.6181290849763,-122.191310189027
+"4dae4ede8154d1d48864916c","Avalon Towers Dog Spot","Outdoors & Recreation::Dog Run",47.617902907967974,-122.20220419126855
+"4daf9ff7f7b149e03f38d3e6","Bellevue College Continuing Education","College & University::College Academic Building",47.6346557719725,-122.145738601685
+"4db0e3df5da32cf2df522e94","Metro112","Residence::Residential Building (Apartment / Condo)",47.61321604618868,-122.19190694626843
+"4db3033943a1369cb598964e","Mercedes-Benz CPO Building","Shop & Service::Automotive Shop",47.61824687154112,-122.18030491849741
+"4db58540a86e8d270798e6f5","Bellefield Office Park","Professional & Other Places::Office",47.5960060448738,-122.189984321594
+"4db75c0b93a096e4f5df735f","Soma","Residence::Residential Building (Apartment / Condo)",47.61002796373339,-122.19772438096464
+"4dbd9e384df044e524ffe32b","Seattle Ferry","Travel & Transport::Ferry::Boat or Ferry",47.6171393758406,-122.190500892142
+"4dbf3b9f81545e1cc7c9e748","Dress Barn","Shop & Service::Clothing Store::Women's Store",47.617980172448,-122.130445533525
+"4dc33600814d503d3b109741","Overlake Medical Clinics Downtown Bellevue","Professional & Other Places::Medical Center",47.6141297365719,-122.196151867448
+"4dc3416fb0fb5556ccba4745","Bank Of America Crossroads","Shop & Service::Bank",47.617362,-122.13196
+"4dc417ae7d8b14fb46078d63","Starbucks","Food::Coffee Shop",47.57837491986728,-122.16734647750854
+"4dc962eb88774c7090b5af20","St Peter's United Methodist Church","Professional & Other Places::Spiritual Center::Church",47.616904647778014,-122.11042870822352
+"4dcdeccc52b1f8915b8aa764","Mongolian Hot Pot","Food::Chinese Restaurant",47.623137703313496,-122.13292020893779
+"4dceca21c65bdac7136a9cff","Lake Hills Orthodontics","Professional & Other Places::Medical Center::Dentist's Office",47.599053,-122.142576
+"4dd2d18cc65b47384cea3848","Overlake Hospital Surgery","Professional & Other Places::Medical Center::Hospital",47.62109223776617,-122.18593090040363
+"4dd333eb8877fd87e04a99d9","Sammamish High School Stadium","::Outdoors & Recreation",47.608602,-122.15106719
+"4dddac99d1641542183357b1","Nordstrom Marketplace Cafe","Food::Café",47.61693,-122.203878
+"4ddfcb44d164da4f23361fd8","Huawei Terminal Office","Professional & Other Places::Office",47.58278216,-122.13649366
+"4de17e0f52b1d38d2957a1fc","Builders Hardware & Supply Co","Shop & Service::Hardware Store",47.6194650076014,-122.184032
+"4de3d35018505285fcf16f61","Dooz 4 Kidz","Shop & Service::Salon / Barbershop",47.61561661178628,-122.20303220017003
+"4de44322d164df857526f51c","Casa Del Tom","Residence::Residential Building (Apartment / Condo)",47.611174,-122.207149
+"4de5362bd164df85753c9599","Blissberri","Food::Ice Cream Shop",47.61568163145217,-122.2029447555542
+"4de5a6f37d8b53987c4f95bd","Foresthill Park","Outdoors & Recreation::Park",47.55755237,-122.1632339
+"4de830801f6e9b537707a522","Jing Jing Asian Market","Shop & Service::Food & Drink Shop::Grocery Store",47.57769010196968,-122.17277531056736
+"4de949afc65b72347a2638f8","Pineapple Hospitality","Professional & Other Places::Office",47.6118340638848,-122.196454329956
+"4dec4781e4cdc079f4b3c3db","Udupi Cafe and Chaat Corner","Food::Indian Restaurant",47.63103352,-122.144793
+"4ded6775d22deb0316df3844","Bellevue Memorial Stadium","Outdoors & Recreation::Athletic & Sport::Soccer Field",47.60243621,-122.198227
+"4df108211838e429ae52fb21","Mike Lull Custom Guitars","::Shop & Service",47.628246270136934,-122.16279398379743
+"4df2590052b100c2d7f660fe","Crossroads Community Center Playground","Outdoors & Recreation::Playground",47.61995494365692,-122.12742984294891
+"4df41cca18a88611c6bf3645","Zeke's Pizza","Food::Pizza Place",47.619102478027344,-122.20420837402344
+"4df55056a809141629a8f6df","Bellevue Marina at Meydenbauer Bay","Outdoors & Recreation::Harbor / Marina",47.609158646414095,-122.20667168320198
+"4df679411495dd5ffb8333f1","The Lodge","Food::Café",47.617035,-122.20157499999999
+"4df6c131ae60f0da88377b47","Sound Transit 550","Travel & Transport::Bus Station::Bus Line",47.58628684013853,-122.19104255423667
+"4df7980e52b10928a7e8ce5b","Skyline Tower","Professional & Other Places::Building",47.6140906780873,-122.194843969551
+"4df91444c65b6739205e886f","Civica Fireplace","Professional & Other Places::Office::Coworking Space",47.6124388666667,-122.19639204
+"4dfa6dee62e1e9a2436a0ad8","Subway","Food::Sandwich Place",47.626197,-122.15475322
+"4dff7efe52b1d747f679da39","Zero 2 Ten","Professional & Other Places::Office",47.61783981323242,-122.19977569580078
+"4dffa87022713224ea8e444f","I Luv Teriyaki","Food::Japanese Restaurant",47.576771795823,-122.170404195786
+"4e04d816b61c6b32fb0834fe","Comics Forge Secret HQ","Professional & Other Places::Spiritual Center::Church",47.597504883822864,-122.18237971114954
+"4e054e5ab61c60b045377833","Koi's Seafood Restaurant","Food::Chinese Restaurant",47.61234011798393,-122.19865294340869
+"4e076d6bd22d658532a5e3e8","Bel-Red Storage","Professional & Other Places::Building",47.6235260823916,-122.159138356151
+"4e08383f52b165b7d7b2fb8d","Bellevue Towers North Tower Lobby","Professional & Other Places::Building",47.6144876119907,-122.198535871994
+"4e0a189d1838eb15af148ec2","Matheny Chiropractic","Professional & Other Places::Medical Center::Doctor's Office",47.6157192,-122.19670242
+"4e0be03045dd496ab44396ab","H Bar at the Sierra Hotel","Nightlife Spot::Bar",47.5809389,-122.1544873
+"4e0faa067d8bb178a8b52db1","Wee Tots Children's Store","Shop & Service::Toy / Game Store",47.610144,-122.203129
+"4e1298b2ae602afe96c78bdf","Lake Sammamish","Outdoors & Recreation::Lake",47.603052491555026,-122.09647178649902
+"4e16055faeb733245ed4bc5f","Evergreen Ballroom","Professional & Other Places::Event Space",47.6186757225097,-122.200434207916
+"4e162b09c65be9c55e830c3e","Chesterfield Beach Park","Outdoors & Recreation::Beach",47.58811400441097,-122.2047912793121
+"4e18f5c76284ea7246fe0df0","Mercer Slough Fish Ladder","Outdoors & Recreation::Park",47.56768675441763,-122.18043877659586
+"4e1a2fbfc65b6bfb591fd934","Rice N Spice","Food::Thai Restaurant",47.620223,-122.199214
+"4e1b56dd52b195d2a636ba76","O2 - Obadiah Blow Dry Bar","Professional & Other Places::Building",47.61790202161812,-122.20068265420878
+"4e1f3ffca809eb325ff7c7cc","Tye River & Kelsey Creek","Travel & Transport::Bus Station",47.585763,-122.148468
+"4e1fb7a788774a43b7587209","City of Bellevue","Outdoors & Recreation::City",47.61734035177918,-122.18889280147388
+"4e1fde0022717a5245bac034","Hogwarts School Of Witchcraft And Wizadry","College & University::University",47.57995569223575,-122.1782873971748
+"4e24e60945dd3b8cf8f49110","One Lincoln Tower","Professional & Other Places::Building",47.616737365722656,-122.20055389404297
+"4e25de63aeb7df1e0f4dbc7d","BoConcept","Shop & Service::Furniture / Home Store",47.61736159201565,-122.20112582212174
+"4e2b296818387cce06705761","Forever 21","Shop & Service::Clothing Store::Women's Store",47.6150356166667,-122.203846
+"4e2ddc50fa7614797dd3cec4","Little Taipei","Food::Restaurant",47.629994,-122.155193
+"4e30775e18383aa77b023bbd","bank of america","Shop & Service::Bank",47.6169319152832,-122.19947814941406
+"4e30a552483bb3fdc436dd07","Grouphealth Speech, Language & Learning Services","Professional & Other Places::Medical Center",47.6161711187229,-122.179600671455
+"4e31c4302fb6ede816e38851","Redbox","Shop & Service::Video Store",47.62918603631269,-122.1436899379664
+"4e31c4302fb6ede816e38a98","Redbox","Shop & Service::Video Store",47.61833572387695,-122.20513153076172
+"4e3813befa7606f144014961","Periodontics Implantology","Professional & Other Places::Medical Center::Dentist's Office",47.6193400125863,-122.206091306127
+"4e3826a9a809a0c63b3cedbb","Sound Mental Health","Professional & Other Places::Medical Center::Doctor's Office",47.6295332881726,-122.150309085846
+"4e3978ee2271aebfead54eb7","M112","Residence::Residential Building (Apartment / Condo)",47.61330114077365,-122.19099573754684
+"4e3c953918a83d5b283905f2","Potbelly Sandwich Shop","Food::Sandwich Place",47.613934,-122.1978892777778
+"4e41c3e81838ada3db55c450","Simon's T-Mobile","Food::Deli / Bodega",47.57846538815831,-122.1656084060669
+"4e4209321838ada3db5935bd","One Central Park Condos","Residence::Residential Building (Apartment / Condo)",47.59242713721208,-122.16368286319897
+"4e42ebd17d8b2eefb3b10a33","Creekside Center For Integrative Medicine","Professional & Other Places::Medical Center::Doctor's Office",47.62390326,-122.152294
+"4e459f9e62e148603b6769da","Dragonflight XXXII","Professional & Other Places::Event Space",47.6074104309082,-122.18950653076172
+"4e472d511fc7ad3398cc37e4","Dante's Inferno - 5th Circle","Professional & Other Places::Office",47.6233617817093,-122.169921398163
+"4e482b4a45dd2955e5af123a","talktUp","Professional & Other Places::Office",47.58662700534658,-122.16057097746766
+"4e4958a68877bebe848071d1","Bellevue Chiropractic Clinic","Professional & Other Places::Medical Center::Doctor's Office",47.613152,-122.19877
+"4e49f6c6fa76a0c058caed91","Creepy stalker-like parking lot outside of Chantanee","Professional & Other Places::Parking",47.6106183429922,-122.20127328197
+"4e4ac158b61c9227e600b185","Blue Olive Mediterranean Café","Food::Mediterranean Restaurant",47.61743,-122.193014
+"4e4acb02d22d876aed1e823b","Northup West","Professional & Other Places::Building",47.6364896184911,-122.190271495546
+"4e4add3d1838fe3c81805d94","Eagle Mortgage","Professional & Other Places::Office::Conference Room",47.6076275110245,-122.186223864555
+"4e4b03e822713bd908b988e1","R&R Rentals","Shop & Service::Hardware Store",47.6416015625,-122.19640350341797
+"4e4c0cb9fa7671a85cf1e013","Law Offices","Professional & Other Places::Building",47.63093309702972,-122.19262307863896
+"4e4ef65745ddff0031b9bbb1","Yang's Dumpling House","Food::Chinese Restaurant",47.60483389,-122.13205709
+"4e52919314955fcafdc9c22c","Pro Club 20/20 Lifestyles","Shop & Service::Gym / Fitness Center::Gym",47.65119718907696,-122.14499242925861
+"4e532066e4cd13d1047ae89b","PRO Club Fitness Center & Treadmills","Shop & Service::Gym / Fitness Center::Gym",47.65130133674755,-122.145190373879
+"4e570c7b14955ace30379fd6","Market Fish Fry","Food::Seafood Restaurant",47.619136810302734,-122.12993621826172
+"4e5ad6df091a1023bdfece36","University of Washington Medicine - Factoria Clinic","Professional & Other Places::Medical Center::Doctor's Office",47.5791457046992,-122.164063453674
+"4e5fbc2b1f6ed957dcf0ecf7","Expedia - Skyline Tower","Professional & Other Places::Office",47.614307474293064,-122.19455480575562
+"4e630473ae60e9edf6044d19","Bravern Apartments - Workout Room","Shop & Service::Gym / Fitness Center::Gym",47.61671615076505,-122.19266797049472
+"4e63cdff1850e238d6d66b1d","Yuan Spa","Shop & Service::Spa / Massage",47.61942783438164,-122.19871759414673
+"4e6cccd5b61c739ba8b38d08","NewGrace Church","Professional & Other Places::Spiritual Center::Church",47.620842,-122.128529
+"4e6e96bcb993df929f058ad4","Luwa Gallery","Professional & Other Places::Event Space",47.62306213378906,-122.16124725341797
+"4e6f793f62e1d475e2342f0d","Pain Management Options","Professional & Other Places::Medical Center::Doctor's Office",47.621503,-122.180124
+"4e6f9fe3c65b6d433aff3425","Rosenwald & Associates, DDS","Professional & Other Places::Medical Center::Dentist's Office",47.623946,-122.186673
+"4e6fa155d1647b113809d639","GLY Construction Main Office","Professional & Other Places::Office",47.61188888549805,-122.19017791748047
+"4e6fadee62e1d475e24d0b24","Symetra Cafeteria","::Food",47.616660100419075,-122.19707654168744
+"4e6fb11cd1647b113810c7e2","Bellevue Square Parking Garage - W4","Professional & Other Places::Parking",47.616174000454556,-122.20519382280938
+"4e72549aa8095855090e22d7","Peaks Frozen Yogurt Bar","Food::Dessert Shop",47.620825,-122.129885
+"4e72bf7ed22d2fd31400c8ab","A Suite Break","Shop & Service::Spa / Massage",47.628043,-122.17089
+"4e74557518506506cc82faac","StartupDay 2011 - Seattle 2.0","Professional & Other Places::Convention Center::Meeting Room",47.6157394899087,-122.191979885101
+"4e755d9e88775d593df11f7a","","Arts & Entertainment::Historic Site",47.574566,-122.12235
+"4e77f119b0fb305db59e4b0b","Mayor Of Derrick Froyalde","Nightlife Spot::Karaoke Bar",47.57647705078125,-122.13182067871094
+"4e79f8db52b1fc6a4b25b209","Odle Middle School Back Gate","Professional & Other Places::School",47.613529205322266,-122.14794158935547
+"4e7a293e62e115fb62e54674","Your Local Market","Shop & Service::Food & Drink Shop::Grocery Store",47.61447900511557,-122.20068811375552
+"4e7a2a22aeb79f7dabd3cdb6","Your Local Market- Corporate Offices","Professional & Other Places::Office",47.614365,-122.200734
+"4e7bde40183878cd62c1afa9","Tesla","Shop & Service::Automotive Shop",47.61580454533344,-122.20393186011881
+"4e7bec3d7d8be480660a19e0","Suite Lounge","Nightlife Spot::Lounge",47.61806,-122.199912
+"4e7cb3c2b80309e0eaa86905","Bellevue City Hall (Parking Garage)","Professional & Other Places::Parking",47.6156972023952,-122.193128431533
+"4e7faeabb803586a86a21191","Goddard Park","Outdoors & Recreation::Park",47.61722248355731,-122.20724768887787
+"4e81287561af3112dffa6eae","Intel AppUp Elements!","Professional & Other Places::Event Space",47.6181640625,-122.20034790039062
+"4e81f93230f8865699e5fde8","Dr. Scott Cahoon D.D.S.","Professional & Other Places::Medical Center::Dentist's Office",47.6323645845162,-122.153124667934
+"4e8283e3d22dc33e80e1ca46","NW Crossfit Bellevue","Shop & Service::Gym / Fitness Center::Gym",47.624304,-122.163343
+"4e82bbb4754a3055e159e93e","Girl Power Hour #4G4","Nightlife Spot::Other Nightlife",47.61841583251953,-122.20015716552734
+"4e864de02fb6973599935659","Ashton Bellevue Luxury Apartments","Residence::Residential Building (Apartment / Condo)",47.619816224714356,-122.19632824662602
+"4e864df52fb6973599935896","Elements","Residence::Residential Building (Apartment / Condo)",47.6183246955567,-122.19149493641228
+"4e88a8259a52a2df9b9817bf","Rain City Church","Professional & Other Places::Spiritual Center::Church",47.614989951331665,-122.14861075119937
+"4e8a42830aaf72bf631a2c48","Simply Chic","Shop & Service::Clothing Store::Boutique",47.5745608225389,-122.171399974554
+"4e975ca9f9f4c8f4a5e27f23","The Martine Apartments","Residence::Residential Building (Apartment / Condo)",47.61715700209572,-122.15593099594116
+"4e975f8161af3652a0437cce","Road Runner Sports","Shop & Service::Sporting Goods Shop",47.6304801979937,-122.177154881703
+"4e98759bd3e322c8a1d19e7d","SteamCon III - 20,000 Leagues Under The Sea","Arts & Entertainment::Historic Site",47.618064880371094,-122.20030975341797
+"4e99bbd4d22d3f4f891c94cb","Splendid","Shop & Service::Clothing Store::Boutique",47.61589050292969,-122.20396423339844
+"4ea2f25929c2abc8df008c48","Bellevue Neighborhood Church","Professional & Other Places::Spiritual Center::Church",47.616329193115234,-122.15422058105469
+"4ea3339cb8f7e4911ef6b7b2","Stone Gardens","Shop & Service::Gym / Fitness Center::Gym",47.619893752432226,-122.12939702673698
+"4ea5a32ae5e8ca72b7cd7e09","Venuelabs","Professional & Other Places::Office::Tech Startup",47.62887170284323,-122.18095064163208
+"4eaacb3b0aafb00bd8aeca87","Starbucks","Food::Coffee Shop",47.621306615543,-122.18809742717
+"4eada0f430f855f5b364b7c0","Get Zen Hot Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",47.6287699682217,-122.165367990847
+"4eb0b4a130f855c20ee53b91","Crossroads Toys","Shop & Service::Toy / Game Store",47.6188123226166,-122.130745053291
+"4eb5944593ad2365703ba9ea","Bellevue Way Dry Cleaners","Shop & Service::Laundry Service",47.61120970011961,-122.2022012030709
+"4eb7104561af0dda910f7d0e","STLP","Professional & Other Places::Event Space",47.6074862735047,-122.189005552081
+"4eb7a681cc2143e828e850a0","Jedi Academy - Hogwart's Extension Campus","College & University::Fraternity House",47.6434318740629,-122.189083099365
+"4eb7fe519a52ad1e4003921a","I'm lost","Travel & Transport::Rest Area",47.6326232956624,-122.188287286544
+"4eb84a1f6da1df9ffbb0b24c","Redmond Conference Room - Hilton Bellevue","Travel & Transport::Hotel",47.6073509955051,-122.187019615569
+"4eb84dbcd3e3644ca76dec65","Doyenz Rcloud","Professional & Other Places::Office::Tech Startup",47.6077399508963,-122.185907363892
+"4eb8a4f1b8030fb5843a16ed","Fred Meyer Parking Lot","Professional & Other Places::Parking",47.62941457166554,-122.14412231439191
+"4eb9d484b634fa2e62b9d0c1","Bellevue College Quad","College & University::College Quad",47.5873170075538,-122.148908
+"4eb9e0f0722edc0eaef90f7b","Crossroads ballot drop box","Professional & Other Places::Voting Booth",47.618729,-122.132253
+"4eba91abdab495868c62d8cc","Embassy Suites Gym","Shop & Service::Gym / Fitness Center::Gym",47.58108683191959,-122.13421697413715
+"4ebb34609a52d00624cc1e4d","Donovan Photographics","Professional & Other Places::Office",47.5803281447781,-122.13786934134
+"4ebbffc14901a730a8c4731f","CDG Bellevue","Professional & Other Places::Office",47.582790831149,-122.134167146013
+"4ebc48927ee5326f01c02bf1","Snowflake Lane","Arts & Entertainment::Performing Arts Venue",47.616369670042324,-122.20158785231301
+"4ec027a49adfe2b7b6532945","Northface","Shop & Service::Clothing Store",47.6162240891544,-122.203881189303
+"4ec75f92d3e3e131f21fe5ad","RootMetrics","Professional & Other Places::Office",47.633824056494,-122.18396208492
+"4ecc0bed4fc62ec2d90c5d92","Cisco Systems","Professional & Other Places::Office",47.6145967735381,-122.195520401001
+"4ecfd42eb634dd2990cf9a2d","Nordstorm Espresso Bar","Food::Café",47.6170009781797,-122.205393418094
+"4ed3b20c5c5c9528fd1b6ba7","VZW Bellevue Building 2","Professional & Other Places::Office",47.58069610595703,-122.13230895996094
+"4ed65c008b816659937db2b9","Sound Transit 550 End of Line","Travel & Transport::Bus Station",47.619614813179,-122.193308783619
+"4ed822c530f83fb799e9e717","Microsoft City Center Plaza Parking Garage","Professional & Other Places::Parking",47.6148860711825,-122.194876670837
+"4ed844328b81731609c0bb95","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",47.5806605723217,-122.143173198004
+"4ed9320bcc215fbf0896e794","Tokyo Steakhouse","Food::Japanese Restaurant",47.617712080856016,-122.19170172947764
+"4edacbb8b8f7fcd040d3151d","Bellevue Tree Lighting","Arts & Entertainment::Performing Arts Venue",47.615361021307,-122.198450976951
+"4edc31529911a3e78f5184ea","Bellevue Ice Skating","Outdoors & Recreation::Athletic & Sport::Skating Rink",47.611849801868054,-122.20511759169612
+"4edd5a620e011b46f1ef759b","Exotic Motors Collision Repair","Shop & Service::Automotive Shop",47.6166250942278,-122.185216536632
+"4ee6b41cb8f790fe41ea2f81","Microsoft Advanta Parking Deck","Professional & Other Places::Parking",47.5838037370515,-122.13095837629
+"4ee905b0f790a9d739034adb","Ooba Tooba","Food::Mexican Restaurant",47.57578908758865,-122.16835684735885
+"4ee91cb76c25eda5a7ec1a0a","Explore Consulting","Professional & Other Places::Office",47.6178544929561,-122.193778644912
+"4ee95734a69def52c9aa810b","Northwest Guitars","Arts & Entertainment::Music Venue::Rock Club",47.6277721664588,-122.165100344917
+"4ef1213d9a52b8254dd69306","Verizon Wireless Building 3 Floor 3 Cubicle 3839","Arts & Entertainment::Arcade",47.5801161632714,-122.132738175911
+"4ef2f6c577c810388d8c8fb6","Hidden Teriyaki","Food::Japanese Restaurant",47.581414761693,-122.14323784637
+"4efe39148b81b019095f9a6d","One Twelfth Building","Professional & Other Places::Building",47.619981962077,-122.189425729524
+"4f036a0ff9abd5b393eaaccd","Yeh Yeh's Sandwiches","Food::Sandwich Place",47.6274188062433,-122.149005924533
+"4f0b03a4e4b05f8310165620","LA Fitness","Shop & Service::Gym / Fitness Center",47.60938738857686,-122.13978012167584
+"4f0b46cae4b0540ca4fac23c","VZW Bellevue Building 4","Professional & Other Places::Office",47.5797821882415,-122.133763454531
+"4f0cb130e4b0baf83120b770","Noir Lash Lounge","Shop & Service::Cosmetics Shop",47.6125373818767,-122.201830591645
+"4f1cfc30e4b0a6271a9e74d3","승주님 저택","Shop & Service::Flower Shop",47.6130818283905,-122.200885048239
+"4f1e0c02e4b0bd0242ad9409","RIM Seattle - St. Helens","Professional & Other Places::Office::Conference Room",47.5801054606746,-122.135302214807
+"4f203a31e4b08cb72ec4dc53","Skipping The Tolls","Travel & Transport::General Travel",47.6324072963056,-122.185339320972
+"4f205438e4b01d27e84a9701","The Bravern 2","Professional & Other Places::Building",47.6169255741594,-122.193117141724
+"4f20893be4b0b238b7aeb4a5","Yogurtland","Food::Dessert Shop",47.61277570220095,-122.2018987127401
+"4f20bec2e4b0b4670a789a87","Hyatt Hotel - Olympic Tower","Travel & Transport::Hotel",47.61837760616058,-122.20053278456264
+"4f23397ee4b04b55242c6651","Lunchbox Laboratory","Food::Burger Joint",47.61890551674028,-122.19124489821604
+"4f2aa66fe4b0b70f2ab1b498","It's not Gold's...but it will do.","Shop & Service::Gym / Fitness Center::Gym",47.6242267744742,-122.189024876033
+"4f2b475ae4b0aa4f6c22bdd9","My Parking Spot","Professional & Other Places::Parking",47.5771391259316,-122.168484071019
+"4f2d9996e4b0d337d41a8e9c","Blue Martini","Nightlife Spot::Cocktail Bar",47.616130032815875,-122.19322443008423
+"4f2e0b9ae4b062ad2bbe7488","Sky High Bellevue","Arts & Entertainment::General Entertainment",47.6231019641504,-122.179984786689
+"4f2e2b34e4b09d49e91cc4e4","2AM","Nightlife Spot::Bar",47.6269567474952,-122.145048743846
+"4f32923519836c91c7e4c734","Bellevue Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",47.626455,-122.204478
+"4f358e3ae4b0c48479c4631e","ProSports Club Spa","Shop & Service::Spa / Massage",47.65130102887208,-122.14484623207353
+"4f374fa9e4b0edf91ce5353c","QFC parking lot","Professional & Other Places::Parking",47.5968026871086,-122.150000077986
+"4f39b9c2e4b05a15692d90b6","The Great Wall Of Bellevue","Outdoors & Recreation::Other Great Outdoors",47.63358676560707,-122.1878559207303
+"4f3d97396d8612b15172075e","Bake's Place","Arts & Entertainment::Music Venue::Jazz Club",47.611794360788,-122.196947336197
+"4f40742fe4b0def9939ee2b1","76","Shop & Service::Gas Station / Garage",47.6320385547415,-122.143722253477
+"4f416f08e4b0f6acbc4ecbf0","Bannerwood Park Bellevue, Wa","Outdoors & Recreation::Athletic & Sport::Baseball Field",47.59588718732354,-122.16330713109517
+"4f4333de6d8688a088376bca","MamaCon 2012","Professional & Other Places::Event Space",47.6062643145559,-122.189190387726
+"4f455f2fe4b0f737ec9d0629","IMPACT Strength and Performance","Shop & Service::Gym / Fitness Center::Gym",47.6236546660111,-122.169345977692
+"4f49309de4b0a644ed99842c","Whisk 425 at the Hyatt","Food::American Restaurant",47.6181162821282,-122.199961571945
+"4f4ad2e7e4b0156c31470bb1","Hyatt Regency Bellevue - Cascade Tower","Travel & Transport::Hotel",47.6182242757651,-122.20083217558
+"4f4b0c79e4b0b7483fd6c8af","Hyatt Bellevue Room after Wintergrass","Travel & Transport::Hotel",47.6093038843914,-122.198048545357
+"4f4b422fe4b002a2ae752c5e","2012 MVP Summit","Professional & Other Places::Event Space",47.618529649799086,-122.20029749107883
+"4f4c3d2ca17c009bf90956de","The Mortgage Reel","Professional & Other Places::Office::Tech Startup",47.6082752204558,-122.183740139008
+"4f4cfa32e4b0cb12b8a20e90","Windows Phone Concierge Lounge","Professional & Other Places::Building",47.61607344839,-122.197567885569
+"4f4d5bc56d86be77b4ae6b85","Koral","Food::American Restaurant",47.618082703597715,-122.20094919204712
+"4f4fcf15e4b0cad93c8dec4c","Pho Cyclo Cafe","Food::Vietnamese Restaurant",47.6146184709169,-122.196035385132
+"4f5e1474e4b0c5418d1c5894","SMITH","Professional & Other Places::Office",47.61815041744433,-122.19988378424505
+"4f5e4b38e4b0b28dd684a9d8","Joi's","Food::Asian Restaurant",47.6122,-122.19878
+"4f60f804e4b01b3ebd5569d4","Cafeteria - Microsoft City Center Plaza","Professional & Other Places::Office::Cafeteria",47.61471548840668,-122.19422167249567
+"4f666da9e4b0e30d22793c9d","Evolution Fresh","Food::Juice Bar",47.61717919450058,-122.2015095509188
+"4f7243bf7beba68ca267ed54","Forever 21","Shop & Service::Clothing Store",47.61492922071592,-122.20380087687234
+"4f732d7ae4b0a60ba58586a3","Agent Reboot Seattle","Professional & Other Places::Event Space",47.61553,-122.191406
+"4f73bc04e4b0e7e859208155","Kitten Kitten Kitten Dog","Nightlife Spot::Strip Club",47.5898417148795,-122.153827325869
+"4f747bbee4b0da64dfbbef83","226 Bus Stop","Travel & Transport::Bus Station",47.630781,-122.121739
+"4f74ba5be4b0bdf32e940716","Skyline Cafe","Food::Café",47.6143824279192,-122.194267349372
+"4f7a063ee4b0998be6cf68d7","Advaiya Inc. (new location)","Professional & Other Places::Office",47.6324365784835,-122.155845621265
+"4f7b7927e4b0ec1aa37f7a99","Hunts Point Ln","Travel & Transport::General Travel",47.63798684133611,-122.22447175966029
+"4f7b9005e4b09b8aea78aa86","Microsoft Civica Building, 3rd Floor","Professional & Other Places::Office",47.6123954602013,-122.196901403578
+"4f84b72de4b0cb1d2d2feca7","Safeway- Seattle Divison","Professional & Other Places::Office",47.6240478202485,-122.175412964619
+"4f903871e4b0c387d54363be","Pot Hole Of Death","Arts & Entertainment::Theme Park",47.632730938255,-122.18807173293
+"4f90669de4b01d8f6e23fbe1","Little Caesars - Kelsey Creek","Food::Pizza Place",47.6096393050239,-122.141676313417
+"4f9c6dc2e4b04dd73590d3d2","La Superior","Shop & Service::Convenience Store",47.618727779663,-122.129541665945
+"4fa035ace4b0f94854972efc","Araya's Vegetarian Place","Food::Vegetarian / Vegan Restaurant",47.610984,-122.201794
+"4fa44ecfe4b02175373cc0bd","Top Pot Doughnuts","Food::Bagel Shop",47.616261200345,-122.20457339932
+"4faabfdce4b0685b5ab2ef9f","Jimmy John's","Food::Sandwich Place",47.6286173169937,-122.135126968384
+"4faf23d0e4b08a2bb99e036a","Masins on Main","Residence::Residential Building (Apartment / Condo)",47.61033333706021,-122.19706705368304
+"4fc826afe4b067bcc4582bc0","Mirror Ultra Lounge","Nightlife Spot::Lounge",47.61635333010009,-122.20184219945251
+"4fceab6fe4b08ffd9b7acb72","Crunch Fitness","Shop & Service::Gym / Fitness Center::Gym",47.62008721055835,-122.12885291951739
+"4fdcbe78e4b0dd796b77ea07","Starbucks","Food::Coffee Shop",47.617788763049845,-122.20406804478601
+"4fe24ae8e4b03e90634ebe50","NHC 2012","Professional & Other Places::Convention Center",47.61856235579668,-122.20035074325013
+"4fe38cc7e4b0f8abc8b330d4","National Homebrewers Conference","Food::Brewery",47.6184114180927,-122.200275042757
+"4fe60217e4b045277f102302","Bellevue Strawberry Festival 2012","Outdoors & Recreation::Other Great Outdoors",47.61767017787349,-122.12337771125951
+"4fe6101de4b047eae93c74a2","Eques","Food::Restaurant",47.61818431392317,-122.19999161291543
+"4fea0102be771cd8f770f4d3","Total Wine & More","Shop & Service::Food & Drink Shop::Wine Shop",47.61650610841403,-122.1809720993042
+"4fecec3be4b0103ff5f60bbb","Cast Iron Studios","Food::Restaurant",47.6140670788318,-122.196281137536
+"4fee0785e4b0e7487e751bfc","Walmart Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",47.60870662466306,-122.14020388189708
+"4ffb0b30e4b0b8fdabb4a1af","Bellevue Brewing Company","Food::Brewery",47.626719,-122.166136
+"502e97dde4b0f9a2dcef76e9","Bingcubator","Professional & Other Places::Office",47.617149832701365,-122.19246903402076
+"505d321ee4b05434c0cfdbbd","Moksha","Food::Indian Restaurant",47.61652922796693,-122.20160473223153
+"506899d7e4b0322ccd2108b1","The Passion Pit","College & University::Fraternity House",47.549538375565376,-122.17474457754793
+"5070c0bce4b01a3599201879","Snowflake Lane","Arts & Entertainment::General Entertainment",47.61660040664497,-122.20156467891678
+"5071c123e4b00d7436c831f1","Joi's","Food::Chinese Restaurant",47.61253347859286,-122.1986764608618
+"507864afe4b0eb8b830bdbfc","Bellevue College - Library","College & University::College Library",47.584105,-122.150095
+"5078cdcbe4b0e1f137c04775","Wingstop","Food::Wings Joint",47.60952022035127,-122.14150060599249
+"50820e9be4b07e4073625496","Flywheel Sports","Shop & Service::Gym / Fitness Center::Gym",47.619363950961464,-122.19932074699916
+"509c1b8be4b0b72b97c0498b","Seoul Garden","Food::Korean Restaurant",47.61284435352852,-122.19978183286011
+"509edfa8e4b03888254e7938","WiggleWorks Crossroads","Outdoors & Recreation::Playground",47.61825180053711,-122.1309814453125
+"50a02bbbe4b0eac4e68b95b9","Kate Spade","Shop & Service::Clothing Store::Boutique",47.61729186784887,-122.20081010311463
+"50aa6672e4b041e7e28588ae","Nintex","Professional & Other Places::Office",47.61763,-122.193789
+"50bc208329a6ce84045bb859","Kukai Ramen & Izakaya","Food::Japanese Restaurant",47.60983759756865,-122.14284181594847
+"50c95933e4b05b0bb375580a","Mushashi's","Food::Japanese Restaurant",47.57725,-122.16908
+"510dda33e4b0898fb48f0c4f","1Hundred Bistro & Bar","Food::Tapas Restaurant",47.61971505626728,-122.19633883060301
+"5122663ce4b0655fff834799","MVP Summit 2013","Professional & Other Places::Event Space",47.618498883962516,-122.2002895846985

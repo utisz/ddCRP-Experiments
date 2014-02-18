@@ -1,0 +1,376 @@
+"41326e00f964a5202b121fe3","Janie's Diamond Club","Nightlife Spot::Bar",29.665967889959575,-95.15745383471447
+"4aa2dd7ff964a5205a4220e3","University of Houston - Clear Lake","College & University::University",29.58211598341754,-95.09920120239258
+"4aedc661f964a520cace21e3","Coffee Oasis","Food::Coffee Shop",29.566962402849427,-95.06014823913574
+"4afcb362f964a520352522e3","Johnny Tamales Restaurant And Cantina","Food::Mexican Restaurant",29.63962042818627,-95.15924609756712
+"4b180015f964a52036cb23e3","Toys "R" Us/Babies "R" Us","Shop & Service::Toy / Game Store",29.65203581185346,-95.15400185154863
+"4b1f27a3f964a5207b2424e3","Little Tokyo - Pasadena","Food::Sushi Restaurant",29.65097747728494,-95.1368825087891
+"4b228e89f964a520ed4824e3","Panera Bread","Food::Bakery",29.650502711548693,-95.15087127685547
+"4b22a1a3f964a5209b4a24e3","Cici's Pizza","Food::Pizza Place",29.665593372799943,-95.1908440142748
+"4b22b184f964a520f24b24e3","Best Buy","Shop & Service::Electronics Store",29.64657723360972,-95.15427768230438
+"4b22bbeaf964a5209d4c24e3","Walmart Supercenter","Shop & Service::Department Store",29.64752290736214,-95.16111988741855
+"4b23e2faf964a5201a5c24e3","Party City","Shop & Service::Miscellaneous Shop",29.6486283,-95.152637
+"4b23f12ff964a520645d24e3","Texas road house Pasadena","Food::Steakhouse",29.666624069213867,-95.15496826171875
+"4b2a7b7cf964a52000aa24e3","Starbucks","Food::Coffee Shop",29.65047815294072,-95.15213847888424
+"4b2a7bf8f964a5200baa24e3","Starbucks","Food::Coffee Shop",29.649292090695134,-95.16394596462438
+"4b2a7f68f964a5204aaa24e3","Chili's Grill & Bar","Food::American Restaurant",29.645839963385438,-95.15608930889832
+"4b2a808bf964a52064aa24e3","Monterey's Little Mexico - Pasadena","Food::Mexican Restaurant",29.69154436,-95.17180679
+"4b2a84bff964a520aeaa24e3","Chick-fil-A","Food::Fast Food Restaurant",29.649232319175994,-95.16489820610134
+"4b317617f964a520540725e3","Gene's Better Times","Nightlife Spot::Bar",29.66574644092227,-95.15035153144025
+"4b325f8ef964a520e80925e3","Buffalo Wild Wings","Food::Wings Joint",29.651099445383945,-95.15072107315063
+"4b32a773f964a520021125e3","Target","Shop & Service::Department Store",29.652404788314218,-95.15284538269043
+"4b32a7d6f964a5200a1125e3","Kohl's","Shop & Service::Clothing Store",29.651977499028398,-95.15486737332608
+"4b37ad74f964a5202a4425e3","Bay Area Park","Outdoors & Recreation::Park",29.596129793138765,-95.08635897272752
+"4b37bc5df964a5203d4525e3","Hooters","Food::Wings Joint",29.654661126882527,-95.15750169754028
+"4b3e7e52f964a520f49d25e3","Old Navy","Shop & Service::Clothing Store",29.64829397354558,-95.15285123715702
+"4b455648f964a520db0a26e3","Subway","Food::Sandwich Place",29.639058709144592,-95.162673
+"4b46449af964a520021c26e3","Pei Wei Asian Diner","Food::Asian Restaurant",29.64942112245493,-95.1514720916748
+"4b4fabfdf964a5202a1027e3","Dairy Queen","Food::Fast Food Restaurant",29.66582715511322,-95.17014456666666
+"4b4fc30ff964a520741427e3","flaming wok","Food::Chinese Restaurant",29.650949,-95.15076891666666
+"4b511faaf964a520a24327e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",29.648022498637037,-95.15100002288818
+"4b5504a7f964a52005d827e3","Smoothie King","Food::Fast Food Restaurant",29.65075436617253,-95.15080462674742
+"4b57b60bf964a5203c3d28e3","Applebee's","Food::American Restaurant",29.650260086734995,-95.16548249543837
+"4b57b94cf964a520e03d28e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",29.695415685639116,-95.17368078231812
+"4b5be893f964a520c71c29e3","Pasadena’s Incredible Pizza Co.","Food::Pizza Place",29.64788575576593,-95.15039225896028
+"4b5df39cf964a520ab7529e3","Lunar and Planetary Institute Library","College & University::College Library",29.588236489210466,-95.1016902923584
+"4b6223cef964a52010382ae3","McDonalds","Food::Fast Food Restaurant",29.650087481825473,-95.17208890848593
+"4b648bc0f964a52077bc2ae3","Arlan's Market","Shop & Service::Food & Drink Shop::Grocery Store",29.56710184534877,-95.05932244848839
+"4b662970f964a520f8162be3","Jason's Deli","Food::Sandwich Place",29.665503,-95.185171
+"4b66f88ff964a520eb322be3","San Jacinto College - Central","College & University::Community College",29.661189160709974,-95.11462440948675
+"4b6dae0af964a520b9852ce3","Roosters","Shop & Service::Salon / Barbershop",29.650948,-95.150986
+"4b7d8556f964a52017c42fe3","Sudie's Catfish House","Food::Restaurant",29.66480827331543,-95.16875457763672
+"4b7ddbf3f964a520aed72fe3","university of houston clear lake bayou bldg","College & University::College Academic Building",29.58277758,-95.09777826
+"4b80725cf964a5202f7330e3","Harbor Freight Tools","Shop & Service::Hardware Store",29.662580208294898,-95.13440895455558
+"4b82e6c9f964a5200aec30e3","Chipotle Mexican Grill","Food::Burrito Place",29.65038852362985,-95.15276977861552
+"4b84440ff964a520502b31e3","Armadilla Lanes","Arts & Entertainment::Bowling Alley",29.66331345,-95.172825
+"4b859182f964a520f76531e3","Starbucks","Food::Coffee Shop",29.66466360177191,-95.19024285846582
+"4b8814b9f964a52056de31e3","Shipley Do-Nuts","Food::Donut Shop",29.710304260253906,-95.2196273803711
+"4b885864f964a520e8f031e3","Marshalls","Shop & Service::Clothing Store",29.6463447986701,-95.15480627723814
+"4b896bbff964a520ae3432e3","Border Grill & Cantina","Food::Mexican Restaurant",29.663589477539062,-95.12731170654297
+"4b89777cf964a520fa3832e3","Valero","Shop & Service::Gas Station / Garage",29.701964239269525,-95.15406294677045
+"4b8e7412f964a520692333e3","Boeing Bay Area","Professional & Other Places::Office",29.591373571030402,-95.10067909955978
+"4b8ecc71f964a520cf3733e3","Strawberry Park","Outdoors & Recreation::Park",29.66974071474257,-95.19517965648633
+"4b914610f964a52004af33e3","Simoniz Car Wash & Lube","Shop & Service::Automotive Shop",29.64928965,-95.1663938666667
+"4b9199e4f964a520e8c833e3","Cinemark Hollywood 20","Arts & Entertainment::Movie Theater::Multiplex",29.680512171714764,-95.15345692634583
+"4b9290cdf964a520e10434e3","Darkside Tint & Things","Shop & Service::Automotive Shop",29.6818629339618,-95.2086064475087
+"4b942ab6f964a520486c34e3","UHCL Bayou Building","College & University::College Administrative Building",29.582979781732192,-95.09777636428284
+"4b981420f964a520c72a35e3","UHCL Student Success Center Building","College & University::University",29.5841841890055,-95.0977102435661
+"4b9869a6f964a520f84035e3","Da Pub","Nightlife Spot::Bar",29.65045142956965,-95.18539935350418
+"4b99691ef964a5207c7935e3","The Home Depot","Shop & Service::Hardware Store",29.65134774105452,-95.1584568839401
+"4b99ae8ff964a520b68b35e3","Barnes & Noble","Shop & Service::Bookstore",29.64587025,-95.15552
+"4b9a76a3f964a52082b735e3","Don'key's Mexican Food","Food::Mexican Restaurant",29.665211149333143,-95.16648191578757
+"4b9ad7f9f964a52073db35e3","Office Depot","Shop & Service::Paper / Office Supplies Store",29.690187124744877,-95.19932270050049
+"4ba027c1f964a520345e37e3","Pasadena Memorial Stadium","College & University::College Stadium",29.669387817382812,-95.18525695800781
+"4ba1726ef964a520d7b737e3","H-E-B","Shop & Service::Food & Drink Shop::Grocery Store",29.649097386778735,-95.14471105242319
+"4ba38dc7f964a520cb4638e3","CLR Virtual Connection - Social/Local Media & Community Management","Professional & Other Places::Office::Coworking Space",29.685517538254192,-95.17262935638428
+"4ba94d1cf964a520e01c3ae3","Two Cities Bar & Grill","Food::American Restaurant",29.66464915792393,-95.13228158071551
+"4bac2a6df964a52082e83ae3","The Home Depot","Shop & Service::Hardware Store",29.65134774105452,-95.1584568839401
+"4bac2ad5f964a520a3e83ae3","Lowe's Home Improvement","Shop & Service::Hardware Store",29.648390875814076,-95.1590526119207
+"4bad2836f964a520b9333be3","Spencer Animal Hospital","Shop & Service::Pet Store",29.663388313308737,-95.12995581126762
+"4bae4eb3f964a5209ca03be3","t'nt Hair & Spa","Shop & Service::Salon / Barbershop",29.650644,-95.14266956
+"4bae7e5ef964a52029b93be3","Cici's Pizza‎","Food::Pizza Place",29.662220001220703,-95.123291015625
+"4bae7fbaf964a520c4b93be3","Pizza Hut","Food::Pizza Place",29.66374397277832,-95.13346099853516
+"4bae95fbf964a5209bc33be3","Taco Bell","Food::Mexican Restaurant",29.684354782104492,-95.15580749511719
+"4bae9666f964a520cec33be3","Taco Bell","Food::Mexican Restaurant",29.649302441975447,-95.1699041016594
+"4bae9fc2f964a52008c83be3","Bayshore Medical Center","Professional & Other Places::Medical Center::Hospital",29.66122164454392,-95.18319758203167
+"4bafe405f964a52055293ce3","Casa Ole Mexican Restaurant","Food::Mexican Restaurant",29.664566615969164,-95.2010646344776
+"4bb1436ff964a5200a883ce3","Gabby's Ribs, Steaks and Barbeque","Food::BBQ Joint",29.664717787286637,-95.18261178850473
+"4bb14866f964a52062893ce3","PetSmart","Shop & Service::Pet Store",29.647254179878225,-95.15405785549945
+"4bb167eef964a5205f913ce3","Corner Pocket Sports Bar and Grill","Nightlife Spot::Bar",29.663574751669067,-95.13216961588442
+"4bb16905f964a520a5913ce3","Fitness Connection","Shop & Service::Gym / Fitness Center::Gym",29.663970978097996,-95.18533705312461
+"4bb3812842959c743605222c","Mamacitas","Food::Mexican Restaurant",29.66428666586363,-95.1272484712995
+"4bb3daff42959c740b8c222c","Pasadena Memorial High School","College & University::College Academic Building",29.638704717582502,-95.17500211492883
+"4bb65526941ad13acb421fe3","Dunkin' Donuts","Food::Donut Shop",29.690942,-95.20539
+"4bba01a553649c74fd7b48fb","Pasadena City Hall","Professional & Other Places::Government Building::City Hall",29.691298242226626,-95.1961884666601
+"4bba1ba77421a5935b65c340","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",29.663825739995698,-95.18948378096559
+"4bba289ab35776b05399ca01","Comcast Store","Arts & Entertainment::General Entertainment",29.663916,-95.190055
+"4bbb525e98c7ef3b8ffa3302","Exxon","Shop & Service::Gas Station / Garage",29.68393533250435,-95.15539687551028
+"4bbb6a69935e952158292990","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",29.664339046950673,-95.19002888928658
+"4bbbb681e4529521711155a4","Chili's Grill & Bar","Food::American Restaurant",29.645723342895508,-95.1561279296875
+"4bbbb6f4e4529521481255a4","Pasadena High School","Professional & Other Places::School::High School",29.709645888410027,-95.21207193953462
+"4bbc9e4fa8cf76b00db0b0fd","Valero","Shop & Service::Gas Station / Garage",29.691653290431773,-95.18131287655511
+"4bbe720bb083a5937011a2e9","k&k drive in","Nightlife Spot::Bar",29.674667716026306,-95.13967037200928
+"4bc0e5b8f8219c748f70b210","Ross","Shop & Service::Miscellaneous Shop",29.644602,-95.15596
+"4bc23e99461576b077207d32","Chase Bank","Shop & Service::Bank",29.690233738877506,-95.19772209616609
+"4bc640c751b376b0e2421b6f","Chuck E. Cheese's","Arts & Entertainment::Arcade",29.650081634521484,-95.16638946533203
+"4bc77e0992b376b063d24f3a","United States Post Office","Professional & Other Places::Post Office",29.66556574255191,-95.14748540566153
+"4bc922feb6c49c747f058e91","Patients Hospital","Professional & Other Places::Medical Center::Hospital",29.64139,-95.16184028333333
+"4bc9fcacfb84c9b675151c3e","Sellers Bros.","Shop & Service::Food & Drink Shop::Grocery Store",29.676427245140076,-95.19253671169281
+"4bca361a511f95218354afc7","Hobby Lobby","Shop & Service::Hobby Shop",29.680938720703125,-95.147818
+"4bcb257fb6c49c740f8b9191","Shell Gas Station","Shop & Service::Gas Station / Garage",29.64965754,-95.17172148333333
+"4bcb5e083740b71344596265","Ahloo Chinese Cafe","Food::Asian Restaurant",29.66560585,-95.175048
+"4bce7b13cc8cd13abe89c4cf","Speed","Shop & Service::Gas Station / Garage",29.65063849,-95.17891234
+"4bcf1d6db6c49c749e2b9891","University of Houston - Clear Lake","College & University::University",29.58211598341754,-95.09920120239258
+"4bcf7cd8a8b3a5937a55625f","Kelleys","Food::American Restaurant",29.663911819458008,-95.13043975830078
+"4bcfae4c77b29c74d9a88982","Dairy Queen","Food::Fast Food Restaurant",29.7014844351567,-95.1841501461273
+"4bd0af8f462cb71379dfd807","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",29.663266788747517,-95.13336052588446
+"4bd23d649854d13ad455fb4d","Clear Lake Park","Outdoors & Recreation::Park",29.565372718482855,-95.06722667208294
+"4bd4c96629eb9c74f46192e1","Academy Sports & Outdoors","Shop & Service::Sporting Goods Shop",29.640194781066164,-95.15737746113417
+"4bd6a89f29eb9c74116695e1","Crenshaw Park","Outdoors & Recreation::Park",29.637654799831285,-95.18359490629261
+"4bd9b98f2e6f0f475cac0b08","Chase Bank","Shop & Service::Bank",29.64912217515747,-95.1632126986472
+"4bd9fa773904a593d282449e","Kfc","Food::Fried Chicken Joint",29.65013885498047,-95.1594009399414
+"4bd9ff75c79cc92855fa7ce9","Pepboys","Shop & Service::Automotive Shop",29.65040380775491,-95.16016770930321
+"4bdb751263c5c9b669222868","Golden Corral","Food::American Restaurant",29.665687680244446,-95.18281102180481
+"4bdc9ae1c79cc9289d5387e9","James Avery","Shop & Service::Jewelry Store",29.645275,-95.155587
+"4bdca446afe8c9b6f95c5085","Verizon Wireless","Professional & Other Places::Building",29.650332550879313,-95.15509139287796
+"4be04be598f2a593daa6c15a","Quizno's","Food::Sandwich Place",29.69065284729004,-95.20983123779297
+"4be226fcf07b0f47faeef443","McDonald's","Food::Burger Joint",29.71109131363971,-95.20087100647856
+"4be2fa61b02ec9b60a354ec0","Grand Prize BBQ","Food::BBQ Joint",29.71202850341797,-95.17107391357422
+"4be38cc0f07b0f47be7ef843","Sonic","Food::Fast Food Restaurant",29.64937400817871,-95.16527557373047
+"4be433d52468c9284569fe42","Valero","Shop & Service::Gas Station / Garage",29.65829319,-95.18657462
+"4be4ccb62468c9286d5dff42","Timeout Sports Bar #3","Nightlife Spot::Sports Bar",29.64932616666667,-95.17586410045624
+"4be56006910020a11fdcd214","Waffle House","Food::Café",29.649446603440794,-95.16673144320563
+"4be5ceead4f7c9b6dbf52520","Tropical Chill","Food::Snack Place",29.66468048095703,-95.11940002441406
+"4be5f75ed4f7c9b65f372620","CVS","Shop & Service::Drugstore / Pharmacy",29.65155016366946,-95.18317720650336
+"4be9f20e6295c9b6a7e58508","AT&T","Shop & Service::Video Game Store",29.64806761529784,-95.15480118590045
+"4beaa69562c0c928d60ce1d4","Pasadena Municipal Court","Professional & Other Places::Government Building::Courthouse",29.71320894805659,-95.20095253397687
+"4beadc9a61aca593d3438400","Whataburger Fairmont","Food::Fast Food Restaurant",29.649654388427734,-95.15758514404297
+"4beafc37415e20a170bbe5bb","Subway","Food::Sandwich Place",29.691110610961914,-95.20222473144531
+"4bec312961aca593d6ee8500","CVS","Shop & Service::Drugstore / Pharmacy",29.66463223,-95.19219757
+"4beca1a6d5510f4702cfcc6c","Red Lobster","Food::Seafood Restaurant",29.6647571,-95.183456
+"4bef1bc4f2712d7fd252fbd8","Moody Health Center at Texas Chiropractic College","College & University::Medical School",29.664170162837117,-95.1497864401175
+"4bef7a99c80dc928250c28e3","Rockin Rodeo","Nightlife Spot::Bar",29.663645178175734,-95.18698246301409
+"4bf1ec01189f0f478edeb762","Petco","Shop & Service::Pet Store",29.664776484730385,-95.18741547352629
+"4bf35af5370e76b08e62bd4a","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",29.665115172015444,-95.13473977345457
+"4bf3755398ac0f4791f162a8","Taco Cabana","Food::Mexican Restaurant",29.684743881225586,-95.1551284790039
+"4bf480ca706e20a17676a998","Wells Fargo","Professional & Other Places::Building",29.66485619544983,-95.179093
+"4bf6bed4b182c9b6196b745a","Clear Lake Park","Outdoors & Recreation::Park",29.565372718482855,-95.06722667208294
+"4bf6d76f508c0f470cf93c31","Rainbow Dental Professionals","Professional & Other Places::Medical Center::Dentist's Office",29.65207815170288,-95.19711792469025
+"4bf72352c07c9c742b95bbef","Shell Gas Station","Shop & Service::Gas Station / Garage",29.649444017315414,-95.1578051545075
+"4bf7fabc5ec320a174d387d3","Taqueria Mi Hacienda","Food::Mexican Restaurant",29.69440269470215,-95.20469665527344
+"4bf8142f508c0f47ce383e31","McDonalds","Food::Fast Food Restaurant",29.68502426147461,-95.1557388305664
+"4bf9929f4a67c928581b27cf","Casa Mariachi","Food::Mexican Restaurant",29.665318191443824,-95.15213847888424
+"4bfebd68daf9c9b6d32df9ef","Wendy's","Food::Fast Food Restaurant",29.664788638012705,-95.18202090723369
+"4c016600f7ab0f47bf0a16b6","Valero","Shop & Service::Gas Station / Garage",29.68199,-95.147145
+"4c02cad80d0e0f47c6a9019a","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",29.64518,-95.1558079670387
+"4c059811191f20a14956e314","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",29.690691104300836,-95.20087100647856
+"4c06e52bb4aa0f4767d66462","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",29.649765,-95.155731
+"4c06fd05b4aa0f4719076562","Schlotzskey's Deli","Food::Fast Food Restaurant",29.664775848388672,-95.18594360351562
+"4c080546ffb8c9b671986761","Pasadena ISD Technical Services Department","College & University::College Administrative Building",29.6822365812531,-95.1563215255737
+"4c09adf8bbc676b03ab448d5","Walmart Supercenter","Shop & Service::Miscellaneous Shop",29.69295884185723,-95.21068946085393
+"4c09c1866071a593c691de32","Mcdonalds","Food::Burger Joint",29.690323794142994,-95.22008414813114
+"4c0f8f8f7189c9280a37dab6","Tegler","College & University::College Academic Building",29.63789,-95.181057
+"4c0fd2b0b93cc9b69bc255e0","Chase Bank","Shop & Service::Bank",29.665873,-95.20743
+"4c11037e3ce120a197f3081c","Pasadena ISD Transportation Dept","College & University::College Administrative Building",29.661781311035156,-95.20094299316406
+"4c113b4e6b7e2d7fa6ed2835","Walmart","Shop & Service::Miscellaneous Shop",29.688003623647905,-95.20020859988092
+"4c124d7a77cea59302c0cc60","Kwik Kar","Shop & Service::Automotive Shop",29.649400387043734,-95.17224169532287
+"4c129826a5eb76b0fd77beb7","Dairy Queen","Food::Burger Joint",29.652771,-95.207733
+"4c12c5167f7f2d7fa4f0dd68","Casa Ole","Food::Mexican Restaurant",29.663392626325212,-95.11958007380026
+"4c12df49a5eb76b0240abfb7","Pasadena Gun Center Shooting Range","Shop & Service::Sporting Goods Shop",29.712554931640625,-95.21007537841797
+"4c12df5ba9c220a178db549d","Pasadena Gun Center","Shop & Service::Sporting Goods Shop",29.71262563333333,-95.21041788333333
+"4c14273477cea5937833d060","Cinemark Hollywood 20","Arts & Entertainment::Movie Theater::Multiplex",29.680512171714764,-95.15345692634583
+"4c169ee6cd4bc9b63fb14eeb","Auto Zone","Shop & Service::Automotive Shop",29.69156867602452,-95.17314314602253
+"4c1a0a6efe5a76b05e6c0415","Mobil gas","Shop & Service::Gas Station / Garage",29.68214,-95.193193
+"4c1a939955e4c9b686f74723","James Coney Island","Food::Fast Food Restaurant",29.665578480230483,-95.1861047744751
+"4c1bcbe03855c9b6c89fcc71","Motherhood Maternity","Shop & Service::Clothing Store::Women's Store",29.644151,-95.156595
+"4c1e3662fcf8c9b6e3dcac0b","Texas Roadhouse","Food::Steakhouse",29.6667366027832,-95.1549453735352
+"4c20e3c34d4a20a12b6f9b70","Social Security Administration Pasadena","Professional & Other Places::Government Building",29.662996190886908,-95.17998852629047
+"4c2203a913c00f47ecbd86de","Shipleys Donuts","Food::Donut Shop",29.66555028333333,-95.184309
+"4c2279ff7e85c9289a15bc21","Discount Tire","Shop & Service::Automotive Shop",29.65322,-95.20792
+"4c2388f19a67a593cf30de87","24 Hour Fitness","Shop & Service::Gym / Fitness Center",29.648022498637037,-95.15100002288818
+"4c24ccc3c11dc9b63e042624","Burke Food Mart • Valero","Shop & Service::Gas Station / Garage",29.630470292721856,-95.18076785174982
+"4c24db7b136d20a1aa81e261","The Vitamin Shoppe","Shop & Service::Drugstore / Pharmacy",29.65031164,-95.153299
+"4c2539adf3859c74891f6588","Jason's Deli","Food::Sandwich Place",29.665503,-95.185171
+"4c27a7a996ccd13ac3a38ef8","Carter's Country","Shop & Service::Miscellaneous Shop",29.6796899912202,-95.2091823161447
+"4c2a6c2ab34ad13a123ee8ce","Chevron Station","Shop & Service::Gas Station / Garage",29.665512,-95.146551
+"4c2b77412219c9284e9fa448","San Jacinto Family YMCA","Shop & Service::Gym / Fitness Center",29.68637504345335,-95.16438961029053
+"4c38a3ff0a71c9b6c5fa40c9","Pasadena Convention Center & Fairgrounds","Professional & Other Places::Convention Center",29.64841411526493,-95.1136314868927
+"4c38b9241e06d13a6041783e","Bubbles Express Wash","Professional & Other Places::Building",29.648946950300452,-95.14946062425584
+"4c38c38b3849c928f211c0b1","Nails Club","Shop & Service::Cosmetics Shop",29.650506396606936,-95.1533654468996
+"4c3b3d6f4565e21e3f5c566a","Office Depot","Shop & Service::Paper / Office Supplies Store",29.65216706029728,-95.15077917185893
+"4c3b43df1a1cd13aba0cb60d","Whataburger","Food::American Restaurant",29.66515391,-95.20601244
+"4c3c4bd1980320a10e688ae4","Skillets","Food::Diner",29.66352081298828,-95.13167572021484
+"4c3d3172b36ac9282b390586","Bayou City Wings","Food::Wings Joint",29.66365226223244,-95.18593815710253
+"4c3de8ad933b0f47c508e621","Napoli","Food::Italian Restaurant",29.64252105641488,-95.15949726104736
+"4c3e36550596c928c5f98378","Wings N More","Food::Wings Joint",29.621570587158203,-95.11367797851562
+"4c3f4603ff711b8de5a90e05","Dyanasty Cuisine","Food::Chinese Restaurant",29.69110679626465,-95.21833801269531
+"4c406f46af052d7fdcbe7b79","Citgo","Shop & Service::Gas Station / Garage",29.665857,-95.15511989593506
+"4c449985dd1f2d7fae1580f9","Burger King","Food::Fast Food Restaurant",29.650253295898438,-95.15843963623047
+"4c44d353f799e21e8461aea2","Moody Health Center","Professional & Other Places::Medical Center::Doctor's Office",29.66518211364746,-95.15498352050781
+"4c44d971f97fbe9a89c5bb30","Verizon Wireless","Professional & Other Places::Building",29.650332550879313,-95.15509139287796
+"4c487474889fc9b661751534","Taqueria Arandas","Food::Mexican Restaurant",29.665775299072266,-95.14669036865234
+"4c4c718f712ac928818e586e","Clear Lake Boat Ramp","Outdoors & Recreation::Lake",29.563607592812424,-95.06964325904846
+"4c4fbf89885c1b8d7de01838","Sam's Place","Nightlife Spot::Karaoke Bar",29.665854210568334,-95.14490957961367
+"4c5077b40ef3a59393046e7a","Bath & Body Works","Shop & Service::Cosmetics Shop",29.648877512205164,-95.15239812550392
+"4c542bd3a724e21e88f7f0f5","Denny's","Food::Breakfast Spot",29.709808349609375,-95.2199478149414
+"4c55f1b130f92d7fdb1bf3bc","Hancock Fabric","Shop & Service::Arts & Crafts Store",29.6657803925129,-95.1853676175804
+"4c5aebbbd3aee21e55dd6b55","Bay Area Dog Park","Outdoors & Recreation::Dog Run",29.596890115621154,-95.08597250010108
+"4c5c5d9a2815c928cbd9b167","Pasadena National Guard Armory","Professional & Other Places::Government Building::Monument / Landmark",29.68898754314507,-95.16891103542005
+"4c5c95677f661b8d9105491c","Tacos Del Julio","Food::Mexican Restaurant",29.664154052734375,-95.13584899902344
+"4c5c9b396147be9a72cf8f09","Glory Hole-in-One Putt Putt Palace","Outdoors & Recreation::Athletic & Sport::Golf Course",29.695673,-95.153851
+"4c5f7a7bb36eb713f04596d2","Bullritos","Food::Burrito Place",29.639574397634814,-95.1624584197998
+"4c5f82d8b36eb71300ea96d2","MurphyUSA","Professional & Other Places::Building",29.64915882,-95.16156735
+"4c6002ac3a3703bbd11ce406","Pizza Hut","Food::Pizza Place",29.664939333004074,-95.20736809484319
+"4c600a1223e303bb74d07407","Walgreens","Shop & Service::Drugstore / Pharmacy",29.66550893194755,-95.18700793412947
+"4c60120723e303bb29d87407","Walgreens","Shop & Service::Drugstore / Pharmacy",29.690543489882906,-95.21152662020332
+"4c60acd91e5cd13aca63a2ed","Village Seafood & Pizza","Food::Pizza Place",29.65067,-95.18572390079498
+"4c616d53de6920a160419864","Cici's pizza","Food::Pizza Place",29.69169044494629,-95.2114028930664
+"4c62caa8edd320a12fb8ad29","AutoZone","Shop & Service::Automotive Shop",29.650275,-95.162605
+"4c62e64eec94a5931d6c2aca","Wells Fargo","Professional & Other Places::Office::Coworking Space",29.691406461489397,-95.21090995696423
+"4c6330b24be3b713ee70e6e8","Pasadena, Texas","Travel & Transport::General Travel",29.690793991088867,-95.20885467529297
+"4c699b1c897b1b8d70a8af17","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",29.64518,-95.1558079670387
+"4c6c2e021fb2a14304befae6","McDonald's","Food::Fast Food Restaurant",29.66549661413846,-95.19409953611706
+"4c6ddc6ec5243704c59429eb","KFC","Food::Fried Chicken Joint",29.663511276245117,-95.13372039794922
+"4c707b7e1f58199cf8ff397c","Pasadena Dog Park","Outdoors & Recreation::Dog Run",29.631106936229383,-95.18194198608398
+"4c7273e0d944224b65a30c29","McDonalds","Food::American Restaurant",29.63124787156707,-95.16843233276703
+"4c73f8892db5236af2f5b879","Teague Elementary School","College & University::College Classroom",29.64032006069454,-95.180518262695
+"4c74116b2db5236a9144b979","Valero Corner Store","Shop & Service::Gas Station / Garage",29.704925873877517,-95.19026833104076
+"4c77cc9d5cd6b1f798174094","Kathy's Kolaches","Food::Breakfast Spot",29.665148354663295,-95.19257619363987
+"4c7bb872a86837046b1c174d","Fairmont Elementary","College & University::College Classroom",29.649503756786284,-95.1435860781406
+"4c7c60229efda143a6ba85e2","San Jacinto College Central Campus","College & University::Community College",29.658526478426182,-95.11379511587086
+"4c7e9485fb13a1cdaf199ea4","Subway","Food::Sandwich Place",29.651498017799963,-95.20781145258157
+"4c7fe6cfd4e23704a2cb4f88","Don picos","Food::Mexican Restaurant",29.649037910175203,-95.16833048165917
+"4c82db62d34ca143279d3080","Faith Assembly Of God","Professional & Other Places::Spiritual Center::Church",29.65720269291085,-95.18476651963132
+"4c85690647cc224ba6ffa09f","Office Max","Shop & Service::Paper / Office Supplies Store",29.64752744,-95.15379486666666
+"4c865cc9d92ea093af876d72","Sam Rayburn High School","Professional & Other Places::School::High School",29.678015361572594,-95.18311098608677
+"4c892480ed0aa1432148aff3","UHCL Bookstore","College & University::College Bookstore",29.582722579227585,-95.09800015805232
+"4c894bdb1052370414b2c7f1","UHCL Library","College & University::College Library",29.582642923669077,-95.09791369217264
+"4c8953dbda5da1cd13963be9","Snow Hut","Food::Restaurant",29.644442614368252,-95.18018717686384
+"4c8a5eaca92fa093b19e90bf","Dairy Queen","Food::American Restaurant",29.6986545036086,-95.2200892453142
+"4c8b0827106d76b0fd95f30b","IHOP","Food::Diner",29.655226051390986,-95.15727053829441
+"4c8be23a55fba09397585aab","East Harris County Activity Center","Professional & Other Places::Event Space",29.660743368401466,-95.12599153602957
+"4c9b36ce80958cfae74249d4","Pasadena Livestock Show & Rodeo Cook-Off","Professional & Other Places::Event Space",29.64639169,-95.11378065
+"4c9cba119975a14328b434cf","GNC","Shop & Service::Miscellaneous Shop",29.649099349975586,-95.1524658203125
+"4c9cc4957c096dcb3480c4d1","Duff Beer Distributors","Professional & Other Places::Building",29.68950673941878,-95.2216386795044
+"4c9e574c54c8a1cdd3d78c4b","Value Village","Shop & Service::Thrift / Vintage Store",29.692136,-95.18383971666667
+"4ca0ebec8afca0936afc1616","Texas Bay Area Credit Union","Shop & Service::Bank",29.710058156977215,-95.22565054333849
+"4ca27f72b0ff8cfa785baf5e","Gamestop","Shop & Service::Video Game Store",29.65039136767265,-95.15250503916329
+"4ca4a08eb0ff8cfa9155c15e","Lee Davis Library","College & University::College Library",29.660329818725586,-95.11577606201172
+"4ca4bf2ad5a2a143de5d5490","Casa Ole","Food::Mexican Restaurant",29.69127759572771,-95.18980622291565
+"4ca74222b7106dcbb4e865a5","First Presbyterian Church Of Pasedena","Professional & Other Places::Spiritual Center::Church",29.640683410535647,-95.1711772888972
+"4cab587b44a8224bda262d40","Joe Sams Fun Shop","Shop & Service::Gift Shop",29.69138131,-95.18917206666667
+"4cab76eaf47ea14397f78b21","Deepwater Elementary","College & University::College Classroom",29.706502124258865,-95.16194987388269
+"4cad141cf47ea1439d0a9721","Big Lots","Shop & Service::Miscellaneous Shop",29.663062854285336,-95.13363026538772
+"4cae1d822a55224bc8337469","Armand Bayou Hike And Bike Trail","Outdoors & Recreation::Hiking Trail",29.64980572107177,-95.12639863751512
+"4cb1f739cbab236a45f8ac73","IHOP","Food::American Restaurant",29.64982032775879,-95.15550994873047
+"4cb376c11168a09379664223","Sarah B Lowe Dentistry","Professional & Other Places::Building",29.650574,-95.142485
+"4cb604abb315a093b6de9876","Allen's Western Wear","Shop & Service::Clothing Store::Boutique",29.679079275159054,-95.14563751859245
+"4cb9ea03035d236a54fed64e","BBQ Chopped","Food::BBQ Joint",29.65024185180664,-95.18285369873047
+"4cbb4fc990c9a143a34c94d6","Corner Pocket","Nightlife Spot::Bar",29.66324974088429,-95.13909149416921
+"4cbf60ca020d46888f096238","Taqueria Puro Jalisco","Food::Mexican Restaurant",29.689634323120117,-95.21976470947266
+"4cc092fa873c236aa9a0b323","Gulf Coast Educators","Shop & Service::Bank",29.650522379435884,-95.1497762583435
+"4cc0d57de310224ba77a2c6f","Bizarre Bazaar","Shop & Service::Toy / Game Store",29.6637832573217,-95.1290906697619
+"4cc1e1c101fb236ac2699bba","Bayshore Medical Center","Professional & Other Places::Medical Center::Hospital",29.661731565275048,-95.18364584550118
+"4cc3143fc844721e69afe001","Starbucks (Inside B&N)","Food::Coffee Shop",29.6457211,-95.1555187
+"4cc6eee7be40a35de3f28c4c","Kelly's Country Cookin","Food::Breakfast Spot",29.6640388606598,-95.13044945675468
+"4ccb31bdee23a143cca615a8","LabCorp","Professional & Other Places::Medical Center",29.65944829249395,-95.18447616103286
+"4ccb778f72106dcb45999499","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",29.665335134055248,-95.15470954190012
+"4ccc7c55aa25a35d254c150f","DOLLAR TREE","Shop & Service::Miscellaneous Shop",29.664621023326,-95.19318756364949
+"4cce059497d0224b76ab69b8","Time Out","Arts & Entertainment::Pool Hall",29.639801025390625,-95.16116333007812
+"4cd46ad7dfb4a1cda707535c","IHOP","Food::Breakfast Spot",29.665354454873803,-95.18820508941498
+"4cd5f48da5b346886f449150","Tutti Frutti","Shop & Service::Candy Store",29.64707695985082,-95.15568708553417
+"4cd95e762a80548170aca02c","Lunar And Planetary Institute","Professional & Other Places::Office",29.590368111495767,-95.10281193853405
+"4cd9f30e3c21a143587ee958","Pasadena High School-Track","Outdoors & Recreation::Other Great Outdoors",29.71002541340973,-95.21063985037375
+"4cda1130fc9737047e2ac605","Time Out","Nightlife Spot::Sports Bar",29.649261594088472,-95.17570497380763
+"4cdd799ed4ecb1f738978548","24 Hour Fitness","Shop & Service::Gym / Fitness Center",29.648022498637037,-95.15100002288818
+"4cdd9fc6825e721e8a346545","Le Nails","Shop & Service::Cosmetics Shop",29.649339,-95.169297
+"4ce5848aca41236afebd7c4b","Valero #1417","Shop & Service::Gas Station / Garage",29.653456,-95.12471
+"4ceb433df3bda1435df1cae4","Domino's Pizza","Food::Pizza Place",29.664854601613012,-95.19581143450318
+"4cec33bd7db3224b25ea1a2e","Bayshore Medical Tower","Professional & Other Places::Medical Center::Doctor's Office",29.65929412841797,-95.18465423583984
+"4cec4e635de16ea855daaf96","Toll Booth @ Fairmont","Travel & Transport::General Travel",29.6811322523447,-95.1554477894422
+"4cf5b04a1cfea09351c1db39","Fitness Connection","Shop & Service::Gym / Fitness Center",29.66420812394276,-95.1639408724669
+"4cfe70e6ee9cb60c13cb9fad","Pasadena Town Square Mall","Shop & Service::Mall",29.695136090338046,-95.19842147827148
+"4cffc73675d3236ad10ee7f7","Ernie's","Food::American Restaurant",29.681806564331055,-95.15601348876953
+"4cffee422685a35d2e05c690","it'z","Food::American Restaurant",29.64735984802246,-95.1504898071289
+"4d08af03e554721e350cc3f8","Shell Gas Station","Shop & Service::Gas Station / Garage",29.686984518640354,-95.20768405057942
+"4d0d0900be6d6ea865c002b5","Freebirds World Burrito","Food::Burrito Place",29.648600598837962,-95.15396118164062
+"4d0d09a0903d3704477dc155","Wok D'Lite","Food::Chinese Restaurant",29.691093,-95.20179
+"4d0e801e3d45b1f79c979ff2","Which Wich Superior Sandwiches","Food::Sandwich Place",29.648656543842502,-95.15406847000122
+"4d1bd3702dd937046df345b5","Sound Fitness","Shop & Service::Gym / Fitness Center::Gym",29.6634327808748,-95.1221903671979
+"4d2a56ecebacb1f70ecd0250","Jimmy Changas","Food::Mexican Restaurant",29.661444035505014,-95.12349810330794
+"4d34a3aaf8c9224b20eac4d2","Pinnacle AIS","Professional & Other Places::Office",29.634275647880155,-95.19164896165798
+"4d41044c4acd236a8a37f6a9","The Park On Burke Apts","Residence::Residential Building (Apartment / Condo)",29.6410543155059,-95.1810734724926
+"4d4580da0349224bb018054f","The Arbors at Town Square","Residence::Residential Building (Apartment / Condo)",29.688258165799173,-95.19836409287545
+"4d59a37123e0a093dfd24649","Hobby Lobby Craft Store","Shop & Service::Arts & Crafts Store",29.68099674717743,-95.14755667523929
+"4d5c38129895b1f74ce2e20f","San Jacinto College Central","College & University::Community College",29.650432586669922,-95.12144470214844
+"4d6402ba6973a35d4709aeea","San Jacinto College Science Lab","College & University::College Lab",29.663867950439453,-95.11407470703125
+"4d65b3f5f75c37047ca9cf9a","Kroger Gas Station","Shop & Service::Gas Station / Garage",29.664410948753357,-95.135901
+"4d691379342b8cfa2672c32c","Shell Gas Station","Shop & Service::Gas Station / Garage",29.665144223436844,-95.16113007122803
+"4d6a9aacde28224bb1b851be","Los Monteros Taqueria","Food::Mexican Restaurant",29.69735336303711,-95.22002410888672
+"4d7cda475a396dcb0e997cfb","Taquerias Agave","Food::Mexican Restaurant",29.691854,-95.183403
+"4d7e4040b25d6dcb67d1b542","Kelsey-Seybold","Professional & Other Places::Medical Center::Doctor's Office",29.711467604648917,-95.16062088299216
+"4d811e55551ea1cd7d5b27c5","Bank Of America","Professional & Other Places::Building",29.650787320093997,-95.15154282348206
+"4d82a653d5fab60cf0cbbc9b","My Man Cave","Outdoors & Recreation::Playground",29.652801,-95.18435
+"4d82f5c940a7a35de7bcecbd","Pasadena, TX","Outdoors & Recreation::Other Great Outdoors",29.649972164156065,-95.15566671987004
+"4d9f78eec22f6ea8ab6620a8","Sports Zone","Nightlife Spot::Sports Bar",29.633931,-95.136261
+"4da6f235cda1480291c4a019","Miller Intermediate","Professional & Other Places::School",29.65120606290581,-95.19580124447954
+"4da768851e72d9bb472f1ee3","Krogers Fuel","Shop & Service::Gas Station / Garage",29.695818910082988,-95.1734945628809
+"4dab0faf43a1128197067ccf","Skillet","Food::Breakfast Spot",29.663219451904297,-95.1314468383789
+"4db616f34df05e5aab006487","Snowcone USA","Food::Ice Cream Shop",29.6719603,-95.22085292
+"4db6d1930cb6729b6abf8071","Frels/Henrich Science Building","College & University::College Academic Building::College Math Building",29.659471993904873,-95.11572360992432
+"4db7a7b543a1a75c1f61c47f","W.M. Newton Student Center","College & University::Student Center",29.659975443437833,-95.11467218399048
+"4db811041e7206c23cff91f4","Agrifos","Professional & Other Places::Office::Coworking Space",29.73984146118164,-95.18988037109375
+"4dbc4d76a86e0e98a1e00281","Martinez Hand Car Wash","Shop & Service::Automotive Shop",29.665302276611328,-95.16034698486328
+"4dc235d2d22dd7df9aa4abdf","Tequila Bar","Nightlife Spot::Bar",29.664662861277407,-95.13282105073112
+"4dc5e09852b1e8f9f7e0861d","Ranchito","Food::Mexican Restaurant",29.66930329799652,-95.17211281
+"4ddbf607e4cd229e7554ed2e","De Zavala Middle School","Professional & Other Places::School",29.7058192217192,-95.2102882040889
+"4ddeb104d164154218492dd3","Massage Envy","Shop & Service::Spa / Massage",29.6481024927319,-95.1531108870386
+"4de2730d45dd180ae54634df","Kroger Fuel","Shop & Service::Gas Station / Garage",29.665732,-95.150971
+"4df1467fd1649c8a28d961fd","Veteran's Memorial Stadium","Professional & Other Places::School::High School",29.669432,-95.185347
+"4df38d6314954f21cf2e8a4d","Cato","Shop & Service::Clothing Store::Women's Store",29.66257901009104,-95.13387964833528
+"4e027b4b1495525ce2c4e3a1","Crenshaw Disc Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",29.63737042087787,-95.1813383451317
+"4e07793b18a8382643b4a3d5","The War Room","Arts & Entertainment::Arcade",29.6527510014259,-95.1844252210807
+"4e0f279e1f6e9964ea29cd9c","Texaco","Shop & Service::Gas Station / Garage",29.664700750492102,-95.20270030778777
+"4e1108ed18a84f0f0310773d","1st Baptist Church Pasadena","Professional & Other Places::Spiritual Center::Church",29.64832553768857,-95.12300451842472
+"4e1f82a9d4c0d32590db5a38","Fitness Connection Cinema Room","Shop & Service::Gym / Fitness Center::Gym",29.66373267101174,-95.18519951327687
+"4e20cc75a80968cf3e3922b4","High Caliber Gun Show","::Shop & Service",29.64876745,-95.11402857
+"4e20fc3e483b041af1e8c874","los amigos","Food::Mexican Restaurant",29.652090868875113,-95.18274422825253
+"4e25f4f6483b6454e607fad3","99 Cents Store","Shop & Service::Food & Drink Shop::Grocery Store",29.648000613412982,-95.19409444125823
+"4e26c08eaeb766362536010d","Pasadena ISD Administration Building","College & University::College Administrative Building",29.677711486816406,-95.19158935546875
+"4e2af6cb7d8b7deda6cb2c52","Weaver Castle","Nightlife Spot::Nightclub",29.674907684326172,-95.1518783569336
+"4e2ee91f1495329632fee027","Walgreens","Shop & Service::Drugstore / Pharmacy",29.681255057825492,-95.22755710756022
+"4e2f205da8092ca5c37c9834","Valero Gas Station","Shop & Service::Gas Station / Garage",29.631640947951045,-95.14245094572127
+"4e31c42f2fb6ede816e338f8","Redbox","Shop & Service::Video Store",29.690219104551073,-95.22025745261114
+"4e3451bd6284ea7e10f40b5c","Ross Dress For Less","Shop & Service::Department Store",29.69001007080078,-95.19955444335938
+"4e3b1d3bae60454236464e3c","Stop Light Burke","::Travel & Transport",29.64149,-95.179832
+"4e449d7b52b18fcc799dc251","Shell Gas Station","Shop & Service::Gas Station / Garage",29.675060571272716,-95.15209265901588
+"4e4bab3dae600cc1e3194fa8","Medical Screening Clinic","Professional & Other Places::Building",29.660432883333332,-95.18533846666666
+"4e4d4d43aeb77d4a40e6c3d2","Ernies","Food::American Restaurant",29.682390213012695,-95.15596771240234
+"4e4e00c3bd4101d0d7a013a4","KFC - Kentucky Fried Chicken","Food::Fried Chicken Joint",29.6652711,-95.1946127414703
+"4e507b112271a1bdc3ee8b02","Fuel Expo","Shop & Service::Gas Station / Garage",29.65139286713716,-95.19067589379029
+"4e55ac42e4cd779e8339a305","Refresqueria Arco Iris","Food::Snack Place",29.694522857666016,-95.21134185791016
+"4e56f624e4cd44301322d012","Sandstone Apts.","Residence::Residential Building (Apartment / Condo)",29.6527297302418,-95.1838139452131
+"4e57aefcb61c5534c28451cd","Family Dollar","::Shop & Service",29.69591029924817,-95.17431963708843
+"4e57c6f5d22d61e8f33ebf9a","Dr. Kaylen Nguyen And Associates","Professional & Other Places::Medical Center::Optical Shop",29.6456757,-95.1678224
+"4e675e03b9939a72b2f59e21","Burke Road Childrens center","Professional & Other Places::School",29.676259,-95.186175
+"4e6f8206149506c77b07f14a","Spirit Halloween","Shop & Service::Miscellaneous Shop",29.664651779839705,-95.18705378216586
+"4e70eb0bd1649bf27042e0ca","Two Cities Bar & Grill","Food::American Restaurant",29.664730414839493,-95.13229175934751
+"4e71ed8fb99345fbe83bf915","State highway 225","::Travel & Transport",29.712247236000785,-95.15372692386451
+"4e74e614fa76059700c2bb44","Hair & More","Shop & Service::Salon / Barbershop",29.69153381921511,-95.19359005249036
+"4e791544d1642a6eced88fc2","VCA Animal Hospital Pasadena","Professional & Other Places::Medical Center::Veterinarian",29.64948549202022,-95.1657180631588
+"4e7a6e787d8bf4f6a242d464","Rancho Magaliaaaa ;p","Outdoors & Recreation::Farm",29.685558,-95.203045
+"4e862474722e43d56d5b31b2","Spirit Of Halloween Store","Shop & Service::Clothing Store::Accessories Store",29.66465950012207,-95.18705749511719
+"4e8c5e298b81e6788ff7af8e","Light At Beltway 8 South And Genial Red Bluff","Travel & Transport::General Travel",29.630697240575195,-95.17038281671387
+"4e90ce3e9adf26eeba2cc044","Sally Beauty Supply","Shop & Service::Cosmetics Shop",29.69210744025087,-95.2091670275216
+"4ea3067630f8b9d5ac9a67b7","The Blood Center","Professional & Other Places::Medical Center::Doctor's Office",29.637398,-95.152153
+"4ea5913561af76b39dda81bf","Oreilly Auto Parts","Shop & Service::Automotive Shop",29.69210012315104,-95.17454882649403
+"4eb01137108157d9cf596fd6","LESLIE'S SWIMMING POOL SUPPLIES","Professional & Other Places::Office",29.663816493978093,-95.13763189315796
+"4eb4877c9adf115273497e21","At The Bar","Nightlife Spot::Bar",29.665778,-95.163312
+"4ec018966d8654fb6401501f","Greatest place on earth","Nightlife Spot::Speakeasy",29.566178535098395,-95.06034135818481
+"4ec0763102d5a63a3f6c9cd2","COURT YARD D","Outdoors & Recreation::Cemetery",29.566104155800154,-95.05980022857796
+"4ec0a9be6c25dfd9820b8132","Nick's Place","Residence::Residential Building (Apartment / Condo)",29.671449000000003,-95.19996425
+"4ec974966da1d10930f0a63e","The Neighborhood Shop","Shop & Service::Convenience Store",29.681798,-95.19338271784181
+"4ecd41b4f7908e99a226df7c","Jack's Check Cashing","Shop & Service::Bank",29.6706793343322,-95.1721143729302
+"4ed08975775bbb5f3310eca2","The Cat House","Shop & Service::Bank",29.641484,-95.17983
+"4ed2e9cb02d5feaa1f42bc67","The House That Bob Built","Outdoors & Recreation::Campground",29.697836,-95.157461
+"4ed63890e5faf148a76b3cf6","Pasadena Animal Shelter","Shop & Service::Pet Store",29.64941123538567,-95.14164160509635
+"4ee02b5d0e01452f920a9d74","Christens Bed :)","Travel & Transport::Rest Area",29.674713384299757,-95.19838156796148
+"4ee0437a722e103a0228651d","The Thinking Spot","Outdoors & Recreation::Cemetery",29.674478705807,-95.198353902395
+"4eee0d732c5bafa619b40e10","Ichibon","Food::Japanese Restaurant",29.64923096592166,-95.16875316495039
+"4ef295f55c5cd8c3b2b1b193","Winter Wonderland","Arts & Entertainment::General Entertainment",29.671037673950195,-95.1583023071289
+"4efc61a2b6347e20d4765526","Bestbuy Parking Lot","Professional & Other Places::Parking",29.646955490112305,-95.1543960571289
+"4f1fa474e4b03be7a4ced695","Conoco","Shop & Service::Gas Station / Garage",29.66556004691785,-95.17200742234088
+"4f248cf8e4b01dc94bc6ea7a","La Michoacana","Shop & Service::Food & Drink Shop::Grocery Store",29.664588013662478,-95.13910676395307
+"4f344647e4b03c36f88f53e1","Da Stadium Sports Bar","Nightlife Spot::Sports Bar",29.631235570570404,-95.18072710244155
+"4f78d332e4b0b009efa13679","Sound Booth @FBC Pasadena","Professional & Other Places::Spiritual Center::Church",29.648590175347998,-95.12378306148891
+"4f7c87d1e4b032659cd23731","US Post Office - John Foster Station","Professional & Other Places::Post Office",29.688712475541077,-95.22044604926116
+"4f974ef4e4b0b0d2680ab610","Guitar Center","Shop & Service::Music Store",29.649579,-95.164042
+"4fa080d5e4b0200a4a9eec6b","murphys express gas station","Shop & Service::Gas Station / Garage",29.6903435496254,-95.2067209006594
+"4fa22997e4b09588d38d6550","Cheddars","Food::American Restaurant",29.660352268135497,-95.15527468226001
+"4fbd8703e4b0fb79ac42c70e","Pasadena Girls Softball Association","Outdoors & Recreation::Athletic & Sport::Baseball Field",29.636302884918848,-95.18317211262242
+"4fd63aaee4b0f761e9303d6c","Taco express","Food::Taco Place",29.684325545014914,-95.19097137860886
+"4fe32a97e4b0601ba379b9a4","Raising Canes","Food::American Restaurant",29.650150299072266,-95.1648178100586
+"4fef476be4b0fbda2424878a","Colonial Oaks","Professional & Other Places::Building",29.656779686580162,-95.18316192486192
+"5022be7fe4b09ef0c6951e53","Olive Garden - Pasadena","Food::Italian Restaurant",29.640411297117257,-95.15860963410833
+"50243f32e4b065daa5358419","Beltway 8 & Fairmont","Travel & Transport::General Travel",29.64978573263585,-95.15585001111033
+"5093d8e7e4b0c953eccd4923","arlens","Shop & Service::Food & Drink Shop",29.566062927246094,-95.06024932861328
+"5097f4ff4b9033ce215883a6","Voting at University Baptist Church","Professional & Other Places::Voting Booth",29.59482,-95.103965

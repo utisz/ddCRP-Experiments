@@ -1,0 +1,838 @@
+"40e0b100f964a52033081fe3","Cool River Cafe","Food::American Restaurant",32.8774881891028,-96.96237033831758
+"40e0b100f964a5205a091fe3","Spirit Grille","Food::Restaurant",32.86136,-96.958175
+"4123ed80f964a520410c1fe3","Starbucks","Food::Coffee Shop",32.89216635636877,-96.96038799166142
+"412a8500f964a5207e0c1fe3","Masala Wok","Food::Indian Restaurant",32.907643053838704,-96.96018871143607
+"47bbe699f964a520d34d1fe3","Quo Huong Pho Noodle & Grill","Food::Vietnamese Restaurant",32.90757236379805,-96.96041945701528
+"4a32dcf4f964a520a89a1fe3","Fry's Electronics","Shop & Service::Electronics Store",32.922114210036405,-96.9774878025055
+"4a392959f964a520259f1fe3","Piman Asian Bistro","Food::Asian Restaurant",32.865743,-96.948791
+"4a3bc24bf964a520baa01fe3","Terra Mediterranean Grill","Food::Mediterranean Restaurant",32.8914798648228,-96.95960283279419
+"4a3c22abf964a52026a11fe3","Our Place Indian Cuisine","Food::Indian Restaurant",32.920152,-96.95727
+"4a4a518df964a520acab1fe3","Pho Empire","Food::Vietnamese Restaurant",32.85645193333333,-96.993703
+"4a4ec22af964a52003af1fe3","Blue Fish Las Colinas","Food::Sushi Restaurant",32.89045173851911,-96.95901926332081
+"4a53a85cf964a52092b21fe3","Zale Corporation","Professional & Other Places::Office",32.88704215837814,-96.96110645432236
+"4a577734f964a52027b61fe3","Mi Cocina","Food::Mexican Restaurant",32.91282864627805,-96.95665240287781
+"4a5f5937f964a5206ebf1fe3","Italian Cafe","Food::Italian Restaurant",32.86516063783412,-96.93662166595459
+"4a69edd4f964a5203acc1fe3","Texadelphia","Food::Sandwich Place",32.90954559264639,-96.95922195911407
+"4a7a00ccf964a5202ae81fe3","DeVry University","College & University::Trade School",32.934514456992474,-97.01245307922363
+"4a7b74dcf964a52019eb1fe3","Buffalo Wild Wings","Food::Wings Joint",32.91797140185421,-96.96348667144775
+"4a7b8398f964a52043eb1fe3","The Ranch at Las Colinas","Food::American Restaurant",32.889769331197165,-96.95841619281377
+"4a7b8eaef964a52065eb1fe3","Champps Americana","Nightlife Spot::Sports Bar",32.88907893102665,-96.95814907550812
+"4a7da0b8f964a520fbee1fe3","Pure and Healthy Hair","Shop & Service::Salon / Barbershop",32.92094528675079,-96.99606478214264
+"4a80ba29f964a5200af61fe3","Wingstop","Food::Wings Joint",32.941670301943404,-96.9526427278511
+"4a81a855f964a5202df71fe3","Benihana","Food::Asian Restaurant",32.88444087931668,-96.95944403803693
+"4a82b0a3f964a52043f91fe3","Sheraton DFW Airport Hotel","Travel & Transport::Hotel",32.91334358977902,-97.00698365265846
+"4a82f844f964a520b0f91fe3","Rice1roll","Food::Indian Restaurant",32.91221237182617,-96.9566879272461
+"4a84bb3df964a52077fd1fe3","Taco Diner","Food::Mexican Restaurant",32.89180644084694,-96.96027338504791
+"4a874f0cf964a520c70320e3","Boston's Restaurant & Sports Bar","Food::Pizza Place",32.91784531334684,-96.96282684803009
+"4a89f815f964a5208b0920e3","Sweet Tomatoes","Food::Salad Place",32.91945743144265,-96.97155475616455
+"4a8b5726f964a520320c20e3","Barnes & Noble","Shop & Service::Bookstore",32.90942399572928,-96.96067571640015
+"4a8c84dcf964a520540e20e3","Chili's Grill & Bar","Food::American Restaurant",32.91814252168406,-96.96526765823364
+"4a8c9c4af964a520ad0e20e3","Hollywood Theaters MacArthur Marketplace 16","Arts & Entertainment::Movie Theater::Multiplex",32.92454576799228,-96.96646928787231
+"4a941638f964a5205a2020e3","Corner Bakery Cafe","Food::Bakery",32.90760225,-96.959428
+"4a94298af964a520952020e3","Potbelly Sandwich Shop","Food::Sandwich Place",32.912264,-96.959387
+"4a95f03bf964a5208e2520e3","Marble Slab Creamery","Food::Ice Cream Shop",32.909716,-96.959128
+"4aa44cc0f964a5204a4620e3","Starbucks","Food::Coffee Shop",32.91844873529067,-96.95925951004028
+"4aa837c0f964a5202a5020e3","The Keg Steakhouse and Bar","Food::Steakhouse",32.89007444805741,-96.95862650871277
+"4aaa8f38f964a520675620e3","Via Real","Food::Mexican Restaurant",32.861204419542354,-96.95729613304138
+"4aae8077f964a520436220e3","Corner Bakery Cafe","Food::Bakery",32.86623752774531,-96.94332182407379
+"4ab032fdf964a520696620e3","El Fenix","Food::Mexican Restaurant",32.83775095498185,-97.00223969491576
+"4ab58fccf964a520657520e3","On The Border Mexican Grill & Cantina","Food::Mexican Restaurant",32.91799098287202,-96.9644733691746
+"4ab915f6f964a520f47d20e3","Indian Cafe","Food::Indian Restaurant",32.921636896370174,-96.9951581954956
+"4abbb2a7f964a520738420e3","Irving Arts Center","Arts & Entertainment::Performing Arts Venue",32.85052721410946,-96.96050860893288
+"4ac101dbf964a520619520e3","Jimmy John's","Food::Sandwich Place",32.8660708134263,-96.94351494312286
+"4ac2380df964a520409820e3","North Lake College","College & University::Community College",32.87085559500747,-96.96826004288152
+"4ac23ad1f964a5204e9820e3","Razzoo's Cajun Cafe","Food::Cajun / Creole Restaurant",32.91834066002109,-96.96659803390503
+"4ac35b5bf964a520329b20e3","Tiena Health","Professional & Other Places::Medical Center::Doctor's Office",32.90401951965012,-96.95709228515625
+"4ac381fff964a520919b20e3","Epsilon","Professional & Other Places::Office",32.92833993036282,-97.00460113574636
+"4ac63e27f964a52057b320e3","Rice Egg Roll","Food::Chinese Restaurant",32.881709933280945,-96.96282098
+"4aca3081f964a520cdc020e3","Potbelly Sandwich Works","Food::Sandwich Place",32.83935642897107,-96.99296951293945
+"4acb7989f964a520e1c320e3","Dickey's Barbecue Pit","Food::BBQ Joint",32.882151836636965,-96.96274793492215
+"4acc7d6cf964a520efc820e3","Courtyard by Marriott","Travel & Transport::Hotel",32.838899,-97.020707
+"4accd74ef964a520bac920e3","Applebee's","Food::American Restaurant",32.834254184610046,-96.99429988861084
+"4ad139fff964a52093dd20e3","Williams Square","Outdoors & Recreation::Plaza",32.870738898323935,-96.93919949221045
+"4ad20e5ef964a52017df20e3","Delicias Brasil","Food::Brazilian Restaurant",32.838734,-96.976013
+"4ad60d84f964a520d20421e3","Taco Bell","Food::Fast Food Restaurant",32.91863786669489,-96.95799350738525
+"4ad61635f964a520000521e3","7 Salsas","Food::Mexican Restaurant",32.91925929560585,-96.95722103118896
+"4ad7436ef964a520270921e3","Omni Mandalay Hotel at Las Colinas","Travel & Transport::Hotel",32.867384,-96.938345
+"4ad778c2f964a520060b21e3","Wendy's","Food::Fast Food Restaurant",32.91120740044204,-96.95809543132782
+"4ad8bad6f964a5201b1421e3","Michael's Italian Kitchen","Food::Italian Restaurant",32.91984021663666,-96.957208
+"4ad8c2adf964a5206d1421e3","Chili's Grill & Bar","Food::American Restaurant",32.8390313360166,-96.99218090247741
+"4ad8e36cf964a520b11521e3","Sonny Bryan's Smokehouse","Food::BBQ Joint",32.861047125818565,-96.95797044859805
+"4ada01c2f964a520231d21e3","Po' Melvin's","Food::Cajun / Creole Restaurant",32.86314199724782,-96.99130654335022
+"4ada2948f964a520591f21e3","Irving Mall","Shop & Service::Mall",32.83959080064291,-96.99663877487183
+"4ada39e2f964a5203c2021e3","Staples","Shop & Service::Paper / Office Supplies Store",32.834632,-96.99701316666666
+"4adcaa60f964a520832e21e3","Neiman Marcus Direct","Professional & Other Places::Building",32.887822131108805,-96.93969011306763
+"4adcbda9f964a5204c2f21e3","The Home Depot","Shop & Service::Hardware Store",32.92290672515446,-96.9802451133728
+"4ade55f2f964a5201f7521e3","East Buffet","Food::Chinese Restaurant",32.837712,-97.00586020946503
+"4ae0abeef964a520808121e3","Jersey Mike's Subs","Food::Sandwich Place",32.899099851305664,-96.958180210206
+"4ae1f4ddf964a520238921e3","Nokia House","Professional & Other Places::Office",32.89545231551629,-96.9679191284393
+"4ae2c620f964a5206f8f21e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center::Gym",32.92115057413781,-96.97535276412964
+"4ae4a063f964a520779c21e3","The Dump","Shop & Service::Furniture / Home Store",32.92405045605011,-96.98314189910889
+"4ae4ead6f964a520699f21e3","Hoshi Hibachi & Sushi","Food::Japanese Restaurant",32.92172245278275,-96.95607304573059
+"4ae4ef6ef964a5208b9f21e3","Cavalli Wood Fired Pizza","Food::Pizza Place",32.920965758404954,-96.99600589657652
+"4ae8ee74f964a5207bb321e3","Walmart Supercenter","Shop & Service::Department Store",32.835487808035424,-97.00621221157064
+"4aef1525f964a5207ed521e3","Terremark Dallas","Professional & Other Places::Office",32.87104221217385,-96.94350375493822
+"4af24c6af964a52040e721e3","Fed Ex","Professional & Other Places::Post Office",32.91812528997489,-97.02064542323511
+"4af5d326f964a5205cfd21e3","Starbucks","Food::Coffee Shop",32.913370645893075,-96.95719958042997
+"4af61af6f964a520380122e3","Maacs Grill","Nightlife Spot::Sports Bar",32.919968,-96.95707024
+"4af61f2bf964a520720122e3","Sprint","Shop & Service::Electronics Store",32.914373,-96.96112632751465
+"4af73f20f964a5209f0722e3","San Diego Tacos","Food::Mexican Restaurant",32.94093151979662,-96.95177229477946
+"4af74d03f964a520240822e3","Toys"R"Us / Babies"R"Us","Shop & Service::Toy / Game Store",32.91171179121721,-96.9563627243042
+"4af75842f964a5209b0822e3","Pei Wei Asian Diner","Food::Asian Restaurant",32.90972123234291,-96.95772528648376
+"4af84021f964a520a40b22e3","Microsoft Corporation (LC1)","Professional & Other Places::Office",32.899623635855626,-96.9634222984314
+"4af8786cf964a5208f0d22e3","Subway","Food::Sandwich Place",32.90976176453108,-96.95740342140198
+"4af87e83f964a520c80d22e3","Bank of America","Shop & Service::Bank",32.90681630296335,-96.95812776974134
+"4af96445f964a520901122e3","Local Diner","Food::Diner",32.91943941911218,-96.99382781982422
+"4af96a54f964a520ac1122e3","The Westin Dallas/Ft Worth Airport","Travel & Transport::Hotel",32.917025733670336,-97.00857996940613
+"4afb064bf964a5206b1a22e3","Chipotle Mexican Grill","Food::Burrito Place",32.86579595940527,-96.94378316402435
+"4afda84df964a520952922e3","Hackberry Creek Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",32.90284079231168,-96.9735103480025
+"4afdb466f964a520032a22e3","National Scouting Museum","Arts & Entertainment::Museum::History Museum",32.885560747295,-96.97175860404968
+"4b003200f964a520643b22e3","Targetbase","Professional & Other Places::Office::Coworking Space",32.915144498194564,-96.99266360556656
+"4b003745f964a520943b22e3","Aloft Las Colinas","Travel & Transport::Hotel",32.865494069580826,-96.94415867328644
+"4b06cb99f964a52060f022e3","The Mosaic Cafe","Food::Bakery",32.91564907223722,-96.98298398424213
+"4b06dd5df964a520cbf122e3","Corner6labs","Professional & Other Places::Office",32.839912,-97.020539
+"4b072f0ef964a52012f922e3","PetSmart","Shop & Service::Pet Store",32.92006534544622,-96.96467757225037
+"4b084c77f964a520750823e3","Best Buy","Shop & Service::Electronics Store",32.838234140659225,-97.0031350851059
+"4b089ad8f964a5204b0f23e3","Le Peep","Food::Breakfast Spot",32.86553970184698,-96.94889889867623
+"4b0d5c8ef964a520ee4623e3","Hanaki","Food::Japanese Restaurant",32.848592529009,-96.99323550835874
+"4b140fc7f964a520a79c23e3","Wendy's-Irving","Food::Fast Food Restaurant",32.860470298907074,-96.99144636106904
+"4b14d15cf964a520c4a623e3","Dallas Marriott Las Colinas","Travel & Transport::Hotel",32.871589,-96.942643
+"4b15503ff964a52032b023e3","Texas Stadium","Arts & Entertainment::Stadium::Football Stadium",32.839829,-96.910968
+"4b16cd9bf964a520b8bd23e3","Baja Fresh","Food::Mexican Restaurant",32.909615,-96.95906010352937
+"4b16e381f964a52007bf23e3","Hilton Garden Inn Las Colinas","Travel & Transport::Hotel",32.91093905699613,-96.95507580666047
+"4b16ebe9f964a5207ebf23e3","Starbucks","Food::Coffee Shop",32.84071,-96.992998301162
+"4b1ab256f964a5209def23e3","Crystal's Pizza","Food::Pizza Place",32.83600616455078,-96.95594787597656
+"4b1ac291f964a5202df123e3","Embassy Suites Dallas - DFW International Airport South","Travel & Transport::Hotel",32.83525914399987,-97.0213173003247
+"4b1bc415f964a52037fd23e3","Target","Shop & Service::Department Store",32.83909273649002,-96.99103187345241
+"4b1cf03af964a520960a24e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",32.88705435364713,-96.96339824526011
+"4b1d1d1cf964a520f00b24e3","YPO","Professional & Other Places::Office",32.86156961922794,-96.9301829493786
+"4b1d67faf964a520191024e3","Maki Boy","Food::Sushi Restaurant",32.853763,-96.993154
+"4b1dcabdf964a5205c1524e3","IHOP","Food::Breakfast Spot",32.9171225525439,-96.96000784635544
+"4b1e9503f964a520091c24e3","la Madeleine Country French Café","Food::French Restaurant",32.8964043931677,-96.95824838287247
+"4b1fe3c4f964a520542a24e3","Target","Shop & Service::Department Store",32.91315289188227,-96.96178078651428
+"4b200e54f964a520a12c24e3","Taco Bell","Food::Fast Food Restaurant",32.850701573743756,-96.99302038837868
+"4b203d84f964a520312f24e3","Walmart Supercenter","Shop & Service::Food & Drink Shop::Grocery Store",32.92043009184395,-96.96723103523254
+"4b213af5f964a5209c3824e3","Einstein Bros Bagels","Food::Bagel Shop",32.88120054475036,-96.96276891257476
+"4b22f703f964a520395124e3","Mr. Max","Food::Japanese Restaurant",32.848265,-96.99162304401398
+"4b23e1fff964a520075c24e3","Panera Bread","Food::Sandwich Place",32.90955910340464,-96.95772528648376
+"4b2532a7f964a520cd6d24e3","Best Buy","Shop & Service::Electronics Store",32.92074530356927,-96.97225213050842
+"4b254367f964a520ec6e24e3","I Fratelli Ristorante & Wine Bar","Food::Italian Restaurant",32.911244161864936,-96.95928671374848
+"4b267116f964a520877b24e3","Jason's Deli","Food::Deli / Bodega",32.91192477091369,-96.95953318863391
+"4b2685d5f964a520d87c24e3","Rudy's Mexican Restaurant","Food::Mexican Restaurant",32.84735,-96.990852
+"4b26d19ef964a520688124e3","Spring Creek Barbeque","Food::BBQ Joint",32.83519506454468,-96.99539959430695
+"4b27a51cf964a520198824e3","AT&T NOC","Professional & Other Places::Office::Coworking Space",32.89380252071498,-96.9474989500575
+"4b27ca08f964a520f58924e3","Starbucks","Food::Coffee Shop",32.921827376130956,-96.9926793459441
+"4b291e7bf964a5201a9924e3","Las Colinas Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",32.861403724220516,-96.94734165432176
+"4b2c42e1f964a520d1c424e3","Jinbeh Japanese Restaurant","Food::Thai Restaurant",32.866464,-96.938113
+"4b2d166ef964a52008ce24e3","Firehouse Subs","Food::Sandwich Place",32.909873,-96.959208
+"4b2d8743f964a52064d824e3","Chipotle Mexican Grill","Food::Burrito Place",32.912371462832,-96.95933915513619
+"4b2d947bf964a5202cd924e3","GameStop","Shop & Service::Video Game Store",32.8392448425293,-96.99180603027344
+"4b2fb83af964a5208fee24e3","Wells Fargo","Shop & Service::Bank",32.836088,-96.95512976666667
+"4b30146cf964a520aff524e3","Texas Bar & Grill","Food::American Restaurant",32.867617,-96.939811
+"4b32761df964a520520c25e3","I Luv Pho","Food::Vietnamese Restaurant",32.921394,-96.9566684961319
+"4b356f7ff964a520202d25e3","TGI Friday's","Food::American Restaurant",32.914958,-96.96255203333334
+"4b35a13ff964a5204f2e25e3","IHOP","Food::Breakfast Spot",32.83315017072441,-96.99420093348412
+"4b368026f964a520da3625e3","Cafe Boba Tea","Food::Café",32.92149271631451,-96.9562818919991
+"4b36a740f964a520023a25e3","La Joya","Food::Mexican Restaurant",32.89714101785009,-96.95805959719976
+"4b3911b8f964a5207a5525e3","Braum's","Food::Ice Cream Shop",32.80166098714925,-96.92358907546073
+"4b3a719ff964a5206a6725e3","Chipotle Mexican Grill","Food::Mexican Restaurant",32.84430076115206,-96.99206547400064
+"4b3a916ef964a5201b6a25e3","Homewood Suites","Travel & Transport::Hotel",32.91772880769277,-97.01677176491756
+"4b3b8778f964a5203c7525e3","Citi - Regent Building","Professional & Other Places::Office",32.92700427532209,-97.00453519821167
+"4b3bfd8ef964a520e97f25e3","Starplex Cinemas Irving 10","Arts & Entertainment::Movie Theater::Multiplex",32.833500441041906,-97.00692592546274
+"4b3d22f8f964a520b98e25e3","Subway","Food::Sandwich Place",32.92163914785577,-96.99576169252396
+"4b3ea3daf964a5202ea025e3","New York Pizza, Pasta & Subs","Food::Italian Restaurant",32.941793094216045,-96.95268992033462
+"4b3f8ab4f964a520bba825e3","RaceTrac","Shop & Service::Gas Station / Garage",32.92117984360701,-96.9930848479271
+"4b3fdea2f964a520f0b025e3","SONIC Drive In","Food::American Restaurant",32.86572,-96.99318303333334
+"4b41718bf964a520b3c625e3","AAA Texas","Travel & Transport::General Travel",32.897542721331774,-96.97255253791809
+"4b4176e3f964a520e6c625e3","Country Inn & Suites By Carlson, DFW-Airport South, TX","Travel & Transport::Hotel",32.83467559997749,-97.01220030003653
+"4b428505f964a5208dd525e3","Urban Tower","Professional & Other Places::Office::Coworking Space",32.87109557606973,-96.94363482704277
+"4b435e2df964a52006df25e3","Steak 'n Shake","Food::Burger Joint",32.917455367310154,-96.96056629553212
+"4b437835f964a5201de125e3","Active Network | Faith","Professional & Other Places::Office::Coworking Space",32.8963981218584,-96.9748164329116
+"4b4476a6f964a5203af525e3","McDonald's","Food::Fast Food Restaurant",32.91372932557941,-96.95734977722168
+"4b44cbe1f964a52073fc25e3","Arby's","Food::Fast Food Restaurant",32.919158935546875,-96.969921
+"4b451fe2f964a5207f0526e3","Barnes & Noble","Shop & Service::Bookstore",32.839897285741635,-96.99567317962646
+"4b46289ff964a520871826e3","Dallas Cowboys Pro Shop Outlet - Irving Outlet","Shop & Service::Clothing Store",32.9147614457214,-97.0057136659965
+"4b463bf2f964a520ee1a26e3","Ross","Shop & Service::Clothing Store",32.911506062050165,-96.96156795272086
+"4b46998bf964a5203f2526e3","AMC Theatres 14","Arts & Entertainment::Movie Theater::Multiplex",32.84121335678466,-96.99530839920044
+"4b477036f964a520103226e3","Urban Eats","Food::New American Restaurant",32.89229102795534,-96.95999992019998
+"4b478f08f964a520813526e3","Nokia House","Professional & Other Places::Office",32.89545231551629,-96.9679191284393
+"4b48bbb1f964a520945426e3","First Baptist Church Irving","Professional & Other Places::Spiritual Center::Church",32.810055097837356,-96.94697499275208
+"4b48d7eef964a5209b5926e3","Hooters","Food::Wings Joint",32.841095678831856,-96.99288397119348
+"4b49250ef964a520b06726e3","Schlotzsky's","Food::Sandwich Place",32.908754633450684,-96.95820118640354
+"4b4a15ccf964a520227a26e3","Calvary Church","Professional & Other Places::Spiritual Center::Church",32.867548702409515,-97.00361251831055
+"4b4b5ea0f964a520079926e3","Baker Bros American Deli","Food::Deli / Bodega",32.90661941505322,-96.95811203761009
+"4b4b6251f964a520a19926e3","7-Eleven","Shop & Service::Gas Station / Garage",32.83772855533601,-96.95973246687538
+"4b4b7558f964a520849c26e3","Kwik Kar","Shop & Service::Car Wash",32.91879097277371,-96.96872234344482
+"4b4c9d71f964a520a7b726e3","Staples","Shop & Service::Paper / Office Supplies Store",32.890783299999995,-96.95926653333333
+"4b4ca086f964a5200eb826e3","McDonald's","Food::Fast Food Restaurant",32.878409079034505,-96.96257203817368
+"4b4cbc0df964a52067bc26e3","ZENse Thai","Food::Thai Restaurant",32.923618181543894,-96.95391654968262
+"4b4cdc15f964a52008c226e3","David McDavid Honda","Shop & Service::Car Dealership",32.83625511889827,-96.99997279110214
+"4b4d110af964a520c6c926e3","Chaat Cafe","Food::Indian Restaurant",32.89885504089566,-96.95819069830392
+"4b4d17e5f964a520b1ca26e3","Sonic","Food::Fast Food Restaurant",32.822013,-96.962359
+"4b4e1c11f964a52086e126e3","The Home Depot","Shop & Service::Hardware Store",32.833837,-96.990655
+"4b4e9b06f964a52082f226e3","Baylor Medical Center At Irving","Professional & Other Places::Medical Center::Hospital",32.8354071001893,-96.96026213039632
+"4b4fb5c1f964a520ff1127e3","Whataburger","Food::Burger Joint",32.83742129802704,-96.943392
+"4b4fe230f964a520961827e3","Trevi's","Food::Italian Restaurant",32.867669366870224,-96.93778926523187
+"4b51189af964a520294227e3","Exxon Shop","Shop & Service::Gas Station / Garage",32.88452242,-96.96356
+"4b5274b1f964a520197e27e3","Braum's","Food::Ice Cream Shop",32.79712958215669,-96.97706673627557
+"4b532023f964a5209e8f27e3","Irving Bible Church","Professional & Other Places::Spiritual Center::Church",32.91590242787453,-96.98254856581228
+"4b537e33f964a520b39f27e3","The Water Circle","Outdoors & Recreation::Park",32.92605757713318,-96.95430815219879
+"4b54a434f964a52051c427e3","CarMax","Shop & Service::Automotive Shop",32.839212199942395,-96.90123796463013
+"4b550cfaf964a52048d927e3","Half Price Books","Shop & Service::Bookstore",32.83960882920742,-96.99185371398926
+"4b55249ff964a520badc27e3","Ruchi Palace","Food::Indian Restaurant",32.92365646362305,-96.95457458496094
+"4b5524acf964a520bbdc27e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",32.908397170658525,-96.96078300476073
+"4b55cf30f964a5200cf127e3","Shores","Food::American Restaurant",32.865661,-96.935528
+"4b55edf1f964a52018f727e3","Edohana Sushi","Food::Sushi Restaurant",32.907487,-96.96051785
+"4b57b64ff964a520453d28e3","El Comal","Food::Mexican Restaurant",32.829071044921875,-96.9951400756836
+"4b589e53f964a520aa6128e3","Jack in the Box","Food::Fast Food Restaurant",32.88210678100586,-96.96346282958984
+"4b58bf5cf964a520ea6828e3","Denny's","Food::Breakfast Spot",32.836255453214484,-97.0052433013916
+"4b58cfa4f964a5205a6c28e3","McDonald's","Food::Burger Joint",32.921377975143955,-96.99434816837311
+"4b58eca3f964a520557328e3","Grandy's","Food::American Restaurant",32.8452748060226,-96.992897
+"4b59b37bf964a5209f9328e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",32.800014175552285,-96.976620865872
+"4b59f48bf964a5208ea328e3","Chase Bank","Shop & Service::Bank",32.886038255456555,-96.96361541748047
+"4b59f52ef964a520b6a328e3","TXU Energy","Professional & Other Places::Office",32.89879266934109,-96.96434750010205
+"4b59fab9f964a52063a528e3","Jack in the Box","Food::Fast Food Restaurant",32.92480242854442,-96.99248671531677
+"4b59ff90f964a520b7a628e3","Hunan Dynasty","Food::Chinese Restaurant",32.92054025728246,-96.95716287264712
+"4b5a06e2f964a520a0a828e3","Veranda Greek Cafe","Food::Mediterranean Restaurant",32.88405,-96.965166
+"4b5b23d9f964a520ffe528e3","Cimarron Park","Outdoors & Recreation::Park",32.93198113313951,-96.94619340684646
+"4b5b353bf964a52043eb28e3","The Salad Bowl","Food::Salad Place",32.86052322387695,-96.95816802978516
+"4b5b9331f964a520380829e3","Lowe's Home Improvement","Shop & Service::Hardware Store",32.83372435821008,-96.99600589657652
+"4b5bbbaff964a5200a1329e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",32.855220191415725,-96.99142456054688
+"4b5bd2ebf964a5204e1829e3","Jack in the Box","Food::Burger Joint",32.82821595668793,-96.97765946388245
+"4b5c6b78f964a520ff2e29e3","Joe's Coffee Shop","Food::Diner",32.81406437399689,-96.95073408243813
+"4b5dad91f964a520626629e3","Taco Cabana","Food::Mexican Restaurant",32.92455477363828,-96.99219703674316
+"4b5dc57df964a520d56a29e3","Hightower Salons","Shop & Service::Cosmetics Shop",32.916133880615234,-96.95603942871094
+"4b5df320f964a520917529e3","Pier 1 Imports","Shop & Service::Furniture / Home Store",32.913067672991566,-96.95921329587584
+"4b5df98df964a520fb7629e3","Quiznos","Food::Sandwich Place",32.88198668333333,-96.962956
+"4b5dfaa2f964a5203b7729e3","Hawthorn Suites","Travel & Transport::Hotel",32.9173698425293,-97.01734161376953
+"4b5eccfdf964a5201f9929e3","7-Eleven","Shop & Service::Gas Station / Garage",32.865530116181056,-96.99095249176025
+"4b5f14f1f964a5201da529e3","Healthcare Associates of Irving","Professional & Other Places::Medical Center::Doctor's Office",32.86502693244324,-96.96125329437108
+"4b5f386af964a5202bae29e3","Chicago's Gourmet Pizza","Food::Pizza Place",32.8658387645957,-96.94428473711014
+"4b5f43d4f964a520d3b029e3","Irving Public Library","Professional & Other Places::Library",32.93405,-96.95096611976624
+"4b5f5431f964a52052b429e3","RAPP","Professional & Other Places::Office",32.88587608316193,-96.97717666625977
+"4b5f594af964a52078b529e3","CVS","Shop & Service::Drugstore / Pharmacy",32.88539582,-96.963559
+"4b5f78f8f964a5205fbc29e3","El Pollo Regio","Food::Mexican Restaurant",32.80131149291992,-96.95938873291016
+"4b5f8513f964a5203abf29e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",32.837409,-96.977057
+"4b6052ccf964a52091df29e3","Kroger","Shop & Service::Food & Drink Shop::Grocery Store",32.82934809916264,-96.97527278193114
+"4b605bc7f964a52091e129e3","SONIC Drive In","Food::Fast Food Restaurant",32.919182743004654,-96.97029143571854
+"4b6084d4f964a52035eb29e3","Empress of China III","Food::Chinese Restaurant",32.942983434088525,-96.95272662562299
+"4b60db05f964a520ddfd29e3","Exxon On the Run","Shop & Service::Gas Station / Garage",32.92002854831955,-96.99438457573065
+"4b61e0a8f964a520a2282ae3","Olive Garden","Food::Italian Restaurant",32.83781482064962,-97.004412217375
+"4b61e327f964a5203e292ae3","Siemens","Professional & Other Places::Office",32.926819925766324,-97.0196586161246
+"4b61f062f964a5205d2c2ae3","Burger King","Food::Breakfast Spot",32.86457817020449,-96.99228059086974
+"4b6249bef964a5207f402ae3","Applebee's Neighborhood Grill","Food::American Restaurant",32.912905204375036,-96.9533908367157
+"4b638ce7f964a520bc822ae3","Sports Authority","Shop & Service::Sporting Goods Shop",32.83437,-96.996991
+"4b6393eff964a5208e842ae3","Residence Inn Dallas DFW Airport North/Irving","Travel & Transport::Hotel",32.9270488625,-97.008907
+"4b645780f964a520e9ab2ae3","AutoNation Nissan Irving","Shop & Service::Automotive Shop",32.836135,-96.927014
+"4b649917f964a520d2c02ae3","City Nails Salon","Shop & Service::Salon / Barbershop",32.907479,-96.960453
+"4b64a13ef964a520b7c32ae3","Yogurt Zone","Food::Ice Cream Shop",32.90766494406623,-96.95968526934264
+"4b65d076f964a5206b012be3","La Mexicana y el Gringo","Food::Mexican Restaurant",32.84086608886719,-96.97607421875
+"4b6627ebf964a520b6162be3","Red Lobster","Food::Seafood Restaurant",32.83825785311934,-97.01004326615906
+"4b670bb7f964a520c7362be3","The Parking Spot - DFW South","Travel & Transport::General Travel",32.833551025472566,-97.02393293380736
+"4b671a8ff964a520ca3a2be3","Urban Eatz","Food::American Restaurant",32.89050688635976,-96.96086883544922
+"4b676c30f964a520f94d2be3","Boston Market","Food::American Restaurant",32.84437942504883,-96.9928970336914
+"4b678715f964a520d8532be3","Midori Sushi","Food::Sushi Restaurant",32.86078978756833,-96.95743031553374
+"4b6855aaf964a52040722be3","SONIC Drive In","Food::Fast Food Restaurant",32.88809646858009,-96.96148404368057
+"4b687624f964a520157a2be3","Grand Buffet","Food::Asian Restaurant",32.91313938167247,-96.95464074611664
+"4b687ed9f964a5201c7c2be3","Global Knowledge Training Center","College & University::Trade School",32.86953119772946,-96.94640636444092
+"4b689baff964a520a8822be3","7-Eleven","Shop & Service::Gas Station / Garage",32.912827565457405,-96.99442863464355
+"4b68bf73f964a520a58a2be3","Discount Tire","Shop & Service::Automotive Shop",32.92265444,-96.9563090801239
+"4b699454f964a52024a82be3","Jamba Juice","Food::Juice Bar",32.89701417580553,-96.95820643045397
+"4b6b0135f964a520f6eb2be3","Sushi Tokyo","Food::Sushi Restaurant",32.89638698101044,-96.957815
+"4b6b15a4f964a520aef12be3","Townsell Elementary School","Professional & Other Places::School",32.85647289867295,-96.9872019211325
+"4b6bf81cf964a520c51d2ce3","Hilton Garden Inn DFW Airport South","Travel & Transport::Hotel",32.834477,-97.02291328333334
+"4b6c7c90f964a520043e2ce3","Subz N Stuff","Food::Sandwich Place",32.86882781982422,-96.9395751953125
+"4b6c87c8f964a52023412ce3","McDonald's","Food::Fast Food Restaurant",32.864746099319795,-96.99105978012085
+"4b6c9d5cf964a520b9462ce3","Citi-Regent Campus","Professional & Other Places::Office::Conference Room",32.92388153945227,-97.00120068768096
+"4b6ca0a6f964a5209f472ce3","7-Eleven","Shop & Service::Gas Station / Garage",32.94228061086992,-96.95268541574478
+"4b6e3a83f964a520f9b22ce3","Pro Image Salon","Shop & Service::Salon / Barbershop",32.91001512003994,-96.95913463396029
+"4b6ef4e6f964a52022d32ce3","Wash Masters Car Wash","Shop & Service::Automotive Shop",32.91672131300516,-96.95767153946144
+"4b707aabf964a520fe1c2de3","Whataburger","Food::American Restaurant",32.83604036203444,-97.02321224041818
+"4b70b3e1f964a520982a2de3","Boston Market","Food::American Restaurant",32.884563,-96.964548
+"4b70d58df964a520cc302de3","Wingate DFW North","Travel & Transport::Hotel",32.934417724609375,-97.0087890625
+"4b71a1a7f964a52059522de3","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",32.83818304538727,-96.97626
+"4b71c392f964a520095b2de3","Cafe Cipriani","Food::Italian Restaurant",32.867835998535156,-96.94007873535156
+"4b72f523f964a5201f922de3","Dr. Aubrey, allergist","Professional & Other Places::Medical Center",32.90158739779478,-96.95757508277893
+"4b73038af964a520de952de3","McDonald's","Food::Fast Food Restaurant",32.83561090541294,-97.01035022735596
+"4b7365e6f964a5209eac2de3","SpringHill Suites Dallas DFW Airport East/Las Colinas Irving","Travel & Transport::Hotel",32.89150807030572,-96.97096119657692
+"4b746a26f964a5201cdb2de3","U.S. Post Office","Professional & Other Places::Post Office",32.830605,-96.98054213
+"4b74aa3df964a52031eb2de3","Hanasho Japanese Restaurant","Food::Sushi Restaurant",32.84656409455419,-96.99166672263352
+"4b770774f964a52001762ee3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",32.8646289467798,-96.99108123779297
+"4b77208df964a52001802ee3","Souper Salad","Food::Salad Place",32.840553283691406,-96.99246215820312
+"4b772a3df964a520f8832ee3","Discount Tire","Shop & Service::Automotive Shop",32.835499623875904,-96.99621577920722
+"4b774b19f964a520898f2ee3","Sushi Awaji","Food::Japanese Restaurant",32.91423416137695,-96.95952606201172
+"4b776a8ff964a5200e992ee3","Texaco Station","Shop & Service::Gas Station / Garage",32.85649998497994,-96.99254035949707
+"4b7886a1f964a5204ad42ee3","Drury Inn & Suites","Travel & Transport::Hotel",32.83558836869186,-97.01148211956024
+"4b796a39f964a5205cf82ee3","Money Factory","Professional & Other Places::Office",32.89411769433279,-96.93958744099812
+"4b79ae78f964a520b60a2fe3","T.J. Maxx","Shop & Service::Clothing Store",32.91131548442153,-96.96155548095703
+"4b7a0c9ef964a520b9202fe3","Los Lupes #6","Food::Mexican Restaurant",32.837608337402344,-96.9850082397461
+"4b7ac296f964a520513b2fe3","Clearfork Cafe","Food::Café",32.859153747558594,-96.93022155761719
+"4b7ae5fcf964a520a5442fe3","ComNet Communications","Professional & Other Places::Office::Coworking Space",32.92187345,-97.00615072
+"4b7af594f964a52069482fe3","Dick's Sporting Goods","Shop & Service::Sporting Goods Shop",32.921571,-96.972581
+"4b7c2a6df964a52093812fe3","IrvingISD Administration Building","College & University::College Administrative Building",32.838059,-96.98220385
+"4b7c3624f964a520c7842fe3","Panda BBQ","Food::Asian Restaurant",32.83599853515625,-97.00813293457031
+"4b7c4e8cf964a5203b8b2fe3","West Irving Station (TRE)","Travel & Transport::Train Station",32.81610091179665,-97.00715158660537
+"4b7cab63f964a52054a02fe3","PetSmart","Shop & Service::Pet Store",32.838127883333335,-97.00422546666667
+"4b7d871df964a52098c42fe3","Salsas Mexican Grill","Food::Mexican Restaurant",32.921085357666016,-96.9958267211914
+"4b7d918cf964a52036c72fe3","Best Thai","Food::Thai Restaurant",32.90751445186815,-96.96058988571167
+"4b7dc379f964a5201dd32fe3","Michaels Corporate Headquarters","Professional & Other Places::Office",32.915275095069454,-96.98912590742111
+"4b7ec63ff964a5206bfe2fe3","USPS","Professional & Other Places::Post Office",32.92359454147093,-96.95717141032219
+"4b80261ef964a520b95630e3","Taco Bell","Food::Fast Food Restaurant",32.80087630813422,-96.95791276427303
+"4b80ac14f964a520368530e3","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",32.91523626519864,-97.01042113562411
+"4b80b094f964a520638630e3","I fratellis","Food::Pizza Place",32.90887451171875,-96.95909118652344
+"4b81659ff964a5209ba330e3","PetSmart","Shop & Service::Pet Store",32.92006534544622,-96.96467757225037
+"4b8180cdf964a520c4aa30e3","Sam's Club","Shop & Service::Miscellaneous Shop",32.91999779965203,-96.96232795715332
+"4b818c85f964a5203cae30e3","Bennigan's Grill & Tavern","Food::American Restaurant",32.88450479507446,-96.95542471
+"4b81fa20f964a52039c630e3","Four Seasons Resort and Club Dallas at Las Colinas","Travel & Transport::Hotel::Resort",32.863691720888525,-96.95955991744995
+"4b82bd6bf964a5208be130e3","Metro Volkswagen","Shop & Service::Automotive Shop",32.837869,-96.97247848
+"4b83cfdef964a520a11131e3","Hampton Inn","Travel & Transport::Hotel",32.884295350398666,-96.95812776974134
+"4b841698f964a5200b2031e3","Royal Ridge Office Park","Professional & Other Places::Building",32.9130411032004,-96.99818870853373
+"4b84503ef964a520292e31e3","NEC Corporation of America","Professional & Other Places::Office",32.89795169036269,-96.97333200909904
+"4b8560caf964a520035a31e3","Shell Gas Station","Shop & Service::Gas Station / Garage",32.860488124779955,-96.99225960382726
+"4b86c897f964a520039d31e3","Whataburger","Food::Burger Joint",32.92007072640744,-97.02029374029027
+"4b87e22ff964a52013d131e3","Chevron","Shop & Service::Gas Station / Garage",32.91381038626703,-96.95806324481964
+"4b882fe2f964a520fce531e3","Subway","Food::Sandwich Place",32.883984446525574,-96.964556
+"4b883010f964a52009e631e3","BlueFish Sushi","Food::Sushi Restaurant",32.89038377583083,-96.95898255452336
+"4b897c8bf964a520023b32e3","Empa Mundo - World of Empanadas","Food::Mexican Restaurant",32.85965084423041,-96.99236453910633
+"4b899a92f964a520734532e3","TNL Superfoods","Shop & Service::Department Store",32.84917979445661,-96.99319353367343
+"4b8ad71ef964a520938432e3","Raising Cane's","Food::Fried Chicken Joint",32.91800922753365,-96.95947025878822
+"4b8c9b7ff964a52011d832e3","Courtyard by Marriott","Travel & Transport::Hotel",32.88559145658822,-96.96618835924984
+"4b8d409df964a52005f032e3","La Cima Club","Food::American Restaurant",32.870731,-96.938293
+"4b8dba2df964a520ce0a33e3","A&W / Long John Silver's","Food::Fast Food Restaurant",32.918983459472656,-96.96942138671875
+"4b8ea08df964a520dc2c33e3","Wendy's","Food::Fast Food Restaurant",32.88455843925476,-96.96307092
+"4b8f02a8f964a520504433e3","Carino's Italian","Food::Italian Restaurant",32.91298176240582,-96.95386826992035
+"4b90565cf964a520f18433e3","ULTA","Shop & Service::Salon / Barbershop",32.91240208583515,-96.96212144858868
+"4b91112ff964a520fea133e3","Wyndham DFW Airport North","Travel & Transport::Hotel",32.91843556397335,-97.00896739964695
+"4b911a69f964a520fba333e3","E-Source","Professional & Other Places::Building",32.869883,-96.974681
+"4b9121a1f964a52097a533e3","Dallas Cowboys Football Club","Arts & Entertainment::Stadium::Football Stadium",32.93981623182242,-96.9469222008654
+"4b91da31f964a520a7db33e3","Downtown Irving/Heritage Crossing Station (TRE)","Travel & Transport::Train Station",32.81487166043855,-96.94770343507628
+"4b924a27f964a52060f033e3","FlightSafety International","College & University::College Classroom",32.87538831132027,-97.01653003692627
+"4b92d216f964a520dd1e34e3","T.J. Maxx","Shop & Service::Clothing Store",32.91131548442153,-96.96155548095703
+"4b9473c7f964a520167a34e3","Marriott DFW Airport","Travel & Transport::Hotel",32.921979427011784,-97.01857450273303
+"4b951e23f964a520ed8f34e3","Taco Cabana","Food::Mexican Restaurant",32.83776958004573,-96.97693559760862
+"4b9559c2f964a520e49d34e3","U.S. Post Office","Professional & Other Places::Post Office",32.866590029363884,-96.97789553868294
+"4b95a59af964a520b4ad34e3","Red Hot and Blue","Food::BBQ Joint",32.892553249489424,-96.96029883990711
+"4b966645f964a5201eca34e3","Verizon Corporate Office","Professional & Other Places::Office",32.87869192639246,-96.95197154952669
+"4b96a14af964a520fed934e3","Cheddar's Casual Cafe","Food::American Restaurant",32.91358071412599,-96.956507563591
+"4b96b950f964a52060e034e3","Church's Chicken","Food::Fried Chicken Joint",32.8573261074588,-97.0207346565183
+"4b97a2fff964a520e70c35e3","Las Colinas Medical Center","Professional & Other Places::Medical Center::Hospital",32.90206031560908,-96.95686161518097
+"4b990d8ef964a5203b5e35e3","ScrewTop Media","Professional & Other Places::Office::Tech Startup",32.89472304919251,-96.94383144378662
+"4b993acaf964a520bb6b35e3","Waffle House","Food::Breakfast Spot",32.83646936,-96.9502741098404
+"4b994911f964a520287035e3","Rockfish Seafood Grill","Food::Seafood Restaurant",32.90755497395617,-96.95847489
+"4b9971b2f964a520ee7b35e3","Java Me Up","Food::Café",32.934202,-96.95100367069244
+"4b9c16f0f964a520d34836e3","Up In Smoke","Shop & Service::Smoke Shop",32.9061453195992,-96.95767164230347
+"4b9e7cacf964a5203ce836e3","Kimley-Horn & Associates, Inc.","Professional & Other Places::Office",32.902311,-96.979591
+"4b9e8a28f964a5202ded36e3","Cici's Pizza","Food::Pizza Place",32.85340118408203,-96.99360656738281
+"4b9e9170f964a520f2ef36e3","Victoria Park","Outdoors & Recreation::Park",32.857635560993366,-96.98498725891113
+"4b9efa02f964a520e80d37e3","Taj Chaat House","Food::Indian Restaurant",32.84496307373047,-96.958740234375
+"4b9fe04af964a520a74637e3","Kohl's","Shop & Service::Department Store",32.91848476035121,-96.96024656295776
+"4b9fef6ef964a520c94b37e3","Walgreens","Shop & Service::Drugstore / Pharmacy",32.94088950649144,-96.95263981819153
+"4ba019ebf964a5201c5a37e3","i Fratelli - Valley Ranch","Food::Pizza Place",32.93323579004394,-96.95164203643799
+"4ba1ab74f964a520eec637e3","Mandalay on the Lake","Residence::Residential Building (Apartment / Condo)",32.86315370273047,-96.92882533297356
+"4ba23f36f964a520c1e637e3","CitiCards","Professional & Other Places::Office",32.89713734268295,-96.94904565811157
+"4ba245e1f964a520c9e837e3","Starbucks","Food::Coffee Shop",32.837805,-96.97911684
+"4ba2aa48f964a520070e38e3","The Parking Spot DFW North","Professional & Other Places::Parking",32.91529648571791,-97.01223850250244
+"4ba3a91cf964a520475138e3","Chick-fil-A","Food::Fast Food Restaurant",32.84462062814328,-96.99331283569336
+"4ba3c08af964a5205d5b38e3","Jimmy John's","Food::Sandwich Place",32.921708943881,-96.99206829071045
+"4ba6a531f964a520b46539e3","Reserve Wines","Shop & Service::Food & Drink Shop::Wine Shop",32.89215087890625,-96.95932006835938
+"4ba7b20df964a52094aa39e3","Aaron Brothers Art & Framing","Shop & Service::Arts & Crafts Store",32.91047286987305,-96.961181640625
+"4ba7dcf1f964a520f7b939e3","Research In Motion","Professional & Other Places::Office",32.85841964070946,-96.92978739738464
+"4ba80c31f964a520fbc839e3","Sonic","Food::Fast Food Restaurant",32.80070114135742,-96.97509002685547
+"4ba8bbbef964a520a2ea39e3","New Horizons Computer Learning Center - Dallas","College & University::College Academic Building::College Technology Building",32.87139543693147,-96.94677539278761
+"4ba93f48f964a520d0173ae3","Cimarron Park Recreation Center","Outdoors & Recreation::Athletic & Sport::Basketball Court",32.93074293409533,-96.94697987555703
+"4ba951fdf964a520941e3ae3","Sunstone Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",32.89099337692695,-96.95927023887634
+"4ba95a2ff964a52037213ae3","Chase Bank","Shop & Service::Bank",32.91367528507977,-96.95941507816315
+"4babca6af964a520c6c93ae3","Texas Dept Of Public Safety","Professional & Other Places::Government Building",32.80918300151825,-96.958704
+"4babe63cf964a52063d33ae3","Kwik Kar","Shop & Service::Car Wash",32.91879097277371,-96.96872234344482
+"4bac1935f964a5202ee43ae3","Angelo's Spaghetti & Pizza House","Food::Italian Restaurant",32.82204192244181,-96.96299966719452
+"4bae0ba7f964a520347e3be3","Driver's Edge","Shop & Service::Automotive Shop",32.92225956916809,-96.9568133354187
+"4baf2f02f964a520b8ef3be3","University of Dallas","College & University::University",32.84687251851392,-96.91909744362164
+"4baf6694f964a5200efd3be3","Southwest Park","Outdoors & Recreation::Other Great Outdoors",32.8004576564922,-96.9851086575588
+"4baf9802f964a5202c0e3ce3","DFW Hindu Temple","Professional & Other Places::Spiritual Center::Temple",32.831279242510185,-96.94644927978516
+"4bafeb28f964a520682b3ce3","HYATT house Dallas/Las Colinas","Travel & Transport::Hotel",32.89284922381663,-96.96177005767822
+"4bb0e7adf964a520ab683ce3","Jack in the Box","Food::Burger Joint",32.84669876098633,-96.99187469482422
+"4bb28862eb3e9521472cca0a","2003 Britain","Professional & Other Places::Building",32.834552,-96.94472
+"4bb367474019a59397db37b8","Stanley Security Solutions","Professional & Other Places::Office",32.91635354,-96.987222
+"4bb385042397b713ac3938b3","Spice 'N' Rice Indian Tiffin","Food::Indian Restaurant",32.923789978027344,-96.95377349853516
+"4bb394ac14cfd13a633f16ab","I Love Pho","Food::Asian Restaurant",32.92118835449219,-96.95775604248047
+"4bb395ac4019a593f72538b8","Central Kia Of Irving","Shop & Service::Automotive Shop",32.836230356108146,-96.92532920680317
+"4bb3f3f687aa952105bbacd1","Thai Chili","Food::Thai Restaurant",32.863698,-96.935666
+"4bb50f11ef159c74eb3474f7","TELLUS International, Inc Irving, Texas office","Professional & Other Places::Office",32.864084,-96.94385
+"4bb51a8f2ea1952137fea92f","Cistercian Preparatory School","Professional & Other Places::School::High School",32.855449467202945,-96.92226304248467
+"4bb61bad6edc76b01866301c","Chevron / Tetco","Shop & Service::Automotive Shop",32.867501,-96.945272
+"4bb62b896edc76b0f080301c","Royal Chopstick","Food::Asian Restaurant",32.90769958496094,-96.96060180664062
+"4bb661c3f562ef3b91113097","North Irving Transit Center","Travel & Transport::Bus Station",32.87632541358606,-96.93368196487427
+"4bb774e97421a593be75c040","YMCA -Irving","Outdoors & Recreation::Field",32.82722682171635,-96.9752255732654
+"4bb79da33db7b7133b43209a","Twin Wells Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",32.79896085593193,-96.91743608942723
+"4bba28601261d13a844dea98","Jack E. Singley Academy","Professional & Other Places::School::High School",32.86797457243122,-96.96282135673553
+"4bba4addb35776b0a6c0ca01","Numantra","Professional & Other Places::Office::Coworking Space",32.893587948168744,-96.98760509490967
+"4bbb676a935e9521f5232990","Irving Las Colinas Chamber of Commerce","Professional & Other Places::Office",32.870549,-96.941133
+"4bbb6c63a4dcef3beae81cab","Aahar Indian Restaurant","Food::Indian Restaurant",32.912864685058594,-96.95601654052734
+"4bbb9d273de8c9b60cfd99ad","Nail Focus","Shop & Service::Cosmetics Shop",32.89169646629958,-96.95968002517442
+"4bbb9d6ee4529521dcec54a4","Blockbuster Video","Arts & Entertainment::General Entertainment",32.857391357421875,-96.99267578125
+"4bbbc453e45295213f2955a4","Campion Trail","Outdoors & Recreation::Plaza",32.879513747812446,-96.93094825902529
+"4bbbd67ce436ef3b09ee5564","Desi Dhaba Indian Bar And Grill","Food::Indian Restaurant",32.8850212097168,-96.96532440185547
+"4bbc8b91e436ef3bb4a25664","7-Eleven","Shop & Service::Gas Station / Garage",32.847859,-96.992833
+"4bbc9dde4e069c7431a29de3","Granada Market","Food::Deli / Bodega",32.86520569625152,-96.93649291992188
+"4bbcbb6f8a4fb713f6113c9d","Ackerman McQueen","Professional & Other Places::Office",32.859272,-96.933048
+"4bbcbe31f57ba593e32aadb9","Vito's Pizza and Pasta","Food::Pizza Place",32.834632873535156,-97.00885009765625
+"4bbdd3998ec3d13ac7771c28","HealthSmart","Professional & Other Places::Office",32.8711106341949,-96.9437501707109
+"4bbdf3f2a0a0c9b624361c0f","Ranchview High School","Professional & Other Places::School::High School",32.91909718413672,-96.94533348083496
+"4bbe02e907809521c645db91","Samosa Hut and Grill","Food::Indian Restaurant",32.853755950927734,-96.96029663085938
+"4bbe33dbeeca9521562b4df1","The Interactive Zone - Lounge","Nightlife Spot::Lounge",32.915636,-96.993643
+"4bbe65be85fbb7138eba7067","Sara's Deli (ex-Obee's, Lonestar Bagel & Deli)","Food::Sandwich Place",32.894307,-96.988878
+"4bbf6ca798f49521f4a3d263","MediaTech Institute","College & University::College Academic Building::College Arts Building",32.89528630826817,-96.9391627944707
+"4bbfaa0e461576b06ef57832","Humphreys Salon","Shop & Service::Salon / Barbershop",32.859721183776855,-96.958403
+"4bbfbdf72a89ef3b1c80ef88","La Margarita","Food::Mexican Restaurant",32.845747342538864,-96.99141383171082
+"4bc0c9a72a89ef3bc625f188","Las Colinas Polo Club","Outdoors & Recreation::Other Great Outdoors",32.89450172248303,-96.93224301551136
+"4bc231d2461576b0e5067d32","Irving Public Library","Professional & Other Places::Library",32.81421196724286,-96.95393800735474
+"4bc33334dce4eee1b27c719d","NYLO Dallas/Las Colinas","Travel & Transport::Hotel",32.89671394522451,-96.96312189102173
+"4bc35449dce4eee1de8c719d","Best Western","Travel & Transport::Hotel",32.83519172146441,-97.00824737548828
+"4bc368bdb492d13a0fb5a860","AT&T","Shop & Service::Mobile Phone Shop",32.918603613122336,-96.95907170449551
+"4bc38382dce4eee10ca3719d","Staybridge Suites","Travel & Transport::Hotel",32.92237538057534,-96.97484850883484
+"4bc38384dce4eee10da3719d","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",32.838761482717416,-97.0109510421753
+"4bc38a5b4cdfc9b6c17f9721","Fiesta Mart","Shop & Service::Food & Drink Shop::Grocery Store",32.8378412170705,-96.9609438817932
+"4bc4413bdce4eee13d0c729d","Residence Inn Las Colinas","Travel & Transport::Hotel",32.88453674316406,-96.96209716796875
+"4bc44140dce4eee1400c729d","Budget Suites of America-Irving","Travel & Transport::Hotel::Motel",32.88419723510742,-96.95680236816406
+"4bc44143dce4eee1420c729d","Fairfield Inn & Suites by Marriott Dallas Las Colinas","Travel & Transport::Hotel",32.884156361161786,-96.9537071887622
+"4bc4415cdce4eee1590c729d","Omni Hotels Corporate Office","Travel & Transport::General Travel",32.85946520059678,-96.938329237043
+"4bc4415fdce4eee15b0c729d","Super 8 Irving/DFW/South","Travel & Transport::Hotel::Motel",32.838488,-97.011712
+"4bc44164dce4eee15f0c729d","Comfort Inn and Suites DFW Airport South","Travel & Transport::Hotel",32.83547,-97.02323
+"4bc44173dce4eee1660c729d","Best Western Suites","Travel & Transport::Hotel",32.91740798950195,-97.00965881347656
+"4bc4fed26c6f9c746ddab3fc","Wan Fung T-Buffet","Food::Chinese Restaurant",32.83585739135742,-96.99730682373047
+"4bc5e877b387d13a16ebc0e8","ibm","Professional & Other Places::Office",32.91351735158672,-96.95121648209464
+"4bc5f0abf360ef3baad3da2d","Bakers Bros","Food::Sandwich Place",32.90658187866211,-96.95804595947266
+"4bc5f979bf29c9b65503f92a","TPC Four Seasons Las Colinas","Outdoors & Recreation::Athletic & Sport::Golf Course",32.866102218575165,-96.95703177358972
+"4bc602a742419521b56b031d","Firestone Auto Care","Shop & Service::Automotive Shop",32.83969581127167,-96.9938975572586
+"4bc632fedb8fa5930eef9b37","Stein Mart","Shop & Service::Clothing Store::Women's Store",32.91015357472675,-96.95656657218933
+"4bc64d4f424195219bf6031d","Whataburger","Food::Burger Joint",32.846062820006374,-96.99288368225098
+"4bc747596501c9b680183e29","SONIC Drive In","Food::Burger Joint",32.830436,-96.99425
+"4bc74c5415a7ef3bb91d79da","Sprint Office Building","Professional & Other Places::Office",32.8532037977354,-96.931577287329
+"4bc74d7614d795213b1b67e9","Joan of Arc","Food::Café",32.86067199707031,-96.9574203491211
+"4bc793d36501c9b6abb53e29","The Malt Shop","Food::Ice Cream Shop",32.91569137573242,-96.9936294555664
+"4bc7aceb2f94d13aa771127f","Bombay Sizzler Pub & Grill","Food::Indian Restaurant",32.8385009765625,-96.95179748535156
+"4bc895766501c9b6ec674029","Whataburger","Food::Burger Joint",32.917025733670336,-96.95951700210571
+"4bc8a7ac14d79521108a69e9","The Deathstar","Professional & Other Places::Office",32.837075921899945,-97.02808894228188
+"4bc8ad16c1c6eee1e7d4fd92","Wyndham Las Colinas Hotel","Travel & Transport::Hotel",32.86971142237885,-96.94606304168701
+"4bc8d1dd511f95212f6cacc7","The Highlands School","Professional & Other Places::School::High School",32.848637392642814,-96.93454428536654
+"4bc8ece8b6c49c74626e8d91","McDonald's","Food::Fast Food Restaurant",32.81352592178737,-96.94889889867623
+"4bc90acb0687ef3b6148d9cc","BlueFire Grille","Food::American Restaurant",32.9172778,-97.00857
+"4bca563e937ca59352bea792","Blu Ginger Thai Cafe","Food::Thai Restaurant",32.899153,-96.958147
+"4bcb426d937ca5934528a992","Tom Thumb","Shop & Service::Food & Drink Shop::Grocery Store",32.85965432690252,-96.95844411849976
+"4bcc818f3740b713bc1a6465","Check Point Software","Professional & Other Places::Office",32.8958761527998,-96.9858455657959
+"4bcc99bc3740b7135e4f6465","Gyroasis Deli & Grill","Food::Greek Restaurant",32.92012405395508,-96.99501037597656
+"4bccc11bb6c49c74ad539491","North Texas Health Care","Professional & Other Places::Medical Center::Doctor's Office",32.912191,-96.9516797
+"4bcd0bcccc8cd13ae021c2cf","Massage Envy","Shop & Service::Salon / Barbershop",32.891121,-96.959502
+"4bcdb9fd937ca593712aad92","HMS","Professional & Other Places::Office",32.88847565454624,-96.9722777213207
+"4bce2787ef109521289b8386","Campion Trail","Outdoors & Recreation::Plaza",32.879513747812446,-96.93094825902529
+"4bce4554937ca5933353ae92","Texas Stadium's Rubble","Professional & Other Places::Event Space",32.83986122872611,-96.91091537475586
+"4bce4b6329d4b7136e67a8dc","Bank of America","Shop & Service::Bank",32.85676510920808,-96.99161950223636
+"4bcef95def10952192da8486","Time Warner Cable","Professional & Other Places::Office",32.912895620562374,-96.99240651326464
+"4bcf6731b221c9b6bef6d1d0","Gorgeous Nails","Shop & Service::Cosmetics Shop",32.830003779341354,-96.97757555677224
+"4bcf7729462cb713c2c4d607","Outta The Oven","Food::Bakery",32.918641,-96.959093
+"4bcf7bd6caff95210745cdf0","Justin S.'s Desk @ HMS","Professional & Other Places::Office::Coworking Space",32.88870956650726,-96.97256096115686
+"4bcf80670ffdce72118eb2c0","Wingate by Wyndham DFW North","Travel & Transport::Hotel",32.91828394191031,-97.00922980449928
+"4bcf80e50ffdce72828eb2c0","Comfort Suites (DFW Airport)","Travel & Transport::Hotel",32.916237774978235,-97.01215831330428
+"4bcf80e60ffdce72848eb2c0","Days Inn Irving Dallas Forth Worth Airport North","Travel & Transport::Hotel",32.91555382706775,-97.0056034616928
+"4bd049b99854d13ace61f74d","FedEx Freight","Professional & Other Places::Office",32.7803387612397,-96.993760194176
+"4bd06a4c046076b0a3df6f71","Chick-fil-A","Food::Fast Food Restaurant",32.91361223778849,-96.95811688899994
+"4bd08e7677b29c74a1fc8a82","Denny's","Food::Diner",32.91789034497722,-97.00773239135742
+"4bd0919c77b29c74ed038b82","First Choice Power","Professional & Other Places::Office",32.8653776684322,-96.939970149478
+"4bd0ccd441b9ef3b8dd8fae5","Valley Ranch Acupuncture","Professional & Other Places::Medical Center::Doctor's Office",32.921503738449054,-96.95612981915193
+"4bd0fb4e462cb7138795d907","Villas Grill","Food::Brazilian Restaurant",32.81299803796498,-96.94635594294238
+"4bd1aaff5e0cce727ecea184","Ramada DFW Airport North Irving","Travel & Transport::Hotel",32.91807619,-97.008778
+"4bd1afa7caff9521bc11d1f0","Irving Convention Center at Las Colinas","Professional & Other Places::Convention Center",32.877767090035924,-96.94301605224608
+"4bd1d01577b29c74e7498d82","The Mustangs of Las Colinas","Arts & Entertainment::Museum::Art Museum",32.870531,-96.93864300759154
+"4bd2168b9854d13a87ebfa4d","Knockouts","Shop & Service::Salon / Barbershop",32.89928476666667,-96.971456
+"4bd2fa35462cb7136c3bdd07","Scott LeMaster Salon","Shop & Service::Salon / Barbershop",32.86644929953644,-96.94360613822937
+"4bd34af841b9ef3bbbcbffe5","Fallas","Shop & Service::Miscellaneous Shop",32.83538791488578,-96.99707105782338
+"4bd3a067b221c9b6bf49dad0","Walgreens","Shop & Service::Drugstore / Pharmacy",32.851392547763254,-96.99159326869697
+"4bd482ab637ba5939dcef470","Burlington Coat Factory","Shop & Service::Clothing Store",32.840275807644886,-96.99569107388098
+"4bd49b0b29eb9c7460f691e1","Trinity View Softball Complex","Outdoors & Recreation::Other Great Outdoors",32.812883254141,-96.9121692982481
+"4bd5e6bb29eb9c74912994e1","Rochelle Park","Professional & Other Places::Office",32.84871847842173,-96.93453904320239
+"4bd721635631c9b6c906a730","Bath & Body Works","Shop & Service::Cosmetics Shop",32.909099,-96.960529
+"4bd7915d35aad13ad7498ff3","FedEx World Service Center","Professional & Other Places::Post Office",32.918052458657,-97.0043635368347
+"4bd82e18e914a593aa9252fa","RightNow Technologies Dallas Field Office","Professional & Other Places::Office",32.86109653060912,-96.93001521146937
+"4bd8346fe914a593e6a152fa","Epsilon","Professional & Other Places::Office",32.92833993036282,-97.00460113574636
+"4bd83b980b779c7431a006a0","Irving Tax Office","Professional & Other Places::Government Building",32.8195,-96.948486
+"4bd86e2135aad13a99d990f3","Bluestar Mart","Shop & Service::Gas Station / Garage",32.9200248179759,-97.02047824859619
+"4bd875bdf645c9b656fca7e0","Heena Salon","Shop & Service::Salon / Barbershop",32.844775915145874,-96.958539
+"4bd8f2082e6f0f4710530908","La Quinta Inn & Suites DFW Airport South / Irving","Travel & Transport::Hotel",32.837684,-97.00747
+"4bd98e5b2e6f0f4787f80a08","Glow Salon & Med Spa","Shop & Service::Salon / Barbershop",32.89659683493188,-96.95818662643433
+"4bd9cc7f2e6f0f47bc080c08","Rice N Roll","Food::Chinese Restaurant",32.912452,-96.95686161518097
+"4bdb2ac83904a5931414499e","Texas Frightmare Weekend","Arts & Entertainment::General Entertainment",32.913291931152344,-97.0069351196289
+"4bdcda923904a5931f0f509e","Outback Steakhouse","Food::Steakhouse",32.834931,-96.994892
+"4bddab84e75c0f47d41ec503","San Diego Taco Shop","Food::Mexican Restaurant",32.830318,-96.976709
+"4bddc09f587b2d7fabee5409","Pappas Bar-B-Q","Food::BBQ Joint",32.836917877197266,-96.90106964111328
+"4bdecbbe0ee3a59371d731b0","Texas Dept of Public Safety - Driver License Office","Professional & Other Places::Government Building",32.80918300151825,-96.95849685
+"4bdedd80e75c0f47f80ac903","Definition 6: Dallas","Professional & Other Places::Office",32.871471,-96.943885
+"4bdf06946198c9b6ceb315ff","Dallas Sound Lab","College & University::University",32.89382217655512,-96.93984031677246
+"4bdf5ddfe75c0f47b4efca03","Macy's","Shop & Service::Department Store",32.83964488632546,-96.99820518493652
+"4be058d4cb81c9b6bd84658b","Capital One Bank","Shop & Service::Bank",32.91936875,-96.958061
+"4be05ab2cb81c9b6f68c658b","GM Regional Office","Professional & Other Places::Building",32.856939,-96.933122
+"4be05d30652b0f47292d7211","Towne Lake Park","Outdoors & Recreation::Park",32.82127918817449,-97.00953944356439
+"4be1a21858102d7fef1a4256","Dona Lencha","Food::Mexican Restaurant",32.85397439765881,-96.99261638445647
+"4be1d118a145c92895ac4e80","Irving Coppell Surgical Hospital","Professional & Other Places::Medical Center::Hospital",32.9121572294124,-96.95207642068863
+"4be428a25254d13a7c6560e1","Las Colinas Tower II","Professional & Other Places::Office",32.866753180711115,-96.94028994868373
+"4be4d1b9bcef2d7ff52c03e5","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",32.912865,-96.959503
+"4be621aa2468c928c71a0143","Popeyes Louisiana Kitchen","Food::Fried Chicken Joint",32.917494065843364,-96.96119606494904
+"4be76407bcef2d7f154206e5","Whataburger","Food::Burger Joint",32.810508728027344,-96.9208984375
+"4be81896d837c9b631dea406","Bankston Nissan of Irving","Shop & Service::Automotive Shop",32.836135,-96.927014
+"4be9a4fe415e20a16115e4bb","Bank of the West","Professional & Other Places::Building",32.82764434814453,-96.97682189941406
+"4be9cc4061aca593f3fe8200","Buena Vista Animal Clinic","Professional & Other Places::Medical Center::Doctor's Office",32.865825,-96.97804256666667
+"4beac743a9900f47f3e51640","DG FastChannel","Professional & Other Places::Office",32.88701128299156,-96.95829391479492
+"4beaf98ea9900f47e0331740","Westway Ford","Shop & Service::Automotive Shop",32.84035552106859,-96.95384923041075
+"4beafb1c62c0c928248ae1d4","Toyota of Irving","Shop & Service::Car Dealership",32.83805610566733,-96.97038263082504
+"4bec07c96295c9b6495d8808","Glory House Catering Receptions Bistro","Food::American Restaurant",32.8133430480957,-96.94631958007812
+"4bec3e2f75b2c9b60935438d","Grennan Chiro","Professional & Other Places::Medical Center::Doctor's Office",32.90795656096556,-96.96019919985396
+"4bec438cb68520a1dedc1187","Firestone Complete Auto Care","Professional & Other Places::Building",32.90913576533273,-96.95814907550812
+"4bec6d86fd60a59303fc3af1","MacArthur High School","Professional & Other Places::School::High School",32.85371777143558,-96.95777117568953
+"4bed4b999868a5938e245d46","Kroger Fuel Center","Shop & Service::Gas Station / Garage",32.908063900312605,-96.95934534072876
+"4bed852e3372c9284bc01114","Subway's","Food::Sandwich Place",32.8843879699707,-96.96466064453125
+"4bedf20a767dc9b66bc3d3e9","7-Eleven","Shop & Service::Gas Station / Garage",32.844667,-96.950926
+"4beed2912c082d7f5bec3042","Mama's Daughter's Diner","Food::American Restaurant",32.79970932006836,-96.97307586669922
+"4befdf86f831c928dd5901f2","Park Inn DFW Airport South, TX","Travel & Transport::Hotel",32.83498579668982,-97.0191127291503
+"4bf09ff8b315c9b66f4193ff","Betcha Bingo","Arts & Entertainment::Casino",32.82694736,-96.9771122932406
+"4bf0a0cb24f020a10c5b684f","Wang Fung T Buffet","Food::Asian Restaurant",32.83680725097656,-96.98934173583984
+"4bf0d1293a15d13a15fc3e9f","Valero","Shop & Service::Gas Station / Garage",32.91724759,-97.00754615
+"4bf14062b315c9b6d6c493ff","Branded News","Professional & Other Places::Office",32.859265,-96.93303
+"4bf1522517f6a593772c232d","Capitalone Bank","Professional & Other Places::Building",32.86721146634152,-96.94596795421711
+"4bf2977155c7c9b67d406204","Williams Square - Starbucks","Food::Coffee Shop",32.87067413330078,-96.93744659423828
+"4bf2b3df9319a5934a3bcb51","Hollywood Nails","Shop & Service::Salon / Barbershop",32.86606136,-96.94445059
+"4bf2bb7d82002d7fece1d0bb","HP Byron Nelson Championship","Outdoors & Recreation::Athletic & Sport::Golf Course",32.86717415007278,-96.95777117568953
+"4bf2c68177b4c928e3a66a1c","Irving Chiropractic & Wellness","Shop & Service::Spa / Massage",32.888200524357565,-96.9609546661377
+"4bf2c8946a31d13a4de4932e","Saltgrass Steak House","Food::Steakhouse",32.91326998028081,-96.9552630186081
+"4bf52efaff90c9b641055628","Jack in the Box","Food::Fast Food Restaurant",32.835719092040534,-97.01078851078513
+"4bf5548ccad2c928b2e39c99","Allstate Insurance Campus","Professional & Other Places::Office",32.92913971024518,-97.0124732144457
+"4bf59bfb9abec9b6a04b24e8","NTB - National Tire & Battery","Shop & Service::Automotive Shop",32.919173,-96.97071971666666
+"4bf6bed35efe2d7fedac6734","Jason's Deli","Food::Deli / Bodega",32.91192477091369,-96.95953318863391
+"4bf6c96a13aed13adc31eaf7","Cadillac Ranch","Food::Steakhouse",32.88972091674805,-96.95841217041016
+"4bf6cdec13aed13af03aeaf7","Centrada","Professional & Other Places::Office",32.890411376953125,-96.97405242919922
+"4bf71a41b182c9b60c28755a","Valero","Shop & Service::Gas Station / Garage",32.883671,-96.96457028388977
+"4bf7f090b182c9b6f77a765a","City Of Irving Dog Park","Outdoors & Recreation::Dog Run",32.86261930603594,-97.01809644699097
+"4bf82d3c8d30d13a9d490018","Hawaiian Nail Bar","Shop & Service::Cosmetics Shop",32.90917007699052,-96.96055056281821
+"4bf85fa74a67c928ba5125cf","Las Colinas Beverages","Shop & Service::Food & Drink Shop::Liquor Store",32.85988892,-96.95841
+"4bf9c729508c0f4765a83f31","India Bazaar","Shop & Service::Food & Drink Shop::Grocery Store",32.92318590492591,-96.9538950920105
+"4bf9ccaeb182c9b69a93795a","Danal's Mexican Restaurant","Food::Mexican Restaurant",32.819611,-96.948826
+"4bfc52f1da7120a1e2e349fd","Sogeti","Professional & Other Places::Office",32.870959883333335,-96.94300424285714
+"4bfc6216b5cd2d7f008431fb","Nimitz High School","Professional & Other Places::School::High School",32.79297233040087,-96.94583687746228
+"4bfcb653ee20ef3b04363c5e","Appliance Warehouse of America, Inc.","Professional & Other Places::Office",32.912174,-96.988033
+"4bfd5c93f61dc9b61de99ede","Kasbah Grill","Food::Moroccan Restaurant",32.846502,-97.009115
+"4bfd60fbe529c928aad5ba8c","Microsoft Corporation (LC2)","Professional & Other Places::Office",32.90040131437812,-96.96250144800439
+"4bfd6e6183bbd13a540063c5","Shannan Collins office","Professional & Other Places::Office::Conference Room",32.9005,-96.963678
+"4bfeaaab369476b0aba58c1f","Bangkok Orchid","Food::Thai Restaurant",32.83791732788086,-96.9902572631836
+"4bfeb50205672d7fd8900a04","Camden Corporate DROC","Professional & Other Places::Office",32.856717109680176,-96.93309724330902
+"4bfebf2aca1920a1fac5eb81","EmployBridge","Professional & Other Places::Office",32.87099100685597,-96.94305896759033
+"4bfff35a92a6c928c35c43e2","Facebook Rehab","Professional & Other Places::Office",32.895020557025184,-96.94584212052747
+"4bfff5dc369476b04b988e1f","Southern Recipe","Food::Southern / Soul Food Restaurant",32.882269,-96.976364
+"4c05084958dad13a2b604897","M.C. Lively Elementary","College & University::General College & University",32.8297341289304,-96.9692909718463
+"4c0537f673a8c9b6692197e0","Pro Quicklube","Shop & Service::Gas Station / Garage",32.82006,-96.94964515712823
+"4c054f1f9a7920a13774d279","Mi-T-Fine Car Wash","Shop & Service::Car Wash",32.850406130851226,-96.99327223623024
+"4c0682d8b481d13a0d5419f0","Public Storage - Self Storage","Shop & Service::Storage Facility",32.82673645019531,-96.99310302734375
+"4c07aa8c0ed3c92820d6797d","Irving PD Jail","Professional & Other Places::Government Building::Police Station",32.817087,-96.951554
+"4c07f354340720a1015c8293","Studios at Las Colinas","Arts & Entertainment::General Entertainment",32.8941171123782,-96.93952453022837
+"4c0800437e3fc9280ba0ef82","Knightsbridge Apartments","Professional & Other Places::Building",32.88311984709764,-96.9619455447251
+"4c081482b235ef3bf35c8937","Mosaic Sales Solutions","Professional & Other Places::Office",32.88983021755059,-96.9835610492396
+"4c0912c3340720a1e0168493","Walgreens","Shop & Service::Drugstore / Pharmacy",32.881291952964425,-96.96340873418914
+"4c0940e3ed25952185ed1256","Bar 19 at Four Seasons Resort and Club Dallas at Las Colinas","Nightlife Spot::Bar",32.86343938914865,-96.95855140686035
+"4c0bdfa37e3fc928b3eaf582","Furr's Restaurant","Food::American Restaurant",32.83979034423828,-96.99366760253906
+"4c0d088b98102d7f8084e106","Frank Para Autoplex","Shop & Service::Automotive Shop",32.836327,-96.934644
+"4c0d3bdfc700c9b64e19a2dd","Make A Wish foundation","Professional & Other Places::Building",32.89865852796316,-96.93794129568147
+"4c0d4b002466a593165c7721","U.S. Post Office","Professional & Other Places::Post Office",32.866590029363884,-96.97789553868294
+"4c0d53aab1b676b0636be086","Ross","Shop & Service::Clothing Store",32.838373,-97.001223
+"4c0e7e64d64c0f475f47285d","Panda Cafe","Food::Asian Restaurant",32.83836364746094,-96.98064422607422
+"4c0eb835c6cf76b04c2f8151","Gold Dragon","Food::Chinese Restaurant",32.822274,-96.965685
+"4c0ec1e12466a593f7947921","Las Colinas Pharmacy","Shop & Service::Drugstore / Pharmacy",32.86582656578665,-96.94896181841487
+"4c0fd138b93cc9b6fbbf55e0","Nail Studio Of LasColinas","Shop & Service::Cosmetics Shop",32.899010181427,-96.9582349061966
+"4c0feb97f1b6a59348107b27","Valero","Shop & Service::Gas Station / Garage",32.8288652,-96.99424865
+"4c100b96ce57c928d43d81d2","ESPN Radio","Professional & Other Places::Office",32.86246778374346,-96.93541449041417
+"4c1054363ce120a10f04081c","Element Dallas Fort Worth Airport North","Travel & Transport::Hotel::Motel",32.922092242797696,-96.9951663727231
+"4c10f13c81e976b02ae60feb","EMSI","Professional & Other Places::Office",32.918827056884766,-96.98542022705078
+"4c112e01ce57c928af1283d2","FedEx Office Print & Ship Center","Professional & Other Places::Post Office",32.837918,-96.98879
+"4c112f233ce120a12c4b091c","Burger King","Food::Burger Joint",32.837493896484375,-96.97725677490234
+"4c1263b3b7b9c9283caaa737","Advanced Dental Care","Professional & Other Places::Medical Center::Dentist's Office",32.9072,-96.962665
+"4c13c51ba9c220a1f452569d","Sears","Shop & Service::Department Store",32.84179941655625,-96.99455772460225
+"4c16252d82a3c9b615c9fff8","Irving Police Academy","College & University::College Administrative Building",32.844581604003906,-97.01045989990234
+"4c1685b4cd4bc9b6dd8a4eeb","Smoothie King","Food::Juice Bar",32.9117055349316,-96.95941257314917
+"4c16b91974fb20a140915012","Starbucks","Food::Coffee Shop",32.91084671020508,-96.9617919921875
+"4c16bac05e88c928ad9b2466","Golds Gym","Shop & Service::Gym / Fitness Center::Gym",32.941020767772976,-96.95102247311196
+"4c17952530d30f4759b536a9","At&t","Shop & Service::Electronics Store",32.90995788574219,-96.9591293334961
+"4c17b2c46a21c9b68ae5c797","Vitamin Shoppe # 191","Shop & Service::Drugstore / Pharmacy",32.919457,-96.971547
+"4c17bb232cddb713cd08831e","Big 12 Conference","Professional & Other Places::Office",32.86048344959114,-96.93760871887207
+"4c17c8744ff90f47c36f0d49","Eddhana Sushi To Go","Food::Sushi Restaurant",32.89936447143555,-96.97122955322266
+"4c18f07a4ff90f47771e0f49","Las Colinas Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",32.861403724220516,-96.94734165432176
+"4c1901744ff90f47a33e0f49","Café on the Green at Four Seasons Dallas at Las Colinas","Food::Café",32.86315155029297,-96.95906829833984
+"4c1a5c83624b9c74e6691204","CitiGroup","Professional & Other Places::Office",32.89835347306351,-96.94915294647217
+"4c1a9e79b306c928cde560b7","Citi Health and Fitness Center","Shop & Service::Gym / Fitness Center::Gym",32.92248345091768,-96.99979305267334
+"4c1b7d0a63750f47c0e8b467","Woodhaven Presbyterian Church","College & University::College Administrative Building",32.85253219071322,-96.94951761205306
+"4c1b8afab4e62d7fe581d993","Irving Healthcare Foundation","Professional & Other Places::Medical Center",32.834123,-96.961161
+"4c1cced7b4e62d7fed92db93","Mustang Park & Recreation Center","Outdoors & Recreation::Playground",32.917361862896705,-96.97865615765299
+"4c1cfb1cb306c9287eb864b7","St Lukes Catholic Church","Professional & Other Places::Spiritual Center::Church",32.813355880090356,-96.95975344356746
+"4c1e2458b306c928888b66b7","Ashley's Restaurant","Food::Breakfast Spot",32.914024353027344,-97.00691223144531
+"4c1e9d8b920076b09ca9c3e9","Texas - The Greatest State","Arts & Entertainment::Arcade",32.907615661621094,-96.99447631835938
+"4c1f8d8263750f47ce48bb67","Parker Chiropractic Clinic","Professional & Other Places::Medical Center::Doctor's Office",32.85779620854131,-96.99241700680838
+"4c1ffbae8b3aa59304569e5f","Zushi wok and Grill","Food::Japanese Restaurant",32.92107009887695,-96.9964370727539
+"4c20d06bebe52d7ff6273178","EyeMasters","Shop & Service::Miscellaneous Shop",32.912867886552746,-96.95914512221026
+"4c21074e132f0f477ea3a796","City of Irving, TX","Outdoors & Recreation::Other Great Outdoors",32.813833258341354,-96.9499146938324
+"4c211e9799282d7fb41965b0","Monarch Dental","Professional & Other Places::Medical Center::Dentist's Office",32.84020233154297,-96.99217987060547
+"4c212a2b11de20a1b7e782ce","Siemens Enterprise Communications","Professional & Other Places::Office",32.886195737413686,-96.98104823034265
+"4c21664011de20a1a45a83ce","Italian Crust Pizza","Food::Pizza Place",32.866006,-96.97604588333333
+"4c2241fd7e85c928bab8bb21","7-Eleven","Shop & Service::Convenience Store",32.808876,-96.925166
+"4c23ab38905a0f4773845e60","21st Century Dental","Shop & Service::Miscellaneous Shop",32.8705522651859,-96.9603040841246
+"4c24e05ea852c92841d6e36c","Cato","Shop & Service::Clothing Store::Women's Store",32.83886786666667,-96.9902154
+"4c26397f5c5ca5935fb945fe","El Chico","Food::Mexican Restaurant",32.83763885498047,-96.97520446777344
+"4c263b54c11dc9b6a68d2824","Freeman Mazda","Shop & Service::Automotive Shop",32.83563220778206,-96.92048630511721
+"4c26551e136d20a1be29e561","Dillard's","Shop & Service::Department Store",32.838274705544165,-96.99932098388672
+"4c2663e15c5ca593b61746fe","Meadowwood Apartments","Residence::Residential Building (Apartment / Condo)",32.832108630328,-97.0110368728638
+"4c27ef359fb5d13a87e99857","AT&T Irving Training Campus","Professional & Other Places::Office",32.89298747039279,-96.94491410450166
+"4c2bfa7e2219c928468ba548","Blockbuster Video","Arts & Entertainment::General Entertainment",32.91297912597656,-96.9580307006836
+"4c3084c23ffc9521c4d28ff5","Starbucks","Food::Coffee Shop",32.860145568847656,-96.95906066894531
+"4c31f11e452620a1923f210f","7-Eleven","Shop & Service::Gas Station / Garage",32.85111464403547,-96.97632187211359
+"4c324db83ffc9521114690f5","Cottonwood Valley Park","Outdoors & Recreation::Playground",32.856458,-96.972474
+"4c333ffd213c2d7f0398365d","ATX Group","Professional & Other Places::Office",32.91160639799847,-96.9889961998955
+"4c34d39da0ced13a9cd6186e","Texas Chiropractic Connection","Professional & Other Places::Medical Center::Doctor's Office",32.900598,-96.95701
+"4c361dfcae2da59384a0fcc5","Franklin American Mortgage Company","Professional & Other Places::Office",32.870504,-96.938109
+"4c36a80e2c8020a1e6cc8700","Hunter Valley","Professional & Other Places::Building",32.92282968526272,-96.97057306282703
+"4c38f64718e72d7f296419f5","Macy's","Shop & Service::Department Store",32.83964488632546,-96.99820518493652
+"4c3902382c8020a162f58b00","Dillard's","Shop & Service::Department Store",32.838274705544165,-96.99932098388672
+"4c3b089962f1c92832d38e53","Fiesta Mart","Shop & Service::Food & Drink Shop::Grocery Store",32.81247169633896,-96.93522691726685
+"4c3b49eb17689c74ce7aaa08","Taco Bueno #3097","Food::Mexican Restaurant",32.847145080566406,-96.99297332763672
+"4c3b4c5db2289521d144f70c","Lincoln Las Colinas","Professional & Other Places::Building",32.879370927533955,-96.93960428237915
+"4c3b66bae927b713f8665eb2","Taco Bueno","Food::Mexican Restaurant",32.91627369509247,-96.95675432682037
+"4c3d0b0a7d00d13aa1cd3950","Sam Houston Trails Park","Outdoors & Recreation::Other Great Outdoors",32.915269826983476,-96.9404786833712
+"4c3dee2e0596c928d6908378","On The Border Mexican Grill & Cantina","Food::Mexican Restaurant",32.839864,-96.993105
+"4c3f5834ff711b8db4c70e05","McDonald's","Food::Fast Food Restaurant",32.86715219802673,-96.94602012634277
+"4c3f66ecd691c9b688ae890a","Firestone Complete Auto Care","Professional & Other Places::Building",32.90913576533273,-96.95814907550812
+"4c406696da3dc928a23cc7b9","Cisco Systems Irving Office","Professional & Other Places::Office",32.90738296508789,-96.95671844482422
+"4c40d74fd7fad13a08a006da","AT&T","Shop & Service::Electronics Store",32.84368053666578,-96.99288397119348
+"4c44576c2d3ec9b6f9b02eae","Freedom Park Airport Valet","Travel & Transport::General Travel",32.912864685058594,-97.00821685791016
+"4c449a01dd1f2d7f5a1680f9","Lincoln Electric","Professional & Other Places::Office::Conference Room",32.92449306,-97.00724789
+"4c44bd5ef0bdd13a3e00cacc","Komart","Food::Korean Restaurant",32.82783126831055,-96.99549865722656
+"4c4603069be820a1ab837893","Dr. Luann Hassan","Professional & Other Places::Medical Center::Doctor's Office",32.86700108047911,-96.96120085145895
+"4c4704afe8f876b046115e02","YOUR Community Credit Union","Shop & Service::Bank",32.92000095051465,-96.99302563519912
+"4c471a695438b7135e44b67b","Canal Side Lofts Fitness Center","Shop & Service::Gym / Fitness Center",32.8634393891487,-96.9363641738892
+"4c4746fe417b20a19e11dda9","Masons Cafe","Food::American Restaurant",32.871280670166016,-96.94261932373047
+"4c47ac1776d72d7f29193e4d","iFratelli Ristorante","Food::Italian Restaurant",32.910865783691406,-96.95906829833984
+"4c493ad7b5eec9b6eaa777a4","Chevron Techron","Shop & Service::Gas Station / Garage",32.83377831,-97.008807
+"4c4b4ae8f7cc1b8d797eb03f","El Ranchero Meat Market","Food::Mexican Restaurant",32.83463319,-96.9760769605637
+"4c4b9d7e9c8d2d7fe6742d6b","[off the grid]","Professional & Other Places::Building",32.78799609138032,-96.9642162322998
+"4c4c6e5a42b4d13a41c41680","Las Colinas Urgent Care","Professional & Other Places::Medical Center::Doctor's Office",32.90805077667553,-96.96028835147337
+"4c4cc8c3f96ac9b6b6fda098","Hot N Spicy","Food::Asian Restaurant",32.83665466308594,-96.95186614990234
+"4c4e396b1b8e1b8d0e9ed326","Kroger Fuel Center","Shop & Service::Gas Station / Garage",32.908063900312605,-96.95934534072876
+"4c504ca23a6f2d7f43835577","Aviall Services","Professional & Other Places::Office",32.94051133841111,-97.02438354492188
+"4c522cbb9426c928694ef674","Parkridge Place Apartments","Residence::Residential Building (Apartment / Condo)",32.904667775567376,-96.96230740576063
+"4c52dfc7250dd13ad1f25c7f","Verizon","Professional & Other Places::Office",32.9146213305924,-96.9946521696327
+"4c530ac8fee5952189cb22f2","Beverly Hills Nail Spa","Shop & Service::Salon / Barbershop",32.86056516666667,-96.95730925
+"4c535d2f30f92d7f839ea4b8","Pizza Hut","Food::Pizza Place",32.885231018066406,-96.96739196777344
+"4c5495aa06901b8d39e3084c","Shell Gas Station","Shop & Service::Gas Station / Garage",32.83622419926509,-96.92958014326379
+"4c54a45c06901b8dedfd1d4c","Aspen Creek","Food::Restaurant",32.83662033081055,-97.00411987304688
+"4c55d88f1d21ef3b46adba3f","Cottonwood Valley Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",32.8651010875,-96.96126022
+"4c55dbd5b0d895214084982b","LifeSynch","Professional & Other Places::Office",32.90054132977966,-96.97760178473929
+"4c58d0176407d13a5ee5b028","Mega Tan","Shop & Service::Tanning Salon",32.8378826379776,-96.9616574048996
+"4c5974acec2520a12c034f12","Cartus","Professional & Other Places::Office",32.91586452400839,-96.99556514522293
+"4c5982f304f9be9a436bef60","Firestone","Shop & Service::Automotive Shop",32.884229,-96.963847
+"4c5997b4ec2520a102634f12","McDonald's","Food::Fast Food Restaurant",32.91987991333008,-96.96756744384766
+"4c5affa1b05c1b8d21a0d9b1","United Stationers","Shop & Service::Paper / Office Supplies Store",32.82904913383143,-97.03195276297535
+"4c5b861894fd0f473967c645","Kroger Fuel Center","Shop & Service::Gas Station / Garage",32.908063900312605,-96.95934534072876
+"4c5c9ea29b28d13a0a625770","In Irving, where It's almost raining","Outdoors & Recreation::Other Great Outdoors",32.911621721646725,-96.95880889892578
+"4c5d78036ebe2d7fb2d2d22e","Irving Police Dept","Professional & Other Places::Government Building::Police Station",32.81653885260601,-96.95028314682713
+"4c61704890b2c9b6a91e3f22","Usability Sciences Corporation","Professional & Other Places::Office::Coworking Space",32.878185179999996,-96.959211
+"4c61741d3986e21ee897964f","YellowCrooks.com HQ","Professional & Other Places::Office",32.86697598852918,-96.94798132599254
+"4c62b9b179d1e21eadbbd615","Microsoft Corporation (LC2)","Professional & Other Places::Office",32.90050041746774,-96.96230216138359
+"4c62f2b6edd320a1c72bae29","Universal Technical Institute","College & University::College Academic Building::College Technology Building",32.938126789457435,-97.01234200545458
+"4c65fd9ee1da1b8d090b9ac3","7-Eleven","Shop & Service::Gas Station / Garage",32.83583875026056,-97.00910909813788
+"4c684149832bc9289cabb3a8","Taqueria Arandas","Food::Mexican Restaurant",32.83664321899414,-96.9595718383789
+"4c697e168d22c928f760b745","T.J. Maxx","Shop & Service::Clothing Store",32.91131548442153,-96.96155548095703
+"4c6ac5543bad2d7fe342b3ee","J.O. Davis Elementary","College & University::College Classroom",32.81863876834773,-96.99964220746041
+"4c6ad81f23971b8d68f4988a","MacArthur Blvd Baptist Church","Professional & Other Places::Spiritual Center::Church",32.91942849388636,-96.95544811760264
+"4c6bd6106d390f4778880b9a","Southern Donuts","Food::Donut Shop",32.865787506103516,-96.99077606201172
+"4c6c2c771fb2a143deb9fae6","Westway Ford","Shop & Service::Automotive Shop",32.84035552106859,-96.95384923041075
+"4c6c418f6af58cfaa8468617","MetLife Home Loans","Professional & Other Places::Office",32.922889709472656,-97.00389862060547
+"4c6c4a1b99b9236a4029e2c9","Sam Houston Middle School","College & University::Student Center",32.86040825613497,-96.98571197232965
+"4c6d9ce86af58cfa67fd8917","ICEFCU","Shop & Service::Bank",32.822105,-96.964497
+"4c6efbf3fa49a1cded9ea1e3","MetLife Home Loans","Professional & Other Places::Office",32.879376621466974,-96.97422370844086
+"4c706dadb5a5236ad4655052","Church Of The Incarnation","Professional & Other Places::Spiritual Center::Church",32.84619819915788,-96.9645467929113
+"4c7130e19375a093480a0937","DFW New Beginnings","Professional & Other Places::Spiritual Center::Church",32.83610842572076,-96.98644644993001
+"4c72669c4bc4236a320ecb7a","Stipes Elementary","College & University::General College & University",32.799017687099486,-96.99063312832767
+"4c72b2c37121a1cd0a3363d1","FOX Sports Net Southwest","Professional & Other Places::Office",32.89564168231334,-96.94361909837643
+"4c751af02db5236a65fabb79","ADT Security Services","Professional & Other Places::Building",32.9311376556362,-97.0128124952316
+"4c77cf6b59a3236a9ad3c218","Mosaic TAD","Professional & Other Places::Office",32.889703386633755,-96.98386007581446
+"4c77ecd297028cfa74f5d5fe","Aspen Creek","Food::American Restaurant",32.83576411526621,-97.01213207161018
+"4c780f16a868370458f80b4d","ATW Bail Bonds","Professional & Other Places::Office",32.81705839751855,-96.9495543155718
+"4c785aef97028cfa2ba6d7fe","Irving Schools Stadium","College & University::College Stadium::College Football Field",32.80686919187593,-96.93766344719471
+"4c793a0b81bca093f98dfc14","Starbucks","Food::Coffee Shop",32.91709518432617,-97.00713348388672
+"4c7bc66c3badb1f77ccb5554","Multiview","Professional & Other Places::Office",32.911957,-96.954388
+"4c7bdf17794e224b808a6c28","Microsoft Cafeteria","Food::Café",32.89969800290956,-96.96299966719452
+"4c7ed2894a03bfb7cfa3c5d4","Georgia Farrow Rec Center","Outdoors & Recreation::Other Great Outdoors",32.820635,-96.998991
+"4c7f26cb1009a093deca464e","City of Irving, TX","Outdoors & Recreation::Other Great Outdoors",32.81382424144306,-96.95005416870117
+"4c806e1d47cc224b106e739f","The Rat","Arts & Entertainment::Concert Hall",32.846315,-96.919459
+"4c8279812f1c236a48a13943","Cost +Plus","Food::Restaurant",32.8187837538966,-96.9484584621908
+"4c82901ae602b1f702a99d7a","Marino's Pizza","Food::Pizza Place",32.85983383655548,-96.99246525764465
+"4c84fc0547cc224bd09b9c9f","Gigi Endersby Hair Design","Shop & Service::Cosmetics Shop",32.91943941911218,-96.95754289627075
+"4c8534bc47cc224b1fe19e9f","Spirit Halloween","Shop & Service::Miscellaneous Shop",32.90974825380374,-96.9578218460083
+"4c85b8c32f1c236a9a885743","Silver Image limousine","Travel & Transport::General Travel",32.81890467516137,-96.94626681019489
+"4c86358651ada1cd90db3d10","Waffle House","Food::Diner",32.80936539173126,-96.92023985
+"4c86523274d7b60ccbe0a2d8","Family Legacy Office","Professional & Other Places::Office",32.921777,-97.016018
+"4c87fa68bf40a1cdfa2d09b4","The Cap Bar","Food::Café",32.84610366821289,-96.91940307617188
+"4c8937ee7223b1f7ca1f32a8","Barton Elementary, L B Barton ES","College & University::College Academic Building",32.82320579247753,-96.98528178210269
+"4c8adb4e3dc2a1cde913b132","Pappasito's Cantina","Food::Mexican Restaurant",32.90829086303711,-97.02738189697266
+"4c8d15c75e048cfaf786d2cd","Shell C-store","Shop & Service::Convenience Store",32.84781810726498,-96.99205498051276
+"4c8f8398ad70a143f13f920f","Erickson Dental","Professional & Other Places::Medical Center",32.866119384765625,-96.94383239746094
+"4c8fd209160ea0933783d1fc","Townley Elementary","Professional & Other Places::Building",32.79695107632987,-96.95811728165343
+"4c90eb9b57e5b60c5e225c1c","Medical Clinic of North Texas (MCNT)","Professional & Other Places::Medical Center",32.901221741851764,-96.9576453194265
+"4c91cfe757e5b60cf9c1631c","Westwood One Radio Network","Arts & Entertainment::General Entertainment",32.88908386230469,-96.97056579589844
+"4c937bd40341370402e068ef","Irving City Hall","Professional & Other Places::Government Building::City Hall",32.814082371596804,-96.95622945304659
+"4c9421e303413704bb7a6fef","Jack in the Box","Food::American Restaurant",32.81836700439453,-96.94914245605469
+"4c94effbf244b1f7a3b3261d","Melters","Food::American Restaurant",32.92109680175781,-96.99554443359375
+"4c9bc85446978cfacc1d887f","Advanced Dental Care of Las Colinas","Professional & Other Places::Medical Center::Dentist's Office",32.909015,-96.96269810199738
+"4ca0b4a954c8a1cdf2e5a14b","Chiropractic Center of Irving","Professional & Other Places::Medical Center::Doctor's Office",32.85284735920429,-96.95859449134505
+"4cac870a97c8a1cd8e80a1a5","Family Medical Clinics","Professional & Other Places::Medical Center::Doctor's Office",32.8014491,-96.92594863333333
+"4cae1d489cba9521013d91d9","Promenade at Valley Creek Apartments","Residence::Residential Building (Apartment / Condo)",32.85531894890973,-97.01808920320977
+"4cb3b596aef16dcbd27bca54","Las Colinas, Irving, TX","Outdoors & Recreation::Other Great Outdoors",32.891389774673264,-96.94842338562012
+"4cbabbc19552b60cc8ffdb8b","The Crossings on walnut hill","Residence::Residential Building (Apartment / Condo)",32.86691964,-96.97892618
+"4cbc644ef796ef3b89640180","Gold's Gym","Professional & Other Places::Office",32.867889,-96.94102786666667
+"4cbcab6b0180721e0dc2a561","Whataburger","Food::Fast Food Restaurant",32.837979,-96.979807
+"4cbcb15ec7228cfad06525ce","BBVA Compass-Irving","Shop & Service::Bank",32.81428906999432,-96.9472367907069
+"4cc4d31e06c2548197389947","Dr Pepper StarCenter","Arts & Entertainment::Stadium::Hockey Arena",32.94318731022499,-96.9451395535184
+"4cc5a210d43ba14379c96ef8","Oracle Irving TX","Professional & Other Places::Office",32.896231354524765,-96.96886844842246
+"4cc7642f456e9eb0e94bc33e","GameStop","Shop & Service::Video Game Store",32.81292009104631,-96.93627422238053
+"4cc9779e46b43704179848e1","Las Colinas Clock","Outdoors & Recreation::Plaza",32.86768236085414,-96.94500847841462
+"4ccc9ca3ba0a5481f1903e59","Porter's Army Navy","Shop & Service::Thrift / Vintage Store",32.813701,-96.94023
+"4cd025249d87224b8c52533b","Dr. Siegrist, DDS","Professional & Other Places::Medical Center::Dentist's Office",32.870682,-96.939478
+"4cd178bdf6378cfabe97bbd6","Science Building","College & University::College Academic Building::College Science Building",32.84561538696289,-96.91996002197266
+"4cd193f0f6378cfa8c4dbcd6","Culinary Focus","Food::Restaurant",32.920888760565205,-97.0068209670542
+"4cd2e7f6773ba143dce4bde3","Coldwell Banker Residential Brokerage Las Colinas","Professional & Other Places::Office::Coworking Space",32.9134212833398,-96.9558676254128
+"4cd3368d2561a35dd32630dd","Smashburger","Food::Burger Joint",32.89144248203044,-96.95939159656568
+"4cd9af9f7bb06dcbe9aca9b2","HomeGoods","Shop & Service::Department Store",32.9110380968501,-96.96126378295851
+"4cdc79c54006a143ce04dfb2","VIPU","Professional & Other Places::Medical Center::Hospital",32.83893925598298,-96.97285469264284
+"4cdc7b7c6ad1a09398e3f156","The Children's Courtyard","College & University::College Classroom",32.92793655395508,-97.0157699584961
+"4ce16f5070bba1cdefa071c4","Five Guys","Food::Burger Joint",32.8967632100505,-96.958180210206
+"4ce1bc5069136dcbf531ebe6","Valley Ranch KinderCare","Shop & Service::Daycare",32.92679404849073,-96.95272138200912
+"4ce546217f69b60c3a9cb312","NCH Corporation","Professional & Other Places::Office::Coworking Space",32.84264386275487,-96.92380396870243
+"4ceac0a2d99f721e643bbd73","Verizon - Texas FSC","Professional & Other Places::Office::Coworking Space",32.91450037752791,-96.99443704503774
+"4cefdb355de16ea8abc8c296","QuikTrip","Shop & Service::Convenience Store",32.83257944868108,-96.99325649571138
+"4cffecaf56692c0f7290cc50","The Shores at Las Colinas","Residence::Residential Building (Apartment / Condo)",32.86570399025034,-96.93620607248494
+"4d030a859b7f60fc073608ab","West Irving Church of God In Christ","Professional & Other Places::Spiritual Center::Church",32.822307378813576,-97.00286940422065
+"4d1f83a316cfb60c2cce5161","Wash Masters Auto Detail","Shop & Service::Automotive Shop",32.916786193847656,-96.95793914794922
+"4d260ae0b7d5236af03c0f09","Midori","Food::Sushi Restaurant",32.86089324951172,-96.95746612548828
+"4d27da75467d6ea842fac095","Los Lupes","Food::Mexican Restaurant",32.83927678686211,-96.99561236844156
+"4d3063e6e16860fc8279bf9f","The Local Edge","Arts & Entertainment::General Entertainment",32.804813385009766,-96.98114776611328
+"4d31e4e55017a09356d7439b","NorthLake Community College","College & University::Community College",32.87074506346748,-96.96814990109964
+"4d383bb8f1b06ea831e21355","Clifton Early Childhood School","College & University::General College & University",32.85867,-96.987525
+"4d39ce9f81258cfae7359f5f","Magdaleno's","Food::Mexican Restaurant",32.80080433,-96.93275869
+"4d3dc0616e0aa1cd40b3ee2c","Chick-fil-A","Food::Fast Food Restaurant",32.88248,-96.963605
+"4d3f2c68fb4c5481977fec14","The Cellar","Shop & Service::Food & Drink Shop",32.867581125798225,-96.94036334544224
+"4d431cce32d5236ae4a9bea5","Dallas County Tax Office","Professional & Other Places::Government Building",32.81953003713392,-96.94829592089943
+"4d44f7931ed56dcb903eb654","MOMIN","Professional & Other Places::Spiritual Center::Mosque",32.813568,-96.933613
+"4d5b46c9515fa143a53d3082","SpringHill Suites Dallas DFW Airport East/Las Colinas Irving","Travel & Transport::Hotel",32.89150807030572,-96.97096119657692
+"4d6435d0897659410d94f59a","Verandah Valley Ranch Apartments","Professional & Other Places::Building",32.925682067871094,-96.95671081542969
+"4d6ac6318fe6a1436602eca3","T Nails","Shop & Service::Cosmetics Shop",32.825191497802734,-97.01006317138672
+"4d707e9395acb1f7a22907b9","Valley Ranch","Outdoors & Recreation::Other Great Outdoors",32.927796746641874,-96.95189952850342
+"4d80f22f208a5481423e7e67","Las Colinas Urban Center Station (DART Rail)","Travel & Transport::Light Rail",32.86841379672712,-96.93374633789062
+"4d8243682ad9a143b4068428","Texas Fried Chicken","Food::American Restaurant",32.81105707420874,-96.93440274708101
+"4d83cfb981fdb1f77b17efbf","DoubleTree by Hilton Hotel","Travel & Transport::Hotel",32.916440314969144,-97.00670778751373
+"4d8a579e99c2a1cd36b18ed7","Star Care","Professional & Other Places::Medical Center::Doctor's Office",32.87693400625096,-96.97224100513473
+"4d8b2ccdf607a09387900d87","US Citizenship And Immigration Service Center","Professional & Other Places::Government Building",32.89792039860867,-96.97873484287472
+"4d9138a9f5388cfad0b5b03d","National Carriers - Irving TX","Professional & Other Places::Office",32.87830090268466,-97.00151553663304
+"4d96174fa2c65481bf5bb753","East Buffet Chinese & Mongolian","Food::Asian Restaurant",32.83774538554572,-97.00612824573696
+"4d9e0fc67865a093d69ef67a","Coldwell Banker Residential Brokerage","Professional & Other Places::Building",32.894392,-96.985607
+"4d9f509b83f0b1f712eb96c7","Home","Residence::Residential Building (Apartment / Condo)",32.8632072833333,-97.0102833333333
+"4dac83aecda1652a2bb9cb29","Burrito Jimmys","Food::Burrito Place",32.92097473144531,-96.99632263183594
+"4db20407bd4190bfce8ab632","AT&T","Shop & Service::Mobile Phone Shop",32.918603613122336,-96.95907170449551
+"4dbad8b50437955ec006eb79","bloomfield knoble Offices","Professional & Other Places::Office",32.894845,-96.939552
+"4dbc0f6f4b222080d386f896","Zombie Walk of Dallas 2011","Arts & Entertainment::General Entertainment",32.92567443847656,-97.03186798095703
+"4dbf16d143a147cd6eb8ee4b","Bowie Middle School","Professional & Other Places::School",32.8058934415994,-96.9413332388759
+"4dcc07352271f5e21d84158d","HTEDance Corporate Office","Professional & Other Places::Office",32.94176383,-96.96471527
+"4dd14d4f52b1f8915bdaa946","Oakview Baptist Church","Professional & Other Places::Spiritual Center::Church",32.804187493877805,-96.97640580004925
+"4dd7df278877f1150ff40e1d","Dfw Humane Society","Shop & Service::Pet Store",32.862003326416016,-97.01873016357422
+"4de15388d4c040523ebbd3ca","Village Baptist Church","Professional & Other Places::Spiritual Center::Church",32.82915571481252,-96.9442639767814
+"4de686f745dda52a060f9851","Freebirds World Burrito","Food::Burrito Place",32.909599635667035,-96.95934534072876
+"4de978f322713dd9737a0ee3","Lin's Kitchen 2","Food::Chinese Restaurant",32.8012735769345,-96.9621343415391
+"4dee6df4b0fb43a756f3e8c7","Our Children's House","Professional & Other Places::Medical Center",32.90866470336914,-96.95600891113281
+"4e04ea43e4cd5e6f8b235388","The Time Group","Professional & Other Places::Office",32.8597526550293,-96.93701934814453
+"4e05d9907d8b2a01805024ba","NTB - National Tire & Battery","Shop & Service::Automotive Shop",32.83758449997482,-96.98693435742595
+"4e07a9196284d9ee92d71839","Delante Las Colinas","Residence::Residential Building (Apartment / Condo)",32.872058647908794,-96.93429266195864
+"4e0b80ae8877cb3b2abf0b76","Kid To Kid","Shop & Service::Clothing Store::Kids Store",32.9215465206959,-96.9562508259872
+"4e0cf7dbd164fff3359d1175","Concierge Lounge DFW Marriott","Travel & Transport::Hotel",32.921671,-97.020134
+"4e0f54b962e1d5a30d0a26d9","In-N-Out Burger","Food::Burger Joint",32.89695717379906,-96.95966720581055
+"4e18a786e4cd49a7e3ebf9fd","Bible Way Baptist Church","Professional & Other Places::Spiritual Center::Church",32.85056931873625,-97.01537037528736
+"4e1934b488777e9647788b4c","E17 Luggage Pickers Upper","Travel & Transport::Airport::Airport Gate",32.9200083845612,-97.0206454232351
+"4e1e00ba62e1f8a446d39ae4","Aegis Global","Professional & Other Places::Office",32.916683,-96.984452
+"4e1e5dc962e19e27e24a00d5","Delante Gym","Shop & Service::Gym / Fitness Center::Gym",32.87180249650727,-96.93427693552763
+"4e26ee25b61ce3fb05532fdf","Mr. Akin's Classroom","Professional & Other Places::School",32.79342269897461,-96.9451904296875
+"4e26f7622271e4f3075cc246","Hogwarts: School of Witchcraft and Wizardry","Arts & Entertainment::Movie Theater::Multiplex",32.882996004206056,-96.98809380798816
+"4e2ec53cd4c058fdbeec8de8","AAA Texas Dsu 8th Floor","::Professional & Other Places",32.89732617031848,-96.97222002446622
+"4e3012e71f6ed9df902601af","Urban Tower (North Tower)","::Professional & Other Places",32.87114900305722,-96.94301616900304
+"4e30440d14953296330cc21a","Trinity View Park - Softball Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",32.81275928784102,-96.91191776059426
+"4e442cd9c65b82109467b824","Emma's Beauty & Barber Salon","Shop & Service::Salon / Barbershop",32.847532,-97.008623
+"4e491455887781a619cc2657","Lively Park Jogging Trail","Outdoors & Recreation::Park",32.823699,-96.95577800273895
+"4e4beb016284a0b024b91349","Dallas Associated Dermatologist","Professional & Other Places::Medical Center::Doctor's Office",32.90082715705872,-96.95758763538636
+"4e4c5d73bd413c4cc668cb05","Denny's","Food::Breakfast Spot",32.837963,-97.008431
+"4e4e00b0bd4101d0d7a0115e","KFC - Kentucky Fried Chicken","Food::Fried Chicken Joint",32.91869107393385,-96.95825887098127
+"4e53ece2d4c05e0079f87bca","Microsoft Company Store","Shop & Service::Miscellaneous Shop",32.899493017118,-96.9631594419479
+"4e56e3acb993bf36edfa7a78","Grands Sports Bar","Nightlife Spot::Bar",32.9131002543366,-96.9543941160273
+"4e5aaa4d227188671504254c","JJ's Backyard Oasis","Outdoors & Recreation::Garden",32.9417114257812,-96.9646453857422
+"4e5bfb901495cac4193449b7","Luber Brothers","Professional & Other Places::Building",32.8190779934652,-97.0285194111485
+"4e63a1b91f6ef7d07b366902","Lisa's Smoke And Swim Shack","Nightlife Spot::Speakeasy",32.8254440337685,-97.008689
+"4e656f4045ddda352adceab7","Tall Grass!!!","Outdoors & Recreation::Field",32.793542194469985,-96.94538597542073
+"4e6a53681f6e1e74e42ce560","Whataburger","Food::Burger Joint",32.9061164855957,-96.96267700195312
+"4e6bfccefa76fa035812c4ff","El Tesoro Peruvian Restaurant","Food::Spanish Restaurant",32.821102902219465,-96.9940067979502
+"4e6e5d2faeb7ba66da0b587e","Citi (Las Colinas Boulevard And West Royal Lane)","::Professional & Other Places",32.897212635313494,-96.94778732654994
+"4e701d0e62e14d9f136b4af1","Microsoft - LC2 Parking Garage","Professional & Other Places::Parking",32.90000197869819,-96.96172714233398
+"4e7363441495dffb8ee184a0","The Enclave","::Professional & Other Places",32.870428150235576,-96.95458813495026
+"4e7a34a1d1649ea097f9c2e5","Halloween City","Shop & Service::Miscellaneous Shop",32.83871999448032,-96.99752231358056
+"4e7a78b8091ac7701e5c4671","Library (@ North Lake College)","College & University::College Library",32.872396726262004,-96.9676923751831
+"4e95a2f9f790e89d38232005","YCCU","Shop & Service::Bank",32.923972437526814,-96.99365525667902
+"4e95ed9c2c5b42ad93eac43d","WTF Texas HQ","Professional & Other Places::Office",32.925383,-96.956839
+"4e965788b634527c675b6948","Sfuzzi","Food::Pizza Place",32.88384895089995,-96.95258504819498
+"4e9f8bbb61af1289b7c07163","Garage De FeltonJordan","Professional & Other Places::Parking",32.88092803955078,-96.95868682861328
+"4ea1d506f7909c68ddd948a4","Nimitz Spectator Gym","Shop & Service::Gym / Fitness Center::Gym",32.793333978453155,-96.945188
+"4eaab18377c850207edf9789","Pie Five Pizza Co.","Food::Pizza Place",32.89677403036844,-96.95823789476533
+"4ebab1f37ee503bc875ab4fa","Valvoline","Shop & Service::Automotive Shop",32.800754,-96.976243
+"4ec2fbd349010890cbe32f15","La Marea Mexican Seafood","Food::Seafood Restaurant",32.82835731473123,-96.9942481557273
+"4ec6ccf1d3e3e131f16d3d3d","Neiman Marcus Information Services","Professional & Other Places::Office",32.886886271735996,-96.93948258974864
+"4ec6dae4d3e3e131f17f9072","Yacht Docks","Outdoors & Recreation::Harbor / Marina",32.82221644594778,-97.00765539100551
+"4ec6dc3dbe7ba4fc6db40ae8","Voting Booth Irving","Professional & Other Places::Voting Booth",32.823549311113915,-97.00829039993702
+"4ed0a33902d5feaa1c8ab191","Whole Foods","Shop & Service::Miscellaneous Shop",32.91536414681307,-96.95789178816737
+"4ed3a908be7b9eece3c30bce","Pool Side @ Snonleigh","Outdoors & Recreation::Other Great Outdoors",32.925689881200604,-96.95512824469392
+"4ed6483677c88f53d76bbf78","Cottonwood Financial","Professional & Other Places::Office",32.8852808383501,-96.97452793803453
+"4ed80ae9f790c04542d91f73","11th Annual State Of Technology #DRC_SoT","Professional & Other Places::Fair",32.8773739238913,-96.9435299693382
+"4edc1092b8f7fcd04250bbab","Fairfield Inn & Suites South/Irving","Travel & Transport::Hotel",32.83545784047292,-97.01127659808442
+"4ee0f621f5b9120fe9c7a359","Agero","Professional & Other Places::Building",32.92369022744159,-97.01541423797607
+"4eee8175e5faa560f26e2930","Just Landed On Tarmac","Travel & Transport::Airport::Plane",32.8790977428096,-97.0298318334969
+"4efb33fbbe7bb47850f16aab","DFW Airport Denny's","Food::Breakfast Spot",32.92607498168945,-97.02538299560547
+"4f0dc48ee4b06ab9f884dcff","Irving Convention Center Station (DART Rail)","Travel & Transport::Light Rail",32.87699219185852,-96.93861722946167
+"4f1829abe4b038fa359d127a","Quik Trip","Shop & Service::Gas Station / Garage",32.87184307323297,-96.99226485058726
+"4f1c5074e4b04ae08401cbe6","Sprint store","Shop & Service::Miscellaneous Shop",32.83538448793153,-96.99698185646884
+"4f1ed6e4e4b0f213934f097f","FedEx DALRC","Professional & Other Places::Office",32.92521575409151,-97.02922286629358
+"4f2f39b7e4b047964b347d9e","Wells Fargo Lockbox","Professional & Other Places::Office",32.9182866223368,-96.98116779327393
+"4f330fe5e4b0a2c6abc6e0de","Long Light At 635 and macarthur","Travel & Transport::Rest Area",32.91626421001766,-96.95863644401082
+"4f39444de4b0b0eb8f151217","Nissan","Professional & Other Places::Factory",32.92764951780053,-97.00562970079606
+"4f4599a0e4b0f8695dab5e9d","Mc Donalds","Food::Fast Food Restaurant",32.91950341463544,-96.96351362357134
+"4f52a0dee4b03be36327ea43","Valley Ranch Canal Trail","Outdoors & Recreation::Hiking Trail",32.92637871346476,-96.95520165801095
+"4f59118fe4b003e668e8a48d","Noah's Event Center","Professional & Other Places::Event Space",32.894586,-96.979058
+"4f5e632be4b09f0f9a82329a","ULTALON COSM & FRAG #402 MACARTHUR PK","Shop & Service::Cosmetics Shop",32.91176910027504,-96.96166759484504
+"4f87b76fe4b04a075d0f62e9","Mattito's","Food::Mexican Restaurant",32.91496208548773,-96.962574869543
+"4f96a143e4b03fde9268661d","La Villita: Resident Amenity Center","Professional & Other Places::Building",32.899064767249726,-96.93808808403547
+"4fa02918e4b07d34402ea4d2","AMLI Las Colinas","Residence::Residential Building (Apartment / Condo)",32.872528497225574,-96.93599638094175
+"4fb17934e4b08f07153959ca","Fish City Grill","Food::Seafood Restaurant",32.912870491666396,-96.95641298956312
+"4fbff574e4b08acaf4140432","Tarrant County Line","Travel & Transport::General Travel",32.92817437589444,-97.03098153684093
+"4fc0d9d0e4b04422a0e6aa17","The Beauty Clinic","Shop & Service::Nail Salon",32.8598,-96.958456
+"4fe5275ae4b0899a09cf41fc","My Place Of Zen And Serenity","Residence::Residential Building (Apartment / Condo)",32.91564038919396,-96.95292588325991
+"4fe8cd8be5e8f8a0f1867aa1","Michaels","Shop & Service::Arts & Crafts Store",32.910036482206266,-96.96116924285889
+"4ff367a7e4b003534a72143d","Loop 12 Traffic Jam","Outdoors & Recreation::Other Great Outdoors",32.84073886250328,-96.91477905833464
+"500059ebe4b0e5812f281248","Andalous Mediterranean Grill","Food::Mediterranean Restaurant",32.8970963415065,-96.9579438027897
+"50045d7ee4b0f448ea653ca2","Irving, Texas","Travel & Transport::General Travel",32.92301516078069,-96.99359754112677
+"5006de28e4b002af3a2bb53f","The Beauty Clinic Medspa","Shop & Service::Spa / Massage",32.859933157679954,-96.95841094874662
+"5009721fe4b02b1cbad6357e","Sam's Club Gas","Shop & Service::Gas Station / Garage",32.918862,-96.963922
+"5014526be4b0b186e4dba33c","University of Dallas Station (DART Rail)","Travel & Transport::Light Rail",32.84880291998075,-96.91469192504883
+"502141d1e4b076c33eedf9c5","CHRISTUS Health","Professional & Other Places::Building",32.878034730158724,-96.96028835147337
+"502310cde4b0f454b887521d","DART Route 501","Travel & Transport::Bus Station::Bus Line",32.87132330123072,-96.93377369172313
+"502d411be4b0b49bb44adc05","¿ Like a G6 ?","Travel & Transport::Embassy / Consulate",32.87590026855469,-97.0167236328125
+"50468af8e4b00b47559fc60a","DART station Belt Line","Travel & Transport::Train Station",32.88782720280887,-96.98626807604697
+"50589f7ee4b03b3dbcd9907a","D33","Travel & Transport::Airport::Airport Gate",32.878535789872075,-97.01645159463321
+"505edeece4b0f168bff9afae","Embassy Suits Fitness Room","Outdoors & Recreation::Athletic & Sport",32.835246,-97.021339
+"5066f9a6e4b0846a5a5073fa","Victory Grill","Food::New American Restaurant",32.919132232666016,-96.9940414428711
+"5081b520e4b0607ce8582cc0","Dallas Comic Con Presents FanDays","Arts & Entertainment::General Entertainment",32.87725943066454,-96.94343559754711
+"5097f4ff4b9033ce2158708a","Voting at Freeman Elem School Cfbisd","Professional & Other Places::Voting Booth",32.92594,-96.959647
+"511572ffe4b063a6b01395dc","Dallas Sci-Fi Expo","Arts & Entertainment::General Entertainment",32.8778016737793,-96.94351948357698

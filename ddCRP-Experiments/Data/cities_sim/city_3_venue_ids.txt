@@ -1,0 +1,518 @@
+"3fd66200f964a52086f11ee3","Asena","Food::Mediterranean Restaurant",37.764141,-122.239771
+"3fd66200f964a52092f11ee3","Jim's Coffee Shop","Food::Breakfast Spot",37.766959687077645,-122.241031
+"43cb80faf964a520bc2d1fe3","La Piñata Restaurant","Nightlife Spot::Bar",37.765197934831974,-122.24186627101408
+"44c10f3af964a520b2351fe3","Bladium Sports & Fitness Club","Shop & Service::Gym / Fitness Center::Gym",37.78201036873852,-122.30100457491154
+"45e6b309f964a5204c431fe3","Forbidden Island","Nightlife Spot::Lounge",37.77460199110199,-122.26301578333333
+"45ec45f3f964a5209c431fe3","Former Naval Air Station Alameda","Professional & Other Places::Military Base",37.78536811469731,-122.30134963989258
+"45ec4859f964a520a2431fe3","Lucky 13","Nightlife Spot::Bar",37.762772,-122.24434188
+"46057dc3f964a520c0441fe3","Linguini's Pasta & Vino","Food::Italian Restaurant",37.76567227947213,-122.24143416041603
+"463b526df964a52022461fe3","Lost Weekend Lounge","Nightlife Spot::Bar",37.76552313226582,-122.24268616836794
+"463cf599f964a52039461fe3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",37.7577888643969,-122.25131034851074
+"463de5c9f964a5203f461fe3","Speisekammer","Food::German Restaurant",37.766064487213704,-122.2401211982562
+"4645bd20f964a5207e461fe3","Tucker's Ice Cream","Food::Ice Cream Shop",37.76388439,-122.243357
+"4645be7ef964a5207f461fe3","Kamakura","Food::Japanese Restaurant",37.763658373312516,-122.23850548267365
+"46504842f964a520cf461fe3","Fosters Freeze","Food::Burger Joint",37.771428,-122.278044
+"46791296f964a520f5471fe3","Crown Beach","Outdoors & Recreation::Beach",37.761894176815304,-122.27169513702393
+"468aa2b5f964a52060481fe3","Pier 29","Food::Seafood Restaurant",37.76695668697357,-122.28760604
+"469165e9f964a520a2481fe3","Petco","Shop & Service::Pet Store",37.755872,-122.25027163607723
+"46c56a9bf964a520054a1fe3","Spritzer's","Food::Tea Room",37.771416,-122.275272
+"46cf6284f964a520494a1fe3","The New Zealander","Food::Burger Joint",37.77161,-122.27672696113586
+"46dea7aff964a520994a1fe3","Alameda Free Library Main Branch","Professional & Other Places::Library",37.76689827842725,-122.24248051643372
+"480b6670f964a5201c4f1fe3","St. George Spirits","Food::Distillery",37.787590842344954,-122.30975234656009
+"4814badaf964a5205e4f1fe3","Lucky Ju Ju","Arts & Entertainment::Arcade",37.7736659333333,-122.276221
+"49e4ea3df964a5206a631fe3","Scobie's Bar","Nightlife Spot::Karaoke Bar",37.76375972489106,-122.24154495817194
+"49f60090f964a520eb6b1fe3","India Palace","Food::Indian Restaurant",37.777346,-122.27507438
+"4a03b7a7f964a520de711fe3","Blue Danube Coffee House","Food::Café",37.763446,-122.24361251666667
+"4a1203d9f964a5206b771fe3","Lemon Tree Inn","Travel & Transport::Hotel",37.76366592659375,-122.23864755905535
+"4a34549df964a520139c1fe3","Sushi House","Food::Sushi Restaurant",37.754811522163905,-122.25073099136353
+"4a51282cf964a520b1b01fe3","Alameda Point Antiques Faire","Shop & Service::Flea Market",37.790523241426946,-122.3137092590332
+"4a5a9e6af964a520a9ba1fe3","Ole's Waffle Shop","Food::Diner",37.765624523812996,-122.24180533244589
+"4a5bd49ef964a520d5bb1fe3","The Hobnob","Food::New American Restaurant",37.76294946670532,-122.244157
+"4a5d8e07f964a520adbd1fe3","Alameda Theatre & Cineplex","Arts & Entertainment::Movie Theater::Multiplex",37.76461560535736,-122.24366671301753
+"4a5d93bcf964a520aebd1fe3","Fruitvale Bridge Park","Outdoors & Recreation::Park",37.7680539449566,-122.23238159549071
+"4a6a0700f964a52068cc1fe3","Zeytini's","Food::Mediterranean Restaurant",37.75646561597495,-122.25208282470703
+"4a6a620ef964a5204ecd1fe3","Alameda Taqueria","Food::Burrito Place",37.76578615,-122.24159503
+"4a6b545af964a52077ce1fe3","BarCeluna","Food::Pizza Place",37.76568531989942,-122.242375
+"4a6c90bef964a520d8d01fe3","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.783311910597824,-122.27401482166154
+"4a6cbe2df964a5207dd11fe3","USS Hornet Museum","Travel & Transport::Ferry::Boat or Ferry",37.772164941677076,-122.30244398117065
+"4a6e0113f964a5209ad31fe3","Mint Leaf Vietnamese Cuisine","Food::Vietnamese Restaurant",37.783707784749524,-122.27339454166338
+"4a709af4f964a520ebd71fe3","Blue Dot","Food::Coffee Shop",37.76695526639303,-122.25428593309469
+"4a70db33f964a5209ad81fe3","Alameda Dog Park","Outdoors & Recreation::Dog Run",37.76772825926533,-122.27281856414353
+"4a74ccdbf964a520a6df1fe3","Mcgee's Bar","Nightlife Spot::Sports Bar",37.767971,-122.239886
+"4a78abdcf964a52028e61fe3","Salvation Army - Alameda","Shop & Service::Thrift / Vintage Store",37.770103,-122.237542
+"4a79a7f1f964a52049e71fe3","Crab Cove","Outdoors & Recreation::Beach",37.76854362092148,-122.27834701538086
+"4a79d4aaf964a520bce71fe3","Toomie's Thai Cuisine","Food::Thai Restaurant",37.76516792817903,-122.24208232565736
+"4a7e50d1f964a520c1f11fe3","The Fire Den","Nightlife Spot::Sports Bar",37.76190689253111,-122.24505718744821
+"4a80a3b7f964a520c8f51fe3","Starbucks","Food::Coffee Shop",37.76819507417211,-122.23244807979125
+"4a80f6b3f964a52088f61fe3","Croll's Pizza","Food::Pizza Place",37.771562813984815,-122.27602958679199
+"4a84309cf964a520e5fb1fe3","San Francisco Bay Ferry Terminal Alameda Harbor Bay","Travel & Transport::Ferry::Boat or Ferry",37.73658,-122.25698
+"4a876762f964a5203c0420e3","Dragon Rouge","Food::Vietnamese Restaurant",37.77152023442301,-122.23740658395961
+"4a885f3ff964a520110620e3","Burgermeister","Food::Burger Joint",37.764427,-122.243324
+"4a88a28af964a5203e0720e3","Starbucks","Food::Coffee Shop",37.76422240101957,-122.24278034536358
+"4a88ab9ef964a520590720e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.75740453951808,-122.24911217279397
+"4a8a0793f964a520b30920e3","Peet's Coffee & Tea","Food::Coffee Shop",37.76417425707891,-122.24295761948304
+"4a8f7c9ef964a520621520e3","Ark Chinese Restaurant","Food::Chinese Restaurant",37.764496,-122.242801
+"4a90a872f964a520fe1820e3","Zen Restaurant","Food::Asian Restaurant",37.765688,-122.24272
+"4a90b0def964a520271920e3","Books Inc","Shop & Service::Bookstore",37.76360324280893,-122.24316984415054
+"4a9195ecf964a520c91a20e3","Chevron Station","Shop & Service::Gas Station / Garage",37.76842124467011,-122.23972786045869
+"4a91ad39f964a5204d1b20e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.75754711885607,-122.25078999996185
+"4a95c7c3f964a520a12420e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.737533789899466,-122.23952842102197
+"4a95e57ff964a5204a2520e3","Tuttimelon / TeaWay","Food::Ice Cream Shop",37.76405293900905,-122.24250889379782
+"4a98b43ef964a5201c2d20e3","FruittiYogi","Food::Dessert Shop",37.765598,-122.242353
+"4a9c3f8ff964a520913620e3","Sandwich Board","Food::Sandwich Place",37.765616,-122.24104821681976
+"4aa01130f964a520243e20e3","Havana","Food::Cuban Restaurant",37.765736,-122.24131
+"4aa07c2bf964a520c93f20e3","China House Restaurant","Food::Chinese Restaurant",37.76533463333333,-122.242142
+"4aa1b979f964a520824120e3","Alameda South Shore Center","Shop & Service::Mall",37.75693299942221,-122.25074077108175
+"4aa1c84cf964a520974120e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.765552616599535,-122.24308503507459
+"4aa2df0ff964a5205f4220e3","Ohana Hawaiian BBQ","Food::BBQ Joint",37.768607,-122.232141
+"4aa2f2b7f964a520b44220e3","Alameda Bicycle","Shop & Service::Bike Shop",37.765889,-122.241124
+"4aa309e8f964a520194320e3","Alameda Wine Co.","Nightlife Spot::Wine Bar",37.76444808000001,-122.243452
+"4aa3ebd2f964a520584420e3","Antiques By The Bay","Shop & Service::Antique Shop",37.79045299510928,-122.31347823536628
+"4aa54069f964a520bb4720e3","Chuck Corica Golf Complex","Outdoors & Recreation::Athletic & Sport::Golf Course",37.7389645449024,-122.23407693223562
+"4aa878a5f964a5206d5120e3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",37.7561222018181,-122.25125039537153
+"4aa944d6f964a520c95220e3","Maitland Market Cafe & Deli","Food::Deli / Bodega",37.7357159,-122.23551750183105
+"4aabdfe7f964a520975a20e3","House of Bagels","Food::Bagel Shop",37.76408059469435,-122.24289114172275
+"4aad6a59f964a520296020e3","Blockbuster","Shop & Service::Video Store",37.75784909523396,-122.25339965363682
+"4ab6edadf964a520807920e3","Ching Hua - Alameda","Food::Chinese Restaurant",37.767964,-122.239485
+"4ab80a0bf964a520ec7b20e3","Marina Village Yacht Harbor","Outdoors & Recreation::Harbor / Marina",37.78543716275412,-122.26893063439172
+"4ab82847f964a5206b7c20e3","Angela's Bistro & Bar","Food::American Restaurant",37.76475463821949,-122.24410989408513
+"4abd9cc6f964a520258b20e3","Yogofina","Food::Dessert Shop",37.76347,-122.243559
+"4abe4a8df964a520778c20e3","Starbucks","Food::Coffee Shop",37.77953364,-122.275729
+"4abe54d4f964a520ca8c20e3","Rock Wall Wine Company","Food::Winery",37.78381641897224,-122.30958938598633
+"4ac5777ef964a52022b220e3","Sakura Sushi & Grill Japanese Restaurant","Food::Sushi Restaurant",37.764999,-122.24153338333333
+"4ac7b868f964a52058b920e3","Pet Food Express","Shop & Service::Pet Store",37.76850299066461,-122.2318663407593
+"4acfe73af964a520ced620e3","Juanita's Restaurant","Food::Mexican Restaurant",37.76317868492153,-122.24361131525473
+"4ad10912f964a52023dc20e3","Rosenblum Cellars","Shop & Service::Food & Drink Shop::Wine Shop",37.7895597,-122.292327
+"4ad2669df964a52067e120e3","Feel Good Bakery","Food::Bakery",37.767701,-122.23944386
+"4ad387c2f964a520c4e420e3","San Francisco Bay Ferry Terminal Alameda Main St.","Travel & Transport::Ferry::Boat or Ferry",37.791202,-122.294183
+"4adb6e82f964a520622721e3","East Ocean Seafood Restaurant","Food::Dim Sum Restaurant",37.77667934318054,-122.2768780315909
+"4adbc019f964a520692a21e3","Homeroom Racing Cafe","Food::Thai Restaurant",37.76282572,-122.244186
+"4adbe3d5f964a520fd2a21e3","Shamrock Irish Pub","Nightlife Spot::Pub",37.77161169,-122.27706445
+"4ae289e2f964a520e88e21e3","Coast Guard Island","Professional & Other Places::Government Building",37.78115359345476,-122.24855822213307
+"4ae35b8af964a520f29321e3","Kai's Japanese Restaurant","Food::Japanese Restaurant",37.762108,-122.24464
+"4ae61a25f964a520b9a421e3","Julie's Coffee & Tea Shop","Food::Café",37.76159220615944,-122.24525107686632
+"4ae64555f964a5201ba621e3","Flavors of India","Food::Indian Restaurant",37.76347517967224,-122.243491
+"4ae72feff964a52039a921e3","Godfrey Park","Outdoors & Recreation::Playground",37.73356859484871,-122.2327915813519
+"4ae7addbf964a5204fad21e3","Jack in the Box","Food::Fast Food Restaurant",37.76239342485563,-122.24480790053602
+"4ae8b86df964a520adb121e3","Blue Rectangle","Shop & Service::Thrift / Vintage Store",37.76387,-122.243147
+"4ae905e0f964a5200cb421e3","Nob Hill Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.76922903610508,-122.23368357218435
+"4aea6c71f964a5207fbb21e3","Alameda High School","Professional & Other Places::School::High School",37.76470841811487,-122.24590475859526
+"4aee0b37f964a5208fd121e3","Dog Bone Alley","Shop & Service::Pet Store",37.76362026666666,-122.24333707535203
+"4af08e9af964a52036dd21e3","Oakland Raiders HQ","Professional & Other Places::Office::Conference Room",37.725160720024554,-122.23337885565644
+"4af1e205f964a52013e421e3","Cheese Steak Shop","Food::Sandwich Place",37.7684557,-122.23248
+"4af352f2f964a5209aec21e3","OfficeMax","Shop & Service::Miscellaneous Shop",37.75949378419967,-122.2529947757721
+"4af4c743f964a5201bf621e3","The Churchward Pub","Nightlife Spot::Bar",37.76589970199046,-122.24157265759297
+"4af5a72bf964a520ddfa21e3","Jamba Juice","Food::Juice Bar",37.75627900211373,-122.24985122680664
+"4af5cc01f964a520f5fc21e3","360 Gourmet Burrito","Food::Burrito Place",37.783638,-122.272632
+"4af7876df964a520ba0922e3","Hawaiian Drive-inn","Food::Restaurant",37.76282526228923,-122.24512920355892
+"4afb9a40f964a520c11e22e3","Rooster's Roadhouse","Food::BBQ Joint",37.77597193333333,-122.25269901666667
+"4afdbffcf964a520882a22e3","AC Transit Bus #51","Travel & Transport::Bus Station::Bus Line",37.772403717041016,-122.26099395751953
+"4afdcf21f964a520132b22e3","Watch Hospital","Shop & Service::Jewelry Store",37.76464383231575,-122.24246457510932
+"4afdd5e4f964a5204c2b22e3","The Nail Shop","Shop & Service::Cosmetics Shop",37.763779,-122.243245
+"4afde9b3f964a520fb2b22e3","Panera Bread","Food::Bakery",37.7565668782571,-122.25017575000196
+"4afe5608f964a5202f2f22e3","Pasta Pelican","Food::Italian Restaurant",37.79148589133395,-122.277381992872
+"4aff196af964a5202d3422e3","Modern Mouse","Shop & Service::Gift Shop",37.75692820410921,-122.25141540369397
+"4b009b60f964a520ec3f22e3","AMF Bowling Center","Arts & Entertainment::Bowling Alley",37.75462414575223,-122.24947777865492
+"4b00b04df964a5209e4022e3","Pappo","Food::Breakfast Spot",37.764325,-122.2433173
+"4b00bc6ef964a520d74022e3","Kohl's","Shop & Service::Department Store",37.758217621275634,-122.25263523168968
+"4b00bed7f964a520ed4022e3","Applebee's","Food::American Restaurant",37.75795850991872,-122.25169658660889
+"4b0316d3f964a520914c22e3","WesCafe","Food::Café",37.774639,-122.276562
+"4b085596f964a520500923e3","Alameda Farmers' Market","Shop & Service::Food & Drink Shop::Farmers Market",37.77400521704548,-122.27632999420166
+"4b088493f964a5208a0d23e3","Kobe-Ya","Food::Japanese Restaurant",37.7629280090332,-122.245292
+"4b08c390f964a520001223e3","King of Thai Noodle","Food::Thai Restaurant",37.76763058888889,-122.240155
+"4b0a08e9f964a5203d2123e3","Encinal Market","Shop & Service::Food & Drink Shop::Grocery Store",37.75630378362494,-122.23358384687084
+"4b0b354ef964a520a92e23e3","Taqueria Ramiro & Sons","Food::Burrito Place",37.763636112213135,-122.244017
+"4b0d95cff964a5209d4b23e3","Marina Village Mall","Shop & Service::Mall",37.78330091159033,-122.27354407377925
+"4b0dbb7ff964a520db4e23e3","Dan's Fresh Produce","Shop & Service::Food & Drink Shop::Farmers Market",37.76461329,-122.244157
+"4b105b8ff964a520996e23e3","Wells Fargo - South Shore Alameda","Shop & Service::Bank",37.758279447818225,-122.25031977526722
+"4b10b4b1f964a520f57423e3","College Of Alameda","College & University::Community College",37.78160891240763,-122.2795251861699
+"4b11594bf964a520b67a23e3","Little House Cafe","Food::Café",37.771269134765184,-122.23938992119406
+"4b119521f964a520db7f23e3","Bip's Broiler","Food::Diner",37.7547059,-122.241964
+"4b11a44ff964a520308123e3","The Marketplace","Shop & Service::Food & Drink Shop::Grocery Store",37.76765316910584,-122.23945086114047
+"4b1200dcf964a520168823e3","Bowzer's Pizza","Food::Pizza Place",37.76335504000001,-122.24352258333333
+"4b12e873f964a5209c9023e3","China Gourmet","Food::Chinese Restaurant",37.757127,-122.25276817503051
+"4b141c5bf964a5207b9d23e3","La Val's Pizza","Food::Italian Restaurant",37.73752687052956,-122.24102420771953
+"4b1484b8f964a52027a423e3","Calafia Taqueria","Food::Taco Place",37.77287519163049,-122.2769683599472
+"4b1593bef964a52025af23e3","Pagano's Ace Hardware Mart","Shop & Service::Hardware Store",37.774615805204256,-122.26551532745361
+"4b15b17ff964a520a6b223e3","US Post Office","Professional & Other Places::Post Office",37.763029,-122.24271553333334
+"4b1722cbf964a520dec223e3","Alameda Hospital","Professional & Other Places::Medical Center::Hospital",37.76257309361415,-122.25402558926784
+"4b1aaa15f964a520c5ee23e3","Al's Barber Shop","Shop & Service::Salon / Barbershop",37.77364423481812,-122.27676727054988
+"4b1ac6c2f964a52089f123e3","Tomatina","Food::Italian Restaurant",37.763530859549256,-122.24327338827923
+"4b1b3992f964a520d4f923e3","St. Vincent de Paul","Professional & Other Places::Spiritual Center",37.76612351666667,-122.24334605
+"4b1ddd11f964a520fc1524e3","McDonald's","Food::Fast Food Restaurant",37.75532679643202,-122.25204252394596
+"4b22c2ccf964a520114d24e3","Old Navy","Shop & Service::Clothing Store",37.756796430299374,-122.25250124931335
+"4b230913f964a520785224e3","Yojimbo Sushi","Food::Sushi Restaurant",37.761488,-122.245278
+"4b254f20f964a520b76f24e3","Massage Envy","Shop & Service::Spa / Massage",37.756722,-122.250941
+"4b286817f964a520289324e3","Quickly 快可立","Food::Café",37.7651919,-122.2421632
+"4b29303ef964a520ab9a24e3","Ruby Bridges Elementary School","Professional & Other Places::School::Elementary School",37.7824580855903,-122.285644402283
+"4b2c5478f964a520e6c524e3","Taqueria Viva Mexico","Food::Taco Place",37.76434715821786,-122.24310719429238
+"4b2d55f9f964a5207dd424e3","Domenico's Italian Deli","Food::Deli / Bodega",37.77178026944324,-122.27712170547534
+"4b32af20f964a520d41125e3","Christmas Tree Lane","Outdoors & Recreation::Plaza",37.759891387200504,-122.22793813433861
+"4b3339e7f964a5202c1825e3","Sumbody & Sumtime Spa","Shop & Service::Spa / Massage",37.76386941249999,-122.24307
+"4b33fae6f964a520532325e3","Starbucks","Food::Coffee Shop",37.756869580516025,-122.25293435397354
+"4b381043f964a520104b25e3","Chipotle Mexican Grill","Food::Mexican Restaurant",37.75614640103345,-122.24999848787014
+"4b3a63fef964a5203a6625e3","Borders","Shop & Service::Bookstore",37.75697456047672,-122.2497546672821
+"4b3ed4c7f964a52073a225e3","Nation's Giant Hamburgers","Food::Burger Joint",37.77249544845994,-122.27668419969349
+"4b3fcf3cf964a52058af25e3","Burma Superstar","Food::Asian Restaurant",37.76367824285715,-122.24343635
+"4b3feacaf964a52006b225e3","Yume","Food::Sushi Restaurant",37.76487325,-122.242037
+"4b3ffc99f964a520a6b325e3","New Sushi King","Food::Sushi Restaurant",37.76851729,-122.231849
+"4b401ae2f964a520a5b525e3","Wingstop","Food::Wings Joint",37.768625020980835,-122.23204672336578
+"4b413873f964a5208cc325e3","Beverly's Fabric & Crafts","Shop & Service::Arts & Crafts Store",37.75648285026,-122.25169354494915
+"4b4926b1f964a520ef6726e3","Harbor Bay Club","Shop & Service::Gym / Fitness Center::Gym",37.74746451531804,-122.23931236121196
+"4b4bd721f964a5203fa926e3","T.J. Maxx","Shop & Service::Department Store",37.757313854866084,-122.25337028503418
+"4b4bfe00f964a520bdac26e3","Tapioca Express","Food::Café",37.7628667,-122.2449962
+"4b4e40c1f964a520f4e626e3","Citibank","Shop & Service::Bank",37.774269,-122.27668235
+"4b5134bdf964a5203b4727e3","Shay's Cafe","Food::Café",37.7547059,-122.241964
+"4b5374fff964a520e09d27e3","Marti's Place","Food::Breakfast Spot",37.7670675166667,-122.254342
+"4b53d484f964a52098ac27e3","Harbor View Restaurant","Food::Asian Restaurant",37.73767524718143,-122.24081369085847
+"4b57697ef964a520553628e3","Wienerschnitzel","Food::Hot Dog Joint",37.76615028333333,-122.24129796
+"4b5a3b7ef964a5202bb628e3","Baron's Meat & Poultry","Shop & Service::Food & Drink Shop::Butcher",37.76773452758789,-122.23964
+"4b5a6644f964a5209ec228e3","speiskammer","Food::German Restaurant",37.7660071849823,-122.236677
+"4b5b4888f964a52060f128e3","Mariner Square Athletic Center","Shop & Service::Gym / Fitness Center::Gym",37.78576811659244,-122.27906000059471
+"4b5b7260f964a520c2fe28e3","Acapulco Restaurant","Food::Mexican Restaurant",37.770235,-122.248165
+"4b5b8540f964a520530429e3","Bank Of America","Shop & Service::Bank",37.765248,-122.24111297
+"4b5c0785f964a520b72129e3","Taco Bell","Food::Taco Place",37.77863422829862,-122.27638514407364
+"4b5c9406f964a520a93729e3","The Beanery","Food::Café",37.76783544964449,-122.23940670490265
+"4b5cdaf0f964a5208a4729e3","El Caballo Wraps","Food::Mexican Restaurant",37.77470060871639,-122.26532220840454
+"4b5f0f65f964a52027a429e3","Chevron Station","Shop & Service::Gas Station / Garage",37.777614,-122.276422
+"4b5f6450f964a520a9b729e3","Cera Una Volta Ristaurante","Food::Café",37.763131,-122.242877
+"4b61f9d7f964a520862e2ae3","Great American Barbeque","Food::BBQ Joint",37.76381362,-122.22595945
+"4b635022f964a5208e712ae3","Big O Tires","Shop & Service::Automotive Shop",37.7609592676163,-122.245197
+"4b63664af964a52013772ae3","Patricia's Pantry - The Kitchen Store","Shop & Service::Miscellaneous Shop",37.767792,-122.239532
+"4b6369dcf964a5200b782ae3","Alameda Natural Grocery","Shop & Service::Food & Drink Shop::Grocery Store",37.767839,-122.23965883255005
+"4b649b3ef964a52099c12ae3","Lincoln Park","Outdoors & Recreation::Pool",37.757954372909715,-122.23020975226659
+"4b64d4fef964a52084d32ae3","New York Pizza","Food::Pizza Place",37.766066,-122.241084
+"4b64fc28f964a520d5dd2ae3","Katsu Sushi House","Food::Sushi Restaurant",37.77333513604806,-122.2770884772512
+"4b660f94f964a5206b112be3","Radio Shack","Shop & Service::Electronics Store",37.75637874,-122.251326441765
+"4b6664b6f964a5200f202be3","Alameda Marketplace","Shop & Service::Food & Drink Shop::Food Court",37.7676313833333,-122.239504155556
+"4b67248bf964a5206a3d2be3","Inman News","Professional & Other Places::Office",37.786022,-122.272286
+"4b6783a9f964a52054532be3","Thai Place","Food::Thai Restaurant",37.771717,-122.27702755881339
+"4b6884aaf964a520777d2be3","Group Delphi","Professional & Other Places::Office",37.78181054773075,-122.302842774096
+"4b68cdb1f964a520c48d2be3","Daphne's Greek Café","Food::Greek Restaurant",37.75637430980114,-122.25010927673704
+"4b69f7f3f964a520dabe2be3","Krusi Park","Outdoors & Recreation::Park",37.753136981176155,-122.23849243795678
+"4b6a2e45f964a520dfcb2be3","Troy","Food::Middle Eastern Restaurant",37.764374,-122.24327525
+"4b6a5771f964a520c0d22be3","Ballena Village Fitness Center","Shop & Service::Gym / Fitness Center::Gym",37.77098612371078,-122.2873592376709
+"4b6b760bf964a5204c0a2ce3","Tu tai 2","Food::Vietnamese Restaurant",37.774471,-122.27678
+"4b6cad73f964a520794b2ce3","South Shore Car Wash","Shop & Service::Automotive Shop",37.7552643,-122.250864
+"4b6e25f5f964a520d3ad2ce3","Papa Murphy's","Food::Pizza Place",37.7686472666667,-122.234289050102
+"4b6e5c51f964a52025ba2ce3","Pacific Pinball Museum","Arts & Entertainment::Arcade",37.773725,-122.27625834
+"4b6f1617f964a520fbdb2ce3","Supercuts","Shop & Service::Salon / Barbershop",37.763384,-122.243694
+"4b6f60b4f964a520eded2ce3","Farmstead Cheeses & Wines","Shop & Service::Food & Drink Shop::Wine Shop",37.767671,-122.23953
+"4b707a8af964a520f91c2de3","Follow Charlie Car Wash","Travel & Transport::General Travel",37.76709818113033,-122.23731794232974
+"4b70b32bf964a5206e2a2de3","Chase Bank","Shop & Service::Bank",37.78313281561507,-122.27236442582519
+"4b70c889f964a5207e2e2de3","Carl's Jr. / Green Burrito","Food::Fast Food Restaurant",37.783059,-122.27258226666666
+"4b718dbcf964a520114d2de3","Waterfront Deli","Food::Deli / Bodega",37.78609057282251,-122.27197674524042
+"4b71e320f964a52046622de3","california center for sleep disorders","Professional & Other Places::Medical Center::Doctor's Office",37.778398,-122.271023
+"4b71feb8f964a52008692de3","West Advertising","Professional & Other Places::Office",37.7641798546833,-122.241135
+"4b744055f964a52000d02de3","McDonald's","Food::Fast Food Restaurant",37.7716735201622,-122.2761193161506
+"4b74423cf964a52084d02de3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.77927137409764,-122.27612614631653
+"4b74a92ff964a520eaea2de3","Safeway Fuelstation","Shop & Service::Gas Station / Garage",37.758615882641365,-122.250816822052
+"4b74cd6df964a520def22de3","KFC","Food::Fried Chicken Joint",37.761963,-122.24362313747406
+"4b7624d1f964a520bb3f2ee3","Yokohama Sushi Bar","Food::Sushi Restaurant",37.77222703,-122.27696291
+"4b762af0f964a52037412ee3","Rhythmix cultural center","Arts & Entertainment::Art Gallery",37.7696442604065,-122.235222458839
+"4b76e202f964a520ed662ee3","Pier 29 Restaurant","Food::Steakhouse",37.766971588134766,-122.2876205444336
+"4b772288f964a520d7802ee3","Chef's Wok","Food::Asian Restaurant",37.777811,-122.276829
+"4b787b18f964a52047d12ee3","Leydecker Park","Outdoors & Recreation::Playground",37.73676002860916,-122.24154495817194
+"4b79d352f964a52084142fe3","round table","Food::Pizza Place",37.768524169921875,-122.23255157470703
+"4b79e0e8f964a520e0172fe3","Goodwill","Shop & Service::Thrift / Vintage Store",37.767109525410056,-122.24151492118835
+"4b7a66e7f964a520db2b2fe3","Wally's Corner","Nightlife Spot::Dive Bar",37.77532277,-122.27653119
+"4b7b7622f964a5207d642fe3","High Street Station","Food::Coffee Shop",37.75638,-122.234076
+"4b7b774af964a520a5642fe3","Lincoln Middle School","Professional & Other Places::School::Middle School",37.753037,-122.23153995
+"4b7cd5d1f964a520f7a62fe3","U.S. Bank","Shop & Service::Bank",37.771989,-122.276865
+"4b7d6a33f964a52026bd2fe3","76","Shop & Service::Gas Station / Garage",37.777089206334686,-122.27647929130387
+"4b7e1cf3f964a5202be32fe3","Yume Sushi","Food::Sushi Restaurant",37.764862060546875,-122.24200439453125
+"4b805257f964a520ca6730e3","Burger King","Food::Fast Food Restaurant",37.75901,-122.251568
+"4b80721bf964a520187330e3","Altarena Playhouse","Arts & Entertainment::Arcade",37.7586203813553,-122.231880426407
+"4b831d5ef964a52088f830e3","Space Happy","Shop & Service::Gift Shop",37.763921,-122.242855
+"4b86edaff964a5206fa631e3","We Are Nails","Shop & Service::Salon / Barbershop",37.76306,-122.244019
+"4b8834ecf964a5205fe731e3","Khanh Huong BBQ","Food::Chinese Restaurant",37.77263,-122.254889
+"4b88825ef964a52021fd31e3","La Penca Azul","Food::Mexican Restaurant",37.73793765301566,-122.24122524261475
+"4b89bd5df964a520494d32e3","Alameda, CA","Outdoors & Recreation::Other Great Outdoors",37.76550155520085,-122.24208232565736
+"4b8b16b9f964a520569232e3","Habana's Cuban Cuisine","Food::Cuban Restaurant",37.76574183,-122.24131586666667
+"4b8c45bdf964a520c5c732e3","7-Eleven","Shop & Service::Convenience Store",37.76734984679656,-122.24222636184341
+"4b8dbd0cf964a5205d0b33e3","Alameda Beauty Center","Shop & Service::Cosmetics Shop",37.75639055346546,-122.25041397
+"4b8eeff0f964a520cc3f33e3","Saint Joseph Notre Dame High School","Professional & Other Places::School::High School",37.765585032802,-122.254413335161
+"4b916c8df964a52065bb33e3","Jack in the Box","Food::Fast Food Restaurant",37.77803238333333,-122.27634072303772
+"4b916f18f964a52029bc33e3","Why Cook","Food::American Restaurant",37.726963744591345,-122.24094664892425
+"4b93e6f1f964a520995834e3","Alameda City Hall","Professional & Other Places::Government Building::City Hall",37.7661010374548,-122.243564128876
+"4b945875f964a5208a7534e3","Loard's Ice Cream & Candy","Food::Ice Cream Shop",37.75783541344662,-122.25184310751615
+"4b96b8cbf964a52045e034e3","Circuits","Professional & Other Places::Office",37.77228,-122.254909873009
+"4b971950f964a520e1f734e3","Viva Mexico Taqueria","Food::Mexican Restaurant",37.7643928527832,-122.24312591552734
+"4b981c71f964a520222d35e3","US Post Office","Professional & Other Places::Post Office",37.756772559003316,-122.25409759932609
+"4b981d49f964a520622d35e3","Gallagher & Lindsey","Professional & Other Places::Office",37.76359,-122.241856
+"4b98393df964a5205a3535e3","Grand Market","Shop & Service::Food & Drink Shop::Liquor Store",37.7725550378343,-122.25501
+"4b985f19f964a5208e3e35e3","Otaez","Food::Mexican Restaurant",37.775859603289646,-122.2768004988743
+"4b98759af964a5201b4335e3","7-Eleven","Shop & Service::Food & Drink Shop",37.77739829695152,-122.27750382930704
+"4b9aa9e9f964a520feca35e3","Crown Memorial State Beach","Outdoors & Recreation::Beach",37.765889003834445,-122.27477431297302
+"4b9ac308f964a52059d335e3","iSalon","Shop & Service::Salon / Barbershop",37.76111442,-122.24557162
+"4b9be3acf964a520ec3136e3","John Patrick's","Nightlife Spot::Dive Bar",37.76939983333333,-122.23865597
+"4b9bfc9ff964a520c73d36e3","Encinal High School","Professional & Other Places::School::High School",37.772039861204924,-122.28966461868467
+"4b9c24b2f964a520864e36e3","Central Vegetarian Cuisine","Food::Vegetarian / Vegan Restaurant",37.767059,-122.240594
+"4b9d2cf7f964a5208b9636e3","California Rider Education","College & University::General College & University",37.772887,-122.299118
+"4b9d5c23f964a520d0a636e3","Franklin Park","Outdoors & Recreation::Playground",37.76873776101254,-122.26149775834305
+"4b9d5d03f964a520f8a636e3","Exchange","Shop & Service::Miscellaneous Shop",37.7806898166667,-122.2477077
+"4b9fdd4cf964a520b54537e3","Subway","Food::Sandwich Place",37.768922,-122.2327333688736
+"4ba0f7b9f964a520e18a37e3","Jay's","Food::Café",37.7699005768758,-122.2616958618164
+"4ba1494cf964a5203aa937e3","Littlejohn Park","Outdoors & Recreation::Playground",37.77631876590908,-122.26177470043052
+"4ba29812f964a5206e0738e3","Subway Sandwiches","Food::Sandwich Place",37.776391,-122.2765657
+"4ba48d55f964a520cba338e3","Alameda Pizza","Food::Pizza Place",37.77482,-122.276665
+"4ba48dccf964a520e4a338e3","Ricky Tattoo","Shop & Service::Tattoo Parlor",37.77482,-122.27687
+"4ba497c1f964a5202ca638e3","Everett & Jones Barbecue","Food::BBQ Joint",37.7739199,-122.276411
+"4ba51142f964a52068d838e3","Comcast","Professional & Other Places::Office",37.78316795825958,-122.274675
+"4ba524eef964a5206ce338e3","Oakland-alameda Estuary","Outdoors & Recreation::Harbor / Marina",37.79696816785019,-122.325009391451
+"4ba577b2f964a5201c0a39e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.78374195098877,-122.27216184139252
+"4ba5a680f964a520691939e3","Roundtable pizza","Food::Pizza Place",37.770328521728516,-122.23765563964844
+"4ba84056f964a5206ad339e3","612 Buena Vista","Residence::Residential Building (Apartment / Condo)",37.777199,-122.278704
+"4ba85fcff964a52083d839e3","summer house apartment 459 buena vista","Outdoors & Recreation::Ski Area",37.77766,-122.28372
+"4ba8e380f964a52063f739e3","Hampton Inn & Suites","Travel & Transport::Hotel",37.724657879999995,-122.24224
+"4baa4635f964a520035a3ae3","Oil Changers","Shop & Service::Automotive Shop",37.7663850392223,-122.239733400438
+"4bae3e17f964a52071973be3","Thompson Field","Outdoors & Recreation::Other Great Outdoors",37.770901761057885,-122.24520121962102
+"4bae5577f964a52025a43be3","Party Warehouse","Shop & Service::Miscellaneous Shop",37.760788,-122.24592447280884
+"4baebe1df964a5200ad43be3","Oakland Yacht Club","Outdoors & Recreation::Harbor / Marina",37.783468766828996,-122.2648286819458
+"4baec437f964a52038d63be3","Nob Hill Aisle One Gas","Shop & Service::Gas Station / Garage",37.768402,-122.232886
+"4baf9282f964a520fa0b3ce3","Oil Changers","Shop & Service::Automotive Shop",37.76629610784862,-122.23990559577943
+"4bb53ada46d4a5939dc7c4c0","Bank of America","Shop & Service::Bank",37.758799594112155,-122.25132240730316
+"4bb7fa2f314e95216c04489d","Yumygurt Frozen Yogurt","Food::Cupcake Shop",37.77094779427083,-122.2775924375358
+"4bb8b98d1261d13ab3d9e898","St. Barnabus Catholic Church","Professional & Other Places::Spiritual Center::Church",37.7725281081275,-122.279652558056
+"4bb8e7bd314e9521f9e8489d","St. Joseph Basilica","Professional & Other Places::Spiritual Center::Church",37.76611072286946,-122.25457951154138
+"4bba35d653649c7413c448fb","Magic Wok","Food::Chinese Restaurant",37.783672,-122.273078
+"4bbac61998c7ef3b7c813302","Gim's Chinese Kitchen","Food::Chinese Restaurant",37.766836,-122.24159955
+"4bbbdebd51b89c740fdb862a","Bocanova","Food::Tapas Restaurant",37.78547668457031,-122.27925872802734
+"4bbe2a430ec69c74e5ef5559","Tomo's","Shop & Service::Salon / Barbershop",37.76460830784308,-122.24289894104004
+"4bbe830882a2ef3b0a8e2bd2","Best Alteration","Shop & Service::Laundry Service",37.76059283812571,-122.24575518770536
+"4bbf6a1e85fbb71392267267","AC Transit Bus #51A","Travel & Transport::Bus Station::Bus Line",37.775122260282785,-122.27254165076525
+"4bc0aef44cdfc9b6b23c9321","San Francisco Bay Trail","Outdoors & Recreation::Hiking Trail",37.73721675840164,-122.25223640067317
+"4bc0dbee920eb71370b6192c","Mona's Table","Food::Breakfast Spot",37.756024,-122.233502
+"4bc15261f8219c749852b310","Z's","Nightlife Spot::Bar",37.77432229987998,-122.26436130477792
+"4bc3691cdce4eee11697719d","Hawthorn Suites - Oakland/Alameda","Travel & Transport::Hotel",37.77596354484558,-122.27645265
+"4bc5352e69369521a7df8388","Alameda Point Gym","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.789198738383334,-122.30549481864215
+"4bc7dcc015a7ef3be34e7ada","La Piñata Restaurant","Food::Mexican Restaurant",37.76515579223633,-122.24192810058594
+"4bc91e24cc8cd13aef28bbcf","Longfellow Park","Outdoors & Recreation::Athletic & Sport::Basketball Court",37.774632765914475,-122.28124380111694
+"4bcb3b1cfb84c9b6d95d1e3e","Christ Episcopal Church","Professional & Other Places::Spiritual Center::Church",37.7712236241885,-122.256030774255
+"4bcdde48cc8cd13a1844c3cf","Alameda Family Physicians","Professional & Other Places::Medical Center::Doctor's Office",37.763658373312516,-122.24098920822144
+"4bcf7eb941b9ef3b328ef8e5","Fiserv Inc","Professional & Other Places::Office",37.7269506236915,-122.241810872317
+"4bcf813b9854d13a5c35f64d","Washington Park Tennis Courts","Outdoors & Recreation::Athletic & Sport::Tennis Court",37.768526,-122.27339511
+"4bd0cb36caff95214590cff0","Haight Elementary School","Professional & Other Places::School::Elementary School",37.76930895527109,-122.25110083197364
+"4bd0fdab77b29c743bff8b82","Valero","Shop & Service::Gas Station / Garage",37.76890998,-122.23934769630432
+"4bd24902a8b3a59396a6675f","Sway","Shop & Service::Clothing Store::Women's Store",37.76387868740435,-122.24284682319288
+"4bd35c5e77b29c7435a89082","Alameda  Sewing Cottage","Shop & Service::Bridal Shop",37.757581,-122.230987
+"4bd375d8462cb7132d89de07","Starland Music Center","Shop & Service::Music Store",37.767506,-122.240618
+"4bd37d40462cb713dc9cde07","To Herb With Love","Arts & Entertainment::Arcade",37.763452263379065,-122.2434894400754
+"4bd4738c637ba59346a9f470","Chuck Corica Golf Complex","Outdoors & Recreation::Athletic & Sport::Golf Course",37.7389645449024,-122.23407693223562
+"4bd4b6e429eb9c74f33792e1","The Pampered Pup","Food::Hot Dog Joint",37.764297,-122.242941856384
+"4bd6119c6798ef3b9886648d","Color Me Mine","Shop & Service::Arts & Crafts Store",37.7577358166667,-122.251567
+"4bd87f8509ecb71337ff487c","IPD","Professional & Other Places::Office",37.785128646375455,-122.27368252925481
+"4bdc54012a3a0f47e252b2b6","Alameda Dog Park","Outdoors & Recreation::Dog Run",37.76772825926533,-122.27281856414353
+"4bdcc4bdc79cc928ae1288e9","Svendsen's Chandlery","Shop & Service::Miscellaneous Shop",37.77471570886686,-122.24872994714549
+"4bdde243587b2d7f14795509","michaan's auctions","Shop & Service::Antique Shop",37.78791,-122.300937
+"4bddfb6fffdec928cc3ae7a1","Jackson Park","Outdoors & Recreation::Park",37.7621462142539,-122.240830310626
+"4bde2bbae75c0f477236c703","Ballena Point","Outdoors & Recreation::Beach",37.77100099969142,-122.28694572863829
+"4bdee768e75c0f47cb31c903","Alameda/Oakland Ferry","Travel & Transport::Ferry::Boat or Ferry",37.79122346734114,-122.29414426750027
+"4bdf3c446198c9b6d06d16ff","Sumiko Cafe","Food::Asian Restaurant",37.774335,-122.264336
+"4be0ac09adacb713843a38d4","Alameda Marina","Outdoors & Recreation::Harbor / Marina",37.77586743749101,-122.25063552228384
+"4be2d4cc21d5a59343651711","Santoro's","Food::Deli / Bodega",37.77353481,-122.282454
+"4be2fc4cd27a20a16ee7905b","Ruby's Tumbling","Shop & Service::Gym / Fitness Center::Gym",37.764469871398695,-122.24024861723213
+"4be3174321d5a5937b2a1811","Daphne's Greek Café","Food::Greek Restaurant",37.75543975830078,-122.25045013427734
+"4be34a6db02ec9b6c5224fc0","Safeway Fuelstation","Shop & Service::Gas Station / Garage",37.758615882641365,-122.250816822052
+"4be3518621d5a5937bd91811","U.S. Bank","Shop & Service::Bank",37.76455914707908,-122.24098542832894
+"4be43d972468c9282178fe42","Bus Stop","Travel & Transport::Bus Station",37.77710724,-122.276597
+"4be4ac24cf200f475154123c","Body Techniques Massage & Acupuncture","Shop & Service::Spa / Massage",37.724344,-122.236192
+"4be5a1c1d4f7c9b6d8a72520","Walking","Food::American Restaurant",37.7775460481644,-122.282193303108
+"4be6f186bcef2d7f26a105e5","Vicky's Salon","Shop & Service::Cosmetics Shop",37.7713769674301,-122.270419
+"4be8c0f29a54a5935e6b0a11","Bridgehead Studio","Arts & Entertainment::Art Gallery",37.7690273523331,-122.235095233333
+"4beb56a4b3352d7f646d56d2","Alameda Beach","Outdoors & Recreation::Beach",37.75812815505155,-122.2610092163086
+"4bede5564daaa5936a6c8f61","Crab Cove","Outdoors & Recreation::Beach",37.76854362092148,-122.27834701538086
+"4bee05582c082d7fbeed2f42","Commodore Event","Travel & Transport::Ferry::Boat or Ferry",37.791116736221234,-122.27707028388977
+"4beee19e2c082d7f590a3142","Encinal Boat Launch","Outdoors & Recreation::Harbor / Marina",37.77192309432394,-122.2916469834779
+"4bef151d96edc9b6ae474af2","76","Shop & Service::Gas Station / Garage",37.766652301315446,-122.24127350346572
+"4bef29a55e7b9c740d21b58d","Taco Bell","Food::Taco Place",37.76880885673,-122.232481321926
+"4bf0a98f70779521776b3e7c","Otaez Mexican Restuarant Alameda","Food::Mexican Restaurant",37.7760124206543,-122.27680206298828
+"4bf14de017f6a5939c26232d","Cool Systems","Professional & Other Places::Office",37.7853849,-122.27419145
+"4bf4a320706e20a1baa5a998","Round Table Pizza","Food::Pizza Place",37.76876147447558,-122.23215444048515
+"4bf5f8b75efe2d7fe07a6634","Bay Farm Elementary","Professional & Other Places::School",37.7442548579134,-122.251156225849
+"4bf778ee5317a5932638fe7e","ampm","Shop & Service::Gas Station / Garage",37.762136,-122.244345
+"4bf97ba95efe2d7f854e6c34","Alameda Beach","Outdoors & Recreation::Beach",37.75812815505155,-122.2610092163086
+"4bf985ee5317a593936d017f","Alameda Beach","Outdoors & Recreation::Beach",37.75812815505155,-122.2610092163086
+"4bfadb6dd0382d7f22e3c80a","Starland","Shop & Service::Music Store",37.76748,-122.240275740623
+"4bfb04a9d0382d7f601fc90a","The UPS Store","Professional & Other Places::Building",37.783692,-122.272306
+"4bfdbac0b68d0f472c43e957","AC Transit - 31","Travel & Transport::Bus Station::Bus Line",37.786148189859496,-122.27354049682617
+"4bff40a04e5d0f4765f07d1f","Kofman Auditorium","Arts & Entertainment::Performing Arts Venue",37.76444796,-122.245999574661
+"4c0144c6cf3aa59398bcccb0","Nail Boutique","Shop & Service::Cosmetics Shop",37.7716694,-122.277248793952
+"4c01884e716bc9b6b90bbc55","Sunbodyz Tanning Salon","Shop & Service::Tanning Salon",37.7710615,-122.2380285
+"4c01b830716bc9b6d263bc55","Bayport island","Shop & Service::Clothing Store",37.78027014033038,-122.28798124078472
+"4c02c236f423a5936345cf16","Brown Bros Shoes","Shop & Service::Clothing Store::Shoe Store",37.775099,-122.270579338074
+"4c02cb8f310fc9b62c00c561","Summer House Pool","Outdoors & Recreation::Pool",37.778503522707574,-122.28388897086364
+"4c0566bd191f20a1520ae314","Ton Shen","Food::Chinese Restaurant",37.764944,-122.24144858
+"4c05aef85753c928dce339f1","Subway Sandwiches & Salads","Food::Sandwich Place",37.78367,-122.273042
+"4c10516f3ce120a144ff071c","Gabe's Buick Skylark","Travel & Transport::General Travel",37.772583,-122.265827
+"4c11e3ba72caa59388525ea4","Fireden","Nightlife Spot::Bar",37.761911,-122.24503112
+"4c13b531a1010f47b90d4b18","Jim's On The Course","Food::Diner",37.738992,-122.23315
+"4c13dd56a5eb76b0ccbcc0b7","Nine West - Southshore","Shop & Service::Clothing Store::Shoe Store",37.757199,-122.25228
+"4c15333a77cea59321d1d160","Calvary Christian Center","Professional & Other Places::Spiritual Center::Church",37.77187586666667,-122.25520123333334
+"4c156a2aa5eb76b02759c3b7","Club Natique","Outdoors & Recreation::Harbor / Marina",37.76785404556653,-122.28716169189687
+"4c1acf88b9f876b0d0597946","Fruits & Chocolate","Food::Dessert Shop",37.75690355,-122.251326441765
+"4c1aea5e8b3aa593957e965f","Aria supermarket","Food::Eastern European Restaurant",37.77515085,-122.2766552
+"4c1be213b4e62d7fa223da93","Pagano's","Shop & Service::Hardware Store",37.75594807705569,-122.25177663529003
+"4c1c241463750f47c225b667","Kabob Central","Food::Mediterranean Restaurant",37.764557,-122.243736
+"4c201b0beac020a1a72d4cc2","Sushi King","Food::Japanese Restaurant",37.767691,-122.2394
+"4c22c7d59a67a5935a23dd87","76","Shop & Service::Gas Station / Garage",37.73639659235166,-122.24068627255674
+"4c2542c9f1272d7f688784c5","Subway","Food::Sandwich Place",37.7375303929459,-122.240023612976
+"4c261560136d20a1499de461","Former Naval Air Station Alameda","Professional & Other Places::Military Base",37.78536811469731,-122.30134963989258
+"4c28ae5f3492a59338b0b728","Meritage Alameda, CA","Travel & Transport::Ferry::Boat or Ferry",37.783324,-122.26465
+"4c296e873492a593e902b928","Redbox","Shop & Service::Video Store",37.7682338053849,-122.242276220478
+"4c2b01e257a9c9b6e947f567","Bay Farm Pier","Outdoors & Recreation::Other Great Outdoors",37.75026490344373,-122.2361323534596
+"4c2ccdc7b34ad13afadfebce","Providence Veterinary Hospital","Professional & Other Places::Medical Center::Veterinarian",37.767892,-122.2417177679684
+"4c2d30f47d85a5938d3e52f3","See's Candies","Shop & Service::Candy Store",37.7566750426615,-122.251189462161
+"4c2e14d44e132d7fd97b9ddf","Shore Line Drive Jogging Path","Outdoors & Recreation::Beach",37.75867718943628,-122.25389818673803
+"4c30b9ea3896e21e86efe590","City of Alameda Mayor's 4th of July Parade","Arts & Entertainment::General Entertainment",37.765828,-122.261207699776
+"4c30e536452620a10ad01f0f","Rittler Park","Outdoors & Recreation::Park",37.76191619675564,-122.26154760797189
+"4c33b67366e40f479b76c88b","Washington Elementary School","Professional & Other Places::School",37.7713036621658,-122.273245009338
+"4c34fed53896e21e9985ec90","Crab Cove Visitor Center","Outdoors & Recreation::Beach",37.768887877464294,-122.27807343006134
+"4c37fc302c8020a19b298a00","Yellowtail Japanese Bistro","Food::Japanese Restaurant",37.76321,-122.243032
+"4c3be4df7d002d7fcdcfad18","SummerHouse Gym","Shop & Service::Gym / Fitness Center::Gym",37.77818269659633,-122.2830195508834
+"4c3e205f51dee21eaa2eea6e","Operating Engineers Local 3 - District 20","Professional & Other Places::Office",37.72358000278473,-122.23985731601715
+"4c3e3d74b0379521b21a9ba7","Baskin Robbins","Food::Ice Cream Shop",37.768998,-122.23275
+"4c3e5b890596c9281a3d8478","Bank Of Alameda","Shop & Service::Bank",37.76452711611968,-122.2420934053709
+"4c3e9eda83a3a593426aee33","535 Buena Vista Social Club","Nightlife Spot::Lounge",37.77767,-122.283639
+"4c3f280e80bc20a168f8ab58","Engage PR","Professional & Other Places::Office",37.726874,-122.235831
+"4c409bbacc410f4762e3a961","Mariner Square Marina and Dry Stack","Outdoors & Recreation::Harbor / Marina",37.79118234274113,-122.27701094468793
+"4c40f9a53735be9a4cc117a4","AC Transit Bus "O" Line","Travel & Transport::Bus Station::Bus Line",37.77291250541988,-122.26014627063253
+"4c426ad4ce54e21e73ba0c1a","Bay Farm Island","Outdoors & Recreation::Other Great Outdoors",37.73739463909152,-122.2512674331665
+"4c440a1c8c1f20a10de13b99","Estuary @ Alameda Point","Outdoors & Recreation::Harbor / Marina",37.78197584365823,-122.30104886924198
+"4c447a2b429a0f470ac4481e","Kaiser Permanente","Professional & Other Places::Medical Center::Doctor's Office",37.76411637898434,-122.24196553230286
+"4c451a9df799e21eaed9aea2","SummerHouse Gym","Shop & Service::Gym / Fitness Center::Gym",37.77818269659633,-122.2830195508834
+"4c4700fd5438b71396f6b57b","Wind River","Professional & Other Places::Office",37.7808676350545,-122.261830088762
+"4c4a58be46240f47c69aacf1","Rhythmix Cultural Works","Arts & Entertainment::Concert Hall",37.76979446411133,-122.23529756069183
+"4c4a8d65959220a1f4b3490e","Panda Restaurant","Food::Chinese Restaurant",37.765061,-122.242040634155
+"4c4b21cd9e6dbe9a58f3a00b","Alameda Art & Wine Festival","Arts & Entertainment::General Entertainment",37.7636843919754,-122.243833
+"4c4b6bbe5609c9b6d4531891","Park Street Art & Wine Festival","Arts & Entertainment::Art Gallery",37.76529306,-122.24209
+"4c4c82ff9c8d2d7f4032886c","Alameda Civic Center Parking","Professional & Other Places::Parking",37.7610291273349,-122.244054496552
+"4c508413c71876b00e7bd855","Monkey Bars","Shop & Service::Clothing Store::Kids Store",37.763572,-122.24348366260529
+"4c51f2fe9d642d7f4e8f6bde","Scolari's Good Eats","Food::Restaurant",37.7627068,-122.24419246666666
+"4c54382f1b46c9b6763738ce","Coral Reef Inn & Suites","Travel & Transport::Hotel::Motel",37.75532,-122.24909
+"4c55d97d479fc9285fef8a95","Soleil's African Cuisine","Food::African Restaurant",37.77494839697897,-122.27663435714855
+"4c5b5a0294fd0f4771e0c545","Island Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.7713222,-122.26993006666666
+"4c5b65fb7f661b8d10fa451c","Encinal Yacht Club","Food::American Restaurant",37.78237438,-122.2631808
+"4c5b7dc294fd0f478f51c645","Blue Lagoon","Nightlife Spot::Lounge",37.76273,-122.2604
+"4c6017f813791b8d13bc4eaf","Mastick Senior Center Alameda, Ca","Arts & Entertainment::General Entertainment",37.774194,-122.264318
+"4c644623263fc928b739e891","Pier 3 Jimmy Little Pier","Outdoors & Recreation::Scenic Lookout",37.77228355407715,-122.30107605457306
+"4c675a96f7a80f477111a17a","Discount City","Shop & Service::Miscellaneous Shop",37.7729210065364,-122.276451600951
+"4c6860ab31ba2d7f07a8f772","Market Spot","Shop & Service::Food & Drink Shop::Grocery Store",37.77433161613366,-122.26436130477792
+"4c6b2752599fbe9a663a923f","Happy Feet","Shop & Service::Clothing Store::Kids Store",37.76402809292975,-122.24284128337536
+"4c6c65d1e13db60c53ffd5b1","Kinuko's Beauty Creation","Shop & Service::Salon / Barbershop",37.761074,-122.245552
+"4c6d5217e6b7b1f7b751a98e","Dr. Tonsberg, Dentist","Professional & Other Places::Medical Center::Dentist's Office",37.770415,-122.2525324
+"4c7047f6d7fab1f73c155ec9","Ralph's Filipino Store","Shop & Service::Miscellaneous Shop",37.77527252884962,-122.27270226061239
+"4c72017957b6a1438a97c4cc","Fruitti Yogi","Food::Ice Cream Shop",37.765709,-122.242844
+"4c75b8483adda143154908af","Peter Pan Pre-School","College & University::College Classroom",37.7844004,-122.275646733333
+"4c78155781bca093b1e2f814","Pearl's Deluxe Burger","Food::Burger Joint",37.76081466674805,-122.23854064941406
+"4c7849a92d3ba1434b7c8ad0","Hangar One Distillery & Tasting Room","Food::Distillery",37.787625,-122.309709333333
+"4c7a170e97028cfadc53ddfe","The Island City Alameda","Outdoors & Recreation::Other Great Outdoors",37.771103891556926,-122.2862867611125
+"4c7c119381bca093270d0515","Spirit Halloween","Shop & Service::Miscellaneous Shop",37.765824,-122.241865
+"4c7e9ed71415b7130d24fa5c","AMF Southshore Lanes","Arts & Entertainment::Bowling Alley",37.75455856323242,-122.24955749511719
+"4c82812647cc224b2c64869f","Farwell Bridge","Travel & Transport::General Travel",37.597556,-121.946071
+"4c856af951ada1cd77be3710","Garden Isle pool","Outdoors & Recreation::Pool",37.730848807210236,-122.23557279526412
+"4c85e098e602b1f7ce78bb7a","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.783311910597824,-122.27401482166154
+"4c86ac8b53fcb60cc67db34d","Garden Cleaners","Shop & Service::Laundry Service",37.774217,-122.276782
+"4c86f0ead92ea09377847272","Upper Washington Park","Outdoors & Recreation::Park",37.77118464820094,-122.27347761508702
+"4c896df7e51e6dcb103c60de","Gerald Gelle DDS","Professional & Other Places::Medical Center::Dentist's Office",37.767546,-122.25126677
+"4c897f183dc2a1cd8fefa432","Yanix Pond","Outdoors & Recreation::Playground",37.77743,-122.28334
+"4c89d355159cbfb702246e35","Habana's Cuban Cuisine","Food::Caribbean Restaurant",37.76568603515625,-122.2413101196289
+"4c8ab0351797236a6ffb6388","Abigail Cafe & Deli","Food::Moroccan Restaurant",37.76617771,-122.287949
+"4c8adce452a98cfac2db30e9","Pearl's Deluxe Burgers","Food::Burger Joint",37.75639453559824,-122.25026438095743
+"4c8bc5c7f87e224b9b752e05","Webster Street Jam","Arts & Entertainment::General Entertainment",37.77349,-122.276376
+"4c8c456e5e048cfa62aecbcd","La Penca Azul","Food::Mexican Restaurant",37.76513017934742,-122.24180533244589
+"4c8d1349cf3ea143a9dbfa51","Jworld Sailing","Travel & Transport::Ferry::Boat or Ferry",37.793092131614685,-122.280876
+"4c9673d758d4b60cc1343b29","Cafe Au Lait","Food::Café",37.756071104020144,-122.23330129131062
+"4c993288a004a1cd86a73d6e","Thin Man Music","Shop & Service::Music Store",37.77366,-122.276843
+"4c9bf13146978cfa32c7897f","Southshore Cafe","Food::Diner",37.75954995,-122.253388
+"4c9c17500e9bb1f7ba04d15f","Pizza House","Food::Pizza Place",37.77754,-122.28369
+"4c9fba6346978cfa12aaad7f","3 In The Pink- Hangar One","Nightlife Spot::Cocktail Bar",37.787752,-122.30976868333333
+"4ca2a66d750ca0934d741267","GNC","Shop & Service::Sporting Goods Shop",37.7576829348129,-122.251339025434
+"4ca7cb59b0b8236a5f34ade6","Alpha Phi Omega","College & University::Fraternity House",37.77753,-122.28374
+"4cae13e32a55224b16df7369","Ross Dress For Less","Shop & Service::Department Store",37.7584674441501,-122.2544002532959
+"4cb0b7e139458cfa1e6605a0","Park St Classic Car Show","Arts & Entertainment::General Entertainment",37.7655685,-122.242049725
+"4cb0cfc7ef1b370431423e00","Lioness In The Estuary","Travel & Transport::Ferry::Boat or Ferry",37.78340001488947,-122.26475455176082
+"4cb2240c39458cfab30311a0","The Roederhaus","Nightlife Spot::Speakeasy",37.741126,-122.242814
+"4cb35bee39458cfab8d919a0","Alameda Skatepark","Outdoors & Recreation::Athletic & Sport::Skate Park",37.789264,-122.30670598333333
+"4cba01084495721e79d64d7a","Rocket Reuse Books","Shop & Service::Antique Shop",37.7639550441578,-122.24302963701
+"4cc0b9cf5684a35d0b4eb40d","Dr. Curt Brouhard","Professional & Other Places::Medical Center::Dentist's Office",37.76911190246325,-122.2511673046208
+"4cc7048542d1b60c3ba82c13","Bayside Medical Group","Professional & Other Places::Medical Center::Doctor's Office",37.7634054422379,-122.2421
+"4cc7e42d3c40a35d197f712e","Zheengai's pad","Arts & Entertainment::Bowling Alley",37.77753,-122.28373
+"4cc8e7d3d147a093423fe4ae","AC Transit Bus #20","Travel & Transport::Bus Station::Bus Line",37.77339229686208,-122.27395943966576
+"4cca5ba47965b60c6e4e858a","ampm","Shop & Service::Gas Station / Garage",37.762136,-122.244345
+"4ccf04ccba0a54812e324c59","Alameda Athletic Club","Shop & Service::Gym / Fitness Center",37.761509969449016,-122.2449463933369
+"4cd7075db2a4370475338844","European Wax Center","Shop & Service::Cosmetics Shop",37.756872,-122.251255
+"4cd99a261891236a54583c0b","Bay View Nursing","Professional & Other Places::Medical Center",37.7600741386414,-122.25423305
+"4ce7383ad99f721eebeca873","Juanita's","Food::Mexican Restaurant",37.7628205313965,-122.243162592317
+"4cfae2d5c671721eab46c018","Jadyn Taylor Nail Spa","Shop & Service::Spa / Massage",37.76384065,-122.23870818
+"4d129f27ffa1224b05aa9aad","Daly City Train","Travel & Transport::Train Station::Train",37.7648544751773,-122.23678609100584
+"4d255e425886a09354b1f252","Mel's Bowl","Arts & Entertainment::Bowling Alley",37.754713,-122.249519
+"4d266e58c406721eddd35eb6","Mermaid Martini","Outdoors & Recreation::Ski Area",37.77752588,-122.28070946
+"4d41ef315af26ea8ef797e6e","Lincoln Park","Outdoors & Recreation::Pool",37.757954372909715,-122.23020975226659
+"4d4ff6449b27721eb012a946","Anytime Fitness","Shop & Service::Gym / Fitness Center",37.7372072231578,-122.240730591983
+"4d55a842d8f7a09021fbd60a","West Alameda Country Club","Outdoors & Recreation::Garden",37.775904808090836,-122.28338420391083
+"4d6d463f183a236af6815e3a","Marina Village","Professional & Other Places::Office",37.7853234024728,-122.270503546146
+"4d90d11a2d86d7ceffdb93cb","Straw Hat Pizza","Food::Pizza Place",37.78364,-122.272601
+"4d97b2cea2c65481cc6be053","Alameda Point Dog Park","Outdoors & Recreation::Dog Run",37.790064,-122.296203
+"4d9b597c78f46ea8b3ce03fc","Primary Pediatrics Medical Group","Professional & Other Places::Medical Center::Doctor's Office",37.7631637034488,-122.243209
+"4da5f0310cb6d75e2a026340","Coast Guard Island Alameda Gym","Shop & Service::Gym / Fitness Center::Gym",37.781117245439695,-122.2488296583162
+"4db7b26193a04a7c3071131f","Dinosaurs","Outdoors & Recreation::Scenic Lookout",37.780150425253,-122.27656236232
+"4dbb13251e72b351ca8fec4a","East End Pizza Company","Food::Pizza Place",37.767836986895794,-122.239253
+"4dbc65a4fa8cee72734c545b","XeeOne","Outdoors & Recreation::Beach",37.785635,-122.267124
+"4dc44801ae608779d11d9d47","Pearls Burgers","Food::Burger Joint",37.7565711736679,-122.250596880913
+"4dc4c03b7d8b14fb4619cb83","Park Regent Apartments","Residence::Residential Building (Apartment / Condo)",37.768252,-122.248936
+"4dcd8e2045ddbe15f872cb97","Rising Star Montessori School","Professional & Other Places::School",37.7587521961829,-122.232326191875
+"4dced7a981dcbea2995b1fdf","Mama's Chicken Noodle","Food::Chinese Restaurant",37.77715444564819,-122.276857
+"4dcf21e9ae603b786d42383e","Rodeway Inn","Travel & Transport::Hotel::Motel",37.77888699681919,-122.27727677038402
+"4dd2083cb0fb0becaf8f970c","SummerHouse Apts","Residence::Residential Building (Apartment / Condo)",37.77861911403475,-122.28330197471361
+"4dd31ad9c65b47384cf17b19","Citibank","Professional & Other Places::Building",37.72645307926387,-122.24375534937822
+"4dd857ab2271c5d36d52eaf0","Island Taqueria","Food::Burrito Place",37.765768,-122.241637
+"4ddad46152b18c36c28ee873","Berkeley Heart Lab","Professional & Other Places::Building",37.78099536895752,-122.26998925209045
+"4de01d7e18380dc4dd2735ad","The Sunol Water Temple","Outdoors & Recreation::Scenic Lookout",37.5927674121641,-121.8840246886518
+"4de280dd45dd180ae547c0f8","Alameda Christian Reformed Church","Professional & Other Places::Spiritual Center::Church",37.757244,-122.235791
+"4de6eed7e4cd8786975d584e","La Penca Azul Tequila bar","Nightlife Spot::Bar",37.75585,-122.231227
+"4de834cee4cd157353f179fc","Afghan Tandoor","::Food",37.764692,-122.24371
+"4df1c239ae609e69dd9261fa","Fireside Lounge","Nightlife Spot::Bar",37.77304098333333,-122.2770571
+"4dfcfbf562846d918b96352e","Dollar City","Shop & Service::Thrift / Vintage Store",37.783672,-122.272365
+"4e061bf352b165b7d7a5d06d","Encinal.High Swimming Pool","Outdoors & Recreation::Pool",37.77207967736726,-122.28901120542827
+"4e1f935652b1f82ffb8bb2f6","Emma Hood Swim Center","Outdoors & Recreation::Pool",37.763899,-122.245427
+"4e25014e18a817bf05677376","Buena Vista avenue","Residence::Residential Building (Apartment / Condo)",37.77868219156425,-122.2833518141352
+"4e2b190a18387cce066f736d","Alameda Boys And Girls Club","Professional & Other Places::School",37.7788343614004,-122.286187084997
+"4e377377b61c5cb3c380e540","Islamic Center of Alameda","Professional & Other Places::Spiritual Center::Mosque",37.77329285782031,-122.27025747299194
+"4e3a0e481838961afefc0627","1400 Bar & Grill","Food::American Restaurant",37.77155413508991,-122.27673404221511
+"4e3c2cb9fa76455375a693a3","Subway","Food::Sandwich Place",37.75706422784696,-122.25267400684788
+"4e3f2e6c8130b2d2c414e274","Island City Cafe","Food::Sandwich Place",37.768730203841706,-122.23411202430725
+"4e434cc4aeb7d02fd0ddde23","Saint Francis All World Gym","Shop & Service::Gym / Fitness Center",37.76057352776752,-122.25233056924208
+"4e448adb62e1b6355aae4237","Sweetie Station Cafe","Food::Asian Restaurant",37.775428771972656,-122.27667999267578
+"4e4cbd6faeb77d4a40dfb25f","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.783311910597824,-122.27401482166154
+"4e4cc7a4bd413c4cc66c1b49","Angelfish Restaurant","Food::Restaurant",37.7373851738638,-122.240276316989
+"4e4ccaaabd413c4cc66c3186","Why Cook? Cafe","Food::Café",37.7267733365194,-122.24095218884
+"4e4d56ced22d10a6c5d70dc1","Kenz","Shop & Service::Salon / Barbershop",37.76211166381836,-122.24446868896484
+"4e5283bcaeb7560ca4adda1b","Alameda Veteran's Building","Professional & Other Places::Building",37.7662626061694,-122.246563975946
+"4e52a7acd22d41fba7a4747a","Boathouse Tavern","Food::American Restaurant",37.774591,-122.247138
+"4e541bc4d22d7b9b65764e34","Parker and Sears Orthodontics","Professional & Other Places::Medical Center::Dentist's Office",37.7711829,-122.2533744
+"4e65642d62e13e3bcfe7cea8","Spirit Halloween","Shop & Service::Clothing Store",37.757134,-122.249650118128
+"4e67dfc681dcaba7cca8d461","1st United Services Credit Union - Alameda Branch","Shop & Service::Bank",37.7825763108522,-122.275106906891
+"4e6acf1e18a83989eca2e245","Doggy-Style Hot Dogs","Food::Hot Dog Joint",37.761686948809796,-122.24483005939624
+"4e6b7c71227162c38ee255f9","The Ritz-Carlton, San Francisco","Travel & Transport::Hotel",37.7346290488738,-122.253610145675
+"4e84e6d14901e3c23e747d17","Referral Desk","Professional & Other Places::Medical Center::Doctor's Office",37.76373597,-122.24119523
+"4e98b5e79adffd1f47319e77","nVidia GeForce LAN","Shop & Service::Gaming Cafe",37.772417,-122.302607
+"4e99eb6761afc418b97fa71a","Spice I Am","Food::Thai Restaurant",37.7639274597168,-122.24331665039062
+"4ed6de6377c86e4f2ae289d4","Daiso Japan","Shop & Service::Convenience Store",37.75722232850214,-122.25218654669123
+"4eea8d5302d56b392295672c","Little Ice Rink","Outdoors & Recreation::Athletic & Sport::Skating Rink",37.76680396673667,-122.24012673821485
+"4eed7927b8f76a24a5408e14","Gibby's Lower flats","Professional & Other Places::Voting Booth",37.7744862809968,-122.272951482309
+"4efa2db8e300930672828d9d","Telecare Corporation","Professional & Other Places::Office",37.7857311297934,-122.271179226456
+"4f0f564ce4b0e77e3fbb2f4f","Original Red Onion","Food::American Restaurant",37.761356,-122.244887
+"4f147b94e4b0725feec04d3c","Bluefin Sushi Thai","Food::Asian Restaurant",37.75621982023709,-122.23368911247681
+"4f178073e4b04c15e631fec6","american oak","Nightlife Spot::Bar",37.765774267536,-122.242370397835
+"4f24886ee4b01dc94bc1ee47","Subpar Miniature Golf","Arts & Entertainment::General Entertainment",37.76594524795228,-122.24177763308522
+"4f299903e4b03a3767e7d2bd","Westin St. Francis - St. Francis Suite","Travel & Transport::Hotel",37.7786863867454,-122.290611507039
+"4f32113919833175d60d433e","Noahs Bagels South Shore","Food::Bagel Shop",37.757246,-122.253706
+"4f32217f19836c91c7b91b74","Linguini's Pizza and Brew","Food::Pizza Place",37.765503,-122.241745
+"4f4c0408121dc37e202ace44","Monkey King Pub & Grub","Food::Asian Restaurant",37.76308162139503,-122.24390745162964
+"4f5d00d9e4b0090c0aff6dc6","Café Jolie","Food::Café",37.773467235982665,-122.27663435714855
+"4fc1b8e2e4b04422a1439c7e","Off The Grid - Alameda","Food::Food Truck",37.759537,-122.251675
+"4fef7341e4b094d300eb281f","Food Truck Satuday @ South Shore Center","Food::Food Truck",37.75562286376953,-122.24983215332031
+"508c2d75e4b017e5782a4c28","Hapa SF @Off The Grid Alameda","Food::Food Truck",37.755563,-122.249723
+"50a59c79e4b05950577e401a","The Little Ice Skating Rink","Outdoors & Recreation::Athletic & Sport::Skating Rink",37.75574638322042,-122.2498046070763
+"50c300e0e4b0e7fe4d0950fd","Butt Shült Hotel","Nightlife Spot::Bar",37.77924519958742,-122.28437628596106

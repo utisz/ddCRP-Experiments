@@ -1,0 +1,415 @@
+"4165d880f964a520781d1fe3","Bahama Breeze","Food::Caribbean Restaurant",47.46106,-122.261416
+"43a81a89f964a5206e2c1fe3","Best Buy","Shop & Service::Electronics Store",47.44761926171291,-122.26055228433779
+"43b996b9f964a520e02c1fe3","Mizu Japanese Steak","Food::Japanese Restaurant",47.45544363462007,-122.25605249404907
+"43f11afff964a520822f1fe3","Westfield Southcenter Mall","Shop & Service::Mall",47.45873704984453,-122.25843429565428
+"4576201df964a520a63e1fe3","Target","Shop & Service::Department Store",47.45501490950588,-122.25792531683288
+"45aaa417f964a52037411fe3","Starbucks Coffee","Food::Coffee Shop",47.44570726720745,-122.26032257080078
+"45aaa4e1f964a52038411fe3","Pier 1 Imports","Shop & Service::Furniture / Home Store",47.44704231541526,-122.2602367401123
+"45aaa5a8f964a52039411fe3","Ross Dress for Less","Shop & Service::Clothing Store",47.4449599698323,-122.25988531329004
+"45ab6a40f964a52041411fe3","Applebee's","Food::American Restaurant",47.44358907405809,-122.26055970963131
+"45e7ee22f964a5205e431fe3","Taco Time","Food::Mexican Restaurant",47.44168015024681,-122.24781274795532
+"45e7f0aef964a52060431fe3","Claim Jumper","Food::American Restaurant",47.44106335736288,-122.25980758666992
+"45f172b0f964a520cb431fe3","Burger King","Food::Fast Food Restaurant",47.454418,-122.25463
+"46111781f964a5202d451fe3","David's Bridal","Shop & Service::Bridal Shop",47.44368875,-122.259936
+"461117d1f964a5202e451fe3","Les Schwab Tire Center","Shop & Service::Automotive Shop",47.44174,-122.24891781806946
+"463b1fbaf964a52020461fe3","Galliano's Cucina","Food::Italian Restaurant",47.475853682477585,-122.25886344909668
+"474bd962f964a5209e4c1fe3","Panera Bread","Food::Bakery",47.44895776017972,-122.26019382476807
+"47a48cbdf964a520804d1fe3","California Pizza Kitchen","Food::Pizza Place",47.45856211168823,-122.25378470824101
+"47fd0d51f964a520da4e1fe3","Olive Garden","Food::Italian Restaurant",47.45625975343263,-122.25773692131042
+"4810494df964a5202d4f1fe3","Randy's Restaurant","Food::Diner",47.51290725185155,-122.29397824777801
+"48f9a7e0f964a5204f521fe3","Party City","Shop & Service::Gift Shop",47.448057,-122.2603440284729
+"49162e2bf964a5206f521fe3","The Museum of Flight","Arts & Entertainment::Museum",47.518417998541324,-122.29675769805908
+"49c9c404f964a52097581fe3","O Sushi","Food::Sushi Restaurant",47.4601833006218,-122.24528007975476
+"49e3e3c9f964a520e7621fe3","Costco Wholesale","Shop & Service::Department Store",47.44550410472707,-122.24839210510254
+"4a0ede1af964a520f4751fe3","Starbucks","Food::Coffee Shop",47.48575847473231,-122.27283239364624
+"4a11bb23f964a5203b771fe3","Starfire Sports","Outdoors & Recreation::Athletic & Sport::Soccer Field",47.46963419290922,-122.24965695712447
+"4a56d81bf964a520d0b51fe3","Red Robin Gourmet Burgers","Food::Burger Joint",47.44840635141267,-122.26216793060303
+"4a624cc7f964a520b5c31fe3","Outback Steakhouse","Food::Steakhouse",47.453998575375444,-122.26187819
+"4a626782f964a520f9c31fe3","Tukwila International Blvd Station","Travel & Transport::Light Rail",47.46438035224673,-122.28838920593262
+"4a6ceb33f964a52011d21fe3","Regal Parkway Plaza 12","Arts & Entertainment::Movie Theater::Multiplex",47.44254364813588,-122.25869178771973
+"4a761a1df964a5203be21fe3","Taco Bell","Food::Fast Food Restaurant",47.457064390182495,-122.24360704421997
+"4a7ba6d9f964a5209feb1fe3","Bai Tong Thai Restaurant","Food::Thai Restaurant",47.45256644503438,-122.26109313949506
+"4a7bbad3f964a520b5eb1fe3","Foster Golf","Outdoors & Recreation::Athletic & Sport::Golf Course",47.48162566253266,-122.26615905761719
+"4a7ca410f964a5200bed1fe3","Family Fun Center","Arts & Entertainment::Arcade",47.465526347369206,-122.24388599395752
+"4a872b0af964a520000320e3","Zoopa","Food::Salad Place",47.45566126754191,-122.25465774536133
+"4a872cbcf964a520070320e3","Marinepolis Sushi Land","Food::Sushi Restaurant",47.45955733849319,-122.25324752777388
+"4a873894f964a520550320e3","Famous Dave's Bar-B-Que","Food::BBQ Joint",47.44443023286707,-122.26105213165283
+"4a91cc9bf964a520dc1b20e3","Annex","Nightlife Spot::Bar",47.510467171669006,-122.29293286800385
+"4a923c76f964a520001d20e3","Men's Wearhouse","Shop & Service::Clothing Store::Men's Store",47.45099723339081,-122.262807
+"4a923cdbf964a520021d20e3","Macy's","Shop & Service::Department Store",47.459636537080435,-122.25924968719482
+"4a948dd8f964a520fc2120e3","Qdoba Mexican Grill","Food::Mexican Restaurant",47.459542236721326,-122.25354194641113
+"4a97527af964a5205c2920e3","Billy Baroo's Bar and Grill","Food::American Restaurant",47.481384730959896,-122.26512219385603
+"4a99dc49f964a520d93020e3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",47.45615780353546,-122.25312
+"4a9dd5fef964a5209e3920e3","Nordstrom","Shop & Service::Department Store",47.459489046723505,-122.26093219816494
+"4aa5909ef964a520d14820e3","Blue C Sushi","Food::Sushi Restaurant",47.457518365170635,-122.25927114486694
+"4aa6f2c3f964a5209a4b20e3","Tulip's Nails","Shop & Service::Cosmetics Shop",47.4549,-122.256698
+"4aa88fbbf964a520945120e3","Cheesecake Factory","Food::American Restaurant",47.456676875934264,-122.25995779037476
+"4aaad3cdf964a520975720e3","Tukwila Pond","Outdoors & Recreation::Lake",47.454733,-122.258179
+"4ab0043cf964a520896520e3","ACME Bowling, Billiards & Events","Arts & Entertainment::Bowling Alley",47.4598684524742,-122.25339401245013
+"4ab15e77f964a5202c6920e3","Apple Store","Shop & Service::Electronics Store",47.45908910784702,-122.25790117077533
+"4ab2a6cbf964a520c46b20e3","Barnes & Noble","Shop & Service::Bookstore",47.455425,-122.25266218185425
+"4ab45abdf964a520fd7020e3","REI","Shop & Service::Sporting Goods Shop",47.45643073984109,-122.25361781652411
+"4ab833fdf964a5208c7c20e3","Panda Express - Parkway","Food::Chinese Restaurant",47.45011746883392,-122.2620248
+"4abc2c64f964a520a68620e3","Stanford's Restaurant And Bar","Food::American Restaurant",47.44727032332877,-122.26198233128424
+"4abff207f964a5202d9320e3","Petco","Shop & Service::Pet Store",47.449314,-122.2588725
+"4abff265f964a5202e9320e3","PetSmart","Shop & Service::Pet Store",47.44475120410414,-122.2632538510293
+"4abff3e7f964a520319320e3","Marshalls","Shop & Service::Department Store",47.44823,-122.26071177
+"4ac06d5df964a520429420e3","ampm","Shop & Service::Gas Station / Garage",47.46413209,-122.26015408974406
+"4ac185dbf964a520629720e3","Chipotle Mexican Grill","Food::Mexican Restaurant",47.449189930562696,-122.26161003112793
+"4ac186b0f964a520659720e3","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",47.44988268,-122.26138801666667
+"4ac19cacf964a520949720e3","RE-PC Tukwila","Shop & Service::Electronics Store",47.45211816,-122.253293
+"4ac4fda5f964a520d29f20e3","JOEY Southcenter","Food::American Restaurant",47.45754738180067,-122.25860595703125
+"4ac91e09f964a520b0be20e3","Azteca Mexican Restaurant","Food::Mexican Restaurant",47.445374,-122.262352
+"4ac92a58f964a520f4be20e3","Nordstrom Rack","Shop & Service::Department Store",47.44888520672485,-122.25854158401489
+"4aca8cdbf964a52054c220e3","Michaels","Shop & Service::Arts & Crafts Store",47.4468101355523,-122.2604513168335
+"4acb56fdf964a52083c320e3","Jet Fuel Espresso","Food::Coffee Shop",47.502204989305405,-122.29304471502088
+"4acc0a29f964a520a6c820e3","Kohl's","Shop & Service::Department Store",47.44984697464364,-122.25894209279562
+"4acf5caff964a5203ad320e3","BECU Tukwila Financial Center","Shop & Service::Credit Union",47.48925298501622,-122.27341175079346
+"4acfe779f964a520d0d620e3","Lowe's Home Improvement","Shop & Service::Hardware Store",47.46055051641225,-122.25073099136353
+"4ad0c5f4f964a520b5d920e3","Tux Shop","Shop & Service::Clothing Store::Men's Store",47.461219,-122.25377
+"4ad244def964a5208ee020e3","The Old Spaghetti Factory","Food::Italian Restaurant",47.44992996681875,-122.26038694381714
+"4ad263f8f964a52058e120e3","Mali Thai Cuisine","Food::Thai Restaurant",47.44834440026411,-122.26153485062386
+"4ad267a4f964a52071e120e3","Old Navy","Shop & Service::Clothing Store",47.445984,-122.260461291412
+"4adbab84f964a520eb2921e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",47.45887626410479,-122.25351103704135
+"4adbc6d4f964a520932a21e3","BJ's Restaurant & Brewhouse","Food::Brewery",47.45763443159466,-122.25706100463867
+"4adc8e7ef964a520352d21e3","Jack in the Box","Food::Fast Food Restaurant",47.48547434806824,-122.272285
+"4ae27069f964a5204c8e21e3","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",47.44931327271841,-122.26125805688477
+"4aec9afcf964a52056c921e3","Lovers","Shop & Service::Miscellaneous Shop",47.46458642497672,-122.26763936410065
+"4aecaabbf964a5201cca21e3","LifeWay Christian Store","Shop & Service::Bookstore",47.448268,-122.261003
+"4aecbacbf964a520b1ca21e3","Furniture Factory Direct","Shop & Service::Furniture / Home Store",47.45629447237987,-122.25124304812203
+"4aecf562f964a52070cc21e3","Sephora","Shop & Service::Cosmetics Shop",47.45859906429464,-122.25917645767214
+"4aecff0cf964a5209fcc21e3","dELiA*s","Shop & Service::Clothing Store",47.45853208980493,-122.25908171013062
+"4af39d88f964a520f2ee21e3","Verizon Wireless","Shop & Service::Electronics Store",47.4588095897082,-122.260494232178
+"4af48dbff964a520c8f321e3","KCLS Library Connection","Professional & Other Places::Library",47.45920130324268,-122.25577354431152
+"4af74615f964a520da0722e3","GameStop","Shop & Service::Video Game Store",47.4580877115513,-122.25881621083221
+"4afa5ac1f964a520c11722e3","Auntie Anne's Pretzels","Food::Snack Place",47.45879063130683,-122.25914691537723
+"4afcd1cdf964a520172622e3","Chevron Station","Shop & Service::Gas Station / Garage",47.50608427682597,-122.29113578796387
+"4b087ba1f964a520c90c23e3","Acura of Seattle","Professional & Other Places::Building",47.457542419433594,-122.2536849975586
+"4b09bdacf964a520b91c23e3","Jamba Juice","Food::Juice Bar",47.45882409766894,-122.25916385650635
+"4b0c591af964a520973b23e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",47.46059990182506,-122.24957434082597
+"4b0c6211f964a520363c23e3","Puget Sound Blood Center","Professional & Other Places::Medical Center",47.459030469013804,-122.24942192322267
+"4b0c6f48f964a520343d23e3","What The Pho","Food::Vietnamese Restaurant",47.44953818421557,-122.26126670837402
+"4b1180c4f964a520f67d23e3","AT&T","Shop & Service::Electronics Store",47.45545568750885,-122.26270058964143
+"4b19e76bf964a520fde523e3","DoubleTree Suites by Hilton Hotel Seattle Airport - Southcenter","Travel & Transport::Hotel",47.45439334775006,-122.26083314243395
+"4b1c2287f964a520d60224e3","Johnny Rockets","Food::Burger Joint",47.45764893987965,-122.25801050662994
+"4b1c7488f964a5208d0724e3","Banana Republic","Shop & Service::Clothing Store",47.45753519030173,-122.25872261134478
+"4b205fc0f964a520703124e3","jcpenney","Shop & Service::Department Store",47.45841176490981,-122.25615127308357
+"4b245ba7f964a520886624e3","Borders","Shop & Service::Bookstore",47.45825828423422,-122.25950717926025
+"4b245e64f964a520a06624e3","Starbucks","Food::Coffee Shop",47.45880777253808,-122.25827736486653
+"4b245f01f964a520ab6624e3","Forever 21","Shop & Service::Mall",47.458061458827224,-122.2581777285997
+"4b25815cf964a520017324e3","Dania Home & Office Interiors","Shop & Service::Furniture / Home Store",47.441851,-122.25523157
+"4b267057f964a520797b24e3","ITT Technical Institute","College & University::General College & University",47.490099882987124,-122.27385229480204
+"4b26fc96f964a520c88324e3","Duke's Chowder House","Food::Seafood Restaurant",47.45779402250935,-122.25847721099854
+"4b286761f964a520239324e3","AT&T Mobility","Shop & Service::Miscellaneous Shop",47.457874575062625,-122.25913064409858
+"4b295571f964a520139d24e3","Pita Pit","Food::Falafel Restaurant",47.455224,-122.25504502
+"4b29b73df964a520cba224e3","Hot Topic","Shop & Service::Clothing Store",47.457806413373234,-122.25836296329828
+"4b29ba36f964a520eea224e3","Sears","Shop & Service::Department Store",47.45793234615455,-122.26049113905758
+"4b2ae47af964a520a3b124e3","Teamsters Hall","Professional & Other Places::Office::Conference Room",47.471671,-122.25543615
+"4b2c3069f964a52066c324e3","Wendy's","Food::Fast Food Restaurant",47.468373,-122.28697651666667
+"4b2d466ef964a520e2d224e3","Jo-Ann Fabric and Craft Stores","Shop & Service::Arts & Crafts Store",47.446644231122114,-122.26303473447275
+"4b2d4c32f964a52079d324e3","Jack In The Box","Food::Fast Food Restaurant",47.47445117814995,-122.2847383919034
+"4b2fc5d0f964a520a0ef24e3","Tokyo Lifestyle","Shop & Service::Clothing Store::Boutique",47.4591313889999,-122.257846086402
+"4b2fe766f964a5204af224e3","IHOP","Food::Breakfast Spot",47.449102866789175,-122.26212501525879
+"4b3152f2f964a520c10425e3","King Co Metro Bus 150","Travel & Transport::Bus Station::Bus Line",47.46161954179118,-122.25440037255137
+"4b3269cbf964a520fe0a25e3","Racha Thai & Asian Kitchen","Food::Thai Restaurant",47.45785733331194,-122.25703746059108
+"4b35a6d2f964a5206d2e25e3","AMC Southcenter 16","Arts & Entertainment::Movie Theater::Multiplex",47.45767795643763,-122.2585254907608
+"4b36f400f964a5208e3e25e3","Cold Stone Creamery","Food::Ice Cream Shop",47.44828493070916,-122.26175007242199
+"4b37fd43f964a520c94925e3","Starbucks","Food::Coffee Shop",47.455280409337554,-122.25228130817413
+"4b38031cf964a520424a25e3","GameStop","Shop & Service::Video Game Store",47.4554798,-122.252678
+"4b3be974f964a520267e25e3","McDonald's","Food::Fast Food Restaurant",47.454494,-122.26280608333333
+"4b3bf1b1f964a520ed7e25e3","LaZBoy","Shop & Service::Furniture / Home Store",47.448159,-122.26236
+"4b3c140df964a520718125e3","sizzler","Food::Steakhouse",47.44991683959961,-122.26264190673828
+"4b3e86cff964a520789e25e3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",47.4593753972101,-122.25839138031006
+"4b441af5f964a52089f125e3","Guitar Center","Shop & Service::Music Store",47.457493,-122.254374
+"4b47d564f964a520d44026e3","kinko's Tukwila","Shop & Service::Paper / Office Supplies Store",47.460568,-122.249595
+"4b47f0fbf964a5209e4426e3","Marc Ecko Cut & Sew","Shop & Service::Department Store",47.45800372528787,-122.25823819747264
+"4b480022f964a520244626e3","Metropark","Shop & Service::Clothing Store",47.458067128590876,-122.25860392380241
+"4b480f2ff964a520524726e3","Zumiez","Shop & Service::Clothing Store",47.45760541501269,-122.25839138031006
+"4b48102cf964a5206d4726e3","Unicone Crepes","Food::Snack Place",47.457781609728315,-122.25844561341792
+"4b490626f964a520886226e3","Macy's Furniture Gallery","Shop & Service::Department Store",47.443026,-122.260461
+"4b4925ccf964a520d16726e3","The Home Depot","Shop & Service::Hardware Store",47.442718006242636,-122.24826134587074
+"4b497339f964a520f76f26e3","Miyabi Sushi","Food::Sushi Restaurant",47.45270138262919,-122.26075172424316
+"4b4a5589f964a5203d8426e3","Charlotte Russe","Shop & Service::Clothing Store::Women's Store",47.459038496017456,-122.258602
+"4b4a8303f964a5209f8926e3","Red Mango","Food::Dessert Shop",47.457741,-122.258419
+"4b4ba6b8f964a520e4a226e3","Office Depot","Shop & Service::Paper / Office Supplies Store",47.45517792115158,-122.25278528986303
+"4b4bac71f964a5209da326e3","Jiffy Lube","Shop & Service::Gas Station / Garage",47.441586916666665,-122.248203
+"4b4bb184f964a52052a426e3","Southcenter Goodwill","Shop & Service::Thrift / Vintage Store",47.443668,-122.25404620170593
+"4b4e3a84f964a52012e626e3","US Citizenship and Immigration Services","Professional & Other Places::Government Building",47.491832653436866,-122.29184841145214
+"4b50da52f964a5204d3527e3","The Terrace","Residence::Residential Building (Apartment / Condo)",47.479703,-122.267177
+"4b53c9e9f964a5206bab27e3","Babies R Us","Shop & Service::Toy / Game Store",47.445689,-122.260631
+"4b54fca2f964a520b1d627e3","ULTA","Shop & Service::Cosmetics Shop",47.44829743473653,-122.26124233790071
+"4b551debf964a520acdb27e3","Gene Juarez Salon & Spa","Shop & Service::Salon / Barbershop",47.4590562244961,-122.25924968719482
+"4b55d93cf964a520c3f227e3","Tukwila Trading Compnay","Shop & Service::Food & Drink Shop::Grocery Store",47.4733829498291,-122.28570699691772
+"4b57b576f964a5201a3d28e3","Taco Del Mar","Food::Mexican Restaurant",47.446560859680176,-122.26156202942705
+"4b59e43df964a520c19e28e3","Shell Gas Station","Shop & Service::Gas Station / Garage",47.48479863224278,-122.27167653238948
+"4b5a2d8ff964a5204db228e3","Bank of America","Shop & Service::Bank",47.45616907419009,-122.25658893585205
+"4b5a2e79f964a52082b228e3","Serenity Nails & Spa","Shop & Service::Spa / Massage",47.457985915468974,-122.25729003709283
+"4b5b5ba7f964a52077f728e3","International Academy of Design & Technology (IADT)","College & University::College Academic Building",47.450035125702684,-122.25497714613974
+"4b5cb8ccf964a5208d4029e3","Cash & Carry","Food::Restaurant",47.45682,-122.24943281666667
+"4b5cd41ef964a520184629e3","Half Price Books","Shop & Service::Bookstore",47.45270138262922,-122.26139545440674
+"4b5d1e57f964a520645329e3","Bai Tong","Food::Thai Restaurant",47.45249938964844,-122.26116943359375
+"4b5f3429f964a52014ad29e3","M.A.C. - Southcenter","Shop & Service::Cosmetics Shop",47.45728623155398,-122.25774765014648
+"4b5f38f0f964a52042ae29e3","Coach","Shop & Service::Clothing Store::Boutique",47.45854638996454,-122.25905244227368
+"4b60b74af964a52093f529e3","ExOfficio HQ","Professional & Other Places::Office",47.49967932701111,-122.29164004325867
+"4b60dca5f964a52043fe29e3","American Eagle Outfitters","Shop & Service::Clothing Store",47.459058,-122.258625
+"4b62fffef964a520015d2ae3","Starbucks","Food::Coffee Shop",47.455621473910966,-122.25646237631156
+"4b647d1af964a5205bb72ae3","Sarku Japan","Food::Asian Restaurant",47.45785772714639,-122.25829213356444
+"4b65c43cf964a5205afe2ae3","Skykart Indoor Racing Center","Arts & Entertainment::Racetrack",47.44712590881817,-122.24310151636013
+"4b662505f964a52019162be3","Vans","Shop & Service::Board Shop",47.45909118652344,-122.25755310058594
+"4b66ec3bf964a52070302be3","South Base","Travel & Transport::Bus Station",47.49569571698552,-122.28562653639992
+"4b66fafbf964a5205e332be3","Boeing Development Center","Professional & Other Places::Office::Coworking Space",47.51455584938889,-122.2970953757415
+"4b6775acf964a52046502be3","Rainforest Cafe","Food::Restaurant",47.458563335626366,-122.26055936653229
+"4b679e63f964a5200c582be3","Toys R Us / Babies R Us","Shop & Service::Toy / Game Store",47.44566506865415,-122.26318598607483
+"4b67a93ff964a520f7592be3","Kids' Korner","Shop & Service::Candy Store",47.458033690836615,-122.2579888790612
+"4b68aebcf964a520d7862be3","Bicycles West","Shop & Service::Bike Shop",47.44465445152336,-122.25480915959467
+"4b6b54b9f964a52060012ce3","Ben Bridge Jeweler","Shop & Service::Jewelry Store",47.459110260009766,-122.26034545898438
+"4b6f746ff964a52044f12ce3","Teavana","Shop & Service::Food & Drink Shop::Gourmet Shop",47.45820392742381,-122.25782345496583
+"4b7032e1f964a5203a0b2de3","Hampton Inn - Tukwila","Travel & Transport::Hotel",47.463176,-122.244436
+"4b75a9caf964a520351b2ee3","Highline Medical Plaza","Professional & Other Places::Medical Center::Doctor's Office",47.4859464168549,-122.295333016667
+"4b75f8def964a52043332ee3","supercuts","Shop & Service::Salon / Barbershop",47.45524048805237,-122.25503325462341
+"4b75ff7bf964a52067352ee3","Ben & Jerry's","Food::Ice Cream Shop",47.457775,-122.25829
+"4b7699e8f964a520e6532ee3","Great American Casino","Arts & Entertainment::Casino",47.477472875703576,-122.26018492313263
+"4b774ab7f964a520618f2ee3","Seattle Team Shop","Shop & Service::Sporting Goods Shop",47.458636,-122.260509
+"4b775118f964a52073912ee3","Delta Masonic Center","Professional & Other Places::Event Space",47.484607231201814,-122.279769116385
+"4b7968caf964a52006f82ee3","Dental Excellence By Lance Timmerman DMD","Professional & Other Places::Medical Center::Dentist's Office",47.468017578125,-122.24665069580078
+"4b79ac50f964a520200a2fe3","Sunny's Teriyaki","Food::Japanese Restaurant",47.48637390136719,-122.27371978759766
+"4b7c8cc9f964a520619a2fe3","Tukwila Park & Ride","Travel & Transport::Bus Station",47.48208971379055,-122.26839065551758
+"4b7ef142f964a520240b30e3","Ygnition Networks, Inc.","Professional & Other Places::Office",47.451250397802205,-122.25500106811523
+"4b7f19c8f964a520801630e3","Hallmark","Shop & Service::Gift Shop",47.45830000270773,-122.25710117991399
+"4b8068d5f964a520b56f30e3","Emerald City Smoothie Tukwila","Food::Restaurant",47.459808349609375,-122.25918579101562
+"4b80875cf964a520477a30e3","Shuttlepark2","Travel & Transport::General Travel",47.460777909157855,-122.28735128774152
+"4b830aacf964a52028f430e3","K & G Fashion Superstore","Shop & Service::Clothing Store",47.44639,-122.26301550865173
+"4b843169f964a520ab2631e3","Seattle Police Athletic Association","Professional & Other Places::Government Building::Police Station",47.504021345680705,-122.28821223947325
+"4b84564df964a5208c2f31e3","Subway - Southcenter Pkwy","Food::Sandwich Place",47.45009231567383,-122.26277160644531
+"4b845738f964a520c32f31e3","Plato's Closet","Shop & Service::Clothing Store::Women's Store",47.45016038,-122.262968
+"4b89a2a3f964a520004832e3","Car Toys - Southcenter","Shop & Service::Automotive Shop",47.4510368,-122.263046
+"4b8d7e16f964a5200cff32e3","Jack in the Box","Food::Fast Food Restaurant",47.45660135,-122.24325835704803
+"4b9098dbf964a5208a9133e3","Seafood City Pharmacy","Shop & Service::Drugstore / Pharmacy",47.459099,-122.257749
+"4b91ed7cf964a520c8df33e3","Jollibee","Food::Filipino Restaurant",47.45939715891551,-122.25576281547546
+"4b91ef3df964a52006e033e3","Chowking","Food::Asian Restaurant",47.45938811149934,-122.25650011697905
+"4b941cd0f964a520f46834e3","LensCrafters","Shop & Service::Miscellaneous Shop",47.458462225,-122.260234
+"4b99288ef964a520986535e3","Chase Bank","Shop & Service::Bank",47.45520782470703,-122.25556182861328
+"4b9ad929f964a520f6db35e3","digital.forest, Inc.","Professional & Other Places::Office",47.494101577062,-122.29478014924638
+"4b9be725f964a520ca3336e3","Spencer's - Southcenter","Shop & Service::Gift Shop",47.45844650268555,-122.25865173339844
+"4b9c3ef3f964a520975836e3","McDonald's","Food::Fast Food Restaurant",47.46639311313629,-122.28769
+"4b9ea5bff964a52090f636e3","Barrier Audi Southcenter","Shop & Service::Car Dealership",47.45908461,-122.25040123
+"4b9ed342f964a520900437e3","Southcenter Nails","Shop & Service::Nail Salon",47.457174,-122.24504743
+"4ba03c17f964a5204f6337e3","Godiva Chocolatier","Food::Dessert Shop",47.458894,-122.25913
+"4ba04226f964a520a86437e3","Love Culture","Shop & Service::Clothing Store::Women's Store",47.45826400915475,-122.2575655676899
+"4ba0d354f964a5204e8037e3","UPS Customer Center","Professional & Other Places::Building",47.45076052131373,-122.2540587381818
+"4ba186e6f964a52039be37e3","Gratzie's Italian","Food::Italian Restaurant",47.450969687589996,-122.26311421213153
+"4ba534d5f964a520c7eb38e3","Torrid","Shop & Service::Clothing Store",47.459061985714285,-122.2578152
+"4ba7d3f7f964a520f4b639e3","Costco Gasoline","Shop & Service::Gas Station / Garage",47.4444276,-122.247761
+"4ba7e372f964a52008bc39e3","Mrs. Fields","Food::Dessert Shop",47.45905303955078,-122.2578353881836
+"4ba7e6daf964a52035bd39e3","Lids","Shop & Service::Miscellaneous Shop",47.4590262013687,-122.257762977413
+"4ba7e82cf964a520a5bd39e3","Aeropostale","Shop & Service::Clothing Store",47.458144612257875,-122.2587793210047
+"4ba7f36df964a52046c139e3","Orange Julius / Dairy Queen","Food::Juice Bar",47.458953857421875,-122.25907135009766
+"4baaa729f964a5200a7d3ae3","InSpa","Shop & Service::Cosmetics Shop",47.44982788,-122.26182181666667
+"4bace43df964a52076163be3","Hot Shots Espresso","Food::Coffee Shop",47.45077133178711,-122.25592803955078
+"4bafaef8f964a5204f173ce3","Wings Cafe","Food::American Restaurant",47.51897048950195,-122.2967758178711
+"4bb13883f964a520a5843ce3","America's Best Contacts & Eyeglasses","Shop & Service::Miscellaneous Shop",47.4483542030804,-122.260389626026
+"4bb14617f964a520d1883ce3","Courtyard By Marriott Sea-Tac","Travel & Transport::Hotel",47.459129896314096,-122.24374103097442
+"4bb3684f35f0c9b6524ebc83","US Post Office","Professional & Other Places::Post Office",47.45670952016434,-122.25487232208252
+"4bb40f56f187a59312dc13f8","Integra Collocation","Professional & Other Places::Office",47.487817,-122.27203
+"4bb66d576edc76b07cec301c","Sushiitogo","Food::Sushi Restaurant",47.45998764038086,-122.26054382324219
+"4bb67a4846d4a593664ec6c0","Jamba Juice","Food::Juice Bar",47.44994447722949,-122.26283311843872
+"4bb6ade01344b71366f09d04","Industrial Rideshop","Shop & Service::Clothing Store",47.45802688598633,-122.25714111328125
+"4bb803037421a593796bc140","Church By The Side Of The Road","Professional & Other Places::Spiritual Center::Church",47.470012,-122.287118
+"4bb8d487cf2fc9b679e89f02","Bath & Body Works","Shop & Service::Cosmetics Shop",47.458939,-122.26008688
+"4bba2d677421a593357dc340","Prevail Credit Union","Shop & Service::Bank",47.48802185058594,-122.2759017944336
+"4bba301d1261d13aeb56ea98","Charley's Grilled Subs","Food::Sandwich Place",47.457618713378906,-122.25872802734375
+"4bbb93d52d9ea593de959fce","Sharky's Woodfired Mexican Grill","Food::Mexican Restaurant",47.4590434214291,-122.258142754796
+"4bbbe3532d9ea593a412a0ce","El Charro","Food::Mexican Restaurant",47.4605276895031,-122.290888530925
+"4bbcb8964e069c740acc9de3","US Dept of Homeland Security","Professional & Other Places::Government Building",47.49133727937057,-122.29191835815138
+"4bbd2c158ec3d13ae7d01b28","Mayflower of China","Food::Chinese Restaurant",47.450843811035156,-122.26325988769531
+"4bbd7051f57ba5938525aeb9","Embassy Suites","Travel & Transport::Hotel",47.46020028986052,-122.24378500378293
+"4bbe8495ba9776b058e5fdc8","Basil's Kitchen","Food::American Restaurant",47.4605712890625,-122.24365997314453
+"4bbf735498f49521e6b0d263","Bright Now Dental!","Professional & Other Places::Medical Center::Dentist's Office",47.45545959472656,-122.26199340820312
+"4bbfb1d34cdfc9b660b99121","Chevron Station","Shop & Service::Gas Station / Garage",47.45566025621272,-122.26082687883091
+"4bbfb7dd4cdfc9b689c79121","Boeing Field Midfield Airpark","Outdoors & Recreation::Other Great Outdoors",47.52728502854596,-122.30245407766519
+"4bc1178e4cdfc9b68b259421","Panda Express","Food::Chinese Restaurant",47.45771678692501,-122.25842580609532
+"4bc2144dabf49521c9e8c193","Chevron","Shop & Service::Gas Station / Garage",47.467101,-122.28760060481751
+"4bc355bedce4eee1a18d719d","Best Western Plus River's Edge","Travel & Transport::Hotel",47.460323333740234,-122.24620056152344
+"4bc44ba7dce4eee19913729d","Days Inn","Travel & Transport::Hotel::Motel",47.48587660727454,-122.26919882658686
+"4bc7416d2f94d13ac888117f","Watermark Credit Union","Shop & Service::Bank",47.457435607910156,-122.24948120117188
+"4bc7657b92b376b03fa34f3a","Wendy's","Food::Fast Food Restaurant",47.457765006015435,-122.24340319633484
+"4bc799edaf07a593c9847f2d","Mi Ranchon","Food::Mexican Restaurant",47.45759201049805,-122.24478912353516
+"4bc9179f68f976b0bacb5c83","Khan's Mongolian Grill","Food::Asian Restaurant",47.45547103881836,-122.25556945800781
+"4bcccee50687ef3b6befdfcc","Bobalicious","Food::Juice Bar",47.458675384521484,-122.26020812988281
+"4bce0824b6c49c74406c9691","Golden Indian Curry House","Food::Indian Restaurant",47.449686,-122.262687
+"4bcfb0a8caff95217ac2cdf0","Yamada Teriyaki","Food::Japanese Restaurant",47.453250885009766,-122.25054931640625
+"4bcfc60577b29c7466d38982","Journey's","Shop & Service::Clothing Store::Shoe Store",47.458617844331165,-122.25820933013918
+"4bd9cb592e6f0f47bc030c08","Denny's","Food::American Restaurant",47.46431350708008,-122.26073455810547
+"4bdb3284c79cc928409881e9","Computer Sonics","Shop & Service::Electronics Store",47.446926,-122.251171
+"4bdc93f73904a593a6d54e9e","Jared The Galleria Of Jewelry","Shop & Service::Jewelry Store",47.452712,-122.26191888333334
+"4bdcdb763904a5936d12509e","Wet Seal","Shop & Service::Clothing Store::Women's Store",47.458666158785284,-122.2591795319011
+"4bde042d6198c9b6a3a212ff","Video Only","Shop & Service::Electronics Store",47.456244953163484,-122.24959507601116
+"4bdee3afea279c74866fe22b","Foster High School","Professional & Other Places::School::High School",47.47440719604492,-122.2802505493164
+"4be32b7ef07b0f477f46f743","Westfield Southcenter Food Court","Shop & Service::Food & Drink Shop::Food Court",47.45792888200704,-122.25829003631561
+"4be779bed837c9b6d955a406","Photai","Food::Vietnamese Restaurant",47.45253205779648,-122.26099470030913
+"4be866709a54a59329ed0911","Verizon Wireless","Shop & Service::Electronics Store",47.44988463212359,-122.26168085016239
+"4be8bec6ee96c928e486febf","Metro Bus Stop #60430","Travel & Transport::Bus Station",47.456349,-122.254305
+"4beabf2cb3352d7f958455d2","7-Eleven","Food::Deli / Bodega",47.47666457053107,-122.26055196986201
+"4bedd2a0a40fc9283991820c","Fireworks Gallery","Shop & Service::Gift Shop",47.45898581417726,-122.25973717170969
+"4bef3e75ea570f47ba218fd2","Courtyard By Marriott Southcenter","Travel & Transport::Hotel",47.45343290040827,-122.2536674383043
+"4bf3076c370e76b0ed54bd4a","City of Tukwila","Outdoors & Recreation::City",47.485167611620604,-122.28543911257088
+"4bf331603f86c9b6d6e9b11c","Sprint Store by ccComm","Shop & Service::Electronics Store",47.45973412492302,-122.25390863884276
+"4bf354c4706e20a1882da898","Alfred Angelo Seattle/Tukwila","Shop & Service::Bridal Shop",47.44905933484836,-122.26107358932495
+"4bf4423b6a31d13ae58c952e","Quiznos","Food::Sandwich Place",47.45527267456055,-122.25491333007812
+"4bf5dd8fbfeac92812719336","Sushi Itto Go","Food::Japanese Restaurant",47.457786560058594,-122.25868225097656
+"4bf614cd5e800f47b0d9e6d4","Travelodge","Travel & Transport::Hotel::Motel",47.469129,-122.28750341666667
+"4bf840984a67c9287f0d25cf","Salal Credit Union","Shop & Service::Bank",47.45719528198242,-122.24435424804688
+"4bf848bdabdaef3b99a8a184","ampm","Shop & Service::Gas Station / Garage",47.465540605460866,-122.28828601388636
+"4bfc0cc657cd9c74e372cc2b","digital.forest, Inc.","Professional & Other Places::Office",47.494101577062,-122.29478014924638
+"4bfecdc2ac03952163dfa880","Le Cordon Bleu College of Culinary Arts in Seattle","College & University::General College & University",47.4511811774132,-122.256142421653
+"4c0035e4ca1920a1520aee81","Cowgirl's Espresso","Food::Coffee Shop",47.4710807800293,-122.25386047363281
+"4c00524fad46c9b6e44e8f66","GameStop","Shop & Service::Video Game Store",47.4580877115513,-122.25881621083221
+"4c016681b0702d7f01316378","Sbarro","Food::Italian Restaurant",47.459808349609375,-122.25918579101562
+"4c01a360f8492d7ff6345ffa","jcpenney","Shop & Service::Department Store",47.457587,-122.25558
+"4c01a8021747a593f0e45dca","Express","Shop & Service::Clothing Store",47.45844688938902,-122.256760597229
+"4c01c0973ab80f47ecb290ff","Hollister Co.","Shop & Service::Clothing Store",47.45525501869252,-122.2562026977539
+"4c06eb65cf8c76b0a9483b65","Reliable Parts","Shop & Service::Hardware Store",47.447031,-122.25485706666667
+"4c070c2b0e0a2d7f33dcec0c","Toys 'R Us","Shop & Service::Miscellaneous Shop",47.45259065601839,-122.26185457669663
+"4c0822e07e3fc92811d8ef82","Subway","Food::Sandwich Place",47.45772171020508,-122.25834655761719
+"4c090906cd09d13a4402d309","FYE","Shop & Service::Video Store",47.45812084869729,-122.25844509769266
+"4c0af25b6071a593148ce032","Sizzler","Food::Steakhouse",47.45378206182715,-122.26280861299183
+"4c0d4e827189c92832ced6b6","Best Cafe Teriyaki","Food::Asian Restaurant",47.50428009033203,-122.28939819335938
+"4c0d6f1bd64c0f47d5b4265d","Riverside Casino","Arts & Entertainment::Casino",47.477027893066406,-122.25948333740234
+"4c0d9761c700c9b614b4a2dd","Lidz","Shop & Service::Miscellaneous Shop",47.4590277671814,-122.258427
+"4c0dadb3b1b676b04409e186","Husky Trucks","Shop & Service::Automotive Shop",47.50184840012882,-122.28830968569203
+"4c0e8da5d64c0f476e62285d","White House Black Market","Shop & Service::Clothing Store::Women's Store",47.458062574456,-122.258535192894
+"4c0e903a7189c928e5b4d8b6","Bebe","Shop & Service::Clothing Store::Women's Store",47.458358,-122.258989
+"4c101757b93cc9b6413456e0","Espresso Change-o","Food::Coffee Shop",47.489688873291016,-122.27244567871094
+"4c1117f73ce120a1bb1d091c","Riverside Residences","Travel & Transport::Hotel::Motel",47.50165557861328,-122.29275512695312
+"4c153d88a9c220a16ed6589d","Buckle","Shop & Service::Department Store",47.459101,-122.258079
+"4c15518ca1010f47f4de4d18","Kasala","Shop & Service::Furniture / Home Store",47.449004641357256,-122.26251772928362
+"4c16899c96040f471d0073a5","Tukwila Deli","Food::Deli / Bodega",47.486384115781554,-122.27384545163433
+"4c1a5123b4e62d7fce96d793","76 Gas Station","Shop & Service::Gas Station / Garage",47.4848476348303,-122.27104733738899
+"4c1d85b8624b9c7444f61204","Starbucks","Food::Coffee Shop",47.45844650268555,-122.25723266601562
+"4c23b36fc11dc9b6ee452424","Bj Resterant","Food::Restaurant",47.46434020996094,-122.26148223876953
+"4c26a2c1a852c928b70ee76c","Pro Golf Discount","Shop & Service::Sporting Goods Shop",47.44849395751953,-122.26289367675781
+"4c27da5197d00f47df093fea","AT&T","Shop & Service::Electronics Store",47.45545568750885,-122.26270058964143
+"4c27dd4597d00f47a10f3fea","Bow Lake Transfer Station","Professional & Other Places::Building",47.4339152888636,-122.268100976944
+"4c2a9103b34ad13a3c83e8ce","Air Force One (SAM 970)","Travel & Transport::Airport::Plane",47.51937442928042,-122.29920387268065
+"4c2cd1b377cfe21ec79db6f1","House of Hoops","Shop & Service::Sporting Goods Shop",47.459112,-122.256913
+"4c2eab8ca0ced13a125c0f6e","AMC Southcenter Men's Room","Arts & Entertainment::Movie Theater",47.45466232299805,-122.25985717773438
+"4c323668a0ced13a14c6146e","Link Light Rail","Travel & Transport::Light Rail",47.49809116016244,-122.28304923923422
+"4c34d19ca0ced13a0cd3186e","Mad Pizza","Food::Pizza Place",47.46962,-122.2495025396347
+"4c38ea16dfb0e21e3c89afa8","Shiekh Shoes","Shop & Service::Clothing Store::Shoe Store",47.45914363224238,-122.25778856447745
+"4c3905961a38ef3b07c89221","Husky International Trucks, Inc.","Shop & Service::Automotive Shop",47.48573030029287,-122.27206843483779
+"4c40cfbed7fad13ad89206da","Golden Nugget Casino","Arts & Entertainment::Casino",47.4777710437775,-122.261648
+"4c40fef9ff711b8d25531105","Simply Thai","Food::Thai Restaurant",47.45558729987732,-122.2600104310836
+"4c44f6e436d6a5938a4a6ba8","Red Ribbon Bake Shop","Food::Bakery",47.45931625366211,-122.25538635253906
+"4c46536ff1b5c9b66c4879ef","Sports Authority","Shop & Service::Sporting Goods Shop",47.446055543919734,-122.26032257080078
+"4c474f20417b20a1492bdda9","Tukwila Pool","Outdoors & Recreation::Pool",47.47445583343506,-122.27794192
+"4c4cc6ff39f9d13ae56f5494","Finish Line","Shop & Service::Clothing Store::Shoe Store",47.45780853075031,-122.25710391998291
+"4c4ceb9413d120a1d88a1501","Salaama (East African cuisine)","Food::African Restaurant",47.46759033203125,-122.28809356689453
+"4c4e0a8f9efabe9af0276f69","Seattle Bagel Bakery","Food::Bagel Shop",47.484642028808594,-122.27693176269531
+"4c531b90728920a1dd068f80","Nordstrom Espresso Bar","Food::Café",47.458980560302734,-122.26152801513672
+"4c5349911b46c9b622feb2cc","AT&T","Shop & Service::Electronics Store",47.45545568750885,-122.26270058964143
+"4c53523d30f92d7fbd5a93b8","Chow King","Food::Asian Restaurant",47.45932404602318,-122.25598114215836
+"4c54930072cf0f477d2ec5d4","Grill City","Food::Asian Restaurant",47.4595947265625,-122.25563049316406
+"4c5616c3973fc92894cc65c8","7-Eleven","Shop & Service::Miscellaneous Shop",47.47271331168222,-122.28940515557487
+"4c5865a97613b713529391ea","Seafood City","Shop & Service::Food & Drink Shop::Grocery Store",47.459578506110226,-122.25555896759033
+"4c58badcd3aee21ef9aa6655","Albert Lee Appliance","Shop & Service::Furniture / Home Store",47.456365,-122.250546
+"4c5c8aac857ca5934965cacb","WSADA","Professional & Other Places::Office",47.46322425712183,-122.2541044583364
+"4c5d88116ebe2d7ff805d32e","Angry Squid Ink","Shop & Service::Clothing Store",47.4739535833333,-122.268465
+"4c5ffe633a3703bb6416e406","Pizza Hut","Food::Pizza Place",47.471341,-122.285541
+"4c62bfe3a86d03bb25882f6a","Gap","Shop & Service::Clothing Store",47.45908358538726,-122.25736700482187
+"4c63347386b6be9afa0f8e34","King County Elections","Professional & Other Places::Government Building",47.520904541015625,-122.29249572753906
+"4c641d0d58810f47264b0b1e","Tsunami Hair Salon","Shop & Service::Cosmetics Shop",47.448217710244194,-122.24673986434937
+"4c64326579d1e21eb475da15","Pearl Optical","Professional & Other Places::Medical Center::Optical Shop",47.458011627197266,-122.25108337402344
+"4c65fa348e9120a16cf5d664","FOOT LOCKER / HOUSE OF HOOPS","Shop & Service::Clothing Store::Shoe Store",47.45911790680645,-122.25706374285365
+"4c66eb839cb82d7f911092d2","Sansaco Furniture","Shop & Service::Furniture / Home Store",47.442392,-122.25629
+"4c6c119ed68a9c7427ce656b","The Boeing Co.","Professional & Other Places::Office::Coworking Space",47.51458258776162,-122.29727947439284
+"4c6dca4ac5243704fa4e29eb","Metro Bus #140","Travel & Transport::Bus Station::Bus Line",47.4628554827751,-122.256053879218
+"4c70535bb3ce224b469d73c6","The Limited","Shop & Service::Clothing Store::Women's Store",47.45908851428786,-122.26006868911225
+"4c7c27f7dbaa76b094d42e4b","Allentown Superette (Grocery)","Shop & Service::Food & Drink Shop::Grocery Store",47.49221081203109,-122.27980613708496
+"4c7cc50e72ccef3b36bc6832","Redbox","Arts & Entertainment::Movie Theater",47.47684860229492,-122.26066589355469
+"4c80a9382f1c236ae5ac2843","Macadam Winter Garden","Outdoors & Recreation::Garden",47.475856,-122.265818
+"4c814ee6d4e237044f945c88","Skibonkers","Shop & Service::Board Shop",47.46098327636719,-122.25711822509766
+"4c856a1c47cc224bfa0aa19f","Nordstrom Cafe Bistro","Food::Café",47.45978546,-122.261064
+"4c8570bddc018cfa2e7be86c","Performance Bike","Shop & Service::Bike Shop",47.45510482788086,-122.25605773925781
+"4c85cb03b139b713eb72c691","Redbox","Shop & Service::Video Store",47.457557916641235,-122.24456191062927
+"4c85d5f7d34ca143f9e84a80","7-Eleven","Food::Deli / Bodega",47.457818424812125,-122.2443996294724
+"4c86509dd92ea093db0f6d72","Vortex Industries","Professional & Other Places::Building",47.44986337,-122.24797666666667
+"4c881388bbec6dcbd606d158","Olympic Parking Garage","Professional & Other Places::Parking",47.457475136509686,-122.26000832652848
+"4c8a7ebba92fa093bfdb91bf","Indi Bite","Food::Indian Restaurant",47.4576301574707,-122.25826263427734
+"4c8ff793de3d236a7bd46718","Ashley Furniture Home Store","Shop & Service::Furniture / Home Store",47.4442058801651,-122.262645
+"4c94225d6b35a1431fe418dc","Cafe Pho","Food::Vietnamese Restaurant",47.457669,-122.258418
+"4c94ff6e533aa09312b4c445","elle & bee","Food::Ice Cream Shop",47.45777893066406,-122.25740814208984
+"4c96ac83f7cfa1cddb68c815","H&M","Shop & Service::Clothing Store",47.45789558011195,-122.25757598876953
+"4c9b7f9fdf1b9eb09d4c6e8f","Bath & Body Works","Shop & Service::Cosmetics Shop",47.44833379719717,-122.26070880889893
+"4ca37f4e5720b1f7585532ef","T.W. Carrol and Co., Inc.","Shop & Service::Miscellaneous Shop",47.4474486277093,-122.258144617081
+"4ca610b3f47ea143ded25c21","Jorgensen Forge","Professional & Other Places::Office",47.5269022155635,-122.303783247219
+"4ca8fce344a8224bd13e1d40","Pacific Laundromat","Shop & Service::Laundry Service",47.47505705,-122.284885
+"4caf823acbab236affa99873","Toys R Us / Babies R Us","Shop & Service::Toy / Game Store",47.44566506865415,-122.26318598607483
+"4cb4aad7eb65b1f7efe58bcd","Tukwila Dental Center","Professional & Other Places::Medical Center::Dentist's Office",47.47789001464844,-122.26264953613281
+"4cb9dae34352a1cd032c8ff5","Toys R Us / Babies R Us","Shop & Service::Toy / Game Store",47.44566506865415,-122.26318598607483
+"4cc9c6c141e75481ae895e84","Khan's Mongolian Grill","Food::Restaurant",47.45502777485814,-122.25550567172876
+"4cca3eb0d7538cfaa1e0f178","7-Eleven","Shop & Service::Food & Drink Shop::Grocery Store",47.47588171,-122.28418350219727
+"4cd874aeb97060fc066ef37b","FAA Control Tower","Travel & Transport::Airport::Airport Terminal",47.5291188849632,-122.30416059494
+"4cdc571ddf986ea8964bcf16","Nissan Leaf Tour - Westfield Southcenter","Arts & Entertainment::Racetrack",47.46083450317383,-122.25728607177734
+"4ce1c21969136dcbf859ebe6","Tukwila City Hall","Professional & Other Places::Government Building::City Hall",47.46299821939058,-122.25531990869175
+"4ce9df5fe888f04dcf7f4a6b","Aeroflight Executive Services","Travel & Transport::Airport::Airport Terminal",47.5242554,-122.294152
+"4d07c1aa9d33a14357bacd78","Greg's Japanese Auto Care","Shop & Service::Automotive Shop",47.457950592041016,-122.25139617919922
+"4d11271e5f3376ebb05d1386","SKECHERS","Shop & Service::Clothing Store::Shoe Store",47.45792307,-122.258387
+"4d1d7d1ab69c6dcb5afb5395","Homewood Suites by Hilton","Travel & Transport::Hotel",47.467674255371094,-122.24562072753906
+"4d28c4a6ebacb1f79e6ef44f","Zoopa Express","Food::Salad Place",47.45779037475586,-122.25827026367188
+"4d2a9b39c406721e0b6985b6","Seattle Bindery","Professional & Other Places::Office",47.4351921081543,-122.25421905517578
+"4d2c7fca774f76ebaa549533","DoubleTree Suites by Hilton Hotel Seattle Airport - Southcenter","Travel & Transport::Hotel",47.45439334775006,-122.26083314243395
+"4d336e31b6093704485001e0","Mayflower Of China","Food::Chinese Restaurant",47.45073,-122.262999415398
+"4d4999685129a35d1c9f3bac","City of Tukwila","Outdoors & Recreation::City",47.485167611620604,-122.28543911257088
+"4d7018490187236a2787a5ba","Fatigue Technology,  Inc.","Professional & Other Places::Building",47.45239325,-122.251243783333
+"4d7e9a3795c1a1437cbcd4f2","Southcenter Corporate Square","Professional & Other Places::Office",47.451114485063265,-122.25612257977625
+"4d9e00025c33a35d5dd70ea1","Group Health AOC","Professional & Other Places::Building",47.49147934754159,-122.28436302160416
+"4db87b77f7b1b4c54f3da1f8","Continental Mills Business Center","Professional & Other Places::Building",47.439969766847,-122.25442064376
+"4dba2b31a86ede8c0f9501f6","Michael Kors","Shop & Service::Clothing Store::Women's Store",47.45905685424805,-122.25924682617188
+"4dbb25914b222080d37095a0","TERRA Staffing Group","Professional & Other Places::Office",47.457794189453125,-122.25018310546875
+"4dc44e2e1f6ef43b89f8d05b","Mizuki Buffet","Food::Japanese Restaurant",47.44173457280117,-122.25952863693237
+"4dc46ba1d164eb9c9fd51b22","Pacific Grip & Lighting","Professional & Other Places::Building",47.50904083251953,-122.27906799316406
+"4dc6f11d1f6ef43b8a3b3244","Renew Beauty Med Spa","Shop & Service::Spa / Massage",47.45849502983361,-122.26037235458105
+"4dc77eaf1f6ef43b8a47af6f","Southcenter Mall Parking Lot","Professional & Other Places::Parking",47.45781137559434,-122.25855280257832
+"4dcc884c7d8b975f18a0dc18","SPEEA- IFPTE Local 2001","Professional & Other Places::Office",47.46662506395376,-122.26966915890999
+"4dcc913c8877851243cad809","Ulysses Restaurant & Lounge","Food::American Restaurant",47.45659637451172,-122.28076171875
+"4dcebf8ad4c065592f86bd0c","Starfire Field #9","Outdoors & Recreation::Athletic & Sport::Soccer Field",47.47177077915006,-122.25025106365749
+"4ddec6401838779139a5e183","Game On!","Shop & Service::Toy / Game Store",47.45823606948139,-122.25692171436357
+"4dee5b9dae6052cbed1c0c48","Foster Golf","Outdoors & Recreation::Athletic & Sport::Golf Course",47.48162566253266,-122.26615905761719
+"4df3a85b45dd4e269341673c","jcpenney Portrait Studio","Shop & Service::Photography Lab",47.4632670645511,-122.257770545025
+"4e0e82baa8099e15260a3c4a","UPS Tukwila Local Sort","Professional & Other Places::Post Office",47.45050048828125,-122.2541275024414
+"4e14faf9c65b14b6ca2fd9fb","Boeing Trail - Tukwila","Outdoors & Recreation::Hiking Trail",47.46316675755542,-122.24233877135892
+"4e190ea1b61c8f9ada5256f3","The Walking Company","Shop & Service::Clothing Store::Shoe Store",47.458778381347656,-122.26053619384766
+"4e1e6ec5b0fbe764a4a555c0","Hotel Pool","Outdoors & Recreation::Pool",47.4644859323949,-122.245479826685
+"4e20a95a88774a43b761c92f","iFLY Seattle Indoor Skydiving","Arts & Entertainment::Theme Park",47.461035368499154,-122.25280422808126
+"4e2f2864e4cdb5a70d65b3cc","Group Health ICFD Design Warehouse","Professional & Other Places::Building",47.45210266113281,-122.25098419189453
+"4e3397681495fa2def55a338","Seattle Yellow Cab","Travel & Transport::Taxi",47.48854446411133,-122.2674560546875
+"4e34c6186284ea7e10f9e1b4","Aveda","Shop & Service::Salon / Barbershop",47.458967,-122.26005006666666
+"4e3da9db45dd68e3273ce3c8","Runway Shoes","Shop & Service::Clothing Store::Shoe Store",47.459442138671875,-122.25786590576172
+"4e3e02fafa76455375c0dee1","Coldstone","Food::Dessert Shop",47.44841766357422,-122.26190948486328
+"4e404b1718507fb6c70e8ac2","Disney Store","Shop & Service::Toy / Game Store",47.458560798268344,-122.25910484790802
+"4e4928e9b61c03d0cd2ec230","The Boeing Co.","Professional & Other Places::Office::Coworking Space",47.51795196533203,-122.2985610961914
+"4e5ffedad164ddd5e4b5a292","Sykart Indoor Racing Center","Arts & Entertainment::Racetrack",47.44712829589844,-122.2431640625
+"4e6d29d2ae6051a340a99146","Discount Direct","Shop & Service::Miscellaneous Shop",47.44882583618164,-122.25637817382812
+"4e725fa214955a8f57d58f21","Bank of America - Drive Up ATM","Shop & Service::Bank",47.4559227,-122.25437879562378
+"4e73ff5d88775d593d51720b","Halloween City","Shop & Service::Clothing Store::Accessories Store",47.445762634277344,-122.26024627685547
+"4e826e26f790f62e6aaab8b6","Value Village","Shop & Service::Thrift / Vintage Store",47.453179,-122.261072
+"4e94e23e77c8c86f237ae071","Marriott Outdoor Space","Travel & Transport::Hotel::Roof Deck",47.46287536621094,-122.24939727783203
+"4ea0e45a02d529c115fbaead","Jimmy John's","Food::Sandwich Place",47.4525819578231,-122.26137743310717
+"4eb39ad18b81a81f8fbd4244","Boeing Military Flight Center","Professional & Other Places::Building",47.51377868652344,-122.29377746582031
+"4eb495038b81a81f90314d0b","H & M","Shop & Service::Clothing Store::Women's Store",47.46433639526367,-122.26244354248047
+"4ebf2768b8f7963bcd73027e","AT&T","Shop & Service::Electronics Store",47.455509185791016,-122.26220703125
+"4ec7ced54690116a8c795e08","Tukwila Train Station","Travel & Transport::Train Station",47.4599999818058,-122.240500207507
+"4ecd88d06c2510acddb062df","Boeing 9-120","Professional & Other Places::Building",47.51781463623047,-122.29850769042969
+"4ed00e4e0e01f1a87f68b99d","Basil Vietnamese Cuisine","Food::Vietnamese Restaurant",47.4484,-122.2615
+"4ee2a92d9adf3982fdbff301","Starbucks (1st Eco-friendly)","Food::Coffee Shop",47.51249063743826,-122.29353904724121
+"4eecc4996c25c7f9d1310e3a","RPI","Professional & Other Places::Office::Coworking Space",47.4981808976098,-122.292057350266
+"4ef00998991107885b438fa4","Savvy Mattress Outlet","Shop & Service::Furniture / Home Store",47.4440947641627,-122.25104269577
+"4f0222ddb6346feaeef1ee55","Seattle-Tacoma International Airport (SEA)","Travel & Transport::Airport",47.4630643383582,-122.287679457444
+"4f29cebeaad2efd933960abc","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",47.459097214070766,-122.2602280803705
+"4f387221e4b0d9574e1ad9ca","Go Games","Shop & Service::Miscellaneous Shop",47.4588390837618,-122.25768057123
+"4f499a06e4b0156c2ff27321","Hops And Props","Arts & Entertainment::Museum::Science Museum",47.51836395263672,-122.29686737060547
+"4f4e05e7e4b0acb4682a88bf","City of Tukwila","Outdoors & Recreation::City",47.485167611620604,-122.28543911257088
+"4f71bbebe4b0bd86bef5edf7","Link LRV 153","Travel & Transport::Light Rail",47.5083618164062,-122.284141540527
+"4f730d20e4b043e3bc1ce610","Link LRV 120","Travel & Transport::Light Rail",47.5031814575195,-122.289993286133
+"505b9483e4b07c8ee420c66f","Total Wine & More","Shop & Service::Food & Drink Shop::Liquor Store",47.45485624291407,-122.25314292043659
+"507222e2e4b015d050a31cf3","The Lotus Grill","Food::Indian Restaurant",47.457764,-122.258302

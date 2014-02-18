@@ -1,0 +1,699 @@
+"40b13b00f964a52002f61ee3","Stars Cabaret & Steak House - Beaverton","Nightlife Spot::Strip Club",45.485967,-122.79992415
+"410c3280f964a520ad0b1fe3","Monteaux's Public House","Food::American Restaurant",45.51773341537895,-122.8438800573349
+"41ddd100f964a520c31e1fe3","Broadway Saloon Bar and Grill","Nightlife Spot::Bar",45.48735031274934,-122.80463603503262
+"428fcb80f964a520ef231fe3","Stoneworks Climbing Gym","Shop & Service::Gym / Fitness Center::Gym",45.47169268333333,-122.79073773
+"437d1980f964a520ac2a1fe3","Tom's Pancake House","Food::Breakfast Spot",45.48860656647552,-122.809499502182
+"437d1980f964a520ad2a1fe3","Starbucks","Food::Coffee Shop",45.48760620312886,-122.79526233673096
+"446dea61f964a52072331fe3","Jin Wah","Food::Asian Restaurant",45.490103317553015,-122.799232006073
+"467b4bf5f964a520fd471fe3","Hall Street Grill","Food::American Restaurant",45.492994813705934,-122.80812541572108
+"46b373baf964a520a5491fe3","Powell's Books at Cedar Hills Crossing","Shop & Service::Bookstore",45.495558244481565,-122.81134199636418
+"48e3e65ef964a52021521fe3","Copper Monkey Restaurant and Bar","Arts & Entertainment::Arcade",45.47290778,-122.77670681476593
+"49bc157ff964a52012541fe3","Nike","Professional & Other Places::Office",45.51052736147324,-122.83083915710449
+"49daa665f964a5209e5e1fe3","Five Guys","Food::Burger Joint",45.50088025516034,-122.80556738376617
+"49ea43ccf964a52041661fe3","Ava Roasteriá Coffee Co.","Food::Café",45.485706,-122.8046241
+"4a16129af964a520f1781fe3","McCormick's Fish House","Food::Seafood Restaurant",45.48674152,-122.778752
+"4a21b9aef964a520377d1fe3","McMenamins Riverwood Pub","Food::Brewery",45.461257,-122.793833
+"4a31c72ff964a520269a1fe3","Pho Hung","Food::Vietnamese Restaurant",45.4890954593924,-122.81320095062256
+"4a4bba38f964a520a2ac1fe3","Bubble Bubble Tea - Beaverton","Food::Café",45.48834228515625,-122.7969970703125
+"4a590f8cf964a52090b81fe3","Typhoon! at Beaverton Round","Food::Thai Restaurant",45.49078022708919,-122.80665636062622
+"4a5bf65cf964a52012bc1fe3","Pho Van","Food::Vietnamese Restaurant",45.487691,-122.796963
+"4a5ea4e8f964a520f4be1fe3","Red Tail Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",45.46103016104083,-122.77845256796229
+"4a60ed21f964a5207cc11fe3","Baja Fresh","Food::Taco Place",45.50045078,-122.80767560005188
+"4a61699bf964a52069c21fe3","Du Kuh Bee","Food::Korean Restaurant",45.486291,-122.8058785200119
+"4a623ad9f964a52072c31fe3","Mio Sushi","Food::Sushi Restaurant",45.49064794899448,-122.8070342360163
+"4a623be6f964a52077c31fe3","McDonald's","Food::Fast Food Restaurant",45.494085,-122.81067638
+"4a62466bf964a5209ec31fe3","Si Señor","Food::Mexican Restaurant",45.460729,-122.79309667
+"4a625eebf964a520dfc31fe3","Century 16 Cedar Hills Crossing","Arts & Entertainment::Movie Theater",45.4976240776389,-122.81226754188538
+"4a693ea6f964a520d5cb1fe3","McMenamins Cedar Hills","Food::Brewery",45.4990453884452,-122.80951023101807
+"4a6c875cf964a520bbd01fe3","Starbucks","Food::Coffee Shop",45.49370958,-122.80974
+"4a6c97faf964a520f3d01fe3","Black Bear Diner","Food::Diner",45.488623594197946,-122.81529331732582
+"4a6ca885f964a5202ad11fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",45.438973153587085,-122.8294551372528
+"4a6cd83bf964a520cad11fe3","Tualatin Hills Park & Aquatic Center","Outdoors & Recreation::Pool",45.51976646148216,-122.83819376704918
+"4a6cd96af964a520cfd11fe3","Papa's Pizza","Food::Pizza Place",45.523893920699614,-122.83905633502556
+"4a6cdb90f964a520d7d11fe3","Sweet Tomatoes","Food::Salad Place",45.52816616118726,-122.83799292343002
+"4a6cde48f964a520dfd11fe3","Chang's Mongolian Grill","Food::Asian Restaurant",45.53390275603173,-122.84918738652001
+"4a6d01fcf964a5204bd21fe3","Jamba Juice","Food::Juice Bar",45.49840617902976,-122.80871629714966
+"4a6e7235f964a520c7d41fe3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",45.490046,-122.80597
+"4a6fa9f8f964a520bfd61fe3","McMenamins","Nightlife Spot::Pub",45.47514409164447,-122.8264448509132
+"4a70d3e0f964a5208bd81fe3","Tammie's Hobbies","Shop & Service::Hobby Shop",45.488633,-122.80001521110535
+"4a728c2df964a52034db1fe3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",45.49951915074142,-122.81290054321289
+"4a73324ef964a520cbdb1fe3","Starbucks","Food::Coffee Shop",45.490008076145095,-122.7982631213957
+"4a7a5365f964a5202be91fe3","Yuzu","Food::Japanese Restaurant",45.49024998197622,-122.79706478118896
+"4a7afa6bf964a520bbe91fe3","Sunrise Bagels","Food::Bagel Shop",45.514341,-122.78923773333334
+"4a7b2c92f964a52032ea1fe3","Aiea Grill","Food::Sushi Restaurant",45.51748909376574,-122.84337043762207
+"4a7ca40ef964a5200aed1fe3","Pepita's Mexican Restaurant","Food::Mexican Restaurant",45.490050668692554,-122.81052947044373
+"4a7df868f964a5206df01fe3","Fred Meyer","Shop & Service::Department Store",45.51864679293682,-122.84152507781982
+"4a7dfb98f964a5207bf01fe3","National Pride Carwash","Shop & Service::Gas Station / Garage",45.4937,-122.81072
+"4a7e08e3f964a520b7f01fe3","Noodles & Company","Food::Ramen /  Noodle House",45.486187210316054,-122.7963145604577
+"4a7f85adf964a5204af41fe3","Outback Steakhouse","Food::Steakhouse",45.5155081701344,-122.79065430164337
+"4a807ccdf964a52072f51fe3","West Slope Post Office","Professional & Other Places::Post Office",45.49679,-122.76701331138611
+"4a80da6af964a52055f61fe3","Office Depot","Shop & Service::Paper / Office Supplies Store",45.50120360662179,-122.80727863311768
+"4a81a837f964a5202cf71fe3","Dutch Bros. Coffee","Food::Coffee Shop",45.45548,-122.779262
+"4a81b813f964a52058f71fe3","Sunset Lanes","Arts & Entertainment::Bowling Alley",45.501548,-122.80832
+"4a82da78f964a52075f91fe3","New Seasons Market","Shop & Service::Food & Drink Shop::Grocery Store",45.49440526380429,-122.8124803817956
+"4a899a29f964a520830820e3","Beaverton Bakery","Food::Bakery",45.48765321308243,-122.80351147055626
+"4a899aa4f964a520840820e3","Beaverton Honda","Shop & Service::Automotive Shop",45.49157746566516,-122.78731226921082
+"4a89a77ff964a520a00820e3","Hakatamon","Food::Japanese Restaurant",45.4853686457568,-122.785151666112
+"4a8c4c45f964a520980d20e3","Roxy's Island Grill","Food::American Restaurant",45.50192177295685,-122.807786
+"4a8ecebcf964a520b51220e3","Nike - Tiger Woods Center","Professional & Other Places::Convention Center",45.51161002001986,-122.83109664916992
+"4a8ed7f6f964a520dd1220e3","Nike - Jerry Rice Building","Professional & Other Places::Office",45.51145965202265,-122.83133268356323
+"4a8f3babf964a520741420e3","Mike Schmidt Building","Professional & Other Places::Office",45.50685819707581,-122.83277034759521
+"4a90446ef964a520eb1620e3","Beaverton Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",45.484403789562556,-122.80502236915328
+"4a90a930f964a520041920e3","Izakaya Kaiten Sushi","Food::Ramen /  Noodle House",45.49531,-122.8270572423935
+"4a91a540f964a5201d1b20e3","Krispy Kreme Doughnuts","Food::Donut Shop",45.53304838316756,-122.84688949584961
+"4a91fcb6f964a520841c20e3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",45.48816605656579,-122.7985029004019
+"4a920210f964a520921c20e3","Café Yumm!","Food::Vegetarian / Vegan Restaurant",45.49524762599459,-122.8272557258606
+"4a92ce4af964a520c11d20e3","Nike - Rhein Building","Professional & Other Places::Office",45.512561167347876,-122.8359707846463
+"4a93138af964a520b31e20e3","Nike - Nolan Ryan Building","Professional & Other Places::Office",45.507580018805896,-122.83281326293945
+"4a94044df964a520302020e3","Nike - Pete Sampras Building","Professional & Other Places::Building",45.5124220002627,-122.835087776184
+"4a94d52ff964a520872220e3","Burgerville, USA","Food::Fast Food Restaurant",45.48897135620769,-122.79924809932709
+"4a955971f964a520f62220e3","Chevron - Allen","Shop & Service::Gas Station / Garage",45.472216,-122.77402783
+"4a95829df964a520722320e3","Nike - Bo Jackson Building","Shop & Service::Gym / Fitness Center::Gym",45.50610628959769,-122.82955169677734
+"4a95a366f964a520fd2320e3","Nike - Alberto Salazar","Professional & Other Places::Office::Coworking Space",45.50810634131551,-122.82767415046692
+"4a971f7ff964a520912820e3","Nike - Old Well","Professional & Other Places::Office",45.50782062399236,-122.83161163330078
+"4a97527cf964a5205d2920e3","Burgerville, USA","Food::Fast Food Restaurant",45.472024267973154,-122.77310622104342
+"4a9840fef964a520352b20e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",45.47526927058061,-122.82524228823445
+"4a985b16f964a520a92b20e3","US Post Office","Professional & Other Places::Post Office",45.48629909276554,-122.80193802356406
+"4a9874c4f964a520202c20e3","I Love Sushi","Food::Sushi Restaurant",45.49485655472193,-122.80925273895264
+"4a987d25f964a5204e2c20e3","TriMet Beaverton Transit Center","Travel & Transport::Train Station",45.49105850976099,-122.80116319656372
+"4a98806cf964a520632c20e3","TriMet Sunset Transit Center","Travel & Transport::Light Rail",45.510166,-122.781778
+"4a989589f964a520cd2c20e3","Best Buy","Shop & Service::Electronics Store",45.497418499999995,-122.81
+"4a996c1df964a520382e20e3","The Home Depot","Shop & Service::Hardware Store",45.48801236783298,-122.79114246368408
+"4a99835ff964a520c82e20e3","Pizza Schmizza - Raleigh Hills","Food::Pizza Place",45.486146174901805,-122.77203384005804
+"4a998fa0f964a520122f20e3","Costco","Shop & Service::Department Store",45.508692809171954,-122.84238338470459
+"4a9ad6d2f964a520103320e3","Chipotle Mexican Grill","Food::Burrito Place",45.45465663185058,-122.77700859948257
+"4a9af401f964a520c03320e3","Uwajimaya","Shop & Service::Food & Drink Shop::Grocery Store",45.48562046686088,-122.78534889221191
+"4a9dbcd3f964a5202e3920e3","Izzy's","Food::Pizza Place",45.48827900815229,-122.79936737948364
+"4a9ee676f964a520b33b20e3","Nike - John McEnroe Building","Professional & Other Places::Office",45.50803115268687,-122.82723426818848
+"4aa17f97f964a520ca4020e3","Cold Stone Creamery","Food::Ice Cream Shop",45.496490478515625,-122.8114013671875
+"4aa42ddcf964a520b44520e3","Benihana","Food::Japanese Restaurant",45.4534649848938,-122.785639
+"4aa6d9a4f964a5202f4b20e3","Fresh Thyme Soup Company","Food::Soup Place",45.53087841235243,-122.84387765212368
+"4aaaad4ff964a520eb5620e3","Nike - Cafe 19","College & University::College Cafeteria",45.510518940714,-122.831525802612
+"4aac5320f964a5207c5d20e3","Ikenohana","Food::Japanese Restaurant",45.475382,-122.82387614250183
+"4aad26aaf964a520bc5e20e3","Beaverton Toyota","Shop & Service::Automotive Shop",45.48905932143697,-122.82526816122179
+"4aaea19ff964a520b06220e3","Nike - Tarheel","Food::Restaurant",45.510858,-122.83123813000002
+"4aafe9dff964a5202a6520e3","Panera Bread","Food::Café",45.49503,-122.80997157096863
+"4ab134dff964a5207c6820e3","Chipotle Mexican Grill","Food::Mexican Restaurant",45.495255146569356,-122.80897378921509
+"4ab13543f964a5207e6820e3","Ernesto's Italian Restaurant","Food::Italian Restaurant",45.48539977,-122.765358
+"4ab13546f964a5207f6820e3","Goodwill Industries","Shop & Service::Thrift / Vintage Store",45.492522476720445,-122.81003074421861
+"4ab431b8f964a520517020e3","Pastini Pastaria","Food::Italian Restaurant",45.49469020935363,-122.81183578252714
+"4ab59101f964a5206b7520e3","Goodwill","Shop & Service::Thrift / Vintage Store",45.5315802,-122.843354
+"4ab67f39f964a5206d7720e3","Decarli","Food::Italian Restaurant",45.486738,-122.806271
+"4ab6b59df964a520ae7820e3","Best Baguette","Food::Vietnamese Restaurant",45.493588,-122.80903148
+"4abd5140f964a520b38920e3","Ringo's Bar & Grill","Nightlife Spot::Dive Bar",45.48748585746891,-122.8031587600708
+"4abd7742f964a5207c8a20e3","Nike Boston Deli","Professional & Other Places::Office::Cafeteria",45.50643713012543,-122.82856464385986
+"4ac19540f964a520859720e3","The Courts in Beaverton","Outdoors & Recreation::Athletic & Sport::Basketball Court",45.49489631713402,-122.82557461017272
+"4ac4ca31f964a520ff9e20e3","Nike - Charles Building","Professional & Other Places::Office",45.51370141790985,-122.83462516510177
+"4ac6634cf964a5201bb420e3","Country Korean Restaurant","Food::Korean Restaurant",45.49025374259744,-122.79723644256592
+"4ac77719f964a52062b720e3","Bally Total Fitness","Shop & Service::Gym / Fitness Center::Gym",45.51381464,-122.789488
+"4aca5551f964a52076c120e3","Big Town Hero","Food::Sandwich Place",45.518496443740936,-122.84092426300049
+"4ace1f9ff964a52088ce20e3","Garden Home Recreation Center","Outdoors & Recreation::Other Great Outdoors",45.46662684626381,-122.75332629456297
+"4ace2dc0f964a520dcce20e3","Michaels","Shop & Service::Arts & Crafts Store",45.48419881721926,-122.78425455093384
+"4acea173f964a52082d120e3","Thai Derm","Food::Thai Restaurant",45.49200465692644,-122.81006432398178
+"4acf93b7f964a520a8d420e3","Marie Callender's","Food::American Restaurant",45.53119659423828,-122.84416961669922
+"4acfcc31f964a5201ad620e3","Greenway Park","Outdoors & Recreation::Park",45.476374687070994,-122.79035612622006
+"4acfee4ef964a520f3d620e3","JCD Korean Restaurant","Food::Korean Restaurant",45.49446407,-122.80892550945282
+"4ad0f3a6f964a5206bdb20e3","Chinatown Restaurant","Food::Dim Sum Restaurant",45.511303642717834,-122.82225237703577
+"4ad10663f964a52008dc20e3","Beaverton Memorial Park","Outdoors & Recreation::Plaza",45.48309306491648,-122.80624866485596
+"4ad138e8f964a5208ddd20e3","WinCo Foods","Shop & Service::Food & Drink Shop::Grocery Store",45.49792488715174,-122.81058311462402
+"4ad24167f964a52074e020e3","Hair M","Shop & Service::Salon / Barbershop",45.49718059,-122.812068
+"4ad26f89f964a520a4e120e3","Giovanni's Italian Restaurant","Food::Pizza Place",45.48744955,-122.80364625
+"4ad36828f964a52038e420e3","Sunset High School","Professional & Other Places::School::High School",45.527997723300736,-122.82083988189697
+"4ad3ebe6f964a520f3e620e3","Chuck E. Cheese's","Arts & Entertainment::Arcade",45.4899524,-122.79079377651215
+"4ad4d487f964a52015fc20e3","Taco Bell","Food::Fast Food Restaurant",45.49496284,-122.809209
+"4ad4e86ef964a5209bfc20e3","Nike - Ronaldo Field","Outdoors & Recreation::Athletic & Sport",45.50972844542063,-122.83043546533882
+"4ad51d94f964a520f80121e3","Halloween Warehouse","Shop & Service::Miscellaneous Shop",45.49034535884857,-122.79476344585419
+"4ad62551f964a520540521e3","Thai Cabin","Food::Thai Restaurant",45.51750412897258,-122.8432846069336
+"4ad687bdf964a520a90721e3","Conestoga Recreation and Aquatic Center","Shop & Service::Gym / Fitness Center",45.448814386556776,-122.80639080243719
+"4ad9137ff964a520d91721e3","Subway","Food::Sandwich Place",45.498744,-122.808425
+"4ada3c86f964a520592021e3","Bike Gallery","Shop & Service::Bike Shop",45.48893101666667,-122.804331
+"4ada8e85f964a520782321e3","La Fogata Mexican Restaurant & Cantina - Beaverton","Food::Mexican Restaurant",45.49096567,-122.79831858953794
+"4adba1c1f964a5208f2921e3","Fred Meyer","Shop & Service::Food & Drink Shop::Grocery Store",45.487997324748,-122.79444694519043
+"4adba4e9f964a520b32921e3","Hilton Garden Inn","Travel & Transport::Hotel",45.52751289427224,-122.83570001666749
+"4adbd76bf964a520db2a21e3","Pizza Schmizza - Cedar Hills","Food::Pizza Place",45.49698595,-122.80813
+"4adc6385f964a520fb2b21e3","Nike Sports Center","Shop & Service::Gym / Fitness Center::Gym",45.50932438310686,-122.83371448516846
+"4ae138a2f964a520b88521e3","Burger King","Food::Burger Joint",45.489739,-122.7943728
+"4ae24682f964a520b68c21e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",45.51553066366177,-122.79164783087434
+"4ae39fb1f964a520609721e3","Hapa Grill","Food::Asian Restaurant",45.442112278534104,-122.8277063369751
+"4ae60682f964a52028a421e3","McDonald's","Food::Fast Food Restaurant",45.517036,-122.84120486666667
+"4ae63b20f964a520d4a521e3","Abhiruchi Indian Cuisine","Food::Indian Restaurant",45.49213707447052,-122.827193
+"4ae71ca7f964a5208da821e3","Nike - Edo Building","Professional & Other Places::Office",45.511549872869175,-122.83414363861084
+"4ae79d9ff964a520d7ac21e3","The Home Depot","Shop & Service::Hardware Store",45.524453673234255,-122.81712905455933
+"4ae9f4c5f964a520f9b721e3","Emerald City Smoothie","Food::Juice Bar",45.48786945836362,-122.79703259468079
+"4aec6367f964a52093c621e3","Starbucks","Food::Coffee Shop",45.458904006600704,-122.7892541885376
+"4aec63d9f964a52098c621e3","Einstein Bros.","Food::Bagel Shop",45.45886261673492,-122.78921395540237
+"4aedf19af964a5207fd021e3","DJK Korean BBQ","Food::Korean Restaurant",45.488988,-122.80253648757935
+"4af1f4a3f964a520bce421e3","El Pollo Loco","Food::Fast Food Restaurant",45.496533629683974,-122.80828714370728
+"4af74607f964a520d90722e3","Red Robin Gourmet Burgers","Food::Burger Joint",45.48950161335789,-122.79848098754883
+"4af85983f964a5206d0c22e3","Starbucks","Food::Coffee Shop",45.438271155108836,-122.82656371593475
+"4af8b9f9f964a5207f0f22e3","Albertson's","Shop & Service::Food & Drink Shop::Grocery Store",45.51451389925995,-122.79030540808891
+"4afb6930f964a520b21d22e3","Biscuits Cafe","Food::Diner",45.5119471407853,-122.848983934317
+"4afc6d57f964a5208f2222e3","Subway","Food::Sandwich Place",45.49517358333333,-122.827256
+"4afc812ff964a520632322e3","Great Clips - Murrayhill","Shop & Service::Salon / Barbershop",45.44200741594403,-122.82795649941544
+"4afcc31bf964a520aa2522e3","PetSmart","Shop & Service::Pet Store",45.50135681,-122.804082
+"4afd052bf964a520cb2622e3","Applebees","Food::American Restaurant",45.5285632,-122.86695555
+"4afdf6fbf964a5207f2c22e3","Sushi Track","Food::Sushi Restaurant",45.48734675,-122.79714562
+"4aff2bcaf964a5205f3522e3","Olive Garden","Food::Italian Restaurant",45.48917521093428,-122.79679099934809
+"4b0095caf964a520ae3f22e3","Homewood Suites by Hilton","Travel & Transport::Hotel",45.52869611027414,-122.83607238939275
+"4b009c7ff964a520f53f22e3","Taco Bell","Food::Fast Food Restaurant",45.456735,-122.783078
+"4b018139f964a520f84222e3","The Portland Clinic - Beaverton","Professional & Other Places::Medical Center::Doctor's Office",45.492582995613674,-122.84078084342526
+"4b018617f964a5201d4322e3","Gentle Dental Cornell Center","Professional & Other Places::Medical Center::Dentist's Office",45.531059,-122.843401
+"4b022edcf964a5201c4822e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",45.44185633723625,-122.82689094543457
+"4b038143f964a520a24f22e3","Mingo","Food::Italian Restaurant",45.49106603089518,-122.80667781829834
+"4b0453a6f964a520565322e3","Arby's - Cedar Hills","Food::American Restaurant",45.49302291870117,-122.80972290039062
+"4b059ce7f964a520d0df22e3","Muchas Gracias","Food::Mexican Restaurant",45.458553,-122.78915341
+"4b0847c4f964a5200b0823e3","The Human Bean","Food::Coffee Shop",45.486594093306856,-122.76249876861081
+"4b085c57f964a5200e0a23e3","Togo's Sandwiches","Food::Sandwich Place",45.48628139761533,-122.77874569255066
+"4b0b675ef964a520233123e3","Cooper Mountain Nature Park","Outdoors & Recreation::Park",45.45269518720968,-122.87152290344238
+"4b0b8498f964a520073223e3","Ulta","Shop & Service::Cosmetics Shop",45.495939514670276,-122.81096935272217
+"4b0c047af964a520bf3523e3","Jack in the Box","Food::Fast Food Restaurant",45.49891754714264,-122.80706405639648
+"4b0c0676f964a520d73523e3","Washington County Justice Court","Professional & Other Places::Government Building",45.49343448846841,-122.82584089920904
+"4b0c48adf964a520713a23e3","Starbucks","Food::Coffee Shop",45.51846637385355,-122.84178256988525
+"4b0c9a49f964a520fc3f23e3","Everyday Music","Shop & Service::Record Shop",45.496022,-122.808605
+"4b0ddb98f964a520715123e3","My Favorite Muffin & Bagel Cafe","Food::Bagel Shop",45.51837522560121,-122.84247118675448
+"4b105fbaf964a520f56e23e3","Carr Subaru","Shop & Service::Car Dealership",45.490058189961346,-122.79597043991089
+"4b149cabf964a52019a523e3","Stockpot Broiler","Nightlife Spot::Cocktail Bar",45.45994348333333,-122.779353
+"4b15cc32f964a52065b423e3","Intel - Cornell Oaks Campus","Professional & Other Places::Office",45.524756,-122.83459621428572
+"4b169590f964a52091ba23e3","Arbor Custom Homes","Professional & Other Places::Office",45.51438331604004,-122.840334
+"4b16965af964a5209eba23e3","Lexus of Portland","Shop & Service::Automotive Shop",45.49726681525608,-122.76736269976703
+"4b1823d1f964a5209ecd23e3","T.J. Maxx","Shop & Service::Department Store",45.491673,-122.7983711
+"4b19b8b7f964a520c3e223e3","Papa Murphy's - Murray Blvd","Food::Pizza Place",45.475564,-122.826997
+"4b1d2c52f964a5208b0c24e3","Nike - Michael Jordan Building","Professional & Other Places::Office",45.506016060025374,-122.82976627349854
+"4b200793f964a520592c24e3","Mexicali Express","Food::Mexican Restaurant",45.48809273,-122.809884
+"4b216d76f964a520b03b24e3","Beaverton Sub Station","Food::Sandwich Place",45.48742015906628,-122.80485873403397
+"4b21744ef964a520163c24e3","Beaverton High School","Professional & Other Places::School::High School",45.48534967921898,-122.81118392944336
+"4b21b391f964a520644024e3","Jack in the Box","Food::Fast Food Restaurant",45.486037,-122.774017
+"4b227983f964a5205d4724e3","Coldwell Banker Building","Professional & Other Places::Office::Coworking Space",45.490085,-122.807844
+"4b22ff1df964a520d35124e3","Ruby Tuesday","Food::American Restaurant",45.43935283333333,-122.826619
+"4b2563f6f964a5201a7124e3","Haggen","Shop & Service::Food & Drink Shop::Grocery Store",45.45496884280364,-122.82658656227689
+"4b26e3aef964a5208d8224e3","Sambi Japanese Restaurant","Food::Sushi Restaurant",45.4856956854193,-122.77207732200623
+"4b2932bff964a520d69a24e3","Beaverton City Hall","Professional & Other Places::Government Building::City Hall",45.48574980857986,-122.79698456605752
+"4b293af0f964a520539b24e3","Nike - Mia Hamm Cafeteria","Professional & Other Places::Office::Cafeteria",45.51203104827475,-122.83581733703613
+"4b29780ff964a520659f24e3","Valley Lanes","Arts & Entertainment::Bowling Alley",45.48454852061551,-122.77229780097
+"4b299a20f964a52090a124e3","Moonstruck Chocolate Cafe","Food::Dessert Shop",45.488117669315216,-122.7971076965332
+"4b2a8fe7f964a52069ab24e3","Qdoba Mexican Grill","Food::Mexican Restaurant",45.48616484,-122.79612161
+"4b2aaf1cf964a520a7ad24e3","The Pita Pit","Food::Sandwich Place",45.4963691,-122.808355
+"4b2aec75f964a52027b224e3","Conestoga Middle School","College & University::College Academic Building",45.4470947551576,-122.804155999749
+"4b2afc94f964a5205ab324e3","Elmer’s Restaurant","Food::Breakfast Spot",45.52767848411084,-122.83896033623934
+"4b2b9485f964a520d3b724e3","Metro Perc","Food::Coffee Shop",45.42703987408774,-122.84500122070312
+"4b2c20bdf964a5203cc224e3","First Tech Federal Credit Union","Shop & Service::Bank",45.45711,-122.78812375
+"4b2c3ab3f964a5203cc424e3","Sushi Boat","Food::Sushi Restaurant",45.43743175672354,-122.82933712005615
+"4b2d0db6f964a5202dcd24e3","Shari's of Beaverton","Food::Diner",45.47614574432373,-122.826411
+"4b2e6490f964a52057df24e3","Beaverton Christian Church","Professional & Other Places::Spiritual Center::Church",45.475766859517215,-122.81804739926679
+"4b341ffcf964a520422525e3","Mandarin Palace","Food::Chinese Restaurant",45.4718949,-122.772054
+"4b369c35f964a520173925e3","Best Buy","Shop & Service::Electronics Store",45.45543467785282,-122.78655052185059
+"4b38158bf964a5206e4b25e3","Pizzicato","Food::Pizza Place",45.437389,-122.82924056053162
+"4b39187bf964a520155625e3","Borders","Shop & Service::Bookstore",45.5008,-122.80742551666667
+"4b3936a3f964a5204c5825e3","Walgreens","Shop & Service::Drugstore / Pharmacy",45.43806649,-122.827186
+"4b3bb1abf964a520f17825e3","Shilo Corporate office","Professional & Other Places::Office",45.51576001818447,-122.79637813568115
+"4b3c122ef964a520508125e3","Chicken Bar","Food::BBQ Joint",45.48841857910156,-122.7977294921875
+"4b3e371df964a5209c9925e3","Big Red's","Nightlife Spot::Bar",45.445951258673304,-122.79410094022751
+"4b3fc19df964a5200aae25e3","Rite Aid","Shop & Service::Drugstore / Pharmacy",45.47664385694456,-122.82692483376266
+"4b3fdf95f964a52004b125e3","Taco Time","Food::Mexican Restaurant",45.49639724,-122.811552
+"4b3fdfc3f964a52009b125e3","The Mac Store","Shop & Service::Electronics Store",45.496480986834584,-122.81019687652588
+"4b3fe00ff964a52011b125e3","Old Navy","Shop & Service::Clothing Store",45.496945174920974,-122.81013393159876
+"4b42b0fcf964a520d0d825e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",45.486816,-122.795494
+"4b42dad2f964a5207bda25e3","Panda Express","Food::Fast Food Restaurant",45.48972917,-122.794934
+"4b43db72f964a52040ec25e3","Starbucks","Food::Coffee Shop",45.48604428,-122.7726067
+"4b44cfbbf964a520edfc25e3","Les Schwab Tires","Shop & Service::Automotive Shop",45.49272155761719,-122.78279876708984
+"4b44e2d4f964a52041ff25e3","Beaverton Nissan","Shop & Service::Automotive Shop",45.491884,-122.811326
+"4b450b99f964a5204d0226e3","Social Security Office","Professional & Other Places::Government Building",45.48534035682546,-122.79985427856089
+"4b46a20bf964a520f22526e3","Bank of America","Shop & Service::Bank",45.47604022898119,-122.82505146149792
+"4b46a88df964a520682626e3","House of Good Fortune","Food::Chinese Restaurant",45.44204076564129,-122.82729864120483
+"4b477c1cf964a5209e3326e3","First Tech Federal Credit Union","Shop & Service::Bank",45.4945009651999,-122.83491680124668
+"4b47f328f964a520de4426e3","TVCTV","Professional & Other Places::Event Space",45.49419849596995,-122.79447376728058
+"4b48f120f964a520915e26e3","Java Nation","Food::Coffee Shop",45.48991528568252,-122.79707551002502
+"4b494eebf964a520176d26e3","Chevron Station","Shop & Service::Gas Station / Garage",45.52842382473304,-122.81735514290514
+"4b499148f964a520527126e3","My Kidz World","Shop & Service::Furniture / Home Store",45.53216097,-122.84462983
+"4b4a4346f964a5204c8126e3","The World of Wet Pets","Shop & Service::Pet Store",45.48542213333333,-122.76518975
+"4b4a6b45f964a520018726e3","Big Al's","Arts & Entertainment::Bowling Alley",45.42908790960648,-122.82989501953125
+"4b4a6b60f964a520058726e3","Tualatin Hills Nature Park","Outdoors & Recreation::Park",45.49816553360498,-122.83937931060791
+"4b4b81b2f964a520699e26e3","Kaiser Permanente - Beaverton","Professional & Other Places::Medical Center::Hospital",45.48536795401148,-122.78357051436805
+"4b4cd849f964a5205fc126e3","M.S. Auto Glass","Shop & Service::Automotive Shop",45.49017188,-122.795196
+"4b4eaf28f964a52005f426e3","Orange Leaf Frozen Yogurt","Food::Ice Cream Shop",45.45024871826172,-122.78348541259766
+"4b4f5de4f964a520680327e3","ProSchools","Professional & Other Places::School",45.510287420211576,-122.78353977766116
+"4b4f8661f964a520010a27e3","Valley Catholic High School","Professional & Other Places::School::High School",45.48832540052225,-122.83003718551302
+"4b50c9ecf964a520963227e3","Popeye's Chicken & Biscuits","Food::Fried Chicken Joint",45.51642158381243,-122.8402590751648
+"4b512716f964a520fc4427e3","Dania Furniture","Shop & Service::Furniture / Home Store",45.53463306878554,-122.85128283957137
+"4b55e36cf964a520b6f427e3","TriMet Elmonica/SW 170th Ave MAX Station","Travel & Transport::Light Rail",45.50995782960774,-122.85147339105606
+"4b55f1eef964a52001f827e3","Bootcamp R.D.F.T.","Shop & Service::Gym / Fitness Center",45.485657,-122.765507
+"4b55f23ef964a52013f827e3","Village Baptist Church","Professional & Other Places::Spiritual Center::Church",45.51645864304527,-122.81706475143122
+"4b5762a3f964a520173528e3","Nike - Prefontaine Hall","Professional & Other Places::Office",45.507792,-122.828018
+"4b576b78f964a520b03628e3","Superbowl Teriyaki","Food::Sushi Restaurant",45.48861408793716,-122.80895233154297
+"4b57aa9ef964a5209f3a28e3","Panda Express","Food::Asian Restaurant",45.51570912,-122.792009
+"4b57ac92f964a5202c3b28e3","Southridge High School","Professional & Other Places::School",45.449350030614795,-122.80668627094389
+"4b57afddf964a520eb3b28e3","Albertsons","Shop & Service::Food & Drink Shop::Grocery Store",45.46046060136621,-122.79672773572507
+"4b57f6bdf964a520704728e3","T-Mobile","Shop & Service::Electronics Store",45.494844575807996,-122.81020509762325
+"4b5805fdf964a520e44828e3","Chevron Station","Shop & Service::Gas Station / Garage",45.43664692675854,-122.82976627349854
+"4b587f93f964a520a85a28e3","Kuni Auto Center","Shop & Service::Automotive Shop",45.492947101593,-122.811046
+"4b58cd1ff964a520df6b28e3","Carriage House Car Wash","Shop & Service::Car Wash",45.488601,-122.814539
+"4b591852f964a520497c28e3","Wendy's","Food::Fast Food Restaurant",45.49276285,-122.80599558
+"4b59dbddf964a520709c28e3","TriMet Millikan Way MAX Station","Travel & Transport::Light Rail",45.49506713189852,-122.82122611999512
+"4b5a17d1f964a520b0ac28e3","Panda Express","Food::Chinese Restaurant",45.45881,-122.78901107
+"4b5a5d73f964a52048c028e3","Chase","Shop & Service::Bank",45.49450769,-122.810565
+"4b5b6d0cf964a52024fd28e3","Nike - Michael Johnson Track","Arts & Entertainment::Stadium::Track Stadium",45.50559498677569,-122.82719135284424
+"4b5ca6eaf964a520353c29e3","pump it up","Arts & Entertainment::General Entertainment",45.47439956665039,-122.77649688720703
+"4b5dcae4f964a520f16b29e3","Nike Stringer Center","Professional & Other Places::School",45.510971,-122.835097
+"4b5e11a9f964a520e27b29e3","Canyon Grille","Food::Burger Joint",45.497902,-122.767775058746
+"4b5e2d30f964a520cf8129e3","Nike - Ken Griffey Jr Building","Professional & Other Places::Office::Conference Room",45.51075871061559,-122.83155544605738
+"4b5e4d79f964a5208c8829e3","KFC / A&W","Food::Fast Food Restaurant",45.4863289,-122.782209
+"4b604c75f964a52051de29e3","Beaverton Area Chamber of Commerce","Professional & Other Places::Government Building::Monument / Landmark",45.49374239830487,-122.80685772855908
+"4b6079f7f964a52057e829e3","Tri-D Fitness","Shop & Service::Gym / Fitness Center",45.48494,-122.765098
+"4b60b3e3f964a520def429e3","Highland Park Middle School","Professional & Other Places::School::Middle School",45.46965497547752,-122.81818778616048
+"4b60b5baf964a52042f529e3","76 Gas Station","Shop & Service::Gas Station / Garage",45.51503224014162,-122.8316447259967
+"4b60d562f964a52058fc29e3","Beaverton Hoop YMCA","Shop & Service::Gym / Fitness Center::Gym",45.47941922658853,-122.77684181795274
+"4b610d89f964a520f2072ae3","GoGo Mongolian Feast","Food::Burger Joint",45.51538939957487,-122.88761158879765
+"4b61f0cff964a520722c2ae3","Sun Teriyaki","Food::Japanese Restaurant",45.52033615112305,-122.84052276611328
+"4b621d20f964a52056362ae3","Unitus Community Credit Union","Shop & Service::Bank",45.486169560027804,-122.78585314750671
+"4b631c68f964a520dd632ae3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",45.48823801362532,-122.80217170715332
+"4b6346b1f964a5203a6f2ae3","Banner bank","Shop & Service::Bank",45.499502768526256,-122.8081115834813
+"4b6379a3f964a520c07c2ae3","Shane Co.","Shop & Service::Jewelry Store",45.44972914069141,-122.7849262032588
+"4b64708ef964a52043b32ae3","Einstein Bros. Bagels","Food::Bagel Shop",45.48709473229837,-122.79689311981201
+"4b6475a0f964a520e4b42ae3","Lin's China Jade","Food::Chinese Restaurant",45.49055538333333,-122.81033
+"4b647633f964a52018b52ae3","Hiteon Elementary","College & University::College Academic Building",45.454536,-122.81923055648804
+"4b6476d3f964a52050b52ae3","Marinepolis Sushi Land","Food::Sushi Restaurant",45.490269433199074,-122.79933610206277
+"4b648353f964a520b3b92ae3","Kuni BMW","Shop & Service::Automotive Shop",45.49193784209565,-122.78899843693728
+"4b64fc27f964a520d4dd2ae3","ampm","Shop & Service::Gas Station / Garage",45.48982914,-122.82667636871338
+"4b663c89f964a5202a1a2be3","Things From Another World - Beaverton","Shop & Service::Toy / Game Store",45.48882461666667,-122.81198
+"4b663de5f964a5205d1a2be3","Denny's","Food::Breakfast Spot",45.456268273539415,-122.78322506919075
+"4b6657e2f964a520921e2be3","Southwest Hills Baptist Church","Professional & Other Places::Spiritual Center::Church",45.454319,-122.814309
+"4b667d84f964a52082222be3","Golden Crown of China","Food::Chinese Restaurant",45.48676377810975,-122.78646469116211
+"4b679692f964a5207a562be3","Crescendo Noodle House & Bar","Food::Japanese Restaurant",45.51740264892578,-122.84306335449219
+"4b69183af964a520f9982be3","Thailand Restaurant","Food::Thai Restaurant",45.52028181450174,-122.84095644950867
+"4b6a3140f964a52071cc2be3","Little Caesar's Pizza","Food::Pizza Place",45.47597885131836,-122.80094909667969
+"4b6a38e7f964a520d2cd2be3","Courtyard by Marriott Portland/Beaverton","Travel & Transport::Hotel",45.458032560112926,-122.78796776023884
+"4b6a51ecf964a5200fd22be3","Fuji's Grill and Sushi","Food::Sushi Restaurant",45.530396,-122.843377
+"4b6b2936f964a520b6f62be3","Nike - Columbia Building","Professional & Other Places::Office",45.51305389404297,-122.8358154296875
+"4b6b796cf964a5201a0b2ce3","West Sylvan Middle School","Professional & Other Places::School::Middle School",45.5049633979797,-122.7633279562
+"4b6c6d72f964a52045392ce3","Game Trader","Arts & Entertainment::Arcade",45.49605489612207,-122.8113346244422
+"4b6cc5c0f964a52058532ce3","My Masterpiece Art Studio","Arts & Entertainment::Art Gallery",45.46253867087026,-122.78955459594727
+"4b6cdad2f964a5205a592ce3","Domino's Pizza","Food::Pizza Place",45.4471904166667,-122.79160663
+"4b6db59cf964a52086882ce3","The Hot Box","Shop & Service::Smoke Shop",45.4866224527359,-122.80639886856079
+"4b6dea5df964a520899b2ce3","SportClips","Shop & Service::Salon / Barbershop",45.49638902537913,-122.80855839360198
+"4b6df7eff964a520ca9f2ce3","Treasure Island Buffet","Food::Asian Restaurant",45.5160741166667,-122.841268
+"4b6e0b95f964a52006a62ce3","Liquor Store - Beaverton","Shop & Service::Food & Drink Shop::Liquor Store",45.487892023040786,-122.79533207416534
+"4b6e4521f964a5205eb52ce3","Beaverton City Library","Professional & Other Places::Library",45.483956672508235,-122.8038038836758
+"4b6f3d8cf964a52076e62ce3","Beaverton Car Wash","Shop & Service::Car Wash",45.48872011666667,-122.80461681
+"4b6f7535f964a52061f12ce3","Chevron Station","Shop & Service::Gas Station / Garage",45.49429149,-122.80973491
+"4b706b3af964a52047192de3","David's Bridal","Shop & Service::Bridal Shop",45.45415061666667,-122.7865044
+"4b71eb84f964a52037642de3","Chevron Station","Shop & Service::Gas Station / Garage",45.476252,-122.82574331666666
+"4b71f1a6f964a520b5652de3","Monty's Tavern","Nightlife Spot::Bar",45.488505,-122.81190276145935
+"4b721f1cf964a520ba6f2de3","Bugatti's","Food::Pizza Place",45.49870698436449,-122.80796527862549
+"4b735391f964a520d3a82de3","Nike ITC-A","Professional & Other Places::Office",45.49905290851281,-122.83463716506958
+"4b735eaef964a52023ab2de3","KPTV Fox 12 Oregon","Professional & Other Places::Office",45.52682518382482,-122.82985210418701
+"4b73adbef964a52025b82de3","Taco Bell","Food::Fast Food Restaurant",45.52815180519694,-122.86690950393677
+"4b744a15f964a520dbd22de3","Nike ITC-F","Professional & Other Places::Office",45.49636066013692,-122.83689022064209
+"4b74624bf964a52008d92de3","India Sweets and Spices","Food::Indian Restaurant",45.52995300292969,-122.84449768066406
+"4b759fd1f964a520a9172ee3","Pump It Up Jr.","Arts & Entertainment::Theme Park",45.53031539916992,-122.84506225585938
+"4b760880f964a52008382ee3","Nike - Mia Hamm Building","Professional & Other Places::Office",45.509174009003246,-122.83043146133423
+"4b761a51f964a520dc3c2ee3","Sandoval's","Food::Mexican Restaurant",45.441131591796875,-122.8285903930664
+"4b76e26ff964a52016672ee3","Lamps Plus","Shop & Service::Furniture / Home Store",45.4570467333333,-122.781708
+"4b770cbef964a5201a782ee3","TriMet Beaverton Creek MAX Station","Travel & Transport::Light Rail",45.50039146454216,-122.83307075500488
+"4b77256ff964a52016822ee3","Ross Dress for Less","Shop & Service::Clothing Store",45.49581622,-122.810594
+"4b7745c6f964a520b68d2ee3","Liquor Store - Allen Blvd","Shop & Service::Food & Drink Shop::Liquor Store",45.47513723373413,-122.82419
+"4b786b60f964a520e4cc2ee3","Bally Total Fitness","Shop & Service::Gym / Fitness Center::Gym",45.449812,-122.78788626194
+"4b787c15f964a5208ed12ee3","Buffet Palace","Food::Chinese Restaurant",45.493263244628906,-122.80632781982422
+"4b787c30f964a52096d12ee3","Kmart","Shop & Service::Department Store",45.49113,-122.82613
+"4b788771f964a52084d42ee3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",45.486816,-122.795494
+"4b79949ef964a5200e032fe3","jcpenney","Shop & Service::Department Store",45.449681,-122.783306
+"4b799e98f964a52004062fe3","Guitar Center","Shop & Service::Music Store",45.45111068991593,-122.78658370615469
+"4b79a401f964a52099072fe3","Quiznos","Food::Sandwich Place",45.51726531982422,-122.84251403808594
+"4b79fed0f964a520441e2fe3","Kaady Car Wash","Shop & Service::Car Wash",45.4764515,-122.80072136666666
+"4b7a1a57f964a5200e232fe3","Plaid Pantry","Shop & Service::Gas Station / Garage",45.46516195,-122.754444479942
+"4b7c9a0af964a520379d2fe3","Hart Road Pizza & Pub","Nightlife Spot::Bar",45.465621275991154,-122.82872422813092
+"4b7dbaaff964a52008d12fe3","Kinokuniya Bookstore","Shop & Service::Bookstore",45.485597,-122.785196
+"4b7df9c0f964a5200add2fe3","Jesuit High School","Professional & Other Places::School::High School",45.48563515965326,-122.76847961461426
+"4b7f5eabf964a520962a30e3","76","Shop & Service::Gas Station / Garage",45.501624712717756,-122.8052830696106
+"4b7f8a51f964a5209b3330e3","Valley Cinema Pub","Arts & Entertainment::Movie Theater::Indie Movie Theater",45.48390545647862,-122.77290344238281
+"4b7f8c3af964a520ef3330e3","Extra Space Storage","Shop & Service::Storage Facility",45.437565383759555,-122.82530307769775
+"4b802a31f964a520545830e3","The UPS Store","Professional & Other Places::Post Office",45.5182859541918,-122.84225463867188
+"4b803f40f964a5208f6030e3","Shell Gas Station","Shop & Service::Gas Station / Garage",45.456498,-122.78212996666667
+"4b8196e5f964a5200db130e3","DOLLAR TREE","Shop & Service::Miscellaneous Shop",45.501775272484494,-122.80694935979153
+"4b81c7d5f964a520a9bd30e3","Art Media - Beaverton","Shop & Service::Arts & Crafts Store",45.50026321411133,-122.80574035644531
+"4b82bd35f964a5207fe130e3","SqlSoft+","Professional & Other Places::Office::Tech Startup",45.53014373779297,-122.84208679199219
+"4b83359ef964a52081fd30e3","Jiffy Lube","Shop & Service::Automotive Shop",45.486427307128906,-122.79180908203125
+"4b844bfdf964a5201d2d31e3","Kabob House","Food::Middle Eastern Restaurant",45.487945556640625,-122.79744720458984
+"4b84939ff964a5208e3c31e3","Verizon","Shop & Service::Electronics Store",45.49712,-122.80991756666667
+"4b85cd91f964a520e67331e3","The Sports Page","Nightlife Spot::Bar",45.458481,-122.78415746666667
+"4b85f45ef964a520517b31e3","Bombay Curry","Food::Indian Restaurant",45.4373779296875,-122.82931518554688
+"4b8738eff964a52028b731e3","Best Teriyaki","Food::Japanese Restaurant",45.51633834838867,-122.8416519165039
+"4b886b6ef964a52097f631e3","Sprint Store - Progress","Shop & Service::Electronics Store",45.456891,-122.780794501305
+"4b886de6f964a52020f731e3","Apna Bazaar","Shop & Service::Food & Drink Shop::Grocery Store",45.53264,-122.854176
+"4b88c5f4f964a520de0c32e3","Dolphin II","Nightlife Spot::Strip Club",45.486298544741764,-122.78845357688454
+"4b89da37f964a5205d5132e3","Cold Stone Creamery","Food::Ice Cream Shop",45.49649,-122.81156480312347
+"4b8ad08ef964a520e48232e3","Papa Murphy's","Food::Pizza Place",45.441871643066406,-122.82794189453125
+"4b8b2859f964a5207d9532e3","Pho Wah","Food::Vietnamese Restaurant",45.493473052978516,-122.80908203125
+"4b8b413bf964a5209c9932e3","Shell Gas Station","Shop & Service::Gas Station / Garage",45.52820817651692,-122.83920764923096
+"4b8c5709f964a520a4cb32e3","Family Dental Care","Professional & Other Places::Medical Center::Dentist's Office",45.46171042277815,-122.79629550433036
+"4b8d68adf964a520f7f932e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",45.527223,-122.837736
+"4b8eb37af964a520ed3133e3","Jiffy Lube","Shop & Service::Automotive Shop",45.48855972290039,-122.81417846679688
+"4b8edf64f964a520fc3b33e3","Nike - Sports Research Lab","Shop & Service::Gym / Fitness Center",45.51119737633901,-122.83182922786501
+"4b8f0670f964a5204d4533e3","IBM Portland HQ","Professional & Other Places::Office",45.51300592585895,-122.83865992054034
+"4b8f1a25f964a5201c4933e3","Subway","Food::Sandwich Place",45.5149180143184,-122.791657447815
+"4b90178ef964a520097533e3","Summa Real Estate","Professional & Other Places::Office",45.53403952370669,-122.84865232756492
+"4b904090f964a520087f33e3","Comcast Service Center","Professional & Other Places::Office",45.45069415821589,-122.78971273118617
+"4b908cabf964a5207a8f33e3","Marshalls","Shop & Service::Department Store",45.491717110507224,-122.79955347157602
+"4b913cf7f964a5204bac33e3","Herzog-Meier Volkswagen","Shop & Service::Automotive Shop",45.48959956986993,-122.82035058816369
+"4b91c715f964a520afd633e3","Taco Time","Food::Fast Food Restaurant",45.47628402709961,-122.7999496459961
+"4b92a9abf964a520020f34e3","HomeGoods","Shop & Service::Furniture / Home Store",45.490084514394205,-122.80025660991669
+"4b92f3b1f964a520df2934e3","Standard TV & Appliance","Shop & Service::Furniture / Home Store",45.49431502819061,-122.8085818139373
+"4b931e5af964a520273634e3","AT&T Store","Shop & Service::Electronics Store",45.48963928222656,-122.79488372802734
+"4b940dc9f964a520876434e3","Tan Tan Cafe","Food::Vietnamese Restaurant",45.48767387866974,-122.80684261666667
+"4b94571df964a520527534e3","India Direct","Food::Indian Restaurant",45.5299072265625,-122.84452056884766
+"4b95b300f964a520fcaf34e3","china bay","Food::Chinese Restaurant",45.488487243652344,-122.81294250488281
+"4b981890f964a520032c35e3","Yorke & Curtis, Inc.","Professional & Other Places::Office",45.487553,-122.780923
+"4b984295f964a520eb3735e3","Galaxy Nail and Spa","Shop & Service::Cosmetics Shop",45.488039,-122.797558
+"4b986695f964a5204d4035e3","TriMet Hall/Nimbus WES Station","Travel & Transport::Train Station::Train",45.457584381103516,-122.78699493408203
+"4b99cc97f964a520559235e3","Men's Warehouse","Shop & Service::Clothing Store::Men's Store",45.489424,-122.799576
+"4b9c1e8ff964a520124c36e3","Play It Again Sports","Shop & Service::Sporting Goods Shop",45.485803,-122.77211647
+"4b9c2960f964a5206b5036e3","Mill End Fabrics","Shop & Service::Miscellaneous Shop",45.48473711888577,-122.78446089771306
+"4b9c49a3f964a5202c5c36e3","Peachwave","Food::Ice Cream Shop",45.49654115008702,-122.81064748764038
+"4b9c4f53f964a520455e36e3","St. Cecilia Church","Professional & Other Places::Spiritual Center::Church",45.4827230450928,-122.801924227857
+"4b9db895f964a520d9bb36e3","Baskin Robbins","Food::Dessert Shop",45.51844787597656,-122.8420181274414
+"4b9ee4cdf964a5200e0937e3","Best Teriyaki","Food::Japanese Restaurant",45.4898567199707,-122.79705810546875
+"4b9ef6b5f964a520300d37e3","McDonald's","Food::Fast Food Restaurant",45.486785888671875,-122.77417755126953
+"4b9fa802f964a5202b3237e3","Digimarc","Professional & Other Places::Office",45.451921,-122.793225
+"4ba056a0f964a5202b6937e3","Robertson Tunnel","Travel & Transport::Light Rail",45.506316824703944,-122.75402069091797
+"4ba2622bf964a52070f337e3","Coffee Rush - Allen","Food::Coffee Shop",45.47632598876953,-122.80097198486328
+"4ba2d6e2f964a520411d38e3","Sunset Transit Station","Travel & Transport::Light Rail",45.510168,-122.780664
+"4ba2d72cf964a520541d38e3","Blockbuster","Shop & Service::Video Store",45.500696,-122.80581
+"4ba2d973f964a520061e38e3","Gamestop - Peterkort","Shop & Service::Video Game Store",45.5157795735127,-122.791806
+"4ba2daf5f964a5206c1e38e3","Village Inn","Food::Diner",45.48616289635922,-122.78636932562999
+"4ba2ddf0f964a520311f38e3","La Hacienda Real","Food::Mexican Restaurant",45.48922348022461,-122.80047607421875
+"4ba3d494f964a520306438e3","Tualatin Hills Skate Park","Outdoors & Recreation::Athletic & Sport::Skate Park",45.523277351431645,-122.83826351165771
+"4ba40ca6f964a520c57b38e3","Dairy Queen","Food::Burger Joint",45.48714065551758,-122.80860900878906
+"4ba4270bf964a520f18638e3","Autumn Ridge Park","Outdoors & Recreation::Park",45.52941403650351,-122.85772960139958
+"4ba4e581f964a5203ec038e3","IHOP","Food::Breakfast Spot",45.5169185,-122.84076116666667
+"4ba523c9f964a520b6e238e3","U.S. Bank","Shop & Service::Bank",45.48668465,-122.80409216880798
+"4ba68b66f964a520da5c39e3","Ritz Camera & Image","Shop & Service::Department Store",45.456947326660156,-122.78214263916016
+"4ba7c13bf964a52060b039e3","TriMet Merlo Road/SW 158th Ave MAX Station","Travel & Transport::Light Rail",45.50547115881312,-122.84233987246361
+"4ba80bf6f964a520f0c839e3","German American School","College & University::College Classroom",45.49137976995261,-122.82571731458819
+"4ba989f4f964a5205a2d3ae3","Fantasy Adult Video","Shop & Service::Video Store",45.486167330415775,-122.7871121667591
+"4ba9a4f4f964a5209e323ae3","Oroweat Bakery Outlet","Food::Bakery",45.48341369628906,-122.7864761352539
+"4baa2ed3f964a52039513ae3","Pacific Sleep Center","Professional & Other Places::Medical Center::Doctor's Office",45.517467,-122.798622
+"4baa451bf964a5208a593ae3","Serenity Nail Spa","Shop & Service::Spa / Massage",45.51400831,-122.79006053
+"4baa705cf964a520366a3ae3","7-Eleven / 76","Shop & Service::Convenience Store",45.51312871427207,-122.83373594284058
+"4baaa1cbf964a5203e7b3ae3","SuperCuts","Shop & Service::Salon / Barbershop",45.48839993537939,-122.79789752760155
+"4baab5adf964a520b4813ae3","Kid's Campus","Professional & Other Places::School",45.441955648369884,-122.82959474493289
+"4bac2410f964a520c8e63ae3","Burlington Coat Factory","Shop & Service::Clothing Store::Men's Store",45.454772280363215,-122.78630206904013
+"4bad61cdf964a520364c3be3","Santorini West","Food::Greek Restaurant",45.517303466796875,-122.7964096069336
+"4bad7633f964a52051533be3","Malibu Raceway","Outdoors & Recreation::Other Great Outdoors",45.45236403097375,-122.78558492660522
+"4bae46f4f964a520359c3be3","Jay's Wide Shoes","Shop & Service::Clothing Store::Shoe Store",45.48994656085408,-122.79852519013097
+"4bae4cb9f964a520749f3be3","Portland Running Company","Shop & Service::Sporting Goods Shop",45.44727206800313,-122.79127020835544
+"4bae9e88f964a5206fc73be3","Small World Surprise","Shop & Service::Gift Shop",45.496481233333334,-122.8112643957138
+"4baead5ef964a520d6cd3be3","Haggen","Shop & Service::Food & Drink Shop::Grocery Store",45.45496884280364,-122.82658656227689
+"4bafea3ef964a520302b3ce3","Bistro 153","Nightlife Spot::Pub",45.49740982055664,-122.83561706542969
+"4bb0f5f2f964a5200d6e3ce3","Portland Music Company","Shop & Service::Music Store",45.486729,-122.78057078333333
+"4bb109adf964a520d3743ce3","Buffalo Wild Wings","Food::Wings Joint",45.487139862264335,-122.79992401599884
+"4bb12e2ef964a5202d813ce3","Performance Bicycle","Shop & Service::Bike Shop",45.491776,-122.805548
+"4bb1342df964a52027833ce3","ampm","Shop & Service::Gas Station / Garage",45.476749,-122.799697
+"4bb14b30f964a520328a3ce3","Murray Business Center","Professional & Other Places::Office",45.494290071765,-122.828482169963
+"4bb235df14cfd13a42a014ab","Timber Valley Tobaccos","Shop & Service::Smoke Shop",45.502487,-122.808082
+"4bb278caeb3e9521b612ca0a","Rain Salon","Shop & Service::Salon / Barbershop",45.437953,-122.828392
+"4bb3b18142959c74894f222c","Jimmy John's","Food::Sandwich Place",45.49948907071412,-122.80599117279053
+"4bb4067e49bdc9b681770c10","Waka Sushi","Food::Sushi Restaurant",45.496360778808594,-122.81133270263672
+"4bb4b8b486a8d13ab2c0de7f","7-Eleven","Shop & Service::Food & Drink Shop",45.48566370416175,-122.82644252232134
+"4bb4d32daaf4ef3b5a3b5156","Paldo","Shop & Service::Food & Drink Shop::Grocery Store",45.491096,-122.7948385477066
+"4bb671ff6edc76b0b4f4301c","Booster Juice","Food::Juice Bar",45.43803024291992,-122.8274917602539
+"4bb7766f7421a5938a78c040","Center Pointe Apartments","Residence::Residential Building (Apartment / Condo)",45.49487721602969,-122.83150644411062
+"4bb79425cf2fc9b6dc6e9e02","Grocery Outlet","Shop & Service::Food & Drink Shop::Grocery Store",45.492510070054564,-122.82779216766357
+"4bb7a8823db7b7138756209a","Cedar Hills Recreation Center","Shop & Service::Gym / Fitness Center::Gym",45.5075816257987,-122.797367962607
+"4bb7dc981261d13acd00e898","Kohl's","Shop & Service::Department Store",45.492820383817936,-122.79027334476575
+"4bba6acb7421a59314c8c340","Bank of America","Shop & Service::Bank",45.49672163945861,-122.8092098236084
+"4bba9d86935e9521f9662890","Subway","Food::Sandwich Place",45.45869048553972,-122.78884093319718
+"4bbaba8053649c74d36749fb","Rama Thai","Food::Thai Restaurant",45.48782808976536,-122.80902206897736
+"4bbbead43de8c9b62f799aad","LaSalle Apartments","Residence::Residential Building (Apartment / Condo)",45.497578956073376,-122.83216953277588
+"4bbe478179eaef3b10f2aec3","Montclair Elementary School","Professional & Other Places::School",45.47599638418141,-122.75162868468533
+"4bbe720bba9776b081c0fdc8","76 Gas Station","Shop & Service::Automotive Shop",45.48902464209945,-122.8005055907427
+"4bbe76194e7bd13a430f9b7f","Famous footwear","Shop & Service::Clothing Store::Shoe Store",45.49609686,-122.81024444
+"4bbe8071006dc9b63d56fb3f","Koreana Restaurant","Food::Korean Restaurant",45.486815571785,-122.7803607
+"4bbe86cb4e7bd13a6a2f9b7f","Carl's Jr.","Food::Burger Joint",45.486751556396484,-122.7735366821289
+"4bbf3ad430c99c7423cc5411","Beaverton Resource Center","Professional & Other Places::Building",45.475929260253906,-122.80599975585938
+"4bbf4de882a2ef3b4d832cd2","Orthopedic and Fracture Clinic","Professional & Other Places::Medical Center::Doctor's Office",45.51679992675781,-122.7986068725586
+"4bc0badcf8219c744e10b210","Fong Huong Palace","Food::Chinese Restaurant",45.48862075805664,-122.8053207397461
+"4bc12032f8219c743df0b210","Chevron Station","Shop & Service::Gas Station / Garage",45.527389,-122.865888
+"4bc38decdce4eee1fba7719d","Homestead Studio Suites Portland - Beaverton","Travel & Transport::Hotel",45.51330053526783,-122.84041084752224
+"4bc4229fdce4eee1e8f6719d","Comfort Inn & Suites West","Travel & Transport::Hotel",45.489275,-122.815744
+"4bc4c8e3abf49521cd90c593","Baskin Robbins","Food::Ice Cream Shop",45.487667083740234,-122.79530334472656
+"4bc638c04241952170cc031d","For Yarn's Sake","Shop & Service::Hobby Shop",45.4874819570375,-122.79784922856419
+"4bc7366915a7ef3bb1e978da","Andover Park Apartments","Residence::Residential Building (Apartment / Condo)",45.44031457547637,-122.83311195206292
+"4bc78bb50050b713abe7b83b","7-Eleven","Shop & Service::Food & Drink Shop",45.45127093791962,-122.805142
+"4bc7a6cf15a7ef3beedd79da","7-Eleven","Shop & Service::Convenience Store",45.49513857754739,-122.82774120569229
+"4bc818b60050b713bedfb93b","Maguffy's","Nightlife Spot::Bar",45.49227096641905,-122.82737598731977
+"4bc90208b6c49c740dad8d91","Round Table Pizza","Food::Pizza Place",45.47515106201172,-122.8241958618164
+"4bc90fcf511f95212918adc7","La Hacienda Real","Food::Mexican Restaurant",45.48916,-122.80038880000001
+"4bca44f4cc8cd13aff64bdcf","Ickabod's Tavern","Nightlife Spot::Bar",45.48656135,-122.80475199222565
+"4bca6b14511f952126dbafc7","Ashley Furniture","Shop & Service::Furniture / Home Store",45.535210033333335,-122.853012
+"4bcb7b07b6c49c743f539291","Planned Parenthood","Professional & Other Places::Medical Center::Doctor's Office",45.485843658447266,-122.8025894165039
+"4bce2394cc8cd13a9ed2c3cf","Nike ITC-D","Professional & Other Places::Office::Coworking Space",45.49715781971825,-122.83492684364319
+"4bd0ea46b221c9b6d5bfd4d0","Sushi Land","Food::Sushi Restaurant",45.490333557128906,-122.79943084716797
+"4bd0f5adcaff952153fecff0","Cedar Hills Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",45.50193022568259,-122.8030852840341
+"4bd109cdb221c9b69207d5d0","Winterhawks Skating Center","Outdoors & Recreation::Athletic & Sport::Skating Rink",45.485358252913436,-122.77246344039743
+"4bd1d378462cb71381f1da07","Elsie Stuhr Center","Professional & Other Places::Event Space",45.47973561602458,-122.80407230306169
+"4bd218949854d13aa8f0fa4d","Cedar Hills Crossing","Shop & Service::Mall",45.49658225785355,-122.8107748898976
+"4bd249399854d13ad876fb4d","Nak Won Korean Restaurant","Food::Korean Restaurant",45.486297607421875,-122.80606079101562
+"4bd2650741b9ef3b3323fee5","Best Buy","Shop & Service::Electronics Store",45.45543467785282,-122.78655052185059
+"4bd29a1c41b9ef3b607ffee5","Family Karaoke","Arts & Entertainment::Performing Arts Venue",45.486724853515625,-122.78011322021484
+"4bd29de6caff9521693fd3f0","Korean Pub House Kimsatgot","Food::Asian Restaurant",45.48676300048828,-122.78022003173828
+"4bd35ba9caff952190b9d4f0","Arts & Communication Magnet Academy (ACMA) Performing and Visual Arts Center","Arts & Entertainment::Concert Hall",45.49424738059878,-122.79492437839508
+"4bd393679854d13afa31fe4d","Petco","Shop & Service::Pet Store",45.49020223356375,-122.79820027116676
+"4bd49f9b29eb9c74820192e1","Pioneer Park","Outdoors & Recreation::Park",45.52273613699084,-122.82564640045166
+"4bd4cf1f4e32d13a14f7bf80","Sunset Porsche Audi","Shop & Service::Car Dealership",45.490237134754125,-122.8193500290939
+"4bd5b3594e32d13a6440c180","Nike - Dan Fouts Building","Professional & Other Places::Office::Coworking Space",45.5081815298437,-122.82611846923828
+"4bd88aed51170f47c29533e4","Wells Fargo","Shop & Service::Bank",45.48685403853585,-122.79633522033691
+"4bd8b70211dcc928cd76f733","Leupold & Stevens","Professional & Other Places::Office",45.5242424542939,-122.8231265914285
+"4bd8ece711dcc9283a73f833","Baskin Robbins - Cedar Hills Crossing","Food::Dessert Shop",45.49848556518555,-122.80867004394531
+"4bd9d352d2cbc928750dd2ad","Les Schwab Tire Center","Shop & Service::Automotive Shop",45.51772884,-122.8405111
+"4bd9e0792a3a0f4714aaa8b6","Nike - LA Cafe","Food::Café",45.50703811645508,-122.82826232910156
+"4bd9e7ea2a3a0f47e3d3a8b6","Stream Global Services","Professional & Other Places::Office",45.49446134723259,-122.82951286172369
+"4bda1a78ffafd13ae4fa9a85","Beaverton Creek Wetlands Park","Outdoors & Recreation::Park",45.49272065600522,-122.83534526824951
+"4bdb268663c5c9b6ae932668","Diva Dogs","Food::Hot Dog Joint",45.524314664557,-122.817234992981
+"4bdb2e9e2a3a0f4776cfadb6","Oasis Restaurant","Food::Middle Eastern Restaurant",45.437042236328125,-122.82946014404297
+"4bdb32b4c79cc928fe9881e9","Murrayhill Veterinary","Professional & Other Places::Medical Center::Doctor's Office",45.44146728515625,-122.82946014404297
+"4bdb600e3904a593de174a9e","Starbucks","Food::Coffee Shop",45.496499,-122.810314
+"4bdb69ec63c5c9b69be02768","Oregon Gymastics Academy","College & University::College Gym",45.52964861,-122.845409
+"4bdc7dfdafe8c9b61fae4f85","7-Eleven","Shop & Service::Convenience Store",45.46076202392578,-122.7936782836914
+"4bdcbef5c712b7131ace63b4","Hoggys","Food::Pizza Place",45.46903610229492,-122.78363800048828
+"4bdcd1beafe8c9b668335185","Field # 4. Sunset Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",45.52713385,-122.81785
+"4bddb05ee75c0f474233c503","Beaverton Oregon West LDS Stake Center","Professional & Other Places::Spiritual Center::Church",45.466138765257924,-122.85256747968828
+"4bdf1b330ee3a5939af732b0","SUBWAY","Food::Sandwich Place",45.438377380371094,-122.82669067382812
+"4bdf293f6198c9b6cd2816ff","Democratic Party Of Washington County","Professional & Other Places::Office",45.487347,-122.803094
+"4be21a1421d5a59333df1511","La Hacienda Real","Food::Mexican Restaurant",45.4884147644043,-122.7944564819336
+"4be37dd1cbdbef3bc09860d8","Ross","Shop & Service::Clothing Store",45.45651463627607,-122.78611479070159
+"4be45b482457a593281daa15","Subway at Millikan and Murray","Food::Sandwich Place",45.4951286315918,-122.82703399658203
+"4be48a2b477d9c74b293e62d","TVCTV Studio B","Professional & Other Places::Event Space",45.49541307840777,-122.79436111450195
+"4be590322468c928572a0043","Carr Chevy World","Shop & Service::Automotive Shop",45.4902859005431,-122.829773569605
+"4be5935a2468c9284b2f0043","Aqua Nail Bar","Shop & Service::Cosmetics Shop",45.4548704624176,-122.78603042411466
+"4be60e8ed4f7c9b66d5c2620","Beaverton Hyundai","Shop & Service::Automotive Shop",45.48754129543313,-122.81371057768324
+"4be8578988ed2d7fc2c0cb1d","Goodwill Industries","Shop & Service::Thrift / Vintage Store",45.492522476720445,-122.81003074421861
+"4beae74e62c0c928686de1d4","Honda Service Center","Shop & Service::Automotive Shop",45.48981853454375,-122.78711417744465
+"4beb12afb3352d7ff5ff55d2","Schuck's Auto Supply","Shop & Service::Automotive Shop",45.49788787460891,-122.80771580112213
+"4beb5475415e20a1d543e6bb","Greenway Park","Outdoors & Recreation::Park",45.45681259839942,-122.7956384791753
+"4bed87d7e3562d7f1a26fff8","Xtreme Edge","Shop & Service::Gym / Fitness Center::Gym",45.5312488840269,-122.8456755253816
+"4beefc50b0b376b0e7ccdab3","Eastern Pearl Restaurant","Food::Chinese Restaurant",45.4988705465908,-122.765562236309
+"4bef0ba75e4aa593337b58bb","Peachwave Frozen Yogurt","Food::Dessert Shop",45.496910095214844,-122.81134796142578
+"4bef56b3f97d95218efa9438","Wunderland","Arts & Entertainment::Arcade",45.49066162109375,-122.80968475341797
+"4bf15ad8dc0f0f47eec6f08d","Kadel's Auto Body","Shop & Service::Automotive Shop",45.487251,-122.817724
+"4bf3563f94af2d7f25713972","HomeGoods","Shop & Service::Furniture / Home Store",45.490084514394205,-122.80025660991669
+"4bf3608198ac0f476de062a8","Beaverton Infiniti","Shop & Service::Automotive Shop",45.48799341506972,-122.80427071727708
+"4bf5396ce5eba5939f7b2090","Yorke & Curtis Shop","Professional & Other Places::Office",45.487109775624376,-122.78099298477173
+"4bf5e5435efe2d7f72516634","Shell Gas Station","Shop & Service::Gas Station / Garage",45.47619295,-122.80571848333334
+"4bf5e87e4d5f20a1887d98fe","Revolution Parkour","Shop & Service::Gym / Fitness Center",45.479139933333336,-122.78003473333332
+"4bf7086013aed13a77adeaf7","Sage","Professional & Other Places::Office",45.52708053588867,-122.83145141601562
+"4bf80c868d30d13ac7fbff17","Howard Terpenning Sports Complex","Outdoors & Recreation::Athletic & Sport::Baseball Field",45.52002998668944,-122.83830642700195
+"4bf885964a67c928e09b25cf","ATT Wireless","Shop & Service::Electronics Store",45.48956288831353,-122.81084585598055
+"4bf97f388d30d13aa9520218","Arby's","Food::Fast Food Restaurant",45.49955337,-122.806635
+"4bf9bca85317a5935dcc017f","Fishels","Shop & Service::Furniture / Home Store",45.53523276762505,-122.85500658403939
+"4bfaeaf1d0382d7f8cf7c80a","Tualatin Hills Nature Park","Outdoors & Recreation::Park",45.49816553360498,-122.83937931060791
+"4bfaf71af214a5938292ae0e","Hearthstone At Murry Hill","College & University::Fraternity House",45.441227,-122.820436
+"4bfd8882b68d0f477dece857","Mr. Formal","Shop & Service::Clothing Store::Men's Store",45.453315771944915,-122.77457881785313
+"4bfdd6fbe9309521222262ab","TriMet Beaverton Central MAX Station","Travel & Transport::Light Rail",45.490449294554566,-122.8071391582489
+"4bfe3527e529c928d605bc8c","Plaid Pantry","Shop & Service::Food & Drink Shop",45.4654534543318,-122.844730132429
+"4bfeff7ae584c928b4956d25","Kaiser Permanente - Murrayhill","Professional & Other Places::Medical Center::Doctor's Office",45.43885803222656,-122.82796478271484
+"4c002dccdaf9c9b62c69fbef","Fusion Thai","Food::Thai Restaurant",45.48744201660156,-122.80429077148438
+"4c00529c37850f47a623983f","Party Depot","Shop & Service::Miscellaneous Shop",45.45804405,-122.782893
+"4c006ca3379020a13685467f","Beirut Hookah Lounge","Nightlife Spot::Hookah Bar",45.45632269724516,-122.78096075237436
+"4c01a03fb58376b0d47d443c","La Superior Restaurant","Food::Mexican Restaurant",45.42789840698242,-122.84483337402344
+"4c0543dc39d476b0969e32a7","Suns Up Tanning","Shop & Service::Tanning Salon",45.45870780834976,-122.78900187154773
+"4c059ab9517d0f47aacef415","US Bank","Shop & Service::Bank",45.48662185668945,-122.76127624511719
+"4c0985406071a593cd15de32","Providence Medical Group - Sunset Medical Plaza","Professional & Other Places::Medical Center::Doctor's Office",45.516646,-122.797145133333
+"4c09aaf17e3fc9287873f282","McGrath's Fish House","Food::Seafood Restaurant",45.496696948717094,-122.80888351410586
+"4c0bd9ea340720a1ceb38893","Valley Community Presbyterian","Professional & Other Places::Spiritual Center::Church",45.49060997,-122.76006392
+"4c0c1f2c009a0f47702eecbf","Aaron Brothers Art and Framing","Shop & Service::Furniture / Home Store",45.48828277797268,-122.796945
+"4c0d69e2336220a16eafca77","The UPS Store","Professional & Other Places::Post Office",45.49035151866087,-122.79753416776657
+"4c0e5f87b1b676b0e2ebe186","Sisters of St. Mary of Oregon","Professional & Other Places::Spiritual Center",45.48795240415043,-122.82790021293685
+"4c1026423ce120a1f4a5071c","Cooper Mountain Vineyards","Food::Winery",45.4504974776411,-122.883710861206
+"4c12989282a3c9b64403faf8","SportClips","Shop & Service::Salon / Barbershop",45.49638902537913,-122.80855839360198
+"4c158dbea5eb76b0bb99c3b7","Home Town Buffet","Food::American Restaurant",45.49233627319336,-122.8057632446289
+"4c1946d56a21c9b6bf4eca97","Mill End Fabrics","Shop & Service::Miscellaneous Shop",45.48473711888577,-122.78446089771306
+"4c1bc0e163750f47e468b567","Oregon Veterinary Specialty Hospital","Professional & Other Places::Medical Center",45.487008690834045,-122.773353
+"4c1bd23b624b9c74c7ae1204","Companion Pet Clinic","Professional & Other Places::Building",45.47567037,-122.824187278748
+"4c2150d399282d7f697365b0","Nike Retail Lab","Professional & Other Places::Office",45.513618,-122.836313
+"4c23e0e0b7b8a593d6953be8","V & V nails","Shop & Service::Cosmetics Shop",45.4418830871582,-122.82776641845703
+"4c23ed7ab7b8a5932bb03be8","Best Salsa","Food::Mexican Restaurant",45.475467681884766,-122.82709503173828
+"4c2a6719197e95218472628d","Hyland Hills HOA Storage","Professional & Other Places::Parking",45.466958318344,-122.814132501355
+"4c2a78c0ae6820a1605e1643","WJ Bradley Mortgage Capital","Professional & Other Places::Office",45.52884292602539,-122.84370422363281
+"4c2ab327d1a10f47e4ecf664","Hertz Rent a Car","Shop & Service::Automotive Shop",45.486516942889,-122.82051663097124
+"4c2b9abe8ef52d7f02a731ba","Nike ITC-Z (BCPC)","Professional & Other Places::Office",45.498934510147315,-122.83421961024685
+"4c2bbbe98ef52d7fe2da31ba","Stream Global Services","Professional & Other Places::Office",45.49446134723259,-122.82951286172369
+"4c2bea818abca5938c020120","Beaverton Kia","Shop & Service::Automotive Shop",45.487718,-122.814468
+"4c2e47774e132d7f25e89ddf","30 Hour Day Live Set","Arts & Entertainment::General Entertainment",45.444480895996094,-122.80271911621094
+"4c2f4ddc213c2d7f2691305d","Safeway Gas","Shop & Service::Gas Station / Garage",45.44134068727194,-122.8272932767868
+"4c3183fb3896e21ef231e790","G33k B0at","Travel & Transport::Ferry::Boat or Ferry",45.46621746666667,-122.80639460000002
+"4c3406db3896e21ef907eb90","Stream Break Room","Professional & Other Places::Office::Cafeteria",45.49414985782147,-122.82924029576127
+"4c341f1466e40f47041ec98b","Plaid Pantry","Shop & Service::Drugstore / Pharmacy",45.48698063688742,-122.81970940783214
+"4c34c177213c2d7fe004395d","Nike 6.0 USO War Conference Room (Nike WHQ)","Professional & Other Places::Office::Conference Room",45.515085,-122.840051
+"4c35fb8f66e40f47c0ffcb8b","Indoor Goals","Shop & Service::Gym / Fitness Center",45.528513837808,-122.845719106547
+"4c38a72493db0f4731ee2192","World Champion Tae Kwon Do","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",45.441991449999996,-122.82824042222222
+"4c391fa918e72d7fbfbc19f5","Southwest Bible Church","Professional & Other Places::Spiritual Center::Church",45.4484723534539,-122.82734684244731
+"4c3b82c3def90f47f00ffe2d","Northwest Women's Clinic","Professional & Other Places::Medical Center::Doctor's Office",45.51734644,-122.797826528549
+"4c4201beff711b8d5ed61205","U-Haul","Travel & Transport::Rental Car Location",45.48979949951172,-122.82357025146484
+"4c4262f2d7fad13a142309da","Bongo Fury Studios","Arts & Entertainment::Concert Hall",45.494238,-122.822153
+"4c428c4c7beab71396df9555","Montavilla Sewing Centers","Shop & Service::Arts & Crafts Store",45.48456499291621,-122.7839362127827
+"4c448147dcd61b8dcf697b56","Peet's Coffee","Food::Coffee Shop",45.517425537109375,-122.841552734375
+"4c45ff21f1b5c9b6cd3378ef","Gyro 2 Go","Food::Middle Eastern Restaurant",45.48761749267578,-122.79518127441406
+"4c472cc376d72d7f81523c4d","Bright Now! Dental","Professional & Other Places::Medical Center::Dentist's Office",45.48596538,-122.79673029
+"4c47dc4dd012ef3b59131ca0","Banfield Pet Hospital","Professional & Other Places::Medical Center::Veterinarian",45.456051552816575,-122.78620465490707
+"4c49c33eb5eec9b61a7830a5","Mc Kay Elementary","Professional & Other Places::School",45.465371161799304,-122.77825599782099
+"4c59ae54b05c1b8d665fd6b1","Emilie's Dessert Cafe","Food::Café",45.497816033333336,-122.76679439
+"4c59ca06b05c1b8d19a7d6b1","Discount Import Parts","Shop & Service::Automotive Shop",45.45798,-122.782452
+"4c5b07f2d3aee21edd2f6c55","Animal Eye Doctor","Shop & Service::Pet Store",45.48566638209031,-122.80760412935892
+"4c5c35142815c9285854b167","Country Financial","Professional & Other Places::Office",45.5303201812625,-122.841964960098
+"4c5c6db385a1e21e81a05611","Hae Rim","Food::Asian Restaurant",45.48848622295285,-122.79755294322968
+"4c5d041694fd0f475474ca45","Spyglass Hill","Professional & Other Places::Building",45.4604781207706,-122.825356011512
+"4c65ee068e9120a132c7d664","Pup-A-Razzi","Shop & Service::Pet Store",45.46544308478322,-122.84498739151253
+"4c671325aebea593e32675d0","Pool side","Outdoors & Recreation::Pool",45.44454833376341,-122.82044157660846
+"4c696db83bad2d7f3cccafee","Columbia Sportswear Summit building","Professional & Other Places::Office",45.5268492362429,-122.839143396433
+"4c6d6c3ea437224b40042db1","Edge Coffee","Food::Coffee Shop",45.49619674682617,-122.8282241821289
+"4c6db58610faa143dbb8ee68","Nike 6.0","Professional & Other Places::Office::Coworking Space",45.50691604614258,-122.82534790039062
+"4c6ee9b3fa49a1cdd161a1e3","SuperCuts","Shop & Service::Salon / Barbershop",45.48839993537939,-122.79789752760155
+"4c6f4bd6d274b60c746ad60d","Paul's Tobacco Company","Shop & Service::Smoke Shop",45.486740469932556,-122.78413851
+"4c7016a2d274b60cd582d80d","Bubble Bubble Tea","Food::Asian Restaurant",45.48852794,-122.79722003
+"4c744031b474a1cd4210b6bf","Hell","Professional & Other Places::Office",45.48664703,-122.79007073333334
+"4c7711ffd06b224be181fdd6","Bank of the West, Cedar Hills","Professional & Other Places::Building",45.4990234375,-122.80929565429688
+"4c780dd881bca0933fc7f814","Koi Fusion at Nike","Food::Food Truck",45.51285461532646,-122.8360174763931
+"4c7c052e93ef236afa13b70f","Emergency Tooth Doctor","Professional & Other Places::Medical Center::Dentist's Office",45.495562,-122.828137
+"4c7c2a94bd346dcbf962fdef","Earl And Brown Co.","Professional & Other Places::Office",45.478655,-122.776389
+"4c7efb76fb13a1cd977d9fa4","Malones Pub","Food::American Restaurant",45.45195388793945,-122.81940460205078
+"4c83e2f4e602b1f7abd1a97a","Murrayhill Pond","Outdoors & Recreation::Lake",45.440170106721844,-122.82740592956543
+"4c8bf456f0ce236a77ba13ef","Mademoiselle's Nails","Shop & Service::Cosmetics Shop",45.530505,-122.843943
+"4c8d52485e38b1f7fb4939f9","Edge Coffee Shop","Food::Café",45.495296478271484,-122.82847595214844
+"4c8d60118018a1cd26f8f4d2","Fairfield Inn & Suites by Marriott","Travel & Transport::Hotel",45.528640201875476,-122.8371779986872
+"4c8ed9a3ad70a143eb3c8d0f","L&L Hawaiin BBQ","Food::BBQ Joint",45.496573,-122.81166312
+"4c9417286b35a143906618dc","HomeGoods","Shop & Service::Furniture / Home Store",45.490084514394205,-122.80025660991669
+"4c94c55ff7cfa1cd39a1b615","Starbucks","Food::Coffee Shop",45.52163314819336,-122.79671478271484
+"4c957af5533aa0939bcfc945","Redbox","Arts & Entertainment::General Entertainment",45.5144751029038,-122.791273929917
+"4c967f456b35a143a8692edc","Laserport","Arts & Entertainment::Arcade",45.472877,-122.776603
+"4c9e55e7d3c2b60cd253cabc","Salsa Mexican Grocery Market","Shop & Service::Food & Drink Shop::Grocery Store",45.48933,-122.811454
+"4ca25a22d5a2a143cb0b4090","Fred Meyer Gas Station","Shop & Service::Gas Station / Garage",45.51900762936784,-122.84010887145996
+"4ca39edbf832a1cdf5259fe5","Krav Maga Self Defense And Fitness","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",45.50262987613678,-122.8082849
+"4ca3c44a1ee76dcb5511fcdd","Schwab, Williamson & Wyatt","Professional & Other Places::Auditorium",45.497725,-122.767481
+"4cab64ccd250bfb7df6fca63","503 Motoring","Shop & Service::Automotive Shop",45.47875475,-122.77931905532812
+"4cadfe5fd1f8b60c5aac73c6","Murrayhill Eye Care","Professional & Other Places::Medical Center",45.44192002,-122.828464
+"4cb90b8d43ec6dcb0c979a31","The Home Depot","Shop & Service::Hardware Store",45.524453673234255,-122.81712905455933
+"4cba6577adcd5481dd0c23a2","Domino's Pizza","Food::Pizza Place",45.53105545043945,-122.84219360351562
+"4cc1a3b35684a35d8efab90d","Oregonians Credit Union","Shop & Service::Bank",45.47621233303095,-122.79284963627975
+"4cc33fa082388cfa839b6635","Biscuits Cafe","Food::American Restaurant",45.427715251332636,-122.84527159008115
+"4cccc13b566aa09339ce23fd","G33kLayer","Residence::Residential Building (Apartment / Condo)",45.49401028333333,-122.83309166666666
+"4cd4fdb77da9a35dec24e7b9","Kimsatgot","Food::Korean Restaurant",45.48684991,-122.780236
+"4cd608b42944b1f710ec60ec","The Church Of Jesus Christ Of Latter-day Saints","Professional & Other Places::Spiritual Center::Church",45.496487617492676,-122.76999592781067
+"4cd823f5a99d3704f4b803ce","Nike - Tiger Woods Center - P.S.C.","Professional & Other Places::Event Space",45.510473432746565,-122.82820931492456
+"4ce5b0790f196dcb137932ae","Oregon Food Bank - West","Professional & Other Places::Building",45.53337560588686,-122.85429140588666
+"4cef2c337db3224b525b2b2e","Fresh Grill Burgers & Fries","Food::American Restaurant",45.456026,-122.78544545173645
+"4cf030548333224b159f028e","Greenway Park Disc Golf","Outdoors & Recreation::Athletic & Sport::Golf Course",45.45939567353496,-122.7955776186251
+"4d1403cd25cda14301735dd6","Express Nails","Shop & Service::Cosmetics Shop",45.5159126557215,-122.8876898
+"4d21ba8918406a315eb3bcb8","Gyro House Mediterranean Grill","Food::Greek Restaurant",45.515906,-122.88740413333333
+"4d252154c2b36ea80d8723d4","Enterprise Rent-a-car","Shop & Service::Automotive Shop",45.49053192138672,-122.82581329345703
+"4d2a0e25b818a35d9625a48a","Frame Central","Shop & Service::Miscellaneous Shop",45.53144073486328,-122.84384155273438
+"4d3051c582fd548149f5b1a8","PetSmart","Shop & Service::Pet Store",45.45613740647323,-122.78609995992879
+"4d437c6cbefe236a86bbeae2","Sunset Golf Center","Outdoors & Recreation::Athletic & Sport::Golf Course",45.51001074897046,-122.84500436735675
+"4d4491ffbbb1a14396414872","Mōda Salon","Shop & Service::Spa / Massage",45.42761203058884,-122.84485635968342
+"4d4d6d82d6f3224b74e29ba6","Kaijucast HQ","Arts & Entertainment::Movie Theater::Indie Movie Theater",45.513575,-122.856014783333
+"4d5ef3b773e76a31edd5c496","John's Incredible Pizza","Food::Pizza Place",45.45413803312335,-122.77483290975626
+"4d6c442c7585b1f77dc00bd5","Crunch Gym","Shop & Service::Gym / Fitness Center",45.45730870258352,-122.78630935169676
+"4d6eeacab73bb1f71baaa372","Chase Bank","Shop & Service::Bank",45.48805618286133,-122.79532623291016
+"4d7025be516b8cfaa4445d10","Beaverton Orthodontics","Professional & Other Places::Medical Center::Dentist's Office",45.43830490112305,-122.82917022705078
+"4d7165d15686a35d7fca34b2","The 20","Professional & Other Places::Parking",45.51947021484375,-122.81768798828125
+"4d77f9a9926a6dcbab075200","EDR Performance","Shop & Service::Bike Shop",45.4788545812434,-122.790846235814
+"4d80fdf41013236a02c89235","Habitat For Humanity ReStore","Shop & Service::Hardware Store",45.49223327636719,-122.81542205810547
+"4d851876f9f3a1cd5696c464","Hand & Stone Massage","Shop & Service::Spa / Massage",45.494965,-122.810073
+"4d87b16c6daeb60c8af62ce0","ARRIS Beaverton Campus","Professional & Other Places::Building",45.532161712646484,-122.8498306274414
+"4d8940b37139b1f7f02bb2d4","Unitis Community Credit Union","Professional & Other Places::Building",45.5157508128541,-122.791801236711
+"4d8d648b3bfef04d49b38086","OPEN-BAR @ Casa de BiGGie","Nightlife Spot::Cocktail Bar",45.522254943847656,-122.81573486328125
+"4d95416e97d06ea825dae70a","Grape Vine","Food::Restaurant",45.51620015,-122.79582
+"4d962ce497d06ea8fed5fc0a","Mr Cookie HQ","Food::Bakery",45.50517272949219,-122.76366424560547
+"4d993b6ba2c6548179450454","Sunset Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",45.52724458853987,-122.81774773245817
+"4d9ce9eb5c33a35d46aef5a0","Fidelity National Title","Professional & Other Places::Office",45.485748291015625,-122.76541137695312
+"4da359ef0f578cfaf61cb718","Chevron","Shop & Service::Automotive Shop",45.4722855059923,-122.774222914067
+"4db2e3776a23c31a02f4d935","New Seasons Market","Shop & Service::Food & Drink Shop::Grocery Store",45.4303528355986,-122.82912254333496
+"4db31d1f4df05e5aaac3cd05","Smiles Northwest","Professional & Other Places::Medical Center::Dentist's Office",45.502623427752,-122.804877967346
+"4db48dc8fa8c350240e7e58c","Goi Cuon City","::Professional & Other Places",45.45712351799011,-122.84737765789032
+"4db4e6fb6e8179a9138658fc","My Sanctuary","Residence::Residential Building (Apartment / Condo)",45.487179,-122.834809
+"4db9b8e10437609121096826","Penzeys Spices","Shop & Service::Food & Drink Shop::Gourmet Shop",45.48830795288086,-122.79777526855469
+"4dbc5f255da3ff58ec49e00b","Bricks and Minifigs","Shop & Service::Toy / Game Store",45.490155,-122.809467
+"4dc5b44cd4c0ad9c0f8fb18c","Build A Bear","Shop & Service::Toy / Game Store",45.44438544210455,-122.80009184035201
+"4dce15d452b1f8915b8e7db3","Dotty's Hyland Hills","Arts & Entertainment::Casino",45.4756298333333,-122.824068833333
+"4dd32f5cd22d4d4d408962e7","Center Plaza","::Professional & Other Places",45.491617462898034,-122.80416203321941
+"4dd80088d4c05d5096f7f783","THPRD Field #3","Outdoors & Recreation::Athletic & Sport::Soccer Field",45.52220051865973,-122.83559951774346
+"4de17200e4cd056f742c8711","Southridge High School Field","Outdoors & Recreation::Athletic & Sport::Soccer Field",45.449548,-122.808488
+"4df049c1ae6066d602d57365","Beaverton Hills Assisted Living","Residence::Residential Building (Apartment / Condo)",45.48742605,-122.77925523
+"4df0fc1bd16486e86e52b25f","Woodview Apartments","Residence::Residential Building (Apartment / Condo)",45.452084593061066,-122.82822025887904
+"4dfa663f8877b30c3987c18c","Goodwilll Store Beaverton","Shop & Service::Thrift / Vintage Store",45.485635510580586,-122.79511213302612
+"4e03e5daa8090c09369f6719","Cinetopia","Arts & Entertainment::Movie Theater",45.430734,-122.83111810684204
+"4e1296f4483bee47ff3c4d47","Vinotopia","Nightlife Spot::Wine Bar",45.43038,-122.83091
+"4e138a79aeb7727f20fa88e1","Java Station","Food::Snack Place",45.5103653669357,-122.781373858452
+"4e1b289362847361133e6f7a","Hilton Suites","Travel & Transport::Hotel",45.52872085571289,-122.83590698242188
+"4e2096e7ae6015b2129d006e","TriMet Stop ID 1188","Travel & Transport::Bus Station",45.528142,-122.817761
+"4e21ceedd1647406320a38f6","Harman Swim Center","Outdoors & Recreation::Pool",45.467351517585904,-122.7762423932142
+"4e232a70ae6015b212b76f32","KFC","Food::Fried Chicken Joint",45.4955971166667,-122.808566533333
+"4e25b11e18a817bf056d81bf","Beaverton Municipal Court","Professional & Other Places::Government Building::Courthouse",45.486395,-122.797038
+"4e289217149554c7743b05d2","Sprint","Shop & Service::Electronics Store",45.44941329956055,-122.78638458251953
+"4e28db45315171a3be0ed08e","Western Psychological Services","Professional & Other Places::Medical Center::Doctor's Office",45.486175537109375,-122.77661895751953
+"4e3988a7fa763bfcc36f33e2","Coffee, Tea, Etc","Food::Coffee Shop",45.5109545412411,-122.784248789996
+"4e39e2ed62846d378885266f","City of Beaverton","Outdoors & Recreation::Other Great Outdoors",45.456974862126344,-122.80474713395856
+"4e3f703845dd68e32753f5c1","Home Sweet Home","Residence::Residential Building (Apartment / Condo)",45.461077,-122.825069
+"4e403efdae60454236892b51","Keystone Solutions Beaverton","::Professional & Other Places",45.432449,-122.833497
+"4e41b701483b5377bc133ec0","My Car","::Travel & Transport",45.450401,-122.78438
+"4e456289e4cd9d94fb136f87","Nike - Child Development Center","Professional & Other Places::School::Nursery School",45.508773650632,-122.825562464378
+"4e496362ae6014a2fdc557c7","When You Knead It","Shop & Service::Spa / Massage",45.47701480080965,-122.8256356716156
+"4e4a86b962e13240b6feacec","Valley Park Plaza Apt","Residence::Residential Building (Apartment / Condo)",45.4842510447,-122.774974107742
+"4e5038dec65bb313ba921a20","Yopop","Food::Ice Cream Shop",45.489707946777344,-122.79967498779297
+"4e53fff018a8c0ad8f766ca3","Business Meeting","Professional & Other Places::Office::Conference Room",45.49189376831055,-122.80839538574219
+"4e557738ae604e0b731a33c5","Billy's Bar","Nightlife Spot::Bar",45.48835939,-122.81185728
+"4e55b872ae604e0b731e08c5","Uptown Market","Food::Brewery",45.4722660274144,-122.77254897888359
+"4e5a7767483b865169ec68a6","Cascade Enforcement Agency","Professional & Other Places::Building",45.471648809120566,-122.78472834518361
+"4e6147a7c65b2dc89f1f9b16","Tiger Woods Patio","Outdoors & Recreation::Plaza",45.5063973636388,-122.77834331602038
+"4e6fb74689985a6fc04fc941","Rivermark Community Credit Union","Shop & Service::Bank",45.429595947265625,-122.83039855957031
+"4e6fdfc462e11f0cc83a4915","Taste of Sichuan","Food::Asian Restaurant",45.53125753333333,-122.84435212612152
+"4e77b4a8a809f5bf72ac10f6","Inspiration Room","Professional & Other Places::Office::Conference Room",45.513807,-122.83714
+"4e793d438877ce31d2216a59","Nordstrom Rack","::Shop & Service",45.453748,-122.78606832262335
+"4e7e272bf790c2211561ab72","Suzanne Bonamici for Congress HQ","Professional & Other Places::Office",45.491996,-122.815608
+"4e7e51d68b814c768a5150b3","Cooper Mountain Cemetety","Outdoors & Recreation::Cemetery",45.46544269439083,-122.8777186477872
+"4e810664cc21007dafc96109","Kaiser Pharmacy","Professional & Other Places::Medical Center",45.48542404174805,-122.78372955322266
+"4e864f95cc210aef90acdbdb","Halloween Warehouse","::Shop & Service",45.490333,-122.794843
+"4e93882277c82b6a71a3e2d3","Murray and Farmington","Travel & Transport::General Travel",45.48583984375,-122.82616424560547
+"4e9899347beb567e777f7d45","European Wax Center","Shop & Service::Spa / Massage",45.49634561928165,-122.80826568603516
+"4ea15d445c5cd12b35295953","Black Rock Coffee Bar","Food::Coffee Shop",45.51492938157778,-122.83245905220691
+"4ea1cda0b80355a981785304","Frangipani","Food::Thai Restaurant",45.42935145,-122.831169
+"4ea8d1a1b803ca4a89717795","Beau's Barrel Room","Professional & Other Places::Event Space",45.477874,-122.805067
+"4eaee5d5b6343396885ab761","Golden Valley Brewery & Pub","Food::Brewery",45.53113124585563,-122.84234308717045
+"4eb03a1e61af6ac5882b01c9","TVCTV","Professional & Other Places::Government Building",45.52709755750808,-122.83454545510007
+"4ee3fad529c220f9714f94a7","Ace Hardware","Shop & Service::Hardware Store",45.430411452175,-122.829919923048
+"4ee51794490141636a7585fa","Ava Roasteria","Food::Coffee Shop",45.42973975272989,-122.832162969488
+"4eec028930f824cfc34fc9cc","Blick Art Materials","Shop & Service::Arts & Crafts Store",45.50026490824219,-122.80565231223254
+"4eed2eef93add02fcbe24b7f","Thai hi 5","Food::Thai Restaurant",45.48740284507741,-122.80409173220683
+"4eee7d4846907303c03c6b2b","Bethany Blvd & Hwy 26","Outdoors & Recreation::Other Great Outdoors",45.53123386725481,-122.84031367045559
+"4f1726dce4b099ac3b0de900","Key Bank","Shop & Service::Bank",45.49276100032309,-122.80722889190312
+"4f19d221e4b025b06172c5e9","St Vincent's East Pavilion","Professional & Other Places::Medical Center::Hospital",45.51018260710575,-122.77811493536413
+"4f1b0a9de4b0850c83c8e5fe","Veggie Grill","Food::Vegetarian / Vegan Restaurant",45.494759779926795,-122.81021645573212
+"4f43c03019834bc91f58a754","Elmer’s Restaurant","Food::Breakfast Spot",45.52767848411084,-122.83896033623934
+"4f697466e4b0b58058084568","Progress Ridge Town Square","Shop & Service::Mall",45.430362770701905,-122.83055725267253
+"4f739293e4b0601c712049de","TriMet Stop ID 9971","Travel & Transport::Bus Station::Bus Line",45.5102690422359,-122.781076602668
+"4f7cb0fde4b0b591d5777c1d","Exercise Equipment NW","Shop & Service::Sporting Goods Shop",45.487373913784026,-122.79796206279613
+"4f88cd56e4b0e81f66e8a0f8","grocery outlet","Shop & Service::Food & Drink Shop::Grocery Store",45.4580170033411,-122.782952520323
+"4f99f441e4b028109e5e956f","Famous Dave's BBQ Shack","Food::BBQ Joint",45.49647931693403,-122.80835963852718
+"4fa81029e4b00c584634cc61","Boardwalk Fresh Burgers & Fries","Food::Burger Joint",45.5140702590435,-122.790303781349
+"4ff74c3ae4b0f08304f246b6","nw college of beauty","College & University::General College & University",45.489362242337705,-122.80521912721653
+"503a89b55262fc1f11145f96","Oregon Dream Teams","Outdoors & Recreation::Athletic & Sport",45.47900084041156,-122.79052019119263
+"503bdc2ce4b04869781ba4dc","Costco Gasoline","Shop & Service::Gas Station / Garage",45.509302549906906,-122.8442847440251
+"50b67368e4b07378c3632791","Plaid Pantry","Shop & Service::Convenience Store",45.47152735324409,-122.77406566434543

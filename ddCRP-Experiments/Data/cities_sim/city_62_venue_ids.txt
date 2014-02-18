@@ -1,0 +1,790 @@
+"41326e00f964a5208b141fe3","Lodge At Hualapai","Nightlife Spot::Bar",36.127476,-115.31479606666667
+"41326e00f964a5209a141fe3","Michael's Pub","Nightlife Spot::Dive Bar",36.11615628,-115.24217784404755
+"41326e00f964a520a6131fe3","Aloha Kitchen","Food::Asian Restaurant",36.14258167008413,-115.20936706534566
+"41326e00f964a520c7131fe3","Blue Ox Tavern","Food::Restaurant",36.142705533333334,-115.221488
+"41326e00f964a520d5131fe3","Brewskes Pub","Nightlife Spot::Beer Garden",36.12335,-115.279299
+"42829c80f964a52048221fe3","Panera Bread","Food::Bakery",36.09568121666667,-115.2967
+"46c77b92f964a5201c4a1fe3","Roberto's Taco Shop - West","Food::Mexican Restaurant",36.09298,-115.208475
+"46d9c6d5f964a520784a1fe3","Bonito Michoacan","Food::Mexican Restaurant",36.122205042518026,-115.20888076973893
+"46f1832af964a520ea4a1fe3","Sushi Factory","Food::Sushi Restaurant",36.101682,-115.22549925
+"472c2a94f964a520004c1fe3","Black Bear Diner","Food::Diner",36.10029597427826,-115.22739887237549
+"4744cd64f964a520834c1fe3","Egg Works","Food::Breakfast Spot",36.114710360235435,-115.29556837227048
+"48a08f66f964a52086511fe3","Makino","Food::Japanese Restaurant",36.1186158657074,-115.2084355
+"4a53e65af964a520d4b21fe3","Yorkys","Nightlife Spot::Bar",36.0920512676239,-115.29826
+"4a63d272f964a520dfc51fe3","Naked-Fish's Sushi & Grill","Food::Sushi Restaurant",36.11905292777061,-115.27971267700195
+"4a69332bf964a520c5cb1fe3","Buffalo Wild Wings","Nightlife Spot::Bar",36.055096,-115.281499
+"4a6b87c8f964a52002cf1fe3","Basil 'n Lime","Food::Thai Restaurant",36.12303877854227,-115.29796444005996
+"4a6d37f0f964a520aed21fe3","Walgreens","Shop & Service::Drugstore / Pharmacy",36.125927,-115.22433
+"4a6ddb23f964a52027d31fe3","The Light Group","Professional & Other Places::Office",36.07466340712104,-115.24088783510305
+"4a6de568f964a52045d31fe3","The Coffee Bean & Tea Leaf","Food::Coffee Shop",36.07692152623716,-115.24314880371094
+"4a75f3b0f964a520c8e11fe3","Las Vegas Athletic Club","Shop & Service::Gym / Fitness Center::Gym",36.11297073618556,-115.3019809948942
+"4a75f9cef964a520d4e11fe3","Subway","Food::Sandwich Place",36.095975,-115.296347
+"4a78c501f964a52061e61fe3","Terrible Herbst","Shop & Service::Gas Station / Garage",36.14381777600717,-115.22485866048343
+"4a79a615f964a52044e71fe3","Starbucks","Food::Coffee Shop",36.144139,-115.207063
+"4a79d141f964a520b4e71fe3","Discount Tire","Shop & Service::Automotive Shop",36.10133410343725,-115.22462710265376
+"4a7dc739f964a52092ef1fe3","WaffleS Cafe","Food::Breakfast Spot",36.09557296,-115.29812918
+"4a878cddf964a520ac0420e3","Carter PowerSports Las Vegas","Shop & Service::Bike Shop",36.07565952136642,-115.2083134239156
+"4a885e89f964a5200e0620e3","Yogis Teriyaki","Food::Asian Restaurant",36.10148620605469,-115.29814147949219
+"4a88d629f964a520ad0720e3","Albertsons","Shop & Service::Food & Drink Shop::Grocery Store",36.099083053950686,-115.223763
+"4a8a17aef964a520dc0920e3","Fresh & Easy Neighborhood Market","Shop & Service::Food & Drink Shop::Grocery Store",36.099255716390346,-115.22598266601562
+"4a8cf0dff964a5204e0f20e3","Del Taco","Food::Fast Food Restaurant",36.09969539226588,-115.22319722926873
+"4a8e007ef964a520b81120e3","Famous Dave's Bar-B-Que","Food::BBQ Joint",36.11402608757969,-115.30378818511963
+"4a8eeca5f964a520301320e3","Mimi's Cafe","Food::Restaurant",36.06186545780448,-115.25211760832566
+"4a907ceef964a5202b1820e3","Fuddruckers","Food::Burger Joint",36.113460659980774,-115.309359
+"4a98823cf964a5206d2c20e3","Kai Sushi","Food::Sushi Restaurant",36.11272430419922,-115.27825927734375
+"4a9aff97f964a520f13320e3","Little Caesars Pizza","Food::Pizza Place",36.12552672412367,-115.29736253106674
+"4a9b308df964a520b03420e3","7-Eleven","Shop & Service::Gas Station / Garage",36.084865766896904,-115.27960568651076
+"4a9c5393f964a520cf3620e3","7-Eleven","Shop & Service::Gas Station / Garage",36.12275962173612,-115.29724677920221
+"4a9f3104f964a520e03c20e3","Sumo Sushi 2","Food::Japanese Restaurant",36.055084069892736,-115.28338193893433
+"4aa31847f964a5204f4320e3","China Star Buffet","Food::Chinese Restaurant",36.09946376906971,-115.20832300186157
+"4aa3fda7f964a520bc4420e3","Starbucks","Food::Coffee Shop",36.100313311793045,-115.2090311050415
+"4aa72607f964a520034c20e3","University Of Phoenix Flamingo Campus","College & University::University",36.116228383333336,-115.302263
+"4aa7f387f964a5202a4e20e3","Einstein Bros Bagels","Food::Deli / Bodega",36.14351014912497,-115.20758397778444
+"4aac656cf964a520d25d20e3","Macayo’s Mexican Kitchen","Food::Mexican Restaurant",36.143608129891405,-115.27081
+"4aad421df964a520505f20e3","Lahaina Grill","Nightlife Spot::Bar",36.10644320463738,-115.3143081331985
+"4ab51a3af964a520767220e3","Red Velvet Cafe","Food::Vegetarian / Vegan Restaurant",36.143335,-115.262813
+"4ab7d5cef964a520097b20e3","Metro Pizza","Food::Pizza Place",36.11811691984109,-115.20954608917236
+"4ab955c1f964a520fc7e20e3","Desert Breeze Park","Outdoors & Recreation::Playground",36.12605529974185,-115.27610778808594
+"4abd242df964a520b28820e3","ampm","Shop & Service::Gas Station / Garage",36.100495,-115.296729
+"4ac4df37f964a5204e9f20e3","The Cracked Egg","Food::Diner",36.07205808162689,-115.24344384670258
+"4ac7d5c6f964a52004ba20e3","Sushi Fever","Food::Sushi Restaurant",36.143325,-115.26446367
+"4acf991ff964a520d4d420e3","Orchids Garden","Food::Dim Sum Restaurant",36.143653,-115.216224
+"4ad0cac6f964a520d9d920e3","Starbucks","Food::Coffee Shop",36.11461222652116,-115.30442331235659
+"4adbf180f964a520232b21e3","In-N-Out Burger","Food::Burger Joint",36.100638,-115.3020715713501
+"4adca336f964a5202b2e21e3","Fabulous Freddys Car Wash","Shop & Service::Automotive Shop",36.11051697743754,-115.27858122198752
+"4ade11c5f964a520d27221e3","The Home Depot","Shop & Service::Hardware Store",36.06262986527632,-115.2451229095459
+"4ade1745f964a5200f7321e3","State of Nevada Department of Motor Vehicles","Professional & Other Places::Government Building",36.11560873,-115.271054
+"4ae1cd0ef964a520868721e3","Chase Bank","Shop & Service::Bank",36.06353184297193,-115.24302005767822
+"4ae39c28f964a5203d9721e3","McDonalds","Food::Fast Food Restaurant",36.10035891392613,-115.22413504169803
+"4ae6646ff964a520d4a621e3","Sedona","Food::Restaurant",36.11547652152217,-115.30118810566435
+"4ae73375f964a52052a921e3","Ross Dress for Less","Shop & Service::Clothing Store",36.06242331045314,-115.24900341278781
+"4ae734a9f964a5205da921e3","Walmart Supercenter","Shop & Service::Department Store",36.06452000160753,-115.24885870034218
+"4ae74fc2f964a52049aa21e3","Marshalls","Shop & Service::Department Store",36.06221589,-115.247665
+"4ae7567df964a52083aa21e3","Office Max","Shop & Service::Paper / Office Supplies Store",36.06425,-115.24429142475128
+"4ae79048f964a5206cac21e3","Greenland Supermarket","Food::Asian Restaurant",36.126548886252486,-115.2415824719818
+"4ae7a463f964a520feac21e3","Desert Volkswagen","Shop & Service::Automotive Shop",36.143599260337886,-115.23103540245202
+"4ae9f249f964a520e0b721e3","Yoga Sanctuary","Shop & Service::Gym / Fitness Center::Yoga Studio",36.14277435,-115.263364
+"4aed4c1ef964a52077cd21e3","Vistaña","Residence::Residential Building (Apartment / Condo)",36.05811982169598,-115.28104305267334
+"4aef813ef964a520ebd821e3","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",36.05583764917611,-115.2799240222528
+"4af08fd1f964a5203bdd21e3","Durango High School","Professional & Other Places::School::High School",36.08778236736689,-115.2467227368288
+"4af09705f964a52075dd21e3","Chipotle Mexican Grill","Food::Mexican Restaurant",36.14404124844873,-115.20640296618278
+"4af09869f964a52081dd21e3","Shuseki","Food::Japanese Restaurant",36.12558733891278,-115.2117133140564
+"4af1f09ff964a52090e421e3","Baja Fresh","Food::Burrito Place",36.11260918774843,-115.2425375951664
+"4af20fd7f964a52093e521e3","SportClips","Shop & Service::Salon / Barbershop",36.06321094824598,-115.25165140628815
+"4af45968f964a5208df121e3","Starbucks","Food::Coffee Shop",36.072460812220484,-115.24291964362185
+"4af48d22f964a520c3f321e3","Hooters","Food::Wings Joint",36.058051,-115.243417
+"4afb0f49f964a520bc1a22e3","Subway","Food::Sandwich Place",36.099508,-115.226599
+"4afb4dedf964a520c81c22e3","Capriotti's Sandwich Shop","Food::Sandwich Place",36.114941,-115.209749
+"4afbd485f964a520261f22e3","Raku","Food::Japanese Restaurant",36.126999,-115.2099
+"4b07711ef964a520a1fd22e3","BJ's Cocktail Lounge WEST","Nightlife Spot::Bar",36.067243719260794,-115.25091648101807
+"4b08aeecf964a520b91023e3","Khoury's Mediterranean Restaurant","Food::Mediterranean Restaurant",36.07736055,-115.29861295
+"4b08ca91f964a520461223e3","Capo's Italian Steakhouse","Food::Italian Restaurant",36.09985091676282,-115.2203085178168
+"4b0d99d9f964a520fb4b23e3","3 Tomatoes & a Mozzarella","Food::Italian Restaurant",36.070834012398706,-115.24319171905518
+"4b0db8e5f964a520a44e23e3","Rincon de Buenos Aires Restaurant","Food::Argentinian Restaurant",36.12620054814214,-115.21424734752064
+"4b0e03dbf964a520e95323e3","Marie Callender's","Food::American Restaurant",36.14352910020833,-115.2695055914703
+"4b10669df964a520a26f23e3","Salo Salo Grill","Food::Restaurant",36.122805,-115.224224
+"4b10c292f964a5207e7523e3","Putter's Bar & Grill","Food::Brewery",36.062534,-115.24322741
+"4b10c840f964a520b27523e3","Kohl's","Shop & Service::Department Store",36.11237929690709,-115.31034382589505
+"4b1158c7f964a520ad7a23e3","Office Depot","Shop & Service::Paper / Office Supplies Store",36.098812966666664,-115.29559614
+"4b1174fdf964a520ff7c23e3","The Maple Tree","Food::American Restaurant",36.126094818115234,-115.22348022460938
+"4b11d9e5f964a520f48523e3","Lee's Discount Liquor","Shop & Service::Food & Drink Shop::Liquor Store",36.05495396362712,-115.28334438800812
+"4b12e5eef964a520689023e3","Rocket Fizz","Shop & Service::Candy Store",36.09560170141332,-115.29655158519745
+"4b137048f964a520069723e3","Walgreens","Shop & Service::Drugstore / Pharmacy",36.100470887221604,-115.20851025829658
+"4b15a5e7f964a520c0b123e3","Amigos Tacos","Food::Mexican Restaurant",36.05329871177673,-115.27961659304982
+"4b174c34f964a520a5c423e3","VONS","Shop & Service::Food & Drink Shop::Grocery Store",36.052948,-115.27923
+"4b175a66f964a520f4c423e3","JRs Place","Food::Italian Restaurant",36.084358,-115.279734
+"4b17db11f964a520e7c823e3","Dad's Grilled Cheese","Food::Sandwich Place",36.094802,-115.20880579948425
+"4b19d129f964a520bce423e3","Chili's Grill & Bar","Food::American Restaurant",36.062796963157375,-115.25233178048006
+"4b1b26b3f964a520e3f823e3","China a Go Go","Food::Chinese Restaurant",36.05329132080078,-115.28032684326172
+"4b1b30f0f964a52061f923e3","Archi's Thai Bistro","Food::Asian Restaurant",36.073400884802936,-115.24340629577637
+"4b1be5cff964a520b8fe23e3","Dunkin' Donuts","Food::Donut Shop",36.09931182861328,-115.24111938476562
+"4b1c83f2f964a520130824e3","Karaoke Studio","Nightlife Spot::Karaoke Bar",36.12730793,-115.22422850131989
+"4b1d39d1f964a5204b0d24e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center",36.0996082307279,-115.20965652665988
+"4b1d5e23f964a520710f24e3","Lindo Michoacan Gourmet Mexican Cuisine","Food::Mexican Restaurant",36.11557616296129,-115.3124562004071
+"4b1d867ef964a520b01124e3","Farmer Boys","Food::Burger Joint",36.0839939,-115.208391
+"4b1e9d0af964a5209a1c24e3","Rhodes Ranch Golf Club","Outdoors & Recreation::Athletic & Sport::Golf Course",36.04514333171557,-115.28666496276855
+"4b215832f964a5206c3a24e3","Subway","Food::Sandwich Place",36.06955826282501,-115.29823901666667
+"4b218331f964a520023d24e3","Qdoba Mexican Grill","Food::Mexican Restaurant",36.06208635181434,-115.24327853719944
+"4b22e377f964a5209b4f24e3","Putter's Bar & Grill","Nightlife Spot::Bar",36.058351029453384,-115.27852334253458
+"4b231e88f964a5208c5324e3","Penang Malaysian Cuisine","Food::Malaysian Restaurant",36.12550815,-115.211603
+"4b23c80cf964a520925924e3","Spring Valley High School","Professional & Other Places::School::High School",36.1204824058135,-115.26030814110709
+"4b26a5d3f964a520ef7e24e3","Verrazano Pizza","Food::Pizza Place",36.115988,-115.24149119853973
+"4b26fb48f964a520af8324e3","Panda Express","Food::Chinese Restaurant",36.06271,-115.242967
+"4b280d31f964a5203d8e24e3","Petco","Shop & Service::Pet Store",36.12383544445038,-115.24378448333333
+"4b291720f964a5207c9824e3","Dunkin' Donuts","Food::Coffee Shop",36.07448036148355,-115.24302962718144
+"4b2958d6f964a520549d24e3","Khoury's Fine Wine & Spirits","Shop & Service::Food & Drink Shop::Wine Shop",36.058212,-115.27854859828949
+"4b298b38f964a520a4a024e3","American Male Salon","Shop & Service::Cosmetics Shop",36.07858640522585,-115.24100303649902
+"4b2e9382f964a520cee224e3","Maximum Comics","Shop & Service::Hobby Shop",36.0956320438743,-115.29620289802551
+"4b2edb13f964a52080e724e3","Swish","Food::Japanese Restaurant",36.12583255,-115.211618
+"4b2f073df964a52031e924e3","Target","Shop & Service::Clothing Store",36.11395674960301,-115.3108263015747
+"4b2f0e42f964a5205ce924e3","PetSmart","Shop & Service::Pet Store",36.06437731170627,-115.24535663866979
+"4b2f1483f964a52071e924e3","Michaels","Shop & Service::Arts & Crafts Store",36.062441,-115.248532
+"4b2f1529f964a52072e924e3","Sport Chalet","Shop & Service::Sporting Goods Shop",36.063282,-115.250565
+"4b304bf6f964a520b5f824e3","Hikari Japanese Steakhouse & Sushi Bar","Food::Sushi Restaurant",36.11303150653839,-115.261342
+"4b327cdcf964a520ea0c25e3","The Fat Greek","Food::Greek Restaurant",36.11776828765869,-115.20968019962311
+"4b3283b1f964a5208f0d25e3","Applebee's","Food::American Restaurant",36.0977906631755,-115.29672056436539
+"4b32b539f964a520551225e3","Capriotti's Sandwich Shop","Food::Deli / Bodega",36.06216684633255,-115.24329011440474
+"4b33d828f964a520682025e3","Baja Fresh","Food::Mexican Restaurant",36.09915,-115.296742
+"4b34297ff964a520af2525e3","Smiths","Shop & Service::Food & Drink Shop::Grocery Store",36.10116310543151,-115.31309859086298
+"4b353c80f964a520742b25e3","Jack in the Box","Food::Fast Food Restaurant",36.114868,-115.242624
+"4b356b41f964a520ff2c25e3","KJ Kitchen","Food::Chinese Restaurant",36.125674,-115.2230486
+"4b366dbaf964a5202b3525e3","Spring Valley Hospital","Professional & Other Places::Medical Center::Hospital",36.09069746367214,-115.24092256698368
+"4b3698cdf964a520c43825e3","China Mama","Food::Chinese Restaurant",36.126903891563416,-115.224595
+"4b381beef964a520b74b25e3","Frank & Fina's Cocina","Food::Mexican Restaurant",36.11412,-115.30735512
+"4b3920a0f964a520c15625e3","Sushi 21","Food::Sushi Restaurant",36.099459,-115.208598
+"4b3951d6f964a520895a25e3","Ricardo's","Food::Mexican Restaurant",36.11588395,-115.208421
+"4b3c5244f964a520d28325e3","The Lodge at Fort Apache","Nightlife Spot::Bar",36.08353328333333,-115.297203
+"4b3d5cbff964a520159325e3","ultimate electronics","Shop & Service::Electronics Store",36.0915023,-115.2440103
+"4b3fb11bf964a52058ac25e3","Viva Mercado's","Food::Mexican Restaurant",36.12447612681035,-115.24359691018887
+"4b40c313f964a520d4ba25e3","Christ The King Catholic Community","Professional & Other Places::Spiritual Center::Church",36.09869816891455,-115.23463603369039
+"4b418188f964a52038c725e3","Food 4 Less","Shop & Service::Miscellaneous Shop",36.1181696355372,-115.20929759459065
+"4b44fa3af964a5209f0026e3","ActionCOACH","College & University::General College & University",36.0825487885485,-115.287715
+"4b46bda8f964a5209d2726e3","US Post Office","Professional & Other Places::Post Office",36.11587317519424,-115.22441870046086
+"4b479c4af964a5204d3726e3","Terrible Herbst","Shop & Service::Gas Station / Garage",36.09974300364295,-115.29776187466493
+"4b479dc1f964a520883726e3","PT's Gold","Nightlife Spot::Bar",36.076433,-115.208701
+"4b47a12ef964a520233826e3","Sammy's Woodfired Pizza & Grill","Food::Pizza Place",36.1157768512015,-115.29948592185974
+"4b47f0cff964a520994426e3","shish kabob house","Food::Mediterranean Restaurant",36.11502109149441,-115.23658105197487
+"4b4903c6f964a520106226e3","Carl's Jr.","Food::Fast Food Restaurant",36.0558475,-115.280401
+"4b494094f964a520816b26e3","Rosemary's Restaurant","Food::French Restaurant",36.14279866218567,-115.26864
+"4b495c8bf964a520596e26e3","Benjarong Authentic Thai Cuisine","Food::Thai Restaurant",36.053472,-115.27963
+"4b4a5f84f964a520ba8526e3","Pho Saigon 8","Food::Vietnamese Restaurant",36.125985972387646,-115.21890163421631
+"4b4a7f08f964a520498926e3","Kobe Sushi Bistro","Food::Sushi Restaurant",36.07234729064617,-115.24346377243283
+"4b4d7ba8f964a520f6d226e3","Cafe Moda","Nightlife Spot::Karaoke Bar",36.12652519220119,-115.22465025844441
+"4b4d8068f964a52032d326e3","KTV forbes","Nightlife Spot::Karaoke Bar",36.127987,-115.22418
+"4b4f7de4f964a520b40827e3","168 Market","Food::Asian Restaurant",36.126232,-115.2258305
+"4b4f9947f964a520ed0c27e3","Kan Pai Sushi","Food::Sushi Restaurant",36.142842317759175,-115.26949401524105
+"4b4fa98bf964a520b50f27e3","Game Stop","Shop & Service::Gift Shop",36.09565193,-115.29638612
+"4b4fae1cf964a5208f1027e3","Chase Bank","Shop & Service::Bank",36.093236,-115.29659876
+"4b508aadf964a520a42627e3","St Rose San Martin Hospital","Professional & Other Places::Medical Center::Hospital",36.05674597265218,-115.27214496044256
+"4b50c988f964a520853227e3","Super Mex Restaurant & Cantina","Food::Mexican Restaurant",36.07142,-115.27887046337128
+"4b50d751f964a520c33427e3","Wendy's Noodle Cafe","Food::Ramen /  Noodle House",36.127493,-115.225218
+"4b512e36f964a520424627e3","Walmart Supercenter","Shop & Service::Department Store",36.094192931397785,-115.29464721679688
+"4b51347af964a520324727e3","Target","Shop & Service::Department Store",36.12447719562813,-115.24164035831862
+"4b529725f964a520488327e3","Karaoke Studio","Nightlife Spot::Karaoke Bar",36.12730793,-115.22422850131989
+"4b52a23ff964a520818427e3","Subway","Food::Sandwich Place",36.12833292433789,-115.31466694388124
+"4b534fa9f964a520a99627e3","Rhodes Ranch Club House","Arts & Entertainment::General Entertainment",36.04346112120015,-115.28897619578426
+"4b53c05df964a52044aa27e3","Sunflower Market","Shop & Service::Food & Drink Shop::Grocery Store",36.114959977487665,-115.24182379245758
+"4b560e34f964a5201cfe27e3","Jack in the Box","Food::Burger Joint",36.113962,-115.27964133
+"4b561107f964a520a3fe27e3","Little Shop of Magic","Shop & Service::Toy / Game Store",36.11385481526718,-115.27871434468817
+"4b56777cf964a520b21128e3","PetSmart","Shop & Service::Pet Store",36.095086922764565,-115.29474652829511
+"4b5681ddf964a5204f1328e3","BOSA 1","Food::Vietnamese Restaurant",36.127643,-115.224695
+"4b57c17bf964a520743f28e3","Arby's","Food::Fast Food Restaurant",36.10163474,-115.296913
+"4b57f304f964a520084728e3","Roadrunner","Nightlife Spot::Bar",36.115724088564875,-115.30628686853302
+"4b587b7af964a520e15928e3","International Game Technology (IGT)","Professional & Other Places::Office",36.07216949025243,-115.26280403137207
+"4b59ea46f964a52092a028e3","Einstein Bros Bagels","Food::Bagel Shop",36.116071,-115.242488
+"4b5a0916f964a52021a928e3","Nora's Italian Cuisine","Nightlife Spot::Wine Bar",36.1153028476529,-115.223394054332
+"4b5a2b87f964a520c6b128e3","Fresh & Easy","Shop & Service::Food & Drink Shop::Grocery Store",36.101180250375904,-115.28056648066051
+"4b5a7ab9f964a52092c728e3","Buffalo Wild Wings","Food::Wings Joint",36.11181515,-115.31424323333333
+"4b5a8fc6f964a52069cb28e3","Wells Fargo","Shop & Service::Bank",36.14366616222843,-115.24356796720326
+"4b5b3db3f964a52099ed28e3","The Griddle","Food::Breakfast Spot",36.058019399642944,-115.278455
+"4b5b8e89f964a520d60629e3","Carl's Jr","Food::Burger Joint",36.09980392456055,-115.30170440673828
+"4b5bfa2ef964a520d61f29e3","Capo's Italian Steakhouse","Food::Italian Restaurant",36.143861,-115.219233
+"4b5cbd7cf964a5207d4129e3","Jimmy John's","Food::Sandwich Place",36.089716721735684,-115.24316855372759
+"4b5de3f2f964a520517229e3","Honda West","Shop & Service::Automotive Shop",36.143102,-115.257597
+"4b5f50c3f964a52095b329e3","Ciao Ciao Apizza Angelato","Food::Pizza Place",36.10812759399414,-115.27862548828125
+"4b5f6682f964a5202fb829e3","Grant Sawyer Middle School","College & University::College Academic Building",36.08867327322942,-115.23753619045245
+"4b5f9359f964a5207fc229e3","Radichi Salon","Shop & Service::Salon / Barbershop",36.1162662506093,-115.29658913612366
+"4b60e7baf964a520b9002ae3","Jack in the Box","Food::Fast Food Restaurant",36.08671052382227,-115.24320907395858
+"4b60f285f964a520f2022ae3","SONIC Drive In","Food::Fast Food Restaurant",36.14366,-115.23306118
+"4b610cc3f964a520cf072ae3","Shuck's Tavern","Food::Seafood Restaurant",36.11533061,-115.29435206
+"4b611035f964a52059082ae3","Porchlight Grille","Food::American Restaurant",36.13034248352051,-115.2745801
+"4b611059f964a5205d082ae3","Aces Bar and Grill","Nightlife Spot::Bar",36.055824,-115.28786
+"4b633588f964a520c56a2ae3","Cathay House Chinese Cuisine","Food::Chinese Restaurant",36.126745,-115.213529
+"4b648deff964a5202bbd2ae3","Discount Tire","Shop & Service::Automotive Shop",36.11469273696508,-115.28990802209462
+"4b649e8ff964a520bec22ae3","SONIC Drive In","Food::Fast Food Restaurant",36.05656512491584,-115.27980247591728
+"4b66060ff964a520110f2be3","Archi's Thai Kitchen","Food::Thai Restaurant",36.11480259134983,-115.23107592425589
+"4b6622abf964a520a6152be3","Washworks","Shop & Service::Automotive Shop",36.057297,-115.24353365
+"4b673db9f964a52049432be3","Pho Hung","Food::Vietnamese Restaurant",36.126329372603244,-115.2133673971338
+"4b67552bf964a5209a482be3","Sushi on Rainbow","Food::Sushi Restaurant",36.12681247785376,-115.24231762766169
+"4b675937f964a52095492be3","AutoZone","Shop & Service::Automotive Shop",36.12654121526304,-115.2086492001385
+"4b67ff17f964a5205a632be3","T-Mobile","Shop & Service::Electronics Store",36.06286911,-115.2429675
+"4b68ef5df964a520e2932be3","Maciano's","Food::Italian Restaurant",36.086483001708984,-115.30757141113281
+"4b6901f4f964a520b9962be3","Sagos Baja Tavern & Lounge","Nightlife Spot::Bar",36.1020686223918,-115.29691109854862
+"4b6a0b86f964a520f1c32be3","Smiths","Shop & Service::Food & Drink Shop::Grocery Store",36.115629,-115.22625066
+"4b6b67dcf964a52092062ce3","Sam's Club","Shop & Service::Food & Drink Shop::Grocery Store",36.064893462790174,-115.24641036987305
+"4b6b7c05f964a520c00b2ce3","O'Aces Bar & Grill","Nightlife Spot::Bar",36.07560290850767,-115.28989065889722
+"4b6c632cf964a520e4352ce3","Bank of America","Shop & Service::Bank",36.05511469263924,-115.28032917635922
+"4b6c63bdf964a52012362ce3","Legend Cleaners","Shop & Service::Laundry Service",36.056286,-115.278675
+"4b6c8e4bf964a520ce422ce3","Living Dead Tattoo","Shop & Service::Tattoo Parlor",36.087429,-115.24334728717804
+"4b6cdfa4f964a520c65a2ce3","Walmart Supercenter","Shop & Service::Department Store",36.12338162341738,-115.24605126560027
+"4b6da1e6f964a520ef812ce3","US Post Office","Professional & Other Places::Post Office",36.084517250151556,-115.26387691497803
+"4b6dca37f964a52014902ce3","Fatburger","Food::Burger Joint",36.113494873046875,-115.29744720458984
+"4b6ddb02f964a52015962ce3","Starbucks","Food::Café",36.0991863653748,-115.29687881469727
+"4b6ddfadf964a520a4972ce3","Ross","Shop & Service::Clothing Store",36.09541261669545,-115.29483334290323
+"4b6defbcf964a520479d2ce3","Blockbuster","Shop & Service::Video Store",36.11522018909454,-115.2804046869278
+"4b6e0219f964a52008a32ce3","Jack in the Box","Food::American Restaurant",36.060009598731995,-115.27977705001831
+"4b6e0f41f964a5205da72ce3","party city","Shop & Service::Arts & Crafts Store",36.06414712432363,-115.24263021301674
+"4b6e1386f964a520aca82ce3","Ulta Beauty","Shop & Service::Cosmetics Shop",36.06241744777487,-115.24984274364678
+"4b6e60e3f964a520e7ba2ce3","7-Eleven","Shop & Service::Gas Station / Garage",36.12515403936141,-115.24241924285889
+"4b6f2142f964a52014df2ce3","Ohana Hawaiian BBQ","Food::Restaurant",36.0530881426873,-115.27994717393037
+"4b6f904ff964a52000f62ce3","Tiger Sushi","Food::Sushi Restaurant",36.10099411010742,-115.2438735961914
+"4b7083cef964a520371f2de3","Sallys Beauty Supply","Shop & Service::Cosmetics Shop",36.09656995,-115.29631555080414
+"4b71d5f6f964a520315f2de3","U.S. Bank","Shop & Service::Bank",36.11498057767149,-115.22247360665125
+"4b721127f964a520fd6c2de3","Last Chance Tattoo","Shop & Service::Tattoo Parlor",36.11601,-115.24195
+"4b7220cbf964a52011702de3","Wells Fargo","Shop & Service::Bank",36.055871828746966,-115.27850597869657
+"4b722802f964a520a9712de3","Fazoli's","Food::Italian Restaurant",36.09358012676239,-115.29675
+"4b73127ff964a52090992de3","Sababa Grille & Restaurant","Food::Middle Eastern Restaurant",36.130882263183594,-115.27861785888672
+"4b7346cbf964a520dea52de3","Jennifer Web Design","Professional & Other Places::Office",36.09290984504017,-115.27968049049377
+"4b734958f964a52070a62de3","Bamboo Bistro Vietnamese Cuisine","Food::Vietnamese Restaurant",36.1302604675293,-115.27772521972656
+"4b734a29f964a520a5a62de3","Sam's Club","Shop & Service::Food & Drink Shop::Grocery Store",36.124463528354234,-115.24869083382106
+"4b736f76f964a52069ae2de3","Walgreens","Shop & Service::Drugstore / Pharmacy",36.10035990195585,-115.29769242364165
+"4b737804f964a5200eb02de3","Zaba's Mexican Grill","Food::Mexican Restaurant",36.114697711780245,-115.30640261699048
+"4b74596ef964a520f2d62de3","Tokyo Discount","Shop & Service::Gift Shop",36.098717,-115.2951031923294
+"4b757f85f964a520fe0f2ee3","Starbucks","Food::Coffee Shop",36.116052,-115.242519
+"4b75a52df964a520ab192ee3","The Human Bean Coffee","Food::Coffee Shop",36.09183883666992,-115.29776000976562
+"4b75b543f964a520aa1e2ee3","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",36.062399035649776,-115.2480772519745
+"4b7709d7f964a520fc762ee3","Spring Valley Library","Professional & Other Places::Library",36.11132186112579,-115.22424459457397
+"4b770c32f964a520ea772ee3","ampm","Shop & Service::Gas Station / Garage",36.08478839,-115.243223
+"4b774dcbf964a52076902ee3","Powder and Sun","Shop & Service::Board Shop",36.10645055163299,-115.29754400253296
+"4b775459f964a52087922ee3","Starbucks","Food::Coffee Shop",36.07736312,-115.29802233333334
+"4b781f2bf964a520d9b62ee3","Mountaintop Faith Ministries","Professional & Other Places::Spiritual Center::Church",36.13815193007852,-115.2174429361135
+"4b78556df964a52040c62ee3","swish japanese hot pot","Food::Japanese Restaurant",36.14325960727154,-115.26270448231749
+"4b7a16b6f964a52087222fe3","Las Vegas Ice Center","Outdoors & Recreation::Athletic & Sport::Skating Rink",36.11399,-115.29455505
+"4b7cb02cf964a52044a12fe3","Rebel Gas Station & Convenience Store","Shop & Service::Gas Station / Garage",36.11502660438665,-115.20844078735261
+"4b7cd714f964a52024a72fe3","Fresh & Easy","Shop & Service::Food & Drink Shop::Grocery Store",36.129428660177716,-115.29876312517398
+"4b7d4baff964a520e4b62fe3","Burger King","Food::Fast Food Restaurant",36.126021,-115.243456
+"4b7dc9a8f964a520acd42fe3","Gerardo's Barber Shop","Shop & Service::Salon / Barbershop",36.11410839401193,-115.24178507411366
+"4b7df4b7f964a520f7db2fe3","Carmax","Shop & Service::Automotive Shop",36.143134435791225,-115.2397532582113
+"4b7e1854f964a5208ce22fe3","Fino Grooming Lounge","Shop & Service::Salon / Barbershop",36.143625,-115.25061607360504
+"4b7efff8f964a5205f0f30e3","McGhie's","Shop & Service::Bike Shop",36.116388,-115.29749042
+"4b7f0dccf964a520121330e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",36.115227,-115.300911
+"4b8041a2f964a5207a6130e3","The Original Pancake House","Food::Breakfast Spot",36.11350718333333,-115.29653297
+"4b804ff2f964a520e66630e3","Harolds Chicken and Fish","Food::American Restaurant",36.09859085083008,-115.24242401123047
+"4b82de6af964a520efe930e3","Wienerschnitzel","Food::American Restaurant",36.0787239074707,-115.24305725097656
+"4b82f68bf964a520b8ef30e3","Viva Mercados Mexican Restaurant","Food::Mexican Restaurant",36.12434005737305,-115.24370574951172
+"4b84934df964a5207c3c31e3","Teriyaki Madness","Food::Japanese Restaurant",36.056074,-115.27739524841309
+"4b86e6fcf964a520e5a431e3","Tropical Smoothie Cafe","Food::Café",36.0546400747891,-115.27985456720978
+"4b86eec1f964a520aaa631e3","O'Aces Bar & Grill","Food::American Restaurant",36.09891364639267,-115.20829026692151
+"4b886e6ef964a52051f731e3","Great Clips","Shop & Service::Salon / Barbershop",36.054392,-115.281015
+"4b88a02bf964a520410532e3","PT's","Food::American Restaurant",36.06814564406017,-115.29743671417236
+"4b899772f964a5207e4432e3","Aranya Thai Bistro","Food::Thai Restaurant",36.11343765258789,-115.3095474243164
+"4b89dcc4f964a520355232e3","Thai BBQ","Food::Thai Restaurant",36.11489486694336,-115.24092102050781
+"4b8ada2bf964a520568532e3","Studio 21 Tattoo","Shop & Service::Tattoo Parlor",36.114926,-115.22357186
+"4b8afdeef964a5200e8d32e3","Pier 1 Imports","Shop & Service::Furniture / Home Store",36.09896,-115.295224
+"4b8b0222f964a520078e32e3","Lowe's Home Improvement","Shop & Service::Hardware Store",36.09714887595559,-115.29471759008695
+"4b8b0a5ef964a520b38f32e3","hollywood video","Shop & Service::Video Store",36.054473519325256,-115.279582
+"4b8d736ff964a5208cfc32e3","Sammy's Woodfired Pizza & Grill","Food::Pizza Place",36.062976,-115.252156
+"4b8d7f06f964a52041ff32e3","Tropical smoothie","Food::Juice Bar",36.0976676940918,-115.29780578613281
+"4b8dd48cf964a520a30f33e3","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",36.05627922341805,-115.24349850402682
+"4b8ef209f964a5203f4033e3","Land Rover Las Vegas","Shop & Service::Automotive Shop",36.14409566205381,-115.2129578590393
+"4b8ef281f964a520684033e3","Pacific Seafood Buffet","Food::Asian Restaurant",36.14414596557617,-115.21073150634766
+"4b8f2d7ff964a520754c33e3","Momoyama Sushi","Food::Sushi Restaurant",36.1435661315918,-115.25151062011719
+"4b901f14f964a520eb7633e3","Chipotle Mexican Grill","Food::Mexican Restaurant",36.06369062293941,-115.2519902626505
+"4b916e23f964a520e0bb33e3","Quiznos","Food::Sandwich Place",36.10036849975586,-115.20918273925781
+"4b92c329f964a520631934e3","Spring Valley Park","Outdoors & Recreation::Dog Run",36.11556274346819,-115.25812016124608
+"4b92d427f964a5208f1f34e3","Tan Las Vegas","Shop & Service::Tanning Salon",36.11347,-115.310899
+"4b92f4e3f964a520512a34e3","Applebee's","Food::American Restaurant",36.125316,-115.24350821971893
+"4b930226f964a520682e34e3","808 Sushi","Food::Sushi Restaurant",36.05293295201585,-115.2798843383789
+"4b9338aef964a520de3b34e3","McDonalds","Food::Fast Food Restaurant",36.12549591064453,-115.27976989746094
+"4b9400f7f964a5207a6034e3","Starbucks","Food::Coffee Shop",36.05369532,-115.28098
+"4b942687f964a520646b34e3","KFC/Long John Silvers","Food::American Restaurant",36.1009635925293,-115.2977066040039
+"4b957da3f964a52070a534e3","Winner's Circle","Nightlife Spot::Sports Bar",36.077955,-115.297779
+"4b96c76bf964a520f1e334e3","Nevada Chicken Cafe","Food::BBQ Joint",36.14381331377007,-115.22650850507085
+"4b96dbd9f964a5204ee934e3","Einstein Bros Bagels","Food::Bagel Shop",36.115353567928125,-115.30016371289926
+"4b96fb6ef964a520b2f134e3","Fashion Bug","Shop & Service::Clothing Store::Women's Store",36.12254437,-115.24500971
+"4b97e9b5f964a520eb1e35e3","Pit Stop","Shop & Service::Gas Station / Garage",36.12505134,-115.2243385
+"4b98adfdf964a520364b35e3","Southern Hills Hospital","Professional & Other Places::Medical Center::Hospital",36.07241230197147,-115.29559135437012
+"4b997a36f964a520717d35e3","Sports Authority","Shop & Service::Sporting Goods Shop",36.09589,-115.29477989325794
+"4b9994fff964a5204f8535e3","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",36.07577910446102,-115.24149564245646
+"4b9a04abf964a520429b35e3","Walgreens","Shop & Service::Drugstore / Pharmacy",36.10143852996769,-115.27975038461597
+"4b9a7583f964a52028b735e3","Bodyheat Tanning Warm Springs/Durango","Shop & Service::Tanning Salon",36.053198650314854,-115.28097742182422
+"4b9a7b7bf964a52059b935e3","Vons Gas","Shop & Service::Gas Station / Garage",36.05485855222899,-115.27971267700195
+"4b9accd3f964a520f2d635e3","Baguette Cafe","Food::Sandwich Place",36.06692886352539,-115.27310943603516
+"4b9d51def964a52044a336e3","Roberto's Taco Shop","Food::Mexican Restaurant",36.11491012573242,-115.24110412597656
+"4b9d7dc8f964a52011b036e3","Samurai Sam's","Food::Asian Restaurant",36.113916525878544,-115.30738647711532
+"4b9e8a95f964a5204fed36e3","Taco Bell","Food::Fast Food Restaurant",36.124481201171875,-115.27944946289062
+"4b9f1c95f964a520371437e3","Carl's Jr 8041","Food::Fast Food Restaurant",36.059146881103516,-115.24311828613281
+"4ba0d5a2f964a520e18037e3","Lotus Broadcasting","Professional & Other Places::Office",36.11449225302382,-115.28310157376838
+"4ba12703f964a520cd9c37e3","Boba City Cafe","Food::African Restaurant",36.11283874511719,-115.2418212890625
+"4ba1a53af964a5208fc537e3","The Home Depot","Shop & Service::Hardware Store",36.11464863689764,-115.29889045159459
+"4ba1ac03f964a52019c737e3","wendys","Food::Fast Food Restaurant",36.11487579345703,-115.22637939453125
+"4ba29787f964a5203d0738e3","Empire Bagel","Food::Deli / Bodega",36.0773,-115.298225
+"4ba2a208f964a520130b38e3","Curl Up N Dye","Shop & Service::Cosmetics Shop",36.14313657,-115.242007
+"4ba3877ef964a520b34438e3","It's A Grind Coffee House","Food::Coffee Shop",36.056892616666666,-115.27851676666667
+"4ba3f282f964a5206b7038e3","Rambos Kitchen","Food::American Restaurant",36.0785436630249,-115.29857785
+"4ba42354f964a520518538e3","Raising Cane's","Food::Fried Chicken Joint",36.05875155,-115.243291
+"4ba483b4f964a520aaa138e3","Denny's","Food::American Restaurant",36.100348,-115.209849
+"4ba517e3f964a52037dc38e3","Smiths","Shop & Service::Food & Drink Shop::Grocery Store",36.11591970204214,-115.26224142265576
+"4ba54acff964a52005f738e3","A Touch Of Las Vegas","Shop & Service::Cosmetics Shop",36.112551,-115.241828
+"4ba562c9f964a520dc0139e3","Lee's Liquor","Shop & Service::Food & Drink Shop::Liquor Store",36.11486191359025,-115.29625131136855
+"4ba6bb78f964a520086c39e3","Piercing Shop","Shop & Service::Tattoo Parlor",36.142923,-115.24475637934438
+"4ba6bd40f964a5208f6c39e3","Joes crab shack","Food::Seafood Restaurant",36.11446762084961,-115.30655670166016
+"4ba7c015f964a520feaf39e3","Little Dumplings","Food::Chinese Restaurant",36.11580276489258,-115.29451751708984
+"4ba80c6ff964a52010c939e3","Sandai Sushi Bar","Food::Japanese Restaurant",36.116153717041016,-115.2254409790039
+"4ba8662af964a52094d939e3","Chevron Station","Shop & Service::Gas Station / Garage",36.12519854541554,-115.22459236896455
+"4ba8d452f964a52051f239e3","Thomas Dermatology","Professional & Other Places::Medical Center::Doctor's Office",36.073994,-115.290501
+"4ba8e2b5f964a5200df739e3","Las Vegas Veterinary Referral Center","Professional & Other Places::Medical Center",36.10118103027344,-115.28083801269531
+"4ba91be0f964a520020c3ae3","Hokaido Japanese Cuisine","Food::Sushi Restaurant",36.07905578613281,-115.29847717285156
+"4ba925b8f964a520350f3ae3","Shell Gas Station","Shop & Service::Automotive Shop",36.10735228877689,-115.27934522975053
+"4ba9357ef964a5206c143ae3","Sen of Japan","Food::Japanese Restaurant",36.12981621694523,-115.27637600898743
+"4ba93ae0f964a52071163ae3","Tropical Smoothie","Food::Café",36.069149017333984,-115.29774475097656
+"4ba94c29f964a520951c3ae3","Norm Baker Auto","Shop & Service::Automotive Shop",36.143505,-115.226925
+"4ba95f25f964a520c2223ae3","Chevron Station","Shop & Service::Gas Station / Garage",36.12561157122128,-115.27931050216594
+"4ba96885f964a52049253ae3","Subway","Food::Deli / Bodega",36.05333965,-115.279646
+"4baa434cf964a520db583ae3","Touch Salon And Spa","Shop & Service::Salon / Barbershop",36.0994113,-115.20893
+"4baa8344f964a52068703ae3","Terrible Herbst","Shop & Service::Gas Station / Garage",36.070811083742605,-115.27893428641578
+"4baa948ff964a52090763ae3","Terrible Herbst","Shop & Service::Gas Station / Garage",36.09949844446271,-115.24267673492432
+"4baa96aff964a5205f773ae3","Bank of America","Shop & Service::Bank",36.111065,-115.242537
+"4baa9a53f964a520ae783ae3","PT's Pub","Nightlife Spot::Bar",36.119168400764465,-115.27970297
+"4bab90eef964a5205cb43ae3","Mcdonalds","Food::American Restaurant",36.114925384521484,-115.20903778076172
+"4baba875f964a5209abd3ae3","Red Ridge Park","Outdoors & Recreation::Playground",36.06065201858471,-115.28895883253436
+"4babb0b1f964a520b3c03ae3","Elements Kitchen & Martini Bar","Food::Restaurant",36.0987548828125,-115.24256896972656
+"4babc116f964a52094c63ae3","Dyer's Gourmet Popcorn","Food::Restaurant",36.11524200439453,-115.28076171875
+"4babea40f964a52000d53ae3","Lee's Discount Liquor","Shop & Service::Food & Drink Shop::Liquor Store",36.11185133457184,-115.241972
+"4bac2a99f964a52098e83ae3","Krispy Kreme Doughnuts","Food::Donut Shop",36.12517,-115.245735
+"4bac5ef6f964a5203af23ae3","Straight Up","Nightlife Spot::Bar",36.09835815,-115.29619
+"4bac76a8f964a52039f63ae3","PT's Pub","Nightlife Spot::Bar",36.08631421588957,-115.31492737072624
+"4bad4d40f964a520df433be3","Rhodes Ranch Community","Outdoors & Recreation::Plaza",36.05364421523923,-115.28374671936035
+"4bad5c6ff964a520214a3be3","Creative Cooking School","Professional & Other Places::School",36.14352,-115.253977
+"4bae2790f964a520f48a3be3","Green Valley Grocery","Shop & Service::Gas Station / Garage",36.12218702733925,-115.29750722083615
+"4bae5386f964a52008a33be3","Taco Bell","Food::Fast Food Restaurant",36.086090087890625,-115.24330139160156
+"4bafd254f964a5208e233ce3","Tropical Smoothie Cafe","Food::Restaurant",36.11749267578125,-115.20983123779297
+"4bb04e89f964a52077403ce3","IHOP","Food::Breakfast Spot",36.09508587778434,-115.29681444168091
+"4bb13213f964a5208b823ce3","US Post Office","Professional & Other Places::Post Office",36.128100429145334,-115.2435564994812
+"4bb13d12f964a5202f863ce3","The Original Graziano's Pizza Restaurant","Food::Pizza Place",36.129886507987976,-115.27470231056213
+"4bb3bea04019a593036138b8","Russo's Pizza Kitchen","Food::Pizza Place",36.09869885,-115.24247788333334
+"4bb4008c643cd13a6e52395c","Popeyes Chicken & Biscuits","Food::Fast Food Restaurant",36.11299133300781,-115.29742431640625
+"4bb438c8f187a593850014f8","Albertsons","Shop & Service::Food & Drink Shop::Grocery Store",36.115828,-115.280099
+"4bb55d40941ad13a882f1ee3","Town Square Market","Shop & Service::Gas Station / Garage",36.078107599463884,-115.2432495941843
+"4bb658296edc76b000ca301c","Star Nursery","Shop & Service::Garden Center",36.10077786033471,-115.2988441510841
+"4bb6787a941ad13a707d1fe3","Smith's","Shop & Service::Food & Drink Shop::Grocery Store",36.143101468429435,-115.27762620962783
+"4bb6aa0ff562ef3bc2923097","Verizon Wireless","Shop & Service::Electronics Store",36.06405221001575,-115.24962902069092
+"4bb6bd6b2f70c9b61ef48530","Worldmark By Wyndham","Travel & Transport::Hotel",36.0998976212153,-115.21321687905797
+"4bb7dbd398c7ef3bd97c3002","Best Buy","Shop & Service::Electronics Store",36.064468501172755,-115.24379253387451
+"4bb8edf453649c74ae8247fb","Subway","Food::Sandwich Place",36.11528581989775,-115.29686479774003
+"4bb957761261d13a2795e998","Off the Strip","Food::Steakhouse",36.099604,-115.30724776666666
+"4bba0a653db7b7139acd229a","Levy's Bagels & Deli","Food::Bagel Shop",36.143336,-115.262985
+"4bba7eef3db7b713f567239a","Port Of Subs","Food::Sandwich Place",36.072357177734375,-115.2430419921875
+"4bba86837421a5939ef1c340","Smiths","Shop & Service::Food & Drink Shop",36.100971164610314,-115.22629431521125
+"4bbb292f935e95210bd12890","Bootleg Benny's","Nightlife Spot::Bar",36.10358478254033,-115.27953044346924
+"4bbb53ed935e952135072990","Prudential Americana Group, Realtors","Professional & Other Places::Office::Coworking Space",36.14275644938806,-115.25500602578143
+"4bbb72dcf1c5ef3b88fcc814","Smiths","Shop & Service::Food & Drink Shop",36.100971164610314,-115.22629431521125
+"4bbb97c43de8c9b61ff699ad","Shell Gas Station","Shop & Service::Gas Station / Garage",36.09221712107259,-115.29780238775461
+"4bbbb7903de8c9b6d1249aad","Sumo Sushi II","Food::Sushi Restaurant",36.055215,-115.283349
+"4bbbc2f1afe1b7130ba72f4b","Jackson's Bar and Grill","Nightlife Spot::Bar",36.115248,-115.224049
+"4bbbdd9d51b89c7445d9862a","Short Line Express Market","Shop & Service::Gas Station / Garage",36.059622,-115.279845
+"4bbbe488e4529521495e55a4","Straight Up Martini Lounge","Nightlife Spot::Bar",36.09860862494161,-115.29681849692452
+"4bbbf336e5b0d13ae4cd6e7c","Opa","Food::Greek Restaurant",36.142539978027344,-115.24243927001953
+"4bbbfb6251b89c742e03872a","Sushi Banzai","Food::Sushi Restaurant",36.10051727294922,-115.304443359375
+"4bbc00432d9ea5935a38a0ce","Terrible Herbst","Shop & Service::Gas Station / Garage",36.09974300364295,-115.29776187466493
+"4bbd3a8ba8cf76b0d6a0b1fd","Sushi Tower","Food::Japanese Restaurant",36.11478042602539,-115.30766296386719
+"4bbd7762a8cf76b091e1b1fd","Walgreens","Shop & Service::Drugstore / Pharmacy",36.12936739370234,-115.29753037119292
+"4bbe0b8f4e069c7432819fe3","DW Bistro","Food::New American Restaurant",36.077,-115.298566
+"4bbeb6c430c99c74d1415411","Vegas Hot! Yoga and Pilates Studio","Shop & Service::Gym / Fitness Center::Yoga Studio",36.08181033642762,-115.24360269878568
+"4bbf6840006dc9b6cf89fc3f","Jimmy John's","Food::Sandwich Place",36.14377975463867,-115.20653533935547
+"4bbfb41e2a89ef3b7069ef88","Circle K","Shop & Service::Gas Station / Garage",36.10730015077381,-115.26162207927841
+"4bbfe345abf49521588cbe93","Planet Beach Contempo Spa","Shop & Service::Spa / Massage",36.09520369,-115.29816627502441
+"4bc030784cdfc9b6509a9221","Calvary Chapel Spring Valley","Professional & Other Places::Spiritual Center::Church",36.081080681875264,-115.24693691269233
+"4bc0bcd5920eb7133f71192c","Wells Fargo","Shop & Service::Bank",36.115594,-115.242475
+"4bc0e3054cdfc9b6e4b29321","Mac Shack","Food::Italian Restaurant",36.05577145,-115.28124690055847
+"4bc0f62eb492d13a7343a560","Desert Breeze Aquatic Facility","Outdoors & Recreation::Pool",36.125258031471866,-115.2718162536621
+"4bc102aa920eb713ef0c1a2c","Slidin Thru Slider Truck","Food::Food Truck",36.115898189808156,-115.30001163482666
+"4bc10f862a89ef3bd0bff188","KOMP 92.3","Professional & Other Places::Building",36.114517,-115.28271687
+"4bc129484cdfc9b68a4b9421","Mastrioni's","Food::Italian Restaurant",36.129127502441406,-115.31466674804688
+"4bc170b9abf495217329c193","Foothills Lodge","Nightlife Spot::Bar",36.09955399607293,-115.30027946366538
+"4bc22f72f8219c741174b410","Ann's Salon","Shop & Service::Cosmetics Shop",36.12637281417847,-115.21944461
+"4bc353452a89ef3ba0d7f488","RTDNA Voting Booth @ Las Vegas Hilton","Professional & Other Places::Voting Booth",36.135574,-115.243693
+"4bc354b474a9a5934660d4f6","SK+G Public Relations","Professional & Other Places::Office::Coworking Space",36.090636066102746,-115.28642957534937
+"4bc37c79b492d13a52d2a860","Century 21 Solutions","Professional & Other Places::Office",36.126628,-115.280249
+"4bc3bdc3dce4eee13cbb719d","Westgate Flamingo Bay","Travel & Transport::Hotel",36.113754411099265,-115.2184444454174
+"4bc3c7da74a9a593b31ad5f6","Lovely Nails","Shop & Service::Salon / Barbershop",36.086205533333334,-115.22616273333334
+"4bc4de1af8219c74ff02b810","SK+G Public Relations","Professional & Other Places::Office::Coworking Space",36.090636066102746,-115.28642957534937
+"4bc525136936952146c78388","The Putt Park Miniature Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",36.07811656811263,-115.29812649227986
+"4bc528740a30d13adec0599c","Men's warehouse","Shop & Service::Clothing Store::Men's Store",36.06301925233913,-115.25091361076943
+"4bc52fe06a3e9c7481a4f548","Thai bbq","Food::Thai Restaurant",36.11287,-115.224408
+"4bc5e3a842419521bc2b031d","Chevron Station","Shop & Service::Gas Station / Garage",36.093235710990605,-115.20856236149449
+"4bc61ce3db8fa5935dc99b37","VONS","Shop & Service::Food & Drink Shop::Grocery Store",36.13112351431622,-115.27764357351525
+"4bc6855ff360ef3b93f1db2d","Sam's Club","Shop & Service::Food & Drink Shop::Grocery Store",36.124463528354234,-115.24869083382106
+"4bc68995db8fa593a2979c37","West Flamingo Park","Outdoors & Recreation::Athletic & Sport::Skate Park",36.11403993368723,-115.22800204110419
+"4bc6a3d704e8b7138962362d","Kobe Sushi Bar","Food::Sushi Restaurant",36.11596521309494,-115.29471180244497
+"4bc75403af07a593d7f67e2d","PR Plus","Professional & Other Places::Office",36.08766,-115.294588
+"4bc7cb2a0050b713197ab93b","Taco Bell","Food::Fast Food Restaurant",36.055973052978516,-115.2779769897461
+"4bc7d2898b7c9c74e34937cf","Durango Lodge","Nightlife Spot::Bar",36.128688307330656,-115.27979850769043
+"4bc8c4ddaf07a593039f812d","Arby's","Food::Fast Food Restaurant",36.12747727860944,-115.27906162102867
+"4bc91203fb84c9b6ff7c1a3e","Babies R Us","Shop & Service::Department Store",36.06436442859,-115.24486541748047
+"4bc963d0cc8cd13a9ba4bbcf","Roberto's Taco Shop","Food::Mexican Restaurant",36.10172274656223,-115.2977676622495
+"4bc9ac10cc8cd13a77eebbcf","PT's Pub - Decatur","Nightlife Spot::Bar",36.09211119166999,-115.20842341961425
+"4bc9fd05937ca59357cca692","The Dance Pointe","Arts & Entertainment::Performing Arts Venue::Dance Studio",36.109307,-115.295307
+"4bca56a30687ef3be7e7dbcc","Roberto's Taco Shop","Food::Mexican Restaurant",36.055945151387945,-115.28122630141809
+"4bcadd8ccc8cd13abe67becf","Giuseppe's Bar & Grille","Nightlife Spot::Bar",36.07868480710277,-115.27987193097199
+"4bcb9ae8937ca593fff9a992","Albertson's","Arts & Entertainment::Arcade",36.1163949195846,-115.3135847232851
+"4bcb9ebd0687ef3bc427decc","Hue Thai","Food::Thai Restaurant",36.12557696560875,-115.21174642945289
+"4bcc9a3d3740b713b2506465","Kirvin Doak Communications","Professional & Other Places::Office",36.1423,-115.264048
+"4bce1a3dc564ef3b8fa9edf0","AT&T","Shop & Service::Electronics Store",36.05320413485484,-115.27968092953391
+"4bce78f1ef1095214d478486","Golden Spoon","Food::Ice Cream Shop",36.05597812915557,-115.28119736194071
+"4bcf240e549676b05b9aace5","The Peds","Professional & Other Places::Medical Center",36.093809679268766,-115.2796519899118
+"4bcf7003a8b3a5935c38625f","Discount Tire","Shop & Service::Automotive Shop",36.14370386,-115.2356954
+"4bcfe88e41b9ef3b6c54f9e5","ampm","Shop & Service::Gas Station / Garage",36.11485540866852,-115.22535286
+"4bd1b1a95e0cce7268d8a184","Tahiti All-Suite Resort","Travel & Transport::Hotel::Resort",36.09970649649937,-115.21066188812256
+"4bd1f8ce046076b0f6ed7271","Dr Westerman's Office","Professional & Other Places::Medical Center::Doctor's Office",36.14195433883829,-115.2438458197544
+"4bd21e6177b29c7400098e82","Wingstop","Food::Wings Joint",36.10021942766684,-115.20984757098154
+"4bd257fb462cb7137946dc07","DOLLAR TREE","Shop & Service::Miscellaneous Shop",36.12258599636182,-115.24411209488366
+"4bd25a1fb221c9b6c99dd7d0","Chevron Station","Shop & Service::Gas Station / Garage",36.115121566815866,-115.2617609975266
+"4bd30d0d046076b0e5047571","Pep Boys Auto","Shop & Service::Automotive Shop",36.11345546887718,-115.22530440882429
+"4bd33692b221c9b64e26d9d0","Dunkin' Donuts","Food::Coffee Shop",36.09959568141973,-115.2411541127559
+"4bd3783841b9ef3bb34900e6","Rhodes Ranch Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",36.04781074667132,-115.27928156250913
+"4bd38b4741b9ef3ba27d00e6","Venicia Apartments","Professional & Other Places::Building",36.1236361636095,-115.29590984200904
+"4bd3940d9854d13ace33fe4d","Yogurtland","Food::Dessert Shop",36.11558604204564,-115.29967109048522
+"4bd3959d9854d13ae637fe4d","Geisha House","Food::Japanese Restaurant",36.0766859,-115.298625
+"4bd3a75c77b29c74e36f9182","7-Eleven","Shop & Service::Food & Drink Shop",36.114167,-115.24201504
+"4bd48f88cfa7b713bc5524da","Sears","Shop & Service::Electronics Store",36.11043717344262,-115.30768163453729
+"4bd4bf506798ef3bac52628d","GameStop","Shop & Service::Video Game Store",36.0636305809021,-115.250741
+"4bd4bfa74e32d13abed3bf80","Speedee Mart","Shop & Service::Gas Station / Garage",36.126577697407505,-115.31458013488366
+"4bd5aca24e32d13aaa33c180","Desert Audi","Shop & Service::Automotive Shop",36.14368,-115.230305
+"4bd5f09b6798ef3b4646648d","Bella Vita Pool and Spa","Outdoors & Recreation::Pool",36.11079974181287,-115.21130645107037
+"4bd5f67829eb9c74f14894e1","KFC","Food::Fast Food Restaurant",36.0877685546875,-115.24330139160156
+"4bd610a829eb9c74377c94e1","Chase Bank","Professional & Other Places::Building",36.14403513563017,-115.20744503547276
+"4bd729797b1876b087c48d86","Hallmark","Shop & Service::Gift Shop",36.062981,-115.24759
+"4bd73ba50b779c7437b804a0","Rebel Gas Station & Convenience Store","Shop & Service::Gas Station / Garage",36.143743,-115.27859758333334
+"4bd78291f645c9b6342fa6e0","Villa Pizza","Food::Pizza Place",36.12819290161133,-115.27972412109375
+"4bd797def645c9b65666a6e0","Kobe Sushi","Food::Sushi Restaurant",36.090911865234375,-115.24681091308594
+"4bd8a36bf645c9b68c91a8e0","Roma Deli & Restaurant","Food::Italian Restaurant",36.12533187866211,-115.2200927734375
+"4bd8ca2911dcc92891d4f733","Surangs Thai Kitchen","Food::Thai Restaurant",36.089691162109375,-115.29788970947266
+"4bd8d99d11dcc9280b21f833","Del Taco","Food::Mexican Restaurant",36.09453201293945,-115.29682159423828
+"4bd8ed0711dcc928c373f833","Burlington Coat Factory","Shop & Service::Clothing Store",36.143125143340264,-115.22291935838095
+"4bd8fcdee914a5939c6755fa","Best Buy","Shop & Service::Electronics Store",36.064468501172755,-115.24379253387451
+"4bda052d3904a5931cb3449e","State of Nevada Department of Motor Vehicles","Professional & Other Places::Government Building",36.11560873,-115.271054
+"4bda78b53904a5933a98469e","Roberto's Taco Shop","Food::Mexican Restaurant",36.12899167027543,-115.27974459669309
+"4bdacb4e63c5c9b6cef02468","The Park... Walking the dawg","Outdoors & Recreation::Park",36.05989685604094,-115.2891208894955
+"4bdb54263904a593aad7499e","Chipotle","Food::Mexican Restaurant",36.14406967163086,-115.20641326904297
+"4bdc70bf3904a5938d304e9e","711","Shop & Service::Food & Drink Shop",36.114871,-115.2244645357132
+"4bde0ea8e75c0f47d0c0c603","DOLLAR TREE","Shop & Service::Convenience Store",36.12514606,-115.29780555
+"4bdefbad6198c9b6ca8a15ff","Jiffy Lube","Shop & Service::Automotive Shop",36.110948,-115.27850358333333
+"4bdf6c7f6198c9b65e4217ff","Pumi Express","Food::Chinese Restaurant",36.069022,-115.2986490726471
+"4be228c9b02ec9b6e5724cc0","Big 5 Sporting Goods","Shop & Service::Sporting Goods Shop",36.11701726913452,-115.26220858097076
+"4be23502f07b0f477417f543","Marco's Pizza","Food::Pizza Place",36.054962158203125,-115.28340148925781
+"4be3c76fcbdbef3b72a260d8","Taco Bell","Food::Fast Food Restaurant",36.101384,-115.297778
+"4be4cda9d4f7c9b628bf2420","O'Reilly Auto Parts","Shop & Service::Automotive Shop",36.126004,-115.22033
+"4be4e43e910020a13a71d214","McDonald's","Food::Fast Food Restaurant",36.07119290965051,-115.27878958792842
+"4be51972d4f7c9b683152520","Desert Paradise Resort","Travel & Transport::Hotel::Resort",36.096055688320675,-115.2091181284027
+"4be5cfc87e2a76b037d81c9b","jcpenney","Shop & Service::Department Store",36.107852,-115.306068
+"4be616bfbcef2d7f5bcf04e5","Thai Wasabi","Food::Asian Restaurant",36.14316177368164,-115.25357818603516
+"4be691cfd4f7c9b666e12620","Jack in the Box","Food::Fast Food Restaurant",36.12649083137512,-115.20912230014801
+"4be6ff07d4f7c9b66e4f2720","Smiths","Shop & Service::Food & Drink Shop::Grocery Store",36.11580355731955,-115.29516902582424
+"4be85eb4947820a19dd0b4db","Subway","Food::Sandwich Place",36.055884,-115.268044
+"4be8aee59a54a593e9530a11","GNC","Shop & Service::Drugstore / Pharmacy",36.115905467567025,-115.29615292193098
+"4be9b15d61aca59387dd8200","Popeyes","Food::Southern / Soul Food Restaurant",36.061738,-115.2432943
+"4be9c347415e20a14d3ae4bb","Subway","Food::Sandwich Place",36.113834381103516,-115.22502899169922
+"4be9cc9e62c0c9282617e0d4","Wendys","Food::Fast Food Restaurant",36.1170654296875,-115.27965545654297
+"4beb496d6295c9b652978708","Chase Bank","Shop & Service::Bank",36.10116006661832,-115.22561701117887
+"4bec5711976ac9282cde600b","WestStar Credit Union","Shop & Service::Bank",36.069282553840594,-115.27429811320286
+"4bec58d5b68520a110fc1187","Supermex Restaurant & Cantina","Food::Mexican Restaurant",36.071414947509766,-115.27874755859375
+"4bec640cfd60a5936cee3af1","UMC Quick Care","Professional & Other Places::Medical Center::Doctor's Office",36.11214065551758,-115.2417984008789
+"4becb40c2cf820a1c828b91c","Colombian Cuisine","Food::Burrito Place",36.143104553222656,-115.20722961425781
+"4becce2d6d5b9521881eab4e","Sweet Tomatoes","Food::Salad Place",36.11525938,-115.298287
+"4bedaf601059d13a89ef51d8","American Cancer Society","Professional & Other Places::Office",36.07641,-115.24398
+"4bede00d946c0f472617a363","Shell Gas Station","Shop & Service::Gas Station / Garage",36.11436427053908,-115.2705358741402
+"4bede054946c0f47a017a363","J&J Health Foods","Shop & Service::Miscellaneous Shop",36.11457109451294,-115.30442371666666
+"4bef047bf2712d7f992dfbd8","Flamingo-Buffalo Dog Park","Outdoors & Recreation::Dog Run",36.11550862103059,-115.25818383283534
+"4bef25d8d1b7d13af366cdec","Melons smoothies & more!","Food::Juice Bar",36.07121276855469,-115.24296569824219
+"4bf15248d258d13a6649f940","Victoria Fertitta Middle School","College & University::Student Center",36.08985314034553,-115.30875808860972
+"4bf1ee6252bda593992cb2b7","Chuck E. Cheese's","Food::Pizza Place",36.11343775477105,-115.30781474465425
+"4bf41122e5eba593ac321f90","Tropicana West Chiropractic","Professional & Other Places::Medical Center::Doctor's Office",36.09881766272567,-115.24082994862674
+"4bf44a2d6a31d13a1396952e","Smart & Final","Shop & Service::Food & Drink Shop::Grocery Store",36.14278192321203,-115.27615027563277
+"4bf47d4a706e20a1ca70a998","Smarty's","Travel & Transport::General Travel",36.122607654071764,-115.27944362455241
+"4bf48124ff90c9b6445d5528","Rhodes Ranch Golf Club","Outdoors & Recreation::Athletic & Sport::Golf Course",36.04514333171557,-115.28666496276855
+"4bf57e650c74c9b6502b1828","Eyebrows 'R' Us","Shop & Service::Salon / Barbershop",36.08455,-115.24143
+"4bf5816d0c74c9b69c311828","Subway","Food::Sandwich Place",36.10035705566406,-115.3147964477539
+"4bf5cb904d5f20a1b83498fe","Elaine Studio Salons","Shop & Service::Salon / Barbershop",36.058351,-115.243682
+"4bf5f3275efe2d7f4b6f6634","Bazic Bar & Restoyaky","Nightlife Spot::Karaoke Bar",36.125570006976645,-115.21139144897461
+"4bf624f094b2a593410eadee","Mcdonalds","Food::Fast Food Restaurant",36.0940055847168,-115.29426574707031
+"4bf7fe865efe2d7f9edc6934","Al Phillips","Shop & Service::Laundry Service",36.05447627362518,-115.280983209724
+"4bf8188d5efe2d7f8f196a34","Blo Salon","Shop & Service::Cosmetics Shop",36.114009,-115.280142
+"4bf96388b182c9b676d2785a","Mega Cafe","Food::Café",36.115535736083984,-115.31369018554688
+"4bf992dc4a67c928cf1b27cf","Nanay Gloria","Food::Fast Food Restaurant",36.12609386444092,-115.223262
+"4bfaa2705efe2d7f96df6d34","CBS Radio","Professional & Other Places::Office",36.143302033333335,-115.236787
+"4bfae5fe1c1da593fc187e0e","China Star Buffet","Food::Chinese Restaurant",36.106449127197266,-115.20801544189453
+"4bfba1e9ab180f471008b4ce","7-Eleven","Shop & Service::Gas Station / Garage",36.10019194910923,-115.24353504180908
+"4bfbe78cd2b720a19e90336a","Organelle Salon & Spa","Shop & Service::Salon / Barbershop",36.11202499386498,-115.27848861485758
+"4bfbf47ad931c928586f838b","Resort At The Lakes","Professional & Other Places::Building",36.12041420925401,-115.30961461925726
+"4bfc14aa1be376b0c422f8b4","Advanced Orthopedics & Sports Medicine","Professional & Other Places::Medical Center::Doctor's Office",36.05712750627445,-115.27516052771396
+"4bfc18eca118a59324f66db6","50's Diner","Food::Breakfast Spot",36.08647537231445,-115.22595977783203
+"4bfc3dd3aae9a593bcd8f2fc","Terrible Herbst","Shop & Service::Gas Station / Garage",36.114622521133995,-115.27875486028132
+"4bfc500f1be376b04479f8b4","Family Music Center","Shop & Service::Music Store",36.14271965211428,-115.26932037175057
+"4bfcc8a34cf820a16090ebf4","Tangerine Hookah Lounge","Nightlife Spot::Hookah Bar",36.11247733,-115.24251563
+"4c002e28ca1920a196fced81","Cold Stone Creamery","Food::Dessert Shop",36.053097,-115.279879
+"4c007ba5df6c0f47a5838b22","Yogis Teriyaki","Food::Japanese Restaurant",36.101398,-115.298205
+"4c008a409cf52d7f870314e7","Wingstop","Food::American Restaurant",36.12525208004049,-115.24607441980463
+"4c013ee2cf3aa59334b1ccb0","Tire Works","Shop & Service::Automotive Shop",36.10041151489569,-115.30150063159056
+"4c01467694c1c9b6e203bb5f","Desert Breeze Aquatic Facility","Outdoors & Recreation::Pool",36.125258031471866,-115.2718162536621
+"4c01ae56f99620a1b6fd2404","Walgreens","Shop & Service::Drugstore / Pharmacy",36.114167951808376,-115.261598926231
+"4c02399dcbd876b0e007f143","Bazic Bar & Restoyaky","Nightlife Spot::Karaoke Bar",36.125570006976645,-115.21139144897461
+"4c05539cc36cef3b8501210e","T.G.I. Friday's","Food::American Restaurant",36.143714448497896,-115.20740032196045
+"4c06a7240e0a2d7fc32cec0c","Felipito's Mexican Food","Food::Mexican Restaurant",36.09752655029297,-115.20858764648438
+"4c06fb102e80a593520475f9","Acerno Villas Apts.","Professional & Other Places::Building",36.06402742223336,-115.30014635028061
+"4c08138fa1b32d7f2f7395f0","Wells Fargo","Shop & Service::Bank",36.124622,-115.22537648677826
+"4c08569fffb8c9b6ba2e6861","Rhythm Kitchen Seafood and Steaks","Food::Cajun / Creole Restaurant",36.07313858961618,-115.20845815509004
+"4c0a2917ffb8c9b6c9176b61","San Croix Apts","Residence::Residential Building (Apartment / Condo)",36.12635994239957,-115.26482297145904
+"4c0a95fcbbc676b0ff164ad5","Infiniti Creations","Shop & Service::Salon / Barbershop",36.133533,-115.278542
+"4c0a9fbf340720a1a2c38693","KFC","Food::Fried Chicken Joint",36.06076431274414,-115.2791748046875
+"4c0aac787e3fc9286a0bf482","Pool @ Acerno Villas","Outdoors & Recreation::Pool",36.06731919944125,-115.30382141601841
+"4c0ac775a1b32d7fd5f899f0","Relax Nails & Spa","Shop & Service::Cosmetics Shop",36.0636185710516,-115.250852108002
+"4c0af6e6bbc676b02cdc4ad5","Cigars & Smokes","Shop & Service::Smoke Shop",36.05436623096466,-115.28076946735382
+"4c0c4ebbbbc676b0f4f54cd5","Spring Valley Baptist Church","Professional & Other Places::Spiritual Center::Church",36.132728,-115.243223
+"4c0d05bc2466a5934ae47621","Boyd Gaming Corporation","Professional & Other Places::Office",36.0718934321463,-115.24434363828959
+"4c0d3dac336220a17c6dca77","Savers","Shop & Service::Thrift / Vintage Store",36.142588933333336,-115.20672053
+"4c0d6dd07189c92870fdd6b6","City Stop","Shop & Service::Food & Drink Shop::Liquor Store",36.097496,-115.208749
+"4c0d8bcb98102d7f1d63e206","Rebel Gas Station","Shop & Service::Gas Station / Garage",36.11498887817398,-115.23878654913854
+"4c0d8fac2466a593b2d07721","AT&T","Shop & Service::Electronics Store",36.05320413485484,-115.27968092953391
+"4c0d9b6cb1b676b01ceae086","U.S. Bank","Shop & Service::Bank",36.0537109375,-115.28091430664062
+"4c0e9fd7c6cf76b06e098151","O'Reilly Auto Parts","Shop & Service::Automotive Shop",36.12797605207825,-115.2793625935414
+"4c0eb03d2466a593a6777921","Desert Breeze Dog Park","Outdoors & Recreation::Dog Run",36.123092773522096,-115.27371352213376
+"4c0ef34f1281c9b60fed1d1d","Little Ceasars","Food::Pizza Place",36.100982666015625,-115.24373626708984
+"4c106f02ce57c928c1f681d2","Bugsy's Supper Club","Nightlife Spot::Pub",36.143562,-115.22669
+"4c11246d6b7e2d7f02c52835","West Tropicana Medical Center","Professional & Other Places::Medical Center::Doctor's Office",36.09914064,-115.240149
+"4c12eb80a1010f475dd64918","Carvel Ice Cream (Ft Apache)","Food::Ice Cream Shop",36.09553909301758,-115.29621124267578
+"4c13ffffa1010f4788b54b18","R Club Gym @ Rhodes Ranch","Shop & Service::Gym / Fitness Center::Gym",36.04243237612161,-115.29215944173458
+"4c141243583c9c74f4893fa4","The Muse","Nightlife Spot::Nightclub",36.142314,-115.207458
+"4c148282b7b9c928e58dab37","Rounders","Nightlife Spot::Bar",36.10791546666667,-115.261616
+"4c163a8182a3c9b65aeffff8","Red Bull Distributing Co.","Professional & Other Places::Office",36.067774613990395,-115.25443876354731
+"4c16754196040f4750df72a5","St Rose San Martin Hospital","Professional & Other Places::Medical Center::Hospital",36.05674597265218,-115.27214496044256
+"4c16cd65cd4bc9b6e3074feb","Jiffy Lube","Shop & Service::Automotive Shop",36.057336,-115.279604
+"4c17a24830d30f4706cb36a9","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",36.137879166407544,-115.26068437947748
+"4c17e7ce1436a593ac8a8c75","Monta Japanese Noodle House","Food::Ramen /  Noodle House",36.12700267963897,-115.20966810510691
+"4c1804294ff90f47c2cc0d49","Jersey Mike's Subs","Food::Sandwich Place",36.05615777710565,-115.281127907184
+"4c19830c98f4a593084c00f6","Tropical Smoothie","Food::Juice Bar",36.061622619628906,-115.27745819091797
+"4c1b9c20eac020a1691945c2","Tonic II Salon","Shop & Service::Salon / Barbershop",36.1433,-115.264605
+"4c1bacfc3855c9b6c466cc71","Tropical Smoothie Cafe","Food::American Restaurant",36.114212,-115.30863225460052
+"4c1bd7498b3aa59331e2975f","Bank of America","Shop & Service::Bank",36.12403,-115.22453
+"4c1d4d38b9f876b03d6b7d46","Carl's Jr","Food::Fast Food Restaurant",36.12720489501953,-115.2799301147461
+"4c1f9276fcf8c9b672d6ae0b","99 Cents Only","Shop & Service::Department Store",36.098631555046865,-115.29599905014038
+"4c1fc389e923ef3bddcf4e54","KZ Portraits","Professional & Other Places::Building",36.073613,-115.24232
+"4c2128737e85c928ca0fba21","Joe Heck For Congress","Professional & Other Places::Office",36.06700089158646,-115.25293350219727
+"4c224df213c00f47264687de","Eyedentity","Professional & Other Places::Building",36.10125083046269,-115.31422132409917
+"4c22683999282d7f1f1367b0","O'Aces Bar & Grill","Food::American Restaurant",36.09891364639267,-115.20829026692151
+"4c23683e13c00f4794f388de","Bikram Yoga Westside","Shop & Service::Gym / Fitness Center::Yoga Studio",36.122145,-115.31436173
+"4c23b7a2f1272d7f74e181c5","Club De Soléil","Travel & Transport::Hotel::Resort",36.09968509062964,-115.21618091406447
+"4c23c0eff7ced13a8db8216d","99 Cents Only","Shop & Service::Miscellaneous Shop",36.12526535,-115.25010108
+"4c24b8dcb7b8a5935ae43ce8","Speedee mart","Shop & Service::Gas Station / Garage",36.08557075682218,-115.3069987208547
+"4c24f7ecf1272d7f1ef483c5","Bank Of America","Shop & Service::Bank",36.09958513287826,-115.29672861099243
+"4c2523a9905a0f47e8fc6060","Wells Fargo","Shop & Service::Bank",36.10057923,-115.312636
+"4c25533ff1272d7f1dac84c5","Nevada State Bank/Russell and Fort Apache Branch","Shop & Service::Bank",36.08459094935753,-115.29681980609894
+"4c255476f1272d7fa6ae84c5","Party City","Shop & Service::Arts & Crafts Store",36.062321,-115.250919
+"4c277a275c5ca593fdcd47fe","Unity Church Of Las Vegas","Professional & Other Places::Spiritual Center::Church",36.14254653453827,-115.26908040046692
+"4c28ce413492a5938ae8b728","Spectrum Surveying & Engineering","Professional & Other Places::Office",36.07323975586771,-115.28666108716716
+"4c2937aded0ac9b6e67d61aa","In Bed With Katy","Arts & Entertainment::General Entertainment",36.09596633911133,-115.2284164428711
+"4c2942573492a5930ab7b828","Gentle Dental Spanish Trail","Professional & Other Places::Medical Center::Dentist's Office",36.08871937,-115.24338125
+"4c2a4dd5c758e21e176f3a3f","7-Eleven","Shop & Service::Convenience Store",36.14383574392117,-115.24239778518677
+"4c2a8d868ef52d7f461630ba","CARL'S JR. 1101820","Food::Fast Food Restaurant",36.05902862548828,-115.24288177490234
+"4c2b9429ae6820a1860a1843","Jamaican Restaurant","Food::Caribbean Restaurant",36.114620208740234,-115.24281311035156
+"4c2d7794260bc928ea241ad3","Sicily's Pizza","Food::Pizza Place",36.12501745,-115.27963757514954
+"4c2e747aed37a5934ca36503","Sports Clips","Shop & Service::Salon / Barbershop",36.05682615,-115.28
+"4c2f6959213c2d7f53c4305d","Water Wings Swim School","College & University::College Gym",36.09856490558132,-115.29981646033937
+"4c2f964d213c2d7f4224315d","Office max","Shop & Service::Miscellaneous Shop",36.142156349994046,-115.20736977502837
+"4c33a4cf09a99c7434e90b2a","Burger King","Food::Fast Food Restaurant",36.09401321411133,-115.29678344726562
+"4c33b0e2452620a1f003240f","Keller Williams Realty Las Vegas","Professional & Other Places::Office::Coworking Space",36.13336135860996,-115.27795033536552
+"4c34272c7cc0c9b652f2f29a","Jack in the Box","Food::Fast Food Restaurant",36.10068130493164,-115.29633331298828
+"4c343f3e452620a104d3240f","Desert Paradise Resort","Travel & Transport::Hotel::Resort",36.096055688320675,-115.2091181284027
+"4c3498d03ffc9521dae990f5","7-Eleven","Food::Deli / Bodega",36.084590407542585,-115.30621163201225
+"4c36d6ea93db0f4774c61e92","@loLinck s Head","Arts & Entertainment::General Entertainment",36.105186462402344,-115.28812408447266
+"4c37802b3849c92806d2bdb1","Teriyaki House","Food::Asian Restaurant",36.076507568359375,-115.24313354492188
+"4c38b260ae2da593282001c6","Throwdown Training Center Las Vegas","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",36.0696253009251,-115.255764303275
+"4c38d12c2c8020a1028e8b00","Wells Fargo","Shop & Service::Bank",36.115233346964956,-115.29745513252699
+"4c38e85c93db0f4723832292","Vip Nails","Shop & Service::Cosmetics Shop",36.07703192939212,-115.24316855372761
+"4c39f98aae2da593ef5a03c6","Denny's","Food::American Restaurant",36.10060142,-115.29574893
+"4c3a3f3a0a71c9b672ef43c9","Red Rock Airport Shuttle Bus","Travel & Transport::Bus Station::Bus Line",36.11507705,-115.30228975
+"4c3cafc94bc9a593b503d371","T-Mobile","Professional & Other Places::Building",36.0968862,-115.29666423797607
+"4c3cc8bab169c9b607304668","McDonalds","Food::Fast Food Restaurant",36.12520217895508,-115.22225189208984
+"4c3d0287a97bbe9a9c57fbdd","Findlay Kia","Shop & Service::Automotive Shop",36.143800413746476,-115.21410261900775
+"4c3de0017c1ee21e6c7d8e71","Las Vegas Athletic Club","Shop & Service::Gym / Fitness Center::Gym",36.11297073618556,-115.3019809948942
+"4c3e06701ef0d13a65b99180","Smile Designers","Professional & Other Places::Medical Center::Dentist's Office",36.11549298,-115.21924916
+"4c3f5314ce54e21e3ae2071a","SportClips","Shop & Service::Cosmetics Shop",36.11140112244657,-115.29735095588224
+"4c3fea91d7fad13aa64f05da","Redbox","Arts & Entertainment::General Entertainment",36.09981918334961,-115.24378967285156
+"4c3ff1a4e26920a148445ce7","IHOP","Food::Breakfast Spot",36.12323752032328,-115.24348692682926
+"4c411e00ff711b8d01901105","A Z Liquor","Shop & Service::Food & Drink Shop::Liquor Store",36.09983503818512,-115.306505
+"4c41908ecc410f478b5bab61","Redbox","Arts & Entertainment::General Entertainment",36.0848503112793,-115.30609130859375
+"4c41d091520fa5939425caac","Team Beachbody","Shop & Service::Gym / Fitness Center::Gym",36.143034,-115.251469
+"4c4222723735be9a2b8d19a4","Mixers Ice Cream","Food::Dessert Shop",36.08512496948242,-115.242919921875
+"4c43d71e429a0f479e02481e","Smiths","Shop & Service::Food & Drink Shop",36.100971164610314,-115.22629431521125
+"4c43dcb8f799e21e031fada2","O'Aces Bar & Grill","Nightlife Spot::Bar",36.07560290850767,-115.28989065889722
+"4c444d4af799e21e8b93ada2","Spring Valley High School","Professional & Other Places::School::High School",36.1204824058135,-115.26030814110709
+"4c446b2336d6a5938c696aa8","Tanaka Elementary School","College & University::College Academic Building",36.062397,-115.292295
+"4c449677dcd61b8d318d7b56","Kelly Cardenas Salon","Shop & Service::Salon / Barbershop",36.07915333696882,-115.29837535802274
+"4c45be00f799e21eb598afa2","The Cave Dwelling","College & University::College Lab",36.05429041832684,-115.29005527496338
+"4c45fec0342c1b8d2c46b589","Nevada State Bank/Durango and 215 South Branch","Shop & Service::Bank",36.060600377654666,-115.278639793396
+"4c460ed5f5aee21ea43e1758","Insight Eye Care -Optometry","Professional & Other Places::Medical Center::Doctor's Office",36.084776,-115.298689
+"4c468dbc76d72d7f22a13a4d","Purgatory","Nightlife Spot::Other Nightlife",36.128171372759276,-115.28486686603401
+"4c474a75417b20a1441ddda9","Blue Flame BBQ","Food::BBQ Joint",36.111385345458984,-115.2795181274414
+"4c4791c576d72d7f5bb43d4d","Famous Nails","Shop & Service::Cosmetics Shop",36.11550713099505,-115.2803523280064
+"4c47a9c0972c0f473bb02421","Vons Parking Lot Valet","Shop & Service::Automotive Shop",36.054060561460695,-115.28074264526367
+"4c4912929f2ad13a47a8cb52","Zaytoon","Food::Middle Eastern Restaurant",36.122334632324225,-115.27962305028696
+"4c4a4e6a46240f471cec9df1","Shell Gas Station","Shop & Service::Gas Station / Garage",36.11422493214859,-115.22449395682426
+"4c4b3c7f9c8d2d7f697fb16a","Joe's Crab Shack","Food::Seafood Restaurant",36.114322662353516,-115.30635833740234
+"4c4b64d19c8d2d7fffcbe46a","Laurelwood Park","Outdoors & Recreation::Park",36.11034085,-115.23783532
+"4c4b9dec959220a1937dc80f","Straight Up Gaming And Martini Lounge","Food::American Restaurant",36.089481353759766,-115.29524230957031
+"4c4ce3dd13d120a19a730901","CVS Pharmacy","Shop & Service::Drugstore / Pharmacy",36.12947471313433,-115.26078278020685
+"4c4e29dbd667d13a9fb8f49f","Big O Tires","Shop & Service::Automotive Shop",36.14344722,-115.267098
+"4c5096fa250dd13aed53d47b","Verizon Wireless","Shop & Service::Electronics Store",36.06405221001575,-115.24962902069092
+"4c50cd639d642d7fac357cdc","Sharron Angle Campaign HQ","Professional & Other Places::Building",36.14345592857143,-115.25701015
+"4c50e1d4927ab7133508530d","significance dental specialists","Professional & Other Places::Medical Center::Dentist's Office",36.07907565,-115.296784
+"4c53a875728920a1e4027281","Torino's Sports Pub & Restaurant","Nightlife Spot::Bar",36.115264,-115.2177653
+"4c5405d7479fc9283f406d92","Shell Gas Station","Shop & Service::Gas Station / Garage",36.14401131722488,-115.2086260431691
+"4c5752177329c92858a78e80","Walgreens","Shop & Service::Drugstore / Pharmacy",36.070525113523594,-115.29835799530304
+"4c57675530d82d7f44dfd962","Acerno Villas Mailroom","Professional & Other Places::Post Office",36.063682,-115.299964
+"4c58bcd5d3aee21eb6b16655","Chopstix Express","Food::Chinese Restaurant",36.14270782470703,-115.20849609375
+"4c59ec4b04f9be9a448bf060","Dr Hollingshead DDS","Professional & Other Places::Medical Center::Dentist's Office",36.12590459,-115.23161172
+"4c5a295c7b0495215f31891f","PT's Gold","Nightlife Spot::Bar",36.06873535853017,-115.26018619537354
+"4c5a860fec2520a18bae5112","Madhouse Coffee","Food::Coffee Shop",36.12986373901367,-115.2755355834961
+"4c5b5f9c94fd0f471cf4c545","Chase Bank","Shop & Service::Bank",36.114700892078034,-115.30870600220936
+"4c5c6673d25320a19917c37a","Mantra Masala","Food::Indian Restaurant",36.0561769540323,-115.27730941772461
+"4c5c7e196147be9a0e6f8f09","Du Barry Fashions","Shop & Service::Clothing Store::Boutique",36.12890595,-115.208928
+"4c5d393d6147be9afa739109","Rapid Ca$h","Professional & Other Places::Building",36.14400879,-115.208943
+"4c5d95322815c9284b2fb567","The Cracked Egg","Food::Breakfast Spot",36.07184982299805,-115.24365234375
+"4c5fb28bde6920a190769464","Spring Mountain Treatment Center","Professional & Other Places::Medical Center",36.12606392411908,-115.24585445479372
+"4c607899de6920a1d2089664","Meadowsbank","Shop & Service::Bank",36.08995529563259,-115.28710527
+"4c61a77779d1e21e623dd415","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",36.062399035649776,-115.2480772519745
+"4c633b5d86b6be9a48288e34","Jiffy Lube","Shop & Service::Automotive Shop",36.12725556,-115.242559
+"4c633def79d1e21e8d3ad815","Scooters Pub","Nightlife Spot::Pub",36.07591564476708,-115.24219125509262
+"4c648319e0c4be9a31c18558","Beyond Hair & Nails","Shop & Service::Cosmetics Shop",36.057777404785156,-115.2784423828125
+"4c6525ad5e61d13a7e12bb85","Lowe's Home Improvement","Shop & Service::Hardware Store",36.09714887595559,-115.29471759008695
+"4c65b07aaebea5936a1b71d0","Ryland Homes","Professional & Other Places::Office",36.083644410119135,-115.28611703411966
+"4c65dbbbe75ac9285b1af6da","DOLLAR TREE","Shop & Service::Miscellaneous Shop",36.12258599636182,-115.24411209488366
+"4c66cf7c7abde21e2d7d6468","Xpress Cuts","Shop & Service::Salon / Barbershop",36.09516,-115.298087
+"4c6c4eabe13db60c15b2d5b1","Republican Victory Headquarters","Professional & Other Places::Office::Coworking Space",36.06802,-115.252
+"4c6c70fce6b7b1f74e1fa78e","Pool Side @ Viviani","Outdoors & Recreation::Pool",36.084158394210114,-115.30266165752381
+"4c6d830d4d24b60ca013d6d8","Buffalo Bistro","Food::Fast Food Restaurant",36.07290267944336,-115.26268768310547
+"4c6d9603920bef3b22894852","McDonalds","Food::Fast Food Restaurant",36.09994888305664,-115.29763793945312
+"4c6e4445a437224b116f2fb1","Brooksy's","Nightlife Spot::Bar",36.1145243,-115.29442287
+"4c6f1ce1d97fa143f022f2ca","Massage Envy 8494 W. Flamingo Rd.","Professional & Other Places::Building",36.115767,-115.2986405
+"4c6f307afa49a1cdf66ba2e3","Lowe's Home Improvement","Shop & Service::Hardware Store",36.09714887595559,-115.29471759008695
+"4c73096f13228cfa53c72c65","St Rose Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",36.056815876251655,-115.26914672816274
+"4c740c913adda1439c8603af","Durango High School","Professional & Other Places::School::High School",36.08778236736689,-115.2467227368288
+"4c74a7581b30a0936f66ed09","Chi Ultra Lounge and Karaoke Bar","Nightlife Spot::Lounge",36.12792125,-115.22412917
+"4c756af42db5236a6af4bc79","Thunderbird cleaners","Shop & Service::Laundry Service",36.10032096994538,-115.30539560394773
+"4c758379b474a1cd567eb9bf","O'Reilly Auto Parts","Shop & Service::Automotive Shop",36.10040531666667,-115.30032813549042
+"4c75e9fab474a1cd4ecebabf","Fuku Burger (Durango & Flamingo)","Food::Burger Joint",36.10921859741211,-115.28559875488281
+"4c785f8781bca0933f07fa14","The Beat Dance Academy","Arts & Entertainment::Performing Arts Venue::Dance Studio",36.11492485468455,-115.28739034825716
+"4c7971dba8683704fea7104d","Alamo 100% Hand Car Wash","Shop & Service::Car Wash",36.08462632869319,-115.24376477945253
+"4c7998f8df08a1cdcf5fdb5d","R club pool and waterslides","Outdoors & Recreation::Pool",36.04256361666667,-115.292779
+"4c7d39095af8b60c29ea8e10","Willow Springs Dental","Professional & Other Places::Medical Center::Dentist's Office",36.127388483333334,-115.314566
+"4c7d7b23d65437049685c0a2","Just Face it Med Spa","Shop & Service::Spa / Massage",36.14400902277195,-115.27894020080566
+"4c7e5ee35af8b60c06349210","Roy's Liquor","Shop & Service::Food & Drink Shop::Liquor Store",36.12882834370187,-115.31460285186766
+"4c7e775ad598a093fdd4c562","Hayes Elementary School","College & University::General College & University",36.1228829924119,-115.302617619802
+"4c7e986e171b224bf1540eb1","West Flamingo Liquor Store","Shop & Service::Food & Drink Shop::Liquor Store",36.113618824215216,-115.26186518617193
+"4c7ff07ed8086dcb19495f52","Keller Williams Realty Las Vegas","Professional & Other Places::Building",36.116149,-115.299875
+"4c7ffd69d4e23704df945088","Spring Valley Baptist Education Center","College & University::College Classroom",36.13267301,-115.2437506
+"4c82f1a92f1c236a9ce73e43","The Pool at Tesora","Outdoors & Recreation::Pool",36.07302487563364,-115.29944605717627
+"4c848ebf2f1c236a73644d43","Inspiration Mountain","Outdoors & Recreation::Hiking Trail",36.05090321430484,-115.28675079345703
+"4c85800ad4e23704ad9e8388","CMT Cigars","Shop & Service::Smoke Shop",36.143444,-115.219123
+"4c86749ad6ebbfb771b267a4","Desert Breez Soccer Complex","Outdoors & Recreation::Other Great Outdoors",36.12711869349085,-115.27553674805623
+"4c86a3c374d7b60cdee1a5d8","Barry Levinson","Professional & Other Places::Office",36.13851249217987,-115.24230122566223
+"4c87c243cedc224b9b3a7fb6","Excellent Nails & Spa","Shop & Service::Salon / Barbershop",36.07921263809213,-115.29852004731546
+"4c87ff62da5da1cd928a30e9","Ulta Beauty","Shop & Service::Cosmetics Shop",36.06241744777487,-115.24984274364678
+"4c8857cf97828cfa7e939baa","Fukuburger on wed nights","Food::Food Truck",36.11486053466797,-115.27894592285156
+"4c885979584c76b0cad5e958","Clinical Neurology Specialists of Nevada","Professional & Other Places::Medical Center::Doctor's Office",36.114348363869695,-115.25977561832691
+"4c88f5def6c69c7498738e3f","Tesora Apartments","Professional & Other Places::Building",36.0728931527349,-115.299995874211
+"4c89c3c33dc2a1cd3451a732","Del Taco","Food::Mexican Restaurant",36.05781555175781,-115.24365234375
+"4c8a909e3dc2a1cd6915ae32","East West Pizza","Food::Pizza Place",36.09617233276367,-115.29741668701172
+"4c8ab4636418a1432f5de2ce","Tilly's","Shop & Service::Clothing Store",36.062371135027405,-115.24946649216207
+"4c8be54a5e048cfa2cc9c7cd","St Rose San Martin ER","Professional & Other Places::Medical Center::Emergency Room",36.058564,-115.27116206082627
+"4c8d419fed3ab60cecf96e21","Dress Barn","Shop & Service::Clothing Store::Women's Store",36.06241719281964,-115.25047368742415
+"4c915878238c6dcb4659bf55","Thrifty Ice Cream @ smarty's gas station","Food::Dessert Shop",36.12275183200836,-115.279564
+"4c925f131adc370411fd37d1","Nail Pro","Shop & Service::Spa / Massage",36.099292550995514,-115.22631168196207
+"4c95620258d4b60c85183229","Grazziano's","Food::Pizza Place",36.12975311279297,-115.27476501464844
+"4c98df56b6ee236affdbaba7","Nevada Imaging Centers","Professional & Other Places::Medical Center",36.089238,-115.24348139762878
+"4c9a839c78ffa093da1a6d75","UMC Quick Care £","Professional & Other Places::Medical Center::Emergency Room",36.106188469288355,-115.24320328535445
+"4c9a9dc6d4b1b1f76aefd135","Crossvegas 2010","Arts & Entertainment::Racetrack",36.126461029052734,-115.27806854248047
+"4c9d3a6c0e9bb1f7ce58db5f","St. John The Baptist Greek Orthodox Church","Professional & Other Places::Spiritual Center::Church",36.09190744918823,-115.22882406177553
+"4c9faa610e9bb1f77a83f25f","Greek Festival","Arts & Entertainment::General Entertainment",36.09105682373047,-115.22775268554688
+"4ca237ae1ee76dcb20d4eedd","Burritos Juarez","Food::Mexican Restaurant",36.12321090698242,-115.27960968017578
+"4ca3b4e27f84224b861cc758","Jack And Son","Professional & Other Places::Building",36.085793,-115.244663
+"4ca6226797c8a1cd97526da5","AutoZone","Shop & Service::Automotive Shop",36.12619752294729,-115.24242182281483
+"4cab1d5544a8224b03ce2a40","@BornAndRaisedLV B.A.R.","Food::Gastropub",36.05638165299405,-115.26913515192011
+"4cb7191a9c7ba35d6b859606","Durango Medical Center","Professional & Other Places::Medical Center",36.071329072065545,-115.27801979083654
+"4cb91ff8bac93704d57ee27c","Del Taco","Food::Taco Place",36.05782013619942,-115.24370689350977
+"4cbdf3b27148f04d4ff4efab","Childs' Play","Outdoors & Recreation::Playground",36.056350625,-115.26962220668793
+"4cbe28a2021ca1432e95530c","Biaggio's Pizzeria","Food::Pizza Place",36.11220830035438,-115.29793550215457
+"4cc324e638aaa093c8f40a62","Bite of Las Vegas","Arts & Entertainment::Music Venue",36.123008728027344,-115.27764129638672
+"4cc496feb2beb1f7b5de1d4c","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",36.12596827289348,-115.22530440882429
+"4ccb88dbb571b60c1ac8cc65","Northside Nathan's","Food::Pizza Place",36.11525020298893,-115.29408673647283
+"4ccf31d17b685481a33dbaf8","Studio salon","Shop & Service::Cosmetics Shop",36.10168828893685,-115.30230509501196
+"4cd4598fb2a4370493d07644","Buzz BBQ","Food::BBQ Joint",36.1006686,-115.302602
+"4cd9e3574fcbb1f7099c96b9","IGT Fitness Center","Shop & Service::Gym / Fitness Center::Gym",36.07284314710292,-115.26234561113986
+"4cdda8ccaba88cfa17243cd7","Habib's Persian Cuisine","Food::Middle Eastern Restaurant",36.143061064491405,-115.20853341527447
+"4ce42fc42407a1cda53852d0","Jackpot Joanies","Arts & Entertainment::Casino",36.11537437056243,-115.28098320972401
+"4ce833e30f196dcbc6d443ae","Farmers Insurance - Earle Orr","Professional & Other Places::Office",36.113936,-115.28435267
+"4ceafc6f948f224bdb60fe5d","SF Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",36.125774,-115.210783
+"4cec3f7a28abb60cbc43b109","Fills Station","Shop & Service::Gas Station / Garage",36.06165471,-115.242987
+"4cf08add899c6ea89871ebc1","Bodyheat Tanning DI/Durango","Shop & Service::Tanning Salon",36.13177954354492,-115.27851755458866
+"4cf2c80e6195721eaf6949c1","Sola Studios Salon","Shop & Service::Spa / Massage",36.101274686579465,-115.29599665628893
+"4cf7e872e308236abb13eeac","The Caring Place","Professional & Other Places::Building",36.10853814467741,-115.22486444942699
+"4cfefddc66ee9eb07b47a74e","U.S. Bank","Shop & Service::Bank",36.10525337990867,-115.29683585973113
+"4d0177a8a2e16ea8fdcbbe3a","Japanese Car Service","Shop & Service::Automotive Shop",36.12616799791777,-115.21483783916322
+"4d13b55637ff8cfacc24d4a5","Rhodes Ranch Pool, Spa, and Water park.","Outdoors & Recreation::Playground",36.04225829336385,-115.29119868369548
+"4d1d7af75c4ca1cd57d7873d","The Madhouse Coffee Gourmet Bakery and Sandwiches","Food::Café",36.129762,-115.275604
+"4d34730b98336dcbd3b237f0","Dr Jessy Sidhu","Shop & Service::Cosmetics Shop",36.07179385532445,-115.2915748844895
+"4d372113036c548136454a89","St Rose San Martin Hospital","Professional & Other Places::Medical Center::Hospital",36.05674597265218,-115.27214496044256
+"4d38b36da558a1cd3d07cb43","Three Village Restaurant","Food::Chinese Restaurant",36.125643253326416,-115.21122356666666
+"4d3b3b71687ca35d87e591c4","YESnick Vision Center","Professional & Other Places::Medical Center::Optical Shop",36.116825103759766,-115.31433868408203
+"4d40a71cc1d4721e377112c7","Best Rate Referrals","Professional & Other Places::Office",36.084748,-115.24027
+"4d51cb759d4937048bcad039","Boys & Girls Clubs Of Las Vegas","Professional & Other Places::Office",36.13774490356445,-115.2162857055664
+"4d649113b470a143eb731bfe","Grimaldi's Coal Brick-Oven Pizzeria","Food::Pizza Place",36.05849904167504,-115.24349850402682
+"4d6be7051013236a2c73b5f9","Firehouse Subs","Food::Sandwich Place",36.115440130233765,-115.30016720294952
+"4d6d79b4da06a1cd49fbaa5b","Carter PowerSports Las Vegas","Shop & Service::Bike Shop",36.07565952136642,-115.2083134239156
+"4d857c979324236af214d10e","Road Runner","Nightlife Spot::Bar",36.115982050615045,-115.30629844338074
+"4d895ec95ecdf04dc225a98a","Goyemon Sushi","Food::Sushi Restaurant",36.095045373164716,-115.20881708811578
+"4d920945608fa1cda368a583","Nevada Spine Clinic","Professional & Other Places::Medical Center",36.071912,-115.2868146
+"4d9b79ee4fdab60cbd524cf2","Renaissance Villas","::Outdoors & Recreation",36.09401161800986,-115.21502309121479
+"4db6ea1efa8c3502411af2c9","O'Reilly Auto Parts","Shop & Service::Automotive Shop",36.126004,-115.22033
+"4db9c6bc4b22153e34a39269","Durango's Mexican Grill","Food::Mexican Restaurant",36.129911,-115.27764301
+"4dbeed17be4d6d4c090bbfc7","Mvestor Media","Shop & Service::Design Studio",36.071725,-115.253034
+"4dc5ea62ae608779d14891d9","Well of The Moon","Shop & Service::Miscellaneous Shop",36.14176014678966,-115.20766502743794
+"4dc700ccd22dafda2fcba4af","Pan Asian","Food::Asian Restaurant",36.13508999347687,-115.27850568294525
+"4dc86c78fa761aaccad7d1d6","Tech Results","Professional & Other Places::Office",36.14300930064893,-115.23261574891656
+"4dce23f5d164679b8cf8bf0c","2-15","Outdoors & Recreation::Ski Area::Ski Chalet",36.06990514129457,-115.28879677548795
+"4dd16e0fd164679b8d46bb17","Big Wong Restaurant","Food::Chinese Restaurant",36.1266622,-115.209943
+"4dd6d414d4c05d5096da8dca","Target Pharmacy","Professional & Other Places::Medical Center",36.11434633657614,-115.3110267321251
+"4dd821b652b1a5c6445ee205","J & J Szechuan Cuisine 川味坊","::Food",36.12648208,-115.2189905
+"4df02184d22d4336871647ca","The Las Vegas Grille","Food::BBQ Joint",36.14341355,-115.26214501666666
+"4df6a37ee4cd500714418490","McDonald's","Food::Fast Food Restaurant",36.11468324,-115.30814209
+"4df836fad4c02ad7341822fd","BareVibe","::Professional & Other Places",36.09964092247881,-115.21179274293104
+"4dff9fa122713224ea8e29e0","Hottie","Shop & Service::Clothing Store::Women's Store",36.113462777535254,-115.31064476781114
+"4e062f14ae60a90eabc12d3c","Asian BBQ and Noodles","Food::Chinese Restaurant",36.12779235839844,-115.22431945800781
+"4e12617d52b1655efa4e96b3","Five Guys","Food::Burger Joint",36.115612866666666,-115.29904976
+"4e2af9b6d164223a697c8683","Red Bros Smog","Shop & Service::Automotive Shop",36.129061,-115.225361
+"4e2f0de4814da3d0f22a456a","East West Pizzeria","Food::Pizza Place",36.09752192263873,-115.29767274856567
+"4e3866e47d8b5e9544b30e8f","North American Title Company","Professional & Other Places::Office::Coworking Space",36.0693125,-115.2766715
+"4e3b12d47d8b0e96104a314a","Rachel's Kitchen","Food::Café",36.12892235,-115.314707
+"4e3d90d8e4cdab9b93450298","LVAC Ladies Only Gym","Shop & Service::Gym / Fitness Center::Gym",36.113696731645256,-115.30465722084045
+"4e431ddbb0fbe97644d54477","Iglesia Ni Cristo - Summerlin","Professional & Other Places::Spiritual Center",36.11511984375447,-115.2343523841799
+"4e4dab37d4c0b6da5d65d305","State Farm Insurance Co","Professional & Other Places::Building",36.06921722129687,-115.27428653715279
+"4e500201e4cdc76dc9b96238","The Boiling Crab","Food::Seafood Restaurant",36.117031812438164,-115.20846973358113
+"4e6446c3483bd9a9751fd80b","Adult Disneyland","Arts & Entertainment::Casino",36.093650817871094,-115.21340942382812
+"4e6714781f6ecb18da261c2b","Anytime Fitness","Shop & Service::Gym / Fitness Center",36.07638082177487,-115.29954444556002
+"4e6bb109e4cdb375521b9236","Jason's Deli","Food::Deli / Bodega",36.06290054321289,-115.2516860961914
+"4e71524a1838677342edacea","Cross Vegas 2011","Outdoors & Recreation::Athletic & Sport::Soccer Field",36.127185,-115.275688
+"4e7d29085c5c7d2166d46f55","The CTSM Studio","::Professional & Other Places",36.073352,-115.286518
+"4e7e338e5503416b24d1448a","Vegas Cellular","Shop & Service::Electronics Store",36.125460889092466,-115.29788341391797
+"4e975fa4b803b3436f1b2f46","Firehouse Subs","Food::Sandwich Place",36.07871760394256,-115.24217870073677
+"4e9dcbbc775b37d2ea8d3967","Anthem Hills Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",36.09156358378147,-115.24238709110097
+"4eacaea46c250091a1f3974b","Lilly's Thai & Vietnamese","Food::Thai Restaurant",36.143138,-115.253361
+"4eaddc5dcc21b06a57c970ca","Yak's Fitness","Shop & Service::Gym / Fitness Center::Gym",36.054426441682615,-115.27937416940141
+"4ed3f26fcc219860fb8ece73","CCR Corporate Offices","Professional & Other Places::Office",36.08435302333507,-115.29136096556071
+"4eef89eee300215595df806e","The Snyder Group @ Keller Williams","Professional & Other Places::Office",36.133409282286756,-115.27777090865986
+"4f02a9f6f9abd5b39330a2ae","crowbar","Nightlife Spot::Bar",36.114048245375606,-115.24176770822179
+"4f1a2f0ae4b0a62717c28115","Woonam Jung","Food::Korean Restaurant",36.126762,-115.241046
+"4f22d84ee4b063d4fed47eda","BabyStacks Cafe","Food::Breakfast Spot",36.113627393377804,-115.26136636734009
+"4f2e3f4de4b0124ab9552988","Sushi Koma","Food::Japanese Restaurant",36.11443038538337,-115.28105266451328
+"4f34bd74e4b0d605a49a66e9","Charlie Frias Park","Outdoors & Recreation::Park",36.10123299986075,-115.21118487798783
+"4f5a96f8e4b0cfc5e00d709f","Golden Gaming","Professional & Other Places::Office::Coworking Space",36.100443463855854,-115.28090796701804
+"4f5d58afe4b05cd76b1b0675","Desert Breeze WAKA Kickball Fields 2012","Outdoors & Recreation::Park",36.12732289251555,-115.27525313584066
+"4f614c8fe4b07ccaa560305e","Roberto's Taco Shop","Food::Mexican Restaurant",36.071646206203646,-115.24345219523397
+"4f625195e4b0c8b90290ecbc","The Daily Egg","Food::Breakfast Spot",36.094746,-115.208828
+"4f7b8ad4e4b066eb22e36c00","CJs Italian Ice & Custard","Food::Ice Cream Shop",36.125106,-115.279296
+"4f7e47cae4b0d9edea1e50f3","Fresh Mama Smoothies","Food::Juice Bar",36.08195,-115.243262
+"4f91da4fe4b08995a455d817","Veggie House","Food::Chinese Restaurant",36.125601,-115.211012
+"4f95d5d4e4b09412787ee6ca","Inferno Hot Pilates","Shop & Service::Gym / Fitness Center",36.08374758182407,-115.29668538204105
+"4f976e13e4b0365007d92b44","Mashisoyo Tofu House","Food::Korean Restaurant",36.097625634371546,-115.29763454777692
+"4fd68e52e4b0c7d313eba800","Fresh Cup","Food::Café",36.126504,-115.225245
+"4fff245de4b097513ccffda5","Superior Auto","Shop & Service::Automotive Shop",36.141121,-115.208945
+"500f018c6de460cacb3d6c80","VONS","Shop & Service::Food & Drink Shop::Grocery Store",36.052948,-115.27923
+"501cb08fe4b09ed24474ccfe","The Bar @ Flamingo & Grand Canyon","Nightlife Spot::Bar",36.11058623253902,-115.30580651196784
+"502988898055bcd858e89cf9","Tipsy Coffee House","Food::Coffee Shop",36.070938076422685,-115.29167532920836
+"50306eeb83024e87b1d62dfb","Chada Thai & Wine","Food::Thai Restaurant",36.12768447493927,-115.22437334060669
+"5045bcef8055364bc4f6ec40","sushi koma","Nightlife Spot::Sake Bar",36.114390110952755,-115.27971267700194
+"505025bbe4b049bb94396510","Presto Cafe","Food::American Restaurant",36.09859085083008,-115.2425308227539
+"5053e67ce4b0c9940756a32a","Perfect Scoop & Boba","Food::Asian Restaurant",36.097734,-115.29771
+"506bb440e4b00643a9b19ea7","Design And Wine","Arts & Entertainment::General Entertainment",36.056038175935186,-115.27874708175658
+"5086ac17e4b016e352d564b0","Ultimate Training Center","Shop & Service::Gym / Fitness Center",36.121788024902344,-115.31446075439453
+"50904e5729a6030b91363e90","The Las Vegas Chiropractic Group","Professional & Other Places::Medical Center::Doctor's Office",36.079436173622234,-115.29827356338501
+"50c3d386e4b0de89d082066f","The TCC Compound","Residence::Housing Development",36.041361,-115.281046

@@ -1,0 +1,16 @@
+org.la4j
+org.la4j.decomposition
+org.la4j.factory
+org.la4j.inversion
+org.la4j.io
+org.la4j.linear
+org.la4j.matrix
+org.la4j.matrix.dense
+org.la4j.matrix.functor
+org.la4j.matrix.source
+org.la4j.matrix.sparse
+org.la4j.vector
+org.la4j.vector.dense
+org.la4j.vector.functor
+org.la4j.vector.source
+org.la4j.vector.sparse

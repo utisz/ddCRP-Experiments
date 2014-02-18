@@ -1,0 +1,594 @@
+"3fd66200f964a5206ff11ee3","Cargo Cafe","Arts & Entertainment::Music Venue::Rock Club",40.639472578486966,-74.07577952185976
+"4154b500f964a520241d1fe3","Martini Red","Nightlife Spot::Speakeasy",40.629049604960095,-74.07974903523329
+"4154b500f964a520251d1fe3","Muddy Cup","Food::Coffee Shop",40.62885224819183,-74.080044
+"4154b500f964a520261d1fe3","Dock Street Bar & Grill","Nightlife Spot::Bar",40.625069,-74.074763
+"42644a00f964a5202b211fe3","Ruddy & Dean","Nightlife Spot::Bar",40.64389223324477,-74.07657113668016
+"42893400f964a52057231fe3","Tugs R H","Food::American Restaurant",40.6451810188404,-74.10827888632959
+"4303cf80f964a5201c271fe3","Trattoria Romana","Food::Italian Restaurant",40.59223988766792,-74.08715436369619
+"44ae0270f964a5201e351fe3","Killmeyer's Old Bavarian Inn","Food::German Restaurant",40.53845597681012,-74.237029
+"44bbc47df964a52094351fe3","Nurnberger Bierhaus","Food::German Restaurant",40.63482411636435,-74.10971272118321
+"49d94521f964a5201b5e1fe3","nurnberger","Food::German Restaurant",40.634797,-74.1096554666667
+"49dde7f0f964a5201e601fe3","Karl's Klipper","Food::American Restaurant",40.6411401579085,-74.07590572154622
+"49f21ff8f964a520eb691fe3","Staten Island Zoo","Arts & Entertainment::Zoo",40.62498962216957,-74.11592396723103
+"4a0896a2f964a520ee731fe3","Staten Island Mall","Shop & Service::Mall",40.58183951563831,-74.16625499725342
+"4a214841f964a520cd7c1fe3","Beso","Food::Tapas Restaurant",40.643319365706006,-74.07654245504169
+"4a22a778f964a5207d7d1fe3","Tuttoriso Ristorante Cafe","Food::Italian Restaurant",40.643923,-74.076484
+"4a271f0cf964a5205c911fe3","Enoteca Maria","Food::Italian Restaurant",40.6417878163015,-74.07735701187869
+"4a333b2ff964a5201c9b1fe3","z one","Food::Diner",40.586090087890625,-74.16360473632812
+"4a342435f964a520cd9b1fe3","Pho Mac","Food::Vietnamese Restaurant",40.613956740393,-74.15757356056727
+"4a3bc85ef964a520c0a01fe3","Steiny's Pub","Nightlife Spot::Bar",40.64221930168752,-74.0765539276976
+"4a3ce9a6f964a520aaa11fe3","Staten Island University Hospital","Professional & Other Places::Medical Center::Hospital",40.5847565470127,-74.08510208129883
+"4a4171aef964a52051a51fe3","New Dakota Diner","Food::Diner",40.62496275842392,-74.14853096008301
+"4a478d19f964a520d2a91fe3","Staten Island Ferry - St. George Terminal","Travel & Transport::Ferry::Pier",40.6444055420497,-74.0729570388794
+"4a4d4dd2f964a520dcad1fe3","Denino's Pizzeria Tavern","Food::Pizza Place",40.63024235,-74.14031635
+"4a552f7af964a520ceb31fe3","Goodfella's Pizza","Food::Pizza Place",40.58688192909618,-74.09163986656989
+"4a790e8bf964a520e3e61fe3","Ralph's Italian Ices","Food::Ice Cream Shop",40.630362,-74.139446
+"4a79e11af964a520e0e71fe3","College Of Staten Island","College & University::University",40.602484146302075,-74.15037631988525
+"4a8ed3e6f964a520ce1220e3","Woodrow Diner","Food::Diner",40.542709441014274,-74.20669467322833
+"4a905d51f964a520861720e3","Everything Goes","Food::Café",40.63902842207295,-74.07586556710967
+"4a9196d7f964a520ce1a20e3","Royal Crown Cafe","Food::Café",40.59564208984375,-74.085693359375
+"4a91cde8f964a520e31b20e3","Willowbrook Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",40.60300547512703,-74.15771484375
+"4a92078bf964a520a41c20e3","PK's Under the Bridge Cafe","Food::American Restaurant",40.52257942711943,-74.239090942842
+"4a93441ff964a520611f20e3","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",40.58818841232654,-74.19170975826725
+"4a947dc8f964a520ca2120e3","Better Gourmet Health Kitchen","Food::Sandwich Place",40.592174,-74.190018
+"4aa06637f964a5207c3f20e3","Annadale Diner","Food::Diner",40.54202779773412,-74.17726828758141
+"4aa3ecbef964a5205c4420e3","Lake George","Outdoors & Recreation::Lake",40.62535978624606,-74.11857357745811
+"4abd4a75f964a5207c8920e3","yogurtberry Staten Island","Food::Ice Cream Shop",40.545631408691406,-74.16561126708984
+"4abfd530f964a520889220e3","Big Nose Kate's","Nightlife Spot::Bar",40.55407888333333,-74.217613
+"4ac0a2b8f964a520569420e3","Latourette Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",40.57587823411022,-74.14810100136322
+"4ac67419f964a52069b420e3","Wagner College","College & University::General College & University",40.614603989741646,-74.09398555755615
+"4ad910d8f964a520b81721e3","Da Noi Restaraunt","Food::Italian Restaurant",40.587705,-74.19705
+"4ade884bf964a520487621e3","The Wild Goose","Nightlife Spot::Bar",40.6302140302463,-74.10849109457843
+"4ade8fcef964a5205d7621e3","Kings Arms Diner","Food::Diner",40.63040335749841,-74.10692533617959
+"4ae79bbff964a520ccac21e3","Vida","Food::Restaurant",40.6289005279541,-74.079941
+"4af63dc0f964a5208c0222e3","Joe and Pat's Pizzeria","Food::Pizza Place",40.613023973469254,-74.1222882270813
+"4af72d60f964a520ce0622e3","Pasticceria Bruno","Food::Italian Restaurant",40.58828419,-74.090321
+"4aff40e7f964a520833622e3","Kohl's","Shop & Service::Department Store",40.62776391048118,-74.16406631469727
+"4aff4f10f964a520313722e3","Starbucks","Food::Coffee Shop",40.5817692614056,-74.1660307952422
+"4aff89cbf964a5205f3922e3","RollerJam USA","Arts & Entertainment::General Entertainment",40.520781751639504,-74.237342882307
+"4b06cae7f964a52055f022e3","Costco Wholesale Club","Shop & Service::Food & Drink Shop::Grocery Store",40.57243570498486,-74.16878700256346
+"4b09b0c1f964a520b71b23e3","The Lake Club","Food::American Restaurant",40.61767830762859,-74.1080953546777
+"4b0ec7d0f964a520ef5a23e3","Perkins Restaurant & Bakery","Food::American Restaurant",40.54468360044804,-74.16115718154965
+"4b0f12cdf964a520de5e23e3","UA Staten Island Stadium 16 Theatre","Arts & Entertainment::Movie Theater",40.626743,-74.172737
+"4b0f2048f964a520735f23e3","White Castle","Food::Burger Joint",40.57644462,-74.104103
+"4b10361ef964a5206a6b23e3","Target","Shop & Service::Department Store",40.52870774843637,-74.23187792301178
+"4b108a03f964a5206c7223e3","Beer Garden","Food::New American Restaurant",40.61301321658471,-74.12655659210009
+"4b11f3c7f964a5206c8723e3","7-Eleven","Shop & Service::Convenience Store",40.5708544273041,-74.10993066312204
+"4b125bbff964a5207e8923e3","Wolfe's Pond Park","Outdoors & Recreation::Park",40.517572793857475,-74.18966887245675
+"4b17271bf964a52020c323e3","Staten Island Skating Pavilion","Outdoors & Recreation::Athletic & Sport::Skating Rink",40.544291055891854,-74.23176043975454
+"4b194ddaf964a520efda23e3","IHOP","Food::Breakfast Spot",40.62437719535163,-74.1485826685404
+"4b1a7872f964a520c6ea23e3","Apple Store","Shop & Service::Electronics Store",40.582345,-74.165745
+"4b1ad4d6f964a520c8f223e3","Hoe Bowl Bowling Center","Arts & Entertainment::Bowling Alley",40.640900988755455,-74.08505497400805
+"4b1c37c8f964a5207b0424e3","The Home Depot","Shop & Service::Hardware Store",40.61277939480166,-74.08423471430832
+"4b1ee68bf964a520492124e3","Waldbaum's","Shop & Service::Food & Drink Shop::Grocery Store",40.61660473018651,-74.07360543220479
+"4b2053c0f964a520a33024e3","Adobe Blues","Nightlife Spot::Bar",40.64330074554146,-74.09545418073836
+"4b2513d3f964a520fb6b24e3","Super Stop & Shop","Shop & Service::Food & Drink Shop::Grocery Store",40.56396757701356,-74.11460488324168
+"4b2574e7f964a5203d7224e3","Marie's Gourmet","Food::Burger Joint",40.62034375152512,-74.09922826813526
+"4b2ac3daf964a5202eaf24e3","Bagel Bistro","Food::Bagel Shop",40.613006170321206,-74.12383254130776
+"4b2add1ff964a52017b124e3","Comic Book Jones","Shop & Service::Bookstore",40.626478,-74.163278
+"4b2e4f91f964a5202ade24e3","Silver Lake Park","Outdoors & Recreation::Park",40.628057047510175,-74.09497261047363
+"4b316640f964a5202e0625e3","Barnes & Noble","Shop & Service::Bookstore",40.59245497715398,-74.16285436034939
+"4b37a3c2f964a5207b4325e3","Sanrasa Restaurant","Food::Restaurant",40.636486,-74.076336
+"4b37b505f964a520c14425e3","Richmond Town","Travel & Transport::General Travel",40.568019446205284,-74.13833550446546
+"4b37c3bcf964a520c34525e3","Salvatore of Soho","Food::Pizza Place",40.583384,-74.09525
+"4b37dbe6f964a5209a4725e3","Hess Express","Shop & Service::Gas Station / Garage",40.626780589071956,-74.16013657332591
+"4b3a38bcf964a520806225e3","EZ Pass - Staten Island","Professional & Other Places::Building",40.612344916352704,-74.17848946385483
+"4b3a55ddf964a520f26425e3","Planet Wings","Food::Wings Joint",40.626982205446545,-74.16501045227051
+"4b40ab2cf964a520b9b925e3","YMCA","Shop & Service::Gym / Fitness Center::Gym",40.54251098963625,-74.16251033887171
+"4b41100df964a52051c025e3","Staten Island Children's Museum","Arts & Entertainment::Museum",40.64262169799627,-74.10164869161868
+"4b4554aff964a520b90a26e3","The Home Depot","Shop & Service::Hardware Store",40.52902519106224,-74.22883159552573
+"4b47047cf964a520942a26e3","New York Sports Club","Shop & Service::Gym / Fitness Center::Gym",40.586386118091916,-74.19419288635254
+"4b48d5bdf964a5203a5926e3","Toys"R"Us","Shop & Service::Toy / Game Store",40.57712962665412,-74.16775703430176
+"4b48d7bff964a520945926e3","Best Buy","Shop & Service::Electronics Store",40.57727630640012,-74.1672420501709
+"4b4b6a9ef964a520c79a26e3","J&R Pizza","Food::Pizza Place",40.598125922243696,-74.06642330126856
+"4b51fb36f964a5201c5f27e3","New Dorp Medical","Professional & Other Places::Medical Center::Doctor's Office",40.57543463737144,-74.1189193725586
+"4b520524f964a520c36127e3","Astor Place Three Barber","Shop & Service::Salon / Barbershop",40.56701525,-74.111625
+"4b524911f964a520f07427e3","CVS","Shop & Service::Drugstore / Pharmacy",40.61276,-74.128259
+"4b529ea6f964a5201c8427e3","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.56946923746022,-74.10892009735107
+"4b529f1ef964a5202d8427e3","Rab's Country Lanes","Arts & Entertainment::Bowling Alley",40.58894869792793,-74.08932256128479
+"4b5362f1f964a5202d9a27e3","Super Stop & Shop","Shop & Service::Food & Drink Shop::Grocery Store",40.57646284608391,-74.16589892267172
+"4b53abbef964a5203aa727e3","Starbucks","Food::Coffee Shop",40.56944717445538,-74.10988478062964
+"4b54826af964a520ebbd27e3","CVS","Shop & Service::Drugstore / Pharmacy",40.52572102740031,-74.20164442268118
+"4b54fc92f964a520afd627e3","Charlie Brown's Steakhouse","Food::American Restaurant",40.621799,-74.16861
+"4b55ba29f964a52062ed27e3","Decker Farm","Outdoors & Recreation::Farm",40.583876562120984,-74.15376663208008
+"4b55f1eef964a52002f827e3","Jo-Ann Fabrics and Crafts","Shop & Service::Arts & Crafts Store",40.62535272703749,-74.15822721818239
+"4b55fc68f964a52072fa27e3","Port Richmond H.S","Professional & Other Places::School::High School",40.63446486777591,-74.14182774615658
+"4b575abcf964a520263328e3","A.C. Moore","Shop & Service::Arts & Crafts Store",40.600618242785096,-74.19294230480021
+"4b577ceef964a520043828e3","Eggers Ice Cream Parlor","Food::Ice Cream Shop",40.50995714616903,-74.24459292621356
+"4b577dc7f964a520183828e3","Tottenville Marina","Travel & Transport::Ferry::Boat or Ferry",40.51572118333333,-74.24617855
+"4b5870f7f964a520df5728e3","Perkins Restaurant & Bakery","Food::Diner",40.59428193234933,-74.08663812249817
+"4b589e9bf964a520b86128e3","Blockbuster","Shop & Service::Video Store",40.62839265005083,-74.13444751323274
+"4b5b9fc8f964a520ca0b29e3","Gino's Villa Monte Pizzeria & Restaurant","Food::Pizza Place",40.57602136929037,-74.16483879089355
+"4b5ba2d0f964a520a90c29e3","Checkers","Food::Burger Joint",40.626873,-74.165565
+"4b5c7446f964a520ab3029e3","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.63007813541231,-74.10927110121547
+"4b5c7f38f964a520c53229e3","Starbucks","Food::Coffee Shop",40.630408793591606,-74.10609943637995
+"4b5c9f60f964a520773a29e3","Moe's Southwest Grill","Food::Mexican Restaurant",40.572551,-74.10782529
+"4b5cb461f964a520813f29e3","MTA SIR - Train","Travel & Transport::Subway",40.63167229840464,-74.0753173828125
+"4b5e3bd3f964a520398529e3","St John's University","College & University::University",40.62095625537346,-74.09076690673828
+"4b5ef2f1f964a520409f29e3","Post Office - Mariners Harbor","Professional & Other Places::Post Office",40.626387,-74.15879985
+"4b5f274ef964a52070a929e3","Perkins Restaurant & Bakery","Food::Diner",40.62521770412589,-74.14691976468326
+"4b5f2ff9f964a520e1ab29e3","Pronto Pizza","Food::Pizza Place",40.57124729347078,-74.11112933926147
+"4b61f314f964a520012d2ae3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.6262982060355,-74.13488388061523
+"4b627ce3f964a5206b492ae3","Rhythm & Brews","Nightlife Spot::Bar",40.58922147712235,-74.10153865814209
+"4b633143f964a52083692ae3","Applebee's Neighborhood Bar & Grill","Food::American Restaurant",40.530208210924954,-74.22891139984131
+"4b637d14f964a520c37d2ae3","South Fin Grill‎","Food::Steakhouse",40.589512727710606,-74.06630283189004
+"4b63c60ef964a520fd902ae3","Dugout Pub & Grill","Nightlife Spot::Pub",40.624587,-74.142421
+"4b648e55f964a52050bd2ae3","Fort Wadsworth","Outdoors & Recreation::Other Great Outdoors",40.60301066296682,-74.05866721150434
+"4b65d44df964a5207d022be3","Snug Harbor Cultural Center","Professional & Other Places::Building",40.643233,-74.102937
+"4b668b7cf964a520d1232be3","Old Navy","Shop & Service::Clothing Store",40.58273582373361,-74.16458129882812
+"4b69ac9af964a520aeac2be3","Mike's Bagel Bistro & Souvlaki Express","Food::Bagel Shop",40.61289108333333,-74.123799
+"4b69b68ef964a5206aaf2be3","Starview","Professional & Other Places::Parking",40.611487,-74.089342
+"4b6b7476f964a520dd092ce3","Oriental Plaza","Food::Chinese Restaurant",40.60321691666667,-74.162552
+"4b6bae5af964a52055152ce3","Burrito Bar","Food::Mexican Restaurant",40.63030206188808,-74.1088524215853
+"4b6c648bf964a5205d362ce3","Royal Crown Bakery","Food::Bakery",40.595620417680344,-74.08572609292622
+"4b6ca45cf964a520d0482ce3","La Bella Pizza","Food::Pizza Place",40.625778,-74.137479
+"4b6cb9c1f964a520704f2ce3","Wagner College","College & University::General College & University",40.614603989741646,-74.09398555755615
+"4b6cfcacf964a520b5612ce3","Golden Dove","Food::Diner",40.55895374785147,-74.16919570884497
+"4b6cfe10f964a520f0612ce3","Legends Pub","Nightlife Spot::Karaoke Bar",40.6128,-74.129836
+"4b6d1b17f964a52012672ce3","The Olympic Grill (Port Richmond)","Food::American Restaurant",40.62483246942241,-74.14329528808594
+"4b6da712f964a52080832ce3","St. George Theatre","Arts & Entertainment::Concert Hall",40.64212611169523,-74.07763481140137
+"4b6e190ef964a52055aa2ce3","Unique Lounge & Billiards","Nightlife Spot::Lounge",40.55952939413755,-74.1972074256541
+"4b6e61f5f964a52017bb2ce3","Macy's","Shop & Service::Department Store",40.583633291196264,-74.16548036998036
+"4b6ebceef964a5206bc82ce3","Foundation Hall","College & University::College Administrative Building",40.61378299207589,-74.09367035320648
+"4b6ed1cdf964a520f1cb2ce3","St. Clare's RC Church","Professional & Other Places::Spiritual Center::Church",40.5469829814719,-74.14975242650206
+"4b6ed4def964a5207dcc2ce3","Party City","Shop & Service::Miscellaneous Shop",40.576932,-74.16688191666667
+"4b6eff67f964a520b1d52ce3","Kingdom Cafe","Food::Pizza Place",40.5451576077489,-74.1602455149202
+"4b7049c6f964a52041102de3","Subway","Food::Sandwich Place",40.62901306152344,-74.11643981933594
+"4b70bfd1f964a520e02c2de3","Los Catrachos Restaurant","Food::South American Restaurant",40.6292,-74.079995
+"4b719f6cf964a520c2512de3","New York State DMV","Professional & Other Places::Government Building",40.60065946339448,-74.1921329498291
+"4b71b7b3f964a52042582de3","Country Donuts","Food::Coffee Shop",40.56032527488586,-74.1687656965761
+"4b71e96ef964a520bd632de3","Subway","Food::Sandwich Place",40.549804,-74.15069
+"4b71f6c5f964a52010672de3","Starbucks","Food::Coffee Shop",40.612287,-74.1324905
+"4b72315ff964a52056732de3","Mike's Place","Food::Greek Restaurant",40.529117584228516,-74.162353515625
+"4b723b75f964a520f3742de3","My Deli","Food::Deli / Bodega",40.609253692644884,-74.08939139254566
+"4b740a6af964a5200bc52de3","Forest Bagels","Food::Bagel Shop",40.626531,-74.12927
+"4b747a21f964a520e6de2de3","Arirang Hibachi Steakhouse","Food::Japanese Restaurant",40.54963044368544,-74.1500907374847
+"4b747adcf964a52010df2de3","Lucky Fortune Chinese Restaurant","Food::Chinese Restaurant",40.551284,-74.14976305
+"4b75af66f964a520e31c2ee3","Mitoushi Sushi","Food::Sushi Restaurant",40.61178463885875,-74.1586801900948
+"4b75d580f964a52011282ee3","MTA SIR - Great Kills Station","Travel & Transport::Train Station",40.551439414843216,-74.15089130401611
+"4b76c973f964a520115f2ee3","Chase Bank","Shop & Service::Bank",40.6295620276004,-74.11123031
+"4b76ca76f964a5205b5f2ee3","Island Barber Shop","Shop & Service::Salon / Barbershop",40.629905,-74.110124
+"4b76d557f964a520b4622ee3","The Bagel Bin","Food::Bagel Shop",40.63040209742062,-74.10664558410645
+"4b76d8dbf964a520be632ee3","Pier 76 Italian Restaurant","Food::Italian Restaurant",40.640140567124,-74.07567626750813
+"4b771242f964a5204c7a2ee3","Pajama Pants Worldwide Headquarters","Professional & Other Places::Office::Conference Room",40.6265587780657,-74.1291761398315
+"4b7733fbf964a5206a872ee3","Target","Shop & Service::Department Store",40.52870774843637,-74.23187792301178
+"4b786c10f964a52011cd2ee3","New Asha Sri Lankan Restaurant","Food::Restaurant",40.6336873671155,-74.0853532493777
+"4b78706bf964a5205fce2ee3","Golden's Kosher Deli & Restaurant","Food::Deli / Bodega",40.575597,-74.16811108589172
+"4b788168f964a520cbd22ee3","Mike's Unicorn Diner","Food::American Restaurant",40.607182633834796,-74.16077302068464
+"4b78b8cdf964a52065df2ee3","UA Hylan Plaza 5","Arts & Entertainment::Movie Theater::Multiplex",40.56696825548699,-74.10995933967409
+"4b79b276f964a520e70b2fe3","Brother's Pizza","Food::Pizza Place",40.62544584274292,-74.143902
+"4b7af99df964a52087492fe3","T.G.I. Friday's","Food::American Restaurant",40.57895902603439,-74.16433990001678
+"4b7c497bf964a520e0892fe3","PetSmart","Shop & Service::Pet Store",40.623659856971535,-74.13994789123535
+"4b7c7448f964a5207a942fe3","T.J. Maxx","Shop & Service::Department Store",40.62611546881724,-74.13787101419489
+"4b7d3317f964a5206db22fe3","E Squared Cafe","Nightlife Spot::Hookah Bar",40.51786809545448,-74.23539993645747
+"4b7da9adf964a52016cd2fe3","Chuck E. Cheese's","Arts & Entertainment::Arcade",40.6003442985474,-74.19287924447937
+"4b7daa07f964a52033cd2fe3","Colonnade","Food::Diner",40.58100029,-74.098772
+"4b7ecc2cf964a520420030e3","Dunkin' Donuts","Food::Coffee Shop",40.606937384972326,-74.16275115397293
+"4b8029f6f964a5203e5830e3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.5740818747293,-74.16760683059692
+"4b82e62bf964a520e7eb30e3","Mecca Mart Halal","Food::Middle Eastern Restaurant",40.6266005723298,-74.1600081324199
+"4b84708df964a520723531e3","Bayou","Food::Cajun / Creole Restaurant",40.616831778057495,-74.06827048879872
+"4b849b16f964a520f43d31e3","7-Eleven","Food::Deli / Bodega",40.612190719241894,-74.13276727959251
+"4b893a48f964a520662432e3","Pasticceria Bruno","Food::Café",40.629519,-74.1115281
+"4b89566df964a520b22c32e3","Showplace Entertainment Center","Arts & Entertainment::Bowling Alley",40.588503920925376,-74.19157217116778
+"4b8984bef964a520383e32e3","the veranda cafe","Food::American Restaurant",40.62237321684601,-74.0979552268982
+"4b89a401f964a5206f4832e3","X1 Hylan and Buel","Travel & Transport::Bus Station::Bus Line",40.58527933586533,-74.09305088502852
+"4b89ab4ef964a520914a32e3","Staples","Shop & Service::Paper / Office Supplies Store",40.586116188324425,-74.16704563754315
+"4b89bfbff964a5205e4d32e3","Nori","Food::Sushi Restaurant",40.5736955937319,-74.117552736395
+"4b8a719df964a520016d32e3","Jimmy Max","Food::American Restaurant",40.615988515815836,-74.13851327204105
+"4b8abb91f964a520377d32e3","beyond beauty day spa","Shop & Service::Spa / Massage",40.628937,-74.11555825
+"4b8ac50ef964a520ce7f32e3","Tanning Loft","Shop & Service::Tanning Salon",40.58975636959076,-74.164449
+"4b8ad075f964a520da8232e3","Bario's","Food::Pizza Place",40.58984635629336,-74.16472353258291
+"4b8bca2bf964a5208dab32e3","Staten Island Rapid Transit - SIRT","Travel & Transport::Ferry::Boat or Ferry",40.64276924457132,-74.07483458518982
+"4b8c0df3f964a52018bb32e3","Wendys","Food::Fast Food Restaurant",40.565765380859375,-74.114013671875
+"4b8c5c85f964a520c4cc32e3","Mobil","Shop & Service::Gas Station / Garage",40.560704,-74.1696369
+"4b8ca87bf964a520a3d932e3","King Kullen","Shop & Service::Food & Drink Shop::Grocery Store",40.61170474996426,-74.15662173923184
+"4b8dbb7df964a520150b33e3","Seaside Turkish Restaurant","Food::Mediterranean Restaurant",40.59527623333334,-74.06296849250793
+"4b8e89e9f964a520962733e3","Carrabba's Italian Grill","Food::Italian Restaurant",40.578572,-74.16428111666667
+"4b8ebad5f964a520933333e3","McDonald's","Food::Fast Food Restaurant",40.629967170463324,-74.07644493743837
+"4b8f2092f964a520584a33e3","Eltingville Transit Center","Travel & Transport::Bus Station",40.5605559913405,-74.17101899459328
+"4b90306af964a5202b7b33e3","ShopRite","Shop & Service::Food & Drink Shop::Grocery Store",40.62312240271807,-74.14880990982056
+"4b90584cf964a520638533e3","The Drunken Monkey","Nightlife Spot::Bar",40.626455,-74.13019455
+"4b91072ff964a520e39f33e3","Dunkin' Donuts","Food::Donut Shop",40.58809369561975,-74.16553197241794
+"4b915688f964a5204fb433e3","VIP Wash & Lube","Shop & Service::Automotive Shop",40.627824896543856,-74.16687190532684
+"4b926617f964a520c6f633e3","Dunkin' Donuts","Food::Donut Shop",40.6152646423292,-74.06694533435564
+"4b92bb5ef964a5203c1634e3","The Home Depot","Shop & Service::Hardware Store",40.6286898422994,-74.17236056850045
+"4b92ebebf964a5203d2734e3","Snug Harbor Music Hall","Arts & Entertainment::Concert Hall",40.64362334629036,-74.1011783748029
+"4b930439f964a520002f34e3","Old Bermuda Inn","Food::Breakfast Spot",40.55365672540524,-74.21715259552002
+"4b958eb1f964a5205ba934e3","jcpenney","Shop & Service::Department Store",40.577656,-74.163672
+"4b96bca3f964a5203de134e3","Sunoco A Plus","Shop & Service::Gas Station / Garage",40.621924298137344,-74.16858222437165
+"4b9995fcf964a520988535e3","Dunkin' Donuts","Food::Coffee Shop",40.56010736825213,-74.16358827070708
+"4b9aca3bf964a520dfd535e3","H&M","Shop & Service::Clothing Store::Women's Store",40.581073570112686,-74.16625499725342
+"4b9d7406f964a520d3ad36e3","Staten Island Boardwalk","Outdoors & Recreation::Beach",40.57882457299476,-74.07686233520508
+"4b9e6f9df964a52096e336e3","Party City","Shop & Service::Gift Shop",40.62571293418499,-74.13886307226011
+"4b9e9e9cf964a52058f436e3","NYUHJD Orthopedic Surgery","Professional & Other Places::Medical Center::Doctor's Office",40.6147012,-74.15864029567605
+"4b9f7441f964a520aa2337e3","Tottenville High School","Professional & Other Places::School::High School",40.52877879441845,-74.19321174411067
+"4b9fb541f964a520fd3637e3","La Fontana Restaurant","Food::Italian Restaurant",40.5683281621372,-74.1263788131525
+"4b9fc163f964a520af3b37e3","A & C Superette","Food::Deli / Bodega",40.605038,-74.12098853333333
+"4ba012a3f964a520a35737e3","ShopRite","Shop & Service::Food & Drink Shop::Grocery Store",40.57168595088612,-74.10836219787598
+"4ba11d67f964a520309937e3","Manor Restaurant","Food::American Restaurant",40.604383461507936,-74.12059803794669
+"4ba13abcf964a52024a437e3","Silver Lake Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",40.62170545713824,-74.09759044647217
+"4ba24598f964a520b0e837e3","Richmond University Medical Center","Professional & Other Places::Medical Center::Hospital",40.63535650906132,-74.10638620755533
+"4ba2ab3df964a520600e38e3","Filippo's","Food::Italian Restaurant",40.5879844937571,-74.10324317157739
+"4ba2d903f964a520dc1d38e3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.55407502353432,-74.14375447221823
+"4ba351c0f964a520013538e3","Stephanie's Deli","Food::Deli / Bodega",40.63126366877908,-74.13120172407444
+"4ba385c1f964a5201d4438e3","Staten Island Honda Service","Shop & Service::Automotive Shop",40.59540664278361,-74.08249954072653
+"4ba39064f964a520c34738e3","Clove Lakes Park","Outdoors & Recreation::Park",40.618409193834275,-74.10933418984591
+"4ba39ba8f964a520844b38e3","Nissan of Staten Island","Professional & Other Places::Building",40.59564132857263,-74.08257007598877
+"4ba3a017f964a5204a4d38e3","Dr. Sunah Oh (internist, gp)","Professional & Other Places::Medical Center::Doctor's Office",40.55424,-74.167946
+"4ba3caf9f964a520e55f38e3","East Pacific","Food::Asian Restaurant",40.582465979639224,-74.16545743555906
+"4ba3d7d6f964a520a16538e3","Vincent's Bagels","Food::Pizza Place",40.638056,-74.109184
+"4ba3f08cf964a520996f38e3","MTA SIR - Oakwood Heights Station","Travel & Transport::Subway",40.565247499254724,-74.12636518478394
+"4ba43a73f964a520f08d38e3","Hilton Garden Inn","Travel & Transport::Hotel",40.614734548357205,-74.17708482378428
+"4ba4ff31f964a5201cce38e3","Marina Cafe","Food::American Restaurant",40.54379,-74.14054481
+"4ba52235f964a520d6e138e3","Great Kills Park GNRA","Outdoors & Recreation::Park",40.55522184159513,-74.12784576416016
+"4ba52408f964a520d6e238e3","Lowe's Home Improvement","Shop & Service::Hardware Store",40.62775837301743,-74.1627052844539
+"4ba64b08f964a520254339e3","S. I. Mini Golf And Batting Cages","Outdoors & Recreation::Athletic & Sport::Golf Course",40.60941075183114,-74.1198582234774
+"4ba7ba50f964a5209ead39e3","Pathmark","Shop & Service::Food & Drink Shop::Grocery Store",40.54825187099773,-74.22245790230666
+"4baac31df964a52028853ae3","CVS","Shop & Service::Drugstore / Pharmacy",40.55978863333333,-74.16279
+"4bab5d5ff964a520ada33ae3","Staten Island Borough Hall","Professional & Other Places::Government Building",40.64246338446981,-74.07580820361409
+"4bad56c4f964a520c0473be3","Gino's Pizzeria","Food::Pizza Place",40.625449479241,-74.1565873359599
+"4bae0e67f964a520487f3be3","MTA SIR - New Dorp Station","Travel & Transport::Train Station",40.57373960514706,-74.11711692810059
+"4bae3fd7f964a5205e983be3","CVS/Pharmacy","Shop & Service::Drugstore / Pharmacy",40.595515738741575,-74.08633984916149
+"4baea2abf964a52040c93be3","Li Greci's Staaten","Professional & Other Places::Event Space",40.629711,-74.112097
+"4baeaa4df964a5208ecc3be3","Fushimi","Food::Sushi Restaurant",40.5815037,-74.111345
+"4bb09b46f964a520074f3ce3","New York Container Terminal (Howland Hook)","Professional & Other Places::Building",40.6342613264804,-74.1843315056738
+"4bb0df79f964a52056653ce3","Family health foods","Shop & Service::Food & Drink Shop::Grocery Store",40.61325551,-74.123144
+"4bb120b3f964a520a97c3ce3","Wendy's","Food::Fast Food Restaurant",40.52119119528644,-74.21694952364247
+"4bb14faff964a520748b3ce3","Black Dog Bar & Grill","Nightlife Spot::Bar",40.630939,-74.101967
+"4bb15591f964a520fb8c3ce3","7-Eleven","Shop & Service::Food & Drink Shop::Grocery Store",40.60686595327211,-74.1618280277242
+"4bb1f079f964a520f6ab3ce3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",40.56636114006176,-74.11032066385457
+"4bb230e3a32876b0d04000fe","MTA SIR - Prince's Bay Station","Travel & Transport::Subway",40.52523372265928,-74.20050144195557
+"4bb290c32397b713803737b3","Luigino's","Food::Italian Restaurant",40.540144,-74.176575
+"4bb290f02397b713cd3737b3","New Sing Bo Chinese & Asian Cuisine‎","Food::Asian Restaurant",40.6131023168564,-74.12179
+"4bb3351735f0c9b61f10bc83","Tire Empire","Shop & Service::Automotive Shop",40.58021390803999,-74.09962892532349
+"4bb378de715eef3b5e5c86bb","TD Bank","Shop & Service::Bank",40.603539,-74.16226905
+"4bb37a102397b713df2538b3","Towers Dorm","College & University::College Residence Hall",40.61398,-74.09153799999999
+"4bb3b031eb3e9521b97fcb0a","North Shore Pizza","Food::Pizza Place",40.6254708869938,-74.1352904916541
+"4bb3b551eb3e9521c086cb0a","Sears","Shop & Service::Electronics Store",40.58031293066286,-74.16631747442013
+"4bb3e51587aa9521e9a0acd1","Sound Asylum Studios","Arts & Entertainment::Music Venue",40.643776,-74.094102
+"4bb3e7529af3b71344bb8b28","Victory Boulevard","Outdoors & Recreation::Other Great Outdoors",40.61151354991945,-74.13849606873468
+"4bb3eb3d9af3b71390c28b28","Lee's Tavern","Food::Pizza Place",40.58888743244913,-74.09530520439148
+"4bb3f4f8f187a59384b613f8","Bath & Body Works","Shop & Service::Cosmetics Shop",40.582407976651695,-74.16565811164942
+"4bb4ad8286a8d13a17b2de7f","Richmond County Clerks","Professional & Other Places::Government Building",40.642784,-74.077457
+"4bb4b8a1bc82a5932cb73e72","Dunkin' Donuts","Food::Coffee Shop",40.55959093066193,-74.19732570648193
+"4bb4c4c8613fb713e62594e6","Gino's Villa Monte Pizzeria & Restaurant","Food::Pizza Place",40.55338679293511,-74.19285058069005
+"4bb4f407b1edef3b265b2cdd","Napoli Pizza","Food::American Restaurant",40.566928,-74.11037005
+"4bb51d2c2f70c9b6b4c08330","New York Public Library - New Dorp","Professional & Other Places::Library",40.571774,-74.112087
+"4bb529042f70c9b65fd58330","Subway - Amboy Ave","Food::Sandwich Place",40.545689,-74.160225
+"4bb53540f562ef3b85ac2e97","Andrew's Diner","Food::Diner",40.538052473250076,-74.14968967437744
+"4bb5559af562ef3b2ee22e97","Yogurberry","Food::Restaurant",40.54421634266189,-74.1651177406311
+"4bb5d4242f70c9b6148a8430","TD Bank","Shop & Service::Bank",40.62449015482829,-74.14169585644261
+"4bb5f4b71344b713d3c49c04","SI Bank & Trust","Shop & Service::Bank",40.629058,-74.11575
+"4bb62dff1344b713dd189d04","Hillside Market","Shop & Service::Food & Drink Shop::Grocery Store",40.58664956364351,-74.10451645161287
+"4bb62e502ea195212e42ab2f","Gino's Villa Monte Pizzeria & Restaurant","Food::Pizza Place",40.5735794,-74.115208
+"4bb62f07ef159c74168b75f7","Christmas Tree Shops","Shop & Service::Furniture / Home Store",40.53092,-74.228542
+"4bb634d42ea19521de4cab2f","McDonald's","Food::Fast Food Restaurant",40.57683532179078,-74.16651241600844
+"4bb6360a46d4a593f3ddc5c0","Alice Austen House","Arts & Entertainment::Museum::History Museum",40.614963531453576,-74.06339433361563
+"4bb65a652f70c9b692488530","Staples","Shop & Service::Paper / Office Supplies Store",40.583567,-74.096019
+"4bb65d86f562ef3b180b3097","Country Donuts","Food::Coffee Shop",40.5456984043121,-74.161262
+"4bb65e996edc76b029d4301c","King Kullen","Shop & Service::Food & Drink Shop::Grocery Store",40.545737,-74.160664
+"4bbb230153649c74a6af49fb","Staten Island University Hospital South","Professional & Other Places::Medical Center::Hospital",40.51696383827569,-74.19614553451538
+"4bbbb9c5e4529521b41655a4","Chili's Grill & Bar","Food::American Restaurant",40.6117215697402,-74.15902995246239
+"4bbbd997e5b0d13a30a86e7c","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",40.600333621919596,-74.19299125671387
+"4bbd26f14e069c7409779ee3","Mike's Olympic Grill","Food::Diner",40.624942893341675,-74.14351363254875
+"4bc08b29abf49521e65bbf93","South Beach","Outdoors & Recreation::Beach",40.590755507731835,-74.06651508741021
+"4bc0ae4e2a89ef3b33e6f088","Armstrong Car Wash","Shop & Service::Automotive Shop",40.54660874588268,-74.15982121571956
+"4bc2548cabf49521d067c293","Dominick's Bakery & Cafe","Food::Italian Restaurant",40.57417417158632,-74.11692187677832
+"4bc374ad461576b0ceaa7e32","Bay Street Animal Hospital","Professional & Other Places::Medical Center::Hospital",40.6184896665433,-74.0688613555358
+"4bc385bdf8219c746535b610","Public school 39","College & University::College Academic Building",40.59783636489156,-74.06985377803645
+"4bc399a4dce4eee10eac719d","Holiday Inn Express","Travel & Transport::Hotel",40.586498326527824,-74.19027082145587
+"4bc3a65f4cdfc9b661ae9721","The Batcave","Nightlife Spot::Whisky Bar",40.603431701660156,-74.07000732421875
+"4bc65b72bf29c9b6e7c1f92a","Local Speakeasy","Nightlife Spot::Speakeasy",40.5366663398507,-74.2125177383423
+"4bc65ec3b387d13adcd4c1e8","Ralph's Ices","Food::Ice Cream Shop",40.523991,-74.214965
+"4bc673d651b376b0dbac1b6f","Wendy's","Food::Fast Food Restaurant",40.588240926414606,-74.09107201469423
+"4bc67c2642419521ac53041d","FDNY EMS Station 23","Professional & Other Places::Medical Center",40.553891495606216,-74.21342430406678
+"4bc7117514d79521cda366e9","Staten Island Advance","Professional & Other Places::Building",40.600694227132344,-74.08717157171178
+"4bc7431192b376b05d574f3a","McDonald's","Food::American Restaurant",40.57766745081722,-74.10235404968262
+"4bc7900715a7ef3bcaa579da","Top Tomato","Shop & Service::Food & Drink Shop::Grocery Store",40.601319,-74.177001
+"4bc7bc760050b713915bb93b","Metro Pizza","Food::Pizza Place",40.626388,-74.130328
+"4bc898de15a7ef3b40697bda","Buddha Lounge","Food::Japanese Restaurant",40.52734993333333,-74.23177333689496
+"4bc8c6e36501c9b6f1e34029","Met Food","Food::Restaurant",40.61351578619114,-74.12372357845149
+"4bc8e24d937ca593a9aba492","HomeGoods","Shop & Service::Design Studio",40.565301600073106,-74.11334314204763
+"4bc9c4ea937ca593fa40a692","South Beach Boardwalk","Outdoors & Recreation::Beach",40.59029692668765,-74.06643390655518
+"4bc9fdd13740b713a0bd5f65","Miller Field","Outdoors & Recreation::Other Great Outdoors",40.56915681869134,-74.1022738670276
+"4bca7c5168f976b03f9d5f83","Bootleg Mannings","Nightlife Spot::Bar",40.626261,-74.177751
+"4bccba5e8920b71351a39edc","College of Staten Island Library","College & University::College Library",40.597721848677686,-74.14854252965651
+"4bcdcee8511f9521542eb5c7","Z-One Diner & Lounge","Food::Diner",40.60421149876199,-74.16213191451095
+"4bcf0f13ef10952173028586","Bank Of America (ATM)","Shop & Service::Bank",40.58619891365418,-74.16745271961992
+"4bcf1550937ca5936b7aaf92","Great Kills Park GNRA","Outdoors & Recreation::Park",40.55522184159513,-74.12784576416016
+"4bcf429dcaff9521b8d0ccf0","Cousins Paintball Staten Island","Professional & Other Places::Office::Coworking Space",40.55200272129664,-74.22631538872767
+"4bcf90069854d13a875af64d","Richmond County Bank Ballpark","Arts & Entertainment::Stadium::Baseball Stadium",40.6453966629295,-74.0765833854675
+"4bd07ca0caff9521d1e3cef0","MTA SIR - Eltingville Station","Travel & Transport::Train Station",40.54465659734533,-74.16450083255768
+"4bd18777caff9521ddc3d0f0","Au Bon Pain","Food::Bakery",40.64411738964688,-74.07281380495587
+"4bd1da12462cb713a603db07","101 Hookah Lounge & Bar","Nightlife Spot::Hookah Bar",40.61187558768061,-74.15893793106079
+"4bd218a29854d13ac8f0fa4d","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",40.57781412938402,-74.167799949646
+"4bd23b68046076b079997371","Vanderbilt","Professional & Other Places::Event Space",40.58942075133103,-74.06657245372614
+"4bd24b0841b9ef3b61dffde5","Tottenville Food Mart","Food::Deli / Bodega",40.512368833261554,-74.23694168573499
+"4bd26fe3caff9521b6f6d2f0","7-Eleven","Shop & Service::Convenience Store",40.62616303482992,-74.13174078130065
+"4bd30b57046076b024017571","CakeChef's Cookie Jar","Food::Dessert Shop",40.62642193337615,-74.13055370641545
+"4bd4503ca8b3a593a3866b5f","Dunkin' Donuts","Food::Donut Shop",40.62882278953084,-74.1151267827991
+"4bd49f2729eb9c74690092e1","Afternoones Restaurant","Nightlife Spot::Bar",40.630865,-74.103391225
+"4bd4d23fcfa7b71374f324da","Nucci's","Food::Italian Restaurant",40.629822,-74.1098315
+"4bd5364fcfa7b713958925da","MTA SIR - Bay Terrace Station","Travel & Transport::Train Station",40.55693364553691,-74.13621425628662
+"4bd5dfd65631c9b612e2a430","Woodrow Shopping Plaza","Shop & Service::Miscellaneous Shop",40.542716193863306,-74.207603931427
+"4bd5ec69637ba5937a4bf770","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.58126913150619,-74.16496753692627
+"4bd67e596f6495215d0171ec","Curves","Shop & Service::Gym / Fitness Center::Gym",40.546819688616026,-74.22934744232083
+"4bd7493c35aad13a928e8ef3","Tottenville Post Office","Professional & Other Places::Post Office",40.50979742589061,-74.24785391961413
+"4bd873505cf276b00b489d00","McDonald's","Food::Fast Food Restaurant",40.60748547709819,-74.16196346282959
+"4bd8808c09ecb713b701497c","White Castle","Food::Fast Food Restaurant",40.626722433645114,-74.16412150063366
+"4bd8c08d03979c744029bdd2","C.S.I. Tennis Courts","Outdoors & Recreation::Athletic & Sport::Tennis Court",40.603722295622156,-74.15014028549194
+"4bd98ec4e914a59304e756fa","Willowbrook Park Softball Fields","Outdoors & Recreation::Athletic & Sport::Baseball Field",40.6068831237014,-74.1562949078914
+"4bd9963f0115c9b64acb7780","Dunkin' Donuts","Food::Fast Food Restaurant",40.52206428279615,-74.21617570073668
+"4bd99f945cf276b0a9b19d00","Woody's Brew & Cue Ltd.","Nightlife Spot::Bar",40.573239,-74.117132
+"4bd9c3412e6f0f47e7dd0b08","LGBT Community Center","Professional & Other Places::Event Space",40.637908935546875,-74.07610321044922
+"4bd9d3f53f01c9b60e4953a5","Lt. Lia Playground","Outdoors & Recreation::Playground",40.64354262400074,-74.08017754554749
+"4bd9f342c79cc928f2c57ce9","Bloomingdale Park","Outdoors & Recreation::Park",40.53255669346206,-74.2097282409668
+"4bda5808a8d976b0c67e0cb5","UA Staten Island Stadium 16 & RPX","Arts & Entertainment::Movie Theater",40.626362092564214,-74.17274470540181
+"4bdafdfd3904a593412b489e","College Of Staten Island","College & University::University",40.602484146302075,-74.15037631988525
+"4bdb1e963904a593ead9489e","Page Plaza Diner","Food::American Restaurant",40.52246582444796,-74.2347236259947
+"4bdb9fab3904a593487f4b9e","CVS","Shop & Service::Drugstore / Pharmacy",40.55978863333333,-74.16279
+"4bdc7a0803be20a1c3a6849b","Historic Richmond Town","Arts & Entertainment::Museum::History Museum",40.571126070833635,-74.14668466328585
+"4be60a50bcef2d7fa3bb04e5","Burrito Bar","Food::Mexican Restaurant",40.63030206188808,-74.1088524215853
+"4be74a502468c928505a0243","Taste Of India II","Food::Indian Restaurant",40.5721879005432,-74.1127341985703
+"4be75c8f2468c928fc720243","Tack's Chinese Take Out","Food::Chinese Restaurant",40.6049301995045,-74.1211256557832
+"4be8a951947820a14339b5db","Walgreens","Shop & Service::Drugstore / Pharmacy",40.593275722914726,-74.16213764821913
+"4be996d26295c9b619668508","The Square","Food::Pizza Place",40.583518015140086,-74.09567787495925
+"4be9ab1161aca59345d58200","Subway","Food::Fast Food Restaurant",40.5168002843857,-74.233304
+"4be9bd54415e20a19633e4bb","US Post Office","Professional & Other Places::Post Office",40.6203921326451,-74.07740290230015
+"4be9f804b3352d7fc1b154d2","Joe's of Avenue U","Food::Italian Restaurant",40.553490152753,-74.1429975464957
+"4beaf04e6295c9b6ce0f8708","Bank of America","Shop & Service::Bank",40.563995571574814,-74.11571176738954
+"4beb59a2415e20a1dc4be6bb","1001 Nights Cafe","Nightlife Spot::Hookah Bar",40.59810459853257,-74.16225232234567
+"4bec142e415e20a1f809e7bb","Michaels","Shop & Service::Arts & Crafts Store",40.576151753462476,-74.16505336761475
+"4bec3ffb976ac92844bc600b","Richmond Ave","Travel & Transport::General Travel",40.594781,-74.160914
+"4bec659575b2c9b6796d438d","The Academy: A Paul Mitchell School","College & University::Trade School",40.57286656666667,-74.114438
+"4bec676c75b2c9b6ca6f438d","Atrium Cinemas","Arts & Entertainment::Movie Theater",40.559584402255496,-74.16390935557732
+"4bec7f0bc43f2d7f07fcdbd9","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",40.517224417246396,-74.23509617020207
+"4becc3ebd5510f478a05cd6c","Dunkin' Donuts","Food::Donut Shop",40.58394591,-74.094636
+"4bedb09175feef3bdc0d97e6","Snug Harbor Cultural Center","Professional & Other Places::Building",40.643233,-74.102937
+"4bf1bc7178cec928f7c0ba86","Modell's Sporting Goods","Shop & Service::Sporting Goods Shop",40.60108665086702,-74.19348691576708
+"4bf225093fa220a1881d1920","Walgreens","Shop & Service::Drugstore / Pharmacy",40.609999240077556,-74.1599817614769
+"4bf40a98706e20a1e4d8a898","College of Staten Island 1P","College & University::College Academic Building::College Arts Building",40.59965600683201,-74.14915034611535
+"4bf80e544a67c928c3a324cf","Panera Bread","Food::Café",40.52622864985082,-74.23062801361084
+"4bfa74da508c0f4780164031","House of Styles","Shop & Service::Salon / Barbershop",40.63306605,-74.13687588
+"4bfaaae85ec320a182f88bd3","Dr. Michael Greco","Professional & Other Places::Medical Center::Doctor's Office",40.5827049196706,-74.10892698103983
+"4bfaad895317a5934302037f","Darrow's Nudist Colony","Nightlife Spot::Strip Club",40.630488,-74.148313
+"4bfae6c28d30d13aa2070418","Green Leaf's","Food::Salad Place",40.5805846641276,-74.1676712036133
+"4bfaec4ed0382d7f5df9c80a","Guys Tire Buys South","Shop & Service::Automotive Shop",40.55187284946442,-74.218264
+"4bfaf5c9ab180f477f32b3ce","Cafe del Mondo","Food::Italian Restaurant",40.60958480834961,-74.14781188964844
+"4bfc2e49b5cd2d7f313231fb","Shell Gas Station","Shop & Service::Gas Station / Garage",40.629549760443446,-74.11367004853537
+"4bfc55f2da7120a138e949fd","Starbucks","Food::Coffee Shop",40.528805198543175,-74.23152544614874
+"4bfd3eb5bf6576b007f1acb8","Arthur Kill Correctional Facility","Professional & Other Places::Government Building",40.54803178711301,-74.22657251358032
+"4bfd48b98992a5939edbabb0","Stapleton Homeport","Outdoors & Recreation::Harbor / Marina",40.62776719856097,-74.07478139409602
+"4bfd4fb983bbd13a9af862c5","Duane Reade","Shop & Service::Drugstore / Pharmacy",40.55146083606358,-74.21237532326401
+"4bfdbefcb68d0f47494be957","Young Israel of Eltingville","Professional & Other Places::Spiritual Center::Synagogue",40.556892888808854,-74.16568636894226
+"4bfdd012f7c82d7f0dd08e04","Panera Bread","Food::Sandwich Place",40.57804392515882,-74.16445791721344
+"4bfe064ef61dc9b6a0f19fde","CupCakes House","Arts & Entertainment::Arcade",40.510251,-74.185095
+"4bfea238e584c9286df76c25","Ariemma's Italian Deli","Food::Deli / Bodega",40.5854222102661,-74.0933720910049
+"4bfeb29e369476b033b48c1f","I.S. 2","Professional & Other Places::School",40.576509523142654,-74.10024920885458
+"4bfebc694e5d0f47ab127d1f","MTA SIR - Stapleton Station","Travel & Transport::Subway",40.628122188897464,-74.07548904418945
+"4bfec2e04e5d0f47d51d7d1f","Wendy's","Food::Fast Food Restaurant",40.625325,-74.14734987
+"4bfec651369476b015d78c1f","Moore Catholic High School","College & University::College Academic Building",40.60915233800271,-74.16381188344319
+"4bfec70cdaf9c9b6d83ef9ef","Starbucks","Food::Coffee Shop",40.586386118091916,-74.16797161102295
+"4bfec8d54e5d0f4795287d1f","Wendy's","Food::Fast Food Restaurant",40.58821231954148,-74.16670735739218
+"4bff5fdcc30a2d7f83ed101d","Camp Pouch","Outdoors & Recreation::Campground",40.59159105150541,-74.12468130243823
+"4c0055bfad15a5931dbe8d73","Comfort Inn","Travel & Transport::Hotel",40.586416099999994,-74.190324
+"4c006f47efa2ef3bf74baa8c","Midland Beach","Outdoors & Recreation::Beach",40.57263129162902,-74.08819198608397
+"4c014226cf3aa59373b7ccb0","Aka Sushi","Food::Sushi Restaurant",40.545325,-74.1602707
+"4c02d5220d0e0f47a1ba019a","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",40.58151358244406,-74.16543960571289
+"4c03dcb3310fc9b6cf6cc661","Bed Bath & Beyond","Shop & Service::Furniture / Home Store",40.53065587705338,-74.22859659817212
+"4c04371d0d0e0f4774ac039a","Marshalls","Shop & Service::Department Store",40.587513487068094,-74.16697110129162
+"4c058c73517d0f4716b5f415","College Of Staten Island","College & University::University",40.602484146302075,-74.15037631988525
+"4c0a763effb8c9b60f8d6b61","Applebee's Neighborhood Grill & Bar","Food::American Restaurant",40.61258416847791,-74.15870189666748
+"4c0a9f0ca1b32d7fe9a799f0","Marshalls","Shop & Service::Department Store",40.587513487068094,-74.16697110129162
+"4c0b09927e3fc928a5c3f482","MTA - s53 Clove Rd & Targee St","Travel & Transport::Bus Station::Bus Line",40.6077932613349,-74.08972
+"4c0d9056336220a1d8f7ca77","Big Frank and Susan's House","Professional & Other Places::Convention Center::Meeting Room",40.55897915,-74.17837515
+"4c0e31bdd64c0f47ddb8275d","College of Staten Island Library","College & University::College Library",40.597721848677686,-74.14854252965651
+"4c0e4d73b1b676b0f1cce186","Miller Park Playground","Outdoors & Recreation::Playground",40.56908017404363,-74.1051588238513
+"4c0e797f7189c9286b8bd8b6","Taco Bell","Food::Mexican Restaurant",40.58150108591402,-74.16622000354924
+"4c0e8e9698102d7f94dbe306","Subway","Food::Sandwich Place",40.58614275,-74.0921305166667
+"4c0eae1698102d7f970ce406","Starbucks","Food::Coffee Shop",40.587642669677734,-74.16831970214844
+"4c0f7f167189c9287119dab6","MTA SIR - Jefferson Ave Station","Travel & Transport::Subway",40.58351804643845,-74.10338401794434
+"4c0f84f72466a593a6b07a21","X10 S Gannon Avenue","Travel & Transport::Bus Station::Bus Line",40.60787,-74.1319
+"4c0fd9d9b93cc9b665cf55e0","Nails 21","Shop & Service::Cosmetics Shop",40.576331266666664,-74.1648699
+"4c0fe13fce57c92885fa80d2","KFC Kentucky Fried Chicken","Food::Fast Food Restaurant",40.570904436925275,-74.10959801479798
+"4c1021643ce120a1889b071c","Babies"R"Us","Shop & Service::Clothing Store::Kids Store",40.57774893894958,-74.16471004486084
+"4c10598b81e976b07f1e0feb","Dunkin Dounts","Food::Café",40.55986437176536,-74.15900701724532
+"4c10f93f6b7e2d7f4b6f2835","Beach Bum Tanning","Shop & Service::Tanning Salon",40.57287008538299,-74.10759064170995
+"4c110755f1b6a593b7ca7c27","MTA SIR - Old Town Station","Travel & Transport::Subway",40.59603236559728,-74.08763408660889
+"4c116927d41e76b0755c310d","The Grand Plaza","Shop & Service::Food & Drink Shop",40.54941,-74.15008801666667
+"4c11860ed41e76b0d79d310d","Waterfalls restaurant","Food::Italian Restaurant",40.61245635,-74.1307532787323
+"4c1217a6b2510f47e0f8c398","X1 Bus Stop","Travel & Transport::Bus Station",40.56470957525936,-74.11527156829834
+"4c12d976a5eb76b0e7fcbeb7","The Clubhouse Lounge","Nightlife Spot::Bar",40.563941944480064,-74.19163523193441
+"4c140b2d7f7f2d7f463de068","Duffy's Tavern","Food::Burger Joint",40.62968567388928,-74.110785222493
+"4c1518b4b7b9c9288a56ac37","Dunkin' Donuts","Food::Coffee Shop",40.612107,-74.15764735
+"4c17cb2d834e2d7fb9e82780","The Home Depot","Shop & Service::Hardware Store",40.52902519106224,-74.22883159552573
+"4c1bb2e7eac020a1b84845c2","Staten Island Mall Food Court","Shop & Service::Food & Drink Shop::Food Court",40.58149728574267,-74.1663408279419
+"4c21633d7e85c9280b7fba21","Staten Island Mall Parking Lot","Shop & Service::Mall",40.58055207026824,-74.16565418243408
+"4c2296d3497cb713cdfa6cd8","US Coast Guard Sector New York","Professional & Other Places::Military Base",40.60427085649435,-74.06270592511574
+"4c23efe6c11dc9b6e1b12424","Outback Steakhouse","Food::Australian Restaurant",40.57885408212873,-74.16437951456503
+"4c27cbcd97d00f4744ef3eea","St. Patrick's Church","Professional & Other Places::Spiritual Center::Church",40.57092415440441,-74.14381181495084
+"4c287cddce3fc9288f2d6d88","Dolphin Fitness Club","Shop & Service::Gym / Fitness Center",40.60531043943315,-74.08297850547422
+"4c28ca8afe6e2d7f00c6533c","Walgreens","Shop & Service::Drugstore / Pharmacy",40.62617235257742,-74.15472954983004
+"4c29011bed0ac9b64e1f61aa","Tanning Loft","Shop & Service::Tanning Salon",40.524872,-74.200644
+"4c29130e9eb19521c2a72959","Bistro 6","Food::Italian Restaurant",40.569108144053416,-74.11166271900542
+"4c291c52e19720a193fff858","7-Eleven","Professional & Other Places::Building",40.579378680753436,-74.10900592803955
+"4c2a0bdb97d00f47a85242ea","Armani Exchange","Shop & Service::Clothing Store",40.58181171479165,-74.16599639371105
+"4c2a34a9b1ddc9b63abb52fb","Forest Animal Hospital","Shop & Service::Pet Store",40.62723922729492,-74.12457275390625
+"4c2a34c62219c92847bba248","Subway","Food::Sandwich Place",40.60797493,-74.162641
+"4c2b7ae18abca593e23b0020","Carvel Ice Cream","Food::Ice Cream Shop",40.577729344368,-74.16512
+"4c2bd58f57a9c9b6f591f667","Happy Fortune","Food::Chinese Restaurant",40.55157,-74.212219
+"4c2cace8d1a10f47f1c9f964","Buono Beach","Outdoors & Recreation::Beach",40.61577691509718,-74.06326238884708
+"4c2d1269e307d13a8c330dda","Aida's World of Liquors","Shop & Service::Food & Drink Shop::Wine Shop",40.567272,-74.111683
+"4c2e12453a4d0f478de3e486","GNC","Shop & Service::Miscellaneous Shop",40.527234946678696,-74.23147959370277
+"4c2e581fa0ced13a07ad0e6e","Ralph's Italian Ices","Food::Ice Cream Shop",40.537219,-74.150036
+"4c2e7fdb7cc0c9b6c532ea9a","Schaffer's Tavern","Food::German Restaurant",40.61257470603803,-74.13214794051552
+"4c2f8037a0ced13a40a4106e","Chinese Scholars' Garden","Outdoors & Recreation::Lake",40.64226449760695,-74.10402320001039
+"4c38c0e93849c928210cc0b1","Cheeburger Cheeburger","Food::Burger Joint",40.52658747242724,-74.23341751098633
+"4c3c840e86ce328fc2d3ab2d","Dunkin' Donuts","Food::Coffee Shop",40.52726596997825,-74.23194958073098
+"4c41f095ce54e21e90d70b1a","Church of the Holy Child","Professional & Other Places::Spiritual Center::Church",40.540372436937076,-74.17099601606354
+"4c435d1e2d3ec9b6a3672dae","brothers pizzeria","Food::Italian Restaurant",40.521932400000004,-74.23487663269043
+"4c44a2352d3ec9b65e272fae","Staten Island Bank & Trust","Shop & Service::Bank",40.59605382,-74.08538695
+"4c44c82d2d3ec9b6cb5c2fae","Yogurberry","Food::Ice Cream Shop",40.608177781105,-74.162663
+"4c44d0e9429a0f47d847491e","Staten Island Physician Practice","Professional & Other Places::Medical Center::Doctor's Office",40.5285925800005,-74.16562944364978
+"4c45fbb5f1b5c9b6702c78ef","Department Of Probation (Staten Island)","Professional & Other Places::Government Building::Police Station",40.6338643166667,-74.0753442
+"4c4615a0f1b5c9b6d27178ef","Synergy Fitness","Shop & Service::Gym / Fitness Center::Gym",40.588738072540146,-74.16462606087583
+"4c464446dd35be9adf6fddd8","College of Staten Island 3S","College & University::College Academic Building",40.59691219054059,-74.15003299713135
+"4c46e0c789a6c9b6dc5d9888","FDNY Engine 152","Professional & Other Places::Government Building::Fire Station",40.61185625,-74.070467
+"4c47805789a6c9b632819a88","CSI Basketball Court","College & University::College Stadium::College Basketball Court",40.60520052909851,-74.15063973333334
+"4c479b2b417b20a1d04cdea9","New Yung Hong","Food::Chinese Restaurant",40.61054611206055,-74.14620971679688
+"4c487d9e31e41b8d6d3b5035","NY Public Library - Huguenot Park","Professional & Other Places::Library",40.5342239141464,-74.1929751634598
+"4c48a43619fde21ead590c76","The Original SoupMan","Food::Soup Place",40.59088352825163,-74.1652250289917
+"4c4a6bc09c8d2d7fea757f69","McGinn's Public House","Nightlife Spot::Bar",40.551203964003676,-74.14948865819115
+"4c4bca7646240f47f37fd0f3","The Socialite Seahorse","Arts & Entertainment::Performing Arts Venue",40.558388873807566,-74.13216
+"4c4efcadf53d0f47a25f6ea7","Clove Lakes Park","Outdoors & Recreation::Park",40.618409193834275,-74.10933418984591
+"4c58ade3d3aee21ea97f6655","ShopRite","Shop & Service::Food & Drink Shop::Grocery Store",40.62312240271807,-74.14880990982056
+"4c5ca95f7f661b8d5d50491c","MTA SIR - Richmond Valley Station","Travel & Transport::Subway",40.519803508009325,-74.22895769154275
+"4c5ec41294fd0f4796f9ce45","Bloomingdale Car Wash","Shop & Service::Automotive Shop",40.5490967582619,-74.2210249372561
+"4c5ecef794fd0f473c15cf45","Top Tomato","Shop & Service::Food & Drink Shop::Grocery Store",40.512486,-74.235757
+"4c5ef8877735c9b6d6359372","Napoli Pizza","Food::Pizza Place",40.61606600149769,-74.10402893550157
+"4c5efb6b9b28d13a73bf5d70","Dunkin' Donuts","Food::Coffee Shop",40.589206911862846,-74.19400859424132
+"4c60134623e303bb85d97407","Walgreens","Shop & Service::Drugstore / Pharmacy",40.62473543463314,-74.14090451620118
+"4c60458bc6a103bb2cff675b","RadioShack","Shop & Service::Electronics Store",40.588874,-74.166663
+"4c604ce690b2c9b6716e3c22","Lombardi's Harley Davidson","Shop & Service::Automotive Shop",40.6311397609536,-74.0761581206661
+"4c60553cde6920a1a8ae9564","Hollister Co.","Shop & Service::Clothing Store",40.58265,-74.16601013
+"4c60690dcd522d7f4f10ce3f","Blockbuster","Arts & Entertainment::General Entertainment",40.5427166333333,-74.207314
+"4c608bcb54ac0f4791dfb521","Fredricks Of Hollywood","Shop & Service::Clothing Store::Lingerie Store",40.5815213070628,-74.1659447914025
+"4c61660cb6f3be9af38c6173","Dunkin' Donuts","Food::Café",40.62609725,-74.13445
+"4c61749554ac0f47a6f2b721","Northside Animal Hospital","Professional & Other Places::Medical Center::Doctor's Office",40.631209,-74.12752
+"4c61b3d2eb82d13a0aa003d6","Excelsior Grand Catering Hall","Professional & Other Places::Event Space",40.5727482578193,-74.10702857339915
+"4c61e4f458810f476404061e","Hampton Green","Outdoors & Recreation::Other Great Outdoors",40.55327815321518,-74.19521819470894
+"4c62c06ea86d03bb02892f6a","Gap","Shop & Service::Clothing Store::Men's Store",40.58125681785513,-74.16614546696643
+"4c62d008fa7bc928dcf90e27","Salon Sogno","Shop & Service::Salon / Barbershop",40.60832376488109,-74.16391841234065
+"4c63454eedd320a1d223af29","Mike's Place","Food::Diner",40.52910466355859,-74.16236126270034
+"4c63deb2fa7bc928058b1127","Pio Bagels","Food::Bagel Shop",40.5427670833333,-74.206693
+"4c63ed2c58810f4790cb0a1e","Getty Gas Station","Shop & Service::Gas Station / Garage",40.609315943357714,-74.08977569995662
+"4c64181e79d1e21e2e24da15","Church At The Gateway","Professional & Other Places::Spiritual Center::Church",40.52300308190863,-74.23093509503164
+"4c64d21bc74c1b8d80b1b283","MTA - S74 Staten Island Ferry","Travel & Transport::Bus Station",40.643333,-74.0738518
+"4c658115c2ead13ad11fb180","Richmond County Savings Bank","Shop & Service::Bank",40.5430912342128,-74.1653537750244
+"4c6685d619f3c9b6f805a0ff","Quest Diagnostics","Professional & Other Places::Medical Center",40.546821,-74.165839
+"4c66913ae75ac92882c9f7da","Dunkin' Donuts","Food::Coffee Shop",40.624764,-74.14803
+"4c6ea0e5f338236afcee0a1b","New York Public Library - Dongan Hills","Professional & Other Places::Library",40.5905992557567,-74.1005704025412
+"4c7074e1d274b60ca7e4d90d","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",40.52754931800544,-74.2328093099861
+"4c7801b2794e224b95ac6028","Staten Island Mall","Shop & Service::Mall",40.58183951563831,-74.16625499725342
+"4c784bfe3badb1f74d624b54","Yogurt City","Food::Ice Cream Shop",40.56999082369607,-74.10960674285889
+"4c7a9230a8683704b6fe134d","Gennaro's Pizzeria at Rab's","Food::Pizza Place",40.589348,-74.08972
+"4c7ac74f794e224b93af6928","Midland Beach","Outdoors & Recreation::Beach",40.57263129162902,-74.08819198608397
+"4c7e449ab33a224b6152da81","Verrazano Radiology","Professional & Other Places::Medical Center",40.58425139999514,-74.08715436369619
+"4c8117bed4e23704c83c5a88","Richmond Valley Car Wash","Professional & Other Places::Building",40.51758336,-74.23205
+"4c823e2947cc224bf78d839f","Fill Your Belly Deli","Food::Bagel Shop",40.621266703561,-74.1236662295543
+"4c825c7874d7b60caa317fd8","Richmond County Fair","Arts & Entertainment::General Entertainment",40.570908,-74.145285
+"4c826be86bd495217bf5c4d2","S78 Local Bus","Travel & Transport::Bus Station::Bus Line",40.59583684737085,-74.08604621887207
+"4c826ebdd8086dcb1e3e7652","Midland Beach Board Walk","Outdoors & Recreation::Beach",40.57255472672505,-74.08913901113286
+"4c8464bfd34ca143a7bf3e80","Union Hall","Nightlife Spot::Bar",40.6377624135951,-74.1091990470886
+"4c85537ed4e23704ccd78188","GameStop","Shop & Service::Video Game Store",40.5602104052848,-74.1674566268921
+"4c865b73e602b1f7b241bf7a","I.S. 51","Professional & Other Places::School",40.62297058105469,-74.14466094970703
+"4c86d2a2110176b09e3db340","LA Fitness","Shop & Service::Gym / Fitness Center::Gym",40.58791919795614,-74.19173268944056
+"4c87c4ba72b1236a22fb7036","Wagner College Campus Hall","College & University::College Residence Hall",40.61343338333333,-74.09240291666667
+"4c895f213dc2a1cdc899a332","Tanning Loft","Shop & Service::Tanning Salon",40.5416611,-74.146209
+"4caaa4142f08236aefbc7f61","Pop Tarts Suck Toasted HQ","Professional & Other Places::Office::Tech Startup",40.624581,-74.083916
+"4caab76b36fa6dcba7edd278","FDNY EMS Station 22","Professional & Other Places::Medical Center::Emergency Room",40.5924572526822,-74.1343844330619
+"4cac80f776d3a093992e326b","College Of Staten Island 4S","College & University::College Academic Building::College Science Building",40.59644221701734,-74.14918475076128
+"4cac8e89a6e08cfa6440ac94","US Post Office","Professional & Other Places::Post Office",40.5446259953227,-74.1625848769126
+"4cadc92a8b57a1cdd09e9a75","DaSilva Academic Center","College & University::College Academic Building",40.6213664170812,-74.0915136774122
+"4cadf9880e7bbfb77eab5b83","Sliver Lake Park Road","Outdoors & Recreation::Other Great Outdoors",40.6282748632914,-74.12014497361845
+"4cae559e562d224b28730588","Hawk's Nest","College & University::College Cafeteria",40.615534063143365,-74.09303941337636
+"4cafac029cba9521e06092d9","Eve Ultra Lounge","Nightlife Spot::Nightclub",40.55539559083654,-74.21415801386476
+"4cb0a8301168a093e89e2c23","Philly Pretzel Factory","Food::Restaurant",40.59817886352539,-74.08270263671875
+"4cb0f5beaef16dcb62a8b554","St Elizabeth Ann Nursing Home","Professional & Other Places::Medical Center::Hospital",40.622371673583984,-74.07791900634766
+"4cb195439b34199ce1a9b863","NYRR Staten Island Half Marathon","Outdoors & Recreation::Other Great Outdoors",40.64698,-74.078391
+"4cb1e8e41463a1431f1ba9a9","Northfield Bank","Shop & Service::Bank",40.5602265,-74.16934799620047
+"4cb20225b4b0a35d375d56ce","Tastebud's Natural Food Market","Shop & Service::Food & Drink Shop::Grocery Store",40.58506,-74.0936690568924
+"4cb336cbc5e6a1cdc016ebf6","Kidzrock","Arts & Entertainment::General Entertainment",40.545635,-74.231019
+"4cb4645775ebb60c4d11e2ad","Dunkin' Donuts","Food::Coffee Shop",40.6417255303778,-74.0962973344907
+"4cb70ed39c7ba35dd32f9606","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.566994703617006,-74.1102035343647
+"4cba69c74352a1cdb00c93f5","Staten Island Purgatory","Outdoors & Recreation::Playground",40.527095,-74.177569
+"4cc3409491413704fb8eba55","DSW Designer Shoe Warehouse","Shop & Service::Clothing Store::Shoe Store",40.58696511550602,-74.16760548949242
+"4cc355ddc844721ec78fe201","Men's Wearhouse","Shop & Service::Clothing Store::Men's Store",40.586103200912476,-74.1673493385315
+"4cc4aa99c844721ed7b7ea01","Bayou","Food::Cajun / Creole Restaurant",40.616831778057495,-74.06827048879872
+"4cc5c463bde8f04d8d2fb34b","College Of Staten Island","College & University::University",40.602484146302075,-74.15037631988525
+"4cc5cf63b3de9c7467eeb3c9","2010 ING NYC Marathon STARTING Line - New York Road Runners","Outdoors & Recreation::Dog Run",40.602043,-74.058596
+"4cc7845cfa03224bd0273fef","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.566994703617006,-74.1102035343647
+"4cd155552fd9b60c773686eb","Dubois Yard","Professional & Other Places::Building",40.631930616666665,-74.12933775
+"4cd3e66fecc3a09371af9c93","Macy's","Shop & Service::Department Store",40.583633291196264,-74.16548036998036
+"4cddd1fddb125481d3b72cce","Full Cup","Food::Café",40.62897244286661,-74.08009320876083
+"4ce57823023676eba0f1eab9","Toys"R"Us/Babies"R"Us","Shop & Service::Toy / Game Store",40.566994703617006,-74.1102035343647
+"4ce61a27f865370464c2a0c4","The Cave Of Wonders","Arts & Entertainment::Comedy Club",40.6059711264996,-74.0828838592642
+"4ce67ffcf3bda1437ce9abe4","Country Donuts","Food::Bagel Shop",40.56029273,-74.17730019
+"4ce8651c0f196dcb8b3d45ae","Warriors Of Wrestling Training School","Shop & Service::Gym / Fitness Center",40.639349366666664,-74.119697
+"4ce9c578baa6a1cd7fbd356c","The Gavel Grill","Food::American Restaurant",40.642081,-74.07672736666667
+"4cebcef6948f224b80b9025e","CSI 3N Building","College & University::College Academic Building::College Engineering Building",40.6026611328125,-74.1476058959961
+"4cebf884f865370452dec5c4","Ny's best pizza","Food::Pizza Place",40.63469491,-74.110874
+"4cee8c6ad7268cfa8c6fca4e","CVS","Shop & Service::Drugstore / Pharmacy",40.53425460144847,-74.1535483551799
+"4cf08288e3b9a093133b3953","Staten Island Winery","Nightlife Spot::Wine Bar",40.59880632351624,-74.1818949551806
+"4cf310ca7e0da1cd731e9b97","Green Garden Chinese Restaurant","Food::Chinese Restaurant",40.62906,-74.114176
+"4cf3d4e188de3704c551812b","MIV Mount Loretto","Arts & Entertainment::General Entertainment",40.511822314795,-74.2197295272434
+"4cf418b81457a090789648c6","New York Public Library - Port Richmond","Professional & Other Places::Library",40.62534710949758,-74.13119316101074
+"4cf5445294feb1f7bd622cba","St. John Villa Academy HS","Professional & Other Places::School::High School",40.6010049213211,-74.0684655323918
+"4cf58c7adc40a35d5bfa4254","Con Edison","Professional & Other Places::Building",40.6448129149254,-74.1092137478967
+"4cf8fd46a348f04d5305fb5c","Pet Salon & Spa","Shop & Service::Pet Store",40.573252,-74.11800353185392
+"4cfa5043ee9cb60cb67089ad","Capital One","Professional & Other Places::Event Space",40.630806,-74.10237831
+"4cfcf43cc51fa1cd5d92ee2b","SI Bank & Trust","Shop & Service::Bank",40.58974438333333,-74.10066888333333
+"4d1357fa12916dcb4232dd8a","Colonial Transportation","Shop & Service::Gas Station / Garage",40.57571585,-74.11935951666666
+"4d1a141d731976eb946409dc","Foot Locker","Shop & Service::Clothing Store::Shoe Store",40.581159123617255,-74.166214269967
+"4d39adca6de7721efe03e749","Barnes & Noble Cafe","Food::Coffee Shop",40.592448080524306,-74.16294036561932
+"4d4df83d13d88cfa7cfe0fda","The Fish Tanks at St George Terminal","Arts & Entertainment::Zoo",40.64333096315277,-74.0738582611084
+"4d55ca04b4deb1f758b5087a","Tomato Nail Dalon","Shop & Service::Cosmetics Shop",40.6253492832184,-74.1496735811234
+"4d6075345c39b1f7da9a044a","The PepperJack Grill","Food::American Restaurant",40.6203580364668,-74.12378666221812
+"4d7a4bab7451236a5f14dffe","Specs For Less","Shop & Service::Miscellaneous Shop",40.6256543709478,-74.1373549125391
+"4d7e720887003704517b7199","Dr. Levine","Professional & Other Places::Medical Center::Doctor's Office",40.61398696899414,-74.10135650634766
+"4d86404661676dcbebd59be4","Petland","Shop & Service::Pet Store",40.62576582,-74.13751798333334
+"4d867b34f9f3a1cd7314e164","Pier 1 Imports","Shop & Service::Furniture / Home Store",40.5936900154072,-74.1628142245431
+"4d8b8d921b8f88bf4e456677","European Wax Center","Shop & Service::Spa / Massage",40.57307502849324,-74.10743005093569
+"4d960cdb61a3a1cd4f529242","Bay Street Optical","Professional & Other Places::Medical Center::Doctor's Office",40.62593521472835,-74.07530340410166
+"4d9a4ae41829a0938baebf68","Hilton Garden Inn - Nicotra's Ballroom","Travel & Transport::Hotel",40.614757876495865,-74.17611590259472
+"4d9b4d04b4fa370464089a0d","Subway","Food::Sandwich Place",40.64430373292698,-74.07307194464059
+"4d9b9567e115721e5e353b0b","Goodhue Park","Outdoors & Recreation::Park",40.63595190486095,-74.09352695797624
+"4d9e0203a3cf14562feb9480","yo to go","Food::Snack Place",40.60524,-74.121059
+"4da08889b787a1cd0a298310","Color Me Nailz","Shop & Service::Spa / Massage",40.59153199195862,-74.08799
+"4da1cc259935a093a05ea76f","South Beach Field 4","Outdoors & Recreation::Beach",40.57436641104622,-74.08302439452865
+"4da37771c6e96ea82cdde95d","West Brighton Playground","Outdoors & Recreation::Playground",40.638581102046494,-74.1177024589716
+"4da395aeb521224b736f21ee","Hawks Nest Wagner College","College & University::College Cafeteria",40.6156412485107,-74.0930910358055
+"4da3c7e97ccc816e6b8d847b","Showplace Bowling Alley","Arts & Entertainment::Bowling Alley",40.58841315266268,-74.19156070557155
+"4dab69a44df01c19b19fc22f","CH Performance Center","Arts & Entertainment::Performing Arts Venue",40.61341094970703,-74.09222412109375
+"4dac5c0cbd4197f68356a579","APlus at Sunoco","Food::Coffee Shop",40.55861257826705,-74.19774055883866
+"4daca3eccda1a7f15b1c34c8","Rock, Flag And Eagle","Professional & Other Places::Convention Center",40.62209,-74.124892
+"4dadbc40a86e0d401b8e0d67","Woodrow Shopping Plaza","Shop & Service::Miscellaneous Shop",40.542716193863306,-74.207603931427
+"4db1b7134b22ba776d893bbe","Masjid Un Noor","Professional & Other Places::Spiritual Center::Mosque",40.611181823220335,-74.08754441166354
+"4db59a820437fa536a4429b1","Pizzeria Giove","Food::Pizza Place",40.572221,-74.113082
+"4dc7f78545dd264552acbd76","Dick's Sporting Goods","Shop & Service::Sporting Goods Shop",40.594524,-74.161786
+"4dcc8505d164679b8cd1655c","Aquavibe's Studio","Arts & Entertainment::Music Venue",40.5334875649807,-74.1521377925284
+"4de01d6d1f6ece647372879d","Dr. Patel","Professional & Other Places::Medical Center::Doctor's Office",40.575038,-74.118993
+"4defd6d5d164e99c7b459124","Z-Two Diner & Lounge","Food::Diner",40.52732535038655,-74.2307746109047
+"4dfd50d2d164848a03f8ec97","South Beach Boardwalk","Outdoors & Recreation::Beach",40.59029692668765,-74.06643390655518
+"4e2c85ccd164223a698d6b22","South Beach","Outdoors & Recreation::Beach",40.590755507731835,-74.06651508741021
+"4e3807436284fcf739a14c12","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",40.58999724918286,-74.16578998439077
+"4e39b5a12271aebfead85f44","Varrazano Tile & Granite","Shop & Service::Department Store",40.5983244166422,-74.0803111850036
+"4e45337b18a8bafc629df142","Five Below","Shop & Service::Miscellaneous Shop",40.56958673939423,-74.11007978114488
+"4e4aa4c2ae6014a2fdd4b267","120 Stuyvesant Business Center","Professional & Other Places::Government Building",40.6433809075697,-74.0769898881054
+"4e4fbe8d45ddff0031c3a3bb","The Dominican Barber Shop","Shop & Service::Salon / Barbershop",40.61243730796552,-74.08531309695161
+"4e516aa2d22daf51d291b514","Ariemma's Italian Deli","Food::Deli / Bodega",40.58542221026612,-74.09337209100488
+"4e5308d11520cd65608e8f28","Super Spartan Race","Outdoors & Recreation::Other Great Outdoors",40.520895015073364,-74.19293761253357
+"4e531a28c65bea7986cfd082","101 Cafe","Nightlife Spot::Lounge",40.6121473031671,-74.1583705638436
+"4e56df1e88770d2fe3161666","New York Sports Bar","Nightlife Spot::Bar",40.586062596490265,-74.1936646305775
+"4e5827dd18a82d0a3350ac4a","Justinos Pizza","Food::Pizza Place",40.6128610830692,-74.1306567192078
+"4e5e8fc9d4c08cf7f58f7e29","Staten Island 9/11 Memorial","Arts & Entertainment::Historic Site",40.645802833987574,-74.07650230074054
+"4e6220a5d4c06542aacb763b","Lower Level Verrazno","Outdoors & Recreation::Other Great Outdoors",40.60239521191127,-74.06258545337086
+"4e62c75a483bd9a9747d8cd8","Richmond County Bank Ballpark","Arts & Entertainment::Stadium::Baseball Stadium",40.645298541246035,-74.07677764434841
+"4e6a097618381ea1bdb6b9bd","Last Bus Stop In Staten Island","Travel & Transport::Bus Station",40.60378011809408,-74.06930307024001
+"4e6afb5eae60950955bc161f","Curves","Nightlife Spot::Strip Club",40.5468010599574,-74.2292901260818
+"4e71057b88773f007b854e71","St. Rita's School","Professional & Other Places::School::Elementary School",40.6047580099196,-74.131006745546
+"4e73842ec65bf4cd6217be17","Stapleton Liquors","Shop & Service::Miscellaneous Shop",40.62663389151889,-74.07619253870179
+"4e74caf288775d593da89f75","Great Staten Island Foodie Truck-athon","Food::Food Truck",40.644878,-74.075403
+"4e7732bfb993a71aa4bd73f5","Talk Like A Pirate Day! Arrg!","Outdoors & Recreation::Beach::Surf Spot",40.59539303393052,-74.0766686542183
+"4e78be0faeb726a0e684cf88","Island Coffee Shop","Food::Diner",40.617926,-74.123627
+"4e78e5b81495f00a427b70cd","Convenient Food Mart","Food::Deli / Bodega",40.575581806682976,-74.11951985774643
+"4e7b856ab0fb25ccaf378137","FR. Capodanno boulevard","Outdoors & Recreation::Beach",40.59841077397645,-74.06396226874332
+"4e7cac5c7d8bd116e37c59d6","The Limited","Shop & Service::Clothing Store::Women's Store",40.5816141782888,-74.1647407334671
+"4e87691d5503e35d576ffb31","Mrs. Rosemary's Dance Studio","Arts & Entertainment::Performing Arts Venue::Dance Studio",40.574549385059996,-74.1164688035618
+"4e88b14d29c2ea60eefc6a00","Veterans Park","Outdoors & Recreation::Park",40.63720456025091,-74.12874727365208
+"4e9020e6c2ee0d7f4f692e87","MTA SIR - St. George Station","Travel & Transport::Train Station",40.64321699164897,-74.07350420951843
+"4ea09d3593ad4b32d1a3f183","Charlie Brown's Steakhouse","Food::Steakhouse",40.62226285605139,-74.16927024420363
+"4eab3b0893ad72a2dac60e21","Dugout Pub South","Nightlife Spot::Bar",40.54158939534079,-74.14694270138908
+"4eb185bdd3e36bac670c5598","4B SIUH","Professional & Other Places::Medical Center::Hospital",40.584637626510236,-74.08686182719093
+"4eb6feaf8b81a81f91381c41","Hibachi Grill & Supreme Buffet","Food::Asian Restaurant",40.62596875836906,-74.13750974318563
+"4f3ecb26e4b05f76e1d4494f","Five Guys","Food::Burger Joint",40.57632040416734,-74.16928171117922

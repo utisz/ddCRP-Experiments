@@ -1,0 +1,60 @@
+mkdir: tables: File exists
+mkdir: bin: File exists
+src/Driver.java:52: error: non-static method doDDCRF(ArrayList<ArrayList<TestSample>>) cannot be referenced from a static context
+			doDDCRF(testSamples);
+			^
+src/Driver.java:69: error: cannot find symbol
+		Likelihood l = new DirichletLikelihood(h);
+		                                       ^
+  symbol:   variable h
+  location: class Driver
+src/Driver.java:73: error: cannot find symbol
+		SamplerStateTracker.max_iter = Integer.parseInt(args[0]);
+		                                                ^
+  symbol:   variable args
+  location: class Driver
+src/Driver.java:77: error: cannot find symbol
+		Util.setOutputDirectoryFromArgs(SamplerStateTracker.max_iter, dirichlet_param, alpha, crp_alpha);
+		                                                              ^
+  symbol:   variable dirichlet_param
+  location: class Driver
+src/Driver.java:77: error: cannot find symbol
+		Util.setOutputDirectoryFromArgs(SamplerStateTracker.max_iter, dirichlet_param, alpha, crp_alpha);
+		                                                                               ^
+  symbol:   variable alpha
+  location: class Driver
+src/Driver.java:77: error: cannot find symbol
+		Util.setOutputDirectoryFromArgs(SamplerStateTracker.max_iter, dirichlet_param, alpha, crp_alpha);
+		                                                                                      ^
+  symbol:   variable crp_alpha
+  location: class Driver
+src/Driver.java:108: error: cannot find symbol
+		Posterior p = new Posterior(0, h);
+		                               ^
+  symbol:   variable h
+  location: class Driver
+src/Driver.java:110: error: cannot find symbol
+		Theta t = new Theta(sMAP, h);
+		                          ^
+  symbol:   variable h
+  location: class Driver
+Note: Some input files use unchecked or unsafe operations.
+Note: Recompile with -Xlint:unchecked for details.
+8 errors
+Vocab Size is 419
+Dirichlet parameter is 0.1
+Self Linkage Prob is 4.0
+Number of data points are 8401
+Gibbs Sampler will run for 15 iterations.
+----------------------
+Iteration 1 done
+Took 37.801 seconds
+Total number of observations are 8401
+Total number of documents: 4
+Total number of tables are 1750
+Total number of topics 50
+Average number of tables per topic: 35.0
+Number of tables per topic: {0=39, 1=43, 2=43, 3=32, 4=37, 5=37, 6=27, 7=40, 8=43, 9=27, 10=37, 11=39, 12=36, 13=41, 14=34, 15=43, 17=36, 16=29, 19=39, 18=35, 21=34, 20=28, 23=41, 22=31, 25=33, 24=38, 27=39, 26=43, 29=26, 28=30, 31=27, 30=35, 34=28, 35=39, 32=34, 33=36, 38=39, 39=32, 36=24, 37=30, 42=28, 43=40, 40=38, 41=43, 46=29, 47=28, 44=42, 45=28, 49=33, 48=37}
+Posterior log density: -42919.30369739367
+Log likelihood: -42916.12564356332
+----------------------

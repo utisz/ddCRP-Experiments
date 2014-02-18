@@ -1,0 +1,558 @@
+"455ad751f964a5205a3d1fe3","Stoneridge Shopping Center","Shop & Service::Mall",37.695061240992366,-121.9287371635437
+"4813b667f964a5203f4f1fe3","Dublin/Pleasanton BART Station","Travel & Transport::Train Station",37.70164877943146,-121.89888954162598
+"482767c7f964a520a74f1fe3","Red Robin Gourmet Burgers","Food::Burger Joint",37.69671802434322,-121.8869593507957
+"48277877f964a520b44f1fe3","P.F. Chang's","Food::Asian Restaurant",37.69364879145553,-121.92890480160713
+"48505df7f964a5208e501fe3","Walmart","Shop & Service::Department Store",37.698202279496265,-121.88704490661621
+"49e7e2fbf964a52026651fe3","Fontina Ristorante","Food::Italian Restaurant",37.65919843333334,-121.87660574913025
+"4a2c273af964a52026971fe3","Verizon Wireless","Shop & Service::Electronics Store",37.701054666666664,-121.910695
+"4a2c29d8f964a52028971fe3","In-N-Out Burger","Food::Burger Joint",37.70020442802056,-121.9075220308417
+"4a3d9866f964a5207fa21fe3","The Home Depot","Shop & Service::Hardware Store",37.700167201833935,-121.91004486339034
+"4a3d990ef964a52081a21fe3","Chili's Grill & Bar","Food::American Restaurant",37.692749,-121.90303426
+"4a3ea718f964a5203aa31fe3","Castlewood Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",37.63704059070718,-121.89496813632158
+"4a419b4ff964a52077a51fe3","Pleasanton Library","Professional & Other Places::Library",37.657788,-121.88037896241185
+"4a511ed0f964a5209eb01fe3","Trader Joe's","Shop & Service::Food & Drink Shop::Grocery Store",37.69991706057628,-121.87058687210083
+"4a58cf7ff964a520f0b71fe3","Alameda County Fairgrounds","Professional & Other Places::Fair",37.65975361016274,-121.88633680343627
+"4a624dfdf964a520bbc31fe3","Hilton Pleasanton at The Club","Travel & Transport::Hotel",37.70062299970296,-121.91817421519603
+"4a6261adf964a520ebc31fe3","Casa Real at Ruby Hill Winery","Professional & Other Places::Event Space",37.65161637775018,-121.80700778961182
+"4a636498f964a520efc41fe3","ClubSport","Shop & Service::Gym / Fitness Center::Gym",37.69961064674957,-121.91849093105256
+"4a690fb3f964a5208ccb1fe3","Barone's","Food::Italian Restaurant",37.66410216202342,-121.87533438205719
+"4a70ec0ef964a520c8d81fe3","Sozo Sushi","Food::Japanese Restaurant",37.676341271834154,-121.89483475394746
+"4a7be42df964a520d7eb1fe3","Jack in the Box","Food::Fast Food Restaurant",37.67701117,-121.87508398
+"4a7f4a94f964a52096f31fe3","Meadowlark Dairy","Food::Ice Cream Shop",37.660234244027954,-121.87446982288697
+"4a83694ff964a52010fb1fe3","Foothill High School","Professional & Other Places::School::High School",37.67193102902727,-121.91706292428782
+"4a8b1e5cf964a520820b20e3","Fusion 3 Salon Spa","Shop & Service::Cosmetics Shop",37.66317928628652,-121.87468105048048
+"4a8f5efbf964a520161520e3","Stacey's","Food::American Restaurant",37.65895105,-121.87651335
+"4a9074e3f964a520f91720e3","Express Fitness","Shop & Service::Gym / Fitness Center::Gym",37.69860095727459,-121.8767210435918
+"4a9198eff964a520de1a20e3","Callippe Preserve Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.62641758042688,-121.86075925827026
+"4a99823df964a520bc2e20e3","Gary Patrick Salon","Shop & Service::Salon / Barbershop",37.659327297298994,-121.8761707494271
+"4aa32226f964a520734320e3","Super Franks Fun Adventure","Arts & Entertainment::Arcade",37.70037946288868,-121.90399330261623
+"4ab9360af964a5208a7e20e3","Baja Fresh","Food::Mexican Restaurant",37.69584226840212,-121.92957401275635
+"4ab99949f964a520f97f20e3","Bernal Corners","Shop & Service::Gas Station / Garage",37.6581355780921,-121.89663648605347
+"4aba53fcf964a520e88020e3","Workday","Professional & Other Places::Office",37.69430823760687,-121.92123020739861
+"4abd7f02f964a520ae8a20e3","7-Eleven","Shop & Service::Food & Drink Shop",37.680956,-121.904322
+"4abe650ef964a520398d20e3","Denny's","Food::American Restaurant",37.698699283543135,-121.9055326199893
+"4abfb85ef964a520d29120e3","Pleasanton Sports Park","Outdoors & Recreation::Field",37.683162800786995,-121.88812652430886
+"4ac011ccf964a520ae9320e3","The Hop Yard Alehouse & Grill","Food::American Restaurant",37.677129306081994,-121.89753770828247
+"4ac0e5a5f964a520e79420e3","US Post Office","Professional & Other Places::Post Office",37.67203866693766,-121.87335809206515
+"4ac0e837f964a520ee9420e3","Donut King","Food::Donut Shop",37.677678,-121.87479257583618
+"4ac26c9af964a520179920e3","Apple Store","Shop & Service::Electronics Store",37.69472590604739,-121.92861914634705
+"4ac7a027f964a5208fb820e3","Sport Chalet","Shop & Service::Sporting Goods Shop",37.698271,-121.88556428437825
+"4ac80b34f964a52059bb20e3","Cold Stone Creamery","Food::Ice Cream Shop",37.65931691,-121.87661731666667
+"4ac90686f964a5201bbe20e3","Cheesecake Factory","Food::New American Restaurant",37.69392628224681,-121.92936428976
+"4acba9dcf964a520d9c420e3","Sweet and Savory","Food::Sandwich Place",37.691139000693916,-121.89099311828613
+"4ace3bcef964a52041cf20e3","Nordstrom Café","Food::Café",37.696394,-121.92822
+"4ad0d718f964a52048da20e3","Ruby Hill Winery","Food::Winery",37.65117430120653,-121.80666721364771
+"4ad28e15f964a5202de220e3","Panda Express","Food::Chinese Restaurant",37.69764451,-121.874327
+"4ad3e123f964a520bbe620e3","Sweet Tomatoes","Food::Salad Place",37.688700518550704,-121.90302079862134
+"4ad62824f964a520690521e3","Eddie Papa's","Food::American Restaurant",37.693344,-121.903046
+"4ad62d12f964a5208e0521e3","Fresh Choice","Food::Salad Place",37.695706438139254,-121.92944526672363
+"4ada16b4f964a5203b1e21e3","McDonald's","Food::Fast Food Restaurant",37.700678071977876,-121.87132915452732
+"4ae1fe4ff964a5208f8921e3","St. Elizabeth Seton Church","Professional & Other Places::Spiritual Center::Church",37.687617436836966,-121.87442535386853
+"4ae27b4ef964a5208a8e21e3","Pirates of Emerson Haunted Theme Park","Arts & Entertainment::Theme Park",37.66025472580424,-121.89488768577576
+"4ae32bf8f964a5203b9121e3","East Bay MINI","Shop & Service::Automotive Shop",37.6997824199939,-121.87650426136884
+"4ae35eb5f964a520209421e3","Auto Tech Engine Rebuilders","Shop & Service::Automotive Shop",37.666807,-121.860845
+"4ae612bff964a52080a421e3","Pleasanton DMV Office","Professional & Other Places::Government Building",37.68023050641966,-121.9056270900311
+"4ae75d33f964a520b4aa21e3","Little Home Thai Cuisine","Food::Thai Restaurant",37.700004,-121.869902
+"4ae8bd19f964a520d9b121e3","Peet's Coffee & Tea","Food::Coffee Shop",37.67650675,-121.896734
+"4ae8bdd8f964a520dfb121e3","RedCoats British Pub & Restaurant","Nightlife Spot::Pub",37.66259038967638,-121.87567234039307
+"4aec84cff964a5202dc821e3","Jim's Country Style Restaurant","Food::Breakfast Spot",37.65240490436554,-121.87958385
+"4aef891ff964a52023d921e3","Starbucks","Food::Coffee Shop",37.70094197309937,-121.91015044323002
+"4afa2ca3f964a5202b1722e3","Marriott Bar Pleasanton","Nightlife Spot::Hotel Bar",37.695505,-121.935143
+"4afdf076f964a5203a2c22e3","Smart & Final Extra!","Shop & Service::Food & Drink Shop::Grocery Store",37.69958599207132,-121.90657138824463
+"4afe380ff964a520d12e22e3","Albertos Cantina","Nightlife Spot::Bar",37.66006039,-121.87627202
+"4afefdddf964a520a03222e3","Macy's","Shop & Service::Department Store",37.69380478833088,-121.92850112915039
+"4b005ceef964a520513d22e3","Chevys Fresh Mex","Food::Mexican Restaurant",37.70043800999811,-121.90210385843311
+"4b009268f964a520953f22e3","Raley's","Shop & Service::Food & Drink Shop::Grocery Store",37.651710886907935,-121.87884993362181
+"4b05a9d6f964a52084e022e3","Chicago's Deli","Food::American Restaurant",37.68274764,-121.90445652
+"4b060a55f964a520e5e722e3","Hap's Original Steaks & Seafood","Food::Steakhouse",37.66015821127767,-121.87535919950284
+"4b0ab166f964a520782623e3","Five9, Inc.","Professional & Other Places::Office::Tech Startup",37.690032020131916,-121.93035878455382
+"4b0aefa7f964a520552a23e3","Amarone","Food::Italian Restaurant",37.66257764989096,-121.87456727027893
+"4b0b8c65f964a520303223e3","East Bay BMW of Pleasanton","Shop & Service::Automotive Shop",37.70038869669314,-121.87704343688141
+"4b0c5621f964a520693b23e3","High Tech Burrito","Food::Burrito Place",37.65933060822106,-121.87656540511573
+"4b0c5b90f964a520c93b23e3","Tully's Coffee","Food::Coffee Shop",37.65935,-121.876563
+"4b0d9eb1f964a5206b4c23e3","Red Smoke Grill","Food::American Restaurant",37.68868228957889,-121.90280962519266
+"4b0efe00f964a520b85d23e3","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.675405015809304,-121.87435309167543
+"4b1051b8f964a520b66d23e3","Jack in the Box","Food::Fast Food Restaurant",37.65808874778152,-121.89614078275986
+"4b1064a2f964a520726f23e3","Phở Hòa","Food::Vietnamese Restaurant",37.65767,-121.878119
+"4b12f3ecf964a520809123e3","McDonald's","Food::American Restaurant",37.669736584039754,-121.85817629068862
+"4b149066f964a5209da423e3","Main Sushi","Food::Sushi Restaurant",37.659768,-121.87639117240906
+"4b149ea4f964a5202aa523e3","Pleasanton Main St Brewery","Food::Brewery",37.664481,-121.87393613
+"4b17ec0af964a520aec923e3","Chevron Station","Shop & Service::Gas Station / Garage",37.676412,-121.874175
+"4b182f53f964a5207ece23e3","Fiesta Taco","Food::Mexican Restaurant",37.6787352,-121.87613904476166
+"4b185ef6f964a520a9d123e3","Past Time Pool Hall","Nightlife Spot::Bar",37.660668,-121.87586648333334
+"4b187402f964a520ead223e3","Gay 90's Pizza Co.","Food::Pizza Place",37.658474,-121.876641
+"4b1930dbf964a520f7d823e3","ACE Station Pleasanton","Travel & Transport::Train Station",37.65847409545257,-121.88235723227181
+"4b1aae70f964a52037ef23e3","Cosmos Barber Shop","Shop & Service::Salon / Barbershop",37.662515,-121.87108153
+"4b1aee3ff964a520e2f423e3","Tommy T's Comedy & Steak House","Arts & Entertainment::Comedy Club",37.69811125994499,-121.90534923673601
+"4b1c2314f964a520e20224e3","Patelco Credit Union","Shop & Service::Bank",37.699241638183594,-121.88535061666667
+"4b1ca44ef964a520d40824e3","Pasta's Trattoria","Food::Italian Restaurant",37.659676,-121.87638580799103
+"4b1dae1df964a520ec1324e3","Lucky","Shop & Service::Food & Drink Shop::Grocery Store",37.682261,-121.90528382
+"4b241d01f964a5205c6124e3","The Wine Steward","Nightlife Spot::Wine Bar",37.662314,-121.87534405
+"4b25b643f964a520957524e3","La Palapa","Food::Mexican Restaurant",37.69997249,-121.904805
+"4b2a6671f964a52062a824e3","Starbucks","Food::Coffee Shop",37.689084,-121.902745
+"4b2be0ccf964a520dbbc24e3","Farmers Market","Shop & Service::Flea Market",37.694333,-121.925663
+"4b2c103df964a520bac024e3","Mitchell Katz Winery","Food::Winery",37.65356158017384,-121.8207997083664
+"4b2c4c81f964a5207bc524e3","Simply Greek","Food::Sandwich Place",37.696984081711356,-121.87691688537598
+"4b2d3e85f964a5201bd224e3","Taco Bell","Food::Taco Place",37.65237085,-121.879365
+"4b2d42c4f964a5208dd224e3","Sport Chalet","Shop & Service::Sporting Goods Shop",37.698271,-121.88556428437825
+"4b2d4786f964a520fad224e3","Little Valley Winery","Nightlife Spot::Wine Bar",37.66319765024593,-121.87489449977875
+"4b2d8131f964a52004d824e3","Round Table Pizza","Food::Pizza Place",37.6933449,-121.902167201042
+"4b2dadacf964a5204fda24e3","NY Pizza & Pasta","Food::Pizza Place",37.697595779149786,-121.87451985051135
+"4b2e47f4f964a520e1dd24e3","Starbucks","Food::Coffee Shop",37.65869035,-121.8981
+"4b2ff32ff964a5202ef324e3","Arby's","Food::Fast Food Restaurant",37.698847,-121.90297964
+"4b31341cf964a520860225e3","Cost Plus World Market","Shop & Service::Miscellaneous Shop",37.691854033333335,-121.92440271377563
+"4b32b4b4f964a520471225e3","english rose tea room","Food::Tea Room",37.6605,-121.875531
+"4b33a92cf964a5205d1c25e3","Hertz Rent a Car","Professional & Other Places::Office",37.69324371918091,-121.90214275908069
+"4b33c4d3f964a520cb1e25e3","Cafe Main","Food::Pizza Place",37.659591383333336,-121.87650616666667
+"4b368a3ef964a520973725e3","Noah's New York Bagel","Food::Bagel Shop",37.67539701458978,-121.87442779541016
+"4b393e43f964a520ed5825e3","jcpenney","Shop & Service::Department Store",37.69585,-121.932
+"4b3afa31f964a5201c7025e3","Y'All Come Back Saloon","Nightlife Spot::Bar",37.699794570559746,-121.90376545959194
+"4b3b0cd7f964a520887025e3","Sunshine Saloon","Food::American Restaurant",37.678052,-121.875295
+"4b3bd929f964a520817c25e3","OfficeMax","Shop & Service::Paper / Office Supplies Store",37.69142619683177,-121.9251250854742
+"4b3c0b8af964a520eb8025e3","Kokoro","Food::Sushi Restaurant",37.66241953712039,-121.85589133563239
+"4b3d006ff964a5209a8b25e3","Lee Garden Seafood Restaurant","Food::Asian Restaurant",37.69136297880653,-121.92466393020972
+"4b3d1a9ff964a5200c8e25e3","Rancho Grande Taqueria","Food::Mexican Restaurant",37.67528,-121.8952202796936
+"4b3da7a3f964a5201a9625e3","Pleasanton Hotel Farmer Bar","Food::American Restaurant",37.66466906871582,-121.87441170215607
+"4b3f8b80f964a520c6a825e3","Starbucks","Food::Coffee Shop",37.6751232165065,-121.87381390305289
+"4b3fff65f964a520f0b325e3","Round Table Pizza","Food::Pizza Place",37.660843666666665,-121.8753542
+"4b402607f964a5203ab625e3","New York & Company","Shop & Service::Clothing Store",37.69487274720243,-121.92861980174237
+"4b402918f964a52069b625e3","f.y.e.","Shop & Service::Record Shop",37.695825289632886,-121.92908048629761
+"4b402a49f964a52077b625e3","Bath & Body Works","Shop & Service::Cosmetics Shop",37.69580831085974,-121.92850112915039
+"4b402afbf964a5207fb625e3","Gap","Shop & Service::Clothing Store",37.695256498616104,-121.9288980960846
+"4b4048e4f964a52063b725e3","Aura","Nightlife Spot::Nightclub",37.6920897,-121.902051
+"4b4106b5f964a520a1bf25e3","Jamba Juice","Food::Juice Bar",37.68917158051915,-121.90263179462352
+"4b4134d5f964a5203ec325e3","Borders","Shop & Service::Bookstore",37.70025,-121.884957
+"4b413bcef964a520c8c325e3","abercrombie kids","Shop & Service::Clothing Store::Kids Store",37.695485713431346,-121.92899465560913
+"4b413c7ff964a520d5c325e3","Abercrombie & Fitch","Shop & Service::Clothing Store",37.69523103025956,-121.92811489105225
+"4b413d64f964a520e8c325e3","Aldo Shoes","Shop & Service::Clothing Store::Shoe Store",37.69611392818137,-121.92880153656006
+"4b413f24f964a52003c425e3","American Eagle Outfitters","Shop & Service::Clothing Store",37.694704682265666,-121.92860841751099
+"4b41422bf964a52034c425e3","Ann Taylor","Shop & Service::Clothing Store::Women's Store",37.69523103025956,-121.92880153656006
+"4b414311f964a52047c425e3","AT&T","Shop & Service::Mobile Phone Shop",37.696030645040835,-121.92930317526171
+"4b41487af964a5209dc425e3","Banana Republic","Shop & Service::Clothing Store",37.69499332517662,-121.92861914634705
+"4b41509bf964a52034c525e3","Cinnabon","Food::Bakery",37.695944140935985,-121.92970275878906
+"4b415109f964a5203dc525e3","Claire's","Shop & Service::Clothing Store::Accessories Store",37.694449996411095,-121.9287371635437
+"4b415178f964a52048c525e3","Coach","Shop & Service::Clothing Store::Boutique",37.69607997076339,-121.92888736724854
+"4b4152bcf964a5205cc525e3","Da-Vi Nails","Shop & Service::Nail Salon",37.694623965685224,-121.92871980788826
+"4b4153e6f964a5206bc525e3","Express Men","Shop & Service::Clothing Store",37.69461978707802,-121.92820072174072
+"4b415464f964a52070c525e3","EXPRESS","Shop & Service::Clothing Store::Men's Store",37.69461978707802,-121.92845821380615
+"4b42579bf964a52001d225e3","Saigon Vietnamese Restaurant","Food::Vietnamese Restaurant",37.66436332182409,-121.87393963336945
+"4b427c3af964a520d8d425e3","Foot Locker","Shop & Service::Clothing Store::Shoe Store",37.69434812182431,-121.92871570587158
+"4b4286b2f964a520aed525e3","Frederick's of Hollywood","Shop & Service::Clothing Store::Lingerie Store",37.69509519887689,-121.9282865524292
+"4b4295fcf964a52013d725e3","24 Hour Fitness","Shop & Service::Gym / Fitness Center::Gym",37.68358258503348,-121.8964433670044
+"4b42bc60f964a52070d925e3","Walgreens","Shop & Service::Drugstore / Pharmacy",37.675979,-121.874777
+"4b44020bf964a5200ef025e3","Bob's Giant Burgers","Food::Burger Joint",37.66290039044799,-121.8706887960434
+"4b451c8bf964a520050526e3","Godiva Chocolatier","Food::Snack Place",37.69434812182431,-121.92854404449463
+"4b45336af964a520c80726e3","H&M","Shop & Service::Clothing Store",37.69580831085974,-121.92931652069092
+"4b45353cf964a5200a0826e3","Helzberg Diamonds","Shop & Service::Jewelry Store",37.69452640225931,-121.92797541618347
+"4b4535a8f964a520120826e3","Hollister Co.","Shop & Service::Clothing Store",37.694713171779064,-121.92898392677307
+"4b453643f964a520240826e3","Hot Dog on a Stick","Food::Hot Dog Joint",37.695944140935985,-121.92953109741211
+"4b4617e3f964a520201626e3","Justice","Shop & Service::Clothing Store",37.6957021934395,-121.928667426109
+"4b461d30f964a520d51626e3","The Limited","Shop & Service::Clothing Store",37.695706438139254,-121.92815780639648
+"4b462173f964a520701726e3","Men's Wearhouse","Shop & Service::Clothing Store",37.69607148140647,-121.92875862121582
+"4b462308f964a520a31726e3","Mrs. Fields Cookies","Food::Dessert Shop",37.695910183440255,-121.9288444519043
+"4b462e19f964a5203c1926e3","Spark* Dance Studio","Arts & Entertainment::Performing Arts Venue::Dance Studio",37.661971393080805,-121.85638057571416
+"4b462f48f964a520651926e3","Roche Molecular Systems","Professional & Other Places::Office",37.6922755198894,-121.89604074705665
+"4b464047f964a520891b26e3","PacSun","Shop & Service::Clothing Store",37.694592,-121.92855371666667
+"4b464150f964a520a81b26e3","Payless ShoeSource","Shop & Service::Clothing Store::Shoe Store",37.69595991364326,-121.92920316964587
+"4b4641a1f964a520af1b26e3","Picture People","Shop & Service::Photography Lab",37.6952,-121.928905
+"4b4648c0f964a520801c26e3","Sephora","Shop & Service::Cosmetics Shop",37.69523103025956,-121.92888736724854
+"4b464acdf964a520bb1c26e3","Starbucks","Food::Coffee Shop",37.695021,-121.928392
+"4b464b35f964a520c61c26e3","Steve Madden","Shop & Service::Clothing Store::Shoe Store",37.69560852410943,-121.92891981990748
+"4b464c29f964a520df1c26e3","Subway","Food::Sandwich Place",37.696328677167244,-121.92874758735711
+"4b464c9df964a520eb1c26e3","Sunglass Hut Sport","Shop & Service::Clothing Store::Accessories Store",37.69563135381125,-121.9288253698326
+"4b465459f964a520c61d26e3","Tuttimelon","Food::Dessert Shop",37.69557060762753,-121.92923069000244
+"4b465694f964a520f91d26e3","Verizon Wireless","Shop & Service::Electronics Store",37.6959271621901,-121.929252147675
+"4b465735f964a520071e26e3","Victoria's Secret PINK","Shop & Service::Clothing Store::Lingerie Store",37.695069,-121.928748
+"4b46582bf964a520261e26e3","Wetzel's Pretzels","Shop & Service::Food & Drink Shop::Food Court",37.695937156677246,-121.92924
+"4b4659c0f964a520651e26e3","World Nails","Shop & Service::Salon / Barbershop",37.696154,-121.929186
+"4b47aad4f964a520c03926e3","Abhiruchi (formerly Chef India)","Food::Indian Restaurant",37.6978697,-121.904153
+"4b47fa7bf964a520944526e3","Baci's","Food::Italian Restaurant",37.66047998333333,-121.875774
+"4b4a842af964a520c38926e3","Senro Sushi","Food::Sushi Restaurant",37.659695,-121.874924
+"4b4e052af964a52067de26e3","EMC","Professional & Other Places::Office",37.65951521478716,-121.90027551252956
+"4b4e06adf964a520b2de26e3","Wells Fargo - Hopyard Road","Shop & Service::Bank",37.69082243,-121.903095
+"4b4e96eaf964a52033f226e3","Faz Restaurant & Bar","Food::Mediterranean Restaurant",37.697102,-121.902903
+"4b4fcf4bf964a520381627e3","Cupid's Tooth","Shop & Service::Candy Store",37.66041934490204,-121.875128
+"4b510c1af964a5207a3f27e3","Little Caesars","Food::Pizza Place",37.67637,-121.89476475
+"4b51ee82f964a520f65b27e3","Weight Watchers","Shop & Service::Gym / Fitness Center",37.69205,-121.90250131666667
+"4b529dc0f964a520058427e3","Oasis Grille & Bar","Food::Middle Eastern Restaurant",37.663706,-121.874507
+"4b53a605f964a52036a627e3","Mercedes Benz of Pleasanton","Shop & Service::Automotive Shop",37.700214,-121.90295334999999
+"4b53d5e7f964a520bcac27e3","Kohl's","Shop & Service::Department Store",37.69981221678296,-121.8864368977057
+"4b54ca11f964a52083cc27e3","Korean Village","Food::Korean Restaurant",37.678101,-121.874924
+"4b54d07ef964a520c4cd27e3","Valleycare Medical Center","Professional & Other Places::Medical Center::Hospital",37.69338079975035,-121.87988379232856
+"4b55143ef964a5206bda27e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",37.69845814853273,-121.87433641577803
+"4b587ca9f964a520185a28e3","Amelia's Deli-Bistro","Food::Sandwich Place",37.659424,-121.87558976
+"4b590db6f964a520507a28e3","Nordstrom","Shop & Service::Department Store",37.69628706940883,-121.92806976631579
+"4b59d759f964a5204d9b28e3","Dolores Bengtson Aquatic Center","Shop & Service::Gym / Fitness Center::Gym Pool",37.672917389723445,-121.87597274780273
+"4b5a0758f964a520b9a828e3","Sultan's Kebab","Food::Falafel Restaurant",37.658981680870056,-121.897491
+"4b5a589af964a520e9be28e3","Leapfish.com","Professional & Other Places::Office::Tech Startup",37.699248,-121.881696
+"4b5b2fe4f964a520a2e928e3","Pump It Up","Arts & Entertainment::General Entertainment",37.67027967,-121.863067
+"4b5b96e0f964a5203f0929e3","Gene's Fine Foods","Shop & Service::Food & Drink Shop::Grocery Store",37.6759195602699,-121.89550166420709
+"4b5b9830f964a5209a0929e3","BounceU","Arts & Entertainment::General Entertainment",37.69881685,-121.917734742165
+"4b5bf551f964a520fb1e29e3","T.G.I. Friday's","Food::American Restaurant",37.697075289817775,-121.87569827245544
+"4b5f163ef964a5205da529e3","Safeway Corporate Headquarters","Professional & Other Places::Office",37.69742127694739,-121.93208456039429
+"4b5f52eff964a5200db429e3","Suisha House","Food::Sushi Restaurant",37.659248,-121.89828
+"4b607b3df964a520a8e829e3","Big Apple Bagels","Food::Bagel Shop",37.6891028881073,-121.902714
+"4b6136c0f964a5201d0d2ae3","Meiko Sushi","Food::Sushi Restaurant",37.67707586288452,-121.87556505203247
+"4b6350b4f964a520ab712ae3","Ume Sushi","Food::Japanese Restaurant",37.693349163255384,-121.90189824049662
+"4b637a92f964a5200a7d2ae3","The Rose Hotel","Nightlife Spot::Lounge",37.663934769827044,-121.87454764362623
+"4b648623f964a520aaba2ae3","Andersen Bakery","Food::Bakery",37.695825289632886,-121.92903757095337
+"4b648892f964a5207dbb2ae3","The Jelly Donut","Arts & Entertainment::Arcade",37.676277297248,-121.889721641507
+"4b65f353f964a520860a2be3","New York Pizza","Food::Pizza Place",37.66276025327321,-121.87463164329529
+"4b65f88df964a520c60b2be3","Studio Seven Arts","Arts & Entertainment::Art Gallery",37.6595542953615,-121.876058578491
+"4b660deff964a52007112be3","Kinder's Meats Deli BBQ","Food::BBQ Joint",37.69264876842499,-121.90200381666666
+"4b66227bf964a520a0152be3","Ruby Hill Golf & Country Club","Outdoors & Recreation::Athletic & Sport::Golf Course",37.6402560205469,-121.81453163469514
+"4b67306df964a52048402be3","De La Torre's Trattoria","Food::Italian Restaurant",37.682535,-121.904610466667
+"4b6730d0f964a52065402be3","Pronto Gourmet Burritos","Food::Mexican Restaurant",37.658697,-121.897849
+"4b67aa6ff964a5201a5a2be3","Rite Aid","Shop & Service::Drugstore / Pharmacy",37.67611,-121.89507741
+"4b684f83f964a52006712be3","Val Vista Community Park","Outdoors & Recreation::Park",37.68793018722537,-121.91364563453305
+"4b688405f964a520507d2be3","Tuesday Morning","Shop & Service::Miscellaneous Shop",37.69091069698334,-121.87752306461334
+"4b68adf1f964a520a4862be3","Salon Vivace","Shop & Service::Cosmetics Shop",37.660604,-121.874264
+"4b6a005bf964a520ecc02be3","Amador Valley High School","Professional & Other Places::School::High School",37.66905993876458,-121.87381390305289
+"4b6a0146f964a52030c12be3","ExtraTeam","Professional & Other Places::Office",37.660781,-121.90012335777283
+"4b6b2ec9f964a52012f82be3","Erik's DeliCafe","Food::Sandwich Place",37.698546,-121.87333533333333
+"4b6b44b2f964a52025fd2be3","Kaiser Permanente","Professional & Other Places::Medical Center::Doctor's Office",37.69075924866007,-121.92684745552792
+"4b6b4a0cf964a5206ffe2be3","Four Points by Sheraton Pleasanton","Travel & Transport::Hotel",37.697010097034045,-121.90243173489067
+"4b6c94a1f964a5208b442ce3","Palm Event Center in the Vineyard","Professional & Other Places::Event Space",37.65413069089868,-121.82035446166992
+"4b6cdba9f964a52098592ce3","Sato Japanese Cuisine","Food::Japanese Restaurant",37.6770680861347,-121.897080002442
+"4b6dd420f964a520b4932ce3","California Pizza Kitchen ASAP","Food::Pizza Place",37.69458582897573,-121.92807197570801
+"4b709b4ff964a520e2242de3","Pleasanton House Thai Cuisine","Food::Thai Restaurant",37.66631880625427,-121.87381356954575
+"4b748753f964a5200ee22de3","Valero","Shop & Service::Gas Station / Garage",37.675861,-121.8964272737503
+"4b74b4faf964a5208eed2de3","Cisco Systems Inc.","Professional & Other Places::Office",37.699204,-121.901676
+"4b75aee7f964a520be1c2ee3","American Red Cross","Professional & Other Places::Medical Center",37.692165,-121.924510066667
+"4b75efc3f964a52055302ee3","Cafe Delatti","Food::Ice Cream Shop",37.650274,-121.880505
+"4b76027df964a5204f362ee3","Golden Eagle Estates","Professional & Other Places::Building",37.645262261091,-121.901078224182
+"4b76211af964a520b43e2ee3","Yogofina","Food::Ice Cream Shop",37.659458,-121.876063
+"4b7626faf964a52050402ee3","Oasis Wine Lounge","Nightlife Spot::Wine Bar",37.6637645638464,-121.874213218689
+"4b7853d3f964a520bcc52ee3","Pleasanton Hand Car Wash","Shop & Service::Automotive Shop",37.700429533333335,-121.869259
+"4b7ad573f964a5209d3f2fe3","Fidelity National Title","Professional & Other Places::Office",37.69461429274286,-121.90097573368828
+"4b7cbefff964a520eaa32fe3","St. Augustine Church","Professional & Other Places::Spiritual Center::Church",37.654395471040424,-121.86881099676746
+"4b7e0a75f964a52061e02fe3","Royal Tofu House","Food::Korean Restaurant",37.679938,-121.875329017639
+"4b7ef0a6f964a520f50a30e3","Togo's Sandwiches","Food::Sandwich Place",37.692205300000005,-121.92468810000001
+"4b80415ff964a520606130e3","Pleasanton Farmers' Market","Shop & Service::Food & Drink Shop::Farmers Market",37.659210023269324,-121.8753719329834
+"4b805a26f964a520836a30e3","Berry Patch","Shop & Service::Arts & Crafts Store",37.65955,-121.876217
+"4b81b7a2f964a520b1b930e3","BevMo!","Shop & Service::Food & Drink Shop::Liquor Store",37.69954432581801,-121.90698856106108
+"4b81cc5bf964a520a8be30e3","Forever 21","Shop & Service::Clothing Store::Women's Store",37.694719,-121.928657
+"4b85b331f964a520bd6d31e3","Victoria's Salon","Shop & Service::Salon / Barbershop",37.6604663,-121.876175
+"4b8e90a2f964a520fa2833e3","Rising Loafer","Food::Bakery",37.659849,-121.876134
+"4b8f0e4af964a520cd4633e3","Chinese Szechuan Restaurant","Food::Chinese Restaurant",37.6773655414581,-121.896236016667
+"4b945ad0f964a520f57534e3","La Vite Ristorante","Food::Italian Restaurant",37.67709732055664,-121.896731266667
+"4b956d55f964a520fba134e3","Mr. Pickle's Sandwich Shop","Food::Sandwich Place",37.677237,-121.896115
+"4b96d319f964a52005e734e3","Murphy's Paw","Shop & Service::Pet Store",37.659693,-121.876122951508
+"4b98692af964a520df4035e3","Moma Rosa","Food::Italian Restaurant",37.701316833496094,-121.87081146240234
+"4b993c6af964a5204e6c35e3","Dr Beanz","Food::Juice Bar",37.676914,-121.875219
+"4b998d34f964a520f88235e3","Blue Agave Club","Food::Mexican Restaurant",37.66196966171265,-121.87541487
+"4b9a70fff964a52091b535e3","Bank of America","Shop & Service::Bank",37.65913188457489,-121.87743348
+"4b9abf0cf964a52008d235e3","Pleasanton Ridge Regional Park","Outdoors & Recreation::Hiking Trail",37.61445663114903,-121.88182532787323
+"4b9ac1c8f964a520f0d235e3","Shadow Cliffs Regional Recreation Area","Outdoors & Recreation::Other Great Outdoors",37.67033577442535,-121.84267044067383
+"4b9bbed3f964a520662036e3","el gallo tacqueria","Food::Taco Place",37.699406,-121.871696
+"4b9c5cb0f964a520bc6236e3","Casa Madrid","Food::Spanish Restaurant::Paella Restaurant",37.65993622049162,-121.87603712081909
+"4b9dc21bf964a5208dbc36e3","Senro Japanese Bar & Grill","Food::Japanese Restaurant",37.659636,-121.87495
+"4b9e2d8bf964a5209dcf36e3","Baskin-Robbins","Food::Ice Cream Shop",37.69756,-121.874718
+"4b9e5c6af964a520e9dc36e3","Sheraton Pleasanton Hotel","Travel & Transport::Hotel",37.69852,-121.92997
+"4b9fd0eef964a520464137e3","Blackhawk Network","Professional & Other Places::Office",37.69555289396907,-121.92166359579245
+"4ba012a2f964a520a25737e3","Stoneridge business park","Professional & Other Places::Office",37.6878958001103,-121.877610402112
+"4ba030e5f964a520816037e3","Hart Middle School","Professional & Other Places::School::Middle School",37.68594164145409,-121.89755238802023
+"4ba17041f964a5200ab737e3","Keller Williams Tri Valley Realty","Professional & Other Places::Office",37.6815367439601,-121.902453963768
+"4ba1857df964a520ddbd37e3","Sendo Sushi","Food::Japanese Restaurant",37.689363,-121.902679
+"4ba3d83ff964a520cf6538e3","Strizzi's","Food::Italian Restaurant",37.66245078195424,-121.87510906305215
+"4ba40ae6f964a520fa7a38e3","Kamal Spices","Shop & Service::Food & Drink Shop::Grocery Store",37.699324255725436,-121.87169047489296
+"4ba6c50ff964a5209a6e39e3","Harvest Park Middle School","Professional & Other Places::School",37.6751932129317,-121.882066726685
+"4ba770b0f964a5200c9439e3","CarrAmerica","Professional & Other Places::Office::Coworking Space",37.699509591437135,-121.88150882720947
+"4ba7b195f964a52067aa39e3","Infiniti Of Pleasanton","Shop & Service::Automotive Shop",37.7003120666667,-121.874248
+"4ba7eaf8f964a5208fbe39e3","Togo's Sandwiches","Food::Sandwich Place",37.690301,-121.87756
+"4ba803aaf964a52068c639e3","Shell Gas Station","Shop & Service::Gas Station / Garage",37.69843556666667,-121.90355658531189
+"4ba83646f964a5208dd139e3","Heavenly day spa","Shop & Service::Spa / Massage",37.66406574,-121.8734708
+"4baad644f964a5208a893ae3","Nations Giant Hamburgers","Food::Burger Joint",37.69934356212616,-121.90386
+"4baae766f964a520218d3ae3","Burger King","Food::Fast Food Restaurant",37.699645,-121.904595
+"4babce22f964a52015cb3ae3","Tri-Valley CVB","Travel & Transport::General Travel",37.6954857134313,-121.902794837952
+"4bae83fef964a520aabb3be3","The UPS Store","Professional & Other Places::Post Office",37.677916,-121.87491
+"4bae9c47f964a52071c63be3","Macy's Men's, Children's & Home","Shop & Service::Department Store",37.69492540929866,-121.92970275878906
+"4baffec5f964a520ba303ce3","Walnut Grove Park","Outdoors & Recreation::Park",37.67458180459873,-121.88507080078125
+"4bb0eb1ef964a5200a6a3ce3","Kaiser Permanente","Professional & Other Places::Office",37.69756948416383,-121.8939566492967
+"4bb0f6e9f964a5205b6e3ce3","BayEast Association of Realtors","Professional & Other Places::Office",37.690412,-121.93034
+"4bb10b48f964a52064753ce3","Subway","Food::Sandwich Place",37.688811,-121.90267084
+"4bb11009f964a52008773ce3","Blessings","Food::Chinese Restaurant",37.6790677666667,-121.876123
+"4bb4cb93a70595212cb11bce","Crispim Brazilian Jiu Jitsu","College & University::College Classroom",37.69920398811303,-121.9167423248291
+"4bb60df746d4a5938f9cc5c0","Safeway.com Headquarters","Professional & Other Places::Office",37.6953249397604,-121.932842204377
+"4bb654b02f70c9b6e93f8530","El Molino","Food::Mexican Restaurant",37.69979,-121.903867721558
+"4bb67bc02f70c9b6a6808530","Keypoint Credit Union","Professional & Other Places::Building",37.69864029526555,-121.92392496654212
+"4bb6d0f0f562ef3bf3ca3097","motel 6","Arts & Entertainment::Arcade",37.6977989666667,-121.904873
+"4bb7c0e498c7ef3b24503002","Big O Tires","Shop & Service::Automotive Shop",37.669035,-121.861089
+"4bb7fc4b53649c747d9946fb","Taco Bell","Food::Taco Place",37.69337605780655,-121.92521953872378
+"4bba4a0b935e952108f82790","Emilio's El Portal","Food::Mexican Restaurant",37.664469484082,-121.873904764652
+"4bbb65e37421a59366c6c440","Chase Bank","Shop & Service::Bank",37.6617048435099,-121.876115164006
+"4bbbc9623de8c9b6ae439aad","US Post Office","Professional & Other Places::Post Office",37.695046773170475,-121.90172596571433
+"4bc0f914abf49521ee47c093","Heroes and Villains Comics","Shop & Service::Hobby Shop",37.658435,-121.876754
+"4bc38501dce4eee18fa3719d","Extended Stay Deluxe Pleasanton - Chabot Dr.","Travel & Transport::Hotel",37.69013822078705,-121.90082609653473
+"4bc3dd37dce4eee183c8719d","Pleasanton Hotel Patio Bar","Food::American Restaurant",37.6642975011479,-121.874390244484
+"4bc4fa140969a5938b4b636e","Shell Gas Station","Shop & Service::Gas Station / Garage",37.699757045310136,-121.87156818197815
+"4bc62b4dd35d9c741f48e23a","KFC","Food::Fast Food Restaurant",37.677305,-121.874539
+"4bc63503f360ef3b8854db2d","Good Chiropractic","Professional & Other Places::Medical Center::Doctor's Office",37.682228554004666,-121.87403624919494
+"4bc667eb04e8b713e60a362d","Mountain Mike's Pizza","Food::Pizza Place",37.690418,-121.877228021622
+"4bc74eed2f94d13a39a9117f","RadioShack","Shop & Service::Electronics Store",37.6989296,-121.8856492
+"4bc7a8176501c9b67be83e29","Chevron Station","Shop & Service::Gas Station / Garage",37.698280067742154,-121.90454901533633
+"4bc8dffd3740b713bd955d65","Muirwood Park","Outdoors & Recreation::Park",37.68372155835912,-121.91791306284004
+"4bca01123740b713d7c65f65","Zorns Restaurant","Food::Breakfast Spot",37.6769202947617,-121.897827386856
+"4bca1fa0511f95219d18afc7","99 Ranch Market 大華超級市場","Shop & Service::Food & Drink Shop::Grocery Store",37.69940727637111,-121.87348038300223
+"4bca56c2937ca59386bfa792","Spring Rain","Food::Korean Restaurant",37.665951,-121.8739
+"4bca58fbfb84c9b6a10e1d3e","Michael Kors","Shop & Service::Department Store",37.6955536287961,-121.929348707199
+"4bca76e9fb84c9b615561d3e","Alameda County Fairgrounds - Grandstand","Arts & Entertainment::Stadium::Track Stadium",37.659577699111175,-121.88299642685644
+"4bcc7aab3740b713270c6465","Bibiane Bakery","Food::Bakery",37.659339,-121.876547
+"4bccb0698920b713fd909edc","Pleasanton Golf Center","Outdoors & Recreation::Athletic & Sport::Golf Course",37.663772576554216,-121.8968465876459
+"4bccbae5b6c49c744d489491","Pleasanton Ridge Regional Park","Outdoors & Recreation::Hiking Trail",37.61445663114903,-121.88182532787323
+"4bcdf52c0687ef3b3ccbe1cc","Crossfit Pleasanton Re-active Gym","Shop & Service::Gym / Fitness Center",37.698707651295955,-121.91828534367042
+"4bce6013ef109521821d8486","Kaki Sushi","Food::Sushi Restaurant",37.690355,-121.877326
+"4bcf25bc549676b07e9eace5","MegaPath, Inc.","Professional & Other Places::Office::Tech Startup",37.688559,-121.889862
+"4bd1d728caff95215971d1f0","Olde Towne Realty - Out of Business! Closed!","Professional & Other Places::Office",37.65973662313257,-121.8683123588562
+"4bd20f60b221c9b617d4d6d0","Superior Court Of California, County Of Alameda","Professional & Other Places::Government Building::Courthouse",37.690403716666665,-121.888149
+"4bd491d56f649521fba06dec","Frenandos Mexican Food And Bar","Food::Mexican Restaurant",37.662521,-121.876
+"4bd4924e5631c9b64fa4a230","Heriot Donuts","Food::Donut Shop",37.65102767944336,-121.87974548339844
+"4bd4d02acfa7b71393ee24da","Fairlands Park","Outdoors & Recreation::Park",37.694748688745825,-121.87318577278808
+"4bd63de029eb9c74e2e394e1","Gold Chopsticks","Food::Chinese Restaurant",37.69186,-121.877
+"4bd75c03f645c9b618c2a5e0","Straw Hat Pizza","Food::Pizza Place",37.676019821476,-121.895996286715
+"4bd7912c5cf276b064aa9b00","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",37.70091077229669,-121.91020045469772
+"4bd799b3e914a59341b751fa","Pleasanton Marriott Hotel","Travel & Transport::Hotel",37.69539179520539,-121.93510890105652
+"4bd8d4340115c9b632857580","CenterPointe Church","Professional & Other Places::Spiritual Center",37.67666626883367,-121.86308517106161
+"4bdc973fccf52d7f1f78786d","Delucchi Park","Outdoors & Recreation::Park",37.65934926981139,-121.8744309124968
+"4bdca4adccf52d7f77b3786d","Subway","Food::Sandwich Place",37.6507804666667,-121.878827316667
+"4bddd6f86198c9b6e3e211ff","Encore Theatrical Supply","Shop & Service::Clothing Store",37.692084,-121.924622654915
+"4bde0def0ee3a59355c92fb0","Vintage Hills Park","Outdoors & Recreation::Park",37.65745066718983,-121.84896946907469
+"4be0f2247f060f47075a40bf","First Wednesday Street Party","Shop & Service::Flea Market",37.65990708954206,-121.87605402001002
+"4be1cfce87e42d7f3ff8870b","Cal Coast Plumbing","Shop & Service::Miscellaneous Shop",37.64899021,-121.87969875
+"4be1d2c387e42d7f0602880b","Recycling Center","Outdoors & Recreation::Other Great Outdoors",37.67374345,-121.85442924499512
+"4be3019b2ff376b088434fed","Downtown Pleasanton","Professional & Other Places::Building",37.66175761331163,-121.8753758752461
+"4be5c1f02468c9288c800043","Tri Valley Restaurant","Food::Chinese Restaurant",37.691553,-121.924648
+"4be9f3b561aca593693c8300","Avalon Pleasanton apartments","Arts & Entertainment::Arcade",37.693308,-121.883085733333
+"4bec7c0a976ac9280115610b","Wells Fargo","Shop & Service::Bank",37.6655119893882,-121.873387098312
+"4beec7a43686c9b698ee246e","Thoratec","Professional & Other Places::Office",37.69151774,-121.908474
+"4bef36a85e4aa593d3bd58bb","Del Prado Cabana Club","Outdoors & Recreation::Pool",37.665039346342006,-121.90292076915287
+"4bf1b11dd39ad13a418aaa0e","Jack in the box","Food::American Restaurant",37.6476936340332,-121.8908920288086
+"4bf2c5ee77b4c9280da66a1c","Oracle","Professional & Other Places::Office",37.70062244790383,-121.89082765001835
+"4bf340aee5eba59334671e90","El Balazo","Food::Mexican Restaurant",37.699068164009,-121.885360479355
+"4bf58d4194b2a593f8cdabee","Safeway Corporate Headquarters","Professional & Other Places::Office",37.69742127694739,-121.93208456039429
+"4bf5fa00c07c9c74b554bbef","Shell Gas Station","Shop & Service::Gas Station / Garage",37.68132134,-121.90433442592621
+"4bf611b9bfeac928abd49336","Popi Lounge","Nightlife Spot::Bar",37.6773555,-121.89742614
+"4bf8775e5ec320a11edd88d3","Gloria Jean's Coffee","Food::Coffee Shop",37.694082,-121.92883258
+"4bf981e18d30d13a35570218","Savvy Seconds","Shop & Service::Clothing Store::Boutique",37.661163,-121.87533455
+"4bf9a8c7b182c9b64c55795a","Cheese Steak Shop","Food::Sandwich Place",37.692331382697965,-121.90211497290522
+"4bf9cd0d5efe2d7f74de6c34","Bank of America","Shop & Service::Bank",37.69186913040425,-121.90431833267212
+"4bfc5fccf14fa59391ebc9d4","Golfsmith","Shop & Service::Sporting Goods Shop",37.69771195,-121.87684981
+"4bfea7544e5d0f47e9ed7c1f","EMC Information Intelligence Group","Professional & Other Places::Office",37.6596801427382,-121.9003533151
+"4bff0909ca1920a11343ec81","Studio Style","Shop & Service::Salon / Barbershop",37.66163579718991,-121.87668769250823
+"4bff16b3ca1920a1f35bec81","Thai Kitchen & Noodles","Food::Thai Restaurant",37.69590093300188,-121.92935317803556
+"4bff2491e584c9280dda6d25","Ruby Hill Pool","Outdoors & Recreation::Pool",37.64515130458202,-121.8043088914766
+"4c01a59ff8492d7f22395ffa","Valero","Shop & Service::Gas Station / Garage",37.69156349558634,-121.87803268432617
+"4c01c39a3ab80f4752b890ff","Champs Sports","Shop & Service::Clothing Store",37.69599484639572,-121.92926428419968
+"4c02a99d39d476b04ff62ea7","Amador Valley Veterinary Hospital","Professional & Other Places::Medical Center::Veterinarian",37.67816483974457,-121.875816
+"4c04009c310fc9b67aabc661","Hunan Chef Chinese Restaurant","Food::Chinese Restaurant",37.67748375128174,-121.87499789111477
+"4c053b48f423a5932cadd216","First American Title","Professional & Other Places::Office",37.69333346529877,-121.90471572860658
+"4c06d3450e0a2d7fd870ec0c","Sprint Store - Home Depot Center","Shop & Service::Electronics Store",37.70001411437988,-121.90814852714539
+"4c072f4b8a81c9b6a2f52690","World Financial Group","Professional & Other Places::Office::Coworking Space",37.660719,-121.900535
+"4c08346f340720a1c0c88293","Healthy Necessity Massage","Shop & Service::Spa / Massage",37.660846,-121.875067
+"4c085efcffb8c9b6183f6861","Friday Night Concert - Lions Wayside Park","Outdoors & Recreation::Park",37.660186483333334,-121.873483
+"4c0d46f2b1b676b0f957e086","Taco Bell","Food::Taco Place",37.6975748620463,-121.874380884832
+"4c13e3a67f7f2d7f94eddf68","Rage Super Burger","Food::Burger Joint",37.658794,-121.897353
+"4c16675482a3c9b6ba4100f9","Bagel Street Cafe","Food::Bagel Shop",37.65227512,-121.87882
+"4c1688ec6470a5939afa56d2","Pleasanton Unified School District","College & University::General College & University",37.6558908334444,-121.8762152177441
+"4c17c91a4b8bd13a58554c83","Koll Center Gym","Shop & Service::Gym / Fitness Center::Gym",37.66208928980114,-121.90183997154236
+"4c17f8c4834e2d7fd82c2880","Ruby Hill Park","Outdoors & Recreation::Park",37.64528615072108,-121.80443125847746
+"4c1cf634b306c92823ae64b7","Rick's Performance Auto Repair","Shop & Service::Automotive Shop",37.67020607307204,-121.85797059106784
+"4c225a517e85c92841e4bb21","Exhibition Hall","Arts & Entertainment::Art Gallery",37.65974,-121.886193
+"4c2539bbc11dc9b6b1db2624","jcpenney","Shop & Service::Department Store",37.69585,-121.932
+"4c278bb2a852c9280667e86c","Val Vista Park","Outdoors & Recreation::Park",37.684480083333334,-121.912715
+"4c28d59e9eb19521ee9c2959","Kaiser Permanente PTC Building E","Professional & Other Places::Office",37.69821925772116,-121.8927526473999
+"4c28d7ea9eb19521669d2959","Kaiser Permanente PTC Building F","Professional & Other Places::Office",37.6988644273865,-121.89193725585938
+"4c2e55db213c2d7ff9fe2e5d","Alviso Adobe","Outdoors & Recreation::Other Great Outdoors",37.660380333333336,-121.911936
+"4c2e7d4f452620a146f91b0f","Red Square Salon","Shop & Service::Cosmetics Shop",37.66418,-121.87403082847595
+"4c32664666e40f47a878c68b","VIP Cleaners","Shop & Service::Laundry Service",37.67781074790058,-121.87588155269623
+"4c338b617cc0c9b6aefaf19a","AT&T Training Center","Professional & Other Places::Office",37.687468165712865,-121.89939745114818
+"4c33b8246f1fef3b3c9fec3d","Alameda County Fair - Big Bubba's Bad BBQ","Food::BBQ Joint",37.660089,-121.88552
+"4c33c516ed37a593ceef6d03","Pak Mail","Professional & Other Places::Post Office",37.65104325,-121.878807
+"4c3632b0dfb0e21e98a8aaa8","Yat sing","Food::Asian Restaurant",37.65235737738446,-121.87947247335546
+"4c367ed452dfef3b80c6ee70","Ayma G's house","Nightlife Spot::Strip Club",37.649158,-121.896111
+"4c368ceb3849c9284352bcb1","Mexico Lindo","Food::Mexican Restaurant",37.65841648333333,-121.8989244
+"4c377f8493db0f4773e61f92","Nonni's Bistro","Food::American Restaurant",37.659923480250704,-121.87640190124512
+"4c38d867ae2da593477801c6","Horseracing at Alameda County Fair","Outdoors & Recreation::Other Great Outdoors",37.661291,-121.88456436666667
+"4c39e3233849c92803f1c1b1","CenterPointe Church","Professional & Other Places::Spiritual Center",37.67666626883367,-121.86308517106161
+"4c3c8d81282203bb54a2fcda","American Eagle Outfitters","Shop & Service::Clothing Store",37.694704682265666,-121.92860841751099
+"4c3cb6c2980320a1ba0f8be4","Norcal Mastercraft","Shop & Service::Sporting Goods Shop",37.70136541959404,-121.90438230181418
+"4c3d3fae0928b713f21195ef","Ghost Ship Emerson","Travel & Transport::Ferry::Boat or Ferry",37.6606922,-121.89529
+"4c3e31dd51dee21eb046ea6e","Starbucks By Food Court","Food::Coffee Shop",37.6951539516449,-121.9284569
+"4c3f1689b8b4be9a4dfdccef","PeridotCorp","Professional & Other Places::Office",37.670079,-121.867043
+"4c3f3ae9e26920a1371d5be7","Pleasanton Gas Station","Shop & Service::Gas Station / Garage",37.662753,-121.87495756666667
+"4c3fa6fbe26920a16ace5be7","Pleasanton Wine Stroll","Nightlife Spot::Wine Bar",37.661279,-121.87516
+"4c454f3cda2176b04b21637a","Club Oracle","Shop & Service::Gym / Fitness Center::Gym",37.70054471048197,-121.89026631039897
+"4c463d0ddd35be9ab251ddd8","Guerrilla Jiujitsu","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.689782,-121.884781
+"4c475a5176d72d7ff3e13c4d","Rio Viejo Taqueria","Food::Mexican Restaurant",37.66967663,-121.858552
+"4c48d6ea9f2ad13a75637a52","Richert Locksmith Company","Shop & Service::Hardware Store",37.650109,-121.88112998
+"4c4ae6fb712ac928d3b0206c","Gimanelli's Delicatessen","Food::Deli / Bodega",37.665842,-121.874189
+"4c4afc3e5609c9b6b1487b90","Donlon elementary school","Professional & Other Places::School",37.6839201125701,-121.906916320163
+"4c4b6a849e6dbe9aad26fe0b","Nordstrom","Shop & Service::Department Store",37.69628706940883,-121.92806976631579
+"4c4b90eaf7cc1b8d17a50840","Mama Rosa Pizza & Pasta","Food::Italian Restaurant",37.69983158,-121.870972
+"4c4b9fc8bad7a593c63d14ac","Archstone Hacienda Apartments","Residence::Residential Building (Apartment / Condo)",37.6958911181927,-121.888915748937
+"4c4bc81af7cc1b8d9cbe5940","Tommy T's","Nightlife Spot::Cocktail Bar",37.69799805230668,-121.90517696734165
+"4c4dbddad667d13a1bb1569f","Designs School of Cosmetology","College & University::General College & University",37.6914818156817,-121.92424166586403
+"4c50613338b0be9a21f56dfd","Main Street Meat & Fish Market","Shop & Service::Food & Drink Shop::Butcher",37.66287,-121.87465310096741
+"4c5236b294790f47bb5b4ba2","Shear Cuts","Shop & Service::Salon / Barbershop",37.675325,-121.895385
+"4c53c45c7fafef3b550bfa1f","Courtyard by Marriott","Travel & Transport::Hotel",37.69417626,-121.90278
+"4c57bddb6418a593f920800e","Pleasanton, CA","Outdoors & Recreation::Other Great Outdoors",37.67828475116352,-121.88033401809957
+"4c58d65ad3aee21e33fb6655","TCBY","Food::Ice Cream Shop",37.6897647,-121.90310134
+"4c5a10702091a593f49c5ed0","V.I.P. MMA","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.690323,-121.88471783333334
+"4c5ad3405c57c9b60a261e4a","Gentle Dental Pleasanton","Professional & Other Places::Medical Center::Dentist's Office",37.6927860272997,-121.924724578857
+"4c5b1b8b5c57c9b6b7f31e4a","U.S. Bank","Shop & Service::Bank",37.663564,-121.87483556
+"4c5b9dd49b28d13a56c85470","HYATT house Pleasanton","Travel & Transport::Hotel",37.68915463305386,-121.90089793155668
+"4c5c72636147be9af04c8f09","M&C Association Management","Professional & Other Places::Office::Coworking Space",37.69318933333333,-121.89376652240753
+"4c5cd31a2815c928035fb367","Girasole Grill Restaurant","Food::Italian Restaurant",37.6917700833333,-121.877565934356
+"4c5cdce6d25320a1b3a5c47a","LoveSac Alternative Furniture Co.","Shop & Service::Furniture / Home Store",37.693397285598024,-121.92953109741211
+"4c5d90ca2815c928d41fb567","Pleasanton Marriott Hotel","Travel & Transport::Hotel",37.69539179520539,-121.93510890105652
+"4c5f29b6de6920a1e0289364","Chase Bank","Shop & Service::Bank",37.693833,-121.931827
+"4c60589b13791b8d444f4faf","Vic's All Star Kitchen","Food::American Restaurant",37.65762973333333,-121.87770973
+"4c61aae5fa7bc928254a0c27","Creative Imaging","Professional & Other Places::Office",37.675301,-121.866347
+"4c680b731c91a593c9efee07","Hilton Pleasanton at The Club","Travel & Transport::Hotel",37.70062299970296,-121.91817421519603
+"4c698dcb897b1b8d7f84af17","Mathnasium","College & University::College Classroom",37.657295890581565,-121.87683777230518
+"4c69b1d6897b1b8d6ae7af17","Nordstrom Cafe","Food::Café",37.69579315185547,-121.92884063720703
+"4c6c8b3099b9236a0a0ae3c9","Sports Park Playground","Outdoors & Recreation::Playground",37.69985986609717,-121.8906775892113
+"4c6c8bf2e6b7b1f7d783a78e","Speedee Oil Change & Tune Up","Shop & Service::Automotive Shop",37.652947,-121.87939
+"4c7007fdd97fa14354b1f4ca","Santa Rita Family Dental","Professional & Other Places::Medical Center::Dentist's Office",37.6995337915079,-121.878794349547
+"4c74098b1b30a0934f8aeb09","Milyoni Inc. World Headquarters","Professional & Other Places::Office::Tech Startup",37.695025066666666,-121.90434618
+"4c76c43fd06b224b4756fcd6","Goodguys West Coast Nationals","Arts & Entertainment::General Entertainment",37.66009,-121.886917
+"4c7742306981bfb7031e64e6","Fernando's Mexican Restaurant","Food::Mexican Restaurant",37.66256314361888,-121.8760262272735
+"4c79482ebd346dcbecd0f4ef","Dean's Cafe","Food::Breakfast Spot",37.661959,-121.875058
+"4c79b6a297028cfa5b37dcfe","Tutti Frutti","Food::Dessert Shop",37.700313568115234,-121.88836669921875
+"4c7c269f97028cfa7e01e3fe","Valley Trails Park","Outdoors & Recreation::Park",37.676507234573364,-121.90341
+"4c7d49798da18cfa5beb9ece","Kaiser Permanente PTC Buidling A","Professional & Other Places::Office",37.69779728533339,-121.89373990087186
+"4c7daa35b33a224b2bebd881","MAC Cosmetic Store","Shop & Service::Cosmetics Shop",37.69508529789693,-121.92861980174237
+"4c7eb5c2d860b60cf3c05e9d","24 Hour Fitness","Shop & Service::Gym / Fitness Center",37.69794969808486,-121.89895841783827
+"4c7efa0efb74236a14f4f8b9","1st Wed. Pleasanton Main Street Fair","Professional & Other Places::Event Space",37.660069,-121.876263
+"4c80322b47cc224b7001719f","Firehouse Art Center","Arts & Entertainment::Performing Arts Venue::Theater",37.660939,-121.87371803333333
+"4c8142ced92ea093fe433f72","Dickey's Barbecue Pit","Food::BBQ Joint",37.65874677708055,-121.89801921413522
+"4c8263addc018cfa0f75ce6c","The Scottish Highland Gathering and Games","Arts & Entertainment::General Entertainment",37.66009347,-121.886188
+"4c845d1ad8086dcb8d0a8952","Wells Fargo","Shop & Service::Bank",37.6754309814784,-121.874856948853
+"4c87e965b446224b13547e6f","Sannidi","Food::Indian Restaurant",37.690989,-121.890466
+"4c8c86f38018a1cddfb9edd2","JK Place","Arts & Entertainment::Casino",37.6484223977545,-121.887946128845
+"4c8e5269d2aea093b366cd69","Wells Fargo Bank","Shop & Service::Bank",37.6930725574493,-121.931214366667
+"4c9260cbe9da236ae413ce08","Bakers Footwear","Shop & Service::Clothing Store::Shoe Store",37.69538554,-121.92875777
+"4c939ab7533aa0937570b745","Express","Shop & Service::Mall",37.69485615738,-121.92858646634
+"4c9809d74804a1437993e80e","Status Nightclub","Nightlife Spot::Nightclub",37.69218044096369,-121.90185933976282
+"4c9d3f847c096dcba667c9d1","Parrot AT&T","Shop & Service::Electronics Store",37.6895233902096,-121.902848525591
+"4ca103f519e4236a5f826689","Enterprise","Shop & Service::Automotive Shop",37.6993381977081,-121.874282956123
+"4ca267bc750ca093e0fe0f67","Specialty Sales Classics","Shop & Service::Automotive Shop",37.6620419166667,-121.871595633333
+"4ca28523d7c33704fb2d9962","Pleasanton, CA","Outdoors & Recreation::Other Great Outdoors",37.67828475116352,-121.88033401809957
+"4ca3dcd1f832a1cd5a6fa1e5","Downtown Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",37.66110571340874,-121.87490339488019
+"4ca7c709d971b1f750e00de1","Callippe Preserve Golf Course","Outdoors & Recreation::Athletic & Sport::Golf Course",37.62641758042688,-121.86075925827026
+"4cacef33f47ea143a0969521","MetroList","Professional & Other Places::Office",37.69138384642944,-121.90137030079701
+"4cae1af08c48a093c5da712c","New York Pizza & Deli","Food::Pizza Place",37.6997313666667,-121.90384255
+"4cafecd6db32f04dffc3bb4d","Pirates of Emerson","Arts & Entertainment::Theme Park",37.66066051666667,-121.895492
+"4cb49c8dcbab236a48a7bf73","Better Homes & Gardens - Mason McDuffie","Professional & Other Places::Office",37.68566712,-121.891331
+"4cc256761e596dcb1d89c267","Mananimal lab","Arts & Entertainment::Theme Park",37.66112,-121.89464
+"4cc9ab4c5c7e8cfa1b3a4666","Prudential California Realty - Downtown Pleasanton","Professional & Other Places::Office",37.6569301333333,-121.877274833333
+"4ccdec87ba79a1cdc53744cb","Nordstrom Espresso Bar","Food::Café",37.696225,-121.92807
+"4cd202b3de0f6dcb2ece7463","Twirly Girls Pole Fitness","Shop & Service::Gym / Fitness Center",37.662549861398816,-121.874408677982
+"4cd9b6e01647a093606de84c","iPho noodle","Food::Vietnamese Restaurant",37.699253,-121.871876
+"4cd9c0773ac037048b02f827","Nordstrom","Shop & Service::Mall",37.6915242687825,-121.923241559639
+"4cf961f9d7206ea892733269","Auto Fixed","Shop & Service::Automotive Shop",37.6981258392334,-121.879307
+"4cfc1992c6cca35dcfe78f32","Pet Food Express","Shop & Service::Pet Store",37.674919,-121.8737759
+"4d00478ff7b38cfa7676cec3","Candy Cane Lane","Outdoors & Recreation::Scenic Lookout",37.663883,-121.872101
+"4d04650d37036dcb3ecd10fb","Lake Tahoe","Outdoors & Recreation::Ski Area::Ski Lodge",37.669734,-121.915427
+"4d07eaed00e6b1f75ec80ad7","Forno Vecchio","Food::Italian Restaurant",37.66264757,-121.87462353
+"4d09214784ec224bfc532d62","Panda Express","Food::Chinese Restaurant",37.69623089987649,-121.92895315520869
+"4d0cdefa903d3704594cc055","Anytime Fitness","Shop & Service::Gym / Fitness Center",37.66222203309212,-121.85598584808919
+"4d239f7dbda95941fde4bf7d","West Dublin/Pleasanton BART Station","Travel & Transport::Light Rail",37.69983637969363,-121.92791420024201
+"4d3665d49601236a60c3c887","Pleasanton Masonic Center","Arts & Entertainment::General Entertainment",37.6778697967529,-121.90100312233
+"4d44aac60349224bf2befc4e","Chevron Station","Shop & Service::Gas Station / Garage",37.657965910664856,-121.8965242521159
+"4d4c4c5ca33fb1f749ffbc80","NorCal Imaging","Professional & Other Places::Medical Center::Doctor's Office",37.6912339119309,-121.898997319594
+"4d4cbb6e9aaab60ce8883029","Fairlands Elementary School","Professional & Other Places::School",37.6921816715847,-121.875203559111
+"4d5592c3fb65236a6215fbb3","Pho Saigon City","Food::Vietnamese Restaurant",37.699224,-121.873926
+"4d6038e41939a35df2151fee","Barber Dan's","Shop & Service::Salon / Barbershop",37.6601103368985,-121.87551140785219
+"4d62890cd979ba7ad229dec7","Fresh & Easy","Shop & Service::Food & Drink Shop::Grocery Store",37.69682703036607,-121.87665939331055
+"4d8921e75ecdf04d1aa5a38a","Bell Sports Medicine Institute","Professional & Other Places::Medical Center::Doctor's Office",37.65805929,-121.883322
+"4d934579b3273704ab069525","Home Depot","Professional & Other Places::Office",37.6971619931643,-121.928075322243
+"4d9769659079b1f7ff87120a","Comerica Bank","Shop & Service::Bank",37.661315202713,-121.875393390656
+"4d9932b8647d8cfa07ca023e","Udipi Palace","Food::Indian Restaurant",37.700018,-121.870431
+"4d9f7ac6a428a1cd1b63c904","PINC Office (East)","Professional & Other Places::Office::Tech Startup",37.695957,-121.92512
+"4da094e55970b1f7f1795d1e","Creekside Park","Outdoors & Recreation::Park",37.6910531879397,-121.88436929316791
+"4da32a50540ea1cdec4d8bde","Harvest Park Middle School Library","Professional & Other Places::Library",37.6766068855018,-121.883240987285
+"4db8fbf58154ce84dc1edaab","Y'all Come Back","Nightlife Spot::Bar",37.6997254929246,-121.903793245352
+"4dbc79c0f7b1ab37dd601dcb","JC Nails Spa","Shop & Service::Salon / Barbershop",37.6892324146463,-121.902565108086
+"4dbc9128cda109aa6c9f84ea","Color Me Mine","Shop & Service::Arts & Crafts Store",37.695867,-121.928382
+"4dc1c9f8ae609667509c224d","Starbucks Coffee","Food::Café",37.701792484514,-121.915429306307
+"4dc42043ae608779d119396f","ADP","Professional & Other Places::Office",37.6856613415832,-121.902892983173
+"4dd9b46d1838b8561d205405","iNVERSION @VCC","Professional & Other Places::Spiritual Center",37.66715563,-121.87752755
+"4ddec3d6922ef87772f23a76","Pleasanton Jazzercise Fitness Center","Shop & Service::Gym / Fitness Center",37.626,-121.884252
+"4de54df28877a085f8af1a5a","Bikram Yoga Pleasanton","Shop & Service::Gym / Fitness Center::Yoga Studio",37.667489647865295,-121.85803413391113
+"4de66bc852b16c61fe4b5529","Zoho Offices","::Professional & Other Places",37.69351906976363,-121.90461570067467
+"4dee81721f6e0f9053fc54ca","Ocean Bliss","Food::Japanese Restaurant",37.6612781802918,-121.874814033508
+"4defb8fdfa76c1ceac997b85","Stoneridge Tower","Professional & Other Places::Office",37.689954478019,-121.930092105267
+"4df3ce0a18a88611c6bdf052","Coffee Ali","Food::Coffee Shop",37.662531487767026,-121.85602476495974
+"4dfb9864b61c6408772ff659","Specialty's Cafe & Bakery","Food::Bakery",37.695707975,-121.924093425
+"4e0617db1f6e2110338435ac","Alameda County Fairgrounds Parking","Arts & Entertainment::General Entertainment",37.6598671333333,-121.893008
+"4e0758bad1640223a49c1b7e","Pleasanton, CA","Outdoors & Recreation::Other Great Outdoors",37.67828475116352,-121.88033401809957
+"4e07b54b483b98d417128042","Alameda County Fair","Arts & Entertainment::Theme Park",37.659675,-121.890756
+"4e0bbca3a809638b00f10f5a","Del Valle Trail","Outdoors & Recreation::Hiking Trail",37.66721287632863,-121.90177042374843
+"4e0e8105c65ba20da2219f4a","Dakine Studio","Arts & Entertainment::Music Venue::Rock Club",37.69934887,-121.91672321
+"4e10f9f2ae602afe96b9775d","Alameda Fairgrounds Amphitheater","Arts & Entertainment::General Entertainment",37.65920540594644,-121.88493066274069
+"4e180d1fb3ad8e08699ea6dc","Studio Unfiltered","Arts & Entertainment::Art Gallery",37.67681087318,-121.897048205137
+"4e1dc9ecb61c7cb34d955170","Bayside Solutions","Professional & Other Places::Office",37.697754,-121.925562
+"4e2073811838712abe66c7b7","Tri-Valley CVB","Professional & Other Places::Office",37.695482,-121.902226
+"4e24a56da80911347e76f655","Domus","Shop & Service::Furniture / Home Store",37.662352,-121.875001
+"4e2e8a2cb3ad01b932b225fc","True Value Hardware","Shop & Service::Hardware Store",37.6779105223456,-121.874814033508
+"4e2f5ff745ddcf0f5c828f41","Old Towne Antiques Mall","Shop & Service::Antique Shop",37.6685678958893,-121.86221
+"4e30d1f51f6ec13ab97a4286","Earthly Delights Fitness","Shop & Service::Gym / Fitness Center::Gym",37.699256,-121.916708
+"4e384a88aeb7c8fe317a2bce","Kaiser Permanente Cafeteria","::Food",37.698530508812766,-121.89306186459126
+"4e388bf8483b6aaecd5a2fad","Scuba Central","Outdoors & Recreation::Harbor / Marina",37.68179504064416,-121.89434568386412
+"4e38b34fb0fb2f7ee8605d3b","Dublin BART Outdoor Public Parking","Professional & Other Places::Parking",37.70092106398246,-121.89773022677296
+"4e41fc05e4cd043251337a79","Therapy","Shop & Service::Clothing Store",37.66086,-121.875818
+"4e46c89162845e1d3c9686d0","Shadow Cliffs Dog Trail/Swim","Outdoors & Recreation::Dog Run",37.667756812148156,-121.84486618281923
+"4e49b88a62e13240b6f5e328","Diversified Capital Funding","::Professional & Other Places",37.694936,-121.902788
+"4e4a7a8bd164a7c8b6a663b7","The NEW MegaPath","Professional & Other Places::Building",37.6589501455732,-121.901937141217
+"4e4dc4141495fc2ca3e896ff","Bay Area CORE","Professional & Other Places::Event Space",37.70057,-121.918255
+"4e5426d5b61c93816c05802d","Autozone","Shop & Service::Automotive Shop",37.696427,-121.876167
+"4e56ca6645dd1627330f7343","Handles Gastropub","Food::Gastropub",37.6644631143508,-121.87429368495941
+"4e59109fe4cd875e8ea85dd0","Jamba Juice","Food::Juice Bar",37.6751421263618,-121.874280829435
+"4e59a2f7d22dfba6f477bac8","California Pizza Kitchen","Food::Pizza Place",37.69441598431753,-121.92924206072949
+"4e5a64202271886714ffd3ce","Valley Bible Church","Professional & Other Places::Spiritual Center::Church",37.698770756840176,-121.92011894731519
+"4e5ba821ae6099fc00e3f9a1","GUERRILLA JIU-JITSU","Shop & Service::Gym / Fitness Center::Martial Arts Dojo",37.6865323756174,-121.898852827288
+"4e626fcafa76cd64ce3d0361","Alemeda County Fair Grounds","Arts & Entertainment::General Entertainment",37.6643644595551,-121.891305620119
+"4e66a8001838501627ff23fd","Kaiser Permanente Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",37.6915541750644,-121.927175258389
+"4e682ba562e1a02a60ed830f","The Garage","Professional & Other Places::Spiritual Center::Church",37.698686,-121.920112
+"4e69b9b8d4c01ce01740a64a","Epic Sports Bar And Lounge","Nightlife Spot::Sports Bar",37.6773777835737,-121.896268606027
+"4e6ab028fa76cd0f76d171d4","Amador Valley High School Football Field GO DONS!!!","Outdoors & Recreation::Field",37.66944935479737,-121.87593173191715
+"4e6bd4d3d4c09a17a556d0f0","Stoneridge Mall Parking lot","Shop & Service::Mall",37.6939589344132,-121.927130810601
+"4e6ce057b0fba3f50e7da062","LPFD Fire Station 1","Professional & Other Places::Government Building::Fire Station",37.6664198258964,-121.857848283004
+"4e6fd7fcd4c0bef90ada319e","The Adam Fettes Real Estate Team","Professional & Other Places::Office",37.694954,-121.902828
+"4e7219ceb99345fbe856f3a5","CarrAmerica Conference Center","Professional & Other Places::Convention Center",37.6979595039129,-121.88317428904
+"4e725984c65bf4cc2d0b0389","The LEGO Store","Shop & Service::Toy / Game Store",37.694789785714285,-121.928612
+"4e727be9ae60854eea38b112","Chase Bank","Shop & Service::Bank",37.6911648685925,-121.903048584569
+"4e72b95bae6050af79957b07","Kaiser Pharmacy South 1","Professional & Other Places::Medical Center::Doctor's Office",37.68964572972749,-121.92704191497016
+"4e752dcfb993a71aa3b40343","Valley Blues Festival","Arts & Entertainment::Music Venue",37.69953561969326,-121.92879759038337
+"4e7541e51495be51710e1599","Nom Nom Truck","Food::Food Truck",37.660885,-121.888836
+"4e755b6e2271ffa4e6e9361e","Lobster Shack Mobile","Food::Snack Place",37.660304,-121.888241
+"4e78f437d4c084f1c7a50cdb","Steelwedge Software","::Professional & Other Places",37.681781172434995,-121.90384325970192
+"4e8328f48b81f6ea6f53d04f","Stoneridge corporate plaza","::Professional & Other Places",37.698515165304826,-121.92521398265255
+"4e87d8fb82317891627be5ed","Depression 2.0","Nightlife Spot::Speakeasy",37.683974,-121.923914
+"4e87ddb3b803b0734c8dedab","Neo Nightclub","Nightlife Spot::Nightclub",37.69229,-121.90183562
+"4e9077e2722ebb868bb3f9da","DeafNation Deaf Expo","Professional & Other Places::Convention Center",37.659363,-121.886493
+"4e95a5f5f790e89d38243368","US Foods Food & Equip Expo","::Food",37.659656,-121.885958
+"4e9cacc561af4feab5e90e3c","CallidusCloud","Professional & Other Places::Building",37.6961550393364,-121.924802832601
+"4ea242e78b81a02f8985cde2","Ryan And Courtney Bergez's Wedding","Food::Winery",37.65126455,-121.807035333333
+"4ea2c88c9adff63439cbc7eb","Wilson","College & University::College Residence Hall",37.65624688,-121.84594576
+"4eaaf080cc217eb08e8c07b1","Studio Blue","Professional & Other Places::Building",37.657039,-121.877391
+"4eaebf9f02d5cf33faf5bd1b","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.65655658552758,-121.89902510655477
+"4eb42dc377c89727367d1650","SafeAmerica Credit Union","Shop & Service::Bank",37.696593,-121.900913
+"4ebf93d09adfe2b7b6114803","The Curb","Nightlife Spot::Pub",37.6841075830831,-121.923580485544
+"4ee1002b0e01452f92e6e371","Pleasanton, CA","Outdoors & Recreation::Other Great Outdoors",37.66012732384318,-121.8759512901306
+"4ef55bd929c24e3537810ada","Widmer World","Arts & Entertainment::General Entertainment",37.69711456479687,-121.87288560308404
+"4f19f792e4b085450570629a","Buckhorn Grill","Food::American Restaurant",37.69465188509576,-121.92773085422995
+"4f1f6bc3e4b037d57de7e84f","WTM","Professional & Other Places::Office::Coworking Space",37.6946552668831,-121.903971074049
+"4f29c6d5e4b0acec38d3f8e0","The Habit Burger Grill","Food::Burger Joint",37.657575,-121.898117
+"4f2b88cbe4b0c0809d023b56","Pleasanton, CA","Outdoors & Recreation::Other Great Outdoors",37.658061398377164,-121.88201262148442
+"4f5970c8e4b0ecd6063ab2c9","Legacy Real Estate & Associates","Professional & Other Places::Office",37.6927492904387,-121.900997962859
+"4f612cabe4b071dd72ec1354","MCoE Team Room","Professional & Other Places::Office::Coworking Space",37.698661,-121.89301
+"4f762abbe4b08f9be45ff917","Sport Clips","Shop & Service::Salon / Barbershop",37.65685659378714,-121.89760240519837
+"4f8340d5e4b0c2f768151941","Bagel Street Cafe","Food::Bagel Shop",37.65719112205026,-121.89740789382269
+"4f9467f7e4b020d1a3f95872","Girlfriends","Shop & Service::Clothing Store::Boutique",37.661254,-121.87569
+"4fb6ff08e4b02db30774aacd","Lokanta","Food::Mediterranean Restaurant",37.66005876342963,-121.87615963234506
+"4fca8113e4b0dbc7825fd514","Good Guys Car Show","Arts & Entertainment::General Entertainment",37.66022617099313,-121.88772079396155
+"5009d08be4b03215e5b4efe6","Kaiser Optometry","Professional & Other Places::Medical Center::Optical Shop",37.690118056572324,-121.9262696311585
+"500edf49c593e703618fa67b","Safeway","Shop & Service::Food & Drink Shop::Grocery Store",37.65655658552758,-121.89902510655477
+"50c25c9ee4b00fec68bf9253","JC Penny Plaza","Shop & Service::Mall",37.69298933660989,-121.92539733285618

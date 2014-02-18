@@ -1,0 +1,1379 @@
+"41326e00f964a520020e1fe3","Club Med Detroit","Nightlife Spot::Pub",42.40286508706317,-82.93786388883875
+"41326e00f964a52009111fe3","Menjo's Complex","Nightlife Spot::Gay Bar",42.417826447523105,-83.11527405354755
+"41326e00f964a5200e111fe3","The Penthouse Club","Nightlife Spot::Strip Club",42.443298220672766,-83.24637432709655
+"41326e00f964a52011111fe3","Shelter","Arts & Entertainment::Concert Hall",42.33233434500312,-83.04166246814948
+"41326e00f964a520190f1fe3","Jumbo's Bar","Nightlife Spot::Dive Bar",42.346151666666664,-83.06600216
+"41326e00f964a5201c101fe3","Roma Cafe","Food::Italian Restaurant",42.35093906453258,-83.04175161712755
+"41326e00f964a520330f1fe3","Kwicky Bar","Nightlife Spot::Bar",42.447052001953125,-83.06318553333334
+"41326e00f964a520340e1fe3","The Detroiter Bar","Nightlife Spot::Bar",42.33305088563281,-83.04146843760348
+"41326e00f964a520360f1fe3","L J's Lounge","Nightlife Spot::Bar",42.331507,-83.075578
+"41326e00f964a520390f1fe3","PJ's Lager House","Nightlife Spot::Bar",42.33165690435347,-83.0633168767617
+"41326e00f964a5203e0e1fe3","Donovan's Pub","Nightlife Spot::Bar",42.325446,-83.082308
+"41326e00f964a52045101fe3","City Theatre","Arts & Entertainment::Music Venue",42.33906555175781,-83.05274963378906
+"41326e00f964a5204a0d1fe3","3 Nicks","Food::American Restaurant",42.34331455,-83.210002
+"41326e00f964a5205b0f1fe3","Mac's On Third","Nightlife Spot::Bar",42.32721907,-83.053824
+"41326e00f964a5205c0e1fe3","Ebony Showcase Lounge","Nightlife Spot::Bar",42.429524228821016,-83.22973784203357
+"41326e00f964a520670e1fe3","Elysium Lounge","Nightlife Spot::Lounge",42.32948500053948,-83.04802845047332
+"41326e00f964a520690f1fe3","Marilyn's On Monroe","Nightlife Spot::Cocktail Bar",42.334699387570794,-83.04324615554856
+"41326e00f964a5206f0d1fe3","Baker's Keyboard Lounge","Arts & Entertainment::Music Venue::Jazz Club",42.445338920077134,-83.14163251361546
+"41326e00f964a520740d1fe3","Beaubien Street Saloon","Nightlife Spot::Bar",42.332889,-83.04131
+"41326e00f964a52077101fe3","Starter's Lounge","Nightlife Spot::Bar",42.37227941131779,-83.22110944680168
+"41326e00f964a5207d0e1fe3","Flood's Bar & Grill","Nightlife Spot::Bar",42.33439528211663,-83.04032521899339
+"41326e00f964a5207f0e1fe3","Foran's Grand Trunk Pub","Nightlife Spot::Pub",42.33055185038616,-83.0457615852356
+"41326e00f964a5207f101fe3","The Stone House Bar","Nightlife Spot::Dive Bar",42.43846274993816,-83.11736315488815
+"41326e00f964a5208b0d1fe3","Bleu Room","Nightlife Spot::Nightclub",42.33545810536956,-83.04991610280719
+"41326e00f964a520900f1fe3","Motor City Brewing Works Inc","Food::Brewery",42.3517358,-83.066049
+"41326e00f964a52095101fe3","Sweetwater Tavern","Food::American Restaurant",42.331786232327524,-83.04188271834659
+"41326e00f964a5209c0e1fe3","Giovanna's Lounge","Nightlife Spot::Bar",42.323521,-83.08722853660583
+"41326e00f964a520a0101fe3","Temple Bar","Nightlife Spot::Bar",42.342101061478594,-83.05856714963687
+"41326e00f964a520a10f1fe3","Nancy Whiskey's Pub","Nightlife Spot::Pub",42.335364818573,-83.072565
+"41326e00f964a520a2101fe3","Teresa's Place","Nightlife Spot::Lounge",42.416823506355286,-83.18377196788788
+"41326e00f964a520a30d1fe3","Bouzouki","Nightlife Spot::Strip Club",42.33367445636962,-83.04268505211924
+"41326e00f964a520a50f1fe3","Nemo's Bar","Food::Burger Joint",42.33179411512909,-83.06533514474235
+"41326e00f964a520a60e1fe3","Green Dot Stables","Food::Burger Joint",42.321852,-83.071468
+"41326e00f964a520a70e1fe3","Greenwich Time","Nightlife Spot::Dive Bar",42.3312815468555,-83.04387867450714
+"41326e00f964a520a7101fe3","3rd Street Bar","Nightlife Spot::Cocktail Bar",42.35225273564605,-83.06952059268951
+"41326e00f964a520b20d1fe3","Bronx Bar","Nightlife Spot::Bar",42.352246,-83.06706456666667
+"41326e00f964a520ba0e1fe3","Harry's Detroit","Food::American Restaurant",42.339326,-83.056182
+"41326e00f964a520ba101fe3","Town Pump Tavern","Nightlife Spot::Bar",42.33807518333333,-83.05403
+"41326e00f964a520bd0e1fe3","Hayloft Saloon","Nightlife Spot::Gay Bar",42.3521,-83.1963
+"41326e00f964a520bf0f1fe3","Old Miami","Nightlife Spot::Dive Bar",42.34891396704549,-83.06229985590268
+"41326e00f964a520c10f1fe3","The Old Shillelagh","Nightlife Spot::Pub",42.33449010038574,-83.04371810800092
+"41326e00f964a520c90d1fe3","Casey's Pub","Nightlife Spot::Pub",42.331437,-83.070994
+"41326e00f964a520ce0e1fe3","Honest John's Bar & Grill","Food::American Restaurant",42.347762736568,-83.06397740765196
+"41326e00f964a520e80d1fe3","Circa 1890 Saloon","Nightlife Spot::Dive Bar",42.36044879383634,-83.069023
+"41326e00f964a520f60f1fe3","R & R Saloon","Nightlife Spot::Gay Bar",42.331269649698335,-83.13418865203857
+"41326e00f964a520fb101fe3","Ye Olde Tap Room","Nightlife Spot::Dive Bar",42.384802371636766,-82.94558431912559
+"41326e00f964a520fd0d1fe3","Club Gold Coast","Nightlife Spot::Gay Bar",42.43319751136303,-83.07252177216706
+"41326e00f964a520ff101fe3","Alvin's","Nightlife Spot::Bar",42.36226201057434,-83.0699539
+"413f9d00f964a520661c1fe3","The Rattlesnake Club","Food::American Restaurant",42.33615967792463,-83.01724159433932
+"427ab380f964a52093211fe3","Adam's Apple","Nightlife Spot::Gay Bar",42.343054,-83.224961
+"427d5680f964a520a1211fe3","Gigi's","Nightlife Spot::Gay Bar",42.343786197431655,-83.21114391088486
+"42829c80f964a5204e221fe3","Oslo","Food::Sushi Restaurant",42.334941798687595,-83.04906070232391
+"42829c80f964a52051221fe3","The Works Club & Grill‎","Nightlife Spot::Nightclub",42.33169150783133,-83.0714524769631
+"428e7a00f964a520d4231fe3","The Magic Stick","Arts & Entertainment::Music Venue",42.351128,-83.05991291999817
+"428e7a00f964a520d8231fe3","Wayne State University","College & University::University",42.35636500840855,-83.07018303485786
+"42ae1e00f964a52053251fe3","Corktown Tavern","Nightlife Spot::Whisky Bar",42.331659,-83.0699497461319
+"456ea0d7f964a520113e1fe3","150 Cafe","Food::American Restaurant",42.32886138068401,-83.04746738781219
+"456ea163f964a520123e1fe3","Tom's Oyster Bar","Food::Seafood Restaurant",42.33117050663451,-83.03966760635376
+"456fd4eff964a520323e1fe3","Cass Cafe","Food::American Restaurant",42.35349,-83.06493
+"456fd59ff964a520333e1fe3","Campus Martius Park","Outdoors & Recreation::Park",42.33157500935305,-83.04659843444824
+"456fd6b5f964a520363e1fe3","Greektown Casino & Hotel","Arts & Entertainment::Casino",42.33485804635004,-83.04198235509844
+"456fd70ef964a520373e1fe3","The Well Bar","Nightlife Spot::Bar",42.334437,-83.045115
+"456fd83cf964a520393e1fe3","Hart Plaza","Outdoors & Recreation::Plaza",42.32733156703218,-83.04406642913818
+"456fdad7f964a5203c3e1fe3","Detroit Beer Company","Food::Brewery",42.33610623517993,-83.04883070933218
+"456fdb52f964a5203d3e1fe3","Coaches Corner","Nightlife Spot::Bar",42.335950683379856,-83.046278
+"456fddb3f964a520403e1fe3","Comet Bar","Nightlife Spot::Dive Bar",42.33977498949344,-83.055945740467
+"456fde5bf964a520423e1fe3","City Club","Nightlife Spot::Nightclub",42.33389886672454,-83.05492401123047
+"456fe1fbf964a520453e1fe3","Union Street Saloon","Food::American Restaurant",42.3513528895516,-83.06051741025138
+"456fe4f4f964a520493e1fe3","Cliff Bell's","Arts & Entertainment::Music Venue::Jazz Club",42.33680158500915,-83.05273532867432
+"45a67fddf964a5200a411fe3","Centaur Bar","Nightlife Spot::Lounge",42.33815748511644,-83.05363881395107
+"483b2426f964a52015501fe3","St Andrew's Hall","Arts & Entertainment::Concert Hall",42.332204,-83.04159004
+"4846b6adf964a5206d501fe3","Henry Ford Hospital","Professional & Other Places::Medical Center::Hospital",42.367115027555535,-83.08519473872833
+"4a455f5af964a52017a81fe3","Supino Pizzeria","Food::Pizza Place",42.3454292,-83.0400163
+"4a46bcbdf964a5205ea91fe3","Los Altos","Food::Taco Place",42.314649028767064,-83.11990444328787
+"4a46bd39f964a5205fa91fe3","Mexican Town Restaurant","Food::Mexican Restaurant",42.32284523680753,-83.08584456847754
+"4a4c079df964a520f9ac1fe3","Russell Industrial Center","Shop & Service::Design Studio",42.3784714354984,-83.06017664307907
+"4a4c0b94f964a52000ad1fe3","Slows Bar BQ","Food::BBQ Joint",42.331531386635994,-83.07602226734161
+"4a5403ebf964a520f5b21fe3","Andiamo Detroit Riverfront","Food::Italian Restaurant",42.328029573477274,-83.03951740264893
+"4a5691e6f964a52069b51fe3","Cafe Con Leche","Food::Coffee Shop",42.321038,-83.09407342
+"4a5692fdf964a5206eb51fe3","Armando's Mexican Cuisine","Food::Mexican Restaurant",42.3208882385082,-83.09477907458621
+"4a64d346f964a520c6c61fe3","Detroit RiverWalk","Outdoors & Recreation::Other Great Outdoors",42.327617116059486,-83.04020404815674
+"4a68e3caf964a52037cb1fe3","Joe Louis Arena","Arts & Entertainment::Stadium::Hockey Arena",42.325237501226574,-83.0514907836914
+"4a721208f964a52047da1fe3","Taste Pizza Bar","Food::Pizza Place",42.334155541704696,-83.05236472666729
+"4a75d94ef964a5206be11fe3","Avalon Bakery","Food::Bakery",42.35050528583356,-83.06415040274037
+"4a7b1ce9f964a52010ea1fe3","Hard Rock Cafe Detroit","Food::American Restaurant",42.33231460808727,-83.04635971784592
+"4a7b6517f964a520e2ea1fe3","Trumbullplex","Professional & Other Places::Event Space",42.34688867873492,-83.07530879974365
+"4a7b6811f964a520ecea1fe3","Mudgie's Deli","Food::Deli / Bodega",42.328988,-83.06186606
+"4a7cb5f5f964a5204fed1fe3","Los Galanes","Food::Mexican Restaurant",42.32349850904741,-83.0847073621917
+"4a7e2053f964a52011f11fe3","Hockeytown Cafe","Food::American Restaurant",42.33899439673061,-83.05260121822357
+"4a7e2237f964a52019f11fe3","Taqueria Lupitas","Food::Mexican Restaurant",42.32308735,-83.08536268333333
+"4a801062f964a52099f41fe3","Avanti Press-Detroit","Professional & Other Places::Office::Cafeteria",42.32919502953139,-83.04772956722121
+"4a815295f964a520b7f61fe3","Atheneum Suite Hotel","Travel & Transport::Hotel",42.33400847934465,-83.04298395827963
+"4a85feaef964a520fdff1fe3","Vicente's Cuban Cuisine","Food::Cuban Restaurant",42.334352243834616,-83.04692205129551
+"4a86f5baf964a520ca0120e3","Eastern Market","Shop & Service::Food & Drink Shop::Farmers Market",42.346801454515315,-83.04002702236176
+"4a883bb5f964a520810520e3","The Whitney","Food::American Restaurant",42.352755141763765,-83.06201676482227
+"4a8f4366f964a5209a1420e3","La Gloria Bakery","Food::Bakery",42.32342821438265,-83.08460779019572
+"4a902989f964a5204b1620e3","Detroit Institute of Arts","Arts & Entertainment::Museum::Art Museum",42.359186082109275,-83.06474089622498
+"4a9030b9f964a5206f1620e3","Russell Street Deli","Food::Deli / Bodega",42.345599,-83.039867
+"4a903763f964a520961620e3","Detroit Historical Museum","Arts & Entertainment::Museum::History Museum",42.359642730497356,-83.06707552345628
+"4a903ba7f964a520b31620e3","Museum Of Contemporary Art Detroit","Arts & Entertainment::Museum::Art Museum",42.353596651583956,-83.06164026260376
+"4a903bcff964a520b71620e3","Charles H Wright Museum of African American History","Arts & Entertainment::Museum::History Museum",42.3591305866611,-83.06093215942383
+"4a905eaef964a5208d1720e3","First Congregational Church of Detroit","Professional & Other Places::Spiritual Center::Church",42.35526,-83.06279907127342
+"4a908f84f964a520891820e3","The Westin Book Cadillac Detroit","Travel & Transport::Hotel",42.33177176460956,-83.05083369201897
+"4a94274af964a5208e2020e3","Digitas","Professional & Other Places::Office",42.329044342041016,-83.04106140136719
+"4a96a2e4f964a5206f2620e3","Le Petit Zinc","Food::French Restaurant",42.32599371053863,-83.0632329993482
+"4a974b3cf964a520442920e3","TV Lounge","Nightlife Spot::Lounge",42.33811676502228,-83.06255798
+"4a9abd98f964a520703220e3","Michigan Science Center","Arts & Entertainment::Museum::Science Museum",42.35832193314178,-83.06196212768555
+"4a9c2755f964a520363620e3","Cheli's Chili Bar","Food::American Restaurant",42.3376242015208,-83.04989512918989
+"4a9c7c49f964a5205a3720e3","Bucharest Grill","Food::Eastern European Restaurant",42.33700389357192,-83.05276320929312
+"4a9d4474f964a520133820e3","General Motors World Headquarters","Professional & Other Places::Office",42.32927206556078,-83.0393812620611
+"4a9dba97f964a5201f3920e3","MotorCity Casino Hotel","Arts & Entertainment::Casino",42.33929178845349,-83.06754112243651
+"4a9fdcb4f964a520693d20e3","WDIV channel 4","Professional & Other Places::Office",42.3298525312886,-83.05349200679781
+"4a9ff8cff964a520cb3d20e3","Wayne State University Law School","College & University::Law School",42.360496127259616,-83.07083395512235
+"4aa0291af964a5208e3e20e3","Campus Diner","Food::Diner",42.36032617,-83.06926310062408
+"4aa0353df964a520b53e20e3","Atwater Block Brewery","Food::Brewery",42.337216,-83.01866
+"4aa0543df964a520243f20e3","Lefty's Lounge","Nightlife Spot::Sports Bar",42.35974005333959,-83.06869005043608
+"4aac0acef964a520d45b20e3","The Dakota Inn-Rathskeller","Food::German Restaurant",42.41981,-83.10166
+"4aac7b54f964a520195e20e3","The Fillmore Detroit","Arts & Entertainment::Concert Hall",42.33782784165252,-83.05165093623475
+"4aaec16cf964a520296320e3","The Coliseum Detroit","Nightlife Spot::Strip Club",42.4481449033556,-83.00991776557997
+"4aaff478f964a520586520e3","Jimmy John's","Food::Sandwich Place",42.35585703896227,-83.0717145607317
+"4aaff51ff964a5205a6520e3","Byblos","Food::Mediterranean Restaurant",42.361435,-83.0694107
+"4aaffcd3f964a520736520e3","Elwood Bar & Grill","Food::Diner",42.33857804595564,-83.04684519767761
+"4ab0136df964a520c96520e3","24 Grille","Food::New American Restaurant",42.33160494853286,-83.05040373752458
+"4ab11284f964a520f06720e3","Leopold's Books","Shop & Service::Bookstore",42.360389828681946,-83.066389
+"4ab23be8f964a520cf6a20e3","OnStar","Professional & Other Places::Office",42.32863655599408,-83.03959627566354
+"4ab26c6af964a520276b20e3","Eph's Downtown","Food::Sandwich Place",42.330375,-83.04602
+"4ab2e613f964a520e36c20e3","division gallery","Arts & Entertainment::Music Venue",42.346935868263245,-83.04161936
+"4ab3c6aff964a5206e6e20e3","US Post Office","Professional & Other Places::Post Office",42.324814926682855,-83.06053313792437
+"4ab45f3bf964a5200a7120e3","La Dolce Vita","Food::Italian Restaurant",42.420149383289235,-83.1065676145916
+"4ab676d8f964a520397720e3","1515 Broadway Café","Food::Café",42.336044168043394,-83.04843220288635
+"4ab6c047f964a520de7820e3","Nikki's Pizza","Food::Greek Restaurant",42.333704250000004,-83.041781
+"4ab77230f964a520e97920e3","TJ's Grillworks","Food::American Restaurant",42.32892876165819,-83.04634524813908
+"4ab94c83f964a520d57e20e3","Michigan Central Station","Arts & Entertainment::Historic Site",42.32869584513166,-83.07788372039795
+"4abd07a6f964a520288820e3","Good Girls Go To Paris Crepes","Food::French Restaurant",42.36047503929314,-83.06652510746203
+"4abd5dedf964a520f08920e3","Angelina's Italian Bistro","Food::Italian Restaurant",42.336293398223184,-83.04940749070282
+"4abd6413f964a520078a20e3","Gem & Century Theatres","Arts & Entertainment::Performing Arts Venue::Indie Theater",42.3375973171756,-83.04599916381864
+"4abd8e0ef964a520f48a20e3","Coach Insignia","Food::American Restaurant",42.32888620716531,-83.03968906402588
+"4abd97bdf964a520148b20e3","Cafe d'Mongo's","Arts & Entertainment::Music Venue::Jazz Club",42.334057488670595,-83.05007457733154
+"4abea91ef964a5202a8f20e3","The Max M. Fisher Music Center","Arts & Entertainment::Concert Hall",42.34847932502144,-83.05921724293702
+"4ac2736df964a520309920e3","LaPita Fresh","Food::Middle Eastern Restaurant",42.35668133632447,-83.06708076549121
+"4ac2877cf964a520969920e3","El Barzon","Food::Mexican Restaurant",42.330725,-83.1109363
+"4ac3895ff964a520af9b20e3","Bangkok Crossing","Food::Thai Restaurant",42.33064702866657,-83.0457615852356
+"4ac3de08f964a5202c9d20e3","The State Bar & Grill","Nightlife Spot::Bar",42.337746627588686,-83.05161494360344
+"4ac68868f964a520e6b420e3","Harpos","Arts & Entertainment::Concert Hall",42.404091,-82.966272
+"4ac68a70f964a520f5b420e3","Mosaic","Food::Mediterranean Restaurant",42.335199554872325,-83.04247856140137
+"4acde795f964a5207ecd20e3","Olympic Grill","Food::Diner",42.35596270249021,-83.06628397138334
+"4ace754ef964a520add020e3","Traffic Jam & Snug","Food::Brewery",42.351027725287636,-83.06617856025696
+"4ad0e606f964a520e6da20e3","Dish","Food::Sandwich Place",42.410223,-82.91370570659637
+"4ad111bdf964a52073dc20e3","Xochimilco Restaurant","Food::Mexican Restaurant",42.3232063752969,-83.0850846862785
+"4ad2598ff964a5200ee120e3","Lafayette Coney Island","Food::Hot Dog Joint",42.33143224398473,-83.04894268512726
+"4ad26904f964a52079e120e3","Detroit Music Hall","Arts & Entertainment::Concert Hall",42.33736281394656,-83.04587331452363
+"4ad36269f964a52012e420e3","Mexican Village Restaurant","Food::Mexican Restaurant",42.3253910892185,-83.07803570433023
+"4ad389ddf964a520cce420e3","Detroit Marriott at the Renaissance Center","Travel & Transport::Hotel",42.329049710906155,-83.03980080014604
+"4ad3ada0f964a52095e520e3","College for Creative Studies - Ford Campus (CCS)","College & University::University",42.36130280047286,-83.06335687637329
+"4ad623d0f964a5204d0521e3","National Coney Island","Food::American Restaurant",42.416414119214515,-82.91120838168636
+"4ad8cc67f964a520c11421e3","Hygrade Restaurant & Deli","Food::Deli / Bodega",42.33163045,-83.09410133333333
+"4ad9f063f964a5201b1c21e3","Zeff's Coney Island","Food::Diner",42.345588232366744,-83.04013967514038
+"4ad9f92ff964a520981c21e3","Honey Bee Market","Shop & Service::Food & Drink Shop::Grocery Store",42.32554690666755,-83.07634802902916
+"4ad9fa29f964a520a51c21e3","Bookies Bar & Grille","Nightlife Spot::Bar",42.33679563695293,-83.0555409193039
+"4ada0371f964a5203b1d21e3","Small Plates","Food::Tapas Restaurant",42.33603286799116,-83.04868913495021
+"4adc74f3f964a5206c2c21e3","Plaka's Cafe","Food::Greek Restaurant",42.335189,-83.0419796705246
+"4add0b48f964a520b26321e3","Woodbridge Pub","Nightlife Spot::Pub",42.354073,-83.080014
+"4ade5a79f964a520457521e3","Loco's Bar & Grill","Food::Mexican Restaurant",42.33402,-83.042132
+"4adf21fdf964a520c67721e3","Recovery, LOVELAND","Arts & Entertainment::Art Gallery",42.364885996366525,-82.99243927001953
+"4adf4448f964a520e87821e3","Stella Cafe","Food::Café",42.32985,-83.0461749
+"4ae149aef964a520de8521e3","The Heidelberg Project","Arts & Entertainment::Art Gallery",42.35870247727072,-83.02134275436401
+"4ae24058f964a520688c21e3","Garden Bowl","Arts & Entertainment::Bowling Alley",42.35108537190365,-83.06013994497053
+"4ae24227f964a520838c21e3","Majestic Cafe","Nightlife Spot::Lounge",42.35129326074884,-83.06039158873192
+"4ae4de7df964a520f59e21e3","Fox Theatre","Arts & Entertainment::Performing Arts Venue::Theater",42.33842736594821,-83.05247783660889
+"4ae5c465f964a520e0a121e3","The Grind","Food::Café",42.20258972,-83.14934849739075
+"4ae5d487f964a5205ca221e3","Rice Bowl Asian Kitchen","Food::Chinese Restaurant",42.32995760811541,-83.04153136649188
+"4ae86df0f964a52046af21e3","Au Bon Pain","Food::Café",42.329898834228516,-83.04043579101562
+"4aea07a8f964a5209db821e3","DoubleTree Suites by Hilton Hotel Detroit Downtown - Fort Shelby","Travel & Transport::Hotel",42.32930163495976,-83.05308828543676
+"4aea13e5f964a5202ab921e3","The Baltimore","Nightlife Spot::Whisky Bar",42.33462852436389,-83.04463505744934
+"4aeaf1cff964a520d9bc21e3","Bizdom U Training Room","Professional & Other Places::Office::Conference Room",42.364875,-83.072842
+"4aeb7eccf964a520a9c221e3","Lions & Tigers & Beers","Nightlife Spot::Sports Bar",42.203716,-83.148734
+"4aeed099f964a5204bd421e3","Starbucks","Food::Coffee Shop",42.32912655,-83.03982
+"4af0a45df964a520dbdd21e3","Pizzeria Venti","Food::Pizza Place",42.35788612550734,-83.07354911782468
+"4af0ae97f964a52039de21e3","Delux Lounge","Nightlife Spot::Lounge",42.3341288684158,-83.04421663284302
+"4af131baf964a520dae021e3","American Coney Island","Food::Hot Dog Joint",42.331499165291476,-83.04865568876266
+"4af19e1cf964a5209ae121e3","Astoria Pastry Shop","Food::Dessert Shop",42.33517573,-83.0418
+"4af3030cf964a520c6e921e3","Arthur Neef Law Library","College & University::College Library",42.359886970974856,-83.0711484584812
+"4af612e1f964a520d70022e3","Starbucks","Food::Coffee Shop",42.34778703944718,-83.05780170896254
+"4af62df5f964a520f50122e3","Wasabi Korean & Japanese Restaurant","Food::Sushi Restaurant",42.36008193041947,-83.06625366210938
+"4af85451f964a520460c22e3","Rice Bowl Fresh Asian Kitchen","Food::Asian Restaurant",42.32996368408203,-83.04135131835938
+"4af85b47f964a5207d0c22e3","Abe's Deli at Comerica Tower","Food::Sandwich Place",42.3300415037443,-83.0447354162236
+"4af9d295f964a520841422e3","Detroit Regional Chamber","Professional & Other Places::Government Building::City Hall",42.328593751582886,-83.04432639728171
+"4afa1e77f964a520e71622e3","Taqueria Mi Pueblo","Food::Taco Place",42.3170806884151,-83.1242698431015
+"4afb6815f964a520ac1d22e3","Biggby Coffee","Food::Coffee Shop",42.353559228473046,-83.06252002716064
+"4afe0c63f964a520662d22e3","City Bird","Shop & Service::Gift Shop",42.351569,-83.065567
+"4aff7051f964a520933822e3","North Rosedale Park Community House","Outdoors & Recreation::Other Great Outdoors",42.40684208,-83.223588
+"4afff324f964a5205b3a22e3","Detroit Free Press","Professional & Other Places::Office",42.32852210315688,-83.05409496265781
+"4b016e84f964a5207f4222e3","MGM Grand Detroit Casino & Hotel","Arts & Entertainment::Casino",42.33364809424602,-83.0591857869576
+"4b08a1baf964a520e20f23e3","Izzy's raw art gallery","Arts & Entertainment::Art Gallery",42.331551,-83.081203
+"4b0c11f1f964a5206b3623e3","Walter P.  Reuther Library","College & University::College Library",42.359244979361414,-83.06879488847835
+"4b0c2e39f964a520713823e3","GM Renaissance Center","Professional & Other Places::Building",42.329171749135625,-83.04007530212402
+"4b0c8f20f964a5203d3f23e3","Telway Hamburgers","Food::Burger Joint",42.33136532556592,-83.12786019578549
+"4b0cc26bf964a520a94123e3","Detroit Cristo Rey High School","Professional & Other Places::School::High School",42.316543209934075,-83.1022596359253
+"4b0d3d0af964a520054523e3","Pegasus Taverna","Food::Greek Restaurant",42.33526863894696,-83.04166246814948
+"4b0d8182f964a520c44923e3","Detroit Public Library","Professional & Other Places::Library",42.35840121335868,-83.06688666343689
+"4b0def10f964a520dc5223e3","Atlas Global Bistro","Food::American Restaurant",42.344351197441824,-83.05609881877899
+"4b0e05d4f964a520045423e3","Guardian Building","Professional & Other Places::Building",42.32965877911052,-83.04595721408037
+"4b105f2af964a520ea6e23e3","New Parthenon","Food::Greek Restaurant",42.335322033219306,-83.04173100963094
+"4b1193ecf964a520b97f23e3","Children's Hospital of Michigan","Professional & Other Places::Medical Center::Hospital",42.351503460301274,-83.05475234985352
+"4b11f37af964a520688723e3","Detroit Pub Greektown","Nightlife Spot::Bar",42.33562503795564,-83.0447301724071
+"4b134b51f964a520349623e3","Lofts at Rivertown","Residence::Residential Building (Apartment / Condo)",42.34591989764313,-83.00706880750509
+"4b15507bf964a520a7b023e3","Comerica Park","Arts & Entertainment::Stadium::Baseball Stadium",42.33900629242653,-83.04895877838135
+"4b15507bf964a520a8b023e3","Ford Field","Arts & Entertainment::Stadium::Football Stadium",42.340005522849914,-83.04571866989136
+"4b15950bf964a52049af23e3","Orchid Thai","Food::Thai Restaurant",42.333616,-83.04522
+"4b15aa7df964a52016b223e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",42.332446672556074,-83.0472786179909
+"4b15b0a5f964a5209cb223e3","Masonic Temple","Arts & Entertainment::Performing Arts Venue",42.3413529400865,-83.06018712824918
+"4b16e5baf964a52021bf23e3","University of Detroit Mercy School of Dentistry","College & University::University",42.33783257291951,-83.08689594268799
+"4b16f492f964a5201cc023e3","Detroit City Apartments","Residence::Residential Building (Apartment / Condo)",42.33407300335325,-83.05135277967653
+"4b16f65ef964a5202bc023e3","University of Detroit Mercy","College & University::University",42.414554026419694,-83.13805103302002
+"4b19645bf964a52087dc23e3","Grand Circus Park","Outdoors & Recreation::Park",42.3364050466967,-83.05067539215088
+"4b19875af964a520e6de23e3","SUBWAY","Food::Sandwich Place",42.336709,-83.051884
+"4b1a7855f964a520c5ea23e3","Wigley's Meats & Produce","Shop & Service::Food & Drink Shop::Butcher",42.35066596345996,-83.04371286410337
+"4b1af463f964a52060f523e3","Detroit Artists Market","Arts & Entertainment::Art Gallery",42.35477800528254,-83.06326031684875
+"4b1b02f7f964a5205ef623e3","Burton Theatre","Arts & Entertainment::Movie Theater",42.344868,-83.05933521666667
+"4b1b035df964a52069f623e3","Another Friendly Bar","Nightlife Spot::Bar",42.34008550643921,-83.05526
+"4b1d4f2af964a520910e24e3","Tim Hortons - Millender Center","Food::Coffee Shop",42.32989600906266,-83.04141075273631
+"4b1e8649f964a520fe1a24e3","Fishbone's Rhythm Kitchen Cafe","Food::Seafood Restaurant",42.33432714506075,-83.04317593574524
+"4b1ec581f964a5204c1f24e3","Woodward Coney Island","Food::Diner",42.330391997167624,-83.04597818895284
+"4b1ff27bf964a5202d2b24e3","Goodwell's Natural Foods Market","Food::Vegetarian / Vegan Restaurant",42.35007624445802,-83.06522369384766
+"4b203734f964a520d22e24e3","Potbelly's Sandwich Works","Food::Sandwich Place",42.32879102622051,-83.0391526222229
+"4b215df6f964a520ca3a24e3","Architectural Salvage Warehouse","Shop & Service::Antique Shop",42.34866089007727,-83.0882477760315
+"4b23dd35f964a5207e5b24e3","Bureau Of Urban Living","Shop & Service::Furniture / Home Store",42.35146,-83.065832
+"4b257a10f964a520937224e3","Domino's Pizza","Food::Pizza Place",42.33245086669922,-83.04487609863281
+"4b26d326f964a520818124e3","scarab club","Arts & Entertainment::Art Gallery",42.35947251319885,-83.06278
+"4b2a9a10f964a52021ac24e3","Salad Creations Downtown Detroit","Food::Salad Place",42.33243,-83.047406
+"4b2c27f0f964a520d2c224e3","Redford Theatre","Arts & Entertainment::Movie Theater::Indie Movie Theater",42.41749173575685,-83.25738802498564
+"4b2e37b5f964a52062dd24e3","Gleaners Community Food Bank","Professional & Other Places::Building",42.354228475023085,-83.01375815536578
+"4b2ef0e8f964a5208ce824e3","Vain Ultra Lounge","Nightlife Spot::Nightclub",42.33481004955076,-83.0491820222235
+"4b31461ef964a520b20325e3","Sala Thai","Food::Thai Restaurant",42.350488554585894,-83.04309010505676
+"4b3152b1f964a520bc0425e3","Detroit News","Professional & Other Places::Building",42.3285917064808,-83.05391669802259
+"4b3155d7f964a520f90425e3","John K. King Books","Shop & Service::Bookstore",42.32748065592664,-83.05687373126312
+"4b325fc9f964a520ea0925e3","University Foods","Shop & Service::Food & Drink Shop::Grocery Store",42.353005671140245,-83.07449782581435
+"4b32a507f964a520c41025e3","La Cina","Food::Mexican Restaurant",42.396514892578125,-82.9210433959961
+"4b33e891f964a520b32125e3","Marcus Market","Shop & Service::Food & Drink Shop::Liquor Store",42.352545156303364,-83.06703358716186
+"4b363a32f964a520493125e3","1440 Collective","Arts & Entertainment::Music Venue",42.343883159269645,-83.03818556385507
+"4b36e86ff964a5200d3e25e3","Milner Hotel","Travel & Transport::Hotel",42.33645103,-83.047561
+"4b37c464f964a520ca4525e3","Detroit One Coney Island Restaurant","Food::Diner",42.345813,-83.05709744
+"4b38361ff964a520e04c25e3","Ammex Detroit Duty Free Stores","Shop & Service::Miscellaneous Shop",42.31735341032834,-83.08056189495869
+"4b3a7ad7f964a520416825e3","Ray Laethem Buick GMC","Shop & Service::Automotive Shop",42.40181566995507,-82.91804401085395
+"4b3ab50cf964a520146d25e3","Garden Court Condominiums","Residence::Residential Building (Apartment / Condo)",42.339524638354376,-83.01939766697805
+"4b3b722cf964a520f07325e3","Goodwill","Shop & Service::Thrift / Vintage Store",42.34045976778329,-83.06996382131541
+"4b3b78adf964a520507425e3","Anna Scripps Whitcomb (Belle Isle) Conservatory","Outdoors & Recreation::Garden",42.33623849985987,-82.98560500144958
+"4b3be02ff964a520447d25e3","DTW Fox Sport Bar","Nightlife Spot::Sports Bar",42.3601806,-83.07529261666667
+"4b3f7628f964a52038a725e3","D:hive Welcome Center","Travel & Transport::Tourist Information Center",42.33355782818578,-83.04859399795532
+"4b40488cf964a52060b725e3","V Nightclub","Nightlife Spot::Nightclub",42.333926654833014,-83.0590494775395
+"4b421194f964a52038cc25e3","Vixen Fitness","Shop & Service::Gym / Fitness Center::Yoga Studio",42.34465252870443,-83.03917407989502
+"4b423c36f964a520b3cf25e3","New Center Eatery","Food::Fried Chicken Joint",42.36991760931926,-83.07428816777009
+"4b43789af964a52024e125e3","Detroit Film Theatre","Arts & Entertainment::Movie Theater::Indie Movie Theater",42.35954283739148,-83.06406497955322
+"4b4379bff964a5204be125e3","Detroit Opera House","Arts & Entertainment::Performing Arts Venue::Opera House",42.33653193922875,-83.04891586303711
+"4b44bc72f964a520bafa25e3","Oblivion's","Nightlife Spot::Pub",42.33160972595215,-83.07095289230347
+"4b462902f964a520951826e3","Curl Up & Dye","Shop & Service::Salon / Barbershop",42.35077,-83.063722
+"4b463381f964a520df1926e3","University Of Detroit Mercy School Of Law","College & University::Law School",42.332183980488836,-83.03777125985103
+"4b47601bf964a520323026e3","Pizza Papalis Taverna","Food::Pizza Place",42.335431985657685,-83.04157856311869
+"4b47a3a6f964a520913826e3","Nathan's Deli","Food::Deli / Bodega",42.3316781174731,-83.03887367248535
+"4b47b466f964a520333b26e3","Cuisine","Food::French Restaurant",42.37021847,-83.07850893
+"4b48b80bf964a520025426e3","Cobo Center","Professional & Other Places::Convention Center",42.32685564910629,-83.04960250854492
+"4b48b951f964a520305426e3","R. Hirt Jr.","Shop & Service::Food & Drink Shop::Grocery Store",42.346108738319494,-83.03900367549932
+"4b48efd3f964a520445e26e3","Courtyard Detroit Downtown","Travel & Transport::Hotel",42.3300845390745,-83.04158380718624
+"4b490577f964a520666226e3","La Casa De La Habana Cigar Bar","Nightlife Spot::Bar",42.33657451582205,-83.04623513059816
+"4b4927daf964a5201a6826e3","Vivio's Food & Spirits","Nightlife Spot::Bar",42.345993,-83.039012
+"4b4b1a38f964a520539226e3","Blue Cross & Blue Shield of Michigan","Professional & Other Places::Office",42.334579083172194,-83.0393025983726
+"4b4ba7b7f964a520fca226e3","David Adamany Undergraduate Library Wayne State University","College & University::College Library",42.35663463565112,-83.07027308706128
+"4b4bb127f964a52043a426e3","Science and Engineering Library (SEL) Wayne State University","College & University::College Library",42.356021449268304,-83.0687267437699
+"4b4be985f964a52018ab26e3","Bourbon Steak","Food::Steakhouse",42.333400526631436,-83.0593430667042
+"4b4c74cbf964a5206ab326e3","McDonald's","Shop & Service::Food & Drink Shop::Food Court",42.32904484175329,-83.0401611328125
+"4b4c87c8f964a52046b526e3","Detroit Passport Agency","Professional & Other Places::Government Building",42.32951167778805,-83.04965393211036
+"4b4cd660f964a52003c126e3","Thai Xpress","Food::Thai Restaurant",42.370101,-83.07674022
+"4b4ce23ff964a520e7c226e3","Rosa Parks Transit Center","Travel & Transport::Bus Station",42.33204947891233,-83.05296769286124
+"4b4d124ef964a520efc926e3","The Motor Bar","Nightlife Spot::Hotel Bar",42.331594410160314,-83.05039849415974
+"4b4e70c8f964a520daed26e3","The Hub of Detroit","Shop & Service::Bike Shop",42.346394062042236,-83.061303
+"4b4f2685f964a5208ffb26e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",42.32940969978741,-83.0401611328125
+"4b4f2e3af964a52062fc26e3","Next Energy","Professional & Other Places::Office::Tech Startup",42.364444,-83.073077
+"4b4f5a00f964a520a90227e3","Salsarita's","Shop & Service::Food & Drink Shop::Food Court",42.329375600000006,-83.04
+"4b4f8ef7f964a5205e0b27e3","Hello Records","Shop & Service::Record Shop",42.329532116880095,-83.06537708212088
+"4b4fe25cf964a5209a1827e3","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",42.35802,-83.06047
+"4b5083e0f964a520b62527e3","Contemporary Arts Institute Detroit (CAID)","Arts & Entertainment::Museum",42.35383176175986,-83.08528382867152
+"4b51f07bf964a5205a5c27e3","Holy Cross K of C Lounge","Nightlife Spot::Bar",42.3303795,-83.13050766
+"4b521359f964a520ea6527e3","The Golden Fleece","Food::Greek Restaurant",42.33505679773131,-83.04230690002441
+"4b522970f964a520876c27e3","Rocky Peanut Company","Shop & Service::Candy Store",42.34588926499331,-83.04008398684233
+"4b52a224f964a5207c8427e3","Harbor House","Food::Seafood Restaurant",42.336168799999996,-83.04366646666666
+"4b538f02f964a5203ba227e3","Red Robin Gourmet Burgers","Food::Burger Joint",42.329260736068846,-83.222251
+"4b54b478f964a52011c827e3","Detroit Receiving Hospital","Professional & Other Places::Medical Center::Hospital",42.35379571135602,-83.05435711565542
+"4b54b609f964a5205ec827e3","Biggby Coffee @ Receiving","Food::Coffee Shop",42.3538818359375,-83.05484008789062
+"4b55b52af964a520abec27e3","West Fort Street Building","Professional & Other Places::Government Building",42.329468195851454,-83.05008262395859
+"4b5635fdf964a5207d0528e3","College for Creative Studies - Taubman Campus (CCS)","College & University::College Academic Building::College Arts Building",42.36777935718378,-83.07518005371094
+"4b56421cf964a520e00728e3","Epsilon Beta of Theta Tau","College & University::Fraternity House",42.349209,-83.064502
+"4b565e7ef964a520810d28e3","Cobo Joe's","Nightlife Spot::Bar",42.32834912263008,-83.0505767683297
+"4b57f567f964a5204d4728e3","Megabus Stop","Travel & Transport::Bus Station::Bus Line",42.33209788799286,-83.05295
+"4b57f7dcf964a520894728e3","Cloud 9 Nightclub","Nightlife Spot::Nightclub",42.36898,-83.076647
+"4b589e26f964a5209d6128e3","One Fifty Restaurant And Bar","Nightlife Spot::Lounge",42.328887583333334,-83.047648
+"4b58ae98f964a5206d6528e3","Stella International Cafe","Food::Café",42.36933299425017,-83.07719711333112
+"4b58cd20f964a520e06b28e3","McDonald's","Food::Fast Food Restaurant",42.35126955770288,-83.04642140865326
+"4b58f25ef964a520c47428e3","Starbucks","Food::Coffee Shop",42.35649053228913,-83.07187557220459
+"4b5992bff964a5201b8d28e3","WBC Coffee","Food::Coffee Shop",42.33184814453125,-83.0505599975586
+"4b59dd6ef964a520e29c28e3","Andrews on the Corner","Nightlife Spot::Bar",42.336491855649236,-83.01777143867159
+"4b59e3f6f964a520aa9e28e3","Coffee Masters","Food::Café",42.36930626012563,-83.07700842887984
+"4b5a0227f964a5205ea728e3","McDonald's","Food::Fast Food Restaurant",42.445376,-83.08310602
+"4b5b0fa6f964a52077e128e3","The Detroit Eagle","Nightlife Spot::Bar",42.36294468333333,-83.08517236666667
+"4b5b14bff964a5209ee228e3","Renaissance High School","Professional & Other Places::School::High School",42.418465236745796,-83.19530631356349
+"4b5b2be1f964a52069e828e3","Secretary Of State","Professional & Other Places::Government Building::Capitol Building",42.36945980088409,-83.07482803587642
+"4b5b7bd6f964a520a40129e3","Laikon cafe","Food::Greek Restaurant",42.33548903363575,-83.04134130477905
+"4b5b95d4f964a520f90829e3","10 Critics","Arts & Entertainment::Art Gallery",42.32857894897461,-83.06327056884766
+"4b5cfc5cf964a520cd4d29e3","University of Detroit Jesuit High School","Professional & Other Places::School::High School",42.43251611890428,-83.15380096435547
+"4b5da7a7f964a520546529e3","Detroit Athletic Club (DAC)","Shop & Service::Gym / Fitness Center::Gym",42.337408924480464,-83.04672279259484
+"4b5dac52f964a5202b6629e3","WSU State Hall","College & University::General College & University",42.357049568204744,-83.06769903600399
+"4b5dc9b4f964a520b86b29e3","WSU Welcome Center","College & University::College Administrative Building",42.356807,-83.06504
+"4b5dd984f964a5209e6f29e3","Gyro Land","Shop & Service::Food & Drink Shop::Food Court",42.3293949080409,-83.03954907761583
+"4b5ddb45f964a5202f7029e3","Jimmy John's","Food::Sandwich Place",42.32991691666667,-83.04650417
+"4b5ddf5ef964a520457129e3","Blimpie Subs","Food::Sandwich Place",42.355163527921356,-83.06541901947264
+"4b5ddff0f964a520677129e3","Alex Manoogian Hall","College & University::College Academic Building::College Communications Building",42.355084211388316,-83.07242811944168
+"4b5df075f964a520f97429e3","Wayne State University Old Main","College & University::College Academic Building::College Arts Building",42.35523426225665,-83.06672954822677
+"4b5e009ff964a5208b7829e3","BIGGBY COFFEE @ Children's Hospital","Food::Café",42.35146713256836,-83.0551528930664
+"4b5e24fbf964a5201e8029e3","Holy Cross K of C Lounge","Nightlife Spot::Bar",42.3303795,-83.13050766
+"4b5f6b6cf964a5203fb929e3","Helen L. DeRoy Auditorium","College & University::College Auditorium",42.357782825014176,-83.06805610656738
+"4b5f6ccef964a5208db929e3","General Lectures","College & University::College Classroom",42.35483350457461,-83.07187557220459
+"4b5f6dbbf964a520b7b929e3","WSU Science Hall","College & University::College Lab",42.356213042655384,-83.06747674942017
+"4b5f86d4f964a52092bf29e3","Bistro 555","Food::American Restaurant",42.33584195799681,-83.04118573665619
+"4b607853f964a520e5e729e3","Coney Town","Shop & Service::Food & Drink Shop::Food Court",42.329307168537454,-83.03965396212037
+"4b60b8d7f964a520edf529e3","Covenant Community Care","Professional & Other Places::Medical Center::Doctor's Office",42.324428411678674,-83.09083074331284
+"4b60e9c5f964a5201a012ae3","Big City Bar & Grill","Nightlife Spot::Sports Bar",42.33096428856115,-83.05079340934753
+"4b611ceff964a520240a2ae3","Pulse Lounge","Nightlife Spot::Lounge",42.33353403473035,-83.04485499858856
+"4b61db7bf964a5206e272ae3","Evie's Tamales","Food::Mexican Restaurant",42.3231315612793,-83.0857162475586
+"4b624479f964a520783f2ae3","McShanes Pub & Whiskey Bar","Nightlife Spot::Bar",42.33163052913101,-83.06681156158447
+"4b625cd7f964a52051442ae3","Lofts of Merchants Row","Residence::Residential Building (Apartment / Condo)",42.333759,-83.048146
+"4b62e19df964a5201a572ae3","Gourmet Deli","Food::Deli / Bodega",42.330010074851,-83.03878341567182
+"4b631985f964a520e5622ae3","Jacoby's German Biergarten","Food::German Restaurant",42.3321422497164,-83.04215540804594
+"4b637029f964a520df792ae3","Coleman A Young International Airport (DET)","Travel & Transport::Airport",42.40930223104185,-83.00376892089844
+"4b6376bef964a520d07b2ae3","Detroit Amtrak Station (DET)","Travel & Transport::Train Station",42.36789825957209,-83.07213842868805
+"4b63788ff964a5206a7c2ae3","Sinai Grace Hospital","Professional & Other Places::Medical Center::Hospital",42.41891287480492,-83.18157149908471
+"4b647224f964a520c9b32ae3","Southfield Town Center","Professional & Other Places::Office",42.39459552765467,-82.97290322530343
+"4b64b749f964a520a1ca2ae3","Pappy's Bar & Grill","Nightlife Spot::Sports Bar",42.33512817634233,-83.04224789142609
+"4b64b89af964a520fcca2ae3","Opus One","Food::American Restaurant",42.3319739945751,-83.03921869033464
+"4b64bb12f964a520bdcb2ae3","Señor Lopez","Food::Mexican Restaurant",42.331302642822266,-83.13287353515625
+"4b650acff964a52010e12ae3","Buddy's Pizza","Food::Pizza Place",42.41892016886239,-83.06418185634386
+"4b672cf1f964a5207c3f2be3","Vivaki in the D","Professional & Other Places::Office",42.3287372274473,-83.04643439077535
+"4b68489cf964a520866f2be3","Federal Reserve Bank of Chicago - Detroit Branch","Professional & Other Places::Building",42.36175139979552,-83.04868389144872
+"4b686376f964a52077752be3","Midtown Shangri-La","Food::Chinese Restaurant",42.35400893861879,-83.06541681289673
+"4b686a42f964a5201a772be3","Pure Detroit","Shop & Service::Clothing Store",42.370263384442296,-83.07752206861471
+"4b688f70f964a520f37f2be3","Wayne State University Barnes & Noble","Food::Coffee Shop",42.35639014810341,-83.06644060377732
+"4b69da69f964a5204eb82be3","Saltwater","Food::Seafood Restaurant",42.333505,-83.059189
+"4b6a4f31f964a520b2d12be3","WSU College of Engineering","College & University::College Academic Building::College Engineering Building",42.35511892873107,-83.07080268859863
+"4b6acb1cf964a52091e02be3","WSU Manufacturing Engineering Building","College & University::College Academic Building::College Engineering Building",42.35321607653588,-83.07201504707336
+"4b6afa8af964a5203eea2be3","Sacred Heart Major Seminary","College & University::General College & University",42.37445896663132,-83.11145530684425
+"4b6c71c8f964a520a33a2ce3","Cost Plus Wine","Shop & Service::Food & Drink Shop::Wine Shop",42.345932722091675,-83.03902213
+"4b6c98cdf964a5207f452ce3","Starters Bar & Grill","Food::American Restaurant",42.35386310890466,-83.06265109684445
+"4b6ca18ff964a520ee472ce3","Cadillac Place","Professional & Other Places::Government Building::Courthouse",42.36876332840447,-83.07644761355901
+"4b6d05e9f964a52082632ce3","Cadieux Cafe","Nightlife Spot::Bar",42.40150042,-82.92662
+"4b6e0607f964a5202ca42ce3","Motor City Movie House","Arts & Entertainment::Movie Theater::Indie Movie Theater",42.37833,-83.06055
+"4b6ed125f964a520dccb2ce3","Detroit Symphony Orchestra","Arts & Entertainment::Concert Hall",42.34853800395407,-83.05926442687793
+"4b6eeccff964a52057d12ce3","St. John's Episcopal Church","Professional & Other Places::Spiritual Center::Church",42.340032871558186,-83.05173553865899
+"4b702863f964a52052092de3","US Post Office","Professional & Other Places::Post Office",42.32936210972907,-83.04074048995972
+"4b702acdf964a520c6092de3","Detroit Media Partnership","Professional & Other Places::Office",42.32876358575936,-83.05396388576716
+"4b702e59f964a5206d0a2de3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",42.347855,-83.05809
+"4b706407f964a52062172de3","Omni Detroit Hotel at River Place","Travel & Transport::Hotel",42.33589747400816,-83.01595687866211
+"4b70648ff964a52085172de3","Freshens","Food::Juice Bar",42.3579216003418,-83.07197570800781
+"4b7064e8f964a5209b172de3","Eastern Wig & Hair company","Shop & Service::Cosmetics Shop",42.33468112139691,-83.04876778742225
+"4b706902f964a520b2182de3","Iridescence","Food::New American Restaurant",42.33918076237481,-83.06766986846924
+"4b709fb5f964a520e7252de3","Indian Village Market","Shop & Service::Food & Drink Shop::Grocery Store",42.354104081396585,-82.99123764038086
+"4b70bf05f964a520bd2c2de3","Calihan Hall","College & University::College Stadium::College Basketball Court",42.414332240033445,-83.1359052658081
+"4b7169b4f964a52064452de3","Wayne State University School of Medicine","College & University::Medical School",42.35445293701623,-83.05582523345947
+"4b7178f4f964a52078482de3","Crain Communications","Professional & Other Places::Office",42.342400439066246,-83.04131984710693
+"4b717f96f964a520c9492de3","Prentis Building","College & University::College Administrative Building",42.35762914389071,-83.06797190534796
+"4b7197a8f964a520b14f2de3","Wayne State University Community Arts Auditorium","College & University::College Auditorium",42.359146442508454,-83.07007312774658
+"4b71a89bf964a5202b542de3","Butzel Long","Professional & Other Places::Office",42.328375,-83.046595
+"4b724751f964a52084762de3","8 Mile Grill & Restaurant","Food::Breakfast Spot",42.4388313293457,-83.151123046875
+"4b72e883f964a520df8e2de3","Gateway Deli","Food::Deli / Bodega",42.329767228804165,-83.0501835158417
+"4b7326c9f964a5208c9e2de3","Coleman A. Young Municipal Center","Professional & Other Places::Government Building::City Hall",42.32983410502894,-83.04404322883305
+"4b7438def964a52002ce2de3","The Ham Shoppe","Food::Diner",42.33437728881836,-83.04444122314453
+"4b74558af964a520e8d52de3","Heidelburg Project","Arts & Entertainment::Art Gallery",42.35863494873047,-83.02214050292969
+"4b749931f964a520c4e62de3","Detroit MSU Center","College & University::General College & University",42.34585042,-83.05683
+"4b749dcff964a520ffe72de3","TJ's Coney Island","Food::Diner",42.44333267211914,-83.24586486816406
+"4b756131f964a52042092ee3","Wayne State Marketing and Communications","College & University::College Administrative Building",42.36199274542818,-83.06968600508173
+"4b75a198f964a52063182ee3","Starcom Mediavest Group Inc","Professional & Other Places::Office::Coworking Space",42.32818027839763,-83.04639458656311
+"4b75a9aef964a5202a1b2ee3","Cass Tech High School","Professional & Other Places::School::High School",42.33880010004537,-83.06037425994873
+"4b75bd0af964a520ff202ee3","WJR Radio","Professional & Other Places::Building",42.368895129748246,-83.07731766144661
+"4b760e9bf964a520bc392ee3","The Parade Company","Arts & Entertainment::General Entertainment",42.3974723815918,-83.0365982055664
+"4b762e16f964a520eb412ee3","Bert's Warehouse Theater","Arts & Entertainment::Music Venue",42.347454,-83.0413144826889
+"4b76b478f964a5209a592ee3","Fellowship Chapel","Professional & Other Places::Spiritual Center::Church",42.418536,-83.21216639
+"4b76c8fef964a520f75e2ee3","Hartford Memorial Baptist Church","Professional & Other Places::Spiritual Center::Church",42.4289684267872,-83.1832198299891
+"4b76fcc8f964a520c2712ee3","Bayview Yacht Club","Outdoors & Recreation::Harbor / Marina",42.35556291928673,-82.95355796813965
+"4b778952f964a5206ba02ee3","Duly's Place","Food::Hot Dog Joint",42.317910656497986,-83.10190484570721
+"4b77e498f964a520d9ad2ee3","Triumph East Location 8am service","Professional & Other Places::Spiritual Center::Church",42.37485,-83.06194067001343
+"4b783417f964a520fcbb2ee3","E & L Supermercado","Shop & Service::Food & Drink Shop::Grocery Store",42.316581222951726,-83.10612230830735
+"4b785fc9f964a52062c92ee3","Belle Isle Nature Zoo","Arts & Entertainment::Zoo",42.346904537670945,-82.96385765075684
+"4b78845ef964a5209bd32ee3","Southern Fires Restaurant","Food::Southern / Soul Food Restaurant",42.347272,-83.00786197185516
+"4b78aac8f964a520f9dc2ee3","Michael Symon's Roast","Food::American Restaurant",42.33182881365219,-83.0513995885849
+"4b7928bbf964a5205fed2ee3","Mobil Gas Station","Shop & Service::Gas Station / Garage",42.33406231666667,-83.07393611666667
+"4b7966f4f964a520b1f72ee3","WDET","Professional & Other Places::Office",42.35328318380203,-83.06351084287041
+"4b7adff5f964a520da422fe3","Coffee Beanery","Food::Coffee Shop",42.32925588259,-83.0394494371818
+"4b7b2aa4f964a52068552fe3","Canine to Five","Outdoors & Recreation::Dog Run",42.345136,-83.0605298280716
+"4b7c05ccf964a52000792fe3","Wayne State University Maccabees Building","College & University::College Administrative Building",42.357576694213684,-83.0651593208313
+"4b7c19c9f964a520f47c2fe3","Giovanni's Ristorante","Food::Italian Restaurant",42.29011917114258,-83.14619445800781
+"4b7c220af964a520077f2fe3","JVS","Professional & Other Places::Building",42.352539,-83.06084
+"4b7c259ff964a52005802fe3","The Anchor Bar","Nightlife Spot::Bar",42.329284,-83.05155848333334
+"4b7c31c2f964a5208f832fe3","Pulse Lounge","Nightlife Spot::Lounge",42.33353403473035,-83.04485499858856
+"4b7c7396f964a52049942fe3","Hotel St. Regis","Travel & Transport::Hotel",42.370177178518475,-83.07475090026855
+"4b7cd56ef964a520f0a62fe3","5 E Gallery","Arts & Entertainment::Art Gallery",42.33117706412527,-83.08309846985398
+"4b7d78b6f964a520abc02fe3","Clique Restaurant","Food::Breakfast Spot",42.33329391479492,-83.03360748291016
+"4b7df2d2f964a520a2db2fe3","shotZ","Nightlife Spot::Hotel Bar",42.335865750579124,-83.04093360900879
+"4b7e1cf1f964a5202ae32fe3","Northern Lights Lounge","Nightlife Spot::Lounge",42.36683605692808,-83.07670891284943
+"4b7ec164f964a52018fd2fe3","DPM - Renaissance Center Station","Travel & Transport::Light Rail",42.33012354634199,-83.04019868373871
+"4b7ec297f964a5206ffd2fe3","DPM - Joe Louis Arena Station","Travel & Transport::Light Rail",42.325269230016424,-83.05258512496948
+"4b7ec4eaf964a52001fe2fe3","DPM - Greektown Station","Travel & Transport::Light Rail",42.33468800695043,-83.04249465465546
+"4b7ecfd2f964a520440130e3","Checkers Bar & Grill","Food::Burger Joint",42.33147430419922,-83.0444564819336
+"4b7ef4f8f964a520340c30e3","Pi Kappa Alpha","College & University::Fraternity House",42.35127939882013,-83.0643129128631
+"4b7f10f3f964a520ff1330e3","Bangkok Cuisine","Food::Thai Restaurant",42.35214528590871,-83.0608319629963
+"4b801931f964a520075230e3","Gratiot Central Market","Shop & Service::Food & Drink Shop::Grocery Store",42.3449438,-83.03871688
+"4b802b3ef964a520c25830e3","Kim's Produce","Shop & Service::Food & Drink Shop::Grocery Store",42.35199411,-83.06086928333333
+"4b802f65f964a520475a30e3","Eastern Market Antiques","Shop & Service::Antique Shop",42.346744,-83.03947448730469
+"4b816579f964a52090a330e3","Citadel of Faith Covenant Church","Professional & Other Places::Spiritual Center::Church",42.35244944567373,-83.07804094549029
+"4b8177b9f964a5201aa830e3","Grand Central Station","Travel & Transport::Train Station::Train",42.330012315891786,-83.08287835773625
+"4b817a62f964a520d7a830e3","Fisher Theater","Arts & Entertainment::Performing Arts Venue",42.36912774675117,-83.07793088104125
+"4b81820ef964a5202aab30e3","Luci & Ethel's Diner","Food::Breakfast Spot",42.333518981933594,-83.05347442626953
+"4b82cfa3f964a5208ee630e3","Jets Pizza","Food::Pizza Place",42.34230041503906,-83.01199340820312
+"4b834b2cf964a520210131e3","DPM - Michigan Ave Station","Travel & Transport::Light Rail",42.331348964036884,-83.05213987827301
+"4b835038f964a520f90131e3","DPM - Bricktown Station","Travel & Transport::Light Rail",42.333276271719505,-83.0412232875824
+"4b83ea14f964a520741631e3","Burger King","Food::Fast Food Restaurant",42.32548141479492,-83.06147766113281
+"4b8595f0f964a520f86631e3","Boll Family YMCA","Shop & Service::Gym / Fitness Center",42.33555669581445,-83.04796552779622
+"4b85d7eff964a520eb7531e3","United Way SEM","Professional & Other Places::Office::Coworking Space",42.3310753291462,-83.04595470428467
+"4b85ed09f964a520dc7931e3","Hilton Garden Inn","Travel & Transport::Hotel",42.335857819719365,-83.04501593112946
+"4b8698caf964a5205c9131e3","Ford Building","Professional & Other Places::Building",42.329926106550914,-83.04701643678526
+"4b86a20ef964a520519331e3","Wayne State - Scott Hall","College & University::Medical School",42.35479267278709,-83.05566786496888
+"4b86d30bf964a520e79f31e3","Jimmy John's","Food::Sandwich Place",42.33303010755699,-83.04552722772154
+"4b86dafff964a520e5a131e3","Speedway","Shop & Service::Gas Station / Garage",42.33272125615459,-83.03695837733322
+"4b87f6ccf964a52087d531e3","Belcrest Apartments","Professional & Other Places::Building",42.359983766045,-83.0687267437699
+"4b880631f964a520c7d931e3","Mcdonalds","Food::Fast Food Restaurant",42.43115,-83.185953
+"4b882930f964a52014e431e3","Oak Grove A.M.E Church","Professional & Other Places::Spiritual Center::Church",42.43825078,-83.15608205
+"4b885edcf964a520d0f231e3","Nick's Gaslight Lounge & Restaurant","Food::American Restaurant",42.333795762245074,-83.05306792259216
+"4b8898caf964a520540332e3","MGM Grand Detroit Casino & Hotel","Arts & Entertainment::Casino",42.33364809424602,-83.0591857869576
+"4b8946fdf964a520ea2732e3","Roostertail","Professional & Other Places::Event Space",42.35566995225503,-82.97336876392365
+"4b8952baf964a520932b32e3","Griswold - Larned Parking","Professional & Other Places::Parking",42.32915876160202,-83.0462980549298
+"4b897f05f964a520fd3b32e3","Taste Of Ethiopia","Food::Ethiopian Restaurant",42.3453483581543,-83.03998565673828
+"4b8980e0f964a520b23c32e3","The Inn on Ferry Street","Travel & Transport::Hotel::Bed & Breakfast",42.36117595793521,-83.06563138961792
+"4b899b6ff964a520b24532e3","Cathedral of the Most Blessed Sacrament","Professional & Other Places::Spiritual Center::Church",42.38915041310663,-83.08415185333634
+"4b8bd788f964a52023ae32e3","R*Works","Professional & Other Places::Office",42.329482317322935,-83.04468297803975
+"4b8c06e3f964a52067b932e3","Chase Bank","Shop & Service::Bank",42.37631,-83.077145
+"4b8c3dacf964a520fec532e3","Big Boy","Food::American Restaurant",42.347188615980095,-83.00262460723698
+"4b8c5546f964a52025cb32e3","Volt Bar","Nightlife Spot::Bar",42.328712761471174,-83.04041961394236
+"4b8c6cecf964a52030d032e3","El Monterrey","Food::Taco Place",42.3291130065918,-83.22478485107422
+"4b8d14f2f964a52017e732e3","36th District Court","Professional & Other Places::Government Building::Courthouse",42.33755713568936,-83.04490321813118
+"4b8d42c9f964a52084f032e3","Salad 101","Food::Salad Place",42.356021881103516,-83.07173919677734
+"4b8d4597f964a5202af132e3","Subway","Food::Sandwich Place",42.329283564172606,-83.0398584864237
+"4b8d47cff964a520b0f132e3","Rice Bowl Express","Food::Asian Restaurant",42.329559326171875,-83.04027557373047
+"4b8d4d6ef964a52018f332e3","Secretary of State","Professional & Other Places::Government Building",42.312208,-83.12537695
+"4b8d5be2f964a520d6f632e3","The Potato Place","Food::American Restaurant",42.356155918587284,-83.0661738872271
+"4b8d90e9f964a520690133e3","End Zone Chicken and Ribs","Food::Fried Chicken Joint",42.3350171429124,-83.04202795028687
+"4b8ea111f964a520042d33e3","DPM - Millender Center Station","Travel & Transport::Light Rail",42.330186998977,-83.04197430610657
+"4b8ea164f964a5201d2d33e3","DPM - Financial District Station","Travel & Transport::Light Rail",42.32867998160287,-83.04669499397278
+"4b8ea1edf964a520442d33e3","DPM - Cobo Center Station","Travel & Transport::Light Rail",42.32769643500371,-83.04943084716797
+"4b8ea24cf964a520582d33e3","DPM - Fort / Cass Station","Travel & Transport::Light Rail",42.329532640604825,-83.05110454559326
+"4b8ea326f964a5208d2d33e3","DPM - Broadway Station","Travel & Transport::Light Rail",42.33550092999478,-83.04831504821777
+"4b8eafd7f964a5200e3133e3","Lunch Time Global","Food::Salad Place",42.33073806762695,-83.04524993896484
+"4b8eb9caf964a520613333e3","TechTown","Professional & Other Places::Office::Coworking Space",42.36515261880252,-83.07272095268327
+"4b8ff748f964a520cc6c33e3","Subway","Food::Sandwich Place",42.349212646484375,-83.05855560302734
+"4b912902f964a5203ba733e3","Mindfield","Professional & Other Places::Building",42.33452832112109,-83.04698497497037
+"4b913fcaf964a52020ad33e3","Rennaisance Center Food Court","Shop & Service::Food & Drink Shop::Food Court",42.32919710432165,-83.03972738117413
+"4b928c75f964a520330334e3","Farmer's Restaurant","Food::Breakfast Spot",42.34681731347333,-83.03941011428833
+"4b930e27f964a520d43134e3","Sound Board","Nightlife Spot::Nightclub",42.33939488392246,-83.06770205497742
+"4b9412baf964a520026634e3","Detroit Athletic Co.","Shop & Service::Clothing Store",42.33165432330655,-83.07046473026276
+"4b9582b6f964a520a6a634e3","Mullen","Professional & Other Places::Office",42.32871790204088,-83.04504480065795
+"4b958bf6f964a520aca834e3","Chromatics","Nightlife Spot::Lounge",42.339133179709656,-83.06784152984619
+"4b95a146f964a52007ad34e3","Detroit Public Library - Skillman Branch","Professional & Other Places::Library",42.333851280062724,-83.04683446884154
+"4b96899df964a52007d334e3","Historic Fort Wayne","Outdoors & Recreation::Other Great Outdoors",42.30057939496076,-83.09749603271484
+"4b96b717f964a520d9df34e3","Pewabic Pottery","Arts & Entertainment::Art Gallery",42.36182823337831,-82.9815748720729
+"4b97a9b2f964a5204d0e35e3","1515 Broadway Theater","Arts & Entertainment::Performing Arts Venue::Indie Theater",42.33603479959637,-83.04861048238415
+"4b97d512f964a520ad1835e3","Ben & Jerry's","Food::Ice Cream Shop",42.332191467285156,-83.04727172851562
+"4b98404df964a520493735e3","Tai Hing Carry-Out","Food::Chinese Restaurant",42.35784149169922,-82.98638916015625
+"4b9868e7f964a520c64035e3","Better Made Potato Chips","Professional & Other Places::Building",42.396439542853365,-83.00118686804754
+"4b98f4f6f964a520745835e3","UAW, Solidarity House","Professional & Other Places::Office::Coworking Space",42.34986545328329,-82.99402918991372
+"4b9925e0f964a520c46435e3","WSU Student Center","College & University::Student Center",42.35825696568484,-83.07079198027628
+"4b992787f964a520416535e3","Forty-Two Degrees North","Food::American Restaurant",42.328012,-83.04004311561584
+"4b994128f964a520e16d35e3","Subway Sandwiches","Food::Sandwich Place",42.3290901184082,-83.04838562011719
+"4b995582f964a520e77335e3","GameStop","Shop & Service::Video Game Store",42.36515881358519,-82.97312370497049
+"4b996431f964a520fa7735e3","McDonald's","Food::Fast Food Restaurant",42.35673141479492,-82.98779296875
+"4b9a7c2af964a52097b935e3","El Zocalo","Food::Mexican Restaurant",42.32342113252817,-83.08506372388618
+"4b9a7f26f964a520cbba35e3","Motz Burgers","Food::Burger Joint",42.302579,-83.1134551763535
+"4b9a997af964a5202dc535e3","The Metro Shop","Shop & Service::Clothing Store::Accessories Store",42.3299689,-83.04638888888888
+"4b9c0522f964a520864136e3","Harbortown Market","Shop & Service::Food & Drink Shop::Grocery Store",42.34266451511227,-83.0113185893803
+"4b9c49a9f964a5202e5c36e3","They Say","Food::American Restaurant",42.338131601117695,-83.0188993109509
+"4b9cf615f964a520078536e3","Packard Plant","Professional & Other Places::Building",42.378138874059786,-83.02672863006592
+"4b9d3f90f964a520fd9c36e3","Boston Market","Food::American Restaurant",42.428158,-83.14106
+"4b9d8d80f964a52053b336e3","Marathon Gas Station","Shop & Service::Gas Station / Garage",42.38761,-82.94843983
+"4b9e6cc9f964a52094e236e3","McDonald's","Food::Burger Joint",42.303199768066406,-83.12054443359375
+"4b9e7121f964a52028e436e3","Bai Mai Thai","Food::Thai Restaurant",42.338714599609375,-83.03276062011719
+"4b9e7c4af964a5201de836e3","FedEx Office Print & Ship Center","Shop & Service::Financial or Legal Service",42.332752,-83.047607
+"4b9eaa9ef964a52003f836e3","610 SMART Bus","Travel & Transport::Bus Station::Bus Line",42.352866,-82.993673
+"4b9f7d81f964a5202a2637e3","615 Smartbus","Travel & Transport::Bus Station::Bus Line",42.329647649539076,-83.04501056671143
+"4ba00beef964a5205d5537e3","Little Caesars","Food::Pizza Place",42.358884486427755,-83.05759199763357
+"4ba01d20f964a520225b37e3","The Boulevard Room","Food::American Restaurant",42.33151626586914,-83.05067443847656
+"4ba07975f964a520196f37e3","White Castle","Food::Burger Joint",42.368499755859375,-83.0715103149414
+"4ba123b1f964a520a29b37e3","klever design","Shop & Service::Design Studio",42.335476097790966,-83.0470846039992
+"4ba16b9ff964a52081b537e3","BP","Shop & Service::Gas Station / Garage",42.43149212466825,-83.14141259827868
+"4ba1bd47f964a5205bca37e3","Exodus Lounge","Nightlife Spot::Lounge",42.335427136120934,-83.0422393123416
+"4ba25020f964a52057ec37e3","Harper University Hospital","Professional & Other Places::Medical Center::Hospital",42.35099600949203,-83.05646896362305
+"4ba2634df964a520ebf337e3","Computing & Information Technology","College & University::College Administrative Building",42.3644642216554,-83.06963358679268
+"4ba32cc3f964a520b42e38e3","Dutch Girl Donuts","Food::Donut Shop",42.43133664115715,-83.1143887946622
+"4ba389d9f964a520924538e3","Lincoln King Academy","College & University::College Classroom",42.415976201704005,-83.17811771796826
+"4ba3a82af964a520d85038e3","Bagley Bar Food & Spirits","Food::American Restaurant",42.33367919921875,-83.05265045166016
+"4ba3acaff964a520e45238e3","Salvation Army","Shop & Service::Thrift / Vintage Store",42.32633389415451,-83.05846229527674
+"4ba3cb0df964a520f45f38e3","Two Detroit Center","Travel & Transport::General Travel",42.330174921562,-83.0447983419891
+"4ba3f1a6f964a5200c7038e3","Mike's Market","Shop & Service::Food & Drink Shop::Grocery Store",42.43268273489745,-83.1425749995249
+"4ba4ee84f964a520b1c438e3","Eastern Market Shed 5","Shop & Service::Food & Drink Shop::Farmers Market",42.34847768703934,-83.04101744547665
+"4ba4f07df964a520cdc538e3","Eastern Market Shed 3","Shop & Service::Food & Drink Shop::Farmers Market",42.347136,-83.04028805913913
+"4ba505b6f964a520bdd138e3","DPM - Cadillac Center Station","Travel & Transport::Light Rail",42.33374024437842,-83.0462121963501
+"4ba5cea2f964a520572339e3","Cyprus Taverna","Food::Greek Restaurant",42.334510803222656,-83.04907989501953
+"4ba65999f964a520274939e3","Michigan Science Center","Arts & Entertainment::Museum::Science Museum",42.35832193314178,-83.06196212768555
+"4ba66786f964a520db4e39e3","Subway","Food::Sandwich Place",42.34238815307617,-83.01203918457031
+"4ba6b1f3f964a520816939e3","Passport Pizza - Midtown","Food::Pizza Place",42.351951599121094,-83.06066131591797
+"4ba7676af964a520399139e3","150 W. Jefferson Garage","Professional & Other Places::Building",42.3285227519581,-83.04604111353017
+"4ba777f0f964a5202c9639e3","Dermanaut HQ","Professional & Other Places::Office::Tech Startup",42.36484229564667,-83.072921
+"4ba79253f964a520779e39e3","McNamara Federal Building","Professional & Other Places::Government Building",42.33131900945197,-83.05330325426212
+"4ba7ad83f964a520f6a839e3","Kaleidoscope Global","Professional & Other Places::Office::Coworking Space",42.328988,-83.045879
+"4ba7d007f964a52087b539e3","Student union","College & University::Student Center",42.358935,-83.071173
+"4ba7f654f964a52039c239e3","Grace Community Church","Professional & Other Places::Spiritual Center::Church",42.42433323566654,-82.92632358650812
+"4ba82cf6f964a52084cf39e3","Mort Harris Recreation & Fitness Center","College & University::College Gym",42.35774284687772,-83.07004769013618
+"4ba8e7b8f964a520c4f839e3","Asian Cornbeef","Food::Restaurant",42.400657653808594,-83.1714859008789
+"4ba900f7f964a52095023ae3","Rouge park golf course","Outdoors & Recreation::Athletic & Sport::Golf Course",42.37208348024931,-83.24645519256592
+"4ba906bef964a520c7043ae3","McGregor Conference Center","Professional & Other Places::Convention Center",42.359550765263656,-83.07069540023804
+"4ba93143f964a52000133ae3","GM Renaissance Center","Professional & Other Places::Building",42.329171749135625,-83.04007530212402
+"4ba93d11f964a52024173ae3","Life Science Building","College & University::College Academic Building::College Science Building",42.35576905669277,-83.06859254837036
+"4ba94bc9f964a520771c3ae3","William G. Milliken State Park and Harbor","Outdoors & Recreation::Park",42.33155121514751,-83.0288314819336
+"4baa1508f964a5204b493ae3","Millender Fitness Center","Shop & Service::Gym / Fitness Center::Gym",42.33151948952611,-83.04290771484375
+"4baa380bf964a52083543ae3","WSU Shapero Hall","College & University::College Academic Building::College Science Building",42.35984409583019,-83.07204723358154
+"4bab4809f964a520869d3ae3","McDonald's","Food::American Restaurant",42.40278625488281,-83.16015625
+"4bab67c1f964a520d8a63ae3","Kaleidoscope Sports & Entertainment Office","Professional & Other Places::Office",42.32805195,-83.04560271666666
+"4babadd9f964a5209fbf3ae3","Archer Record Pressing","Professional & Other Places::Building",42.42374967749924,-83.0280002721499
+"4bacf443f964a520ad1d3be3","Kwame's Jail Cell","Professional & Other Places::Building",42.329677,-83.04172
+"4bacfef2f964a5207f223be3","SUBWAY","Food::Sandwich Place",42.353885650634766,-83.05511474609375
+"4bad2d09f964a520e3353be3","Kales Building","Professional & Other Places::Building",42.33622949310699,-83.05153629453508
+"4bad58c5f964a520af483be3","O'connor Realty","Professional & Other Places::Office",42.33151060597205,-83.0755880368519
+"4bad89d2f964a520d8593be3","McCarthy's","Nightlife Spot::Pub",42.32406173333333,-83.0631959438324
+"4bae26b1f964a520838a3be3","Virgil H. Carr Cultural Arts Center","Arts & Entertainment::Performing Arts Venue",42.33626937866211,-83.04701232910156
+"4bae7ffaf964a520e2b93be3","Sinbad's At-The-River","Food::Seafood Restaurant",42.35762426291997,-82.97385692596436
+"4bae86b3f964a520dcbc3be3","Chix On Dix","Nightlife Spot::Strip Club",42.289548111099776,-83.15174258287502
+"4bae9e37f964a5204cc73be3","DPM - Times Square Station","Travel & Transport::Light Rail",42.33366093305534,-83.05211842060089
+"4baebdc1f964a520e6d33be3","The Dirty Trick","Nightlife Spot::Bar",42.3372558838283,-83.05083369201897
+"4baec310f964a520d6d53be3","Delux Lounge","Nightlife Spot::Lounge",42.3341288684158,-83.04421663284302
+"4baf8100f964a52038053ce3","Steak Hut","Food::Diner",42.32488216666667,-83.063213
+"4bb097fcf964a520214e3ce3","GM Renaissance Center","Professional & Other Places::Building",42.329171749135625,-83.04007530212402
+"4bb0b097f964a5202b553ce3","FedEx Office Print & Ship Center","Shop & Service::Design Studio",42.356926,-83.072357
+"4bb0d5e7f964a52079613ce3","GM Social Media HQ","Professional & Other Places::Office::Coworking Space",42.32873772078657,-83.03942846022909
+"4bb0de73f964a520e6643ce3","Mr. Pita","Food::Sandwich Place",42.3303108215332,-83.04693603515625
+"4bb10cb1f964a520dc753ce3","BP","Shop & Service::Gas Station / Garage",42.40379869937897,-83.15951943397522
+"4bb1f8faf964a520baae3ce3","General Motors Corp. Communications","Professional & Other Places::Office",42.32887936417724,-83.03886207998049
+"4bb2210ff964a5206dbb3ce3","GM Wintergarden","Professional & Other Places::Event Space",42.32843622785965,-83.03914002645193
+"4bb397b8a32876b0eced01fe","Spiral Collective","Shop & Service::Clothing Store::Boutique",42.35061049461365,-83.063808
+"4bb3a26d715eef3bb09f86bb","Sole Sisters","Shop & Service::Clothing Store::Shoe Store",42.353293,-83.060006
+"4bb3ca03eb3e9521aca5cb0a","Megabus Stop - Wayne State","Travel & Transport::Bus Station",42.35649846054638,-83.06702613830566
+"4bb3d14ceb3e9521fcb1cb0a","DaEduardo Foxtown Grille","Food::Italian Restaurant",42.33812713623047,-83.05157470703125
+"4bb3e606643cd13aad25395c","Signature Grille Bar","Nightlife Spot::Bar",42.32396682124744,-83.05523794207325
+"4bb411aa643cd13a7768395c","Starbucks","Food::Café",42.33399963378906,-83.05931854248047
+"4bb4a44c5148d13a71bf523b","The Home Depot","Shop & Service::Hardware Store",42.42917861979443,-83.16961854287985
+"4bb4c17b2ba29c749732ef2d","Concentra Medical Center","Professional & Other Places::Medical Center::Emergency Room",42.33741272727925,-83.0256504036217
+"4bb513f646d4a5932985c4c0","Subway","Food::Sandwich Place",42.3565673828125,-83.0650863647461
+"4bb518ea6edc76b01a3f2f1c","Detroit Brewing Company","Food::Brewery",42.33586883544922,-83.04916381835938
+"4bb5235a941ad13af5cd1de3","Five Guys","Food::Burger Joint",42.33488231634108,-83.04243564605713
+"4bb52f6e46d4a5939db3c4c0","Greyhound Lines","Travel & Transport::Bus Station",42.32791852751545,-83.0586576461792
+"4bb606212ea19521a903ab2f","Arandas Tire","Shop & Service::Automotive Shop",42.31596519407397,-83.10912413794549
+"4bb624a9941ad13abaf21ee3","TULC","Professional & Other Places::Building",42.362784,-83.123676
+"4bb699db46d4a5938788c6c0","Northwest Activities Center","Shop & Service::Gym / Fitness Center",42.42292588883323,-83.16946506500244
+"4bb6a80a2ea195216f13ac2f","Wolfgang Puck Grille","Food::New American Restaurant",42.333404541015625,-83.0586166381836
+"4bb74b3def159c7416fc76f7","McDonald's","Food::Fast Food Restaurant",42.352072763025326,-83.06156067107244
+"4bb817dc53649c74d7c046fb","Starvin Marvin","Outdoors & Recreation::Playground",42.35283136367798,-83.135932
+"4bb8bf76314e95211ab4489d","Detroit RiverWalk","Outdoors & Recreation::Other Great Outdoors",42.327617116059486,-83.04020404815674
+"4bb8e6f01261d13a2e15e998","Detroit Golf Club","Outdoors & Recreation::Athletic & Sport::Golf Course",42.424628637954804,-83.12594890594482
+"4bb9f6bdb35776b0d055ca01","Birthplace of Ford Motor Company","Arts & Entertainment::Historic Site",42.34285148041371,-83.05453013606142
+"4bb9ffa57421a593793ec340","Ford Piquette Plant","Arts & Entertainment::Museum::History Museum",42.36874785,-83.06545681666667
+"4bba064c7421a593a946c340","Tiger Stadium","Arts & Entertainment::Historic Site",42.33229676264379,-83.06857109069824
+"4bba159d935e952166b42790","Presto Gourmet Deli","Food::Deli / Bodega",42.32830718752424,-83.03956031799316
+"4bbb663e53649c7474064afb","Finn & Porter Restaurant","Food::American Restaurant",42.32887034368453,-83.05245637893677
+"4bbb708a4a32ef3b5e06c7c7","Vine","Nightlife Spot::Wine Bar",42.33124982109809,-83.04604053497314
+"4bbb735acdb3c9b6145edea6","Louisiana Creole Gumbo","Food::Cajun / Creole Restaurant",42.34913731337204,-83.03446722326737
+"4bbba6d7afe1b7137f792f4b","Subway","Food::Sandwich Place",42.35261535644531,-83.07449340820312
+"4bbbb26de436ef3b7aaf5564","Rite Aid","Shop & Service::Drugstore / Pharmacy",42.35429643,-83.06229
+"4bbbd5ba3de8c9b6b1589aad","Marygrove College","College & University::University",42.4154975609657,-83.155784077944
+"4bbca926593fef3b91690256","Marriott Residence Inn","Travel & Transport::Hotel",42.33204960823059,-83.219605
+"4bbcf9a28ec3d13a26801b28","Midtown Corner Cafe","Food::Deli / Bodega",42.35364008333333,-83.0595755
+"4bbe1304c6a2ef3b5d3fddbd","Einstein Bros","Food::Coffee Shop",42.3565788269043,-83.07186126708984
+"4bbe2ca6b42aef3b25894bc3","WSU Welcome Center","College & University::College Administrative Building",42.356807,-83.06504
+"4bbe30feb42aef3ba2904bc3","Central United Methodist Church","Professional & Other Places::Spiritual Center::Church",42.337471512204836,-83.0506868786051
+"4bbe4da66a93b713ae10ebd2","GameStop","Shop & Service::Video Game Store",42.36515881358519,-82.97312370497049
+"4bbe9cc682a2ef3b5dba2bd2","Wayne County Jail DIV 2","Professional & Other Places::Building",42.33690987463855,-83.04272175996643
+"4bbee09b98f49521e2ddd163","GM Detroit Hamtramck Assembly","Professional & Other Places::Building",42.377771554341194,-83.04572124630442
+"4bbf086098f49521a4fcd163","I-75 South @ Davison","::Professional & Other Places",42.40934456456304,-83.08184591723376
+"4bbf37f285fbb713a6c77167","St. John Hospital & Medical Center","Professional & Other Places::Medical Center::Hospital",42.420088070361,-82.91437671216339
+"4bbf38f8006dc9b69c30fc3f","Chili's Grill & Bar","Food::American Restaurant",42.32986973516181,-83.21894645690918
+"4bbf58cc30c99c7458025511","Elwood Bar & Grill","Food::Diner",42.33857804595564,-83.04684519767761
+"4bbf75e7f353d13afaaa7e10","5 & 10 Diner","Food::American Restaurant",42.333194732666016,-83.04801940917969
+"4bbf8ca6461576b02abe7832","The Detroit People Mover","Travel & Transport::Light Rail",42.33155121514751,-83.04668426513672
+"4bbfb7134cdfc9b6b1c59121","1917 American Bistro","Food::American Restaurant",42.435574478268386,-83.14133929300178
+"4bbfcf87461576b030487932","Las brisas","Food::Mexican Restaurant",42.309730529785156,-83.13089752197266
+"4bbfe15e920eb7138b37182c","Johanson Charles Gallery","Arts & Entertainment::Art Gallery",42.34667205810547,-83.04098510742188
+"4bc08ece461576b0fb467a32","Clark Park","Outdoors & Recreation::Park",42.317374910945745,-83.09279839176284
+"4bc0903af8219c741ab7b110","Perfecting Church","Professional & Other Places::Spiritual Center::Church",42.426498414784646,-83.02503145109955
+"4bc09d462a89ef3b57c2f088","Leo's Coney - Comerica","Food::Hot Dog Joint",42.338401794433594,-83.04930114746094
+"4bc0feeb4cdfc9b67bef9321","Bogart's","Food::American Restaurant",42.39888381958008,-82.91954040527344
+"4bc1064e2a89ef3bcaaaf188","Detroit Princess","Travel & Transport::Ferry::Boat or Ferry",42.32593553090683,-83.04522514343262
+"4bc10db8abf49521e174c093","Blondies","Arts & Entertainment::Music Venue::Rock Club",42.32005383316487,-83.07149965211863
+"4bc1119674a9a5938c4ad1f6","The Ovation","Arts & Entertainment::Arcade",42.330902099609375,-83.03187561035156
+"4bc2f63d920eb7130bc61c2c","Chrysler Jefferson North Assembly Plant","Professional & Other Places::Office",42.37421169106807,-82.96686599686215
+"4bc33ee5b492d13ad86fa860","East Quad","College & University::College Residence Hall",42.41188195,-83.13780461
+"4bc34885920eb71305321d2c","Cafe Town","Food::Café",42.36495590209961,-83.0726547241211
+"4bc34c2eb492d13a1d85a860","Ye Olde Butcher Shoppe","Shop & Service::Food & Drink Shop::Butcher",42.34535034292539,-83.05595397949219
+"4bc34cac920eb71354391d2c","Frank Murphy Hall of Justice","Professional & Other Places::Government Building::Courthouse",42.33737454092195,-83.04350835177316
+"4bc3647274a9a593dc7ad4f6","South Quad","College & University::College Residence Hall",42.411817,-83.137716
+"4bc36df9461576b0b8a07e32","Submerge","Professional & Other Places::Building",42.37176605,-83.06946889
+"4bc4026cdce4eee141df719d","Shorecrest Motor Inn","Travel & Transport::Hotel::Motel",42.33327865600586,-83.03372192382812
+"4bc40277dce4eee147df719d","DoubleTree by Hilton Hotel Detroit - Dearborn","Travel & Transport::Hotel",42.331392586880476,-83.21763753890991
+"4bc4f5410191c9b6e2e4eab1","Central High School","Professional & Other Places::School::High School",42.38390790754496,-83.11229345963875
+"4bc50d63ccbcef3ba00fe6d2","Wendy's","Food::Fast Food Restaurant",42.371456146240234,-82.94889068603516
+"4bc5d16b0a30d13a557f5a9c","State Deli & Grocery","Food::Deli / Bodega",42.332617979851655,-83.0506432056427
+"4bc5d8406c26b7130bcfebf3","Commerce And Finance","College & University::College Academic Building::College Math Building",42.41517087898371,-83.13853792253492
+"4bc6549fb387d13aadbec1e8","Ren Cen 4","Arts & Entertainment::Movie Theater",42.32980391879524,-83.03983226539467
+"4bc719b192b376b0b0074f3a","Milano Cafe","Food::Bakery",42.35257339477539,-83.044189453125
+"4bc754cfaf07a593a3f87e2d","Brasza Physical Therapy","Shop & Service::Gym / Fitness Center",42.34943291636736,-83.05619740028219
+"4bc75eef92b376b023964f3a","!nTouch Credit Union","Shop & Service::Bank",42.329982,-83.039737
+"4bc760038b7c9c744f5536cf","Calumet Market & Spirits","Shop & Service::Food & Drink Shop::Grocery Store",42.329147687761385,-83.03971164852663
+"4bc8a0a592b376b0eecf513a","Indian Village","Residence::Housing Development",42.36082713963637,-82.99630165100098
+"4bc8e63a937ca59312b6a492","Scotty Simpsons Fish & Chips","Food::Seafood Restaurant",42.400435,-83.259453
+"4bc90013cc8cd13a63d5bacf","Palmer Park Golf","Outdoors & Recreation::Athletic & Sport::Golf Course",42.431010190470126,-83.11652072918116
+"4bc91ef8fb84c9b69d9e1a3e","Circa 1890 Saloon","Nightlife Spot::Dive Bar",42.36044879383634,-83.069023
+"4bc9d778937ca5932967a692","Wayne State Stadium","College & University::College Stadium::College Football Field",42.35546519576388,-83.07849168368924
+"4bc9fc80b6c49c7457708f91","Dixon Barber Shop","Shop & Service::Salon / Barbershop",42.430856823921204,-83.14177393913269
+"4bca1f76cc8cd13a9b01bdcf","GM Renaissance Center","Professional & Other Places::Building",42.329171749135625,-83.04007530212402
+"4bca2045cc8cd13a0c04bdcf","City of Detroit","Outdoors & Recreation::City",42.33151948952611,-83.04668426513672
+"4bcc8cbe3740b713ac336465","Wendy's","Food::Fast Food Restaurant",42.32926692950434,-83.21963310241699
+"4bcc8faefb84c9b61c96203e","Wah-Hoo","Food::Chinese Restaurant",42.328743435694086,-83.04775714874268
+"4bcc96f1cc8cd13a5e31c1cf","UDM library","College & University::College Library",42.41423214882191,-83.13930765686291
+"4bccc48ffb84c9b6e6fd203e","Henry The Hatter","Shop & Service::Miscellaneous Shop",42.33493165412315,-83.04564783393491
+"4bcd02800687ef3bf262e0cc","Engineering Building","College & University::College Academic Building::College Engineering Building",42.41291967100497,-83.13787814303195
+"4bcd0f448920b71370539fdc","Westin Book Cadillac WorkOut® Gym","Shop & Service::Gym / Fitness Center::Gym",42.33199537216692,-83.05076122283936
+"4bcd3143511f9521c168b4c7","Steve's Pizza Island & Coney","Food::Pizza Place",42.309783935546875,-83.13169860839844
+"4bcda1b168f976b0e97d6483","Focus Hope","Professional & Other Places::School",42.399196404040325,-83.12175860246985
+"4bcdbcd8fb84c9b6a272223e","Michigan Humane Society","Professional & Other Places::Building",42.37597064298517,-83.0622579165603
+"4bcdc749937ca5930342ad92","Briggs","College & University::College Academic Building",42.415097008759524,-83.13905107976178
+"4bcde4f8511f95215d61b5c7","Chase Bank","Shop & Service::Bank",42.35767379591415,-83.06532990256815
+"4bce17bbcc8cd13aadbac3cf","Six Pack","Food::American Restaurant",42.328346252441406,-83.04930877685547
+"4bce1b94fb84c9b60f37233e","Finn & Porter Restaurant","Food::American Restaurant",42.32887034368453,-83.05245637893677
+"4bce2b0acc8cd13aaee3c3cf","Mario's","Food::Italian Restaurant",42.350345,-83.065783
+"4bcf15a6ef109521a60e8586","McDonald's","Food::Fast Food Restaurant",42.401665,-83.22173003
+"4bcf3a63a8b3a59350cb615f","Rio Wraps","Food::Mexican Restaurant",42.33122253417969,-83.04727172851562
+"4bcf69909854d13a2102f64d","WSU Alumni House","College & University::College Administrative Building",42.35937406831022,-83.07336042288851
+"4bcf6f22a8b3a5939036625f","Rivard Plaza","Outdoors & Recreation::Plaza",42.33036782997709,-83.03188156794711
+"4bd04597462cb7131effd707","Milano Bakery","Food::Bakery",42.352488,-83.0442327260971
+"4bd0497acaff9521db7ccef0","Buhl Building","Professional & Other Places::Office",42.32961379821174,-83.04670706161909
+"4bd07c1d41b9ef3b8125fae5","The Majestic Theatre","Arts & Entertainment::Performing Arts Venue::Theater",42.35143608227185,-83.0601189746136
+"4bd09b6741b9ef3bf26efae5","Motown Historical Museum / Hitsville U.S.A.","Arts & Entertainment::Museum::History Museum",42.36425176834494,-83.08848050538457
+"4bd0a24a41b9ef3b9e7dfae5","World's Largest Stove","Arts & Entertainment::General Entertainment",42.4410400390625,-83.1205062866211
+"4bd0f09577b29c741fe18b82","Sgt. Pepperoni's","Food::Pizza Place",42.351165771484375,-83.06011962890625
+"4bd19f1d77b29c74a7dc8c82","Lutheran Social Services of Michigan","Professional & Other Places::Office",42.35258341260599,-82.9934571719226
+"4bd1bc1e77b29c74c7168d82","Second Ebenezer Church","Professional & Other Places::Spiritual Center::Church",42.4166321659687,-83.08403655845612
+"4bd1dafb41b9ef3b16c1fce5","City Theatre","Arts & Entertainment::Music Venue",42.338863994237386,-83.05252726592461
+"4bd1e26ccaff9521708ed1f0","Palette Dining Studio","Food::Restaurant",42.333941646253855,-83.05920675761223
+"4bd223269854d13ad30bfb4d","Delia's Fashion","Shop & Service::Bridal Shop",42.312084067337544,-83.1252520307329
+"4bd2854ab221c9b602f8d7d0","Taco Cart","Food::Taco Place",42.32194137573242,-83.09107971191406
+"4bd37b6ba8b3a59379216a5f","Greater New Mt. Moriah Missionary Baptist Church","Professional & Other Places::Spiritual Center::Church",42.385440695005165,-83.07416761409148
+"4bd37ff3caff9521881bd5f0","Djenne Beads and Custom Art","Shop & Service::Jewelry Store",42.33453165691753,-83.04264310026882
+"4bd3beed9854d13a919bfe4d","Bob's Classic Kicks","Shop & Service::Clothing Store::Shoe Store",42.35469079201028,-83.06339979171753
+"4bd466a2b221c9b6a172dbd0","Evergreen Cemetery","Outdoors & Recreation::Cemetery",42.38753784439711,-83.08490037918091
+"4bd70c34cfa7b713508628da","Subway","Food::Sandwich Place",42.40207045487938,-83.22122449962568
+"4bd77a1ae914a593a26351fa","Buddy's","Food::Pizza Place",42.418365478515625,-82.91094970703125
+"4bd78e94e914a593799c51fa","FOX Sports Detroit Brushfire Grill","Food::BBQ Joint",42.3392448425293,-83.0486068725586
+"4bd836430b779c74099406a0","Lincoln Hall of Juvenile Justice","Professional & Other Places::Government Building::Courthouse",42.35918930123085,-83.05249580674484
+"4bd851d9dc4b9521f6cf7888","400 Monroe","Professional & Other Places::Office",42.334692600000004,-83.04309795
+"4bd879b2dc4b9521863d7988","Wayne County Juvenile Detention Facility","Professional & Other Places::Government Building::Courthouse",42.33708597258354,-83.04184076598489
+"4bd8be9c03979c74f728bdd2","The Works Club & Grill‎","Nightlife Spot::Nightclub",42.33169150783133,-83.0714524769631
+"4bd9023d0115c9b6913f7680","Forest Liquor","Shop & Service::Food & Drink Shop::Liquor Store",42.349096,-83.077276
+"4bd9b8bbd2cbc928448cd1ad","ATF Detroit Field Division","Professional & Other Places::Government Building::Police Station",42.34057554609885,-83.03927637712222
+"4bd9e57e3904a5938f20449e","1701 Executive Cigar Bar","Nightlife Spot::Lounge",42.33158223124777,-83.04367091290794
+"4bdb07a85f34b713660a3679","Compuware World Headquarters","Professional & Other Places::Office",42.332344350481826,-83.04664134979248
+"4bdb0a8e3904a593ee6d489e","Detroit Health Department","Professional & Other Places::Government Building",42.377803256203464,-83.09144122268317
+"4bdb73e463c5c9b6481b2868","Abreact Theater","Arts & Entertainment::Performing Arts Venue",42.32606312342771,-83.06028149470485
+"4bdc42eb2a3a0f47d00cb2b6","Greektown Casino & Hotel","Arts & Entertainment::Casino",42.33510878987228,-83.04154709870457
+"4bdc61f5afe8c9b696274f85","American Jewelry and Loan","Shop & Service::Jewelry Store",42.4432622,-83.19961996666666
+"4bdcb02f2a3a0f471cf5b3b6","Woodward Bar and Grill","Nightlife Spot::Gay Bar",42.36896565818362,-83.07208671788598
+"4bdcc6f82a3a0f475164b4b6","Textures Salon","Shop & Service::Salon / Barbershop",42.350154519081116,-83.06351
+"4bddc7710ee3a5930f9c2eb0","Lafayette Park","Outdoors & Recreation::Plaza",42.341448827650645,-83.03586959838867
+"4bde0592be5120a14f84fe70","Triumph Church - East Campus","Professional & Other Places::Spiritual Center::Church",42.374746657305614,-83.06183338165283
+"4bde42906198c9b6239113ff","Gratiot Grill Coney Island","Food::American Restaurant",42.35735321044922,-83.03216552734375
+"4bdf0a5de75c0f47e7b2c903","Tim Hortons","Food::American Restaurant",42.33209228515625,-83.04668426513672
+"4bdf2d700ee3a5933b3933b0","BP","Shop & Service::Gas Station / Garage",42.445907683482545,-83.14153302819771
+"4be0624398f2a593290fc25a","McDonald's","Food::Fast Food Restaurant",42.35740979811955,-83.21718706934428
+"4be0aa7e4f15c9281c05cc0b","Lucky Dragon","Food::Chinese Restaurant",42.33803966791359,-83.02078255237852
+"4be168cc0f03a593c02819b4","Comerica Tower at One Detroit Center","Professional & Other Places::Building",42.33003735509272,-83.04542235257372
+"4be19b15594bc928bf09acbb","PizzaPapalis/RioWraps","Food::Pizza Place",42.33112335205078,-83.04804229736328
+"4be19ec0ff27d13a2f558e7c","Taqueria Nuestra Familia","Food::Mexican Restaurant",42.31315783021378,-83.12362842162293
+"4be1a5cccd81a593c1a9931c","Mexicantown Bakery","Food::Bakery",42.32073211669922,-83.09510040283203
+"4be1c2d5edbb0f478898a615","BP","Shop & Service::Gas Station / Garage",42.36518556058018,-83.06957592662638
+"4be1c6fc4283c9b67c7554f8","Henry Ford Health System","Professional & Other Places::Medical Center::Hospital",42.36367312329067,-83.0750298500061
+"4be1cbffae55a593dd965b62","The Alley Deck","Nightlife Spot::Bar",42.35107133448046,-83.0599182844162
+"4be30922d27a20a1a30e915b","Detroit Police Department Central District","Professional & Other Places::Government Building::Police Station",42.37052990814898,-83.07299137115479
+"4be3353b21d5a593d37c1811","Matthaei Athletic Center","College & University::College Stadium::College Basketball Court",42.35428957870066,-83.07448734292804
+"4be33815b02ec9b660e54ec0","WSU CPHS Eugene Applebaum College of Pharmacy and Health Sciences","College & University::General College & University",42.34899788210615,-83.05567502975464
+"4be499302468c9283403ff42","BP","Shop & Service::Gas Station / Garage",42.32914858865512,-83.22420011310778
+"4be56157d4f7c9b6154d2520","Wayne County Community College District Eastern Campus Bookstore","College & University::Community College",42.39449198618813,-82.98740607305258
+"4be577c22457a593bd7aab15","Detroit Yacht Club","Outdoors & Recreation::Harbor / Marina",42.348873508622,-82.97365390306956
+"4be5c2402457a59350f5ab15","Mt. Olivet Cemetery","Outdoors & Recreation::Cemetery",42.420983292112155,-83.02201528575384
+"4be5fe4c910020a1b5d3d314","Sun China","Food::Chinese Restaurant",42.413902282714844,-83.27738189697266
+"4be605d52457a593d863ac15","DOLLAR TREE","Shop & Service::Miscellaneous Shop",42.33903866746081,-83.02021601186553
+"4be622bcd4f7c9b65b7b2620","Niki's Pizza","Food::Pizza Place",42.333665,-83.041819
+"4be6f376910020a1e3cdd414","KFC","Arts & Entertainment::Arcade",42.4308967590332,-83.18521881103516
+"4be6f6a8bcef2d7f02a905e5","Mexican Villiage","Food::Mexican Restaurant",42.3742561340332,-83.14238739013672
+"4be6f9952468c928b6e70143","Fairlane Liquor","Shop & Service::Food & Drink Shop::Liquor Store",42.3292019133291,-83.22308100560618
+"4be7239c910020a12115d514","WSU Softball Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",42.353743,-83.07722
+"4be776a988ed2d7f78dfca1d","Ambiance Ultralounge & Restaurant","Nightlife Spot::Lounge",42.32915605157916,-83.04801796336466
+"4be7febfd837c9b666bca406","Citgo","Shop & Service::Gas Station / Garage",42.4302645330132,-83.21863372
+"4be8b4e8c5220f474320aaca","Tiger Den","Nightlife Spot::Lounge",42.34024343251506,-83.04842233657837
+"4be966c5ee96c9283320ffbf","Wayne State University Alumni House","College & University::College Administrative Building",42.35997428,-83.07030844
+"4be9bb596295c9b676958508","Matrix Center","College & University::Student Center",42.426227,-82.984528
+"4be9f41d6295c9b6ede88508","PVS Technologies, Inc.","Professional & Other Places::Office",42.39542784853297,-82.99585541606008
+"4bea6ecc4f5576b00d23b396","Honey Nightclub","Nightlife Spot::Nightclub",42.33159363269806,-83.05036425590515
+"4beabbb76295c9b6a5bf8608","Nemeth Burwell, PC","Professional & Other Places::Office",42.33613398909771,-83.01613992418555
+"4beada2f61aca593993f8400","Motown Cafe Grille","Food::Diner",42.33195877075195,-83.0441665649414
+"4beb27959ab3b713b1d9b549","Butchers Inn","Food::Restaurant",42.34656524658203,-83.03866577148438
+"4beb8f29a9900f4707041840","Detroit One","Food::Diner",42.345855712890625,-83.05687713623047
+"4bebeb9761aca593a6888500","Buick GMC Headquarters","Professional & Other Places::Office",42.32977003226882,-83.04099122490913
+"4bebff61b3352d7f181457d2","Karmanos Cancer Institute","Professional & Other Places::Medical Center::Hospital",42.35226069412425,-83.05748189891807
+"4bec3c36a9900f474dc31840","6 Mile Coney Land","Food::Hot Dog Joint",42.41085433959961,-83.12379455566406
+"4bec41bf49430f47bc7e07d2","Arts League of Michigan","Arts & Entertainment::Art Gallery",42.33650588989258,-83.04649353027344
+"4bec9ec6bbe62d7f90277f2b","They Say","Food::American Restaurant",42.338131601117695,-83.0188993109509
+"4beccb5bbbe62d7fba6c7f2b","Food Mart / Domino's Pizza","Shop & Service::Gas Station / Garage",42.361943,-83.067072
+"4bed42e76c5c9521b6d9068a","Bushnell Congregational Church","Professional & Other Places::Spiritual Center::Church",42.39929457853567,-83.21753224807942
+"4bed598f2a7bb713000ccf9d","Wayne County Community College - Northwest","College & University::Community College",42.42084292818565,-83.22192907333374
+"4bed8d8591380f47da13a018","Detroit International Academy","Professional & Other Places::School::High School",42.382354320072736,-83.08102309768789
+"4bedd5422c082d7f4c932f42","Chez Zara - Chase Tower","Food::Coffee Shop",42.33021872527049,-83.04672718048096
+"4bedda14a40fc928159f820c","Assembly Line Buffet","Food::Restaurant",42.338584899902344,-83.06745147705078
+"4beddaea767dc9b6fc97d3e9","Chase Bank","Shop & Service::Bank",42.415355,-83.23221875
+"4beddbf0946c0f47550fa363","Z's Villa","Food::American Restaurant",42.3665052652359,-83.069603
+"4bee2232a40fc9287620830c","The State Bar & Grill","Nightlife Spot::Bar",42.337746627588686,-83.05161494360344
+"4bee9b1235dc0f4769fd3f5b","Clique Restaurant","Food::Diner",42.333426,-83.03363263607025
+"4beea695e8c3c92827e89892","University of Michigan Detroit Center","College & University::University",42.347715,-83.05834326666667
+"4beeb82a35dc0f474426405b","Metropolitan Center for High Technologyy","Professional & Other Places::Office::Tech Startup",42.34028291348886,-83.0619800677411
+"4beed906d355a593a86d0b60","Stoepel Field","Outdoors & Recreation::Athletic & Sport::Baseball Field",42.39601826211824,-83.23562540866145
+"4beeec89d355a5939f930b60","Eastern Market Shed 2","Shop & Service::Food & Drink Shop::Farmers Market",42.346638458923266,-83.03995812623879
+"4bef15612ff520a14719e8a2","G. R. N'Namdi Gallery","Arts & Entertainment::Art Gallery",42.35499954223633,-83.06173706054688
+"4bef1e3a5e4aa593e79758bb","Grille 39","Nightlife Spot::Hotel Bar",42.33112450700982,-83.21788788485505
+"4bef2ca4f2712d7fad6cfbd8","Champions Club","Arts & Entertainment::Stadium::Baseball Stadium",42.33900451660156,-83.0495376586914
+"4bef2e48ea570f47aa088fd2","Rooftop Parking Lot","Professional & Other Places::Parking",42.32654630052368,-83.04926991462708
+"4bf19739189f0f47c871b762","Damon J Keith Center for Civil Rights","College & University::College Academic Building",42.36002264306342,-83.0715468272403
+"4bf1c6b370779521a19b3e7c","Amnesia","Nightlife Spot::Lounge",42.33939488392246,-83.06770205497742
+"4bf1dddb3fa220a17ad31820","Henry Ford Guest Housing","Professional & Other Places::Medical Center",42.36882452456339,-83.08622712652891
+"4bf1deb6189f0f4780ccb762","Campus Village Apts","Professional & Other Places::Building",42.36110932904486,-83.06946060614194
+"4bf2c15fa32e20a12092d557","Foran's Deluxe Diner","Food::Diner",42.33059310913086,-83.0453872680664
+"4bf2c9166ba2b713be088977","Home of the Detroit Red Wings","Outdoors & Recreation::Athletic & Sport::Skating Rink",42.32523720235876,-83.05250629313977
+"4bf2fd1fe5eba5933f0a1e90","Starvin Marvins Platinum","College & University::Fraternity House",42.330939173698425,-83.12476
+"4bf2ff506a31d13aa325942e","Gourmet Hotdogs","Food::Hot Dog Joint",42.334938049316406,-83.04940795898438
+"4bf30dddcad2c9281e609a99","Prentis Building","College & University::College Administrative Building",42.35762914389071,-83.06797190534796
+"4bf30ded2d62952108e85f58","Spirit of Hope Church","Professional & Other Places::Spiritual Center::Church",42.342146677430364,-83.07273387908936
+"4bf312a3c440c9b6f3850104","Taste Pizza Bar","Food::Pizza Place",42.328243255615234,-83.049560546875
+"4bf3ffb0e5eba5931d1b1f90","White Castle","Food::American Restaurant",42.39988708496094,-83.21712493896484
+"4bf41e0c6ba2b713ca3e8977","Roosevelt Park","Outdoors & Recreation::Park",42.330808285776236,-83.07668347105344
+"4bf56971e5eba593c0bc2090","BP","Shop & Service::Gas Station / Garage",42.400780950014756,-83.21770483675819
+"4bf58d7a4d5f20a1f5a397fe","SLZs Essence Of Hair & Nails","Shop & Service::Salon / Barbershop",42.416634,-82.990009
+"4bf5c0604d5f20a1141698fe","Youthville","Professional & Other Places::School",42.371005495526134,-83.07449340820312
+"4bf697699abec9b6b30b26e8","Chevrolet Headquarters","Professional & Other Places::Office",42.3293303830035,-83.04080486297607
+"4bf6bfccb1a7a59325a5d65b","Fuddruckers","Food::Burger Joint",42.33754025500505,-83.02167956490491
+"4bf785c15efe2d7f84376934","Marathon","Shop & Service::Gas Station / Garage",42.33111083507538,-83.069788813591
+"4bf7c8248d30d13a307fff17","Colombo's Coney Island Restaurant‎","Food::American Restaurant",42.318397521972656,-83.10106658935547
+"4bf805f28d30d13a8aecff17","Blumz...by JRDesigns","Shop & Service::Flower Shop",42.334335076113554,-83.04710268974304
+"4bf84d785317a593c097ff7e","Belle Isle Park","Outdoors & Recreation::Park",42.33735673444584,-82.98969268798828
+"4bf885365317a593dc05007f","Theatre Bizarre","Arts & Entertainment::Performing Arts Venue::Indie Theater",42.439182,-83.113393
+"4bf8a629c07c9c74e7e3bbef","Rainbow Room","Nightlife Spot::Gay Bar",42.447737,-83.03566038608551
+"4bf8c3b7508c0f47d6d93e31","Aqua Rum & Tequila Bar","Nightlife Spot::Bar",42.33348644779249,-83.05990219116211
+"4bfac8ee5ec320a102278cd3","Sunco","Shop & Service::Gas Station / Garage",42.447098,-83.072647
+"4bfafecbab180f476c41b3ce","Woodmere Cemetery","Outdoors & Recreation::Cemetery",42.296268078961944,-83.1318036693767
+"4bfb12d1ab180f47c564b3ce","The Innate Healing Center","Food::Vegetarian / Vegan Restaurant",42.42898429733045,-83.11238765716553
+"4bfbf0e383fa9521334e1382","Wayne State University - College of Education","College & University::College Academic Building",42.35838535732329,-83.0722188949585
+"4bfbfccce9d8c92825e7b1c7","Louie's Ham & Corned Beef","Food::American Restaurant",42.3532676,-83.04246301666667
+"4bfc142ba118a5934cee6db6","Ace Hardware","Shop & Service::Hardware Store",42.33317,-83.06755
+"4bfc38911be376b0a754f8b4","Historic Boston Edison District","Arts & Entertainment::Historic Site",42.37876180682333,-83.0982634639046
+"4bfc4ce6d6f2c9b6ceff4ec8","Bates Academy","College & University::General College & University",42.43757812927508,-83.16217038585258
+"4bfc8548b5cd2d7f04c131fb","Club Evolution","Nightlife Spot::Nightclub",42.33541,-83.04563283920288
+"4bfd1676b68d0f47de33e857","Beecher House (WSU)","College & University::College Administrative Building",42.36133054791495,-83.06770980664494
+"4bfd86548992a593fe3facb0","Dynasty Chinese Food","Food::Chinese Restaurant",42.35223388671875,-83.07462310791016
+"4bfdf79083bbd13a531b63c5","Beatport Tent DEMF","Arts & Entertainment::Music Venue",42.32712173461914,-83.04405975341797
+"4bfdfa8383bbd13a0a1c63c5","Movement Torino Stage DEMF","Arts & Entertainment::Music Venue",42.32712173461914,-83.04405975341797
+"4bfeb73ccdfbef3b2858323e","vitaminwater® at main stage at the movement electronic music festival","Arts & Entertainment::Music Venue",42.327122,-83.0440589
+"4bfebd6f68c7a593bd9a3f44","Wendy's","Food::Fast Food Restaurant",42.4174185333333,-82.98874365
+"4bfebdf9369476b0d4c78c1f","Wendy's","Food::Fast Food Restaurant",42.44576644897461,-83.14275360107422
+"4bfec0f1369476b022cd8c1f","Wendy's","Food::Fast Food Restaurant",42.39938062,-83.21378
+"4bfec46168c7a593dda63f44","WSU Academic Administration Building","College & University::College Administrative Building",42.36127108986245,-83.0696439743042
+"4bff042d369476b0503e8d1f","Belle Isle Soccer Field","Outdoors & Recreation::Athletic & Sport::Soccer Field",42.33719812082116,-82.98158168792725
+"4bff080fc30a2d7faa69101d","Lucky's Pub & Grille","Food::American Restaurant",42.338647375000164,-83.02107106651034
+"4bff16a3ca1920a1d45bec81","Dairy Queen","Food::Dessert Shop",42.42703628540039,-83.28559112548828
+"4c0005b537850f478596973f","Sunoco Gas Station","Shop & Service::Gas Station / Garage",42.362005112669024,-83.06702834512319
+"4c00159537850f47deb3973f","McDonalds","Food::Fast Food Restaurant",42.44319534301758,-83.25968170166016
+"4c003de6360a9c74b0efd8a0","Atheneum Suite Hotel","Travel & Transport::Hotel",42.33400847934465,-83.04298395827963
+"4c0040dbdaf9c9b62c8afbef","St. Aloysius Roman Catholic Church","Professional & Other Places::Spiritual Center::Church",42.332727034590164,-83.05137456553405
+"4c009eaaefa2ef3b0755aa8c","Asian Corn Beef","Food::Sandwich Place",42.38825988769531,-83.15902709960938
+"4c00a1f7efa2ef3bc955aa8c","El Taquito Taco Truck","Food::Food Truck",42.315757751464844,-83.10687255859375
+"4c00b02b8c1076b0109c2071","Club Gold Coast","Nightlife Spot::Gay Bar",42.43319751136303,-83.07252177216706
+"4c015ed84f1ea5939f666b7d","Ghostly Booth @DEMF","Shop & Service::Music Store",42.327807,-83.044267
+"4c0172a24f1ea593fd8d6b7d","DTOURS","Shop & Service::Gift Shop",42.332244,-83.04657
+"4c018316f7ab0f473f4316b6","Belle Isle Hipster Beach","Outdoors & Recreation::Beach",42.34880959485262,-82.95613937263123
+"4c01a5cc3ab80f47668290ff","Chene Park Music","Arts & Entertainment::General Entertainment",42.33387903895315,-83.02148222923279
+"4c01eb09f99620a143672504","Sparklewood","Nightlife Spot::Speakeasy",42.37229026631566,-83.06750536893064
+"4c02070d490120a18355f08c","Fisher Building","Professional & Other Places::Building",42.36929384034653,-83.07773363004719
+"4c02ad8ef56c2d7f4dc41b66","Riverwalk Cafe - Sweets & Treats","Arts & Entertainment::Arcade",42.330440521240234,-83.03182220458984
+"4c02ae6f187ec928fc8fb47b","Comerica Park Section 132","Arts & Entertainment::Stadium::Baseball Stadium",42.33969271666667,-83.04871175
+"4c02fec1187ec9283a18b57b","Motor City Wine","Nightlife Spot::Wine Bar",42.330543918856264,-83.04564356803894
+"4c0336af39d476b0e9e32fa7","Holiday Inn Express Hotel & Suites","Travel & Transport::Hotel",42.331388873658085,-83.0507026086294
+"4c0337d09a7920a1a7b0cf79","Northland Roller Rink","Professional & Other Places::Spiritual Center::Church",42.442803,-83.261934
+"4c03f63a0d0e0f47e544039a","The Beer Hall","Nightlife Spot::Sports Bar",42.340068965515286,-83.04818630218506
+"4c055be1f423a593b3e1d216","Cadillac","Professional & Other Places::Office",42.3291306843911,-83.0407395069297
+"4c064c05517d0f4792b6f515","Franco PR Group","Professional & Other Places::Office",42.32885220950202,-83.0398951958468
+"4c07afd3b4aa0f478bf36562","State Fair Transit Center","Travel & Transport::Bus Station",42.44135253504603,-83.12084724266157
+"4c07cd70a9c076b048723923","Sinai Grace Hospital","Professional & Other Places::Medical Center::Hospital",42.41891287480492,-83.18157149908471
+"4c07d9613cbed13a6b0e0cc0","The Manoogian Mansion","Professional & Other Places::Government Building::Monument / Landmark",42.35468837279754,-82.98474509369561
+"4c0800897e3fc92878a0ef82","John D. Dingell VA Medical Center","Professional & Other Places::Medical Center::Hospital",42.35514522209312,-83.05933258139947
+"4c081fc8a1b32d7f078695f0","Mobil","Shop & Service::Gas Station / Garage",42.37460737674361,-82.93967590717006
+"4c091570ffb8c9b6983b6961","Meade Dodge","Shop & Service::Automotive Shop",42.40558098333333,-82.91698035
+"4c091bc6ffb8c9b6ae476961","Fountain Bistro","Food::American Restaurant",42.33143668333334,-83.046444
+"4c0a5ccaa1b32d7f7e2199f0","Staples","Shop & Service::Paper / Office Supplies Store",42.339055116666664,-83.01980586666667
+"4c0a69ad009a0f47f049e9bf","Red Bull Air Race","Arts & Entertainment::Racetrack",42.327789306640625,-83.04000854492188
+"4c0a89b5009a0f479d8ce9bf","Bert's BBQ","Food::BBQ Joint",42.345481872558594,-83.0396957397461
+"4c0a8b5effb8c9b6b5b96b61","Mack / Bewick Market","Shop & Service::Food & Drink Shop::Grocery Store",42.37420769011121,-82.98831939697266
+"4c0a93b0009a0f4762a2e9bf","Kales Building","Professional & Other Places::Building",42.33622949310699,-83.05153629453508
+"4c0aa2d96071a59323ecdf32","Taco Bell","Food::Mexican Restaurant",42.4161376953125,-83.19642639160156
+"4c0aa9a8ffb8c9b627fb6b61","Showtime Detroit","Shop & Service::Clothing Store::Boutique",42.36236788099947,-83.06778319438719
+"4c0aeba3ed259521af381356","Palmer Woods","Outdoors & Recreation::Park",42.432832864477795,-83.11590671539307
+"4c0beeb3340720a151dc8893","Mcdonalds","Food::Fast Food Restaurant",42.36785888671875,-83.08106231689453
+"4c0c3c69009a0f475f64ecbf","Palmer Park","Outdoors & Recreation::Park",42.4198678882704,-83.10722247127265
+"4c0cfab67189c928bf3ed6b6","96.3 WDVD","Arts & Entertainment::Music Venue",42.369441986083984,-83.07706451416016
+"4c0d5d9298102d7f5611e206","Detroit Public Library - Monteith Branch","Professional & Other Places::Library",42.36017572938191,-82.94437116810073
+"4c0e3ef8b1b676b036b3e186","New Center Community Mental Health Services","Professional & Other Places::Office::Coworking Space",42.35751592277961,-83.10832261575185
+"4c0e418e98102d7f604ee306","Marathon Oil","Shop & Service::Automotive Shop",42.27924828616201,-83.15427639922858
+"4c0e76557189c9288084d8b6","Fifth Third Bank","Shop & Service::Bank",42.429211509943244,-83.27815578717531
+"4c0ea3ef336220a13b8bcc77","Radio One Studios","Professional & Other Places::Building",42.3397,-83.01421
+"4c0fb2057189c928e574dab6","BP","Shop & Service::Gas Station / Garage",42.342962225212815,-83.19629510822857
+"4c0fc0957189c9280892dab6","Bob Maxey Lincoln Mercury","Shop & Service::Automotive Shop",42.39432144165039,-82.92434692382812
+"4c0ff19df1b6a5932e1a7b27","Dime Building","Professional & Other Places::Building",42.330776209755264,-83.047876387234
+"4c10e78f5a43d13a5fd4174b","Parkrite Parking Structure","Travel & Transport::General Travel",42.331734,-83.050277
+"4c1128843ce120a11d3f091c","New Parthenon","Food::Greek Restaurant",42.34049987792969,-83.0525894165039
+"4c113488f1b6a593a1247d27","Detroit Public Library - Chase Branch","Professional & Other Places::Library",42.430069494343506,-83.21820168039069
+"4c115e7d72caa5939b645da4","Most Holy Redeemer Church","Professional & Other Places::Spiritual Center::Church",42.31679943333334,-83.10163
+"4c11691672caa593e7785da4","Balduck Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",42.415095947664796,-82.91896868463502
+"4c1179fad41e76b0c881310d","OmniCorpDetroit","Professional & Other Places::Event Space",42.34806,-83.039463
+"4c126aa282a3c9b61ba8f9f8","PIME Missionaries","Professional & Other Places::Spiritual Center",42.41980987715113,-83.13839654177404
+"4c12d29aa1010f471e9d4918","Fender's Tavern","Food::American Restaurant",42.33602523803711,-83.01573944091797
+"4c12daa182a3c9b6ec88faf8","Greater Grace Temple","Professional & Other Places::Spiritual Center::Church",42.43020858563884,-83.2707723428967
+"4c12de65a5eb76b0fe07bfb7","Lee Plaza","Travel & Transport::Hotel::Roof Deck",42.359379,-83.102581
+"4c132758a9c220a12366559d","Mobil","Shop & Service::Gas Station / Garage",42.361609441814814,-83.05369124499782
+"4c13ec9b82a3c9b6ea62fcf8","Courtyard Detroit Downtown","Travel & Transport::Hotel",42.3301706060103,-83.04135306781858
+"4c14574c77cea5939192d060","The Netherland","Professional & Other Places::Building",42.35311567783356,-83.068444
+"4c15152377cea5936691d160","Monumental Kitty","Outdoors & Recreation::Sculpture Garden",42.33140982749999,-83.06962310312984
+"4c169b616470a593731657d2","Mitt Romney's Old House","Outdoors & Recreation::Other Great Outdoors",42.436241039582434,-83.13117524331072
+"4c16a78e6470a593172a57d2","Gesu Catholic School","Professional & Other Places::Spiritual Center::Church",42.418380984808955,-83.1381870882323
+"4c16af8f955976b03bf1a4f6","McDonalds","Food::Fast Food Restaurant",42.417427164842636,-83.1413178218524
+"4c17508d74fb20a1775c5112","valero","Shop & Service::Gas Station / Garage",42.414196830774195,-83.27767507906918
+"4c180fbe838020a10ca9e361","Old Shilleligh Bus","Travel & Transport::Taxi",42.33830451965209,-83.04876565932986
+"4c181e6d838020a1e6c6e361","St Peter's Episcopal Church","Professional & Other Places::Spiritual Center::Church",42.33092477357235,-83.06625776088667
+"4c18cd961436a593f5cd8d75","Thrifty Florist","Shop & Service::Flower Shop",42.42342050702107,-83.27763850330582
+"4c18e0ecd4d9c928e50bf029","Hollywood Coney Island","Food::Hot Dog Joint",42.409860491752625,-83.24021637439728
+"4c191262838020a14527e561","The Trap","Nightlife Spot::Karaoke Bar",42.37290039937045,-83.00154368215236
+"4c1940bd4ff90f471ca60f49","Franklin Parking Garage","Professional & Other Places::Parking",42.33037598500248,-83.03863657537754
+"4c19590d838020a19e9be561","Reggie's Soul Food Cafe","Food::Southern / Soul Food Restaurant",42.32625067234039,-83.05984
+"4c1964d4d4d9c928e8f2f029","Comerica Park Section 133 Seat 16","Arts & Entertainment::Stadium::Baseball Stadium",42.338333,-83.0486
+"4c1a3127d4d9c928d90cf229","Delilah's Cafe","Food::Café",42.35627746582031,-83.0703125
+"4c1a6d76eac020a1294143c2","WSU Faculty Administration Building","College & University::College Administrative Building",42.35844878144081,-83.07213306427002
+"4c1a711655e4c9b660c14723","The Cigar Bar","Nightlife Spot::Lounge",42.33853046283442,-83.04940938949585
+"4c1aafb0e9c4ef3b648045aa","The Funk Loft","Arts & Entertainment::Music Venue",42.3352575302124,-83.04202168
+"4c1ab91c55e4c9b64f404823","Milan Field","Outdoors & Recreation::Park",42.42293163,-83.23593
+"4c1b98c83b2ab713a62d3325","Detroit River Days","Arts & Entertainment::General Entertainment",42.3294792175293,-83.03611755371094
+"4c1badb3e9c4ef3bd1b045aa","Caribbean Citchen","Food::Caribbean Restaurant",42.41698797,-83.16611
+"4c1bbc02b4e62d7fb2e2d993","Transmat","Arts & Entertainment::Performing Arts Venue",42.34455871582031,-83.0374984741211
+"4c1bf85a63750f470dcbb567","US Post Office","Professional & Other Places::Post Office",42.324814926682855,-83.06053313792437
+"4c1cff26eac020a1b16847c2","MLI Barbershop","Shop & Service::Salon / Barbershop",42.331738,-83.0442039
+"4c1d1b1063750f477aadb767","St. Josaphat Catholic Church","Professional & Other Places::Spiritual Center::Church",42.356413306498666,-83.05332946992448
+"4c1d217db306c928780865b7","BP","Shop & Service::Gas Station / Garage",42.39993621601647,-83.27612842869603
+"4c1e75ba920076b08c66c3e9","Plymouth United Church of Christ","Professional & Other Places::Spiritual Center::Church",42.359789577839,-83.05618167157195
+"4c1f74c5fcf8c9b6baa5ae0b","GM Detroit Hamtramck Assembly","Professional & Other Places::Building",42.377771554341194,-83.04572124630442
+"4c1fb21eb4e62d7faa0ae093","Subway","Food::Fast Food Restaurant",42.32672119140625,-83.0566177368164
+"4c1fb3fdfcf8c9b6010faf0b","Detroit Receiving Hospital","Professional & Other Places::Medical Center::Hospital",42.35379571135602,-83.05435711565542
+"4c1fcc15bd9d95218058983f","Millender Center","Professional & Other Places::Building",42.330186998977,-83.04179191589355
+"4c1fd4ced38ec9b650414d83","DPM - Grand Circus Park Station","Travel & Transport::Light Rail",42.335814199972766,-83.0505359172821
+"4c20d5e5132f0f476f47a796","U.S. Social Forum","Nightlife Spot::Speakeasy",42.328036,-83.048644
+"4c222d819a67a593e905dc87","Greyhound Lines","Travel & Transport::Bus Station",42.32791852751545,-83.0586576461792
+"4c22b387fbe5c9b686659a21","Downtown Synagogue","Professional & Other Places::Spiritual Center::Synagogue",42.33432247744874,-83.04983745170783
+"4c240e79a852c928849ae26c","Hernon Detroit","Professional & Other Places::Office",42.3997571,-83.23531726666666
+"4c2502dc136d20a10ad2e261","The Woodhouse Day Spa","Shop & Service::Spa / Massage",42.334619,-83.04943
+"4c25505bf7ced13aff6d246d","Spice Night Club & Lounge","Nightlife Spot::Nightclub",42.33513,-83.04604
+"4c26914c136d20a1239fe561","Auntie Betty's Cafe","Food::BBQ Joint",42.40731430053711,-83.23555755615234
+"4c278325905a0f4708fb6460","Detroit Children's Museum","Arts & Entertainment::Museum",42.365177154541016,-83.07376861572266
+"4c289036fe6e2d7fef5d533c","Michigan State University College of Osteopathic Medicine at the DMC","College & University::Medical School",42.357262,-83.057298
+"4c290deeed0ac9b69d3261aa","Writing It Right For You","Professional & Other Places::Office",42.37870321046364,-83.09825298481599
+"4c2a2f4cfe6e2d7fb602563c","Mr Pops Car Wash","Shop & Service::Automotive Shop",42.3451080304409,-83.00759348673537
+"4c2aa425ae6820a14ab31643","Detroit Police Department- 6th Precinct","Professional & Other Places::Building",42.37137507269832,-83.22711806890877
+"4c2b46aeb34ad13aea77e9ce","DisplayGroup","Arts & Entertainment::Art Gallery",42.27724838256836,-83.15433502197266
+"4c2cd6a0781db7138b003974","1917 American Bistro","Food::American Restaurant",42.435574478268386,-83.14133929300178
+"4c2d48abe760c9b6e4b74449","Capers","Food::American Restaurant",42.44057802264034,-82.97376414174522
+"4c2e00068a3495216d4ecc9f","New Center Park","Outdoors & Recreation::Plaza",42.36837386687472,-83.07702541351318
+"4c2e2f57260bc92890441bd3","Chandler Park Golf","Outdoors & Recreation::Athletic & Sport::Golf Course",42.397495622518235,-82.9744465675577
+"4c2e34464e132d7f3cc09ddf","Jerry Paffendorf","Nightlife Spot::Strip Club",42.320290959252866,-83.0943284483039
+"4c2f87b6452620a173b01d0f","Good People Popcorn","Food::Snack Place",42.3326,-83.04111
+"4c2f9cc27cc0c9b6d50eec9a","Aurora Coney Island","Food::Wings Joint",42.428802251815796,-83.27376544475555
+"4c3017cf7cc0c9b64ff3ec9a","Xceedspeed French Rd. Meet Spot","Nightlife Spot::Strip Club",42.42331,-83.034687
+"4c30932ea0ced13a084f126e","Third New Hope Baptist Church","Professional & Other Places::Spiritual Center::Church",42.373468454398875,-83.17013668937282
+"4c327ae866e40f47f89fc68b","BP","Shop & Service::Gas Station / Garage",42.36431656340004,-82.9756066752981
+"4c33f001213c2d7f87d5375d","Redsmoke","Food::American Restaurant",42.335262298583984,-83.04180908203125
+"4c34ac33213c2d7ff6d8385d","WSU Farmers Market","Shop & Service::Food & Drink Shop::Farmers Market",42.35793345863309,-83.06790590286255
+"4c36042eae2da593c16efcc5","CVS","Shop & Service::Drugstore / Pharmacy",42.44297581008539,-83.25940551859772
+"4c36195093db0f47197e1d92","Rub BBQ Pub","Food::BBQ Joint",42.33717011044897,-83.05094904518572
+"4c36771e0a71c9b6bc413dc9","Willys Overland Lofts","Residence::Residential Building (Apartment / Condo)",42.350388,-83.06464908333334
+"4c370a2cdfb0e21eaffcaba8","APBA Gold Cup Races","Arts & Entertainment::Water Park",42.35536575317383,-82.97974395751953
+"4c374d4318e72d7fa43d16f5","Imagination Station","Arts & Entertainment::General Entertainment",42.33026885986328,-83.07565307617188
+"4c3765e893db0f474ab41f92","US Post Office","Professional & Other Places::Post Office",42.4001838164137,-83.24460983276367
+"4c3772100a71c9b61adc3ec9","Pappy's Sports Bar and Grille","Food::Restaurant",42.33518981933594,-83.04190826416016
+"4c38841193db0f47f0a62192","Teamsters Conference Hall - Joint Council #43","Professional & Other Places::Event Space",42.33708123077484,-83.06969124690835
+"4c38c8bf0a71c9b62d5141c9","Walgreens","Shop & Service::Drugstore / Pharmacy",42.34422850500497,-83.00964494250505
+"4c38e483ae2da593559201c6","Tom's Coney Island","Food::American Restaurant",42.386194944674685,-83.2324620845795
+"4c39fb1118e72d7f2b0c1bf5","New St Paul Tabernacle","Professional & Other Places::Spiritual Center::Church",42.40203225794371,-83.21736488892208
+"4c3a06b118e72d7fcb291bf5","comerica park section 129A","Arts & Entertainment::Stadium::Baseball Stadium",42.339636,-83.049014
+"4c3b4476d94dc9b68282ffe7","555","Arts & Entertainment::Art Gallery",42.32505416870117,-83.08272552490234
+"4c3b5efa4565e21eef9d566a","NPM CONVENTION - Hope & Harmony","Professional & Other Places::Event Space",42.32670675000001,-83.048112
+"4c3bbaab4565e21eb433576a","Little Caesars","Food::Pizza Place",42.345096588134766,-83.01056671142578
+"4c3c72137f49c9b6abda6be3","Quicken Loans Headquarters","Professional & Other Places::Office",42.332660503989295,-83.04668608697892
+"4c3cdb0ca97bbe9adf15fbdd","Ignite Sushi Bar & Lounge","Nightlife Spot::Nightclub",42.333839,-83.05922899796714
+"4c3dfca083a3a593c671ed33","International Buffet","Food::Restaurant",42.33525085449219,-83.04116821289062
+"4c3e0f6e0e0d0f478e06157f","Redsmoke BBQ","Food::BBQ Joint",42.335577773455164,-83.04127965057747
+"4c3ec6d3db3b1b8ddbe26595","Ups","Professional & Other Places::Building",42.4430945549111,-83.0057430267334
+"4c3f0f7bb03795213f5a9ba7","Quizzle","Shop & Service::Bank",42.33266246999999,-83.046743
+"4c3f3c43d691c9b64b6a890a","Bellacino's Pizza & Grinders","Food::Pizza Place",42.33150863647461,-83.04771423339844
+"4c3f76a4d7fad13a3d8c04da","IHOP","Food::Breakfast Spot",42.339009450690206,-83.02138580776021
+"4c3ff0d2d691c9b60c8f8a0a","CVS","Shop & Service::Drugstore / Pharmacy",42.33153312138801,-83.128666715718
+"4c421f89e26920a1cf935fe7","Inn at 97 Winder","Travel & Transport::Hotel::Bed & Breakfast",42.341464,-83.052551
+"4c42470fcc410f473097ac61","Captain Jay Fish & Chicken","Food::Wings Joint",42.34360885620117,-83.22037506103516
+"4c4254e7af052d7fdeda7e79","Bel Air 10 Theater","Arts & Entertainment::Movie Theater",42.4464197421963,-83.01608562469482
+"4c4323a0ce54e21eed9b0d1a","Oakland Avenue Missionary Baptist Church","Professional & Other Places::Spiritual Center::Church",42.36704093281992,-83.06654083369727
+"4c433d42da3dc9287c9ccbb9","Vernon Chapel AME Church","Professional & Other Places::Spiritual Center::Church",42.4287,-83.06609
+"4c43e5f52d3ec9b69c352eae","5150 Detroit Customs","Shop & Service::Tattoo Parlor",42.331121922072775,-83.041447461294
+"4c44995074ffc92896c875cc","Community Foundation for Southeast Michigan","Professional & Other Places::Office",42.32996011666667,-83.05014565
+"4c45bb70dd1f2d7fe29a81f9","Flo Boutique Co","Shop & Service::Gift Shop",42.350511,-83.06398593
+"4c460bca37f6d13a6eec6196","i-75","Travel & Transport::General Travel",42.37366927390667,-83.06267730877975
+"4c461e4c342c1b8d8ea9b589","Brightmoor Community Center","Professional & Other Places::Building",42.39257633686066,-83.24721157550812
+"4c47106fc047be9aa74f2f79","Glass Chiropractic Health Plaza","Professional & Other Places::Medical Center::Doctor's Office",42.444189,-83.214661
+"4c4720b6c047be9a22832f79","Glory Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",42.420046375000005,-83.21721533333333
+"4c476bac89a6c9b667299a88","JNAP Chrysler","Professional & Other Places::Factory",42.375317987998,-82.96730697155
+"4c48826476d72d7fa2ae404d","Associate Dining Room (ADR)","Professional & Other Places::Office::Cafeteria",42.33938695350778,-83.06777715682983
+"4c4992009f2ad13a7a547753","U.S. Bankruptcy Courthouse","Professional & Other Places::Government Building::Courthouse",42.329754177740156,-83.049470412001
+"4c49d6189e3e2d7f6bf75149","Church's Chicken","Food::Fast Food Restaurant",42.35490036010742,-83.06163024902344
+"4c4b6ee79e6dbe9a8082030c","Corktown Music Festival","Nightlife Spot::Nightclub",42.33042,-83.077734
+"4c4b6f48712ac928b83fe16c","Food Plaza","Shop & Service::Food & Drink Shop::Grocery Store",42.33155121514751,-83.04198503494263
+"4c4b715b42b4d13a4c67ac7e","Gaelic League Detroit: Irish American Club","Nightlife Spot::Bar",42.33150117265618,-83.0749852781794
+"4c4b7cb1959220a1a5a69d0f","Union Street Saloon","Food::American Restaurant",42.3513528895516,-83.06051741025138
+"4c4c4818959220a1e488c810","Mexicantown","Arts & Entertainment::Arcade",42.314453125,-83.09061431884766
+"4c4cb7c5a34b2d7fc2f62098","Section 333 Comerica Park","Outdoors & Recreation::Athletic & Sport::Baseball Field",42.33983,-83.04855
+"4c4cf0c57711e21e29b48aa0","The Pink FlaminGO","Food::Food Truck",42.3424186706543,-83.05821990966797
+"4c4cfb10a34b2d7fb6aa8f98","Key Club","Nightlife Spot::Nightclub",42.33283418333333,-83.030845
+"4c4d8cb592b6a593b472736e","IT Service Center","Professional & Other Places::Building",42.328975659373334,-83.040052521714
+"4c4e250ff53d0f47b08d14a6","Pioneer Building","Arts & Entertainment::Art Gallery",42.375160217285156,-83.05912780761719
+"4c4ef3ddd667d13ad6e53ea1","Glory Supermarket","Shop & Service::Food & Drink Shop::Grocery Store",42.42966274070397,-83.27701671215722
+"4c502cd9f080a593db2310e2","460 Smart Bus","Travel & Transport::Bus Station::Bus Line",42.3882481996964,-83.08237000073741
+"4c5053f93a6f2d7f20216277","Compuware World Headquarters","Professional & Other Places::Office",42.332344350481826,-83.04664134979248
+"4c50a4949426c92882036b72","Detroit Seafood House","Food::Seafood Restaurant",42.335296630859375,-83.0443115234375
+"4c51b28c3940be9a21124d09","Sterling Services Comerica 411","Food::Café",42.32978439331055,-83.05188751220703
+"4c522ad1048b1b8de07e1b30","Detroit Seafood Market","Food::Seafood Restaurant",42.335715064072566,-83.04580986499786
+"4c523d24048b1b8da9033b30","Taco Truck","Food::Food Truck",42.35207748413086,-83.0693359375
+"4c52d5e69426c9285b82d875","Warped Tour Detroit","Arts & Entertainment::Music Venue::Rock Club",42.338943,-83.049768
+"4c52d7f1b6dabe9a0732ce13","Fox Office","Professional & Other Places::Office",42.3362216319751,-83.0590389921879
+"4c52f0122543a593f4492586","Henry Ford Medical Center- New Center One Pediatrics","Professional & Other Places::Medical Center::Doctor's Office",42.36989386492547,-83.07654719793781
+"4c5303e5048b1b8d39095c31","Monument to Joe Louis","Professional & Other Places::Government Building::Monument / Landmark",42.32865023747557,-83.0445384979248
+"4c5474fb728920a106cfca82","City of Detroit","Outdoors & Recreation::City",42.33151948952611,-83.04668426513672
+"4c54a426fd2ea5934dd9672a","Sweet Potato Sensations","Food::Dessert Shop",42.4172043800354,-83.25783059
+"4c54a8d1728920a10d8d1c83","Shell Gas Station","Shop & Service::Gas Station / Garage",42.351811280458605,-83.04729434883002
+"4c558fc0479fc9284bb30995","Cass Community UMC","Professional & Other Places::Spiritual Center::Church",42.348172,-83.06267048333333
+"4c56ca7330d82d7fef44d862","Denby High","Professional & Other Places::School::High School",42.430562092993505,-82.95653318541225
+"4c56d18bcc96c9b69078772e","Herman Kiefer Health Complex","Professional & Other Places::Medical Center",42.377687117451906,-83.09085488319397
+"4c582c5ad12a20a1415268bd","Most Holy Trinity Catholic Church","Professional & Other Places::Spiritual Center::Church",42.329656025080155,-83.06058032092078
+"4c58bc3167ac0f47f5b2024c","Mt Elliott Park","Outdoors & Recreation::Park",42.341163341417435,-83.0072021484375
+"4c595ec3b8b3c9b6ceea88b6","Rehabilitation Institute","Professional & Other Places::Medical Center::Hospital",42.34973641837752,-83.05561543549794
+"4c59912ff346c92869d54cca","i-75","Travel & Transport::General Travel",42.37366927390667,-83.06267730877975
+"4c59a9f5d3aee21e7ec76855","Keller Williams Detroit","Professional & Other Places::Office",42.33626448630071,-83.01707896799773
+"4c5ac9aeec2520a1274b5212","Communications And Media Arts","Professional & Other Places::School",42.39849705733281,-83.20597822251186
+"4c5c40706147be9afeb48e09","Detroit Wholistic Center","Shop & Service::Gym / Fitness Center",42.41295910220287,-83.24836602693338
+"4c5c872f6ebe2d7fe158d02e","Parks Old Style BBQ","Food::BBQ Joint",42.373783111572266,-83.0682601928711
+"4c5ca0e96147be9a94e38f09","Paradise Valley/Beatrice Buck Park","Outdoors & Recreation::Plaza",42.33587468251184,-83.0460620883759
+"4c5ce2389b28d13a264d5870","Bert's Market Place","Arts & Entertainment::Music Venue::Jazz Club",42.347546,-83.04124
+"4c5d67c985a1e21e25385911","Kaboom Playground Build","Outdoors & Recreation::Playground",42.396872829666435,-83.26564053469383
+"4c5d69ea7f661b8db4274b1c","Obama Gas Station","Shop & Service::Gas Station / Garage",42.358410435298055,-83.20106099208807
+"4c5dba956147be9a3be99209","Auto Zone","Shop & Service::Automotive Shop",42.43083843,-83.19059753417969
+"4c5dcad86147be9aa6219309","White Castles","Food::Burger Joint",42.36080551147461,-83.2024154663086
+"4c5f22b1b6f3be9aa86f5c73","Locos","Food::Mexican Restaurant",42.33395004272461,-83.0420913696289
+"4c60093223e303bbc3cf7407","Walgreens","Shop & Service::Drugstore / Pharmacy",42.4173587471823,-82.912690107248
+"4c605c3bb36eb7131e2ba3d2","Joe Louis Arena Parking Garage","Professional & Other Places::Parking",42.325397488529546,-83.05405826115478
+"4c6152b9db219c74affc6573","McDonald's","Food::Fast Food Restaurant",42.36796569824219,-83.08082580566406
+"4c616c60db219c741b3e6773","Sunoco","Shop & Service::Gas Station / Garage",42.33072637586716,-83.14451752477682
+"4c6332e786b6be9a2c0a8e34","State Representative Fred Durhal's Office","Nightlife Spot::Karaoke Bar",42.368168855587584,-83.145651
+"4c64302a58810f4768880b1e","Marwil Book Store","College & University::College Bookstore",42.355881340068386,-83.06645696039907
+"4c643c3b11c4a5930fcfe811","Omega Coney Island","Food::American Restaurant",42.442970275878906,-83.2657699584961
+"4c64403711c4a593bbd9e811","Woodland Urgent Care","Professional & Other Places::Medical Center::Emergency Room",42.44228598734821,-83.26313719313943
+"4c647d61f07e2d7f316e8f50","Artists Village","Arts & Entertainment::Art Gallery",42.398860931396484,-83.21366882324219
+"4c657a190f880f4708faf9e6","CK Mediterranean Grill & Catering","Food::Mediterranean Restaurant",42.33360021062133,-83.04525979576437
+"4c65b9359cb82d7f9bae8ed2","Finishing Touch salon","Shop & Service::Salon / Barbershop",42.4152508828988,-82.93890383583847
+"4c66ac47f7a80f4773909e7a","Earthworks","Outdoors & Recreation::Farm",42.353469793490646,-83.01458358764648
+"4c66e89a9cb82d7f1f0592d2","Taco Truck (Tacos El Caballo)","Food::Taco Place",42.3055534362793,-83.12356567382812
+"4c66feb07abde21eec316568","Sprint Store","Shop & Service::Mobile Phone Shop",42.4305838713024,-83.27810876154032
+"4c671d458e9120a128fad964","#WolfgangPuck Grille","Food::Steakhouse",42.333425,-83.058915
+"4c6801e81c91a5936fd2ee07","New Prospect Missionary Baptist Church","Professional & Other Places::Spiritual Center::Church",42.439091205596924,-83.142193
+"4c6933f45be8d13a992c627a","WSU Academic Administration Building","College & University::College Administrative Building",42.36127108986245,-83.0696439743042
+"4c693d030e98a5933ede2359","Metro Times","Professional & Other Places::Office",42.33433592844631,-83.04019411467311
+"4c6a0efec946e21eb2f3eb8e","Qight Tight Barbershop","Shop & Service::Salon / Barbershop",42.43012189865112,-83.20703592
+"4c6af287599fbe9aee93913f","Lit Image Detroit HQ","Professional & Other Places::Office::Tech Startup",42.35772907733917,-83.07104436
+"4c6b1cc77c052d7f2ff628cf","Detroit Regional News Hub","Professional & Other Places::Office::Coworking Space",42.350783,-83.04351863333333
+"4c6c08ef65eda09370be4ad0","Birmingham Deli","Food::Deli / Bodega",42.329915258894985,-83.04287907907967
+"4c6da43cd5c3a1cd2016c62b","Church's Chicken","Food::Fast Food Restaurant",42.43503189086914,-82.97776794433594
+"4c6dc83a10faa143df03ef68","Abandoned building","Professional & Other Places::Building",42.36579595665392,-83.05993548370508
+"4c6e9a6bd5c3a1cd30b2c82b","American Red Cross","Professional & Other Places::Medical Center",42.34715828010312,-83.05651187896729
+"4c6ef57fd7fab1f7e7f359c9","The Block","Arts & Entertainment::General Entertainment",42.36396408081055,-83.02774810791016
+"4c6f1d3ab5a5236af1524c52","Tiger Club","Nightlife Spot::Lounge",42.338244963350846,-83.04949522018433
+"4c6f3a799c6d6dcbad1ccf7a","Kingdom nightclub","Nightlife Spot::Nightclub",42.33209,-83.04181551666667
+"4c704474d274b60ccb31d90d","African World Festival","Arts & Entertainment::General Entertainment",42.328189849853516,-83.04402160644531
+"4c704bf8d7fab1f77c235ec9","Eastside/Grosse Point Fix MI Center","Professional & Other Places::Convention Center::Meeting Room",42.418867349624634,-82.91098058223724
+"4c715dd4d274b60ccb31dc0d","Exquisite Automotive Salon","Shop & Service::Automotive Shop",42.430749527071185,-83.19171722874697
+"4c738f8f9e706dcbd2bc4d62","WSU Parking Structure 2","College & University::General College & University",42.356818434199745,-83.07298827295281
+"4c73e747376da093d62faac6","Metro Foodland","Food::Restaurant",42.402564135565626,-83.22393341167148
+"4c7505912db5236a8cb9bb79","Ferrous Processing","Professional & Other Places::Office",42.320714592933655,-83.14767479896545
+"4c754e9ad8948cfaa64b67da","Detroit Public Library - Redford Branch","Professional & Other Places::Library",42.41400504,-83.2500093
+"4c767090db52b1f753637bdc","Critical Mass","Professional & Other Places::Event Space",42.35259140197848,-83.07884807914348
+"4c76ad4966be6dcba2d9c30f","Cadillac Square","Outdoors & Recreation::Park",42.33151948952611,-83.04537534713745
+"4c76e14e5cd6b1f761513d94","Northwestern High School","Professional & Other Places::School::High School",42.35789015667121,-83.10309938442151
+"4c76e8ed5cd6b1f7b16e3d94","Baha'i Center","Professional & Other Places::Spiritual Center",42.43611924628072,-83.20076280763244
+"4c79200f83a7bfb7b4377cf8","#EpicTweetup","Arts & Entertainment::General Entertainment",42.35044329,-83.059647
+"4c79926993ef236a4022b00f","Zoom","Shop & Service::Gas Station / Garage",42.372583289839845,-83.18734309071952
+"4c79eb87bd346dcb6b44f7ef","Macho City","Nightlife Spot::Gay Bar",42.331171629470276,-83.13411308324496
+"4c7bf9b8794e224bc8e66c28","Motown Cafe","Food::Café",42.32975769042969,-83.0498275756836
+"4c7c30d448c6236a23086111","Neighborhood Noodle","Food::Asian Restaurant",42.35100555419922,-83.0781021118164
+"4c7c34003e90a1cddce041be","Detroit Marriott Concierge Lounge","Nightlife Spot::Hotel Bar",42.328984922543135,-83.03971689274289
+"4c7d45e65af8b60c15178f10","Detroit General Services Office","Professional & Other Places::Government Building",42.33381039,-83.044866
+"4c7e5ddbd598a093b880c562","Elaine L. Jacob Gallery","Arts & Entertainment::Art Gallery",42.35434341430664,-83.0677719116211
+"4c7f785f4a03bfb79b8acad4","Belle Isle Beach/Pool","Outdoors & Recreation::Beach",42.345175890096286,-82.97780513763428
+"4c7faf85fb13a1cdc643a1a4","Consulate General of Canada - Detroit","Professional & Other Places::Government Building",42.332273269179446,-83.03779748170068
+"4c7fb1e1d860b60cf991619d","Wayne State University School of Business Administration","College & University::College Academic Building",42.35761662785495,-83.0677517425077
+"4c7fcc3167a3199c7cdc9d10","Eminem & Jay-Z Concert","Arts & Entertainment::Music Venue",42.338779,-83.048718
+"4c7fe4ebf9b79c74a39a0745","Haz Subs, Soups & Salads","Food::Fast Food Restaurant",42.32542037963867,-83.06037902832031
+"4c801655d8086dcbb5956052","Compuware Parking Garage","Professional & Other Places::Parking",42.33337541146408,-83.04595470428467
+"4c8162a0dc018cfa7542c56c","Detroit Jazz Fest 2010 - Carhartt Amphiteatre Stage","Arts & Entertainment::Music Venue",42.32762145996094,-83.0448989868164
+"4c816adce602b1f7a6af927a","Canada","Professional & Other Places::Event Space",42.317521,-83.0818364
+"4c818be2d92ea09374464272","Detroit Jazz Festival","Arts & Entertainment::Music Venue::Jazz Club",42.33055185038616,-83.04589033126831
+"4c829fabdc018cfa2e48d16c","BP Gas","Shop & Service::Gas Station / Garage",42.4319461867435,-83.11457213328457
+"4c82d476dc018cfaa387d36c","Detroit Jazz Fest - Pyramid Stage","Arts & Entertainment::Music Venue::Jazz Club",42.32707933333333,-83.04331
+"4c844587d4e237049e017988","Stripey Chair @ Old Miami","Arts & Entertainment::General Entertainment",42.34769058227539,-83.06192016601562
+"4c85028ce602b1f70f6bb37a","The Country Grill","Food::American Restaurant",42.40584182739258,-82.91596221923828
+"4c863ae0d8086dcb78499852","Biggby Coffee - Wayne state","Food::Coffee Shop",42.35145950317383,-83.04867553710938
+"4c879a789062ef3bbe8f40c6","Millender Center Apartments","Residence::Residential Building (Apartment / Condo)",42.331405582601306,-83.04391213191653
+"4c87bd8d14c4b60c4b212235","CVS/pharmacy","Shop & Service::Drugstore / Pharmacy",42.371918743729445,-83.07476513884978
+"4c87d33d32f2a1432633f127","Subway","Food::Sandwich Place",42.41490868333333,-82.91171133333333
+"4c88fb13f53b236a870caba6","WSU Art Building","College & University::College Academic Building::College Arts Building",42.359935,-83.05333863333334
+"4c8b72ace51e6dcb5f3c72de","Dally In The Alley","Arts & Entertainment::General Entertainment",42.352949380874634,-83.067827
+"4c8c18935e38b1f71c692ef9","Section 333","Outdoors & Recreation::Athletic & Sport::Baseball Field",42.33957,-83.04867
+"4c8c4d28cf3ea1432d6cf451","Antheneum Hotel","Travel & Transport::Hotel",42.33402633666992,-83.04318237304688
+"4c8e63da1992a1cdf965ddfb","La Mexicana","Food::Taco Place",42.32201278209686,-83.091018
+"4c9121ad7f3b8cfa6c279a1e","Sporty Cutz","Shop & Service::Salon / Barbershop",42.43116789643562,-83.17461665277159
+"4c91572f57e5b60cc3e15f1c","Abreact Theater","Arts & Entertainment::Performing Arts Venue",42.326080322265625,-83.0602798461914
+"4c91b26d7088a143125cb343","The Love Nest","Nightlife Spot::Other Nightlife",42.414583,-83.137883
+"4c92147c238c6dcba12ec555","Marathon","Shop & Service::Gas Station / Garage",42.42860809604051,-83.27828118870104
+"4c934c36911b8cfaa656f4b5","Detroit Urban Lutheran","College & University::College Classroom",42.354023299897605,-83.19912015293401
+"4c93f11f6b35a14366bb16dc","RedSmoke Bbq","Food::BBQ Joint",42.335880279541016,-83.04131317138672
+"4c97b653f244b1f783e83e1d","DMP R+D Idea Lab","Professional & Other Places::Office",42.32848,-83.054371
+"4c98ad144804a1434f64ed0e","Salvation Army Harbor Light","Professional & Other Places::Building",42.33810690098301,-83.08947091950293
+"4c98bf37b6ee236a1fa4aaa7","Harbortown Market","Shop & Service::Food & Drink Shop::Grocery Store",42.34266451511227,-83.0113185893803
+"4c98f5fc671db60c63ebbdf6","Green Room","Food::Salad Place",42.32990646362305,-83.04720306396484
+"4c9a55a1a004a1cda26e476e","Blocktoberfest","Arts & Entertainment::General Entertainment",42.315834045410156,-83.08744049072266
+"4c9a7a8480958cfa823943d4","All About Technology, Inc.","Shop & Service::Electronics Store",42.340615,-83.061996
+"4c9a93d9db10b60cd0f4936d","Alger Theater","Arts & Entertainment::Movie Theater::Indie Movie Theater",42.40380524,-82.93545726660446
+"4c9b840beaa5a1434fabd5e4","Transformers 3","Arts & Entertainment::Performing Arts Venue",42.33282470703125,-83.0439453125
+"4c9cbaeae9a7ef3b2a413616","2010 Tour-de-Troit","Shop & Service::Bike Shop",42.330646,-83.077369
+"4c9ccd0d542b224b28cce39f","Transformers Movie Set","Arts & Entertainment::General Entertainment",42.333683013916016,-83.05111694335938
+"4c9d0b440e9bb1f7107bd95f","Church's Chicken","Food::Fast Food Restaurant",42.430362701416016,-83.22035217285156
+"4c9d700f0e9bb1f777b4dd5f","Marathon Gas","Shop & Service::Gas Station / Garage",42.403571,-82.923766
+"4c9d757354c8a1cd0265844b","Greater Emmanuel Church Of God In Christ","Professional & Other Places::Spiritual Center::Church",42.43190690080146,-83.18035746358609
+"4c9e4fdfca44236a2c9b2999","McDonald's","Food::Fast Food Restaurant",42.416278436516194,-83.20028152457083
+"4ca087a446978cfa6905b47f","McDonald's","Food::Fast Food Restaurant",42.39377975463867,-83.12208557128906
+"4ca0f6bad3c2b60c4bbbe1bc","Nicky d's coney island","Food::Diner",42.44340896606445,-83.23983764648438
+"4ca214ad54c8a1cdee91ad4b","Wayne State University Purdy-Kresge Library","College & University::College Library",42.35829980147555,-83.06934528545503
+"4ca215aa46978cfa9493c17f","Compuware Cafe","Food::American Restaurant",42.332176208496094,-83.0467529296875
+"4ca31bb37f84224b95aac158","TEDxDetroit","Professional & Other Places::Event Space",42.358831,-83.064363
+"4ca383b95720b1f77f7a32ef","Wayne State University Old Main","College & University::College Academic Building::College Arts Building",42.35523426225665,-83.06672954822677
+"4ca5019e97c8a1cd600b63a5","City Wings","Food::American Restaurant",42.36741638183594,-83.08060455322266
+"4ca53bc9a6e08cfa0d9d6f94","Elias Donuts","Food::Bakery",42.40562116666667,-83.23114514350891
+"4ca54fdfd971b1f7abe7f5e0","White Castles","Food::Burger Joint",42.44179153442383,-83.20064544677734
+"4ca62664a6e08cfa7ac97794","McDonald's","Food::Fast Food Restaurant",42.41625113786776,-83.25614404676688
+"4ca64e0fd971b1f7e5d6fee0","Top Notch Hand Car Wash","Shop & Service::Automotive Shop",42.41669520005908,-83.16592859259701
+"4ca749ae76d3a093e8aa096b","White Castle","Food::Fast Food Restaurant",42.39175033569336,-83.12356567382812
+"4ca7aed0a6e08cfa996b8794","The Waldorf","Residence::Residential Building (Apartment / Condo)",42.35179016666667,-83.06788548888889
+"4ca88d5697c8a1cd57b085a5","True Love Baptist Church","Professional & Other Places::Spiritual Center::Church",42.35220652,-83.14987
+"4ca8a5cab7106dcb106f74a5","Redford Church Of Christ","Professional & Other Places::Spiritual Center::Church",42.411351,-83.258161
+"4ca8af2c44a8224bd4fa1940","Power Hope & Grace Bible Church","Professional & Other Places::Spiritual Center::Church",42.344195316523,-83.1335318098915
+"4cab39ca36fa6dcb4905d778","Planet Fitness","Shop & Service::Gym / Fitness Center::Gym",42.33055581615071,-83.2195794582367
+"4cab807a14c33704cd2ceb3b","Bank of America","Shop & Service::Bank",42.39095372338208,-83.1392552942711
+"4cab9a3e97c8a1cd9f989ca5","River East Parking Garage","Professional & Other Places::Parking",42.33080300587344,-83.0344882018002
+"4cad0af2d971b1f78dd035e1","Big Star Fish And Seafood","Food::Seafood Restaurant",42.39301300048828,-83.19920349121094
+"4cade3fdd1f8b60c95a472c6","Lot 50","Professional & Other Places::Parking",42.35391379569696,-83.0754804611206
+"4cae4091562d224b30a50488","PV Lounge/Detroit Seafood Market","Nightlife Spot::Lounge",42.33579933643341,-83.04587205000001
+"4cae7396f2dbef3bd5d877e5","Mayor's Office - City of Detroit","Professional & Other Places::Government Building::City Hall",42.32931451963472,-83.04451704025269
+"4cafa18eaef16dcb8816aa54","Tacos El Toro","Food::Mexican Restaurant",42.33113479614258,-83.12752532958984
+"4cb20990cbab236a3398ad73","Zombie Walk Detroit","Outdoors & Recreation::Cemetery",42.33450579,-83.04160001
+"4cb23c3eef1b37041bbd4900","District VII Detroit","Arts & Entertainment::Art Gallery",42.336952209472656,-83.01980590820312
+"4cb34b66cbab236aecddb673","Sculpture park","Outdoors & Recreation::Sculpture Garden",42.318579,-83.060192
+"4cb61532f6616dcb6f54dc08","Pupusería y Restaurante Salvadoreño","Food::Latin American Restaurant",42.32465362548828,-83.11658477783203
+"4cb71a208db0a143c2206f16","Walgreens","Shop & Service::Drugstore / Pharmacy",42.37224447305418,-83.23626851185021
+"4cb749f458b6ef3bfbd4280c","Detroit Free Press Marathon","Outdoors & Recreation::Other Great Outdoors",42.32932513,-83.051411
+"4cb784cf4352a1cd58ba7ef5","Savaya Market Liquor","Shop & Service::Food & Drink Shop::Liquor Store",42.37165959,-83.23218
+"4cb9d82edd41a35d2758e4a0","Hollywood Beauty Supply","Shop & Service::Cosmetics Shop",42.4430527012411,-83.2581720325742
+"4cba03754c60a093119a43ca","The Last Tangle Salon","Shop & Service::Salon / Barbershop",42.3345736195653,-83.05123742721771
+"4cba395376ad9c749560e6cb","Detroit Free Press Marathon","Outdoors & Recreation::Other Great Outdoors",42.32932513,-83.051411
+"4cbd938a4352a1cde345a4f5","Wayne County Building","Professional & Other Places::Building",42.34098346885621,-83.06202200726078
+"4cbe54de020d46882d1c5c38","University Towers","Professional & Other Places::Building",42.35287077913011,-83.06416088727654
+"4cbed529a0c4f04dbf475131","#140Conf Detroit","Professional & Other Places::Convention Center::Meeting Room",42.33772631,-83.05209413
+"4cbf7df79ca854811ef0b616","Americana Foods","Shop & Service::Food & Drink Shop::Grocery Store",42.37241921654658,-83.19298337167206
+"4cc21a381e596dcb4e7bc067","The State Bar & Grill","Nightlife Spot::Bar",42.337746627588686,-83.05161494360344
+"4cc2469cbe40a35de8a7704c","Hare Krishna Temple","Professional & Other Places::Spiritual Center::Temple",42.340788933261905,-83.03726779831294
+"4cc253f2bde8f04dcb039e4b","JS Fields Bar & Grille","Food::American Restaurant",42.329036712646484,-83.22056579589844
+"4cc3010438aaa09382da0962","2nd Annual Detroit Fall Beer Festival","Nightlife Spot::Bar",42.348969,-83.04117107
+"4cc3b34101fb236a49aaa7ba","Menjo's Complex","Nightlife Spot::Gay Bar",42.417826447523105,-83.11527405354755
+"4cc4f82282388cfa27b77235","PizzaPapalis","Food::Pizza Place",42.33538055419922,-83.04167938232422
+"4cc6f86cbde8f04d3fdbb94b","D Town Soulfood","Food::Southern / Soul Food Restaurant",42.444021105766296,-83.22190761566162
+"4cc73530fe64ef3b47d4a6f0","Youmacon 2010 (GM Renaissance Center)","Travel & Transport::Hotel",42.32926885,-83.0397583
+"4cc9cf15e7926dcb6a155f77","Detroit Edison Public School Academy","Professional & Other Places::School::Elementary School",42.351630322363434,-83.03743600845337
+"4ccb299ab571b60cbe2eca65","Manila Bay Cafe","Food::Café",42.347304,-83.08635861999998
+"4ccc6e5baa25a35d1ae4140f","14th District Democratic Organization Office","Professional & Other Places::Office::Campaign Office",42.43061964244589,-83.14173199888158
+"4ccc6eb4c0378cfa88928648","Conyers for Congress","Professional & Other Places::Office",42.443585557403225,-83.14226083906702
+"4cd214cf48b837042428fdde","Marathon Gas Station","Shop & Service::Gas Station / Garage",42.415434,-83.241373
+"4cd298f0f4bfb1f7989b362f","Mobil","Shop & Service::Gas Station / Garage",42.41575702,-83.21947788
+"4cd5746476ab721ee91a6d6a","M-10","Professional & Other Places::Building",42.44324879842048,-83.20148472553869
+"4cd5f7be89eb6dcb8e9b2c1e","MGM Grand Detroit Casino & Hotel","Arts & Entertainment::Casino",42.33364809424602,-83.0591857869576
+"4cd6f3af89eb6dcb7166321e","Galilee Missionary Baptist Church","Professional & Other Places::Spiritual Center::Church",42.43667685919271,-83.01457657020545
+"4cd74927aeb1224b1a082dff","BP","Shop & Service::Gas Station / Garage",42.430727,-83.20557832717896
+"4cd9922015d8b60c0dda6b0e","Wayne County Community College District Downtown Campus Bookstore","College & University::College Bookstore",42.32645277875415,-83.05626031508548
+"4cdaa9b9930af04d34268697","Goodby, Silverstein & Partners","Professional & Other Places::Office",42.337894439697266,-83.05162811279297
+"4cdd8ffcdf986ea83064d616","Startup Weekend Detroit #SWDetroit #GEW","Professional & Other Places::Event Space",42.3649303,-83.072895
+"4cddebe87e2e236a080d7c1b","Primo's Pizza","Food::Pizza Place",42.43040084838867,-83.2111587524414
+"4cde9e5effcf3704aab81382","Fifth Third Bank","Shop & Service::Bank",42.353173,-83.062681
+"4ce00a4041ed224b2ea9e23c","Burger King","Food::Burger Joint",42.43067169189453,-83.20050048828125
+"4ce429b7a3c6721e3d6b14cf","Taylor Made","Food::Burger Joint",42.4333254416685,-83.054540622132
+"4ce711f8e1eeb60c66ae9aae","Riverfront 4","Arts & Entertainment::Movie Theater",42.32889571889898,-83.03972213695873
+"4ced8e14e5569eb049c3b55d","Checkers","Food::Fast Food Restaurant",42.37333679199219,-83.1976089477539
+"4cedc2bed7268cfa6fc8c54e","Prive Deux","Nightlife Spot::Bar",42.3372049155912,-83.01847439389098
+"4cedf4b482125481266c62a1","2010 America's Thanksgiving Day Parade","Arts & Entertainment::General Entertainment",42.340446,-83.052112
+"4cee50b3f368b1f7ac1380f7","28th Fifth Third Turkey Trot","Outdoors & Recreation::Other Great Outdoors",42.329946057629016,-83.04673852356683
+"4cf161f01c158cfa2e9dd0b5","All About Technology","Shop & Service::Electronics Store",42.377309,-83.06062901930777
+"4cf42c3c1d18a143885b64ec","Astro Coffee","Food::Coffee Shop",42.331558,-83.075719
+"4cfac8e80df3236ae2fdf5a9","Noel Night","Nightlife Spot::Other Nightlife",42.35884109429102,-83.0652979990146
+"4cfc7f6792386a31fcad91c9","flagstar bank","Shop & Service::Bank",42.410014228536426,-82.91399841197503
+"4cfee1c7ba1da1cdf1798028","Slows To Go","Food::BBQ Joint",42.34962107050255,-83.06320154529054
+"4d0cf0e17d28721ee8eff520","Coaches Barber Shop","Shop & Service::Salon / Barbershop",42.42920458316803,-83.2439124584198
+"4d0e4127903d370481e4c855","Family Dollar","Shop & Service::Miscellaneous Shop",42.357817838117036,-83.23564632268675
+"4d10bd4eba378cfa86c67993","Renaissance Bowling Center","Arts & Entertainment::Bowling Alley",42.43748427244299,-83.11788261658705
+"4d15748f6d10370403002abd","St. Peter & Paul Catholic Church","Professional & Other Places::Spiritual Center::Church",42.34687,-83.230376
+"4d17904b8312236ab4cc5eba","The Park Bar","Nightlife Spot::Bar",42.336940372827776,-83.05276215076447
+"4d20bfb3bdd7a0933bf6efce","Harold's Place Hair & Nail","Shop & Service::Cosmetics Shop",42.36496,-83.0883149
+"4d234a63bcbf2c0fa8b19be4","Detroit City Council","Professional & Other Places::Government Building",42.329723408045474,-83.04433164113037
+"4d25c65d10a7721ea5f01704","Ally Financial","Professional & Other Places::Office::Coworking Space",42.329383069732614,-83.04044583473751
+"4d27f8fa55a8b60c0b31c9c0","Gigi's","Nightlife Spot::Gay Bar",42.343786197431655,-83.21114391088486
+"4d2cbaba679e6dcb2688a895","Texas De Brazil","Food::Brazilian Restaurant",42.33243952604981,-83.04698467254639
+"4d3458338250f04d75a504e1","BP","Shop & Service::Gas Station / Garage",42.40247703980743,-83.1400407287392
+"4d34849b5017a093c8c35b9b","S.C Exclusive","Professional & Other Places::Office::Conference Room",42.437463,-83.13559
+"4d371cc71931224bbad611cb","Detroit Venture Partners","Professional & Other Places::Office",42.3360560909134,-83.0493450164795
+"4d4c9dbd75a3a1cdc479d43d","7Mile","Professional & Other Places::Building",42.43009498266202,-83.21934702121233
+"4d4d88affe7fb1f7f0555d42","Belle Isle Aquarium","Arts & Entertainment::Aquarium",42.336779019498,-82.98557961353521
+"4d5358ff2f638cfa85d4616a","City Of Detroit","Travel & Transport::General Travel",42.30208969116211,-83.1195297241211
+"4d54151cf9f9b60c03642ae6","Fisher Administration Center","Professional & Other Places::Office",42.41268735378567,-83.13988364260145
+"4d5834e38147f04d70999f54","Family Dollar","Shop & Service::Miscellaneous Shop",42.43039665401108,-83.24178952521443
+"4d63e86661dda143f9682318","Motown Coney Island","Food::American Restaurant",42.369063,-83.07269039
+"4d667db635172c0fc99cfce2","Hostel Detroit","Travel & Transport::Hotel::Hostel",42.335086822509766,-83.0753402709961
+"4d67a6d49792b1f7c5d53f1f","McDonald's","Food::Fast Food Restaurant",42.38536716002778,-83.17964054405488
+"4d6b18a892f6b60c35219de0","Burger King","Food::Fast Food Restaurant",42.31540797,-83.10897052288055
+"4d6bed4587b95481257bc7dd","AT&T","Professional & Other Places::Office::Coworking Space",42.3320980144552,-83.05353919484709
+"4d6e4e462e6ea09333b71b50","The Jeffersonian","Professional & Other Places::Building",42.35503941662784,-82.98493929107607
+"4d70f28d86aa6dcb5146faa7","St. John Detroit Riverview Center","Professional & Other Places::Medical Center",42.350942087675,-82.9993817789256
+"4d7324ebbce5721e1ce7d815","Grand River Deli","Food::Diner",42.3386902833625,-83.0671384278477
+"4d751c97d6f06dcbb5681f08","Broderick Tower","Professional & Other Places::Building",42.33595100725844,-83.04973796010017
+"4d7d3601136bf04d643b6d8d","Church's Chicken","Food::Fried Chicken Joint",42.316213846206665,-83.10668842
+"4d80d7c2208a5481c7057c67","The Oil Exchange","Shop & Service::Automotive Shop",42.416068053793545,-83.27773778032957
+"4d8901f45db741bd1fbe8b5f","McDonald's","Food::Fast Food Restaurant",42.315929,-83.105969
+"4d8a206426a36ea83efbedad","Ford Field Ticket Office","Arts & Entertainment::General Entertainment",42.33887409384535,-83.04596245779912
+"4d8cbce5cb9b224b85b75b41","Jack Morton","Professional & Other Places::Office",42.3288810986045,-83.0453017459472
+"4d923cc39213b1f7d3b1ae46","Kick - The agency for LGBT African Americans","Professional & Other Places::Office",42.365233068806745,-83.0707553290473
+"4d94c7f10f604eb98ed55839","Historic Boston Edison District","Arts & Entertainment::Historic Site",42.37876180682333,-83.0982634639046
+"4d9521abaf3d236a2c90ebc6","Club Hangar LAX","Nightlife Spot::Nightclub",42.336858,-83.0516
+"4d96098de07ea35d59e6b502","Marathon","Shop & Service::Gas Station / Garage",42.33663227891864,-83.12387458430698
+"4d9652afdaec224b9d49143e","The Sunday Dinner Company","Food::Southern / Soul Food Restaurant",42.3442084610765,-83.00784587860107
+"4d9693f10caaa143b3317cb3","Henry Ford Wyandotte Hospital","Professional & Other Places::Medical Center::Hospital",42.20988412368258,-83.14770083737487
+"4d9a3dd3d97ba1436c97346b","Impact Church","Professional & Other Places::Spiritual Center::Church",42.40683621660897,-82.9767090212851
+"4da0791cb787a1cd6f8b8110","Spirit Of Detroit","Professional & Other Places::Government Building::Monument / Landmark",42.32910353953974,-83.04492419333954
+"4da1f36a7aee5481cefacbfe","Tubby's Subs","Food::Sandwich Place",42.443547572693,-83.24374477121096
+"4da6239381543f4ee96240d9","Fourteen East Cafe","Food::Café",42.360457,-83.066546
+"4dac688ca86e771ea74d3790","The Red Grape Lounge","Food::American Restaurant",42.333610737746824,-83.04796552779622
+"4dae4695fa8cf04fbdfca049","Joe Dumars Fieldhouse","Outdoors & Recreation::Athletic & Sport::Basketball Court",42.443611426259196,-83.11750548137479
+"4daf3c857abaaae42102a33e","LIV Resto | Lounge (L!V)","Nightlife Spot::Lounge",42.33290379259696,-83.04153661056318
+"4db99d5d4df0ded98bd6175a","Big Fuel","Professional & Other Places::Office",42.32819366455078,-83.04669189453125
+"4dbeb06ca86e0e98a216ab77","Blue Cross Blue Shield Renaissance Center","Professional & Other Places::Office",42.33022515919787,-83.03779748170068
+"4dc2d277d22dd7df9ab1d8e9","Donnell's Unisex Salon","Shop & Service::Salon / Barbershop",42.43115,-83.1712353229523
+"4dc31a6ecc3f0ed9733b42d6","Hot Taco","Food::Taco Place",42.337837041993716,-83.05339763059769
+"4dc4ad07d164eb9c9fdc6bc0","The Players Club of Detroit","Arts & Entertainment::Performing Arts Venue::Theater",42.34232358934523,-83.0143877061433
+"4dc6213ad164eb9ca001f458","UDetroit Media Cafe","Food::Café",42.33566448442162,-83.04570027135006
+"4dc7fd70887717c8805ff78e","J&L Foreign Auto Center","Shop & Service::Automotive Shop",42.34378306,-83.05969429
+"4dc86446d22dad7970cbda75","The Palace of Love","Travel & Transport::Hotel::Bed & Breakfast",42.34923318778898,-83.07917826732253
+"4dcc9bfac65bdac71334b754","The Penthouse","Nightlife Spot::Other Nightlife",42.361934661865234,-83.06034851074219
+"4dceaede183899ddfad8969b","Mootown Creamery","Food::Ice Cream Shop",42.34549438,-83.039895
+"4dcf0f4ce4cd130e1677e770","Canada","Outdoors & Recreation::Other Great Outdoors",42.32421511684487,-83.0549967645841
+"4dd26fe77d8b4c6585eb6444","Lafayette Foods","Shop & Service::Food & Drink Shop::Grocery Store",42.338866402582084,-83.03225395052554
+"4dd6def8fa76ad96d116cb2a","City of Detroit","Outdoors & Recreation::City",42.33151948952611,-83.04668426513672
+"4ddc25887d8b3654d4fa5da6","Martin Luther King High School Auditorium","Professional & Other Places::School::High School",42.34335290696676,-83.01697404756463
+"4ddd1a947d8b3654d50f6ce6","Wayne State University Helen Deroy Auditorium","College & University::College Auditorium",42.35756526316144,-83.06890496824262
+"4de19d071f6e3190ccfd3fb9","Liquor Palace","Shop & Service::Food & Drink Shop::Liquor Store",42.44133921985672,-83.14153826427612
+"4de8ebf7b0fbcb7c9aceee24","Livernois Family Medical Clinic","Professional & Other Places::Medical Center::Doctor's Office",42.42523134846907,-83.1408680428278
+"4ded31741850195b828deba5","Joe Muer Seafood","Food::Seafood Restaurant",42.32795348995962,-83.0401049635862
+"4df4f8e145dd4e269345bbdf","Nardin Park Community Church","Professional & Other Places::Spiritual Center::Church",42.3700294833333,-83.1316930166667
+"4df542faa809141629a8c6e0","Sugar House Craft & Cocktails","Nightlife Spot::Cocktail Bar",42.33155518002631,-83.07583962144341
+"4dfbe30bd22d879302f379df","Roberts Riverwalk Hotel & Residence","Travel & Transport::Hotel",42.33672332763672,-83.01494598388672
+"4e03508ac65b8061424dec09","Physician Assistant's Program","College & University::College Classroom",42.3493773097636,-83.0552274561138
+"4e04f4ad1850f16bf9d71329","Southwest Detroit Business Association","Arts & Entertainment::General Entertainment",42.31252883433444,-83.12466144561768
+"4e0884951f6e211033932e79","Rosa Park Hub","Travel & Transport::Bus Station",42.331974506378174,-83.05283188819885
+"4e08b94c45ddb2875c522a8f","Ray Laethem Chrysler Dodge Jeep Ram","Shop & Service::Car Dealership",42.405114497673104,-82.91659392836578
+"4e0b3b0bd22dbfe2dd7a78e3","Bank Of America","Shop & Service::Bank",42.43108922947359,-83.17908060870847
+"4e0dd6be45ddc2c6d1714550","Model T Auto Heritage Complex","Arts & Entertainment::Museum::History Museum",42.3689192533493,-83.0654392166667
+"4e0f2d0ffa76d62f444fbe50","Pod 4","Professional & Other Places::Medical Center::Hospital",42.36710655480737,-83.08602274647771
+"4e108c1c483bee47ff29ef3b","Seth Temple C.O.G.I.C.","Professional & Other Places::Spiritual Center::Church",42.37031797993754,-83.1331914221932
+"4e1310971495c8d31bd4b6d6","Henry Ford Medical Center","Professional & Other Places::Medical Center",42.4199083454063,-83.2143545150757
+"4e150eec8877cd57120b1cdd","Alden Park Towers A Building","Residence::Residential Building (Apartment / Condo)",42.351401,-82.993131
+"4e191b4fe4cd49a7e3f0beca","Detroit Princess","Outdoors & Recreation::Scenic Lookout",42.3316194840306,-82.9873063538633
+"4e1939dfaeb7eb0120d3814b","Cobras","Nightlife Spot::Strip Club",42.3339470732865,-83.04940749070282
+"4e1cc37618a81211e9956dd1","Southfield Fwy Exit 9","::Travel & Transport",42.359708025257476,-83.21651239651278
+"4e1e1c20e4cde030f88313af","Slices","Food::Pizza Place",42.332704,-83.047766
+"4e1f3e5562e19e27e251d3ad","King Of Diamonds","Nightlife Spot::Strip Club",42.44680871,-83.10522167
+"4e287812ae60078b2fcb9eff","I-94","Travel & Transport::General Travel",42.36465189587452,-83.06722230027594
+"4e29ecd16284b96d7b795142","Somerset Cityloft","Shop & Service::Clothing Store::Boutique",42.33461988035716,-83.04937078658442
+"4e2cb3ace4cd3bc166a30d0f","7 Mile & Gratiot","::Outdoors & Recreation",42.435102710709785,-82.9779163315442
+"4e2cb3e862e144b5d3ba34db","I 275 South","Outdoors & Recreation::Other Great Outdoors",42.085521035994,-83.37671911678919
+"4e3b39b352b1a04afefb0ccd","St. CeCe's Pub","Nightlife Spot::Pub",42.329828247033895,-83.06517787933448
+"4e3c2d891fc7f3d8d4751daa","2011 AAJA National Convention","Professional & Other Places::Convention Center",42.32783889770508,-83.04911041259766
+"4e3c7ce6b61cb577be6aaff5","Rocking On The River Front","Arts & Entertainment::General Entertainment",42.3283042907715,-83.0389862060547
+"4e3d7ea3483b04e17a968a96","Razor's Edge Barbershop","Shop & Service::Salon / Barbershop",42.40172576904297,-83.18319702148438
+"4e444e551fc752e910402758","Kid Rock Official @ Comerica Park","Professional & Other Places::Event Space",42.338657351077714,-83.04909825325012
+"4e456a2bd22d12b08bb341c7","Kid Rock's Badass Block Party","Arts & Entertainment::General Entertainment",42.34008482617163,-83.05039644241333
+"4e4704ab62845e1d3c9a7d87","2011 AAJA Scholarship and Awards Gala","Food::Asian Restaurant",42.329322814941406,-83.0403823852539
+"4e472396887781a619b563eb","Rosedale Park","Outdoors & Recreation::Other Great Outdoors",42.39873131264888,-83.22240639408852
+"4e47e7a3d22d12b08bd48f3c","Westminster Church of Detroit","Professional & Other Places::Spiritual Center::Church",42.421164078712394,-83.19080161415913
+"4e49bbaf18a83cda37d3fb60","7 And Wyo","Outdoors & Recreation::Scenic Lookout",42.431036654780414,-83.16100309925321
+"4e4b070c1838fe3c8182e3fa","Riverfront Towers","Residence::Residential Building (Apartment / Condo)",42.32422962821429,-83.05499152158538
+"4e4e06efbd4101d0d7a083a5","Wendy's","Food::Burger Joint",42.43500058611159,-82.95316207234403
+"4e4e4a21bd4101d0d7a6efe9","L. George Coney Island","Food::Hot Dog Joint",42.35740376900146,-83.23631556793036
+"4e4eb69ec65bb313ba7b9671","Exclusive Cuts","Shop & Service::Salon / Barbershop",42.406460738357715,-82.92828825833493
+"4e4ffd6318a8af30fd8d2a78","Greater Burnett Baptist Church","Professional & Other Places::Spiritual Center::Church",42.385307268564354,-83.21210854566965
+"4e507c4745ddff0031d046fa","Club L.A.X. Hangar","Nightlife Spot::Nightclub",42.54894256591797,-82.92503356933594
+"4e551f0162e1d1844326b7df","Wayne County Community College (Dowtown Campus)","College & University::College Classroom",42.32674532239467,-83.0558408819264
+"4e555c34c65bfef9a55cf5d9","Sunset Park","Outdoors & Recreation::Park",42.3337525969775,-83.0029919078512
+"4e5ac6263151520d8063bfc1","Autoweek Magazine","Professional & Other Places::Office::Coworking Space",42.344010215587,-83.0400592088699
+"4e5befa5d4c0ba8c11be5a9f","Xochi's Mexican Importz","Shop & Service::Gift Shop",42.32303237915039,-83.08551025390625
+"4e5e8e81b61cebc23b7207ab","Hell (The Worst of The Ghetto)","::Travel & Transport",42.367762807302775,-83.21654900684648
+"4e5f80f1a8090bf2678062f4","1 Ford Place (Henry Ford Corporate Offices)","Professional & Other Places::Building",42.36356423205354,-83.07611741164315
+"4e60244a7d8b854088a60c20","Detroit Jazz Festival JP Morgan Chase Main Stage","Arts & Entertainment::Music Venue::Jazz Club",42.33152770996094,-83.04568481445312
+"4e6111d31fc78fc232388b2a","2011 Detroit Jazz Festival","Arts & Entertainment::Music Venue::Jazz Club",42.32990264892578,-83.04539489746094
+"4e668ecc7d8b084ac6f7de0f","Wayne State University Manoogian Hall","College & University::College Academic Building::College History Building",42.35439493425826,-83.07245363132544
+"4e6e1fb07d8bbfa9af0e376b","The  Greening  Of Detroit","Outdoors & Recreation::Other Great Outdoors",42.33150429919036,-83.06697068267005
+"4e6ea0f41838fd8e0fe04d33","Onassis Coney Island","Food::Diner",42.33115,-83.067456
+"4e7266257d8bedfa3ae19ea2","Rouge Park","Outdoors & Recreation::Park",42.35732786272646,-83.2506922128937
+"4e73bda0a8095a7c4270cecb","AutoZone","Shop & Service::Automotive Shop",42.392470700677286,-83.14023970397113
+"4e7528032271ffa4e6d0c268","Hazel's Place","Nightlife Spot::Bar",42.3333309439639,-83.1108004925051
+"4e75f2a4c65bb91db4942d26","Ford Field","Arts & Entertainment::Stadium::Football Stadium",42.33983105519003,-83.04552555084229
+"4e7be315d22dd60d4280881f","Detroit Receiving Sleep Lab","Professional & Other Places::Medical Center::Hospital",42.36526719465288,-83.05656964532622
+"4e7d06cae5fae91b3a2f656c","DIFFA/Party By Design","::Nightlife Spot",42.35088925,-83.06551639
+"4e82059777c85791a5da36f3","TEDxDetroit 2011","Professional & Other Places::Event Space",42.348895,-83.059088
+"4e836c0d9adf5644e2633907","Comcast Cable","Shop & Service::Miscellaneous Shop",42.394814702718655,-83.17191091734848
+"4e889f55dab41f4aaf822b36","The Hudson Cafe","Food::Café",42.3333278244062,-83.0485725402832
+"4e8a17305c5c370ff48c808e","I-75 South","Outdoors & Recreation::Other Great Outdoors",42.317704726620455,-83.08491698695232
+"4e92006229c27df46890febf","Sunoco","Shop & Service::Gas Station / Garage",42.385777324151206,-83.13840701443348
+"4e9424af0039a1a24df68558","Quicken Loans Qube","Professional & Other Places::Building",42.330424945788224,-83.0466628074646
+"4e9829b09adf2081f817f567","Parking structure for QuickenLoans","Professional & Other Places::Parking",42.32972504343645,-83.04604111353017
+"4e989428cc218247d8f7c29a","Occupy Detroit","Outdoors & Recreation::Campground",42.336616512528174,-83.05108537139476
+"4e9b0ea4f5b9d59004c91d0b","Joe's Broken Down Piece Of Shit Work Van!","Nightlife Spot::Cocktail Bar",42.3935973503769,-83.1064575980266
+"4e9ef67030f8fb6776250dd8","Cass Community Social Services","Professional & Other Places::Building",42.3887344359929,-83.1047287420152
+"4ea6acbae300a8628ea33cf8","Russell woods","Arts & Entertainment::Historic Site",42.38791981450099,-83.12659802448815
+"4ea84087e5fa472d6484ac3b","NTouch Communications Group","Professional & Other Places::Building",42.43656446845989,-83.21794541415024
+"4ea959dc8b8178e108051b2b","Development Center","Professional & Other Places::Building",42.41450500488281,-83.2813491821289
+"4eb2fa5061af856bb397bfa3","Youmacon 2011","Travel & Transport::Hotel::Resort",42.3291678875,-83.0395807
+"4eba10889adfe14d04246bc8","96","Outdoors & Recreation::Other Great Outdoors",42.37872051097265,-83.21764207729177
+"4ec3eebb02d5ad633a7ac2e1","Lunchtime Global","Food::Deli / Bodega",42.330429072516736,-83.04542235257371
+"4ec717450e6158bafe1ffc62","In my G ride!","Travel & Transport::General Travel",42.3546683993944,-83.1091660473327
+"4eca9c147ee537da8229d7a6","Colors - Detroit","Food::American Restaurant",42.33624015503383,-83.04671754893668
+"4ece855ee3007feb7b4e15b5","Ford Field Club Level","Arts & Entertainment::Stadium::Football Stadium",42.33979516367019,-83.04562685895715
+"4eda23074901c8be1d343735","Detroit Urban Craft Fair","Shop & Service::Miscellaneous Shop",42.34135160310088,-83.06009796329224
+"4edac5f4b8f7fcd040cb3ff6","Seva","Food::Vegetarian / Vegan Restaurant",42.35485703251381,-83.06153097735921
+"4ee7b0010aafed860e60f791","Out And About","Outdoors & Recreation::Other Great Outdoors",42.3842518898178,-83.1717277397068
+"4ee8ba02be7b20852865ceb2","M-10 & Grand Blvd","Travel & Transport::General Travel",42.38045962725377,-83.09148838346988
+"4eec1654d3e3246bd9c0695a","Premier Underground Garage","Professional & Other Places::Parking",42.33375610663103,-83.0476713180542
+"4eee4b44754afe5c2c3a27ce","Mercury Burger & Bar","Food::Burger Joint",42.33113878082107,-83.07601690292358
+"4efb19f829c268318caaaef5","Marketplace @ Compuware","Shop & Service::Food & Drink Shop::Food Court",42.332087840171994,-83.04667559965631
+"4f02fc6b722e0f0774eebbff","Sunoco","Shop & Service::Gas Station / Garage",42.35745870767046,-83.23562540866145
+"4f0dd706e4b06654e34d4a2a","CCS Graphic Design Department","College & University::College Classroom",42.36750802849806,-83.07526831337569
+"4f13ac42e4b000502e5161bf","pallister Plaisance apts","Residence::Residential Building (Apartment / Condo)",42.37076977248506,-83.08239620480272
+"4f16c9f7e4b09e81ddf45033","Detroit City Residence Workout Room","Shop & Service::Gym / Fitness Center",42.334353186904536,-83.05117450760946
+"4f16ed587716a5fb22d1ea18","Irvin D. Reid Honors College - Wayne State University","College & University::College Library",42.356815590016,-83.0702635645866
+"4f1dcb0977166bf6d14a87b1","Midtown Woodward Historic District","Outdoors & Recreation::Other Great Outdoors",42.3452551868968,-83.0566728115082
+"4f1dd8aa77166bf6d14c051d","Old Redford","Outdoors & Recreation::Other Great Outdoors",42.418910385703775,-83.25831055641174
+"4f26b05fe4b067a328fc9325","Madison Theater Building","Professional & Other Places::Building",42.33612020471345,-83.04917153529868
+"4f32039019833175d609c592","Sargent Pepperoni's Pizza Center","Food::Pizza Place",42.35105,-83.0602915
+"4f327288e4b013bb0818ccc7","corner of I WON'T STOP & NEVER QUIT","Arts & Entertainment::Historic Site",42.43112820835521,-83.17573659545633
+"4f32a3ab19836c91c7eb5757","University Village Market","Nightlife Spot::Wine Bar",42.352482,-83.069776
+"4f57762cbe772bd016ff5532","Germack Coffee Roasting Company","Food::Coffee Shop",42.34611158596906,-83.04052591323853
+"4f60b27fe4b0f4b0a37b327e","Carat","Professional & Other Places::Office",42.329872053617,-83.045023825488
+"4f60ddf9e4b0c27827cc58fe","Detroit Cheese Co.","Shop & Service::Food & Drink Shop::Cheese Shop",42.344879857111145,-83.03866279688266
+"4f613526e4b071dd72f485f5","Home","Residence::Housing Development",42.356044004023914,-83.21886064607398
+"4f6892efe4b04b7d98d05f84","great lakes dialysis","Professional & Other Places::Medical Center::Doctor's Office",42.37955911920644,-82.94489109268325
+"4f6a53c1e4b0454e844de10e","Chene Park","Outdoors & Recreation::Park",42.335608576079146,-83.02216216308784
+"4f6bd7f2e4b0e20e133a65e2","Cribo!","Residence::Housing Development",42.353874786305084,-83.20830069974596
+"4f6f97f6e4b0a6b77374688e","southfield & warren","Travel & Transport::General Travel",42.3433608844138,-83.2160312302068
+"4f73243de4b06e8c1dd2d7d6","Chase Tower","Professional & Other Places::Building",42.3307218232899,-83.0463032986214
+"4f7878e7e4b0f52dba0e5a4b","Word Of Light Christian Center","Professional & Other Places::Building",42.35785240358873,-83.23133266203111
+"4f78dfc3e4b055c76208b998","I Need AA Tiki Patio","Nightlife Spot::Karaoke Bar",42.344588,-83.056739
+"4f79fcb1e4b040208e89851d","Grandriver","Food::Pizza Place",42.3599349665031,-83.1187154491448
+"4f7ba6e7e4b0f002b43f73b5","Henry Ford Hospital CVICU (P5)","Professional & Other Places::Medical Center::Hospital",42.36706384493876,-83.08638434151958
+"4f7e3c21e4b09e2ac2bc4c27","Harmonie Park","Outdoors & Recreation::Park",42.33582897833225,-83.04602013867775
+"4f7ee6bfe4b075c30609e194","QZine","Food::Café",42.330551742980106,-83.04635573551431
+"4f807dfae4b0a6d0b6257c52","The Carlton On John R","Residence::Residential Building (Apartment / Condo)",42.3450578018029,-83.05400058732289
+"4f8c3eabe4b0e67b87b0186a","Olga's Kitchen","Food::Mediterranean Restaurant",42.332711140950636,-83.0473625157561
+"4f98adcbe4b0d1730d407d9b","Red Bull House Of Art","Arts & Entertainment::Art Gallery",42.34698297122755,-83.03757197345239
+"4f9a8bbfe4b020e60e4988f0","Harbortown Cleaners","Shop & Service::Laundry Service",42.342349,-83.011864
+"4f9ba247e4b0de6267525aab","Rounds On Time Square","Nightlife Spot::Lounge",42.3341639094515,-83.05233326740981
+"4f9d7c6fe4b05e5ed89c664b","94 & harper","Travel & Transport::General Travel",42.405506712105215,-82.96046593408398
+"4fa22551e4b0489ba35c3590","Marcel's Snugglery","Shop & Service::Spa / Massage",42.438785552978516,-83.1560287475586
+"4fa3101ae4b01dcd6abed368","Christ Church","Professional & Other Places::Spiritual Center::Church",42.332527,-83.034562
+"4fa3ba1fe4b0862c73b1ef66","Windsor-Detroit Border","Travel & Transport::Embassy / Consulate",42.32404766005566,-83.0407190322876
+"4fa3c25be4b052ea28613f93","Hell","Professional & Other Places::Building",42.332624918792845,-83.03646539853219
+"4fa47b42e4b04193753bec7c","Lambert, Edwards & Associates","Professional & Other Places::Building",42.33548821477835,-83.04673327990992
+"4fa97db1e4b01db688dc24b1","faye ness salon","Shop & Service::Salon / Barbershop",42.42383392132631,-83.16072043477992
+"4faae480e4b0508b790b691a","Salt and Cedar Letterpress","Shop & Service::Miscellaneous Shop",42.3461664882557,-83.0381855638551
+"4fae5989e4b0859493487753","Grand River Southfield","Arts & Entertainment::Historic Site",42.4016813818973,-83.2183324280825
+"4fafcdf9e4b05b8b565e0949","Sami's Restaurant","Food::American Restaurant",42.4458060986962,-83.14154873643166
+"4fb1a2a1e4b06a317f32a710","BE NICE Yoga","Shop & Service::Gym / Fitness Center::Yoga Studio",42.350978313284585,-83.05971529393877
+"4fb5153de4b023886a6cbf49","The Brooklyn Street Local","Food::Diner",42.33176753824163,-83.06357899298891
+"4fb58247e4b07874c1770f37","Detroit Mercantile Company","Shop & Service::Antique Shop",42.35091024467187,-83.0434821321977
+"4fb6d47fe4b0cbce34e1894e","Vincente","Food::Cuban Restaurant",42.33374357912402,-83.04556393398377
+"4fc89e08e4b0adae39af0603","Home","Residence::Residential Building (Apartment / Condo)",42.40053176879883,-83.2734375
+"4fd658bae4b05b989e2c5737","Great Lakes Coffee","Food::Café",42.3502982579399,-83.06024551391602
+"4fd67911e4b07b066383d590","Yoga Shelter Midtown","Shop & Service::Gym / Fitness Center::Yoga Studio",42.35420427589116,-83.06424476350573
+"4fd6a368e4b0884f347e88e9","Motorcity Casino","Nightlife Spot::Lounge",42.3387123293365,-83.0675630309145
+"4feb4698011cb5f5fe0e7ba0","Somerset CityLoft/Downtown Detroit Days","Shop & Service::Miscellaneous Shop",42.333335755585004,-83.04832577705382
+"4feb9c53e4b04fce7c49e913","Johnson & Co.","Shop & Service::Salon / Barbershop",42.373985290527344,-82.94105529785156
+"500591afe4b07a07205bd87e","noni's sherwood grill","Food::American Restaurant",42.437169385294425,-83.14152255603966
+"5005db81e4b0d73a8e59e7df","National Auto Center","Shop & Service::Automotive Shop",42.41587317762237,-83.20309593366599
+"5006b160e4b0407dc53769be","Avalon On The Blvd.","Food::Café",42.36739801667343,-83.0832504515995
+"501b14e6e4b07b57a3a892d7","Chez | Zara Coffee","Food::Coffee Shop",42.3362656770171,-83.04913483104866
+"501fec02e4b082508158ffee","The Auburn","Residence::Residential Building (Apartment / Condo)",42.351392455786836,-83.06363582611084
+"50298b08e4b0f12a436e0d9c","U.S.A. Customs Border","Travel & Transport::Embassy / Consulate",42.320497173461355,-83.08024743669391
+"502ec4b5e4b05159d4d4bd6a","African World Festival","Arts & Entertainment::Art Gallery",42.3595672303582,-83.0611622417585
+"5036be79e4b0be420e5e6ef0","Detroit Cheesecake Bistro","Food::Restaurant",42.33430408587622,-83.04400127784817
+"50413e5ee4b0b5223d8e15ad","Alabama Style Chicken and Fish","Food::Wings Joint",42.388455,-82.942722
+"50445441e4b01446ac0efaf4","Tap Sports Bar","Nightlife Spot::Sports Bar",42.33341582311529,-83.05858812048882
+"504cabe8e4b0b0e067e284c1","LIONS Tailgate","Nightlife Spot::Sports Bar",42.33585543854478,-83.04882546584199
+"5059fa297ab4cdce054c11df","TAP at MGM Grand Detroit","Nightlife Spot::Sports Bar",42.33404162649399,-83.05906534194946
+"505c9016e4b033df3954e68f","Detroit's Cheesecake Bistro","Food::Southern / Soul Food Restaurant",42.33434523392165,-83.04377054695343
+"505cbd24e4b06d1d2aaed7a1","Santorini Estiatorio Detroit","Food::Greek Restaurant",42.335034,-83.042416
+"50607163e4b05df83edc70a0","Focus Hope Food Center","Professional & Other Places::Building",42.39993833204553,-83.12070582362196
+"506f33f1e4b0f4cc1d4edc8b","Emerald Gifts And Provisions","Shop & Service::Gift Shop",42.360449,-83.066447
+"5076e371e4b05aefca23e436","Steves Detroit Deli","Food::Deli / Bodega",42.335496859282955,-83.04684864026545
+"50802188e4b03990f72aea5f","Anthology Coffee At Ponyride","Food::Coffee Shop",42.3255726840796,-83.07050372497464
+"5088c0bae4b07bd0b6226d6e","Rosa Parks Transit Center","Travel & Transport::Bus Station",42.3318214,-83.0524607
+"50898375e4b06cb69fa4a675","New Center One - Project Helios Center","Professional & Other Places::Office::Conference Room",42.369720006667166,-83.07657864560498
+"50926263e4b0f29fd21fb6de","Moosejaw","Shop & Service::Sporting Goods Shop",42.33416237694784,-83.04834306295632
+"509557cbe4b0faafd361eb3d","The Detroit Shoppe","Shop & Service::Convenience Store",42.33325189348849,-83.04783443869233
+"509aaa34e4b0d11ca7985efa","Wolfgang Puck (Pizzeria & Cucina)","Food::Pizza Place",42.333248983265996,-83.05935879465817
+"509ac537e4b08f4d717f91cf","100 Renaissance Center","Professional & Other Places::Office",42.329708,-83.040522
+"509acafa16483b305210c578","LevelEleven HQ","Professional & Other Places::Office::Tech Startup",42.33625436148236,-83.04936647415161
+"50a58dc3e4b0d40bc2135c52","Hugh","Shop & Service::Furniture / Home Store",42.35110961325559,-83.06393546938013
+"50a59832e4b0573e09a6fd30","Somerset City Loft","Shop & Service::Clothing Store::Boutique",42.334188787200944,-83.04787114366775
+"50a79db1e4b00340962f3c02","AdCon 2012 @ CCS","College & University::College Lab",42.368160695572804,-83.07475465600615
+"50a972dae4b09f72f3a35541","Captain Jay's Fish & Chicken","Food::Fish & Chips Shop",42.405089,-83.124774
+"50ae0ec1e4b07ba2cd52e74c","30th Fifth Third Bank Turkey Trot","Outdoors & Recreation::Other Great Outdoors",42.32877085509918,-83.0484846380829
+"50ba8e4de4b0465629e5a7f7","Rodin","Food::French Restaurant",42.36016423485798,-83.06622106617378
+"50c12352e4b0276c8678747d","Buffalo Wild Wings Detroit","Nightlife Spot::Sports Bar",42.33416489336258,-83.04486651150044
+"50c1dd81e4b09fd0a7a8308a","2013 North American International Auto Show","Arts & Entertainment::General Entertainment",42.32787093632895,-83.04917335510254
+"50d4bccae4b014706e30f66c","Maccabees at Midtown","Food::American Restaurant",42.35762077931872,-83.06478995638578
+"51069d99e4b06cfb7c8593c1","Roasting Plant","Food::Coffee Shop",42.33142399791019,-83.04647109653166
