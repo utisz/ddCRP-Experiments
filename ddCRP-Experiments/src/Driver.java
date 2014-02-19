@@ -135,8 +135,10 @@ public class Driver {
 
 		System.out.println("Running a test");
 		for (TestSample sample : testSamples) {
+			long startTime  = System.currentTimeMillis(); 
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
 			System.out.println("  predicted probability of true observation: " + predictor.computeProbabilityForSample());
+			System.out.println("Prediction for this sample took "+(System.currentTimeMillis() - startTime)/(double)1000+" seconds");
 		}		
 	}
 
