@@ -91,6 +91,73 @@ public class Predictor {
     return probabilityForObservation.get(sample.getVenueCategory().intValue() - 1);   
   }
 
+
+  public double computeProbabilityForSampleMAP(SamplerState s) {
+    int observation = sample.getVenueCategory().intValue() - 1;
+
+    double probability = 0.0;
+
+    int listIndex = sample.getCityIndex();
+    int cityIndex = sample.getListIndex();
+
+    // Get the priors for the current sample
+    ArrayList<CRSMatrix> distanceMatrices = Data.getDistanceMatrices();
+    CRSMatrix distance_matrix = distanceMatrices.get(listIndex); // getting the correct distance matrix 
+    SparseVector sparsePriors = (SparseVector) distance_matrix.getRow(cityIndex);
+    
+    // Get the non-zero entries of the prior
+    GetNonZeroPriorProcedure proc = new GetNonZeroPriorProcedure();
+    sparsePriors.eachNonZero(proc);
+    HashMap<Integer, Double> nonZeroPrior = proc.nonZeroIndices;
+
+    // Set the prior for self linkage, and normalize the prior
+    nonZeroPrior.put(listIndex, likelihood.getHyperParameters().getSelfLinkProb()); 
+    double sum = 0;
+    for (Entry<Integer, Double> entry : nonZeroPrior.entrySet()) {
+      Integer priorIndex = entry.getKey();
+      Double priorValue = entry.getValue();
+      sum += priorValue;
+    }
+    for (Entry<Integer, Double> entry : nonZeroPrior.entrySet()) {
+      Integer priorIndex = entry.getKey();
+      Double priorValue = entry.getValue();
+      nonZeroPrior.put(priorIndex, priorValue / sum);
+    }
+
+    for (Entry<Integer, Double> entry : nonZeroPrior.entrySet()) {
+      Integer priorIndex = entry.getKey();
+      Double dDCRPPrior = entry.getValue();
+
+      // In the current sampler state, get the table and the topic of the linked-to table
+      int linkedToTable = s.get_t(priorIndex, listIndex);
+      CityTable ct = new CityTable(listIndex, linkedToTable);
+      Integer linkedToTopic = s.getTopicForCityTable(ct);
+
+      // get the emmission probability of the new data given the state
+      // we know the topic, we could just give an MLE plugin estimate for the mult distribution,
+      // or we can work ou the marginalized probability
+      Theta theta = samplerStateThetas.get(s);
+      double probObservation = theta.observationProbabilityInTopic(observation, linkedToTopic);
+
+      // get the CRP prior based on the linkedToTopic
+      Integer numTablesAtTopic = s.getM().get(linkedToTopic);
+      double cRPPrior = 0.0;
+      double cRPSelfLinkProb = likelihood.getHyperParameters().getSelfLinkProbCRP();
+      double cRPPriorNormConst = s.getT() + cRPSelfLinkProb; // the normalizing constant for the CRP prior is the total number of ddCRP tables plus the self link prob
+      if (numTablesAtTopic == 1)
+        cRPPrior = cRPSelfLinkProb;
+      else
+        cRPPrior = numTablesAtTopic;
+      cRPPrior = cRPPrior / cRPPriorNormConst; // normalize the prior
+
+      probability += dDCRPPrior * cRPPrior * probObservation;  
+    }
+
+    return probability;
+  }
+
+
+
   public void computeProbabilityOfAllOutcomes() {
     probabilityForObservation = new ArrayList<Double>();
     for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++)

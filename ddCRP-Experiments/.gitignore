@@ -1,0 +1,7 @@
+/Data/*
+/bin/*
+.DS_Store
+/tables/*
+/results/*
+log.txt
+output.txt
