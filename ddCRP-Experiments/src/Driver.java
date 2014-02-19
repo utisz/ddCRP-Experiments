@@ -137,6 +137,7 @@ public class Driver {
 		for (TestSample sample : testSamples) {
 			long startTime  = System.currentTimeMillis(); 
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
+			System.out.println("  predicted probability of true observation (MAP): " + predictor.computeProbabilityForSampleMAP(sMAP));
 			System.out.println("  predicted probability of true observation: " + predictor.computeProbabilityForSample());
 			System.out.println("Prediction for this sample took "+(System.currentTimeMillis() - startTime)/(double)1000+" seconds");
 		}		
