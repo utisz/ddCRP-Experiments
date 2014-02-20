@@ -137,7 +137,7 @@ public class Driver {
     }
 
 		System.out.println("Running a test");
-		System.out.println("ddCRF, ddCRP-MAP, Mult-All, Mult-Each");
+		System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each");
 		for (TestSample sample : testSamples) {
 			long startTime  = System.currentTimeMillis(); 
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
