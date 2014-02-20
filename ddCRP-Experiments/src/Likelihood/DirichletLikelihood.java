@@ -29,13 +29,13 @@ public class DirichletLikelihood extends Likelihood {
 	}
 
 	@Override
-	public double computeTableLogLikelihoodFromCustomers(ArrayList<Integer> table_members,
+	public Double computeTableLogLikelihoodFromCustomers(ArrayList<Integer> table_members,
 			int list_index) {
 		
     // THIS IS NOT USED ANYMORE. WE SHOULD UPDATE THE INTERFACE.
 
     if (table_members.size() == 0)
-      return Double.NEGATIVE_INFINITY;
+      return null;
 
 		//get the observations
 		ArrayList<ArrayList<Double>> list_observations = Data.getObservations();
@@ -83,9 +83,9 @@ public class DirichletLikelihood extends Likelihood {
 	 * @return
 	 */
 	@Override
-	public double computeTableLogLikelihood(ArrayList<Double> observations) {
+	public Double computeTableLogLikelihood(ArrayList<Double> observations) {
     if (observations.size() == 0)
-      return Double.NEGATIVE_INFINITY;
+      return null;
 
 		// Counts for each observation
 		HashMap<Double,Integer> observationCounts = new HashMap<Double,Integer>(); 
@@ -148,11 +148,11 @@ public class DirichletLikelihood extends Likelihood {
    * @param listIndex
    * @param cond_table_members
    */
-  public double computeConditionalLogLikelihood(ArrayList<Double> observations, ArrayList<Double> condObservations) {
+  public Double computeConditionalLogLikelihood(ArrayList<Double> observations, ArrayList<Double> condObservations) {
 		ArrayList<Double> dirichletParam =  hyperParameters.getDirichletParam();
 
     if (observations.size() == 0)
-      return Double.NEGATIVE_INFINITY;
+      return null;
 
 		// Count observations for condTableMembers 
   	HashMap<Double, Integer> condObservationCounts = new HashMap<Double, Integer>();
@@ -192,11 +192,13 @@ public class DirichletLikelihood extends Likelihood {
    * @return
    */
   @Override
-  public double computeFullLogLikelihood(SamplerState s) {
+  public Double computeFullLogLikelihood(SamplerState s) {
     double ll = 0;
     HashSet<Integer> topics = s.getAllTopics();
     for (Integer topic : topics) {
-      ll += computeTableLogLikelihood(s.getAllObservationsForTopic(topic));  
+      ArrayList<Double> obs = s.getAllObservationsForTopic(topic);
+      if (obs.size() > 0)
+        ll += computeTableLogLikelihood(obs);  
     }
     return ll;
   }

@@ -17,6 +17,7 @@ import data.Data;
 import test.TestUniform;
 import test.Predictor;
 import test.TestSample;
+import test.Baselines;
 
 public class Driver {
 	
@@ -73,8 +74,6 @@ public class Driver {
 		ArrayList<ArrayList<Double>> list_observations = Data.getObservations();	
 		SamplerStateTracker.initializeSamplerState(list_observations);
 		Likelihood l = new DirichletLikelihood(h);
-		// TODO FIX THIS!!!!!!!
-		// l.setTestSamples(new HashSet<TestSample>(testSamples));		
 
 		SamplerStateTracker.max_iter = numIter;
 		System.out.println("Gibbs Sampler will run for "+SamplerStateTracker.max_iter+" iterations.");
@@ -124,6 +123,10 @@ public class Driver {
 	  // store the values of the SamplerState theta for future use
 	  HashMap<SamplerState, Theta> samplerStateThetas = new HashMap<SamplerState, Theta>();
 
+		Baselines baselines = new Baselines(testSamples);
+		baselines.fitMultinomialAcrossAllCities();
+		baselines.fitMultinomialForEachCity();
+	
     ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
     for (SamplerState s : states) {
       double logPosteriorDensity = s.getLogPosteriorDensity(l);
@@ -139,6 +142,8 @@ public class Driver {
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
 			System.out.println("  predicted probability of true observation (MAP): " + predictor.computeProbabilityForSampleMAP(sMAP));
 			System.out.println("  predicted probability of true observation: " + predictor.computeProbabilityForSample());
+			System.out.println("  predicted probability of mult baseline (across all cities): " + baselines.predictMultProbAcrossAllCities(sample));
+			System.out.println("  predicted probability of mult baseline (for each city): " + baselines.predictMultProbForEachCity(sample));
 			System.out.println("Prediction for this sample took "+(System.currentTimeMillis() - startTime)/(double)1000+" seconds");
 		}		
 	}

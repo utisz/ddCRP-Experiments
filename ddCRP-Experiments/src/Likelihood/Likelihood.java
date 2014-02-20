@@ -27,7 +27,7 @@ abstract public class Likelihood {
 	 * @param list_index index of the list, the observation at the tables belong to.
 	 * @return
 	 */
-	abstract public double computeTableLogLikelihoodFromCustomers(ArrayList<Integer> table_members,int list_index);
+	abstract public Double computeTableLogLikelihoodFromCustomers(ArrayList<Integer> table_members,int list_index);
 
 
   /**
@@ -35,7 +35,7 @@ abstract public class Likelihood {
    * @param observations list observation data
    * @return
    */
-  abstract public double computeTableLogLikelihood(ArrayList<Double> observations);
+  abstract public Double computeTableLogLikelihood(ArrayList<Double> observations);
 
   /**
    * Method for computing conditional log likelihood
@@ -43,14 +43,14 @@ abstract public class Likelihood {
    * @param condObservations
    * @return
    */
-  abstract public double computeConditionalLogLikelihood(ArrayList<Double> observations, ArrayList<Double> condObservations);
+  abstract public Double computeConditionalLogLikelihood(ArrayList<Double> observations, ArrayList<Double> condObservations);
 
   /**
    * Method for computing the full log likelihood of a sampler state
    * @param SamplerState s
    * @return the log likelihood
    */
-  abstract public double computeFullLogLikelihood(SamplerState s);
+  abstract public Double computeFullLogLikelihood(SamplerState s);
 
 
 }

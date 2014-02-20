@@ -53,8 +53,11 @@ public class CRPGibbsSampler {
 			int topicId = mapEntry.getKey();
 			int numTables = mapEntry.getValue(); //this is the prior for CRP
 			ArrayList<Double> allObservationFromTopic = currentState.getAllObservationsForTopic(topicId);
-			double logConditionalLikelihood = l.computeConditionalLogLikelihood(observationsAtTable, allObservationFromTopic);
-			posterior.add(logConditionalLikelihood);
+			Double logConditionalLikelihood = l.computeConditionalLogLikelihood(observationsAtTable, allObservationFromTopic);
+			if (logConditionalLikelihood != null)
+				posterior.add(logConditionalLikelihood);
+			else
+				posterior.add(Double.NEGATIVE_INFINITY);
 			prior.add(new Double(numTables));
 			indexes.add(topicId); //to keep track of which topic_id got selected.
 		}
@@ -62,8 +65,11 @@ public class CRPGibbsSampler {
 		if (allowSelfLink) {
 			//now for self-linkage
 			double beta = l.getHyperParameters().getSelfLinkProbCRP();
-			double logConditionalLikelihood = l.computeConditionalLogLikelihood(observationsAtTable, new ArrayList<Double>()); //this is marginal likelihood, instead of conditional	
-			posterior.add(logConditionalLikelihood);
+			Double logConditionalLikelihood = l.computeConditionalLogLikelihood(observationsAtTable, new ArrayList<Double>()); //this is marginal likelihood, instead of conditional	
+			if (logConditionalLikelihood != null)
+				posterior.add(logConditionalLikelihood);
+			else
+				posterior.add(Double.NEGATIVE_INFINITY);				
 			indexes.add(maxTopicId+1); //incrementing maxTopicId to account for the new topic
 			prior.add(new Double(beta));
 		}
@@ -78,7 +84,11 @@ public class CRPGibbsSampler {
 		// add the prior vector to the posterior (which currently contains only the likeliehood)
 		// also find the maxLogPosterior 
 		for (int i=0; i<prior.size(); i++) {
-			double logPosteriorProb = posterior.get(i) + prior.get(i);
+			double logPosteriorProb = 0.0;
+			if (observationsAtTable.size() == 0)
+			  logPosteriorProb = prior.get(i);   // degenerate case, if there are no observations (only hapens from testing)
+			else
+			  logPosteriorProb = posterior.get(i) + prior.get(i);
 			posterior.set(i, logPosteriorProb);
 			if (logPosteriorProb > maxLogPosterior)
 				maxLogPosterior = logPosteriorProb;

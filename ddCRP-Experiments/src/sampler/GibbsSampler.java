@@ -284,12 +284,12 @@ public class GibbsSampler {
 		// Compute components of the change in likelihood that don't varry across the posterior for a proposed link
 		CityTable currentCT = new CityTable(list_index, table_id);
 		Integer currentTopic = s.getTopicForCityTable(currentCT);
-		double currentTopicLogLik = ll.computeTableLogLikelihood(s.getAllObservationsForTopic(currentTopic));  // pull this out of method
-		double currentTopicMinusTableLogLik = ll.computeTableLogLikelihood(s.getAllObservationsForTopicMinusTable(currentTopic, table_id, list_index));  // pull this out of method		
+		Double currentTopicLogLik = ll.computeTableLogLikelihood(s.getAllObservationsForTopic(currentTopic));  // pull this out of method
+		Double currentTopicMinusTableLogLik = ll.computeTableLogLikelihood(s.getAllObservationsForTopicMinusTable(currentTopic, table_id, list_index));  // pull this out of method		
 
 		ArrayList<Double> posterior = new ArrayList<Double>(); //this will hold the posterior probabilities for all possible customer assignment and we will sample according to these probabilities
 		ArrayList<Integer> indexes = new ArrayList<Integer>(); // for storing the indexes of the customers who could be possible assignments
-		Double maxLogPosterior = new Double(-1000000000.0);
+		Double maxLogPosterior = Double.NEGATIVE_INFINITY;
 		for(int i=0;i<priors.length();i++)
 		{
 			if(priors.get(i)!=0)
@@ -316,8 +316,12 @@ public class GibbsSampler {
 						System.out.println(s.getObservationAtTable(currentCT.getTableId(),currentCT.getCityId()));
 					}
 
-					double changeInLogLik = computeCachedTopicChangeInLikelihood(s, ll, table_id, list_index, currentTopic, proposedTopic, currentTopicLogLik, currentTopicMinusTableLogLik);
-					double logPosterior = Math.log(priors.get(i)) + changeInLogLik;
+					double logPosterior = Double.NEGATIVE_INFINITY;
+					if (currentTopicLogLik != null && currentTopicMinusTableLogLik != null) {
+						Double changeInLogLik = computeCachedTopicChangeInLikelihood(s, ll, table_id, list_index, currentTopic, proposedTopic, currentTopicLogLik, currentTopicMinusTableLogLik);
+						if (changeInLogLik != null)
+							logPosterior = Math.log(priors.get(i)) + changeInLogLik;
+					}
 
 					if (logPosterior > maxLogPosterior)
 						maxLogPosterior = logPosterior;
@@ -328,8 +332,14 @@ public class GibbsSampler {
 			}
 		}
 		// Subtract the maxLogPosterior from each term of posterior (avoid overflows), then exponentiate
-		for (int i=0; i<posterior.size(); i++)
-			posterior.set(i, Math.exp(posterior.get(i) - maxLogPosterior));
+		for (int i=0; i<posterior.size(); i++) {
+			double post = posterior.get(i);
+			if (post != Double.NEGATIVE_INFINITY)
+				posterior.set(i, Math.exp(post - maxLogPosterior));
+			else 
+				posterior.set(i, 0.0);
+
+		}
 
 		//the posterior probabilities are computed for each possible customer assignment, Now lets sample from it.
 		int sample = Util.sample(posterior);		
@@ -432,7 +442,7 @@ public class GibbsSampler {
 	 * @param proposedTopicId - this is the proposed topic of the joined table
 	 * @return the log likelihood 
 	 */
-	private static double computeCachedTopicChangeInLikelihood(SamplerState s,
+	private static Double computeCachedTopicChangeInLikelihood(SamplerState s,
 																				 		 				       	 Likelihood l, 
 																									     			 Integer tableId,
 																									     			 Integer listIndex,
@@ -442,8 +452,10 @@ public class GibbsSampler {
 																									     			 Double currentTopicMinusTableLogLik
 																									    			) 
 	{
-		double proposedTopicLogLik = l.computeTableLogLikelihood(s.getAllObservationsForTopic(proposedTopicId));
-		double proposedTopicPlusTableLogLik = l.computeTableLogLikelihood(s.getAllObservationsForTopicPlusTable(proposedTopicId, tableId, listIndex));
+		Double proposedTopicLogLik = l.computeTableLogLikelihood(s.getAllObservationsForTopic(proposedTopicId));
+		Double proposedTopicPlusTableLogLik = l.computeTableLogLikelihood(s.getAllObservationsForTopicPlusTable(proposedTopicId, tableId, listIndex));
+		if (proposedTopicLogLik == null || proposedTopicPlusTableLogLik == null)
+			return null;
 		return proposedTopicPlusTableLogLik + currentTopicMinusTableLogLik - currentTopicLogLik - proposedTopicLogLik;
 	}
 

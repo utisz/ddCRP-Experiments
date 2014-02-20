@@ -42,7 +42,7 @@ public class TestUniform extends Test {
       for(int count=0; count<numSamples; count++)
       {
         int venueIndex = r.nextInt(allObservations.get(i).size()); //venue index to be removed as test data     
-        TestSample t = new TestSample(venueIndex, i, allObservations.get(i).get(venueIndex)); //1st arg: venue_index within a city; 2nd arg: city index, 3rd arg: venue category
+        TestSample t = new TestSample(i, venueIndex, allObservations.get(i).get(venueIndex)); //1st arg: venue_index within a city; 2nd arg: city index, 3rd arg: venue category
         cityTestSamples.add(t);
         testSamplesSet.add(t);        
         //Now add to the map of test venues
@@ -66,9 +66,9 @@ public class TestUniform extends Test {
       ArrayList<TestSample> citySamples = testSamples.get(i);
       for (int j=0; j<citySamples.size(); j++) { 
         TestSample s = citySamples.get(j);
-        out += Integer.toString(s.getCityIndex()) + ":";
         out += Integer.toString(s.getListIndex()) + ":";
-        out += Double.toString(s.getVenueCategory()) + " ";
+        out += Integer.toString(s.getObsIndex()) + ":";
+        out += Double.toString(s.getObsCategory()) + " ";
       }
     }
     return out;
