@@ -141,11 +141,11 @@ public class Driver {
 		for (TestSample sample : testSamples) {
 			long startTime  = System.currentTimeMillis(); 
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
-			double ddCRF = predictor.computeProbabilityForSample();
+			// double ddCRF = predictor.computeProbabilityForSample();
 			double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP);
 			double multAll = baselines.predictMultProbAcrossAllCities(sample);
 			double multEach =  baselines.predictMultProbForEachCity(sample);
-			System.out.println(ddCRF + "," + ddCRFMap + "," + multAll + "," + multEach);
+			System.out.println("-1 ," + ddCRFMap + "," + multAll + "," + multEach);
 		}		
 	}
 
