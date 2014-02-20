@@ -137,14 +137,15 @@ public class Driver {
     }
 
 		System.out.println("Running a test");
+		System.out.println("ddCRF, ddCRP-MAP, Mult-All, Mult-Each");
 		for (TestSample sample : testSamples) {
 			long startTime  = System.currentTimeMillis(); 
 			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
-			System.out.println("  predicted probability of true observation (MAP): " + predictor.computeProbabilityForSampleMAP(sMAP));
-			System.out.println("  predicted probability of true observation: " + predictor.computeProbabilityForSample());
-			System.out.println("  predicted probability of mult baseline (across all cities): " + baselines.predictMultProbAcrossAllCities(sample));
-			System.out.println("  predicted probability of mult baseline (for each city): " + baselines.predictMultProbForEachCity(sample));
-			System.out.println("Prediction for this sample took "+(System.currentTimeMillis() - startTime)/(double)1000+" seconds");
+			double ddCRF = predictor.computeProbabilityForSample();
+			double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP);
+			double multAll = baselines.predictMultProbAcrossAllCities(sample);
+			double multEach =  baselines.predictMultProbForEachCity(sample);
+			System.out.println(ddCRF + "," + ddCRFMap + "," + multAll + "," + multEach);
 		}		
 	}
 
