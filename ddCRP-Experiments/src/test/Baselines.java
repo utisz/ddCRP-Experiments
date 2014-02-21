@@ -30,7 +30,10 @@ public class Baselines {
     int obsIndex = s.getObsIndex();
     ArrayList<ArrayList<Double>> list_observations = Data.getObservations();
     double obs = list_observations.get(listIndex).get(obsIndex) - 1;
-    return multinomailAcrossAllCities.get(obs);
+    Double prob = multinomailAcrossAllCities.get(obs);
+    if (prob == null)
+    	prob = 0.0;
+    return prob;
 	}
 
 	public double predictMultProbForEachCity(TestSample s) {
@@ -38,7 +41,10 @@ public class Baselines {
     int obsIndex = s.getObsIndex();
     ArrayList<ArrayList<Double>> list_observations = Data.getObservations();
     double obs = list_observations.get(listIndex).get(obsIndex) - 1;
-    return multinomialForEachCity.get(listIndex).get(obs);
+    Double prob = multinomialForEachCity.get(listIndex).get(obs);
+    if (prob == null)
+    	prob = 0.0;
+    return prob;
 	}
 
 	/**
