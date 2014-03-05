@@ -42,7 +42,7 @@ public class Predictor {
 
     @Override
     public void run() { 
-      probabilityForObservation.set(this.index, computeLogProbabilityForSampleAtValue(this.index));
+      probabilityForObservation.set(this.index, computeLogProbabilityForSampleAtValue(sample, this.index));
     }
   }
 
@@ -69,16 +69,21 @@ public class Predictor {
 
   ArrayList<Double> probabilityForObservation;
 
-  // store the values of the SamplerState densities for future use
-  HashMap<SamplerState, Double> samplerStatePosteriorDensities;
+  HashMap<TestSample, Double> probabilityForLocation = new HashMap<TestSample, Double>();
 
-  // store the values of the SamplerState theta for future use
-  HashMap<SamplerState, Theta> samplerStateThetas;
+  ArrayList<TestSample> inCitySamples;
 
-  public Predictor(Posterior posterior, Likelihood likelihood, TestSample sample, HashMap<SamplerState, Double> samplerStatePosteriorDensities, HashMap<SamplerState, Theta> samplerStateThetas) {
+  // store the values of the SamplerState densities for future use, key is index into SamplerState
+  HashMap<Integer, Double> samplerStatePosteriorDensities;
+
+  // store the values of the SamplerState theta for future use, key is index into SamplerState
+  HashMap<Integer, Theta> samplerStateThetas;
+
+  public Predictor(Posterior posterior, Likelihood likelihood, TestSample sample, ArrayList<TestSample> inCitySamples, HashMap<Integer, Double> samplerStatePosteriorDensities, HashMap<Integer, Theta> samplerStateThetas) {
     this.test = test;
     this.posterior = posterior;
     this.sample = sample;
+    this.inCitySamples = inCitySamples;
     this.likelihood = likelihood;
     this.samplerStatePosteriorDensities = samplerStatePosteriorDensities;
     this.samplerStateThetas = samplerStateThetas;
@@ -86,13 +91,18 @@ public class Predictor {
 
   public Predictor() {}
 
+  public double computeLocationProbabilityForSample() {
+    computeProbabilityForAllLocations();
+    return probabilityForLocation.get(sample);   
+
+  }
+
   public double computeProbabilityForSample() {
     computeProbabilityOfAllOutcomes();
     return probabilityForObservation.get(sample.getObsCategory().intValue() - 1);   
   }
 
-
-  public double computeProbabilityForSampleMAP(SamplerState s) {
+  public double computeProbabilityForSampleMAP(SamplerState s, Theta theta) {
     int observation = sample.getObsCategory().intValue() - 1;
 
     double probability = 0.0;
@@ -130,11 +140,6 @@ public class Predictor {
 
       // In the current sampler state, get the table and the topic of the linked-to table
       int linkedToTable = s.get_t(priorIndex, listIndex);
-
-      // get the emmission probability of the new data given the state
-      // we know the topic, we could just give an MLE plugin estimate for the mult distribution,
-      // or we can work ou the marginalized probability
-      Theta theta = samplerStateThetas.get(s);
 
       // If the linkedToTable a self link? If so, we need to sample a new topic
       if (priorIndex == obsIndex) {
@@ -209,11 +214,43 @@ public class Predictor {
       probabilityForObservation.set(i, probabilityForObservation.get(i) / normConst);    
   }
  
-  public Double computeLogProbabilityForSampleAtValue(Integer observation) {
+  public void computeProbabilityForAllLocations() {
+    Integer trueObservation = sample.getObsCategory().intValue() - 1;
+    for (TestSample s : inCitySamples) {
+      double prob = computeLogProbabilityForSampleAtValue(s, trueObservation);
+      probabilityForLocation.put(s, prob);
+    }
+
+    // Handle underflow problems
+    Double maxLogProb = Double.NEGATIVE_INFINITY;
+    for (Double logProb : probabilityForLocation.values()) {
+      if (logProb > maxLogProb)
+        maxLogProb = logProb;
+    }
+
+    // scale by maxLogProb then exponentiate
+    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
+      TestSample key = entry.getKey();
+      Double value = entry.getValue();
+      probabilityForLocation.put(key, Math.exp(value - maxLogProb));
+    }
+
+    // Normalize
+    double sum = 0;
+    for (Double value : probabilityForLocation.values()) 
+      sum += value;
+    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
+      TestSample key = entry.getKey();
+      Double value = entry.getValue();
+      probabilityForLocation.put(key, value / sum);
+    }
+  }
+
+  public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation) {
     double probability = 0.0;
 
-    int listIndex = sample.getListIndex();
-    int obsIndex = sample.getObsIndex();
+    int listIndex = mySample.getListIndex();
+    int obsIndex = mySample.getObsIndex();
 
     // Get the priors for the current sample
     ArrayList<CRSMatrix> distanceMatrices = Data.getDistanceMatrices();
@@ -227,7 +264,7 @@ public class Predictor {
 
     // Set the prior for self linkage, and normalize the prior
     nonZeroPrior.put(obsIndex, likelihood.getHyperParameters().getSelfLinkProb()); 
-    double sum = 0;
+    double sum = 0.0;
     for (Entry<Integer, Double> entry : nonZeroPrior.entrySet()) {
       Integer priorIndex = entry.getKey();
       Double priorValue = entry.getValue();
@@ -263,9 +300,9 @@ public class Predictor {
         // get the emmission probability of the new data given the state
         // we know the topic, we could just give an MLE plugin estimate for the mult distribution,
         // or we can work ou the marginalized probability
-        Theta theta = samplerStateThetas.get(s);
+        Theta theta = samplerStateThetas.get(index);
 
-        double logPosteriorDensity = samplerStatePosteriorDensities.get(s);
+        double logPosteriorDensity = samplerStatePosteriorDensities.get(index);
 
         // If the linkedToTable a self link? If so, we need to sample a new topic
         if (priorIndex == obsIndex) {

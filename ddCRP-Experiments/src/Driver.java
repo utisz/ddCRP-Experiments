@@ -15,6 +15,8 @@ import Likelihood.DirichletLikelihood;
 import Likelihood.Likelihood;
 import data.Data;
 import test.TestUniform;
+import test.TestUniformSpace;
+import test.TestUniformCategory;
 import test.Predictor;
 import test.TestSample;
 import test.Baselines;
@@ -46,7 +48,7 @@ public class Driver {
 			HyperParameters h = new HyperParameters(vocab_size, dirichlet, alpha,crp_alpha);
 	
 			// generate some test samples
-			TestUniform test = new TestUniform(10);
+			TestUniformCategory test = new TestUniformCategory(10);
 			test.generateTestSamples();
 			HashSet<TestSample> testSamples = test.getTestSamplesSet();
 
@@ -118,35 +120,54 @@ public class Driver {
 
 		// Run a test
 	  // store the values of the SamplerState densities for future use
-	  HashMap<SamplerState, Double> samplerStatePosteriorDensities = new HashMap<SamplerState, Double>();
+	  HashMap<Integer, Double> samplerStatePosteriorDensities = new HashMap<Integer, Double>();
 
 	  // store the values of the SamplerState theta for future use
-	  HashMap<SamplerState, Theta> samplerStateThetas = new HashMap<SamplerState, Theta>();
+	  HashMap<Integer, Theta> samplerStateThetas = new HashMap<Integer, Theta>();
 
 		Baselines baselines = new Baselines(testSamples);
 		baselines.fitMultinomialAcrossAllCities();
 		baselines.fitMultinomialForEachCity();
 	
     ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
-    for (SamplerState s : states) {
+    for (Integer i=0; i<states.size(); i++) {
+    	SamplerState s = states.get(i);
       double logPosteriorDensity = s.getLogPosteriorDensity(l);
-      samplerStatePosteriorDensities.put(s, logPosteriorDensity);
+      samplerStatePosteriorDensities.put(i, logPosteriorDensity);
       Theta theta = new Theta(s, l.getHyperParameters());
       theta.estimateThetas();
-      samplerStateThetas.put(s, theta);
+      samplerStateThetas.put(i, theta);
     }
+    Theta thetaMAP = new Theta(sMAP, l.getHyperParameters());
+		thetaMAP.estimateThetas();
 
 		System.out.println("Running a test");
-		System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each");
+		System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each, ddCRF-Location");
+
+		// Gather the test samples by city, for the location prediciton task
+		HashMap<Integer, ArrayList<TestSample>> testSamplesByCity = new HashMap<Integer, ArrayList<TestSample>>();
 		for (TestSample sample : testSamples) {
+			Integer listIndex = sample.getListIndex();
+			if (testSamplesByCity.get(listIndex) == null)
+				testSamplesByCity.put(listIndex, new ArrayList<TestSample>());
+			ArrayList<TestSample> citySamples = testSamplesByCity.get(listIndex);
+			citySamples.add(sample);
+			testSamplesByCity.put(listIndex, citySamples);
+		}
+
+		for (TestSample sample : testSamples) {
+			ArrayList<TestSample> inCitySamples = testSamplesByCity.get(sample.getListIndex());
 			long startTime  = System.currentTimeMillis(); 
-			Predictor predictor = new Predictor(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);
-			// double ddCRF = predictor.computeProbabilityForSample();
-			double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP);
+			Predictor predictor = new Predictor(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
+			double ddCRF = predictor.computeProbabilityForSample();
+			double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP, thetaMAP);
 			double multAll = baselines.predictMultProbAcrossAllCities(sample);
 			double multEach =  baselines.predictMultProbForEachCity(sample);
-			System.out.println("-1 ," + ddCRFMap + "," + multAll + "," + multEach);
+			double ddCRFLocation = predictor.computeLocationProbabilityForSample();
+			System.out.println(ddCRF + "," + ddCRFMap + "," + multAll + "," + multEach + "," + ddCRFLocation);
 		}		
+
+
 	}
 
 }

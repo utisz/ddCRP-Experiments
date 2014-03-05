@@ -122,12 +122,32 @@ public class Util {
 		} 
 	}
 
+	/**
+	 * Utility method for generating an array of venue categories.
+	 */
+	public static ArrayList<String> getVenueCategories() {
+		//read the venueCategories file
+		ArrayList<String> venueCategories = new ArrayList<String>();
+		try
+		{
+			BufferedReader reader = new BufferedReader(new FileReader(venueCategoriesFile));
+			String line;
+			while((line = reader.readLine())!=null)
+			 {
+				venueCategories.add(line);
+			 }
+		}catch(FileNotFoundException ex){
+			ex.printStackTrace();
+		}catch(IOException ex){
+			ex.printStackTrace();
+		}
+		return venueCategories;
+	}
 
 	/**
-	 * Utility method for generating the csv file for cities.
+	 * Utility method for generating an array of venues.
 	 */
-	public static void outputCSVforMap(SamplerState s)
-	{
+	public static ArrayList<ArrayList<Venue>> getVenues() {
 		//read the list of city names
 		ArrayList<String> cityNames = new ArrayList<String>();
 		try
@@ -151,52 +171,54 @@ public class Util {
 		}
 		
 		//read the venueCategories file
-		ArrayList<String> venueCategories = new ArrayList<String>();
-		try
-		{
-			BufferedReader reader = new BufferedReader(new FileReader(venueCategoriesFile));
-			String line;
-			while((line = reader.readLine())!=null)
-			 {
-				venueCategories.add(line);
-			 }
-		}catch(FileNotFoundException ex){
-			ex.printStackTrace();
-		}catch(IOException ex){
-			ex.printStackTrace();
-		}
-		
+		ArrayList<String> venueCategories = getVenueCategories();
+
 		//read the city_venue files for all cities
-		ArrayList<ArrayList<Venue>> allVenues = new ArrayList<ArrayList<Venue>>(); 
-		try
-		{
-			for(int i=1;i<=87;i++)
-			{
-				allVenues.add(new ArrayList<Venue>()); //a new city
-				BufferedReader reader = new BufferedReader(new FileReader("Data/cities_sim/city_"+i+"_venue_ids.txt"));
-				String line;
-				while((line = reader.readLine())!=null)
-				 {
-					String [] splits = line.split(",");
-					Venue v = new Venue();
-					v.setVenueName(splits[1]);
-					v.setCityId(i-1);
-					v.setCityName(cityNames.get(i-1)); //i-1 because city index starts from 0
-					v.setLat(Double.parseDouble(splits[splits.length-2]));
-					v.setLon(Double.parseDouble(splits[splits.length-1]));
-					//will put the category name later, because if the venue_name has ',', then the indices might be different and I can get the 
-					//venue_cats later by mapping from the observations 
-					allVenues.get(allVenues.size() -1).add(v);
-				 }
-			}
-		}catch(FileNotFoundException ex){
-			ex.printStackTrace();
-		}catch(IOException ex){
-			ex.printStackTrace();
-		}
-		
+    ArrayList<ArrayList<Venue>> allVenues = new ArrayList<ArrayList<Venue>>(); 
+    try
+    {
+      for(int i=1;i<=87;i++)
+      {
+        allVenues.add(new ArrayList<Venue>()); //a new city
+        BufferedReader reader = new BufferedReader(new FileReader("Data/cities_sim/city_"+i+"_venue_ids.txt"));
+        String line;
+        int j=0;
+        while((line = reader.readLine())!=null)
+        {
+          String [] splits = line.split(",");
+          Venue v = new Venue();
+          v.setVenueName(splits[1]);
+          v.setCityId(i-1);
+          v.setObsId(j);
+          v.setCityName(cityNames.get(i-1)); //i-1 because city index starts from 0
+          v.setLat(Double.parseDouble(splits[splits.length-2]));
+          v.setLon(Double.parseDouble(splits[splits.length-1]));
+          //will put the category name later, because if the venue_name has ',', then the indices might be different and I can get the 
+          //venue_cats later by mapping from the observations 
+          allVenues.get(allVenues.size() -1).add(v);
+          j++;
+        }
+      }
+    }catch(FileNotFoundException ex){
+      ex.printStackTrace();
+    }catch(IOException ex){
+      ex.printStackTrace();
+    }
+
+    return allVenues;
+	}
+
+	/**
+	 * Utility method for generating the csv file for cities.
+	 */
+	public static void outputCSVforMap(SamplerState s)
+	{		
+		//read the city_venue files for all cities
+		ArrayList<ArrayList<Venue>> allVenues = getVenues();
 		ArrayList<ArrayList<Double>> allObservations = Data.getObservations(); // all observations
 		
+		ArrayList<String> venueCategories = getVenueCategories();
+
 		HashSet<Integer> allTopicIds = s.getAllTopics();
 		Iterator<Integer> iter = allTopicIds.iterator();
 		PrintStream p = null;

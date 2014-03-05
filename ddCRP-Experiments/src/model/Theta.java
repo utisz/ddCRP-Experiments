@@ -265,6 +265,9 @@ public class Theta {
   }
 
   public double observationProbabilityInTopic(Integer observation, Integer topic) {
-    return topicToThetaMap.get(topic).get(observation);
+    if (topicToThetaMap.get(topic).get(observation) != null)
+      return topicToThetaMap.get(topic).get(observation);
+    else 
+      return 0.0;
   }
 }

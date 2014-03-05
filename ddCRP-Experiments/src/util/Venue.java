@@ -11,18 +11,17 @@ public class Venue {
 	double lat;
 	double lon;
 	int cityId;
+	int obsId;
 	String cityName;
 	int tableId;
+	int topicId;
+	
 	public int getTableId() {
 		return tableId;
 	}
 	public void setTableId(int tableId) {
 		this.tableId = tableId;
 	}
-
-	int topicId;
-	
-	
 	public int getVenueId() {
 		return venueId;
 	}
@@ -64,6 +63,12 @@ public class Venue {
 	}
 	public void setCityId(int cityId) {
 		this.cityId = cityId;
+	}
+	public int getObsId() {
+		return obsId;
+	}
+	public void setObsId(int obsId) {
+		this.obsId = obsId;
 	}
 	public String getCityName() {
 		return cityName;
