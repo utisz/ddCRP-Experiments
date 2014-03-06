@@ -14,6 +14,7 @@ import java.util.Map;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map.Entry;
+import java.util.Collections;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.TimeUnit;
@@ -97,9 +98,36 @@ public class Predictor {
 
   }
 
+  public double predictMaxProbForSample() {
+    computeProbabilityOfAllOutcomes();
+    double maxProb = -1.0;
+    int maxProbIndex = 0;
+    for (int i=0; i<probabilityForObservation.size(); i++) {
+      double prob = probabilityForObservation.get(i);
+      if (prob > maxProb) {
+        maxProb = prob;
+        maxProbIndex = i;
+      }
+    }
+    return (double) maxProbIndex + 1; // observation category is one plus the index
+  }
+
   public double computeProbabilityForSample() {
     computeProbabilityOfAllOutcomes();
     return probabilityForObservation.get(sample.getObsCategory().intValue() - 1);   
+  }
+
+  public int isSampleInTopTen() {
+    computeProbabilityOfAllOutcomes();
+    double probAtSample = probabilityForObservation.get(sample.getObsCategory().intValue() - 1);  
+    ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probabilityForObservation);
+    Collections.sort(sortedProbabilityForObservation);
+    Collections.reverse(sortedProbabilityForObservation);
+    for (int i=0; i<10; i++) {
+      if (probAtSample >= sortedProbabilityForObservation.get(i))
+        return 1;
+    }
+    return 0;
   }
 
   public double computeProbabilityForSampleMAP(SamplerState s, Theta theta) {

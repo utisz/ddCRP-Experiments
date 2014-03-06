@@ -3,7 +3,7 @@ package test;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
-
+import java.util.Collections;
 
 import data.Data;
 
@@ -45,6 +45,62 @@ public class Baselines {
     if (prob == null)
     	prob = 0.0;
     return prob;
+	}
+
+	public int inTopTenMultProbForEachCity(TestSample s) {
+    int listIndex = s.getListIndex();
+    int obsIndex = s.getObsIndex();
+    ArrayList<ArrayList<Double>> list_observations = Data.getObservations();
+    double obs = list_observations.get(listIndex).get(obsIndex) - 1;
+    Double probAtSample = multinomialForEachCity.get(listIndex).get(obs);
+    if (probAtSample == null)
+    	probAtSample = 0.0;
+
+    // have to convert MutinomailForEachCity into an ArrayList
+    ArrayList<Double> probs = new ArrayList<Double>();
+    for (int i=0; i<419; i++) {  // TODO vocab size is hard coded here, fix
+    	Double prob = multinomialForEachCity.get(listIndex).get((double)i);
+      if (prob == null)
+    		prob = 0.0;
+    	probs.add(prob);
+    }
+
+    ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probs);
+    Collections.sort(sortedProbabilityForObservation);
+    Collections.reverse(sortedProbabilityForObservation);
+    for (int i=0; i<10; i++) {
+      if (probAtSample >= sortedProbabilityForObservation.get(i))
+        return 1;
+    }
+    return 0;
+	}
+
+	public int inTopTenMultProbAcrossAllCities(TestSample s) {
+    int listIndex = s.getListIndex();
+    int obsIndex = s.getObsIndex();
+    ArrayList<ArrayList<Double>> list_observations = Data.getObservations();
+    double obs = list_observations.get(listIndex).get(obsIndex) - 1;
+    Double probAtSample = multinomailAcrossAllCities.get(obs);
+    if (probAtSample == null)
+    	probAtSample = 0.0;
+
+    // have to convert MutinomailForEachCity into an ArrayList
+    ArrayList<Double> probs = new ArrayList<Double>();
+    for (int i=0; i<419; i++) {  // TODO vocab size is hard coded here, fix
+    	Double prob = multinomailAcrossAllCities.get((double)i);
+      if (prob == null)
+    		prob = 0.0;
+    	probs.add(prob);
+    }
+
+    ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probs);
+    Collections.sort(sortedProbabilityForObservation);
+    Collections.reverse(sortedProbabilityForObservation);
+    for (int i=0; i<10; i++) {
+      if (probAtSample >= sortedProbabilityForObservation.get(i))
+        return 1;
+    }
+    return 0;		
 	}
 
 	/**

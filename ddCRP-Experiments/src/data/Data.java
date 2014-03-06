@@ -11,8 +11,8 @@ import org.la4j.matrix.sparse.CRSMatrix;
 public class Data {
 	
 	
-	private static final String corpusFile = "Data/corpus.txt";
-	private static final String distanceFile = "Data/distances.txt";
+	private static final String corpusFile = "Data/corpus_large_cities.txt";
+	private static final String distanceFile = "Data/distance_large_cities.txt";
 	
 	/**
 	 * This is a list of list of observations. Each list represent a line in the corpus file.
@@ -37,10 +37,10 @@ public class Data {
 			int num_obs = 0;
 			BufferedReader reader = new BufferedReader(new FileReader(corpusFile));
 			String line;
-			// while((line = reader.readLine())!=null) //each line represents the observations a city or a document etc....
-			for (int k=0; k<4; k++)  // just take the first few cities for testing
+			while((line = reader.readLine())!=null) //each line represents the observations a city or a document etc....
+			// for (int k=0; k<8; k++)  // just take the first few cities for testing
 			{
-				line = reader.readLine();				
+				// line = reader.readLine();				
 				String[] observations = line.split(" ");
 				ArrayList<Double> list = new ArrayList<Double>();
 				for(int i=0;i<observations.length;i++)

@@ -48,7 +48,7 @@ public class Driver {
 			HyperParameters h = new HyperParameters(vocab_size, dirichlet, alpha,crp_alpha);
 	
 			// generate some test samples
-			TestUniformCategory test = new TestUniformCategory(10);
+			TestUniform test = new TestUniform(25);
 			test.generateTestSamples();
 			HashSet<TestSample> testSamples = test.getTestSamplesSet();
 
@@ -68,7 +68,7 @@ public class Driver {
 		
 	}
 
-	public void doDDCRP(ArrayList<ArrayList<TestSample>> testSamples) {
+	public void doDDCRP(int numIter, HyperParameters h, HashSet<TestSample> testSamples) {
 
 	}
 
@@ -142,7 +142,7 @@ public class Driver {
 		thetaMAP.estimateThetas();
 
 		System.out.println("Running a test");
-		System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each, ddCRF-Location");
+		System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each, ddCRF-Location, Prediction, True, InTopTen, InTopTenEach, InTopTenAll");
 
 		// Gather the test samples by city, for the location prediciton task
 		HashMap<Integer, ArrayList<TestSample>> testSamplesByCity = new HashMap<Integer, ArrayList<TestSample>>();
@@ -164,7 +164,13 @@ public class Driver {
 			double multAll = baselines.predictMultProbAcrossAllCities(sample);
 			double multEach =  baselines.predictMultProbForEachCity(sample);
 			double ddCRFLocation = predictor.computeLocationProbabilityForSample();
-			System.out.println(ddCRF + "," + ddCRFMap + "," + multAll + "," + multEach + "," + ddCRFLocation);
+			double predictedVal = predictor.predictMaxProbForSample();
+			double sampleVal = sample.getObsCategory();
+			int inTopTen = predictor.isSampleInTopTen();
+			int inTopTenEach = baselines.inTopTenMultProbForEachCity(sample);
+			int inTopTenAll = baselines.inTopTenMultProbAcrossAllCities(sample);
+
+			System.out.println(ddCRF + "," + ddCRFMap + "," + multAll + "," + multEach + "," + ddCRFLocation + "," + predictedVal + "," + sampleVal + "," + inTopTen + "," + inTopTenEach + "," + inTopTenAll);
 		}		
 
 
