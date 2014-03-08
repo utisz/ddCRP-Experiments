@@ -67,7 +67,6 @@ public class DirichletLikelihood extends Likelihood {
 		double log_numerator = sum_log_gamma_sum_venue_cat_alpha - logGamma(sum_venue_cat_alpha);
 		double log_denominator = sum_log_gamma_alpha - Gamma.logGamma(sum_alpha); //NO need to compute the denominator as it is same for all tables, given an alpha
 		
-		
 		double log_likelihood = log_numerator - log_denominator;
 		
 		return log_likelihood;

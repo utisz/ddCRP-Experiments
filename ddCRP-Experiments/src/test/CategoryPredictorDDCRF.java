@@ -1,11 +1,13 @@
 package test;
 
 import Likelihood.Likelihood;
+import Likelihood.DirichletLikelihood;
 import data.Data;
 import test.Test;
 import model.Posterior;
 import model.CityTable;
 import model.Theta;
+import model.ThetaDDCRF;
 import model.SamplerState;
 import model.SamplerStateTracker;
 
@@ -34,6 +36,8 @@ import org.la4j.vector.sparse.SparseVector;
  */
 public class CategoryPredictorDDCRF extends CategoryPredictor {
 
+  ThetaDDCRF theta = null;
+
   private static class GetNonZeroPriorProcedure implements VectorProcedure {
     public GetNonZeroPriorProcedure() {
       this.nonZeroIndices = new HashMap<Integer, Double>();
@@ -52,7 +56,12 @@ public class CategoryPredictorDDCRF extends CategoryPredictor {
   }
 
   @Override
-  public double computeProbabilityForSampleMAP(SamplerState s, Theta theta) {
+  public double computeProbabilityForSampleMAP(SamplerState s) {
+    if (theta == null) {
+      theta = new ThetaDDCRF(s, likelihood.getHyperParameters());
+      theta.estimateThetas();
+    }
+
     int observation = sample.getObsCategory().intValue() - 1;
 
     double probability = 0.0;

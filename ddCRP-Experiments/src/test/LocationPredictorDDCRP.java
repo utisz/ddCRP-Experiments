@@ -26,13 +26,13 @@ import java.util.concurrent.TimeUnit;
  * the estimated posterior. Given a set of
  * @author jcransh
  */
-public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements LocationPredictor {
+public class LocationPredictorDDCRP extends CategoryPredictorDDCRP implements LocationPredictor {
 
   HashMap<TestSample, Double> probabilityForLocation = new HashMap<TestSample, Double>();
 
   ArrayList<TestSample> inCitySamples;
 
-  public LocationPredictorDDCRF(Posterior posterior, Likelihood likelihood, TestSample sample, ArrayList<TestSample> inCitySamples, HashMap<Integer, Double> samplerStatePosteriorDensities, HashMap<Integer, Theta> samplerStateThetas) {
+  public LocationPredictorDDCRP(Posterior posterior, Likelihood likelihood, TestSample sample, ArrayList<TestSample> inCitySamples, HashMap<Integer, Double> samplerStatePosteriorDensities, HashMap<Integer, Theta> samplerStateThetas) {
     super(posterior, likelihood, sample, samplerStatePosteriorDensities, samplerStateThetas);
     this.inCitySamples = inCitySamples;
   }
@@ -42,8 +42,8 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
     computeProbabilityForAllLocations();
     return probabilityForLocation.get(sample);   
   }
- 
-  @Override
+
+  @Override 
   public void computeProbabilityForAllLocations() {
     Integer trueObservation = sample.getObsCategory().intValue() - 1;
     for (TestSample s : inCitySamples) {
@@ -75,7 +75,7 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
       probabilityForLocation.put(key, value / sum);
     }
   }
-  
+
   /*
    * This method is the same as the DDCRP implementation. Suggest we should figure out a better
    * class structure

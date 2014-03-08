@@ -162,6 +162,5 @@ public abstract class Theta {
 
   public abstract void estimateThetas();
 
-  public abstract void estimateThetasMAP();
 
 }

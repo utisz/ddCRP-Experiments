@@ -295,7 +295,7 @@ public class SamplerState {
 					Double observation = observations_per_city.get(customerIndex);
 					observationsFromTable.add(observation);
 				} else {
-					System.out.println("removing test sample");
+					// System.out.println("removing test sample");
 				}
 			}
 			if(observationsFromTable.size()==0)
@@ -329,7 +329,7 @@ public class SamplerState {
 				Double observation = observations_per_city.get(customer_index);
 				observationsAtTable.add(observation);
 			} else {
-					System.out.println("removing test sample");
+					// System.out.println("removing test sample");
 			}
 		}
 		return observationsAtTable;

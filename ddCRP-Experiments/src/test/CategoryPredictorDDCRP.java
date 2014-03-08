@@ -35,6 +35,8 @@ import org.la4j.vector.sparse.SparseVector;
  */
 public class CategoryPredictorDDCRP extends CategoryPredictor {
 
+  private HashMap<CityTable, HashMap<Integer, Double>> multHash = new HashMap<CityTable, HashMap<Integer, Double>>(); 
+
   private static class GetNonZeroPriorProcedure implements VectorProcedure {
     public GetNonZeroPriorProcedure() {
       this.nonZeroIndices = new HashMap<Integer, Double>();
@@ -54,7 +56,7 @@ public class CategoryPredictorDDCRP extends CategoryPredictor {
   }
 
   @Override
-  public double computeProbabilityForSampleMAP(SamplerState s, Theta theta) {
+  public double computeProbabilityForSampleMAP(SamplerState s) {
     int observation = sample.getObsCategory().intValue() - 1;
 
     double probability = 0.0;
@@ -92,10 +94,20 @@ public class CategoryPredictorDDCRP extends CategoryPredictor {
 
       // In the current sampler state, get the tableId of the linked-to table
       int linkedToTable = s.get_t(priorIndex, listIndex);
-      // Find the unique table id used to store the multinomial probability
-      Integer uniqueTableId = ThetaDDCRP.getUniqueTableId(listIndex, linkedToTable);
 
-      double probObservation = theta.observationProbabilityInTheta(observation, uniqueTableId);
+      // Get the multinomial distribution for this table
+      ThetaDDCRP theta = new ThetaDDCRP(s, likelihood.getHyperParameters());
+      CityTable ct = new CityTable(listIndex, linkedToTable);
+      // First check the hash
+      HashMap<Integer, Double> mult = multHash.get(ct);
+      if (mult == null) {
+        mult = theta.estimateThetaAtCityAndTable(listIndex, linkedToTable);
+        multHash.put(ct, mult);
+      }
+      Double probObservation = mult.get(observation);
+      if (probObservation == null)
+        probObservation = 0.000000000001;
+
       probability += dDCRPPrior * probObservation;  
     }
 
@@ -154,20 +166,22 @@ public class CategoryPredictorDDCRP extends CategoryPredictor {
         // In the current sampler state, get the tableId of the linked-to table
         int linkedToTable = s.get_t(priorIndex, listIndex);
        
-        // get the emmission probability of the new data given the state
-        // Theta theta = samplerStateThetas.get(index);
-
+        // Get the multinomial distribution for this table
         ThetaDDCRP theta = new ThetaDDCRP(s, likelihood.getHyperParameters());
-        theta.estimateThetas();
+        CityTable ct = new CityTable(listIndex, linkedToTable);
+        // First check the hash
+        HashMap<Integer, Double> mult = multHash.get(ct);
+        if (mult == null) {
+          mult = theta.estimateThetaAtCityAndTable(listIndex, linkedToTable);
+          multHash.put(ct, mult);
+        }
+        Double probObservation = mult.get(observation);
+        if (probObservation == null)
+          probObservation = 0.000000000001;
 
         double logPosteriorDensity = samplerStatePosteriorDensities.get(index);
 
-        // Find the unique table id used to store the multinomial probability
-        Integer uniqueTableId = ThetaDDCRP.getUniqueTableId(listIndex, linkedToTable);
-        
-        double probObservation = theta.observationProbabilityInTheta(observation, uniqueTableId);
-
-        logStateProbability.add( Math.log(dDCRPPrior) + Math.log(probObservation) + logPosteriorDensity );
+        logStateProbability.add(  Math.log(dDCRPPrior) + Math.log(probObservation) + logPosteriorDensity );
       }
 
       double maxLogStateProbability = Double.NEGATIVE_INFINITY;

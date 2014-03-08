@@ -67,17 +67,8 @@ abstract public class CategoryPredictor {
     for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++)
       probabilityForObservation.add(Double.NEGATIVE_INFINITY);
 
-    // Make this threaded
-    ExecutorService exec = Executors.newFixedThreadPool(20);
-    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++) { 
-      exec.execute(new ProbObservationThread(i));
-    }
-    exec.shutdown();
-    try {
-      exec.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
-    } catch (InterruptedException e) {
-      System.out.println("Error in thread");
-    }
+    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++) 
+      probabilityForObservation.set(i, computeLogProbabilityForSampleAtValue(sample, i));
 
     // Handle underflow problems
     Double maxLogProb = Double.NEGATIVE_INFINITY;
@@ -133,6 +124,6 @@ abstract public class CategoryPredictor {
 
   abstract public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation);
 
-  abstract public double computeProbabilityForSampleMAP(SamplerState s, Theta theta);
+  abstract public double computeProbabilityForSampleMAP(SamplerState s);
 
 }
