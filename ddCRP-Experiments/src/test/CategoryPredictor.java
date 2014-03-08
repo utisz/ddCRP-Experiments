@@ -122,6 +122,14 @@ abstract public class CategoryPredictor {
     return (double) maxProbIndex + 1; // observation category is one plus the index
   }
 
+  public double predictMaxProbForSampleMAP() {
+    return 0.0;
+  }
+
+  public int isSampleInTopTenMAP() {
+    return 0.0;
+  }
+
   abstract public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation);
 
   abstract public double computeProbabilityForSampleMAP(SamplerState s);
