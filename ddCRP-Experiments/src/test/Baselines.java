@@ -47,6 +47,20 @@ public class Baselines {
     return prob;
 	}
 
+  /*
+   * Returns the observation that has the largest probability in the multinomial
+   */
+  public double predictMaxProbForSampleAcrossAllCities(TestSample s) {
+    return 0.0;
+  }
+
+  /*
+   * Returns the observation that has the largest probability in the multinomial
+   */
+  public double predictMaxProbForSampleForEachCity(TestSample s) {
+    return 0.0;
+  }
+
 	public int inTopTenMultProbForEachCity(TestSample s) {
     int listIndex = s.getListIndex();
     int obsIndex = s.getObsIndex();
