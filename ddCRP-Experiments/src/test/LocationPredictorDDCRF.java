@@ -94,5 +94,12 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
     }
     return maxProbSample.getObsIndex(); 
   }
+
+  /*
+   * Using the location probability using the MAP plugin estimate
+   */
+  public double computeLocationProbabilityForSampleMAP() {
+    return 0.0;
+  }
   
 }
