@@ -52,10 +52,29 @@ public class Driver {
 			System.out.println("Self Linkage Prob is "+alpha);
 			HyperParameters h = new HyperParameters(vocab_size, dirichlet, alpha,crp_alpha);
 	
-			// generate some test samples
-			TestUniform test = new TestUniform(25);
-			test.generateTestSamples();
-			HashSet<TestSample> testSamples = test.getTestSamplesSet();
+			//get the type of sampling to be done
+			int sampleType = Integer.parseInt(args[5]);
+			int numSamples = Integer.parseInt(args[6]);
+			HashSet<TestSample> testSamples;
+			if(sampleType == 1) //uniform across venues
+			{
+				// generate some test samples
+				TestUniform test = new TestUniform(numSamples);
+				test.generateTestSamples();
+				testSamples = test.getTestSamplesSet();
+			}
+			else if(sampleType == 2) //uniform across space
+			{
+				TestUniformSpace test = new TestUniformSpace(numSamples);
+				test.generateTestSamples();
+				testSamples = test.getTestSamplesSet();
+			}
+			else if(sampleType == 3) //uniform across category
+			{
+				TestUniformCategory test = new TestUniformCategory(numSamples);
+				test.generateTestSamples();
+				testSamples = test.getTestSamplesSet();
+			}
 
 			int numIter = Integer.parseInt(args[0]);
 
@@ -63,6 +82,8 @@ public class Driver {
 			Util.setOutputDirectoryFromArgs(numIter, dirichlet_param, alpha, crp_alpha, test);
 			// Util.outputTestMeta();
 
+			doDDCRF(numIter, h, testSamples);
+			
 			doDDCRP(numIter, h, testSamples);
 
 		} catch (Exception e) {
