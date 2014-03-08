@@ -32,20 +32,7 @@ import org.la4j.vector.sparse.SparseVector;
  * the estimated posterior 
  * @author jcransh
  */
-public class Predictor {
-
-  private class ProbObservationThread implements Runnable {
-    int index;
-
-    ProbObservationThread(int index) {
-      this.index = index;
-    }
-
-    @Override
-    public void run() { 
-      probabilityForObservation.set(this.index, computeLogProbabilityForSampleAtValue(sample, this.index));
-    }
-  }
+public class CategoryPredictorDDCRF extends CategoryPredictor {
 
   private static class GetNonZeroPriorProcedure implements VectorProcedure {
     public GetNonZeroPriorProcedure() {
@@ -59,77 +46,12 @@ public class Predictor {
       this.nonZeroIndices.put(i, value);
     }
   }
-  
-  Test test;
-  
-  Posterior posterior;
-  
-  TestSample sample;
-  
-  Likelihood likelihood;
-
-  ArrayList<Double> probabilityForObservation;
-
-  HashMap<TestSample, Double> probabilityForLocation = new HashMap<TestSample, Double>();
-
-  ArrayList<TestSample> inCitySamples;
-
-  // store the values of the SamplerState densities for future use, key is index into SamplerState
-  HashMap<Integer, Double> samplerStatePosteriorDensities;
-
-  // store the values of the SamplerState theta for future use, key is index into SamplerState
-  HashMap<Integer, Theta> samplerStateThetas;
-
-  public Predictor(Posterior posterior, Likelihood likelihood, TestSample sample, ArrayList<TestSample> inCitySamples, HashMap<Integer, Double> samplerStatePosteriorDensities, HashMap<Integer, Theta> samplerStateThetas) {
-    this.test = test;
-    this.posterior = posterior;
-    this.sample = sample;
-    this.inCitySamples = inCitySamples;
-    this.likelihood = likelihood;
-    this.samplerStatePosteriorDensities = samplerStatePosteriorDensities;
-    this.samplerStateThetas = samplerStateThetas;
+    
+  public CategoryPredictorDDCRF(Posterior posterior, Likelihood likelihood, TestSample sample, HashMap<Integer, Double> samplerStatePosteriorDensities, HashMap<Integer, Theta> samplerStateThetas) {
+    super(posterior, likelihood, sample, samplerStatePosteriorDensities, samplerStateThetas);
   }
 
-  public Predictor() {}
-
-  public double computeLocationProbabilityForSample() {
-    computeProbabilityForAllLocations();
-    return probabilityForLocation.get(sample);   
-
-  }
-
-  public double predictMaxProbForSample() {
-    computeProbabilityOfAllOutcomes();
-    double maxProb = -1.0;
-    int maxProbIndex = 0;
-    for (int i=0; i<probabilityForObservation.size(); i++) {
-      double prob = probabilityForObservation.get(i);
-      if (prob > maxProb) {
-        maxProb = prob;
-        maxProbIndex = i;
-      }
-    }
-    return (double) maxProbIndex + 1; // observation category is one plus the index
-  }
-
-  public double computeProbabilityForSample() {
-    computeProbabilityOfAllOutcomes();
-    return probabilityForObservation.get(sample.getObsCategory().intValue() - 1);   
-  }
-
-  public int isSampleInTopTen() {
-    computeProbabilityOfAllOutcomes();
-    double probAtSample = probabilityForObservation.get(sample.getObsCategory().intValue() - 1);  
-    ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probabilityForObservation);
-    Collections.sort(sortedProbabilityForObservation);
-    Collections.reverse(sortedProbabilityForObservation);
-    for (int i=0; i<10; i++) {
-      if (probAtSample >= sortedProbabilityForObservation.get(i))
-        return 1;
-    }
-    return 0;
-  }
-
+  @Override
   public double computeProbabilityForSampleMAP(SamplerState s, Theta theta) {
     int observation = sample.getObsCategory().intValue() - 1;
 
@@ -181,7 +103,7 @@ public class Predictor {
           Integer topic = tablesEntry.getKey();
           Integer numTablesAtTopic = tablesEntry.getValue();
           double cRPPrior = numTablesAtTopic / cRPPriorNormConst; // normalize the prior
-          double probObservation = theta.observationProbabilityInTopic(observation, topic);
+          double probObservation = theta.observationProbabilityInTheta(observation, topic);
           probability += dDCRPPrior * cRPPrior * probObservation;  
         }
         // now for self-linkage (i.e. creating a new topic)
@@ -195,7 +117,7 @@ public class Predictor {
       else {
         CityTable ct = new CityTable(listIndex, linkedToTable);
         Integer linkedToTopic = s.getTopicForCityTable(ct);
-        double probObservation = theta.observationProbabilityInTopic(observation, linkedToTopic);
+        double probObservation = theta.observationProbabilityInTheta(observation, linkedToTopic);
         probability += dDCRPPrior * probObservation;  
       }
     }
@@ -203,77 +125,7 @@ public class Predictor {
     return probability;
   }
 
-  public void computeProbabilityOfAllOutcomes() {
-    probabilityForObservation = new ArrayList<Double>();
-    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++)
-      probabilityForObservation.add(Double.NEGATIVE_INFINITY);
-
-    // Make this threaded
-    ExecutorService exec = Executors.newFixedThreadPool(20);
-    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++) { 
-      exec.execute(new ProbObservationThread(i));
-    }
-    exec.shutdown();
-    try {
-      exec.awaitTermination(Long.MAX_VALUE, TimeUnit.NANOSECONDS);
-    } catch (InterruptedException e) {
-      System.out.println("Error in thread");
-    }
-
-    // System.out.println("Just outside of threaded loop: " + probabilityForObservation);
-
-    // Handle underflow problems
-    Double maxLogProb = Double.NEGATIVE_INFINITY;
-    for (int i=0; i<probabilityForObservation.size(); i++) {
-      double logProb = probabilityForObservation.get(i);
-      if (logProb > maxLogProb)
-        maxLogProb = logProb;
-    }
-
-    // scale by maxLogProb then exponentiate
-    for (int i=0; i<probabilityForObservation.size(); i++)
-      probabilityForObservation.set(i, Math.exp(probabilityForObservation.get(i) - maxLogProb) );
-
-    // now normalize
-    double normConst = 0.0;
-    for (Double p : probabilityForObservation)
-      normConst += p;
-    for (int i=0; i<probabilityForObservation.size(); i++)
-      probabilityForObservation.set(i, probabilityForObservation.get(i) / normConst);    
-  }
- 
-  public void computeProbabilityForAllLocations() {
-    Integer trueObservation = sample.getObsCategory().intValue() - 1;
-    for (TestSample s : inCitySamples) {
-      double prob = computeLogProbabilityForSampleAtValue(s, trueObservation);
-      probabilityForLocation.put(s, prob);
-    }
-
-    // Handle underflow problems
-    Double maxLogProb = Double.NEGATIVE_INFINITY;
-    for (Double logProb : probabilityForLocation.values()) {
-      if (logProb > maxLogProb)
-        maxLogProb = logProb;
-    }
-
-    // scale by maxLogProb then exponentiate
-    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
-      TestSample key = entry.getKey();
-      Double value = entry.getValue();
-      probabilityForLocation.put(key, Math.exp(value - maxLogProb));
-    }
-
-    // Normalize
-    double sum = 0;
-    for (Double value : probabilityForLocation.values()) 
-      sum += value;
-    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
-      TestSample key = entry.getKey();
-      Double value = entry.getValue();
-      probabilityForLocation.put(key, value / sum);
-    }
-  }
-
+  @Override 
   public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation) {
     double probability = 0.0;
 
@@ -344,7 +196,7 @@ public class Predictor {
             Integer topic = tablesEntry.getKey();
             Integer numTablesAtTopic = tablesEntry.getValue();
             double cRPPrior = numTablesAtTopic / cRPPriorNormConst; // normalize the prior
-            double probObservation = theta.observationProbabilityInTopic(observation, topic);
+            double probObservation = theta.observationProbabilityInTheta(observation, topic);
             probability += dDCRPPrior * cRPPrior * probObservation;  
           }
           // now for self-linkage (i.e. creating a new topic)
@@ -358,7 +210,7 @@ public class Predictor {
         else {
           CityTable ct = new CityTable(listIndex, linkedToTable);
           Integer linkedToTopic = s.getTopicForCityTable(ct);
-          double probObservation = theta.observationProbabilityInTopic(observation, linkedToTopic);
+          double probObservation = theta.observationProbabilityInTheta(observation, linkedToTopic);
           logStateProbability.add( Math.log(dDCRPPrior) + Math.log(probObservation) + logPosteriorDensity );
         }
       }

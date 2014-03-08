@@ -32,8 +32,6 @@ public class DirichletLikelihood extends Likelihood {
 	public Double computeTableLogLikelihoodFromCustomers(ArrayList<Integer> table_members,
 			int list_index) {
 		
-    // THIS IS NOT USED ANYMORE. WE SHOULD UPDATE THE INTERFACE.
-
     if (table_members.size() == 0)
       return null;
 
@@ -202,5 +200,26 @@ public class DirichletLikelihood extends Likelihood {
     }
     return ll;
   }
+
+  /**
+   * SAME AS ABOVE BUT FOR DDCRP. 
+   * MUST SUBCLASS THIS FOR RELEASE
+   */
+  public Double computeFullLogLikelihoodDDCRP(SamplerState s) {
+    ArrayList<HashMap<Integer, HashSet<Integer>>> customersAtTableList = s.getCustomersAtTableList();
+    double ll = 0;
+    for (int listIndex=0; listIndex<customersAtTableList.size(); listIndex++) {
+      HashMap<Integer, HashSet<Integer>> customersAtTable = customersAtTableList.get(listIndex);
+      for (Integer tableId : customersAtTable.keySet()) {
+        if (customersAtTable.get(tableId) != null) {
+          HashSet<Integer> hs = customersAtTable.get(tableId);
+          ArrayList<Integer> tableMembers = new ArrayList<Integer>(hs);
+          ll += computeTableLogLikelihoodFromCustomers(tableMembers, listIndex);
+        }
+      }
+    }
+    return ll;
+  }
+
 
 }

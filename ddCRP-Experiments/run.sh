@@ -65,4 +65,4 @@ mkdir tables
 mkdir bin
 javac -sourcepath src/ -d bin/ -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar" src/Driver.java
 
-java -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar:bin" Driver $numIter $vocabSize $dir_param $self_link_prob $crp_self_link_prob
+java -Xms64m -Xmx256m -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar:bin" Driver $numIter $vocabSize $dir_param $self_link_prob $crp_self_link_prob

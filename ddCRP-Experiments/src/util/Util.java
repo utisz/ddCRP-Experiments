@@ -116,7 +116,7 @@ public class Util {
 	public static void outputTopKWordsPerTopic(Theta t, int k) {
 		try {
 			PrintStream out = new PrintStream(topicsOutPath);	
-			t.printMostProbWordsPerTopic(k, out);
+			t.printMostProbWordsPerTheta(k, out);
 		} catch(FileNotFoundException ex) {
 			ex.printStackTrace();
 		} 
@@ -177,7 +177,7 @@ public class Util {
     ArrayList<ArrayList<Venue>> allVenues = new ArrayList<ArrayList<Venue>>(); 
     try
     {
-      for(int i=1;i<=87;i++)
+      for(int i=1;i<=cityNames.size();i++)
       {
         allVenues.add(new ArrayList<Venue>()); //a new city
         BufferedReader reader = new BufferedReader(new FileReader("Data/cities_sim/city_"+i+"_venue_ids.txt"));

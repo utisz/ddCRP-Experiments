@@ -12,6 +12,8 @@ import org.la4j.matrix.sparse.CRSMatrix;
 import data.Data;
 
 import Likelihood.Likelihood;
+import Likelihood.DirichletLikelihood;
+
 import test.TestSample;
 
 /**
@@ -292,6 +294,8 @@ public class SamplerState {
 				if (!testSamples.contains(ts)) {
 					Double observation = observations_per_city.get(customerIndex);
 					observationsFromTable.add(observation);
+				} else {
+					System.out.println("removing test sample");
 				}
 			}
 			if(observationsFromTable.size()==0)
@@ -324,6 +328,8 @@ public class SamplerState {
 			if (!testSamples.contains(ts)) {
 				Double observation = observations_per_city.get(customer_index);
 				observationsAtTable.add(observation);
+			} else {
+					System.out.println("removing test sample");
 			}
 		}
 		return observationsAtTable;
@@ -732,7 +738,17 @@ public class SamplerState {
 	 * @param liklihood
 	 */
 	public double getLogPosteriorDensity(Likelihood l) {
-		double lik = l.computeFullLogLikelihood(this);
 		return sumOfLogPriors + l.computeFullLogLikelihood(this);
 	} 
+
+	/**
+	 * Same as above but for ddCRP
+	 *
+	 * TODO: need to subclass this
+	 */
+	public double getLogPosteriorDensityDDCRP(DirichletLikelihood l) {
+		return sumOfLogPriors + l.computeFullLogLikelihoodDDCRP(this);
+	} 
+
+	
 }

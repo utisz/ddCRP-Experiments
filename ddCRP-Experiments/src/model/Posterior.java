@@ -1,6 +1,7 @@
 package model;
 
 import Likelihood.Likelihood;
+import Likelihood.DirichletLikelihood;
 
 import java.lang.Math;
 import java.util.ArrayList;
@@ -102,6 +103,7 @@ public class Posterior {
     } 
 
   }
+
   
   /**
    * Return the Sampler state with largest posterior density
@@ -111,7 +113,7 @@ public class Posterior {
    */
   public SamplerState getMapEstimateDensity(Likelihood l) {
     ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
-    double maxLogDensity = -10000000000000000000.0;
+    double maxLogDensity = Double.NEGATIVE_INFINITY;
     int maxLogDensityIndex = -1;
     SamplerState maxLogDensityState = null;
     for (int i=0; i<states.size(); i++) {
@@ -127,6 +129,33 @@ public class Posterior {
     return maxLogDensityState;
   }
   
+  /**
+   * Same as above, but for ddCRP.
+   * This is really a horribly ugly way to do this. we should be using some 
+   * inheritance and polymorphisms, but currently DDCRP and DDCRP are using the
+   * same object for their respective SamplerState. This requires that SamplerState
+   * implement two methods for getLogPosteriorDensity depending on whether the State is
+   * for ddCRP or ddCRF.
+   * FIX THIS FOR RELEASE
+   */
+  public SamplerState getMapEstimateDensityDDCRP(Likelihood l) {
+    ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
+    double maxLogDensity = Double.NEGATIVE_INFINITY;
+    int maxLogDensityIndex = -1;
+    SamplerState maxLogDensityState = null;
+    for (int i=0; i<states.size(); i++) {
+      SamplerState s = states.get(i);
+      double logDensity = s.getLogPosteriorDensityDDCRP((DirichletLikelihood)l);
+      if (logDensity > maxLogDensity) {
+        maxLogDensity = logDensity;
+        maxLogDensityState = s;
+        maxLogDensityIndex = i;
+      }
+    }
+    System.out.println("MAP Estimate choosing state at iteration " + maxLogDensityIndex);
+    return maxLogDensityState;
+  }
+
   /**
    * Prints the object state
    */

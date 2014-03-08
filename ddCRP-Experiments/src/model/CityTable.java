@@ -55,8 +55,7 @@ public class CityTable {
 	 */
 	@Override
 	public int hashCode() {
-		String myHashString = tableId + ":" + cityId;
-		return myHashString.hashCode();
+		return 100000000 * cityId + tableId;  // will have collisions if there are > 100Mil tables used in a city
 	}
 
 	

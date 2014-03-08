@@ -1,0 +1,1 @@
+// Do I want an interface for a location predictor?

@@ -24,39 +24,39 @@ import java.io.PrintStream;
  * multinomial distribution parameters at each table
  * @author jcransh
  */
-public class Theta {
+public abstract class Theta {
 
   /**
    * The SamplerState for which we'd like to compute thetas for
    */ 
-  private SamplerState samplerState;
+  protected SamplerState samplerState;
 
   /**
    * The model hyperparameters
    */ 
-  private HyperParameters hyperParameters;
+  protected HyperParameters hyperParameters;
 
   /**
    * The vocab file
    */ 
-  private static final String vocabFile = "Data/venue_categories.txt";
+  protected static final String vocabFile = "Data/venue_categories.txt";
 
   /**
    * The vocabulary, numeric observations are indexes into Strings
    */ 
-  private ArrayList<String> vocabulary = new ArrayList<String>();
+  protected ArrayList<String> vocabulary = new ArrayList<String>();
 
   /** 
    * The multinomial parameter seen for each city, for each table in the city.  
    * Each theta is a HashMap from Integer to Double (key:observation to value:probability)
    */
-  private HashMap<Integer, HashMap<Integer, Double>> topicToThetaMap = new HashMap<Integer, HashMap<Integer, Double>>();
+  protected HashMap<Integer, HashMap<Integer, Double>> thetaMap = new HashMap<Integer, HashMap<Integer, Double>>();
 
   /** 
    * The multinomial parameter seen for each city, for each table in the city.  
    * Each theta is a HashMap from String to Double (key:observation string to value:probability)
    */
-  private HashMap<Integer, HashMap<String, Double>> topicToThetaMapString = new HashMap<Integer, HashMap<String, Double>>();
+  protected HashMap<Integer, HashMap<String, Double>> thetaMapString = new HashMap<Integer, HashMap<String, Double>>();
 
 
   /** 
@@ -117,130 +117,19 @@ public class Theta {
  /**
    * Getter for the computed theta map
    */
-  public HashMap<Integer, HashMap<Integer, Double>> getTopicToThetaMap() {
-    return topicToThetaMap;
+  public HashMap<Integer, HashMap<Integer, Double>> getThetaMap() {
+    return thetaMap;
   }
-
-  /*
-   * Computes the value of the theta vectors for this stampler state, for each city, for each table in the city
-   * Each table has a CRSMatrix theta, where
-   * theta_j = (N_j + a_j) / (n + sum_i(a_i))
-   * where a_j is the Dirichlet prior parameter
-   */
-  public void estimateThetas() {
-    HashMap<Integer, HashMap<Integer, Double>> newTopicToThetaMap = new HashMap<Integer, HashMap<Integer, Double>>();
-    HashMap<Integer, HashMap<String, Double>> newTopicToThetaMapString = new HashMap<Integer, HashMap<String, Double>>();
-
-    HashSet<Integer> topics = samplerState.getAllTopics(); 
-    for (Integer topic : topics) {
-      // Initialize the topics's theta vector
-      HashMap<Integer, Double> topicTheta = new HashMap<Integer, Double>(); 
-      HashMap<String, Double> topicThetaString = new HashMap<String, Double>(); 
-      
-      // add the dirichlet parameters
-      ArrayList<Double> dirichletParam = hyperParameters.getDirichletParam();
-      for (int j=0; j<dirichletParam.size(); j++) {
-        topicTheta.put(j, dirichletParam.get(j));
-        topicThetaString.put(vocabulary.get(j), dirichletParam.get(j));
-      }
-
-      // get all the observatiosn for this topic and add them to the counts
-      ArrayList<Double> topicObservations = samplerState.getAllObservationsForTopic(topic);
-      for (Double obs : topicObservations) {
-        Integer observation = obs.intValue() - 1;
-        String observationString = vocabulary.get(observation);
-        double currentObservationCount = topicTheta.get(observation);
-        topicTheta.put(observation, currentObservationCount + 1);
-        topicThetaString.put(observationString, currentObservationCount + 1);        
-      }
-
-      // get the normalizing constant
-      double norm = 0.0;
-      for (int j=0; j<hyperParameters.getVocabSize(); j++) {
-        norm += topicTheta.get(j);
-      }
-
-      // divide by the normalizing constant
-      for (int j=0; j<hyperParameters.getVocabSize(); j++) {
-        String obsStringJ = vocabulary.get(j);
-        double thetaJ = topicTheta.get(j) / norm;
-        topicTheta.put(j, thetaJ);
-        topicThetaString.put(obsStringJ, thetaJ);
-      }    
-
-      newTopicToThetaMap.put(topic, topicTheta);
-      newTopicToThetaMapString.put(topic, topicThetaString);
-    } 
-
-    topicToThetaMap = newTopicToThetaMap;
-    topicToThetaMapString = newTopicToThetaMapString;
-  }
-
-  /*
-   * Computes the MAP estimate of the theta vectors for this stampler state, for each city, for each table in the city
-   * Each table has a CRSMatrix theta, where
-   * theta_j = (N_j + a_j - 1) / (n + sum_i(a_i - 1))
-   * where a_j is the Dirichlet prior parameter
-   */
-  public void estimateThetasMAP() {
-    HashMap<Integer, HashMap<Integer, Double>> newTopicToThetaMap = new HashMap<Integer, HashMap<Integer, Double>>();
-    HashMap<Integer, HashMap<String, Double>> newTopicToThetaMapString = new HashMap<Integer, HashMap<String, Double>>();
-
-    HashSet<Integer> topics = samplerState.getAllTopics(); 
-    for (Integer topic : topics) {
-      // Initialize the topics's theta vector
-      HashMap<Integer, Double> topicTheta = new HashMap<Integer, Double>(); 
-      HashMap<String, Double> topicThetaString = new HashMap<String, Double>(); 
-      
-      // add the dirichlet parameters (a_i - 1)
-      ArrayList<Double> dirichletParam = hyperParameters.getDirichletParam();
-      for (int j=0; j<dirichletParam.size(); j++) {
-        topicTheta.put(j, dirichletParam.get(j) - 1);
-        topicThetaString.put(vocabulary.get(j), dirichletParam.get(j) - 1);
-      }
-
-      // get all the observatiosn for this topic and add them to the counts
-      ArrayList<Double> topicObservations = samplerState.getAllObservationsForTopic(topic);
-      for (Double obs : topicObservations) {
-        Integer observation = obs.intValue() - 1;
-        String observationString = vocabulary.get(observation);
-        double currentObservationCount = topicTheta.get(observation);
-        topicTheta.put(observation, currentObservationCount + 1);
-        topicThetaString.put(observationString, currentObservationCount + 1);        
-      }
-
-      // get the normalizing constant
-      double norm = 0.0;
-      for (int j=0; j<hyperParameters.getVocabSize(); j++) {
-        norm += topicTheta.get(j);
-      }
-
-      // divide by the normalizing constant
-      for (int j=0; j<hyperParameters.getVocabSize(); j++) {
-        String obsStringJ = vocabulary.get(j);
-        double thetaJ = topicTheta.get(j) / norm;
-        topicTheta.put(j, thetaJ);
-        topicThetaString.put(obsStringJ, thetaJ);
-      }    
-
-      newTopicToThetaMap.put(topic, topicTheta);
-      newTopicToThetaMapString.put(topic, topicThetaString);
-    } 
-
-    topicToThetaMap = newTopicToThetaMap;
-    topicToThetaMapString = newTopicToThetaMapString;
-  }
-
 
   /*
    * Output the k most probable tokens per topic
    * Should pass an outstream to this method
    */
-  public void printMostProbWordsPerTopic(int k, PrintStream out) {
-    for (Map.Entry<Integer, HashMap<String, Double>> entry : topicToThetaMapString.entrySet()) {
-      Integer topic = entry.getKey();
+  public void printMostProbWordsPerTheta(int k, PrintStream out) {
+    for (Map.Entry<Integer, HashMap<String, Double>> entry : thetaMapString.entrySet()) {
+      Integer thetaId = entry.getKey();
       HashMap<String, Double> theta = entry.getValue();
-      out.println("Topic " + topic);
+      out.println("Theta " + thetaId);
       out.println("---------------");
       ArrayList<Map.Entry> entries = new ArrayList(theta.entrySet());
 
@@ -264,10 +153,15 @@ public class Theta {
     } 
   }
 
-  public double observationProbabilityInTopic(Integer observation, Integer topic) {
-    if (topicToThetaMap.get(topic).get(observation) != null)
-      return topicToThetaMap.get(topic).get(observation);
+  public double observationProbabilityInTheta(Integer observation, Integer thetaId) {
+    if (thetaMap.get(thetaId) != null && thetaMap.get(thetaId).get(observation) != null)
+      return thetaMap.get(thetaId).get(observation);
     else 
       return 0.0;
   }
+
+  public abstract void estimateThetas();
+
+  public abstract void estimateThetasMAP();
+
 }
