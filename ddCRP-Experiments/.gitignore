@@ -1,7 +1,7 @@
-/Data/*
-/bin/*
+Data/*
+bin/*
 .DS_Store
-/tables/*
-/results/*
+tables/*
+results/*
 log.txt
 output.txt

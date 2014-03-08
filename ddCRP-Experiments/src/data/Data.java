@@ -38,7 +38,7 @@ public class Data {
 			BufferedReader reader = new BufferedReader(new FileReader(corpusFile));
 			String line;
 			// while((line = reader.readLine())!=null) //each line represents the observations a city or a document etc....
-			for (int k=0; k<3; k++)  // just take the first few cities for testing
+			for (int k=0; k<2; k++)  // just take the first few cities for testing
 			{
 				line = reader.readLine();				
 				String[] observations = line.split(" ");
