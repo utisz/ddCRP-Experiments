@@ -127,7 +127,7 @@ abstract public class CategoryPredictor {
   }
 
   public int isSampleInTopTenMAP() {
-    return 0.0;
+    return 0;
   }
 
   abstract public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation);

@@ -94,7 +94,11 @@ public class LocationPredictorDDCRP extends CategoryPredictorDDCRP implements Lo
     }
     return maxProbSample.getObsIndex(); 
   }
-
+  
+  public int  predictMaxProbForLocationsMAP()
+  {
+	  return 0;
+  }
 
   /*
    * Using the location probability using the MAP plugin estimate

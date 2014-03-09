@@ -24,6 +24,7 @@ import test.TestUniformCategory;
 import test.CategoryPredictorDDCRF;
 import test.CategoryPredictorDDCRP;
 import test.LocationPredictorDDCRF;
+import test.LocationPredictorDDCRP;
 import test.TestSample;
 import test.Baselines;
 
@@ -91,12 +92,12 @@ public class Driver {
 			// Util.outputTestMeta();
 
 			doBaseLines(testSamples);
-			//doDDCRP(numIter, h, testSamples);
+			doDDCRP(numIter, h, testSamples);
 			//clearing the sampler state
-			//SamplerStateTracker.samplerStates = new ArrayList<SamplerState>();
+			SamplerStateTracker.samplerStates = new ArrayList<SamplerState>();
 			//set the current-iter to 0
-			//SamplerStateTracker.current_iter = 0;
-			//doDDCRF(numIter, h, testSamples);
+			SamplerStateTracker.current_iter = 0;
+			doDDCRF(numIter, h, testSamples);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -132,14 +133,27 @@ public class Driver {
 			double multEach =  baselines.predictMultProbForEachCity(sample);
 			int inTopTenEach = baselines.inTopTenMultProbForEachCity(sample); // next two are baselines of that
 			int inTopTenAll = baselines.inTopTenMultProbAcrossAllCities(sample);
-			
+			double predictedCategoryMultAll = baselines.predictMaxProbForSampleAcrossAllCities(sample);
+			double predictedCategoryMultEach = baselines.predictMaxProbForSampleForEachCity(sample);
+			double correctCategory = sample.getObsCategory();
+			int isPredictedCatCorrectMultAll = 0;
+			int isPredictedCatCorrectMultEach = 0;
+			if(correctCategory == predictedCategoryMultAll)
+			{
+				isPredictedCatCorrectMultAll = 1;
+			}
+			if(correctCategory == predictedCategoryMultEach)
+			{
+				isPredictedCatCorrectMultEach = 1;
+			}
 		
 			TestResult result = new TestResult();
 			result.setSample(sample); //setting the test sample
 			
 			result.setCorrectCategoryPredictionProb(multAll);
 			result.setInTopTen(inTopTenAll);
-			//Have to implement PredictedCategory and isPredictedCategoryCorrect
+			result.setPredictedCategory(predictedCategoryMultAll);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrectMultAll);
 			
 			result.printTestResults(outBaseLineAll);
 			
@@ -148,7 +162,8 @@ public class Driver {
 			result.setSample(sample); //setting the test sample
 			result.setCorrectCategoryPredictionProb(multEach);
 			result.setInTopTen(inTopTenEach);
-			//Have to implement PredictedCategory and isPredictedCategoryCorrect
+			result.setPredictedCategory(predictedCategoryMultEach);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrectMultEach);
 			
 			result.printTestResults(outBaseLineEach);
 			
@@ -194,32 +209,35 @@ public class Driver {
 		System.out.println("FINAL STATE");
 		System.out.println("----------------------");		
 		sMAP.prettyPrint(System.out);
-		
-		
-		
-		
-
+	
 	  // store the values of the SamplerState densities for future use
 	  HashMap<Integer, Double> samplerStatePosteriorDensities = new HashMap<Integer, Double>();
 
 	  // store the values of the SamplerState theta for future use
 	  HashMap<Integer, Theta> samplerStateThetas = new HashMap<Integer, Theta>();
-
-    // ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
-    // for (Integer i=0; i<states.size(); i++) {
-    // 	SamplerState s = states.get(i);
-    //   double logPosteriorDensity = s.getLogPosteriorDensityDDCRP((DirichletLikelihood)l);
-    //   samplerStatePosteriorDensities.put(i, logPosteriorDensity);
-    //   ThetaDDCRP theta = new ThetaDDCRP(s, l.getHyperParameters());
-    //   theta.estimateThetas();
-    //   samplerStateThetas.put(i, theta);
-    // }
-    ThetaDDCRP thetaMAP = new ThetaDDCRP(sMAP, l.getHyperParameters());
+	  
+	  ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
+	    for (Integer i=0; i<states.size(); i++) {
+	    	SamplerState s = states.get(i);
+	      double logPosteriorDensity = s.getLogPosteriorDensity(l);
+	      samplerStatePosteriorDensities.put(i, logPosteriorDensity);
+	    }
+	  
+	  ThetaDDCRP thetaMAP = new ThetaDDCRP(sMAP, l.getHyperParameters());
 		thetaMAP.estimateThetas();
 
 		System.out.println("Running a test");
-	
-		//System.out.println("ddCRF, ddCRF-MAP, Mult-All, Mult-Each, ddCRF-Location, Prediction, True, InTopTen, InTopTenEach, InTopTenAll");
+		
+		// Gather the test samples by city, for the location prediciton task
+		HashMap<Integer, ArrayList<TestSample>> testSamplesByCity = new HashMap<Integer, ArrayList<TestSample>>();
+		for (TestSample sample : testSamples) {
+			Integer listIndex = sample.getListIndex();
+			if (testSamplesByCity.get(listIndex) == null)
+				testSamplesByCity.put(listIndex, new ArrayList<TestSample>());
+			ArrayList<TestSample> citySamples = testSamplesByCity.get(listIndex);
+			citySamples.add(sample);
+			testSamplesByCity.put(listIndex, citySamples);
+		}
 		
 		//prepping the output file
 		String fileNameDDCRP = "DDCRP_Results.csv";
@@ -229,34 +247,45 @@ public class Driver {
 		//print HEADER
 		TestResult.printHeader(outDDCRP);
 		TestResult.printHeader(outDDCRPMAP);
-		
-		
-		
+
 		for (TestSample sample : testSamples) {
-			// Predictor predictor = new Predictor(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
-			// double ddCRF = predictor.computeProbabilityForSample();
-			// double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP, thetaMAP);
-			// double multAll = baselines.predictMultProbAcrossAllCities(sample);
-			// double multEach =  baselines.predictMultProbForEachCity(sample);
-			// double ddCRFLocation = predictor.computeLocationProbabilityForSample();
-			// double predictedVal = predictor.predictMaxProbForSample();
-			// double sampleVal = sample.getObsCategory();
-			// int inTopTen = predictor.isSampleInTopTen();
-			// int inTopTenEach = baselines.inTopTenMultProbForEachCity(sample);
-			// int inTopTenAll = baselines.inTopTenMultProbAcrossAllCities(sample);
-
+			
 			CategoryPredictorDDCRP categoryPredictorDDCRP = new CategoryPredictorDDCRP(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);;
-			// double probCorrectDDCRP = categoryPredictorDDCRP.computeProbabilityForSample();
-			double probCorrectDDCRP = 0.0;
-			double probCorrectMapDDCRP = categoryPredictorDDCRP.computeProbabilityForSampleMAP(sMAP, thetaMAP);
-
-			// ArrayList<TestSample> inCitySamples = testSamplesByCity.get(sample.getListIndex());
-			// LocationPredictorDDCRF locationPredictorDDCRF = new LocationPredictorDDCRF(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
-			// double ddCRFLocation = locationPredictorDDCRF.computeLocationProbabilityForSample();
+			double probCorrectDDCRP = categoryPredictorDDCRP.computeProbabilityForSample();
+			double probCorrectMapDDCRP = categoryPredictorDDCRP.computeProbabilityForSampleMAP(sMAP);
+			double predictedCategory = categoryPredictorDDCRP.predictMaxProbForSample();
+			double predictedCategoryMAP = categoryPredictorDDCRP.predictMaxProbForSampleMAP();
+			double correctCategory = sample.getObsCategory();
+			int isPredictedCatCorrect = 0;
+			int isPredictedCatCorrectMAP = 0;
+			if(correctCategory == predictedCategory)
+			{
+				isPredictedCatCorrect = 1;
+			}
+			if(correctCategory == predictedCategoryMAP)
+			{
+				isPredictedCatCorrectMAP = 1;
+			}
+			int inTopTen = categoryPredictorDDCRP.isSampleInTopTen();
+			int inTopTenMap = categoryPredictorDDCRP.isSampleInTopTenMAP();
 			
-			
 
-			System.out.println(probCorrectDDCRP + "," + probCorrectMapDDCRP);
+			ArrayList<TestSample> inCitySamples = testSamplesByCity.get(sample.getListIndex());
+			LocationPredictorDDCRP locationPredictorDDCRP = new LocationPredictorDDCRP(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
+			double ddCRPLocationProb = locationPredictorDDCRP.computeLocationProbabilityForSample();
+			double ddCRPLocationProbMAP = locationPredictorDDCRP.computeLocationProbabilityForSampleMAP();
+			
+			int predictedLocation = locationPredictorDDCRP.predictMaxProbForLocations();
+			int predictedLocationMAP = locationPredictorDDCRP.predictMaxProbForLocationsMAP();
+			int correctLoc = sample.getObsIndex();
+			int isPredictedLocationCorrect = 0;
+			int isPredictedLocationCorrectMAP = 0;
+			
+			if(predictedLocation == correctLoc)
+				isPredictedLocationCorrect = 1;
+			
+			if(predictedLocationMAP == correctLoc)
+				isPredictedLocationCorrectMAP = 1;
 			
 			//At this point we will have all the prediction results
 			TestResult result = new TestResult();
@@ -264,19 +293,13 @@ public class Driver {
 			
 			//setting the category prediction result
 			result.setCorrectCategoryPredictionProb(probCorrectDDCRP);
-			
-			//These are the things which are needed to be filled up still
-			/**
-			 *
-			 * result.setPredictedCategory(predictedVal);
-			result.setPredictedCategoryCorrect(isPredictedValCorrect);
+			result.setPredictedCategory(predictedCategory);
 			result.setInTopTen(inTopTen);
-			//setting the location prediction results
-			result.setCorrectLocationPredictionProb(ddCRFLocation);
-			//result.setPredictedLocation(predictedLocation);
-			//result.setPredictedLocationCorrect(isPredictedLocationCorrect);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrect);
+			result.setCorrectLocationPredictionProb(ddCRPLocationProb);
+			result.setPredictedLocation(predictedLocation);
+			result.setPredictedLocationCorrect(isPredictedLocationCorrect);
 			
-			*/
 			//setting the location prediction results
 			//TIME TO PRINT
 			result.printTestResults(outDDCRP);
@@ -285,11 +308,12 @@ public class Driver {
 			result.setSample(sample); //setting the test sample
 			//setting the category prediction result
 			result.setCorrectCategoryPredictionProb(probCorrectMapDDCRP);
-			/* Need to implement this still
-			result.setPredictedCategory(predictedVal);
-			result.setPredictedCategoryCorrect(isPredictedValCorrect);
-			result.setInTopTen(inTopTen);
-			*/
+			result.setPredictedCategory(predictedCategoryMAP);
+			result.setInTopTen(inTopTenMap);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrectMAP);
+			result.setCorrectLocationPredictionProb(ddCRPLocationProbMAP);
+			result.setPredictedLocation(predictedLocationMAP);
+			result.setPredictedLocationCorrect(isPredictedLocationCorrectMAP);
 			
 			//setting the location prediction results
 			
@@ -311,6 +335,7 @@ public class Driver {
 			
 		}		
 		outDDCRP.close();
+		outDDCRPMAP.close();
 	}
 
 	public static void doDDCRF(int numIter, HyperParameters h, HashSet<TestSample> testSamples) throws FileNotFoundException {
@@ -366,11 +391,11 @@ public class Driver {
 
 		
 
-	  // store the values of the SamplerState densities for future use
-	  HashMap<Integer, Double> samplerStatePosteriorDensities = new HashMap<Integer, Double>();
+	// store the values of the SamplerState densities for future use
+      HashMap<Integer, Double> samplerStatePosteriorDensities = new HashMap<Integer, Double>();
 
-	  // store the values of the SamplerState theta for future use
-	  HashMap<Integer, Theta> samplerStateThetas = new HashMap<Integer, Theta>();
+      // store the values of the SamplerState theta for future use
+      HashMap<Integer, Theta> samplerStateThetas = new HashMap<Integer, Theta>();
 
     ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
     for (Integer i=0; i<states.size(); i++) {
@@ -407,19 +432,7 @@ public class Driver {
 		TestResult.printHeader(outDDCRF);
 		TestResult.printHeader(outDDCRFMAP);
 		
-		for (TestSample sample : testSamples) {
-			// Predictor predictor = new Predictor(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
-			// double ddCRF = predictor.computeProbabilityForSample(); //predicted prob. of correct category
-			// double ddCRFMap = predictor.computeProbabilityForSampleMAP(sMAP, thetaMAP); //same as above -- just taking the MAP estimate
-			// double multAll = baselines.predictMultProbAcrossAllCities(sample);
-			// double multEach =  baselines.predictMultProbForEachCity(sample);
-			// double ddCRFLocation = predictor.computeLocationProbabilityForSample(); //normalized prob of the venue at the correct location.
-			// double predictedVal = predictor.predictMaxProbForSample();// will return the catedory for the max prob
-			// double sampleVal = sample.getObsCategory(); //correct category of the sample; to be compared to predictedVal
-			// int inTopTen = predictor.isSampleInTopTen(); // binary whether in top 10 category
-			// int inTopTenEach = baselines.inTopTenMultProbForEachCity(sample); // next two are baselines of that
-			// int inTopTenAll = baselines.inTopTenMultProbAcrossAllCities(sample);
-			
+		for (TestSample sample : testSamples) {	
 			//Additionally we need to log - real category and city and venue_id (Done)
 			//Also lets implement a predictedVal for baselines multAll and multEach
 			//We also have to implement the predictedLocation	 -- to compute the number of times we predicted the correct location.
@@ -433,49 +446,57 @@ public class Driver {
 
 			CategoryPredictorDDCRF categoryPredictorDDCRF = new CategoryPredictorDDCRF(p, l, sample, samplerStatePosteriorDensities, samplerStateThetas);;
 			double probCorrectDDCRF = categoryPredictorDDCRF.computeProbabilityForSample(); //predicted prob. of correct category
-			double probCorrectMapDDCRF = categoryPredictorDDCRF.computeProbabilityForSampleMAP(sMAP, thetaMAP); //same as above -- just taking the MAP estimate
+			double probCorrectMapDDCRF = categoryPredictorDDCRF.computeProbabilityForSampleMAP(sMAP); //same as above -- just taking the MAP estimate
 			//adding in the baselines
-			
-			double predictedVal = categoryPredictorDDCRF.predictMaxProbForSample();
-			//double predictedMAPVal = THIS NEEDS TO BE IMPLEMENTED 
-			double sampleVal = sample.getObsCategory(); //correct category of the sample; to be compared to predictedVal
-			boolean isPredictedValCorrect = false;
-			if(predictedVal == sampleVal)
-				isPredictedValCorrect = true;
-			boolean isPredictedMapValCorrect = false; //THIS NEEDS TO BE IMPLEMENTED
-			
-			
-			int inTopTen = categoryPredictorDDCRF.isSampleInTopTen(); // binary whether in top 10 category
-			
+
+			double predictedCategory = categoryPredictorDDCRF.predictMaxProbForSample();
+			double predictedCategoryMAP = categoryPredictorDDCRF.predictMaxProbForSampleMAP();
+			double correctCategory = sample.getObsCategory(); //correct category of the sample; to be compared to predictedVal
+			int isPredictedCatCorrect = 0;
+			if(predictedCategory == correctCategory)
+				isPredictedCatCorrect = 1;
+			int isPredictedCatCorrectMAP = 0;
+			if(correctCategory == predictedCategoryMAP)
+			{
+				isPredictedCatCorrectMAP = 1;
+			}
+			int inTopTen = categoryPredictorDDCRF.isSampleInTopTen();
+			int inTopTenMap = categoryPredictorDDCRF.isSampleInTopTenMAP();
 			
 			ArrayList<TestSample> inCitySamples = testSamplesByCity.get(sample.getListIndex());
 			LocationPredictorDDCRF locationPredictorDDCRF = new LocationPredictorDDCRF(p, l, sample, inCitySamples, samplerStatePosteriorDensities, samplerStateThetas);
-			double ddCRFLocation = locationPredictorDDCRF.computeLocationProbabilityForSample(); //normalized prob of the venue at the correct location.
-
-			System.out.println(probCorrectDDCRF + "," + probCorrectMapDDCRF + "," + ddCRFLocation);
-
-			// System.out.println(probCorrectDDCRF + "," + probCorrectDDCRF + "," + multAll + "," + multEach + "," + ddCRFLocation + "," + predictedVal + "," + sampleVal + "," + inTopTen + "," + inTopTenEach + "," + inTopTenAll);
 			
+			double ddCRFLocationProb = locationPredictorDDCRF.computeLocationProbabilityForSample();
+			double ddCRFLocationProbMAP = locationPredictorDDCRF.computeLocationProbabilityForSampleMAP();
+			
+			int predictedLocation = locationPredictorDDCRF.predictMaxProbForLocations();
+			int predictedLocationMAP = locationPredictorDDCRF.predictMaxProbForLocationsMAP();
+			int correctLoc = sample.getObsIndex();
+			int isPredictedLocationCorrect = 0;
+			int isPredictedLocationCorrectMAP = 0;
+			
+			if(predictedLocation == correctLoc)
+				isPredictedLocationCorrect = 1;
+			
+			if(predictedLocationMAP == correctLoc)
+				isPredictedLocationCorrectMAP = 1;
+	
 			//At this point we will have all the prediction results
+			
 			TestResult result = new TestResult();
 			result.setSample(sample); //setting the test sample
 			
 			//setting the category prediction result
 			result.setCorrectCategoryPredictionProb(probCorrectDDCRF);
-			result.setPredictedCategory(predictedVal);
-			result.setPredictedCategoryCorrect(isPredictedValCorrect);
+			result.setPredictedCategory(predictedCategory);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrect);
 			result.setInTopTen(inTopTen);
 			
 			//setting the location prediction results
-			result.setCorrectLocationPredictionProb(ddCRFLocation);
+			result.setCorrectLocationPredictionProb(ddCRFLocationProb);
+			result.setPredictedLocation(predictedLocation);
+			result.setPredictedLocationCorrect(isPredictedLocationCorrect);
 			
-			//These are the things which are needed to be filled up still
-			/**
-			 * 
-			//result.setPredictedLocation(predictedLocation);
-			//result.setPredictedLocationCorrect(isPredictedLocationCorrect);
-			
-			*/
 			//TIME TO PRINT
 			result.printTestResults(outDDCRF);
 			
@@ -483,24 +504,16 @@ public class Driver {
 			result.setSample(sample); //setting the test sample
 			//setting the category prediction result
 			result.setCorrectCategoryPredictionProb(probCorrectMapDDCRF);
-			/* Need to implement this still
-			result.setPredictedCategory(predictedVal);
-			result.setPredictedCategoryCorrect(isPredictedValCorrect);
-			result.setInTopTen(inTopTen);
-			*/
+			result.setPredictedCategory(predictedCategoryMAP);
+			result.setPredictedCategoryCorrect(isPredictedCatCorrectMAP);
+			result.setInTopTen(inTopTenMap);
 			
 			//setting the location prediction results
+			result.setCorrectLocationPredictionProb(ddCRFLocationProbMAP);
+			result.setPredictedLocation(predictedLocationMAP);
+			result.setPredictedLocationCorrect(isPredictedLocationCorrectMAP);
 			
-			
-			//These are the things which are needed to be filled up still
-			/**
-			 *
-			 * result.setCorrectLocationPredictionProb(ddCRMAPFLocation);
-			//result.setPredictedLocation(predictedLocation);
-			//result.setPredictedLocationCorrect(isPredictedLocationCorrect);
-			
-			*/
-			
+			//setting the location prediction results			
 			result.printTestResults(outDDCRFMAP);
 			
 			

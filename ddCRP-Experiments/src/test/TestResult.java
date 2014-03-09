@@ -25,7 +25,7 @@ public class TestResult {
 	//double correctCategoryPredictionMultEach;
 	double predictedCategory; //corresponding category for the max prob of the predicted multinomial
 	//double predictedMAPCategory; //corresponding category for the max prob of the predicted MAP multinomial
-	boolean isPredictedCategoryCorrect; 
+	int  isPredictedCategoryCorrect; 
 	//boolean isPredictedMAPCategoryCorrect; 
 	int inTopTen;
 	//int inTopTenEach;
@@ -40,7 +40,7 @@ public class TestResult {
 	double predictedLocation; //corresponding location for the max prob of the predicted multinomial
 	//double predictedMAPLocation;//corresponding location for the max prob of the predicted MAP multinomial
 	//double baseLineProb; // would be 1/{number of possible locations}.
-	boolean isPredictedLocationCorrect;
+	int isPredictedLocationCorrect;
 	//boolean isPredictedMAPLocationCorrect;
 	//boolean doWeBeatLocationBaseline;
 	//boolean doWeBeatLocationBaselineMAP;
@@ -75,6 +75,7 @@ public class TestResult {
 		resultLine = resultLine + correctCategoryPredictionProb +delim +  predictedCategory + delim + isPredictedCategoryCorrect + delim + inTopTen + delim;
 		resultLine = resultLine + correctLocationPredictionProb + delim + predictedLocation + delim + isPredictedLocationCorrect;
 		out.println(resultLine);
+		out.flush();
 	}
 	
 	
@@ -119,10 +120,10 @@ public class TestResult {
 	public void setPredictedCategory(double predictedCategory) {
 		this.predictedCategory = predictedCategory;
 	}
-	public boolean isPredictedCategoryCorrect() {
+	public int isPredictedCategoryCorrect() {
 		return isPredictedCategoryCorrect;
 	}
-	public void setPredictedCategoryCorrect(boolean isPredictedCategoryCorrect) {
+	public void setPredictedCategoryCorrect(int isPredictedCategoryCorrect) {
 		this.isPredictedCategoryCorrect = isPredictedCategoryCorrect;
 	}
 	public int getInTopTen() {
@@ -169,10 +170,10 @@ public class TestResult {
 	public void setBaseLineProb(double baseLineProb) {
 		this.baseLineProb = baseLineProb;
 	}*/
-	public boolean isPredictedLocationCorrect() {
+	public int isPredictedLocationCorrect() {
 		return isPredictedLocationCorrect;
 	}
-	public void setPredictedLocationCorrect(boolean isPredictedLocationCorrect) {
+	public void setPredictedLocationCorrect(int isPredictedLocationCorrect) {
 		this.isPredictedLocationCorrect = isPredictedLocationCorrect;
 	}
 	/*public boolean isDoWeBeatLocationBaseline() {
