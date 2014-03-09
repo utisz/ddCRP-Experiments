@@ -39,7 +39,6 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
 
   @Override
   public double computeLocationProbabilityForSample() {
-    computeProbabilityForAllLocations();
     return probabilityForLocation.get(sample);   
   }
  
@@ -114,7 +113,6 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
    */
   @Override
   public int predictMaxProbForLocations() {
-    computeProbabilityForAllLocations();
     double maxProb = -1.0;
     TestSample maxProbSample = null;
     for (TestSample s: inCitySamples) {
