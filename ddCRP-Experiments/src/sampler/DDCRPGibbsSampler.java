@@ -105,7 +105,7 @@ public class DDCRPGibbsSampler {
         //sample customer link for this observation
         //if(venue_ids.get(j)==null) //if it is not a part of the test sample.
           //sampleLink(j,i,l,venue_ids); //sending the list (city) and the index so that the observation can be accessed
-        sampleLink(j,i,l);
+        sampleLink(j,i,l,testSamples);
       }
       LOGGER.log(Level.FINE, "Done for list "+i);
       //System.out.println("Done for list "+i);
@@ -119,7 +119,7 @@ public class DDCRPGibbsSampler {
    * @param list_index
    * @param ll
    */
-  private static void sampleLink(Integer index, int list_index, Likelihood ll)
+  private static void sampleLink(Integer index, int list_index, Likelihood ll, HashSet<TestSample> testSamples)
   {
     LOGGER.log(Level.FINE, "Sampling link for index "+index+" list_index "+list_index);
 
@@ -233,6 +233,15 @@ public class DDCRPGibbsSampler {
     //For that we calculate the change in likelihood if there are joins of tables
 
     // Compute components of the change in likelihood that don't varry across the posterior for a proposed link
+
+    // Remove the test data from the original_table_members
+    ArrayList<Integer> orig_table_members_minus_test = new ArrayList<Integer>(); //this will hold the table members of the customer, if there is a split, we will update it to point to the members of the new table
+    for (Integer tm : orig_table_members) {
+      TestSample ts = new TestSample(list_index, tm, -1);
+      if (!testSamples.contains(ts)) {
+        orig_table_members_minus_test.add(tm);
+      } 
+    }
     
     ArrayList<Double> posterior = new ArrayList<Double>(); //this will hold the posterior probabilities for all possible customer assignment and we will sample according to these probabilities
     ArrayList<Integer> indexes = new ArrayList<Integer>(); // for storing the indexes of the customers who could be possible assignments
@@ -253,12 +262,20 @@ public class DDCRPGibbsSampler {
         }
         else //will have to compute the change in likelihood
         {         
-
           HashSet<Integer> proposedTableMembersSet = s.getCustomersAtTable(table_proposed, list_index);
           ArrayList<Integer> proposed_table_members = new ArrayList<Integer>(proposedTableMembersSet);
 
+          // Remove the test data from the proposed_table_members
+          ArrayList<Integer> proposed_table_members_minus_test = new ArrayList<Integer>(); //this will hold the table members of the customer, if there is a split, we will update it to point to the members of the new table
+          for (Integer tm : proposed_table_members) {
+            TestSample ts = new TestSample(list_index, tm, -1);
+            if (!testSamples.contains(ts)) {
+              proposed_table_members_minus_test.add(tm);
+            } 
+          }
+
           //Now compute the change in likelihood
-          double change_in_log_likelihood = compute_change_in_likelihood(ll,orig_table_members,proposed_table_members,list_index);          
+          double change_in_log_likelihood = compute_change_in_likelihood(ll,orig_table_members_minus_test,proposed_table_members_minus_test,list_index);          
           double logPosterior = Math.log(priors.get(i)) + change_in_log_likelihood;
 
           if (logPosterior > maxLogPosterior)
@@ -326,6 +343,9 @@ public class DDCRPGibbsSampler {
    */
   private static double compute_change_in_likelihood(Likelihood l,ArrayList<Integer> orig_table_members,ArrayList<Integer> proposed_table_members,int list_index )
   {
+    if (orig_table_members.size() == 0 || proposed_table_members.size() == 0)
+      return 0.0;
+
     double orig_table_loglikelihood = l.computeTableLogLikelihoodFromCustomers(orig_table_members, list_index);
     double proposed_table_loglikelihood = l.computeTableLogLikelihoodFromCustomers(proposed_table_members, list_index);
     
