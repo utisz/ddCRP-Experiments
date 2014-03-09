@@ -38,6 +38,9 @@ public class Driver {
 	public static String outputDir;
 	
 	public static int numSamples;
+	
+	public static int numIter; //for ddcrp
+	public static int numIterDDCRF;
 
 	/**
 	 * @param args
@@ -88,7 +91,8 @@ public class Driver {
 
 			outputDir = args[7];
 			
-			int numIter = Integer.parseInt(args[0]);
+			numIter = Integer.parseInt(args[0]);
+			numIterDDCRF = Integer.parseInt(args[8]);
 			
 			// set the output directory based on the parameters
 			//Util.setOutputDirectoryFromArgs(numIter, dirichlet_param, alpha, crp_alpha, test);
@@ -100,7 +104,7 @@ public class Driver {
 			SamplerStateTracker.samplerStates = new ArrayList<SamplerState>();
 			//set the current-iter to 0
 			SamplerStateTracker.current_iter = 0;
-			doDDCRF(numIter, h, testSamples);
+			doDDCRF(numIterDDCRF, h, testSamples);
 
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
@@ -115,6 +119,7 @@ public class Driver {
 	 */
 	public static void doBaseLines(HashSet<TestSample> testSamples) throws FileNotFoundException
 	{
+		System.out.println("######## STARTING BASELINES ############");
 		// Run a test
 		Baselines baselines = new Baselines(testSamples);
 		baselines.fitMultinomialAcrossAllCities();
@@ -175,11 +180,13 @@ public class Driver {
 		}
 		outBaseLineAll.close();
 		outBaseLineEach.close();
+		
+		System.out.println("######## END BASELINES ############");
 	}
 
 	public static void doDDCRP(int numIter, HyperParameters h, HashSet<TestSample> testSamples) throws FileNotFoundException {
 		
-		System.out.println("Starting DDCRP");
+		System.out.println("######## STARTING DDCRP ############");
 		
 		ArrayList<ArrayList<Double>> list_observations = Data.getObservations();	
 		SamplerStateTracker.initializeSamplerState(list_observations);
@@ -348,11 +355,13 @@ public class Driver {
 		}		
 		outDDCRP.close();
 		outDDCRPMAP.close();
+		
+		System.out.println("######## STARTING DDCRP ############");
 	}
 
 	public static void doDDCRF(int numIter, HyperParameters h, HashSet<TestSample> testSamples) throws FileNotFoundException {
 		
-		System.out.println("Start of DDCRF...");
+		System.out.println("######## STARTING DDCRF ############");
 		
 		ArrayList<ArrayList<Double>> list_observations = Data.getObservations();	
 		SamplerStateTracker.initializeSamplerState(list_observations);
@@ -528,7 +537,7 @@ public class Driver {
 			
 			//setting the location prediction results			
 			result.printTestResults(outDDCRFMAP);
-			
+			System.out.println("######## ENDING DDCRF ############");
 			
 		}		
 		outDDCRF.close();

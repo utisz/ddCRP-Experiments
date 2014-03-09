@@ -1,10 +1,11 @@
 #!/bin/bash
 
-usage() { echo "Usage: $0 [-n  <num_iter> -v <vocab_size> -d <dirichlet_concentration_param> -s <self_linkage_prob> -t <crp_self_link_prob>] -z {venue|space|cat} -m <num_samples> -e <num_experiments>" 1>&2;
+usage() { echo "Usage: $0 [-n  <num_iter> -f <num_iter_ddcrf> -v <vocab_size> -d <dirichlet_concentration_param> -s <self_linkage_prob> -t <crp_self_link_prob>] -z {venue|space|cat} -m <num_samples> -e <num_experiments>" 1>&2;
           echo -e  "\nnum_iter and vocab_size are required parameters. dirichlet_parameter is defaulted to 0.3 and self_linkage_prob is defaulted to 0.1. num_samples is defaulted to 25 and num_experiments is defaulted to 1. Default sampling is across venue_ids"       
 
 	exit 1; }
 numIter=
+num_iter_ddcrf=
 vocabSize=
 dir_param=0.3 #default value
 self_link_prob=0.1 #default value
@@ -14,7 +15,7 @@ num_samples=25 #default value of number of samples from each city
 num_experiments=1 #default value of number of experiments
 
 OUTPUTCSVFILE=./output.csv
-while getopts ":n:v:d:s:t:hz:e:m:" o; do
+while getopts ":n:v:d:s:t:hz:e:m:f:" o; do
 
 	case "${o}" in
 		
@@ -55,6 +56,9 @@ while getopts ":n:v:d:s:t:hz:e:m:" o; do
 			usage;
 			exit 1;
 			;;
+		f)
+			num_iter_ddcrf=$OPTARG
+			;;
 		\?) 
 			echo "Invalid option -$OPTARG"
 			exit 1;
@@ -67,6 +71,12 @@ while getopts ":n:v:d:s:t:hz:e:m:" o; do
 done
 
 if [ -z $numIter ];
+then
+	usage;
+	exit 1;
+fi
+
+if [ -z $num_iter_ddcrf ];
 then
 	usage;
 	exit 1;
@@ -92,7 +102,7 @@ echo "########  Running  $num_experiments experiments with sampling across $samp
 #First removing the LATEST dir
 rm -rf run/LATEST
 time_stamp=$(date +"%m-%d-%Y:%H:%M:%S")
-DIR_NAME=run/$time_stamp/$numIter/$dir_param/$self_link_prob/$crp_self_link_prob/$sample_string
+DIR_NAME=run/$time_stamp/$numIter/$num_iter_ddcrf/$dir_param/$self_link_prob/$crp_self_link_prob/$sample_string
 mkdir -p $DIR_NAME
 ln -s  `pwd`/run/$time_stamp `pwd`/run/LATEST
 #ln -s  run/$time_stamp run/LATEST
@@ -103,6 +113,6 @@ do
 	mkdir -p $DIR_NAME/$i
 	echo "#######Starting to run $i trial###########"
 javac -sourcepath src/ -d bin/ -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar" src/Driver.java
-java -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar:bin" Driver $numIter $vocabSize $dir_param $self_link_prob $crp_self_link_prob $sample $num_samples $DIR_NAME/$i/
+java -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar:bin" Driver $numIter $vocabSize $dir_param $self_link_prob $crp_self_link_prob $sample $num_samples $DIR_NAME/$i/ $num_iter_ddcrf
 	echo "###### Finished running $i trials ########" 
 done
