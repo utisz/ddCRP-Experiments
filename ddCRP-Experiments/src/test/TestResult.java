@@ -46,6 +46,7 @@ public class TestResult {
 	//boolean doWeBeatLocationBaselineMAP;
 	
 	static String delim = ",";
+	public static int  numSamples;
 	
 	/**
 	 * 
@@ -55,7 +56,7 @@ public class TestResult {
 	{
 		String header = "city"+delim+"index_within_city"+delim+"venue_cat"+delim;
 		header=header + "correctCategoryPredictionProb" +delim +  "predictedCategory" + delim + "isPredictedCategoryCorrect" + delim + "inTopTen"+delim;
-		header=header + "correctLocationPredictionProb" + delim + "predictedLocation" + delim + "isPredictedLocationCorrect";
+		header=header + "correctLocationPredictionProb" + delim + "predictedLocation" + delim + "isPredictedLocationCorrect"+delim+"numSample";
 		out.println(header);
 	}
 	
@@ -73,7 +74,7 @@ public class TestResult {
 	{
 		String resultLine = sample.getListIndex()+delim+sample.getObsIndex() + delim + sample.getObsCategory()+delim;
 		resultLine = resultLine + correctCategoryPredictionProb +delim +  predictedCategory + delim + isPredictedCategoryCorrect + delim + inTopTen + delim;
-		resultLine = resultLine + correctLocationPredictionProb + delim + predictedLocation + delim + isPredictedLocationCorrect;
+		resultLine = resultLine + correctLocationPredictionProb + delim + predictedLocation + delim + isPredictedLocationCorrect+ delim + numSamples;
 		out.println(resultLine);
 		out.flush();
 	}

@@ -263,6 +263,60 @@ public class Util {
 		p.close();
 		
 	}
+	
+	
+	public static void outputCSVforMapDDCRP(SamplerState s)
+	{		
+		//read the city_venue files for all cities
+		ArrayList<ArrayList<Venue>> allVenues = getVenues();
+		ArrayList<ArrayList<Double>> allObservations = Data.getObservations(); // all observations
+		
+		ArrayList<String> venueCategories = getVenueCategories();
+
+		HashSet<Integer> allTopicIds = s.getAllTopics();
+		Iterator<Integer> iter = allTopicIds.iterator();
+		PrintStream p = null;
+		try {
+			 p = new PrintStream(clustersOutCSVPath);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		while(iter.hasNext()) //over all topic_ids
+		{
+			Integer topicId = iter.next();
+			if(topicId != null)		
+			{
+				HashSet<CityTable> cityTables = s.getCityTablesForTopic(topicId);
+				Iterator<CityTable> ctIter = cityTables.iterator();
+				while(ctIter.hasNext()) //over all citytables in a topic
+				{
+					CityTable ct = ctIter.next();
+					int cityId = ct.getCityId();
+					int tableId = ct.getTableId();
+					HashSet<Integer> customerIndices = s.getCustomersAtTable(tableId, cityId);
+					ArrayList<Double> allObservationsInCity = allObservations.get(cityId);
+					Iterator<Integer> venueIter = customerIndices.iterator();
+					while(venueIter.hasNext()) //over venues at a table of a topic
+					{
+						Integer venueId = venueIter.next();
+						if(venueId != null)
+						{
+							Venue v = allVenues.get(cityId).get(venueId);
+							v.setTableId(tableId);
+							v.setTopicId(topicId);							
+							Double obs = allObservationsInCity.get(venueId);
+							v.setVenueCategoryId(obs.intValue());
+							v.setVenueCategory(venueCategories.get(obs.intValue()-1));							
+							v.printVenueConfig(p);
+						}
+					}
+				}
+			}
+		}
+		p.close();
+		
+	}
 
 
 
