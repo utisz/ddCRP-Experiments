@@ -72,7 +72,8 @@ public abstract class Theta {
       BufferedReader reader = new BufferedReader(new FileReader(vocabFile));
       String line;
       while ((line = reader.readLine())!=null) 
-        vocabulary.add(line);     
+        vocabulary.add(line);  
+      reader.close();   
     } catch(FileNotFoundException ex){
       ex.printStackTrace();
     } catch(IOException ex){
