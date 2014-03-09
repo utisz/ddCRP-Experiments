@@ -92,7 +92,7 @@ echo "########  Running  $num_experiments experiments with sampling across $samp
 #First removing the LATEST dir
 rm -rf run/LATEST
 time_stamp=$(date +"%m-%d-%Y:%H:%M:%S")
-DIR_NAME=run/$time_stamp/$dir_param/$self_link_prob/$crp_self_link_prob/$sample_string
+DIR_NAME=run/$time_stamp/$numIter/$dir_param/$self_link_prob/$crp_self_link_prob/$sample_string
 mkdir -p $DIR_NAME
 ln -s  `pwd`/run/$time_stamp `pwd`/run/LATEST
 #ln -s  run/$time_stamp run/LATEST
