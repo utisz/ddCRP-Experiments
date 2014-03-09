@@ -36,6 +36,8 @@ public class Driver {
 	 * The prediction results will be logged in this directory.
 	 */
 	public static String outputDir;
+	
+	public static int numSamples;
 
 	/**
 	 * @param args
@@ -61,7 +63,8 @@ public class Driver {
 	
 			//get the type of sampling to be done
 			int sampleType = Integer.parseInt(args[5]);
-			int numSamples = Integer.parseInt(args[6]);
+			numSamples = Integer.parseInt(args[6]);
+			TestResult.numSamples = numSamples; //setting the num samples for test result
 			HashSet<TestSample> testSamples = null;
 			if(sampleType == 1) //uniform across venues
 			{
@@ -209,6 +212,9 @@ public class Driver {
 		System.out.println("FINAL STATE");
 		System.out.println("----------------------");		
 		sMAP.prettyPrint(System.out);
+		
+		//Util.setOutputDirectory(outputDir+"/DDCRP_MAP/");
+		//Util.outputCSVforMap(sMAP);
 	
 	  // store the values of the SamplerState densities for future use
 	  HashMap<Integer, Double> samplerStatePosteriorDensities = new HashMap<Integer, Double>();
@@ -219,7 +225,7 @@ public class Driver {
 	  ArrayList<SamplerState> states = SamplerStateTracker.samplerStates;
 	    for (Integer i=0; i<states.size(); i++) {
 	    	SamplerState s = states.get(i);
-	      double logPosteriorDensity = s.getLogPosteriorDensity(l);
+	      double logPosteriorDensity = s.getLogPosteriorDensityDDCRP((DirichletLikelihood) l);
 	      samplerStatePosteriorDensities.put(i, logPosteriorDensity);
 	    }
 	  
@@ -381,9 +387,8 @@ public class Driver {
 		sMAP.prettyPrint(System.out);
 
 		//Printing the output csv file
-		
+		Util.setOutputDirectory(outputDir+"/DDCRF_mapping/");
 		Util.outputCSVforMap(sMAP);
-
 		ThetaDDCRF t = new ThetaDDCRF(sMAP, h);
 		t.estimateThetas();
 		Util.outputTopKWordsPerTopic(t, 15);
