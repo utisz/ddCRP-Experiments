@@ -51,14 +51,37 @@ public class Baselines {
    * Returns the observation that has the largest probability in the multinomial
    */
   public double predictMaxProbForSampleAcrossAllCities(TestSample s) {
-    return 0.0;
+    double maxProb = -1.0;
+    double maxObs = -1.0;
+    for (Double obs : multinomailAcrossAllCities.keySet()) {
+      Double prob = multinomailAcrossAllCities.get(obs);
+      if (prob == null)
+        prob = 0.0;     
+      if (prob > maxProb) {
+        maxProb = prob;
+        maxObs = obs;
+      }      
+    }
+    return maxObs; // observation category is one plus the index
   }
 
   /*
    * Returns the observation that has the largest probability in the multinomial
    */
   public double predictMaxProbForSampleForEachCity(TestSample s) {
-    return 0.0;
+    int listIndex = s.getListIndex();
+    double maxProb = -1.0;
+    double maxObs = -1.0;
+    for (Double obs : multinomailAcrossAllCities.keySet()) {
+      Double prob = multinomialForEachCity.get(listIndex).get(obs);
+      if (prob == null)
+        prob = 0.0;      
+      if (prob > maxProb) {
+        maxProb = prob;
+        maxObs = obs;
+      }      
+    }
+    return maxObs; // observation category is one plus the index
   }
 
 	public int inTopTenMultProbForEachCity(TestSample s) {
@@ -88,6 +111,8 @@ public class Baselines {
     }
     return 0;
 	}
+
+
 
 	public int inTopTenMultProbAcrossAllCities(TestSample s) {
     int listIndex = s.getListIndex();
