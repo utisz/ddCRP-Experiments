@@ -65,7 +65,6 @@ public class TestUniformSpace extends Test {
         String gridKey = gridKeys.get(gridKeyIndex);
         ArrayList<Venue> gridVenues = cityVenuesHash.get(gridKey);
         int venueSampleIndex = r.nextInt(gridVenues.size());
-        System.out.println(gridVenues.size());
         Venue venueSample = gridVenues.get(venueSampleIndex);
         int venueIndex = venueSample.getObsId();
         TestSample t = new TestSample(i, venueIndex, allObservations.get(i).get(venueIndex)); //1st arg: venue_index within a city; 2nd arg: city index, 3rd arg: venue category

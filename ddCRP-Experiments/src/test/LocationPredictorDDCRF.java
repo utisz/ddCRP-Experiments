@@ -76,6 +76,38 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
     }
   }
   
+  public void computeProbabilityForAllLocationsMAP(SamplerState s) {
+    Integer trueObservation = sample.getObsCategory().intValue() - 1;
+    for (TestSample sam : inCitySamples) {
+      double prob = computeLogProbabilityForSampleAtValueMAP(s, sam, trueObservation);
+      probabilityForLocation.put(sam, prob);
+    }
+
+    // Handle underflow problems
+    Double maxLogProb = Double.NEGATIVE_INFINITY;
+    for (Double logProb : probabilityForLocation.values()) {
+      if (logProb > maxLogProb)
+        maxLogProb = logProb;
+    }
+
+    // scale by maxLogProb then exponentiate
+    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
+      TestSample key = entry.getKey();
+      Double value = entry.getValue();
+      probabilityForLocation.put(key, Math.exp(value - maxLogProb));
+    }
+
+    // Normalize
+    double sum = 0;
+    for (Double value : probabilityForLocation.values()) 
+      sum += value;
+    for (Entry<TestSample, Double> entry : probabilityForLocation.entrySet()) {
+      TestSample key = entry.getKey();
+      Double value = entry.getValue();
+      probabilityForLocation.put(key, value / sum);
+    }
+  }
+
   /*
    * This method is the same as the DDCRP implementation. Suggest we should figure out a better
    * class structure
@@ -94,15 +126,28 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
     }
     return maxProbSample.getObsIndex(); 
   }
-  public int  predictMaxProbForLocationsMAP()
-  {
-	  return 0;
-  }
-  /*
-   * Using the location probability using the MAP plugin estimate
-   */
-  public double computeLocationProbabilityForSampleMAP() {
-    return 0.0;
-  }
+
+  // public int  predictMaxProbForLocationsMAP(SamplerState s) {
+  //   computeProbabilityForAllLocationsMAP(s);
+  //   double maxProb = -1.0;
+  //   TestSample maxProbSample = null;
+  //   for (TestSample sam: inCitySamples) {
+  //     double prob = probabilityForLocation.get(sam);
+  //     if (prob > maxProb) {
+  //       maxProb = prob;
+  //       maxProbSample = sam;
+  //     }
+  //   }
+  //   return maxProbSample.getObsIndex();
+  // }
+
+
+  // /*
+  //  * Using the location probability using the MAP plugin estimate
+  //  */
+  // public double computeLocationProbabilityForSampleMAP(SamplerState s) {
+  //   computeProbabilityForAllLocationsMAP(s);
+  //   return probabilityForLocation.get(sample);   
+  // }
   
 }

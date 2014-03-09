@@ -90,13 +90,44 @@ abstract public class CategoryPredictor {
       probabilityForObservation.set(i, probabilityForObservation.get(i) / normConst);    
   }
 
+  public void computeProbabilityOfAllOutcomesMAP(SamplerState s) {
+    probabilityForObservation = new ArrayList<Double>();
+    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++)
+      probabilityForObservation.add(Double.NEGATIVE_INFINITY);
+
+    for (int i=0; i<likelihood.getHyperParameters().getVocabSize(); i++) 
+      probabilityForObservation.set(i, computeLogProbabilityForSampleAtValueMAP(s, sample, i));
+
+    // Handle underflow problems
+    Double maxLogProb = Double.NEGATIVE_INFINITY;
+    for (int i=0; i<probabilityForObservation.size(); i++) {
+      double logProb = probabilityForObservation.get(i);
+      if (logProb > maxLogProb)
+        maxLogProb = logProb;
+    }
+
+    // scale by maxLogProb then exponentiate
+    for (int i=0; i<probabilityForObservation.size(); i++)
+      probabilityForObservation.set(i, Math.exp(probabilityForObservation.get(i) - maxLogProb) );
+
+    // now normalize
+    double normConst = 0.0;
+    for (Double p : probabilityForObservation)
+      normConst += p;
+    for (int i=0; i<probabilityForObservation.size(); i++)
+      probabilityForObservation.set(i, probabilityForObservation.get(i) / normConst); 
+  }
+
   public double computeProbabilityForSample() {
-    computeProbabilityOfAllOutcomes();
     return probabilityForObservation.get(sample.getObsCategory().intValue() - 1);   
   }
 
+  // public double computeProbabilityForSampleMAP(SamplerState s) {
+  //   int observation = sample.getObsCategory().intValue() - 1;
+  //   return computeLogProbabilityForSampleAtValueMAP(s, sample, observation);
+  // }
+
   public int isSampleInTopTen() {
-    computeProbabilityOfAllOutcomes();
     double probAtSample = probabilityForObservation.get(sample.getObsCategory().intValue() - 1);  
     ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probabilityForObservation);
     Collections.sort(sortedProbabilityForObservation);
@@ -108,8 +139,20 @@ abstract public class CategoryPredictor {
     return 0;
   }
 
+  // public int isSampleInTopTenMAP(SamplerState s) {
+  //   computeProbabilityOfAllOutcomesMAP(s);
+  //   double probAtSample = probabilityForObservation.get(sample.getObsCategory().intValue() - 1);  
+  //   ArrayList<Double> sortedProbabilityForObservation = new ArrayList<Double>(probabilityForObservation);
+  //   Collections.sort(sortedProbabilityForObservation);
+  //   Collections.reverse(sortedProbabilityForObservation);
+  //   for (int i=0; i<10; i++) {
+  //     if (probAtSample >= sortedProbabilityForObservation.get(i))
+  //       return 1;
+  //   }
+  //   return 0;
+  // }
+
   public double predictMaxProbForSample() {
-    computeProbabilityOfAllOutcomes();
     double maxProb = -1.0;
     int maxProbIndex = 0;
     for (int i=0; i<probabilityForObservation.size(); i++) {
@@ -122,16 +165,25 @@ abstract public class CategoryPredictor {
     return (double) maxProbIndex + 1; // observation category is one plus the index
   }
 
-  public double predictMaxProbForSampleMAP() {
-    return 0.0;
-  }
+  // public double predictMaxProbForSampleMAP(SamplerState s) {
+  //   computeProbabilityOfAllOutcomesMAP(s);
+  //   double maxProb = -1.0;
+  //   int maxProbIndex = 0;
+  //   for (int i=0; i<probabilityForObservation.size(); i++) {
+  //     double prob = probabilityForObservation.get(i);
+  //     if (prob > maxProb) {
+  //       maxProb = prob;
+  //       maxProbIndex = i;
+  //     }
+  //   }
+  //   return (double) maxProbIndex + 1; // observation category is one plus the index  }
+  // }
 
-  public int isSampleInTopTenMAP() {
-    return 0;
-  }
+
 
   abstract public Double computeLogProbabilityForSampleAtValue(TestSample mySample, Integer observation);
 
-  abstract public double computeProbabilityForSampleMAP(SamplerState s);
+  abstract public double computeLogProbabilityForSampleAtValueMAP(SamplerState s, TestSample mySample, Integer observation);
+
 
 }

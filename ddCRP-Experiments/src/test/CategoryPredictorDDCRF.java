@@ -56,18 +56,16 @@ public class CategoryPredictorDDCRF extends CategoryPredictor {
   }
 
   @Override
-  public double computeProbabilityForSampleMAP(SamplerState s) {
+  public double computeLogProbabilityForSampleAtValueMAP(SamplerState s, TestSample mySample, Integer observation) {
     if (theta == null) {
       theta = new ThetaDDCRF(s, likelihood.getHyperParameters());
       theta.estimateThetas();
     }
 
-    int observation = sample.getObsCategory().intValue() - 1;
-
     double probability = 0.0;
 
-    int listIndex = sample.getListIndex();
-    int obsIndex = sample.getObsIndex();
+    int listIndex = mySample.getListIndex();
+    int obsIndex = mySample.getObsIndex();
 
     // Get the priors for the current sample
     ArrayList<CRSMatrix> distanceMatrices = Data.getDistanceMatrices();
@@ -131,7 +129,7 @@ public class CategoryPredictorDDCRF extends CategoryPredictor {
       }
     }
 
-    return probability;
+    return Math.log(probability);
   }
 
   @Override 

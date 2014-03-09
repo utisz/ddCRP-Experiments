@@ -56,13 +56,11 @@ public class CategoryPredictorDDCRP extends CategoryPredictor {
   }
 
   @Override
-  public double computeProbabilityForSampleMAP(SamplerState s) {
-    int observation = sample.getObsCategory().intValue() - 1;
-
+  public double computeLogProbabilityForSampleAtValueMAP(SamplerState s, TestSample mySample, Integer observation) {
     double probability = 0.0;
 
-    int listIndex = sample.getListIndex();
-    int obsIndex = sample.getObsIndex();
+    int listIndex = mySample.getListIndex();
+    int obsIndex = mySample.getObsIndex();
 
     // Get the priors for the current sample
     ArrayList<CRSMatrix> distanceMatrices = Data.getDistanceMatrices();
@@ -111,7 +109,7 @@ public class CategoryPredictorDDCRP extends CategoryPredictor {
       probability += dDCRPPrior * probObservation;  
     }
 
-    return probability;
+    return Math.log(probability);
   }
 
   @Override 
