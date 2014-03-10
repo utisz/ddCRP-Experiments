@@ -108,11 +108,11 @@ ln -s  `pwd`/run/$time_stamp `pwd`/run/LATEST
 #ln -s  run/$time_stamp run/LATEST
 
 
+javac -sourcepath src/ -d bin/ -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar" src/Driver.java
 for (( i=1; i<=$num_experiments; i++ ))
 do
 	mkdir -p $DIR_NAME/$i
 	echo "#######Starting to run $i trial###########"
-javac -sourcepath src/ -d bin/ -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar" src/Driver.java
 java -cp "lib/la4j-0.4.9/bin/la4j-0.4.9.jar:lib/jgrapht-0.8.3/jgrapht-jdk1.6.jar:lib/commons-math3-3.2/commons-math3-3.2.jar:bin" Driver $numIter $vocabSize $dir_param $self_link_prob $crp_self_link_prob $sample $num_samples $DIR_NAME/$i/ $num_iter_ddcrf
 	echo "###### Finished running $i trials ########" 
 done
