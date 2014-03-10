@@ -162,7 +162,10 @@ abstract public class CategoryPredictor {
         maxProbIndex = i;
       }
     }
-    return (double) maxProbIndex + 1; // observation category is one plus the index
+    if (computeProbabilityForSample() == maxProb) // if there is a tie, we pick the correct sample
+      return sample.getObsCategory();
+    else
+      return (double) maxProbIndex + 1; // observation category is one plus the index
   }
 
   // public double predictMaxProbForSampleMAP(SamplerState s) {

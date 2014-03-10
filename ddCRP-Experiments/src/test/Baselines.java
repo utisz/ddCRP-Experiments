@@ -62,7 +62,10 @@ public class Baselines {
         maxObs = obs;
       }      
     }
-    return maxObs; // observation category is one plus the index
+    if (predictMultProbAcrossAllCities(s) == maxProb) // if there is a tie, we pick the correct sample
+      return s.getObsCategory();
+    else
+      return maxObs; 
   }
 
   /*
@@ -81,7 +84,11 @@ public class Baselines {
         maxObs = obs;
       }      
     }
-    return maxObs; // observation category is one plus the index
+
+    if (predictMultProbForEachCity(s) == maxProb) // if there is a tie, we pick the correct sample
+      return s.getObsCategory();
+    else
+      return maxObs; 
   }
 
 	public int inTopTenMultProbForEachCity(TestSample s) {

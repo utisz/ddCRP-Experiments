@@ -122,7 +122,10 @@ public class LocationPredictorDDCRF extends CategoryPredictorDDCRF implements Lo
         maxProbSample = s;
       }
     }
-    return maxProbSample.getObsIndex(); 
+    if (computeLocationProbabilityForSample() == maxProb) // if there is a tie, we pick the correct sample
+      return sample.getObsIndex();
+    else
+      return maxProbSample.getObsIndex(); 
   }
 
   // public int  predictMaxProbForLocationsMAP(SamplerState s) {
