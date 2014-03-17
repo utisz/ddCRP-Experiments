@@ -318,6 +318,52 @@ public class Util {
 		
 	}
 
+	public static void outputCSVforMapDDCRPNew(SamplerState s)
+	{		
+		//read the city_venue files for all cities
+		ArrayList<ArrayList<Venue>> allVenues = getVenues();
+		ArrayList<ArrayList<Double>> allObservations = Data.getObservations(); // all observations
+		
+		ArrayList<String> venueCategories = getVenueCategories();
+
+		ArrayList<HashSet<HashSet<Integer>>>tableSeatingSetList = s.getTableSeatingsSet();
+		PrintStream p = null;
+		try {
+			 p = new PrintStream(clustersOutCSVPath);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		for(int i=0;i<tableSeatingSetList.size();i++)
+		{
+			int cityId = i; //Question : cityId starts from 0 right?
+			HashSet<HashSet<Integer>> tableSeatingSet = tableSeatingSetList.get(i);
+			Iterator<HashSet<Integer>> tableIterator =  tableSeatingSet.iterator();
+			int tableIdCounter = 0;
+			while(tableIterator.hasNext()) //over tables of a city
+			{
+				HashSet<Integer> table = tableIterator.next();
+				ArrayList<Double> allObservationsInCity = allObservations.get(cityId);
+				Iterator<Integer> venueIter = table.iterator();
+				while(venueIter.hasNext()) //over venues at a table of a city
+				{
+					Integer venueId = venueIter.next();
+					if(venueId!=null)
+					{
+						Venue v = allVenues.get(cityId).get(venueId);
+						v.setTableId(tableIdCounter); //this is not the actual table_id, but for mapping purposes, the same number should be ok.
+						v.setTopicId(0);
+						Double obs = allObservationsInCity.get(venueId);
+						v.setVenueCategoryId(obs.intValue());
+						v.setVenueCategory(venueCategories.get(obs.intValue()-1));							
+						v.printVenueConfig(p);
+					}
+				}
+				tableIdCounter++;
+			}
+		}
+		p.close();
+	}
 
 
 
