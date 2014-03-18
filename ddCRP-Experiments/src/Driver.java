@@ -220,7 +220,8 @@ public class Driver {
 		System.out.println("----------------------");		
 		sMAP.prettyPrint(System.out);
 		
-		//Util.setOutputDirectory(outputDir+"/DDCRP_MAP/");
+		Util.setOutputDirectory(outputDir+"/DDCRP_mapping/");
+		Util.outputCSVforMapDDCRP(sMAP);
 		//Util.outputCSVforMap(sMAP);
 	
 	  // store the values of the SamplerState densities for future use
